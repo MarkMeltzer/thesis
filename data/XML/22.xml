@@ -1,0 +1,2472 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TED_EXPORT xmlns:xlink="http://www.w3.org/1999/xlink"
+            xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+            xmlns="ted/R2.0.9.S02/publication"
+            xmlns:n2016="ted/2016/nuts"
+            xsi:schemaLocation="ted/R2.0.9.S02/publication TED_EXPORT.xsd"
+            VERSION="R2.0.9.S02.E01"
+            DOC_ID="281152-2018"
+            EDITION="2018124">
+   <TECHNICAL_SECTION>
+      <RECEPTION_ID>18-281206-001</RECEPTION_ID>
+      <DELETION_DATE>20181003</DELETION_DATE>
+      <FORM_LG_LIST>DA DE EN ES FI FR EL IT NL PT SV CS ET HU LT LV MT PL SK SL GA BG RO HR </FORM_LG_LIST>
+      <COMMENTS>From Convertor</COMMENTS>
+   </TECHNICAL_SECTION>
+   <LINKS_SECTION>
+      <XML_SCHEMA_DEFINITION_LINK xlink:type="simple"
+                                  xlink:href="http://ted.europa.eu"
+                                  xlink:title="TED WEBSITE"/>
+      <OFFICIAL_FORMS_LINK xlink:type="simple" xlink:href="http://ted.europa.eu"/>
+      <FORMS_LABELS_LINK xlink:type="simple" xlink:href="http://ted.europa.eu"/>
+      <ORIGINAL_CPV_LINK xlink:type="simple" xlink:href="http://ted.europa.eu"/>
+      <ORIGINAL_NUTS_LINK xlink:type="simple" xlink:href="http://ted.europa.eu"/>
+   </LINKS_SECTION>
+   <CODED_DATA_SECTION>
+      <REF_OJS>
+         <COLL_OJ>S</COLL_OJ>
+         <NO_OJ>124</NO_OJ>
+         <DATE_PUB>20180630</DATE_PUB>
+      </REF_OJS>
+      <NOTICE_DATA>
+         <NO_DOC_OJS>2018/S 124-281152</NO_DOC_OJS>
+         <URI_LIST>
+            <URI_DOC LG="DA">http://ted.europa.eu/udl?uri=TED:NOTICE:281152-2018:TEXT:DA:HTML</URI_DOC>
+            <URI_DOC LG="DE">http://ted.europa.eu/udl?uri=TED:NOTICE:281152-2018:TEXT:DE:HTML</URI_DOC>
+            <URI_DOC LG="EN">http://ted.europa.eu/udl?uri=TED:NOTICE:281152-2018:TEXT:EN:HTML</URI_DOC>
+            <URI_DOC LG="ES">http://ted.europa.eu/udl?uri=TED:NOTICE:281152-2018:TEXT:ES:HTML</URI_DOC>
+            <URI_DOC LG="FI">http://ted.europa.eu/udl?uri=TED:NOTICE:281152-2018:TEXT:FI:HTML</URI_DOC>
+            <URI_DOC LG="FR">http://ted.europa.eu/udl?uri=TED:NOTICE:281152-2018:TEXT:FR:HTML</URI_DOC>
+            <URI_DOC LG="EL">http://ted.europa.eu/udl?uri=TED:NOTICE:281152-2018:TEXT:EL:HTML</URI_DOC>
+            <URI_DOC LG="IT">http://ted.europa.eu/udl?uri=TED:NOTICE:281152-2018:TEXT:IT:HTML</URI_DOC>
+            <URI_DOC LG="NL">http://ted.europa.eu/udl?uri=TED:NOTICE:281152-2018:TEXT:NL:HTML</URI_DOC>
+            <URI_DOC LG="PT">http://ted.europa.eu/udl?uri=TED:NOTICE:281152-2018:TEXT:PT:HTML</URI_DOC>
+            <URI_DOC LG="SV">http://ted.europa.eu/udl?uri=TED:NOTICE:281152-2018:TEXT:SV:HTML</URI_DOC>
+            <URI_DOC LG="CS">http://ted.europa.eu/udl?uri=TED:NOTICE:281152-2018:TEXT:CS:HTML</URI_DOC>
+            <URI_DOC LG="ET">http://ted.europa.eu/udl?uri=TED:NOTICE:281152-2018:TEXT:ET:HTML</URI_DOC>
+            <URI_DOC LG="HU">http://ted.europa.eu/udl?uri=TED:NOTICE:281152-2018:TEXT:HU:HTML</URI_DOC>
+            <URI_DOC LG="LT">http://ted.europa.eu/udl?uri=TED:NOTICE:281152-2018:TEXT:LT:HTML</URI_DOC>
+            <URI_DOC LG="LV">http://ted.europa.eu/udl?uri=TED:NOTICE:281152-2018:TEXT:LV:HTML</URI_DOC>
+            <URI_DOC LG="MT">http://ted.europa.eu/udl?uri=TED:NOTICE:281152-2018:TEXT:MT:HTML</URI_DOC>
+            <URI_DOC LG="PL">http://ted.europa.eu/udl?uri=TED:NOTICE:281152-2018:TEXT:PL:HTML</URI_DOC>
+            <URI_DOC LG="SK">http://ted.europa.eu/udl?uri=TED:NOTICE:281152-2018:TEXT:SK:HTML</URI_DOC>
+            <URI_DOC LG="SL">http://ted.europa.eu/udl?uri=TED:NOTICE:281152-2018:TEXT:SL:HTML</URI_DOC>
+            <URI_DOC LG="GA">http://ted.europa.eu/udl?uri=TED:NOTICE:281152-2018:TEXT:GA:HTML</URI_DOC>
+            <URI_DOC LG="BG">http://ted.europa.eu/udl?uri=TED:NOTICE:281152-2018:TEXT:BG:HTML</URI_DOC>
+            <URI_DOC LG="RO">http://ted.europa.eu/udl?uri=TED:NOTICE:281152-2018:TEXT:RO:HTML</URI_DOC>
+            <URI_DOC LG="HR">http://ted.europa.eu/udl?uri=TED:NOTICE:281152-2018:TEXT:HR:HTML</URI_DOC>
+         </URI_LIST>
+         <LG_ORIG>EN</LG_ORIG>
+         <ISO_COUNTRY VALUE="PL"/>
+         <IA_URL_GENERAL>http://www.frontex.europa.eu</IA_URL_GENERAL>
+         <ORIGINAL_CPV CODE="35120000">Surveillance and security systems and devices</ORIGINAL_CPV>
+         <n2016:PERFORMANCE_NUTS CODE="PL911">Miasto Warszawa</n2016:PERFORMANCE_NUTS>
+         <n2016:CA_CE_NUTS CODE="PL911">Miasto Warszawa</n2016:CA_CE_NUTS>
+         <n2016:TENDERER_NUTS CODE="BG">БЪЛГАРИЯ</n2016:TENDERER_NUTS>
+         <VALUES>
+            <VALUE TYPE="PROCUREMENT_TOTAL" CURRENCY="EUR">250000.00</VALUE>
+         </VALUES>
+         <REF_NOTICE>
+            <NO_DOC_OJS>2018/S 038-081972</NO_DOC_OJS>
+         </REF_NOTICE>
+      </NOTICE_DATA>
+      <CODIF_DATA>
+         <DS_DATE_DISPATCH>20180625</DS_DATE_DISPATCH>
+         <AA_AUTHORITY_TYPE CODE="5">European Institution/Agency or International Organisation</AA_AUTHORITY_TYPE>
+         <TD_DOCUMENT_TYPE CODE="7">Contract award notice</TD_DOCUMENT_TYPE>
+         <NC_CONTRACT_NATURE CODE="2">Supplies</NC_CONTRACT_NATURE>
+         <PR_PROC CODE="1">Open procedure</PR_PROC>
+         <RP_REGULATION CODE="3">European Institution/Agency or International Organisation</RP_REGULATION>
+         <TY_TYPE_BID CODE="9">Not applicable</TY_TYPE_BID>
+         <AC_AWARD_CRIT CODE="1">Lowest price</AC_AWARD_CRIT>
+         <MA_MAIN_ACTIVITIES CODE="S">General public services</MA_MAIN_ACTIVITIES>
+         <HEADING>AGB03</HEADING>
+         <INITIATOR>AG</INITIATOR>
+         <DIRECTIVE VALUE="2014/24/EU"/>
+      </CODIF_DATA>
+   </CODED_DATA_SECTION>
+   <TRANSLATION_SECTION>
+      <ML_TITLES>
+         <ML_TI_DOC LG="DA">
+            <TI_CY>Polen</TI_CY>
+            <TI_TOWN>Warszawa</TI_TOWN>
+            <TI_TEXT>
+               <P>Rammeaftale vedrørende levering af håndholdte kuldioxid-detektorer</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="DE">
+            <TI_CY>Polen</TI_CY>
+            <TI_TOWN>Warschau</TI_TOWN>
+            <TI_TEXT>
+               <P>Rahmenvertrag für die Lieferung von tragbaren Kohlendioxidsensoren</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="EN">
+            <TI_CY>Poland</TI_CY>
+            <TI_TOWN>Warsaw</TI_TOWN>
+            <TI_TEXT>
+               <P>Framework contract for the supply of handheld carbon dioxide detectors</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="ES">
+            <TI_CY>Polonia</TI_CY>
+            <TI_TOWN>Varsovia</TI_TOWN>
+            <TI_TEXT>
+               <P>Contrato marco para el suministro de detectores de dióxido de carbono portátiles</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="FI">
+            <TI_CY>Puola</TI_CY>
+            <TI_TOWN>Varsova</TI_TOWN>
+            <TI_TEXT>
+               <P>Puitesopimus kädessä pidettävien hiilidioksiditunnistimien toimittamisesta</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="FR">
+            <TI_CY>Pologne</TI_CY>
+            <TI_TOWN>Varsovie</TI_TOWN>
+            <TI_TEXT>
+               <P>Contrat-cadre de fourniture de détecteurs portables de dioxyde de carbone</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="EL">
+            <TI_CY>Πολωνία</TI_CY>
+            <TI_TOWN>Βαρσοβία</TI_TOWN>
+            <TI_TEXT>
+               <P>Σύμβαση-πλαίσιο για την προμήθεια φορητών ανιχνευτών διοξειδίου του άνθρακα</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="IT">
+            <TI_CY>Polonia</TI_CY>
+            <TI_TOWN>Varsavia</TI_TOWN>
+            <TI_TEXT>
+               <P>Contratto quadro per la fornitura di rivelatori di anidride carbonica portatili</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="NL">
+            <TI_CY>Polen</TI_CY>
+            <TI_TOWN>Warschau</TI_TOWN>
+            <TI_TEXT>
+               <P>Raamovereenkomst voor de levering van draagbare koolstofdioxidedetectoren (CO2-detectoren)</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="PT">
+            <TI_CY>Polónia</TI_CY>
+            <TI_TOWN>Varsóvia</TI_TOWN>
+            <TI_TEXT>
+               <P>Contrato-quadro relativo ao fornecimento de detetores de dióxido de carbono portáteis</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="SV">
+            <TI_CY>Polen</TI_CY>
+            <TI_TOWN>Warszawa</TI_TOWN>
+            <TI_TEXT>
+               <P>Ramavtal för tillhandahållande av handhållna koldioxiddetektorer</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="CS">
+            <TI_CY>Polsko</TI_CY>
+            <TI_TOWN>Varšava</TI_TOWN>
+            <TI_TEXT>
+               <P>Rámcová smlouva na dodávku ručních detektorů oxidu uhličitého</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="ET">
+            <TI_CY>Poola</TI_CY>
+            <TI_TOWN>Varssavi</TI_TOWN>
+            <TI_TEXT>
+               <P>süsinikdioksiidi pihudetektorite tarne raamleping</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="HU">
+            <TI_CY>Lengyelország</TI_CY>
+            <TI_TOWN>Varsó</TI_TOWN>
+            <TI_TEXT>
+               <P>Kézi szén-dioxid-detektorok (CO2-detektorok) beszerzésére irányuló keretszerződés</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="LT">
+            <TI_CY>Lenkija</TI_CY>
+            <TI_TOWN>Varšuva</TI_TOWN>
+            <TI_TEXT>
+               <P>Preliminarioji sutartis dėl nešiojamųjų anglies dioksido detektorių tiekimo</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="LV">
+            <TI_CY>Polija</TI_CY>
+            <TI_TOWN>Varšava</TI_TOWN>
+            <TI_TEXT>
+               <P>Pamatnolīgums par rokas oglekļa dioksīda detektoru piegādi</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="MT">
+            <TI_CY>il-Polonja</TI_CY>
+            <TI_TOWN>Varsavja</TI_TOWN>
+            <TI_TEXT>
+               <P>Qafas ta' kuntratt għall-provvista ta' ditekters tad-dijossidu tal-karbonju li jinżammu fl-idejn</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="PL">
+            <TI_CY>Polska</TI_CY>
+            <TI_TOWN>Warszawa</TI_TOWN>
+            <TI_TEXT>
+               <P>Umowa ramowa o dostawę ręcznych wykrywaczy dwutlenku węgla</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="SK">
+            <TI_CY>Poľsko</TI_CY>
+            <TI_TOWN>Varšava</TI_TOWN>
+            <TI_TEXT>
+               <P>Rámcová zmluva na dodávku ručných detektorov oxidu uhličitého</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="SL">
+            <TI_CY>Poljska</TI_CY>
+            <TI_TOWN>Varšava</TI_TOWN>
+            <TI_TEXT>
+               <P>Okvirno naročilo za dobavo ročnih detektorjev ogljikovega dioksida</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="GA">
+            <TI_CY>Pholainn, an</TI_CY>
+            <TI_TOWN>Vársá</TI_TOWN>
+            <TI_TEXT>
+               <P>Creatchonradh maidir le brathadóirí dé-ocsaíde carbóin láimhe a sholáthar</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="BG">
+            <TI_CY>Полша</TI_CY>
+            <TI_TOWN>Варшава</TI_TOWN>
+            <TI_TEXT>
+               <P>Рамков договор за доставка на ръчни детектори за въглероден диоксид</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="RO">
+            <TI_CY>Polonia</TI_CY>
+            <TI_TOWN>Varşovia</TI_TOWN>
+            <TI_TEXT>
+               <P>Contract-cadru pentru furnizarea de detectoare portabile de dioxid de carbon</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="HR">
+            <TI_CY>Poljska</TI_CY>
+            <TI_TOWN>Varšava</TI_TOWN>
+            <TI_TEXT>
+               <P>Okvirni ugovor za nabavu ručnih detektora ugljikovog dioksida</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+      </ML_TITLES>
+      <ML_AA_NAMES>
+         <AA_NAME LG="DA">Det Europæiske Agentur for Grænse- og Kystbevogtning — Frontex</AA_NAME>
+         <AA_NAME LG="DE">Europäische Agentur für die Grenz- und Küstenwache — Frontex</AA_NAME>
+         <AA_NAME LG="EN">European Border and Coast Guard Agency — Frontex</AA_NAME>
+         <AA_NAME LG="ES">Agencia Europea de la Guardia de Fronteras y Costas (Frontex)</AA_NAME>
+         <AA_NAME LG="FI">Euroopan raja- ja merivartiovirasto – Frontex</AA_NAME>
+         <AA_NAME LG="FR">Agence européenne de garde-frontières et de garde-côtes (Frontex)</AA_NAME>
+         <AA_NAME LG="EL">Ευρωπαϊκός Οργανισμός Συνοριοφυλακής και Ακτοφυλακής — Frontex</AA_NAME>
+         <AA_NAME LG="IT">Agenzia europea della guardia di frontiera e costiera — Frontex</AA_NAME>
+         <AA_NAME LG="NL">Europees Grens- en kustwachtagentschap — Frontex</AA_NAME>
+         <AA_NAME LG="PT">Agência Europeia da Guarda de Fronteiras e Costeira — Frontex</AA_NAME>
+         <AA_NAME LG="SV">Europeiska gräns- och kustbevakningsbyrån – Frontex</AA_NAME>
+         <AA_NAME LG="CS">Evropská agentura pro pohraniční a pobřežní stráž – Frontex</AA_NAME>
+         <AA_NAME LG="ET">Euroopa Piiri- ja Rannikuvalve Amet (Frontex)</AA_NAME>
+         <AA_NAME LG="HU">Európai Határ- és Partvédelmi Ügynökség — Frontex</AA_NAME>
+         <AA_NAME LG="LT">Europos sienų ir pakrančių apsaugos agentūra „Frontex“</AA_NAME>
+         <AA_NAME LG="LV">Eiropas Robežu un krasta apsardzes aģentūra – Frontex</AA_NAME>
+         <AA_NAME LG="MT">L-Aġenzija Ewropea għall-Gwardja tal-Fruntiera u tal-Kosta — Frontex</AA_NAME>
+         <AA_NAME LG="PL">Europejska Agencja Straży Granicznej i Przybrzeżnej — Frontex</AA_NAME>
+         <AA_NAME LG="SK">Európska agentúra pre pohraničnú a pobrežnú stráž – Frontex</AA_NAME>
+         <AA_NAME LG="SL">Evropska agencija za mejno in obalno stražo – Frontex</AA_NAME>
+         <AA_NAME LG="GA">An Ghníomhaireacht Eorpach um an nGarda Teorann agus Cósta — Frontex</AA_NAME>
+         <AA_NAME LG="BG">Европейска агенция за гранична и брегова охрана — Frontex</AA_NAME>
+         <AA_NAME LG="RO">Agenția Europeană pentru Poliția de Frontieră și Garda de Coastă — Frontex</AA_NAME>
+         <AA_NAME LG="HR">Agencija za europsku graničnu i obalnu stražu — Frontex</AA_NAME>
+      </ML_AA_NAMES>
+   </TRANSLATION_SECTION>
+   <FORM_SECTION>
+      <F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="DA">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Det Europæiske Agentur for Grænse- og Kystbevogtning — Frontex</OFFICIALNAME>
+               <ADDRESS>Plac Europejski 6</ADDRESS>
+               <TOWN>Warsaw</TOWN>
+               <POSTAL_CODE>00-844</POSTAL_CODE>
+               <COUNTRY VALUE="PL"/>
+               <CONTACT_POINT>Frontex Procurement Team</CONTACT_POINT>
+               <PHONE>+48 222059500</PHONE>
+               <E_MAIL>procurement@frontex.europa.eu</E_MAIL>
+               <FAX>+48 222059501</FAX>
+               <n2016:NUTS CODE="PL911"/>
+               <URL_GENERAL>http://www.frontex.europa.eu</URL_GENERAL>
+            </ADDRESS_CONTRACTING_BODY>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Rammeaftale vedrørende levering af håndholdte kuldioxid-detektorer</P>
+            </TITLE>
+            <REFERENCE_NUMBER>Frontex/OP/50/2018/AH</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="35120000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SUPPLIES"/>
+            <SHORT_DESCR>
+               <P>Dette udbud omfatter etableringen af rammeaftalen, som skal levere håndholdte kuldioxid-detektorer til grænsebevogtning.</P>
+            </SHORT_DESCR>
+            <VAL_TOTAL CURRENCY="EUR">250000.00</VAL_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <n2016:NUTS CODE="PL911"/>
+               <MAIN_SITE>
+                  <P>Frontex' lokaler, Warszawa, Polen.</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>Dette udbud omfatter etableringen af rammeaftalen, som skal levere håndholdte kuldioxid-detektorer.</P>
+                  <P>Kuldioxid-detektorer (CO<FT TYPE="SUB">2</FT>) skal anvendes til måling af den eksisterende CO<FT TYPE="SUB">2</FT>-koncentration i et lukket system til detektionen af mennesker, der gemmer sig i lukkede rum såsom påhængskøretøjer, lokaler og køretøjer (overvågning af CO<FT TYPE="SUB">2</FT>-koncentrationen i menneskelig udåndingsluft).</P>
+               </SHORT_DESCR>
+               <AC_PRICE/>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <NO_CONTRACT_COVERED_GPA/>
+            <NOTICE_NUMBER_OJ>2018/S 038-081972</NOTICE_NUMBER_OJ>
+         </PROCEDURE>
+         <AWARD_CONTRACT ITEM="1">
+            <CONTRACT_NO>Frontex/OP/50/2018/AH</CONTRACT_NO>
+            <TITLE>
+               <P>Rammeaftale vedrørende levering af kuldioxid-detektorer</P>
+            </TITLE>
+            <AWARDED_CONTRACT>
+               <DATE_CONCLUSION_CONTRACT>2018-06-21</DATE_CONCLUSION_CONTRACT>
+               <NB_TENDERS_RECEIVED>2</NB_TENDERS_RECEIVED>
+               <NO_AWARDED_TO_GROUP/>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>Opticoelectron Group JSCo</OFFICIALNAME>
+                     <TOWN>Panagyurishte</TOWN>
+                     <COUNTRY VALUE="BG"/>
+                     <n2016:NUTS CODE="BG"/>
+                  </ADDRESS_CONTRACTOR>
+                  <NO_SME/>
+               </CONTRACTOR>
+               <VAL_ESTIMATED_TOTAL CURRENCY="EUR">250000.00</VAL_ESTIMATED_TOTAL>
+               <VAL_TOTAL CURRENCY="EUR">250000.00</VAL_TOTAL>
+            </AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <COMPLEMENTARY_INFO>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Retten</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <E_MAIL>cfi.registry@curia.europa.eu</E_MAIL>
+               <FAX>+352 4303-2100</FAX>
+               <URL>http://www.curia.europa.eu</URL>
+            </ADDRESS_REVIEW_BODY>
+            <REVIEW_PROCEDURE>
+               <P>Senest 2 måneder efter meddelelse til klageren eller, i mangel heraf, efter den dag, sagen er taget til efterretning.</P>
+            </REVIEW_PROCEDURE>
+            <DATE_DISPATCH_NOTICE>2018-06-25</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F03_2014>
+      <F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="DE">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Europäische Agentur für die Grenz- und Küstenwache — Frontex</OFFICIALNAME>
+               <ADDRESS>Plac Europejski 6</ADDRESS>
+               <TOWN>Warsaw</TOWN>
+               <POSTAL_CODE>00-844</POSTAL_CODE>
+               <COUNTRY VALUE="PL"/>
+               <CONTACT_POINT>Frontex Procurement Team</CONTACT_POINT>
+               <PHONE>+48 222059500</PHONE>
+               <E_MAIL>procurement@frontex.europa.eu</E_MAIL>
+               <FAX>+48 222059501</FAX>
+               <n2016:NUTS CODE="PL911"/>
+               <URL_GENERAL>http://www.frontex.europa.eu</URL_GENERAL>
+            </ADDRESS_CONTRACTING_BODY>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Rahmenvertrag für die Lieferung von tragbaren Kohlendioxidsensoren</P>
+            </TITLE>
+            <REFERENCE_NUMBER>Frontex/OP/50/2018/AH</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="35120000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SUPPLIES"/>
+            <SHORT_DESCR>
+               <P>Das Thema dieses Angebots ist ein Rahmenvertrag für die Lieferung von tragbaren Kohlendioxidsensoren für den Grenzschutz.</P>
+            </SHORT_DESCR>
+            <VAL_TOTAL CURRENCY="EUR">250000.00</VAL_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <n2016:NUTS CODE="PL911"/>
+               <MAIN_SITE>
+                  <P>Räumlichkeiten von Frontex, Warschau, Polen</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>Gegenstand dieser Ausschreibung war der Abschluss des Rahmenvertrags für die Lieferung von tragbaren Kohlendioxidsensoren.</P>
+                  <P>Die Kohlendioxid(CO<FT TYPE="SUB">2</FT>)-Detektoren werden für die Messung der CO<FT TYPE="SUB">2</FT>-Konzentration in geschlossenen Räumen eingesetzt, damit Menschen entdeckt werden können, die sich in beengten Umgebungen wie Anhängern, Räumen und Fahrzeugen verstecken (indem gemessen wird, ob die CO<FT TYPE="SUB">2</FT>-Konzentration von menschlicher Atemluft vorhanden ist).</P>
+               </SHORT_DESCR>
+               <AC_PRICE/>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <NO_CONTRACT_COVERED_GPA/>
+            <NOTICE_NUMBER_OJ>2018/S 038-081972</NOTICE_NUMBER_OJ>
+         </PROCEDURE>
+         <AWARD_CONTRACT ITEM="1">
+            <CONTRACT_NO>Frontex/OP/50/2018/AH</CONTRACT_NO>
+            <TITLE>
+               <P>Rahmenvertrag für die Lieferung von Kohlendioxidsensoren</P>
+            </TITLE>
+            <AWARDED_CONTRACT>
+               <DATE_CONCLUSION_CONTRACT>2018-06-21</DATE_CONCLUSION_CONTRACT>
+               <NB_TENDERS_RECEIVED>2</NB_TENDERS_RECEIVED>
+               <NO_AWARDED_TO_GROUP/>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>Opticoelectron Group JSCo</OFFICIALNAME>
+                     <TOWN>Panagyurishte</TOWN>
+                     <COUNTRY VALUE="BG"/>
+                     <n2016:NUTS CODE="BG"/>
+                  </ADDRESS_CONTRACTOR>
+                  <NO_SME/>
+               </CONTRACTOR>
+               <VAL_ESTIMATED_TOTAL CURRENCY="EUR">250000.00</VAL_ESTIMATED_TOTAL>
+               <VAL_TOTAL CURRENCY="EUR">250000.00</VAL_TOTAL>
+            </AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <COMPLEMENTARY_INFO>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Gericht</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <E_MAIL>cfi.registry@curia.europa.eu</E_MAIL>
+               <FAX>+352 4303-2100</FAX>
+               <URL>http://www.curia.europa.eu</URL>
+            </ADDRESS_REVIEW_BODY>
+            <REVIEW_PROCEDURE>
+               <P>Binnen 2 Monaten ab Mitteilung an den Kläger oder, in Ermangelung dessen, ab dem Zeitpunkt der Kenntnisnahme.</P>
+            </REVIEW_PROCEDURE>
+            <DATE_DISPATCH_NOTICE>2018-06-25</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F03_2014>
+      <F03_2014 CATEGORY="ORIGINAL" FORM="F03" LG="EN">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>European Border and Coast Guard Agency — Frontex</OFFICIALNAME>
+               <ADDRESS>Plac Europejski 6</ADDRESS>
+               <TOWN>Warsaw</TOWN>
+               <POSTAL_CODE>00-844</POSTAL_CODE>
+               <COUNTRY VALUE="PL"/>
+               <CONTACT_POINT>Frontex Procurement Team</CONTACT_POINT>
+               <PHONE>+48 222059500</PHONE>
+               <E_MAIL>procurement@frontex.europa.eu</E_MAIL>
+               <FAX>+48 222059501</FAX>
+               <n2016:NUTS CODE="PL911"/>
+               <URL_GENERAL>http://www.frontex.europa.eu</URL_GENERAL>
+            </ADDRESS_CONTRACTING_BODY>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Framework contract for the supply of handheld carbon dioxide detectors</P>
+            </TITLE>
+            <REFERENCE_NUMBER>Frontex/OP/50/2018/AH</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="35120000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SUPPLIES"/>
+            <SHORT_DESCR>
+               <P>The subject of this tender is to establish the Framework contract for the supply of handheld carbon dioxide detectors for border guarding.</P>
+            </SHORT_DESCR>
+            <VAL_TOTAL CURRENCY="EUR">250000.00</VAL_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <n2016:NUTS CODE="PL911"/>
+               <MAIN_SITE>
+                  <P>Frontex premises, Warsaw, Poland</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>The subject of this tender was to establish the Framework contract for the supply of handheld carbon dioxide detectors.</P>
+                  <P>The Carbon dioxide (CO<FT TYPE="SUB">2</FT>) detectors shall be used for the measurement of the existing CO<FT TYPE="SUB">2</FT> concentration in a closed volume for the detection of people hiding in confined spaces such as trailers, rooms and vehicles (monitoring the CO<FT TYPE="SUB">2</FT> concentration of human exhaled air).</P>
+               </SHORT_DESCR>
+               <AC_PRICE/>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <NO_CONTRACT_COVERED_GPA/>
+            <NOTICE_NUMBER_OJ>2018/S 038-081972</NOTICE_NUMBER_OJ>
+         </PROCEDURE>
+         <AWARD_CONTRACT ITEM="1">
+            <CONTRACT_NO>Frontex/OP/50/2018/AH</CONTRACT_NO>
+            <TITLE>
+               <P>Framework contract for the supply of carbon dioxide detectors</P>
+            </TITLE>
+            <AWARDED_CONTRACT>
+               <DATE_CONCLUSION_CONTRACT>2018-06-21</DATE_CONCLUSION_CONTRACT>
+               <NB_TENDERS_RECEIVED>2</NB_TENDERS_RECEIVED>
+               <NO_AWARDED_TO_GROUP/>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>Opticoelectron Group JSCo</OFFICIALNAME>
+                     <TOWN>Panagyurishte</TOWN>
+                     <COUNTRY VALUE="BG"/>
+                     <n2016:NUTS CODE="BG"/>
+                  </ADDRESS_CONTRACTOR>
+                  <NO_SME/>
+               </CONTRACTOR>
+               <VAL_ESTIMATED_TOTAL CURRENCY="EUR">250000.00</VAL_ESTIMATED_TOTAL>
+               <VAL_TOTAL CURRENCY="EUR">250000.00</VAL_TOTAL>
+            </AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <COMPLEMENTARY_INFO>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>General Court</OFFICIALNAME>
+               <ADDRESS>rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <E_MAIL>cfi.registry@curia.europa.eu</E_MAIL>
+               <FAX>+352 4303-2100</FAX>
+               <URL>http://www.curia.europa.eu</URL>
+            </ADDRESS_REVIEW_BODY>
+            <REVIEW_PROCEDURE>
+               <P>Within 2 months of the notification to the plaintiff, or, in absence thereof, of the day on which it came to the knowledge.</P>
+            </REVIEW_PROCEDURE>
+            <DATE_DISPATCH_NOTICE>2018-06-25</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F03_2014>
+      <F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="ES">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Agencia Europea de la Guardia de Fronteras y Costas (Frontex)</OFFICIALNAME>
+               <ADDRESS>Plac Europejski 6</ADDRESS>
+               <TOWN>Warsaw</TOWN>
+               <POSTAL_CODE>00-844</POSTAL_CODE>
+               <COUNTRY VALUE="PL"/>
+               <CONTACT_POINT>Frontex Procurement Team</CONTACT_POINT>
+               <PHONE>+48 222059500</PHONE>
+               <E_MAIL>procurement@frontex.europa.eu</E_MAIL>
+               <FAX>+48 222059501</FAX>
+               <n2016:NUTS CODE="PL911"/>
+               <URL_GENERAL>http://www.frontex.europa.eu</URL_GENERAL>
+            </ADDRESS_CONTRACTING_BODY>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Contrato marco para el suministro de detectores de dióxido de carbono portátiles</P>
+            </TITLE>
+            <REFERENCE_NUMBER>Frontex/OP/50/2018/AH</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="35120000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SUPPLIES"/>
+            <SHORT_DESCR>
+               <P>El objeto de esta licitación es establecer el contrato marco para el suministro de detectores portátiles de dióxido de carbono para la vigilancia de fronteras.</P>
+            </SHORT_DESCR>
+            <VAL_TOTAL CURRENCY="EUR">250000.00</VAL_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <n2016:NUTS CODE="PL911"/>
+               <MAIN_SITE>
+                  <P>Las instalaciones de Frontex, Varsovia, Polonia</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>El objeto de esta licitación era establecer el contrato marco para el suministro de detectores de dióxido de carbono portátiles.</P>
+                  <P>Los detectores de dióxido de carbono (CO<FT TYPE="SUB">2</FT>) se utilizarán para medir la concentración de CO<FT TYPE="SUB">2</FT> existente en un espacio cerrado para detectar a las personas escondidas en espacios confinados tales como tráileres, habitaciones y vehículos (control de la concentración de CO<FT TYPE="SUB">2</FT> en el aire exhalado por humanos).</P>
+               </SHORT_DESCR>
+               <AC_PRICE/>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <NO_CONTRACT_COVERED_GPA/>
+            <NOTICE_NUMBER_OJ>2018/S 038-081972</NOTICE_NUMBER_OJ>
+         </PROCEDURE>
+         <AWARD_CONTRACT ITEM="1">
+            <CONTRACT_NO>Frontex/OP/50/2018/AH</CONTRACT_NO>
+            <TITLE>
+               <P>Contrato marco para el suministro de detectores de dióxido de carbono</P>
+            </TITLE>
+            <AWARDED_CONTRACT>
+               <DATE_CONCLUSION_CONTRACT>2018-06-21</DATE_CONCLUSION_CONTRACT>
+               <NB_TENDERS_RECEIVED>2</NB_TENDERS_RECEIVED>
+               <NO_AWARDED_TO_GROUP/>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>Opticoelectron Group JSCo</OFFICIALNAME>
+                     <TOWN>Panagyurishte</TOWN>
+                     <COUNTRY VALUE="BG"/>
+                     <n2016:NUTS CODE="BG"/>
+                  </ADDRESS_CONTRACTOR>
+                  <NO_SME/>
+               </CONTRACTOR>
+               <VAL_ESTIMATED_TOTAL CURRENCY="EUR">250000.00</VAL_ESTIMATED_TOTAL>
+               <VAL_TOTAL CURRENCY="EUR">250000.00</VAL_TOTAL>
+            </AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <COMPLEMENTARY_INFO>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Tribunal General</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <E_MAIL>cfi.registry@curia.europa.eu</E_MAIL>
+               <FAX>+352 4303-2100</FAX>
+               <URL>http://www.curia.europa.eu</URL>
+            </ADDRESS_REVIEW_BODY>
+            <REVIEW_PROCEDURE>
+               <P>En un plazo de 2 meses a partir de la notificación al recurrente o, en su defecto, del día en que este haya tenido conocimiento del acto en cuestión.</P>
+            </REVIEW_PROCEDURE>
+            <DATE_DISPATCH_NOTICE>2018-06-25</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F03_2014>
+      <F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="FI">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Euroopan raja- ja merivartiovirasto – Frontex</OFFICIALNAME>
+               <ADDRESS>Plac Europejski 6</ADDRESS>
+               <TOWN>Warsaw</TOWN>
+               <POSTAL_CODE>00-844</POSTAL_CODE>
+               <COUNTRY VALUE="PL"/>
+               <CONTACT_POINT>Frontex Procurement Team</CONTACT_POINT>
+               <PHONE>+48 222059500</PHONE>
+               <E_MAIL>procurement@frontex.europa.eu</E_MAIL>
+               <FAX>+48 222059501</FAX>
+               <n2016:NUTS CODE="PL911"/>
+               <URL_GENERAL>http://www.frontex.europa.eu</URL_GENERAL>
+            </ADDRESS_CONTRACTING_BODY>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Puitesopimus kädessä pidettävien hiilidioksiditunnistimien toimittamisesta</P>
+            </TITLE>
+            <REFERENCE_NUMBER>Frontex/OP/50/2018/AH</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="35120000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SUPPLIES"/>
+            <SHORT_DESCR>
+               <P>Tämän tarjousmenettelyn kohteena on puitesopimuksen tekeminen kädessä pidettävien hiilidioksiditunnistimien toimittamisesta rajavartiointia varten.</P>
+            </SHORT_DESCR>
+            <VAL_TOTAL CURRENCY="EUR">250000.00</VAL_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <n2016:NUTS CODE="PL911"/>
+               <MAIN_SITE>
+                  <P>Frontexin toimitilat, Varsova, Puola.</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>Tämän tarjousmenettelyn kohteena on puitesopimuksen tekeminen kädessä pidettävien hiilidioksiditunnistimien toimittamisesta.</P>
+                  <P>Hiilidioksiditunnistimia on käytettävä olemassa olevan hiilidioksidipitoisuuden mittaamiseen suljetussa tilavuudessa pienissä tiloissa (kuten perävaunut, huoneet ja ajoneuvot) piileskelevien ihmisten havaitsemista varten (ihmisten uloshengitysilman hiilidioksidipitoisuuden seuranta).</P>
+               </SHORT_DESCR>
+               <AC_PRICE/>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <NO_CONTRACT_COVERED_GPA/>
+            <NOTICE_NUMBER_OJ>2018/S 038-081972</NOTICE_NUMBER_OJ>
+         </PROCEDURE>
+         <AWARD_CONTRACT ITEM="1">
+            <CONTRACT_NO>Frontex/OP/50/2018/AH</CONTRACT_NO>
+            <TITLE>
+               <P>Puitesopimus kädessä pidettävien hiilidioksiditunnistimien toimittamisesta</P>
+            </TITLE>
+            <AWARDED_CONTRACT>
+               <DATE_CONCLUSION_CONTRACT>2018-06-21</DATE_CONCLUSION_CONTRACT>
+               <NB_TENDERS_RECEIVED>2</NB_TENDERS_RECEIVED>
+               <NO_AWARDED_TO_GROUP/>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>Opticoelectron Group</OFFICIALNAME>
+                     <TOWN>Panagyurishte</TOWN>
+                     <COUNTRY VALUE="BG"/>
+                     <n2016:NUTS CODE="BG"/>
+                  </ADDRESS_CONTRACTOR>
+                  <NO_SME/>
+               </CONTRACTOR>
+               <VAL_ESTIMATED_TOTAL CURRENCY="EUR">250000.00</VAL_ESTIMATED_TOTAL>
+               <VAL_TOTAL CURRENCY="EUR">250000.00</VAL_TOTAL>
+            </AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <COMPLEMENTARY_INFO>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Unionin yleinen tuomioistuin</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <E_MAIL>cfi.registry@curia.europa.eu</E_MAIL>
+               <FAX>+352 4303-2100</FAX>
+               <URL>http://www.curia.europa.eu</URL>
+            </ADDRESS_REVIEW_BODY>
+            <REVIEW_PROCEDURE>
+               <P>Muutosta on haettava 2 kuukauden kuluessa ilmoituksesta asianosaiselle tai, jos ilmoitus puuttuu, siitä päivästä, jona asia tuli hänen tietoonsa.</P>
+            </REVIEW_PROCEDURE>
+            <DATE_DISPATCH_NOTICE>2018-06-25</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F03_2014>
+      <F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="FR">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Agence européenne de garde-frontières et de garde-côtes (Frontex)</OFFICIALNAME>
+               <ADDRESS>Plac Europejski 6</ADDRESS>
+               <TOWN>Warsaw</TOWN>
+               <POSTAL_CODE>00-844</POSTAL_CODE>
+               <COUNTRY VALUE="PL"/>
+               <CONTACT_POINT>Frontex Procurement Team</CONTACT_POINT>
+               <PHONE>+48 222059500</PHONE>
+               <E_MAIL>procurement@frontex.europa.eu</E_MAIL>
+               <FAX>+48 222059501</FAX>
+               <n2016:NUTS CODE="PL911"/>
+               <URL_GENERAL>http://www.frontex.europa.eu</URL_GENERAL>
+            </ADDRESS_CONTRACTING_BODY>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Contrat-cadre de fourniture de détecteurs portables de dioxyde de carbone</P>
+            </TITLE>
+            <REFERENCE_NUMBER>Frontex/OP/50/2018/AH</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="35120000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SUPPLIES"/>
+            <SHORT_DESCR>
+               <P>L’objet de cet appel d’offres est d’établir un contrat-cadre pour la fourniture de détecteurs portables de dioxyde de carbone pour la surveillance des frontières.</P>
+            </SHORT_DESCR>
+            <VAL_TOTAL CURRENCY="EUR">250000.00</VAL_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <n2016:NUTS CODE="PL911"/>
+               <MAIN_SITE>
+                  <P>Locaux de Frontex, Varsovie, Pologne</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>L’objet de cet appel d’offres est d’établir un contrat-cadre pour la fourniture de détecteurs portables de dioxyde de carbone.</P>
+                  <P>Les détecteurs de dioxyde de carbone (CO<FT TYPE="SUB">2</FT>) doivent être utilisés pour mesurer la concentration de CO<FT TYPE="SUB">2</FT> dans un volume fermé afin de détecter la présence de personnes cachées dans des espaces confinés tels que des remorques, des pièces ou des véhicules (contrôle de la concentration de CO<FT TYPE="SUB">2</FT> de l'air expiré par une personne).</P>
+               </SHORT_DESCR>
+               <AC_PRICE/>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <NO_CONTRACT_COVERED_GPA/>
+            <NOTICE_NUMBER_OJ>2018/S 038-081972</NOTICE_NUMBER_OJ>
+         </PROCEDURE>
+         <AWARD_CONTRACT ITEM="1">
+            <CONTRACT_NO>Frontex/OP/50/2018/AH</CONTRACT_NO>
+            <TITLE>
+               <P>Contrat-cadre de fourniture de détecteurs de dioxyde de carbone</P>
+            </TITLE>
+            <AWARDED_CONTRACT>
+               <DATE_CONCLUSION_CONTRACT>2018-06-21</DATE_CONCLUSION_CONTRACT>
+               <NB_TENDERS_RECEIVED>2</NB_TENDERS_RECEIVED>
+               <NO_AWARDED_TO_GROUP/>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>Opticoelectron Group JSCo</OFFICIALNAME>
+                     <TOWN>Panagyurishte</TOWN>
+                     <COUNTRY VALUE="BG"/>
+                     <n2016:NUTS CODE="BG"/>
+                  </ADDRESS_CONTRACTOR>
+                  <NO_SME/>
+               </CONTRACTOR>
+               <VAL_ESTIMATED_TOTAL CURRENCY="EUR">250000.00</VAL_ESTIMATED_TOTAL>
+               <VAL_TOTAL CURRENCY="EUR">250000.00</VAL_TOTAL>
+            </AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <COMPLEMENTARY_INFO>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Tribunal</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <E_MAIL>cfi.registry@curia.europa.eu</E_MAIL>
+               <FAX>+352 4303-2100</FAX>
+               <URL>http://www.curia.europa.eu</URL>
+            </ADDRESS_REVIEW_BODY>
+            <REVIEW_PROCEDURE>
+               <P>Dans les 2 mois à compter de la notification au requérant ou, à défaut, du jour où celui-ci en a eu connaissance.</P>
+            </REVIEW_PROCEDURE>
+            <DATE_DISPATCH_NOTICE>2018-06-25</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F03_2014>
+      <F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="EL">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Ευρωπαϊκός Οργανισμός Συνοριοφυλακής και Ακτοφυλακής — Frontex</OFFICIALNAME>
+               <ADDRESS>Plac Europejski 6</ADDRESS>
+               <TOWN>Warsaw</TOWN>
+               <POSTAL_CODE>00-844</POSTAL_CODE>
+               <COUNTRY VALUE="PL"/>
+               <CONTACT_POINT>Frontex Procurement Team</CONTACT_POINT>
+               <PHONE>+48 222059500</PHONE>
+               <E_MAIL>procurement@frontex.europa.eu</E_MAIL>
+               <FAX>+48 222059501</FAX>
+               <n2016:NUTS CODE="PL911"/>
+               <URL_GENERAL>http://www.frontex.europa.eu</URL_GENERAL>
+            </ADDRESS_CONTRACTING_BODY>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Σύμβαση-πλαίσιο για την προμήθεια φορητών ανιχνευτών διοξειδίου του άνθρακα</P>
+            </TITLE>
+            <REFERENCE_NUMBER>Frontex/OP/50/2018/AH</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="35120000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SUPPLIES"/>
+            <SHORT_DESCR>
+               <P>Το αντικείμενο του παρόντος διαγωνισμού είναι η σύναψη μιας σύμβασης-πλαίσιο για την προμήθεια φορητών ανιχνευτών διοξειδίου του άνθρακα για συνοριακή φύλαξη.</P>
+            </SHORT_DESCR>
+            <VAL_TOTAL CURRENCY="EUR">250000.00</VAL_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <n2016:NUTS CODE="PL911"/>
+               <MAIN_SITE>
+                  <P>Εγκαταστάσεις του Frontex, Βαρσοβία, Πολωνία.</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>Το αντικείμενο του παρόντος διαγωνισμού είναι η σύναψη μιας σύμβασης-πλαίσιο για την προμήθεια φορητών ανιχνευτών διοξειδίου του άνθρακα.</P>
+                  <P>Οι ανιχνευτές διοξειδίου του άνθρακα (CO<FT TYPE="SUB">2</FT>) θα πρέπει να χρησιμοποιούνται για τη μέτρηση της υπάρχουσας συγκέντρωσης CO<FT TYPE="SUB">2</FT> σε κλειστή χωρητικότητα για τον εντοπισμό ανθρώπων που κρύβονται σε περιορισμένους χώρους, όπως ρυμουλκούμενα οχήματα, δωμάτια και οχήματα (παρακολούθηση της συγκέντρωσης CO<FT TYPE="SUB">2</FT> του αέρα που εκπνέεται από άνθρωπο).</P>
+               </SHORT_DESCR>
+               <AC_PRICE/>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <NO_CONTRACT_COVERED_GPA/>
+            <NOTICE_NUMBER_OJ>2018/S 038-081972</NOTICE_NUMBER_OJ>
+         </PROCEDURE>
+         <AWARD_CONTRACT ITEM="1">
+            <CONTRACT_NO>Frontex/OP/50/2018/AH</CONTRACT_NO>
+            <TITLE>
+               <P>Σύμβαση-πλαίσιο για την προμήθεια ανιχνευτών διοξειδίου του άνθρακα</P>
+            </TITLE>
+            <AWARDED_CONTRACT>
+               <DATE_CONCLUSION_CONTRACT>2018-06-21</DATE_CONCLUSION_CONTRACT>
+               <NB_TENDERS_RECEIVED>2</NB_TENDERS_RECEIVED>
+               <NO_AWARDED_TO_GROUP/>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>Opticoelectron Group</OFFICIALNAME>
+                     <TOWN>Panagyurishte</TOWN>
+                     <COUNTRY VALUE="BG"/>
+                     <n2016:NUTS CODE="BG"/>
+                  </ADDRESS_CONTRACTOR>
+                  <NO_SME/>
+               </CONTRACTOR>
+               <VAL_ESTIMATED_TOTAL CURRENCY="EUR">250000.00</VAL_ESTIMATED_TOTAL>
+               <VAL_TOTAL CURRENCY="EUR">250000.00</VAL_TOTAL>
+            </AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <COMPLEMENTARY_INFO>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Γενικό Δικαστήριο</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <E_MAIL>cfi.registry@curia.europa.eu</E_MAIL>
+               <FAX>+352 4303-2100</FAX>
+               <URL>http://www.curia.europa.eu</URL>
+            </ADDRESS_REVIEW_BODY>
+            <REVIEW_PROCEDURE>
+               <P>Εντός 2 μηνών από την κοινοποίηση στον προσφεύγοντα ή, ελλείψει τέτοιας, από την ημέρα που ο ίδιος έλαβε γνώση.</P>
+            </REVIEW_PROCEDURE>
+            <DATE_DISPATCH_NOTICE>2018-06-25</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F03_2014>
+      <F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="IT">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Agenzia europea della guardia di frontiera e costiera — Frontex</OFFICIALNAME>
+               <ADDRESS>Plac Europejski 6</ADDRESS>
+               <TOWN>Warsaw</TOWN>
+               <POSTAL_CODE>00-844</POSTAL_CODE>
+               <COUNTRY VALUE="PL"/>
+               <CONTACT_POINT>Frontex Procurement Team</CONTACT_POINT>
+               <PHONE>+48 222059500</PHONE>
+               <E_MAIL>procurement@frontex.europa.eu</E_MAIL>
+               <FAX>+48 222059501</FAX>
+               <n2016:NUTS CODE="PL911"/>
+               <URL_GENERAL>http://www.frontex.europa.eu</URL_GENERAL>
+            </ADDRESS_CONTRACTING_BODY>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Contratto quadro per la fornitura di rivelatori di anidride carbonica portatili</P>
+            </TITLE>
+            <REFERENCE_NUMBER>Frontex/OP/50/2018/AH</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="35120000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SUPPLIES"/>
+            <SHORT_DESCR>
+               <P>L'oggetto della presente gara è la stipula di un contratto quadro per la fornitura di rivelatori di anidride carbonica portatili per la sorveglianza delle frontiere.</P>
+            </SHORT_DESCR>
+            <VAL_TOTAL CURRENCY="EUR">250000.00</VAL_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <n2016:NUTS CODE="PL911"/>
+               <MAIN_SITE>
+                  <P>Locali di Frontex, Varsavia, Polonia</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>L'oggetto della presente gara era la conclusione di un contratto quadro per la fornitura di rivelatori di anidride carbonica portatili.</P>
+                  <P>I rivelatori di anidride carbonica (CO<FT TYPE="SUB">2</FT>) dovranno essere utilizzati per la misurazione dell'attuale concentrazione di CO<FT TYPE="SUB">2</FT> in un volume chiuso per il rilevamento di persone che si nascondono in spazi circoscritti come rimorchi, locali e veicoli (monitoraggio della concentrazione di CO<FT TYPE="SUB">2</FT> dell'aria espirata).</P>
+               </SHORT_DESCR>
+               <AC_PRICE/>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <NO_CONTRACT_COVERED_GPA/>
+            <NOTICE_NUMBER_OJ>2018/S 038-081972</NOTICE_NUMBER_OJ>
+         </PROCEDURE>
+         <AWARD_CONTRACT ITEM="1">
+            <CONTRACT_NO>Frontex/OP/50/2018/AH</CONTRACT_NO>
+            <TITLE>
+               <P>Contratto quadro per la fornitura di rivelatori di anidride carbonica</P>
+            </TITLE>
+            <AWARDED_CONTRACT>
+               <DATE_CONCLUSION_CONTRACT>2018-06-21</DATE_CONCLUSION_CONTRACT>
+               <NB_TENDERS_RECEIVED>2</NB_TENDERS_RECEIVED>
+               <NO_AWARDED_TO_GROUP/>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>Opticoelectron Group JSCo</OFFICIALNAME>
+                     <TOWN>Panagyurishte</TOWN>
+                     <COUNTRY VALUE="BG"/>
+                     <n2016:NUTS CODE="BG"/>
+                  </ADDRESS_CONTRACTOR>
+                  <NO_SME/>
+               </CONTRACTOR>
+               <VAL_ESTIMATED_TOTAL CURRENCY="EUR">250000.00</VAL_ESTIMATED_TOTAL>
+               <VAL_TOTAL CURRENCY="EUR">250000.00</VAL_TOTAL>
+            </AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <COMPLEMENTARY_INFO>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Tribunale</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <E_MAIL>cfi.registry@curia.europa.eu</E_MAIL>
+               <FAX>+352 4303-2100</FAX>
+               <URL>http://www.curia.europa.eu</URL>
+            </ADDRESS_REVIEW_BODY>
+            <REVIEW_PROCEDURE>
+               <P>entro 2 mesi dalla notifica al ricorrente o, in assenza, dal giorno in cui ne è venuto a conoscenza.</P>
+            </REVIEW_PROCEDURE>
+            <DATE_DISPATCH_NOTICE>2018-06-25</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F03_2014>
+      <F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="NL">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Europees Grens- en kustwachtagentschap — Frontex</OFFICIALNAME>
+               <ADDRESS>Plac Europejski 6</ADDRESS>
+               <TOWN>Warsaw</TOWN>
+               <POSTAL_CODE>00-844</POSTAL_CODE>
+               <COUNTRY VALUE="PL"/>
+               <CONTACT_POINT>Frontex Procurement Team</CONTACT_POINT>
+               <PHONE>+48 222059500</PHONE>
+               <E_MAIL>procurement@frontex.europa.eu</E_MAIL>
+               <FAX>+48 222059501</FAX>
+               <n2016:NUTS CODE="PL911"/>
+               <URL_GENERAL>http://www.frontex.europa.eu</URL_GENERAL>
+            </ADDRESS_CONTRACTING_BODY>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Raamovereenkomst voor de levering van draagbare koolstofdioxidedetectoren (CO2-detectoren)</P>
+            </TITLE>
+            <REFERENCE_NUMBER>Frontex/OP/50/2018/AH</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="35120000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SUPPLIES"/>
+            <SHORT_DESCR>
+               <P>Het voorwerp van onderhavige aanbesteding is het sluiten van een raamovereenkomst voor de levering van draagbare koolstofdioxidedetectoren (CO2-detectoren) voor grensbewaking.</P>
+            </SHORT_DESCR>
+            <VAL_TOTAL CURRENCY="EUR">250000.00</VAL_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <n2016:NUTS CODE="PL911"/>
+               <MAIN_SITE>
+                  <P>kantoren van Frontex, Warschau, Polen.</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>Het voorwerp van onderhavige aanbesteding was het sluiten van een raamovereenkomst voor de levering van draagbare koolstofdioxidedetectoren (CO2-detectoren).</P>
+                  <P>De koolstofdioxidedetectoren (CO2-detectoren) moeten worden gebruikt voor het meten van de bestaande CO2-concentratie in een gesloten volume voor het opsporen van personen die zich schuilhouden in besloten ruimtes zoals trailers, kamers en voertuigen (monitoring van de CO2-concentratie van door mensen uitgeademde lucht).</P>
+               </SHORT_DESCR>
+               <AC_PRICE/>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <NO_CONTRACT_COVERED_GPA/>
+            <NOTICE_NUMBER_OJ>2018/S 038-081972</NOTICE_NUMBER_OJ>
+         </PROCEDURE>
+         <AWARD_CONTRACT ITEM="1">
+            <CONTRACT_NO>Frontex/OP/50/2018/AH</CONTRACT_NO>
+            <TITLE>
+               <P>Raamovereenkomst voor de levering van koolstofdioxidedetectoren (CO2-detectoren).</P>
+            </TITLE>
+            <AWARDED_CONTRACT>
+               <DATE_CONCLUSION_CONTRACT>2018-06-21</DATE_CONCLUSION_CONTRACT>
+               <NB_TENDERS_RECEIVED>2</NB_TENDERS_RECEIVED>
+               <NO_AWARDED_TO_GROUP/>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>Opticoelectron Group JSCo</OFFICIALNAME>
+                     <TOWN>Panagyurishte</TOWN>
+                     <COUNTRY VALUE="BG"/>
+                     <n2016:NUTS CODE="BG"/>
+                  </ADDRESS_CONTRACTOR>
+                  <NO_SME/>
+               </CONTRACTOR>
+               <VAL_ESTIMATED_TOTAL CURRENCY="EUR">250000.00</VAL_ESTIMATED_TOTAL>
+               <VAL_TOTAL CURRENCY="EUR">250000.00</VAL_TOTAL>
+            </AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <COMPLEMENTARY_INFO>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Gerecht</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <E_MAIL>cfi.registry@curia.europa.eu</E_MAIL>
+               <FAX>+352 4303-2100</FAX>
+               <URL>http://www.curia.europa.eu</URL>
+            </ADDRESS_REVIEW_BODY>
+            <REVIEW_PROCEDURE>
+               <P>binnen 2 maanden na de kennisgeving aan de klager of, bij ontbreken daarvan, binnen 2 maanden na de dag waarop het bekend werd.</P>
+            </REVIEW_PROCEDURE>
+            <DATE_DISPATCH_NOTICE>2018-06-25</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F03_2014>
+      <F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="PT">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Agência Europeia da Guarda de Fronteiras e Costeira — Frontex</OFFICIALNAME>
+               <ADDRESS>Plac Europejski 6</ADDRESS>
+               <TOWN>Warsaw</TOWN>
+               <POSTAL_CODE>00-844</POSTAL_CODE>
+               <COUNTRY VALUE="PL"/>
+               <CONTACT_POINT>Frontex Procurement Team</CONTACT_POINT>
+               <PHONE>+48 222059500</PHONE>
+               <E_MAIL>procurement@frontex.europa.eu</E_MAIL>
+               <FAX>+48 222059501</FAX>
+               <n2016:NUTS CODE="PL911"/>
+               <URL_GENERAL>http://www.frontex.europa.eu</URL_GENERAL>
+            </ADDRESS_CONTRACTING_BODY>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Contrato-quadro relativo ao fornecimento de detetores de dióxido de carbono portáteis</P>
+            </TITLE>
+            <REFERENCE_NUMBER>Frontex/OP/50/2018/AH</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="35120000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SUPPLIES"/>
+            <SHORT_DESCR>
+               <P>O objeto do presente concurso é o estabelecimento do contrato-quadro para o fornecimento de detetores de dióxido de carbono portáteis para proteção fronteiriça.</P>
+            </SHORT_DESCR>
+            <VAL_TOTAL CURRENCY="EUR">250000.00</VAL_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <n2016:NUTS CODE="PL911"/>
+               <MAIN_SITE>
+                  <P>Instalações da Frontex, Varsóvia, Polónia</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>O objeto do presente concurso é o estabelecimento do contrato-quadro para o fornecimento de detetores de dióxido de carbono portáteis.</P>
+                  <P>Os detetores de dióxido de carbono (CO<FT TYPE="SUB">2</FT>) devem ser utilizados para a medição da concentração de CO<FT TYPE="SUB">2</FT> existente num volume fechado para a deteção de pessoas escondidas em espaços confinados tais como reboques, salas e veículos (monitorização da concentração de CO<FT TYPE="SUB">2</FT> do ar exalado por humanos).</P>
+               </SHORT_DESCR>
+               <AC_PRICE/>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <NO_CONTRACT_COVERED_GPA/>
+            <NOTICE_NUMBER_OJ>2018/S 038-081972</NOTICE_NUMBER_OJ>
+         </PROCEDURE>
+         <AWARD_CONTRACT ITEM="1">
+            <CONTRACT_NO>Frontex/OP/50/2018/AH</CONTRACT_NO>
+            <TITLE>
+               <P>Contrato-quadro relativo ao fornecimento de detetores de dióxido de carbono portáteis</P>
+            </TITLE>
+            <AWARDED_CONTRACT>
+               <DATE_CONCLUSION_CONTRACT>2018-06-21</DATE_CONCLUSION_CONTRACT>
+               <NB_TENDERS_RECEIVED>2</NB_TENDERS_RECEIVED>
+               <NO_AWARDED_TO_GROUP/>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>Opticoelectron Group JSCo</OFFICIALNAME>
+                     <TOWN>Panagyurishte</TOWN>
+                     <COUNTRY VALUE="BG"/>
+                     <n2016:NUTS CODE="BG"/>
+                  </ADDRESS_CONTRACTOR>
+                  <NO_SME/>
+               </CONTRACTOR>
+               <VAL_ESTIMATED_TOTAL CURRENCY="EUR">250000.00</VAL_ESTIMATED_TOTAL>
+               <VAL_TOTAL CURRENCY="EUR">250000.00</VAL_TOTAL>
+            </AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <COMPLEMENTARY_INFO>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Tribunal Geral</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <E_MAIL>cfi.registry@curia.europa.eu</E_MAIL>
+               <FAX>+352 4303-2100</FAX>
+               <URL>http://www.curia.europa.eu</URL>
+            </ADDRESS_REVIEW_BODY>
+            <REVIEW_PROCEDURE>
+               <P>Num prazo de 2 meses a contar da data de notificação ao requerente ou, na sua falta, a contar do dia em que o requerente tenha tomado conhecimento do ato.</P>
+            </REVIEW_PROCEDURE>
+            <DATE_DISPATCH_NOTICE>2018-06-25</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F03_2014>
+      <F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="SV">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Europeiska gräns- och kustbevakningsbyrån – Frontex</OFFICIALNAME>
+               <ADDRESS>Plac Europejski 6</ADDRESS>
+               <TOWN>Warsaw</TOWN>
+               <POSTAL_CODE>00-844</POSTAL_CODE>
+               <COUNTRY VALUE="PL"/>
+               <CONTACT_POINT>Frontex Procurement Team</CONTACT_POINT>
+               <PHONE>+48 222059500</PHONE>
+               <E_MAIL>procurement@frontex.europa.eu</E_MAIL>
+               <FAX>+48 222059501</FAX>
+               <n2016:NUTS CODE="PL911"/>
+               <URL_GENERAL>http://www.frontex.europa.eu</URL_GENERAL>
+            </ADDRESS_CONTRACTING_BODY>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Ramavtal för tillhandahållande av handhållna koldioxiddetektorer</P>
+            </TITLE>
+            <REFERENCE_NUMBER>Frontex/OP/50/2018/AH</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="35120000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SUPPLIES"/>
+            <SHORT_DESCR>
+               <P>Syftet med den här upphandlingen är att upprätta ett ramavtal för tillhandahållande av handhållna koldioxiddetektorer för gränsbevakning.</P>
+            </SHORT_DESCR>
+            <VAL_TOTAL CURRENCY="EUR">250000.00</VAL_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <n2016:NUTS CODE="PL911"/>
+               <MAIN_SITE>
+                  <P>Frontex lokaler, Warszawa, Polen.</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>Syftet med den här upphandlingen var att upprätta ett ramavtal för tillhandahållande av handhållna koldioxiddetektorer.</P>
+                  <P>Koldioxiddetektorerna (CO<FT TYPE="SUB">2</FT>) ska användas för mätning av den befintliga koncentrationen av CO<FT TYPE="SUB">2</FT> inom en sluten volym för att upptäcka människor som gömmer sig i trånga utrymmen, såsom släpvagnar, rum och fordon (övervakning av koncentrationen av CO<FT TYPE="SUB">2</FT> i människors utandningsluft).</P>
+               </SHORT_DESCR>
+               <AC_PRICE/>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <NO_CONTRACT_COVERED_GPA/>
+            <NOTICE_NUMBER_OJ>2018/S 038-081972</NOTICE_NUMBER_OJ>
+         </PROCEDURE>
+         <AWARD_CONTRACT ITEM="1">
+            <CONTRACT_NO>Frontex/OP/50/2018/AH</CONTRACT_NO>
+            <TITLE>
+               <P>Ramavtal för tillhandahållande av koldioxiddetektorer</P>
+            </TITLE>
+            <AWARDED_CONTRACT>
+               <DATE_CONCLUSION_CONTRACT>2018-06-21</DATE_CONCLUSION_CONTRACT>
+               <NB_TENDERS_RECEIVED>2</NB_TENDERS_RECEIVED>
+               <NO_AWARDED_TO_GROUP/>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>Opticoelectron Group JSCo</OFFICIALNAME>
+                     <TOWN>Panagyurishte</TOWN>
+                     <COUNTRY VALUE="BG"/>
+                     <n2016:NUTS CODE="BG"/>
+                  </ADDRESS_CONTRACTOR>
+                  <NO_SME/>
+               </CONTRACTOR>
+               <VAL_ESTIMATED_TOTAL CURRENCY="EUR">250000.00</VAL_ESTIMATED_TOTAL>
+               <VAL_TOTAL CURRENCY="EUR">250000.00</VAL_TOTAL>
+            </AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <COMPLEMENTARY_INFO>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Tribunalen</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <E_MAIL>cfi.registry@curia.europa.eu</E_MAIL>
+               <FAX>+352 4303-2100</FAX>
+               <URL>http://www.curia.europa.eu</URL>
+            </ADDRESS_REVIEW_BODY>
+            <REVIEW_PROCEDURE>
+               <P>Inom 2 månader från den dag då meddelandet delgavs käranden eller, i avsaknad av det, från den dag då det blev känt.</P>
+            </REVIEW_PROCEDURE>
+            <DATE_DISPATCH_NOTICE>2018-06-25</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F03_2014>
+      <F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="CS">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Evropská agentura pro pohraniční a pobřežní stráž – Frontex</OFFICIALNAME>
+               <ADDRESS>Plac Europejski 6</ADDRESS>
+               <TOWN>Warsaw</TOWN>
+               <POSTAL_CODE>00-844</POSTAL_CODE>
+               <COUNTRY VALUE="PL"/>
+               <CONTACT_POINT>Frontex Procurement Team</CONTACT_POINT>
+               <PHONE>+48 222059500</PHONE>
+               <E_MAIL>procurement@frontex.europa.eu</E_MAIL>
+               <FAX>+48 222059501</FAX>
+               <n2016:NUTS CODE="PL911"/>
+               <URL_GENERAL>http://www.frontex.europa.eu</URL_GENERAL>
+            </ADDRESS_CONTRACTING_BODY>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Rámcová smlouva na dodávku ručních detektorů oxidu uhličitého</P>
+            </TITLE>
+            <REFERENCE_NUMBER>Frontex/OP/50/2018/AH</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="35120000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SUPPLIES"/>
+            <SHORT_DESCR>
+               <P>Předmětem tohoto nabídkového řízení je uzavřít rámcovou smlouvu na dodávku ručních detektorů oxidu uhličitého pro obranu hranic.</P>
+            </SHORT_DESCR>
+            <VAL_TOTAL CURRENCY="EUR">250000.00</VAL_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <n2016:NUTS CODE="PL911"/>
+               <MAIN_SITE>
+                  <P>Prostory Frontex, Varšava, Polsko</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>Předmětem tohoto nabídkového řízení bylo uzavřít rámcovou smlouvu na dodávku ručních detektorů oxidu uhličitého.</P>
+                  <P>Detektory oxidu uhličitého (CO<FT TYPE="SUB">2</FT>) se používají pro měření výskytu koncentrace CO<FT TYPE="SUB">2</FT> v uzavřeném objemu pro detekci osob skrývajících se v uzavřených prostorech, jako jsou přípojná vozidla, místnosti a vozidla (monitorování koncentrace CO<FT TYPE="SUB">2</FT> lidmi vydechovaného vzduchu).</P>
+               </SHORT_DESCR>
+               <AC_PRICE/>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <NO_CONTRACT_COVERED_GPA/>
+            <NOTICE_NUMBER_OJ>2018/S 038-081972</NOTICE_NUMBER_OJ>
+         </PROCEDURE>
+         <AWARD_CONTRACT ITEM="1">
+            <CONTRACT_NO>Frontex/OP/50/2018/AH</CONTRACT_NO>
+            <TITLE>
+               <P>Rámcová smlouva na dodávku ručních detektorů oxidu uhličitého</P>
+            </TITLE>
+            <AWARDED_CONTRACT>
+               <DATE_CONCLUSION_CONTRACT>2018-06-21</DATE_CONCLUSION_CONTRACT>
+               <NB_TENDERS_RECEIVED>2</NB_TENDERS_RECEIVED>
+               <NO_AWARDED_TO_GROUP/>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>Opticoelectron Group JSCo</OFFICIALNAME>
+                     <TOWN>Panagyurishte</TOWN>
+                     <COUNTRY VALUE="BG"/>
+                     <n2016:NUTS CODE="BG"/>
+                  </ADDRESS_CONTRACTOR>
+                  <NO_SME/>
+               </CONTRACTOR>
+               <VAL_ESTIMATED_TOTAL CURRENCY="EUR">250000.00</VAL_ESTIMATED_TOTAL>
+               <VAL_TOTAL CURRENCY="EUR">250000.00</VAL_TOTAL>
+            </AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <COMPLEMENTARY_INFO>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Tribunál</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <E_MAIL>cfi.registry@curia.europa.eu</E_MAIL>
+               <FAX>+352 4303-2100</FAX>
+               <URL>http://www.curia.europa.eu</URL>
+            </ADDRESS_REVIEW_BODY>
+            <REVIEW_PROCEDURE>
+               <P>Ve lhůtě 2 měsíců od oznámení žalobci nebo, není-li k dispozici, ode dne, kdy vstoupilo ve známost.</P>
+            </REVIEW_PROCEDURE>
+            <DATE_DISPATCH_NOTICE>2018-06-25</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F03_2014>
+      <F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="ET">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Euroopa Piiri- ja Rannikuvalve Amet (Frontex)</OFFICIALNAME>
+               <ADDRESS>Plac Europejski 6</ADDRESS>
+               <TOWN>Warsaw</TOWN>
+               <POSTAL_CODE>00-844</POSTAL_CODE>
+               <COUNTRY VALUE="PL"/>
+               <CONTACT_POINT>Frontex Procurement Team</CONTACT_POINT>
+               <PHONE>+48 222059500</PHONE>
+               <E_MAIL>procurement@frontex.europa.eu</E_MAIL>
+               <FAX>+48 222059501</FAX>
+               <n2016:NUTS CODE="PL911"/>
+               <URL_GENERAL>http://www.frontex.europa.eu</URL_GENERAL>
+            </ADDRESS_CONTRACTING_BODY>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>süsinikdioksiidi pihudetektorite tarne raamleping</P>
+            </TITLE>
+            <REFERENCE_NUMBER>Frontex/OP/50/2018/AH</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="35120000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SUPPLIES"/>
+            <SHORT_DESCR>
+               <P>Kõnealuse pakkumise eesmärk on sõlmida raamleping süsinikdioksiidi pihidetektorite tarnimiseks.</P>
+            </SHORT_DESCR>
+            <VAL_TOTAL CURRENCY="EUR">250000.00</VAL_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <n2016:NUTS CODE="PL911"/>
+               <MAIN_SITE>
+                  <P>Frontexi hoone, Varssavi, Poola</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>Kõnealuse pakkumise eesmärk on sõlmida raamleping süsinikdioksiidi pihudetektorite tarnimiseks.</P>
+                  <P>Süsinikdioksiidi (CO2) detektoreid tuleb kasutada olemasoleva CO2 kontsentratsiooni mõõtmiseks suletud mahutites, et tuvastada isikuid, kes peidavad ennast piiratud ruumides, nagu haagistes, ruumides ja sõidukites (inimeste väljahingatava õhu CO2 kontsentratsiooni jälgimine).</P>
+               </SHORT_DESCR>
+               <AC_PRICE/>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <NO_CONTRACT_COVERED_GPA/>
+            <NOTICE_NUMBER_OJ>2018/S 038-081972</NOTICE_NUMBER_OJ>
+         </PROCEDURE>
+         <AWARD_CONTRACT ITEM="1">
+            <CONTRACT_NO>Frontex/OP/50/2018/AH</CONTRACT_NO>
+            <TITLE>
+               <P>Süsinikdioksiidi detektorite tarne raamleping</P>
+            </TITLE>
+            <AWARDED_CONTRACT>
+               <DATE_CONCLUSION_CONTRACT>2018-06-21</DATE_CONCLUSION_CONTRACT>
+               <NB_TENDERS_RECEIVED>2</NB_TENDERS_RECEIVED>
+               <NO_AWARDED_TO_GROUP/>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>Opticoelectron Group JSCo</OFFICIALNAME>
+                     <TOWN>Panagyurishte</TOWN>
+                     <COUNTRY VALUE="BG"/>
+                     <n2016:NUTS CODE="BG"/>
+                  </ADDRESS_CONTRACTOR>
+                  <NO_SME/>
+               </CONTRACTOR>
+               <VAL_ESTIMATED_TOTAL CURRENCY="EUR">250000.00</VAL_ESTIMATED_TOTAL>
+               <VAL_TOTAL CURRENCY="EUR">250000.00</VAL_TOTAL>
+            </AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <COMPLEMENTARY_INFO>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Üldkohus</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <E_MAIL>cfi.registry@curia.europa.eu</E_MAIL>
+               <FAX>+352 4303-2100</FAX>
+               <URL>http://www.curia.europa.eu</URL>
+            </ADDRESS_REVIEW_BODY>
+            <REVIEW_PROCEDURE>
+               <P>2 kuu jooksul hageja teavitamisest, või kui teavitamist ei toimu, päevast, mil asjast teada saadi.</P>
+            </REVIEW_PROCEDURE>
+            <DATE_DISPATCH_NOTICE>2018-06-25</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F03_2014>
+      <F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="HU">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Európai Határ- és Partvédelmi Ügynökség — Frontex</OFFICIALNAME>
+               <ADDRESS>Plac Europejski 6</ADDRESS>
+               <TOWN>Warsaw</TOWN>
+               <POSTAL_CODE>00-844</POSTAL_CODE>
+               <COUNTRY VALUE="PL"/>
+               <CONTACT_POINT>Frontex Procurement Team</CONTACT_POINT>
+               <PHONE>+48 222059500</PHONE>
+               <E_MAIL>procurement@frontex.europa.eu</E_MAIL>
+               <FAX>+48 222059501</FAX>
+               <n2016:NUTS CODE="PL911"/>
+               <URL_GENERAL>http://www.frontex.europa.eu</URL_GENERAL>
+            </ADDRESS_CONTRACTING_BODY>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Kézi szén-dioxid-detektorok (CO<FT TYPE="SUB">2</FT>-detektorok) beszerzésére irányuló keretszerződés</P>
+            </TITLE>
+            <REFERENCE_NUMBER>Frontex/OP/50/2018/AH</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="35120000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SUPPLIES"/>
+            <SHORT_DESCR>
+               <P>A pályázat tárgya kézi szén-dioxid-detektorok határőrizeti célból történő beszerzésére irányuló keretszerződés megkötése.</P>
+            </SHORT_DESCR>
+            <VAL_TOTAL CURRENCY="EUR">250000.00</VAL_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <n2016:NUTS CODE="PL911"/>
+               <MAIN_SITE>
+                  <P>A Frontex telephelye, Varsó, Lengyelország</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>A pályázat tárgya a kézi szén-dioxid-detektorok beszerzésére irányuló keretszerződés megkötése volt.</P>
+                  <P>A szén-dioxid-detektorokat (CO<FT TYPE="SUB">2</FT>-detektorok) a CO<FT TYPE="SUB">2</FT>-koncentráció mérésére fogják használni zárt terekben, mint például utánfutókban, helyiségekben és járművekben rejtőzködő személyek észlelése érdekében (az ember által kilélegzett levegő CO<FT TYPE="SUB">2</FT>-koncentrációjának figyelésével).</P>
+               </SHORT_DESCR>
+               <AC_PRICE/>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <NO_CONTRACT_COVERED_GPA/>
+            <NOTICE_NUMBER_OJ>2018/S 038-081972</NOTICE_NUMBER_OJ>
+         </PROCEDURE>
+         <AWARD_CONTRACT ITEM="1">
+            <CONTRACT_NO>Frontex/OP/50/2018/AH</CONTRACT_NO>
+            <TITLE>
+               <P>Szén-dioxid-detektorok beszerzésére irányuló keretszerződés</P>
+            </TITLE>
+            <AWARDED_CONTRACT>
+               <DATE_CONCLUSION_CONTRACT>2018-06-21</DATE_CONCLUSION_CONTRACT>
+               <NB_TENDERS_RECEIVED>2</NB_TENDERS_RECEIVED>
+               <NO_AWARDED_TO_GROUP/>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>Opticoelectron Group JSCo</OFFICIALNAME>
+                     <TOWN>Panagyurishte</TOWN>
+                     <COUNTRY VALUE="BG"/>
+                     <n2016:NUTS CODE="BG"/>
+                  </ADDRESS_CONTRACTOR>
+                  <NO_SME/>
+               </CONTRACTOR>
+               <VAL_ESTIMATED_TOTAL CURRENCY="EUR">250000.00</VAL_ESTIMATED_TOTAL>
+               <VAL_TOTAL CURRENCY="EUR">250000.00</VAL_TOTAL>
+            </AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <COMPLEMENTARY_INFO>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Törvényszék</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <E_MAIL>cfi.registry@curia.europa.eu</E_MAIL>
+               <FAX>+352 4303-2100</FAX>
+               <URL>http://www.curia.europa.eu</URL>
+            </ADDRESS_REVIEW_BODY>
+            <REVIEW_PROCEDURE>
+               <P>A vesztes fél értesítésétől, illetve – ennek hiányában – az eredmény ismertté válásától számított 2 hónapon belül.</P>
+            </REVIEW_PROCEDURE>
+            <DATE_DISPATCH_NOTICE>2018-06-25</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F03_2014>
+      <F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="LT">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Europos sienų ir pakrančių apsaugos agentūra „Frontex“</OFFICIALNAME>
+               <ADDRESS>Plac Europejski 6</ADDRESS>
+               <TOWN>Warsaw</TOWN>
+               <POSTAL_CODE>00-844</POSTAL_CODE>
+               <COUNTRY VALUE="PL"/>
+               <CONTACT_POINT>Frontex Procurement Team</CONTACT_POINT>
+               <PHONE>+48 222059500</PHONE>
+               <E_MAIL>procurement@frontex.europa.eu</E_MAIL>
+               <FAX>+48 222059501</FAX>
+               <n2016:NUTS CODE="PL911"/>
+               <URL_GENERAL>http://www.frontex.europa.eu</URL_GENERAL>
+            </ADDRESS_CONTRACTING_BODY>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Preliminarioji sutartis dėl nešiojamųjų anglies dioksido detektorių tiekimo</P>
+            </TITLE>
+            <REFERENCE_NUMBER>Frontex/OP/50/2018/AH</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="35120000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SUPPLIES"/>
+            <SHORT_DESCR>
+               <P>Šio konkurso tikslas – sudaryti preliminariąją sutartį dėl nešiojamųjų anglies dioksido detektorių tiekimo sienos apsaugai.</P>
+            </SHORT_DESCR>
+            <VAL_TOTAL CURRENCY="EUR">250000.00</VAL_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <n2016:NUTS CODE="PL911"/>
+               <MAIN_SITE>
+                  <P>„Frontex“ patalpos, Varšuva, Lenkija</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>Šio konkurso tikslas – sudaryti preliminariąją sutartį dėl nešiojamųjų anglies dioksido detektorių tiekimo.</P>
+                  <P>Anglies dioksido (CO<FT TYPE="SUB">2</FT>) detektoriai turi būti naudojami matuoti esamai CO<FT TYPE="SUB">2</FT> koncentracijai uždarose patalpose siekiant aptikti žmones, besislepiančius uždarose erdvėse, tokiose kaip priekabos, kambariai ir transporto priemonės (žmonių iškvėpto oro CO<FT TYPE="SUB">2</FT> koncentracijos stebėsena).</P>
+               </SHORT_DESCR>
+               <AC_PRICE/>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <NO_CONTRACT_COVERED_GPA/>
+            <NOTICE_NUMBER_OJ>2018/S 038-081972</NOTICE_NUMBER_OJ>
+         </PROCEDURE>
+         <AWARD_CONTRACT ITEM="1">
+            <CONTRACT_NO>Frontex/OP/50/2018/AH</CONTRACT_NO>
+            <TITLE>
+               <P>Preliminarioji sutartis dėl anglies dioksido detektorių tiekimo</P>
+            </TITLE>
+            <AWARDED_CONTRACT>
+               <DATE_CONCLUSION_CONTRACT>2018-06-21</DATE_CONCLUSION_CONTRACT>
+               <NB_TENDERS_RECEIVED>2</NB_TENDERS_RECEIVED>
+               <NO_AWARDED_TO_GROUP/>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>Opticoelectron Group JSCo</OFFICIALNAME>
+                     <TOWN>Panagyurishte</TOWN>
+                     <COUNTRY VALUE="BG"/>
+                     <n2016:NUTS CODE="BG"/>
+                  </ADDRESS_CONTRACTOR>
+                  <NO_SME/>
+               </CONTRACTOR>
+               <VAL_ESTIMATED_TOTAL CURRENCY="EUR">250000.00</VAL_ESTIMATED_TOTAL>
+               <VAL_TOTAL CURRENCY="EUR">250000.00</VAL_TOTAL>
+            </AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <COMPLEMENTARY_INFO>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Bendrasis Teismas</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <E_MAIL>cfi.registry@curia.europa.eu</E_MAIL>
+               <FAX>+352 4303-2100</FAX>
+               <URL>http://www.curia.europa.eu</URL>
+            </ADDRESS_REVIEW_BODY>
+            <REVIEW_PROCEDURE>
+               <P>Per 2 mėnesius nuo dienos, kai apie tai pranešama ieškovui, arba, jei nepranešama, nuo dienos, kai tai tampa žinoma.</P>
+            </REVIEW_PROCEDURE>
+            <DATE_DISPATCH_NOTICE>2018-06-25</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F03_2014>
+      <F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="LV">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Eiropas Robežu un krasta apsardzes aģentūra – Frontex</OFFICIALNAME>
+               <ADDRESS>Plac Europejski 6</ADDRESS>
+               <TOWN>Warsaw</TOWN>
+               <POSTAL_CODE>00-844</POSTAL_CODE>
+               <COUNTRY VALUE="PL"/>
+               <CONTACT_POINT>Frontex Procurement Team</CONTACT_POINT>
+               <PHONE>+48 222059500</PHONE>
+               <E_MAIL>procurement@frontex.europa.eu</E_MAIL>
+               <FAX>+48 222059501</FAX>
+               <n2016:NUTS CODE="PL911"/>
+               <URL_GENERAL>http://www.frontex.europa.eu</URL_GENERAL>
+            </ADDRESS_CONTRACTING_BODY>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Pamatnolīgums par rokas oglekļa dioksīda detektoru piegādi</P>
+            </TITLE>
+            <REFERENCE_NUMBER>Frontex/OP/50/2018/AH</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="35120000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SUPPLIES"/>
+            <SHORT_DESCR>
+               <P>Šā konkursa priekšmets ir izveidot Pamatnolīgumu par rokas oglekļa dioksīda detektoru piegādi robežu apsardzībai.</P>
+            </SHORT_DESCR>
+            <VAL_TOTAL CURRENCY="EUR">250000.00</VAL_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <n2016:NUTS CODE="PL911"/>
+               <MAIN_SITE>
+                  <P>Frontex telpas, Varšava, Polija</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>Šā konkursa priekšmets bija izveidot pamatnolīgumu par rokas oglekļa dioksīda detektoru piegādi.</P>
+                  <P>Oglekļa dioksīda (CO<FT TYPE="SUB">2</FT>) detektori jāizmanto esošās CO<FT TYPE="SUB">2</FT> koncentrācijas mērīšanai norobežotās vietās, lai atrastu cilvēkus, kas paslēpušies slēgtās telpās, piemēram, treileros, istabās un transportlīdzekļos (cilvēku izelpotajā gaisā esošā CO<FT TYPE="SUB">2</FT> koncentrācijas noteikšanai).</P>
+               </SHORT_DESCR>
+               <AC_PRICE/>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <NO_CONTRACT_COVERED_GPA/>
+            <NOTICE_NUMBER_OJ>2018/S 038-081972</NOTICE_NUMBER_OJ>
+         </PROCEDURE>
+         <AWARD_CONTRACT ITEM="1">
+            <CONTRACT_NO>Frontex/OP/50/2018/AH</CONTRACT_NO>
+            <TITLE>
+               <P>Pamatnolīgums par oglekļa dioksīda detektoru piegādi</P>
+            </TITLE>
+            <AWARDED_CONTRACT>
+               <DATE_CONCLUSION_CONTRACT>2018-06-21</DATE_CONCLUSION_CONTRACT>
+               <NB_TENDERS_RECEIVED>2</NB_TENDERS_RECEIVED>
+               <NO_AWARDED_TO_GROUP/>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>Opticoelectron Group JSCo</OFFICIALNAME>
+                     <TOWN>Panagyurishte</TOWN>
+                     <COUNTRY VALUE="BG"/>
+                     <n2016:NUTS CODE="BG"/>
+                  </ADDRESS_CONTRACTOR>
+                  <NO_SME/>
+               </CONTRACTOR>
+               <VAL_ESTIMATED_TOTAL CURRENCY="EUR">250000.00</VAL_ESTIMATED_TOTAL>
+               <VAL_TOTAL CURRENCY="EUR">250000.00</VAL_TOTAL>
+            </AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <COMPLEMENTARY_INFO>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Vispārējā tiesa</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <E_MAIL>cfi.registry@curia.europa.eu</E_MAIL>
+               <FAX>+352 4303-2100</FAX>
+               <URL>http://www.curia.europa.eu</URL>
+            </ADDRESS_REVIEW_BODY>
+            <REVIEW_PROCEDURE>
+               <P>2 mēnešu laikā no prasītāja informēšanas vai, ja tā nav notikusi, no dienas, kad viņš to uzzinājis.</P>
+            </REVIEW_PROCEDURE>
+            <DATE_DISPATCH_NOTICE>2018-06-25</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F03_2014>
+      <F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="MT">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>L-Aġenzija Ewropea għall-Gwardja tal-Fruntiera u tal-Kosta — Frontex</OFFICIALNAME>
+               <ADDRESS>Plac Europejski 6</ADDRESS>
+               <TOWN>Warsaw</TOWN>
+               <POSTAL_CODE>00-844</POSTAL_CODE>
+               <COUNTRY VALUE="PL"/>
+               <CONTACT_POINT>Frontex Procurement Team</CONTACT_POINT>
+               <PHONE>+48 222059500</PHONE>
+               <E_MAIL>procurement@frontex.europa.eu</E_MAIL>
+               <FAX>+48 222059501</FAX>
+               <n2016:NUTS CODE="PL911"/>
+               <URL_GENERAL>http://www.frontex.europa.eu</URL_GENERAL>
+            </ADDRESS_CONTRACTING_BODY>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Qafas ta' kuntratt għall-provvista ta' ditekters tad-dijossidu tal-karbonju li jinżammu fl-idejn</P>
+            </TITLE>
+            <REFERENCE_NUMBER>Frontex/OP/50/2018/AH</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="35120000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SUPPLIES"/>
+            <SHORT_DESCR>
+               <P>Is-suġġett ta' din is-sejħa għall-offerti hu li jiġi stabbilit Qafas ta' Kuntratt għall-provvista ta' ditekters tad-dijossidu tal-karbonju li jinżammu fl-idejn għall-gwardja tal-fruntiera.</P>
+            </SHORT_DESCR>
+            <VAL_TOTAL CURRENCY="EUR">250000.00</VAL_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <n2016:NUTS CODE="PL911"/>
+               <MAIN_SITE>
+                  <P>Il-bini tal-Frontex, Warsaw, il-Polonja</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>Is-suġġett ta' din is-sejħa għall-offerti kien li jiġi stabbilit Qafas ta' kuntratt għall-provvista ta' ditekters tad-dijossidu tal-karbonju li jinżammu fl-idejn.</P>
+                  <P>Id-ditekters tad-Dijossidu tal-karbonju (CO<FT TYPE="SUB">2</FT>) għandhom jintużaw għall-kejl ta' konċentrazzjoni tas-CO<FT TYPE="SUB">2</FT> eżistenti f'volum magħluq għas-sejbien ta' persuni li jistaħbew fi spazji magħluqa bħal trejlers, kmamar u vetturi (bil-monitoraġġ tal-konċentrazzjoni tas-CO<FT TYPE="SUB">2</FT> ta' arja tan-nifs minfuħ 'il barra).</P>
+               </SHORT_DESCR>
+               <AC_PRICE/>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <NO_CONTRACT_COVERED_GPA/>
+            <NOTICE_NUMBER_OJ>2018/S 038-081972</NOTICE_NUMBER_OJ>
+         </PROCEDURE>
+         <AWARD_CONTRACT ITEM="1">
+            <CONTRACT_NO>Frontex/OP/50/2018/AH</CONTRACT_NO>
+            <TITLE>
+               <P>Qafas ta' kuntratt għall-provvista ta' ditekters tad-dijossidu tal-karbonju</P>
+            </TITLE>
+            <AWARDED_CONTRACT>
+               <DATE_CONCLUSION_CONTRACT>2018-06-21</DATE_CONCLUSION_CONTRACT>
+               <NB_TENDERS_RECEIVED>2</NB_TENDERS_RECEIVED>
+               <NO_AWARDED_TO_GROUP/>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>Opticoelectron Group JSCo</OFFICIALNAME>
+                     <TOWN>Panagyurishte</TOWN>
+                     <COUNTRY VALUE="BG"/>
+                     <n2016:NUTS CODE="BG"/>
+                  </ADDRESS_CONTRACTOR>
+                  <NO_SME/>
+               </CONTRACTOR>
+               <VAL_ESTIMATED_TOTAL CURRENCY="EUR">250000.00</VAL_ESTIMATED_TOTAL>
+               <VAL_TOTAL CURRENCY="EUR">250000.00</VAL_TOTAL>
+            </AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <COMPLEMENTARY_INFO>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Il-Qorti Ġenerali</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <E_MAIL>cfi.registry@curia.europa.eu</E_MAIL>
+               <FAX>+352 4303-2100</FAX>
+               <URL>http://www.curia.europa.eu</URL>
+            </ADDRESS_REVIEW_BODY>
+            <REVIEW_PROCEDURE>
+               <P>Fi żmien xahrejn (2) mill-avviż lil dak li jagħmel it-talba, jew, fl-assenza ta' dan, mill-jum li fih sar magħruf.</P>
+            </REVIEW_PROCEDURE>
+            <DATE_DISPATCH_NOTICE>2018-06-25</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F03_2014>
+      <F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="PL">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Europejska Agencja Straży Granicznej i Przybrzeżnej — Frontex</OFFICIALNAME>
+               <ADDRESS>Plac Europejski 6</ADDRESS>
+               <TOWN>Warsaw</TOWN>
+               <POSTAL_CODE>00-844</POSTAL_CODE>
+               <COUNTRY VALUE="PL"/>
+               <CONTACT_POINT>Frontex Procurement Team</CONTACT_POINT>
+               <PHONE>+48 222059500</PHONE>
+               <E_MAIL>procurement@frontex.europa.eu</E_MAIL>
+               <FAX>+48 222059501</FAX>
+               <n2016:NUTS CODE="PL911"/>
+               <URL_GENERAL>http://www.frontex.europa.eu</URL_GENERAL>
+            </ADDRESS_CONTRACTING_BODY>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Umowa ramowa o dostawę ręcznych wykrywaczy dwutlenku węgla</P>
+            </TITLE>
+            <REFERENCE_NUMBER>Frontex/OP/50/2018/AH</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="35120000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SUPPLIES"/>
+            <SHORT_DESCR>
+               <P>Przedmiotem niniejszego ogłoszenia jest zawarcie umowy ramowej na dostawę ręcznych wykrywaczy dwutlenku węgla w celu ochrony granic.</P>
+            </SHORT_DESCR>
+            <VAL_TOTAL CURRENCY="EUR">250000.00</VAL_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <n2016:NUTS CODE="PL911"/>
+               <MAIN_SITE>
+                  <P>Siedziba Fronteksu, Warszawa, Polska</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>Przedmiotem niniejszego ogłoszenia było zawarcie umowy ramowej na dostawę ręcznych wykrywaczy dwutlenku węgla.</P>
+                  <P>Wykrywacze dwutlenku węgla (CO<FT TYPE="SUB">2</FT>) będą wykorzystywane do pomiarów stężenia CO<FT TYPE="SUB">2</FT> na zamkniętej przestrzeni w celu wykrywania osób ukrywających się m.in. w naczepach, pomieszczeniach i pojazdach (monitorowanie stężenia CO<FT TYPE="SUB">2</FT> w powietrzu wydychanym przez człowieka).</P>
+               </SHORT_DESCR>
+               <AC_PRICE/>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <NO_CONTRACT_COVERED_GPA/>
+            <NOTICE_NUMBER_OJ>2018/S 038-081972</NOTICE_NUMBER_OJ>
+         </PROCEDURE>
+         <AWARD_CONTRACT ITEM="1">
+            <CONTRACT_NO>Frontex/OP/50/2018/AH</CONTRACT_NO>
+            <TITLE>
+               <P>Umowa ramowa o dostawę wykrywaczy dwutlenku węgla</P>
+            </TITLE>
+            <AWARDED_CONTRACT>
+               <DATE_CONCLUSION_CONTRACT>2018-06-21</DATE_CONCLUSION_CONTRACT>
+               <NB_TENDERS_RECEIVED>2</NB_TENDERS_RECEIVED>
+               <NO_AWARDED_TO_GROUP/>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>Opticoelectron Group JSCo</OFFICIALNAME>
+                     <TOWN>Panagyurishte</TOWN>
+                     <COUNTRY VALUE="BG"/>
+                     <n2016:NUTS CODE="BG"/>
+                  </ADDRESS_CONTRACTOR>
+                  <NO_SME/>
+               </CONTRACTOR>
+               <VAL_ESTIMATED_TOTAL CURRENCY="EUR">250000.00</VAL_ESTIMATED_TOTAL>
+               <VAL_TOTAL CURRENCY="EUR">250000.00</VAL_TOTAL>
+            </AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <COMPLEMENTARY_INFO>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Sąd</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <E_MAIL>cfi.registry@curia.europa.eu</E_MAIL>
+               <FAX>+352 4303-2100</FAX>
+               <URL>http://www.curia.europa.eu</URL>
+            </ADDRESS_REVIEW_BODY>
+            <REVIEW_PROCEDURE>
+               <P>W ciągu 2 miesięcy od zawiadomienia strony skarżącej lub, w przypadku braku zawiadomienia, od dnia podania do wiadomości.</P>
+            </REVIEW_PROCEDURE>
+            <DATE_DISPATCH_NOTICE>2018-06-25</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F03_2014>
+      <F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="SK">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Európska agentúra pre pohraničnú a pobrežnú stráž – Frontex</OFFICIALNAME>
+               <ADDRESS>Plac Europejski 6</ADDRESS>
+               <TOWN>Warsaw</TOWN>
+               <POSTAL_CODE>00-844</POSTAL_CODE>
+               <COUNTRY VALUE="PL"/>
+               <CONTACT_POINT>Frontex Procurement Team</CONTACT_POINT>
+               <PHONE>+48 222059500</PHONE>
+               <E_MAIL>procurement@frontex.europa.eu</E_MAIL>
+               <FAX>+48 222059501</FAX>
+               <n2016:NUTS CODE="PL911"/>
+               <URL_GENERAL>http://www.frontex.europa.eu</URL_GENERAL>
+            </ADDRESS_CONTRACTING_BODY>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Rámcová zmluva na dodávku ručných detektorov oxidu uhličitého</P>
+            </TITLE>
+            <REFERENCE_NUMBER>Frontex/OP/50/2018/AH</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="35120000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SUPPLIES"/>
+            <SHORT_DESCR>
+               <P>Predmetom tohto obstarávania je uzavretie rámcovej zmluvy o dodávke ručných detektorov oxidu uhličitého pre ochranu hraníc.</P>
+            </SHORT_DESCR>
+            <VAL_TOTAL CURRENCY="EUR">250000.00</VAL_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <n2016:NUTS CODE="PL911"/>
+               <MAIN_SITE>
+                  <P>Priestory agentúry Frontex, Varšava, Poľsko</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>Predmetom tohto obstarávania bolo uzavretie rámcovej zmluvy o dodávke ručných detektorov oxidu uhličitého.</P>
+                  <P>Detektory oxidu uhličitého (CO<FT TYPE="SUB">2</FT>) sa budú používať na meranie existujúcej koncentrácie CO<FT TYPE="SUB">2</FT> v uzavretom objeme na detekciu osôb, ktorí sa ukrývajú v uzavretých priestoroch, ako sú prívesné vozy, miestnosti a vozidlá (monitorovanie koncentrácie CO <FT TYPE="SUB">2</FT> ľuďmi vydychovaného vzduchu).</P>
+               </SHORT_DESCR>
+               <AC_PRICE/>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <NO_CONTRACT_COVERED_GPA/>
+            <NOTICE_NUMBER_OJ>2018/S 038-081972</NOTICE_NUMBER_OJ>
+         </PROCEDURE>
+         <AWARD_CONTRACT ITEM="1">
+            <CONTRACT_NO>Frontex/OP/50/2018/AH</CONTRACT_NO>
+            <TITLE>
+               <P>Rámcová zmluva na dodávku detektorov oxidu uhličitého</P>
+            </TITLE>
+            <AWARDED_CONTRACT>
+               <DATE_CONCLUSION_CONTRACT>2018-06-21</DATE_CONCLUSION_CONTRACT>
+               <NB_TENDERS_RECEIVED>2</NB_TENDERS_RECEIVED>
+               <NO_AWARDED_TO_GROUP/>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>Opticoelectron Group JSCo</OFFICIALNAME>
+                     <TOWN>Panagyurishte</TOWN>
+                     <COUNTRY VALUE="BG"/>
+                     <n2016:NUTS CODE="BG"/>
+                  </ADDRESS_CONTRACTOR>
+                  <NO_SME/>
+               </CONTRACTOR>
+               <VAL_ESTIMATED_TOTAL CURRENCY="EUR">250000.00</VAL_ESTIMATED_TOTAL>
+               <VAL_TOTAL CURRENCY="EUR">250000.00</VAL_TOTAL>
+            </AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <COMPLEMENTARY_INFO>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Všeobecný súd</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <E_MAIL>cfi.registry@curia.europa.eu</E_MAIL>
+               <FAX>+352 4303-2100</FAX>
+               <URL>http://www.curia.europa.eu</URL>
+            </ADDRESS_REVIEW_BODY>
+            <REVIEW_PROCEDURE>
+               <P>Do 2 mesiacov od vyrozumenia osoby podávajúcej odvolanie alebo, ak to nie je možné, odo dňa, keď túto skutočnosť zistila.</P>
+            </REVIEW_PROCEDURE>
+            <DATE_DISPATCH_NOTICE>2018-06-25</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F03_2014>
+      <F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="SL">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Evropska agencija za mejno in obalno stražo – Frontex</OFFICIALNAME>
+               <ADDRESS>Plac Europejski 6</ADDRESS>
+               <TOWN>Warsaw</TOWN>
+               <POSTAL_CODE>00-844</POSTAL_CODE>
+               <COUNTRY VALUE="PL"/>
+               <CONTACT_POINT>Frontex Procurement Team</CONTACT_POINT>
+               <PHONE>+48 222059500</PHONE>
+               <E_MAIL>procurement@frontex.europa.eu</E_MAIL>
+               <FAX>+48 222059501</FAX>
+               <n2016:NUTS CODE="PL911"/>
+               <URL_GENERAL>http://www.frontex.europa.eu</URL_GENERAL>
+            </ADDRESS_CONTRACTING_BODY>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Okvirno naročilo za dobavo ročnih detektorjev ogljikovega dioksida</P>
+            </TITLE>
+            <REFERENCE_NUMBER>Frontex/OP/50/2018/AH</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="35120000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SUPPLIES"/>
+            <SHORT_DESCR>
+               <P>Predmet tega razpisa je sklenitev okvirne pogodbe za dobavo ročnih detektorjev ogljikovega dioksida za mejno stražo.</P>
+            </SHORT_DESCR>
+            <VAL_TOTAL CURRENCY="EUR">250000.00</VAL_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <n2016:NUTS CODE="PL911"/>
+               <MAIN_SITE>
+                  <P>Prostori agencije Frontex, Varšava, Poljska.</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>Ta razpis je zajemal sklenitev okvirne pogodbe za dobavo ročnih detektorjev ogljikovega dioksida.</P>
+                  <P>Detektorji ogljikovega dioksida (CO<FT TYPE="SUB">2</FT>) se uporabljajo za merjenje obstoječe koncentracije CO<FT TYPE="SUB">2</FT> v zaprti prostornini za odkrivanje ljudi, ki se skrivajo v zaprtih prostorih, kot so prikolice, sobe in vozila (spremljanje koncentracije CO<FT TYPE="SUB">2</FT> v izdihanem zraku).</P>
+               </SHORT_DESCR>
+               <AC_PRICE/>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <NO_CONTRACT_COVERED_GPA/>
+            <NOTICE_NUMBER_OJ>2018/S 038-081972</NOTICE_NUMBER_OJ>
+         </PROCEDURE>
+         <AWARD_CONTRACT ITEM="1">
+            <CONTRACT_NO>Frontex/OP/50/2018/AH</CONTRACT_NO>
+            <TITLE>
+               <P>Okvirno naročilo za dobavo detektorjev ogljikovega dioksida</P>
+            </TITLE>
+            <AWARDED_CONTRACT>
+               <DATE_CONCLUSION_CONTRACT>2018-06-21</DATE_CONCLUSION_CONTRACT>
+               <NB_TENDERS_RECEIVED>2</NB_TENDERS_RECEIVED>
+               <NO_AWARDED_TO_GROUP/>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>Opticoelectron Group JSCo</OFFICIALNAME>
+                     <TOWN>Panagyurishte</TOWN>
+                     <COUNTRY VALUE="BG"/>
+                     <n2016:NUTS CODE="BG"/>
+                  </ADDRESS_CONTRACTOR>
+                  <NO_SME/>
+               </CONTRACTOR>
+               <VAL_ESTIMATED_TOTAL CURRENCY="EUR">250000.00</VAL_ESTIMATED_TOTAL>
+               <VAL_TOTAL CURRENCY="EUR">250000.00</VAL_TOTAL>
+            </AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <COMPLEMENTARY_INFO>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Splošno sodišče</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <E_MAIL>cfi.registry@curia.europa.eu</E_MAIL>
+               <FAX>+352 4303-2100</FAX>
+               <URL>http://www.curia.europa.eu</URL>
+            </ADDRESS_REVIEW_BODY>
+            <REVIEW_PROCEDURE>
+               <P>V 2 mesecih od uradnega obvestila tožniku ali, če tega ni bilo, od dneva, ko je tožnik zanj izvedel.</P>
+            </REVIEW_PROCEDURE>
+            <DATE_DISPATCH_NOTICE>2018-06-25</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F03_2014>
+      <F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="GA">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>An Ghníomhaireacht Eorpach um an nGarda Teorann agus Cósta — Frontex</OFFICIALNAME>
+               <ADDRESS>Plac Europejski 6</ADDRESS>
+               <TOWN>Warsaw</TOWN>
+               <POSTAL_CODE>00-844</POSTAL_CODE>
+               <COUNTRY VALUE="PL"/>
+               <CONTACT_POINT>Frontex Procurement Team</CONTACT_POINT>
+               <PHONE>+48 222059500</PHONE>
+               <E_MAIL>procurement@frontex.europa.eu</E_MAIL>
+               <FAX>+48 222059501</FAX>
+               <n2016:NUTS CODE="PL911"/>
+               <URL_GENERAL>http://www.frontex.europa.eu</URL_GENERAL>
+            </ADDRESS_CONTRACTING_BODY>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Creatchonradh maidir le brathadóirí dé-ocsaíde carbóin láimhe a sholáthar</P>
+            </TITLE>
+            <REFERENCE_NUMBER>Frontex/OP/50/2018/AH</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="35120000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SUPPLIES"/>
+            <SHORT_DESCR>
+               <P>Is é ábhar na tairisceana seo an creatchonradh a bhunú maidir le brathadóirí dé-ocsaíde carbóin láimhe a sholáthar don ghardáil teorann.</P>
+            </SHORT_DESCR>
+            <VAL_TOTAL CURRENCY="EUR">250000.00</VAL_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <n2016:NUTS CODE="PL911"/>
+               <MAIN_SITE>
+                  <P>Áitreabh Frontex, Vársá, an Pholainn</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>Ba é ábhar na tairisceana seo an creatchonradh a bhunú maidir le bhrathadóirí dé-ocsaíde carbóin láimhe a sholáthar.</P>
+                  <P>Úsáidfear brathadóirí dé-ocsaíde carbóin (CO<FT TYPE="SUB">2</FT>) le haghaidh an tiúchan CO<FT TYPE="SUB">2</FT> atá ann cheana i dtoirt dhúnta a thomhas le haghaidh daoine atá i bhfolach i spásanna teoranta amhail leantóirí, seomraí agus feithiclí a bhrath (faireachán ar thiúchan CO<FT TYPE="SUB">2</FT> d'aer arna easanálú ag duine).</P>
+               </SHORT_DESCR>
+               <AC_PRICE/>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <NO_CONTRACT_COVERED_GPA/>
+            <NOTICE_NUMBER_OJ>2018/S 038-081972</NOTICE_NUMBER_OJ>
+         </PROCEDURE>
+         <AWARD_CONTRACT ITEM="1">
+            <CONTRACT_NO>Frontex/OP/50/2018/AH</CONTRACT_NO>
+            <TITLE>
+               <P>Creatchonradh maidir le brathadóirí dé-ocsaíde carbóin láimhe a sholáthar</P>
+            </TITLE>
+            <AWARDED_CONTRACT>
+               <DATE_CONCLUSION_CONTRACT>2018-06-21</DATE_CONCLUSION_CONTRACT>
+               <NB_TENDERS_RECEIVED>2</NB_TENDERS_RECEIVED>
+               <NO_AWARDED_TO_GROUP/>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>Opticoelectron Group JSCo</OFFICIALNAME>
+                     <TOWN>Panagyurishte</TOWN>
+                     <COUNTRY VALUE="BG"/>
+                     <n2016:NUTS CODE="BG"/>
+                  </ADDRESS_CONTRACTOR>
+                  <NO_SME/>
+               </CONTRACTOR>
+               <VAL_ESTIMATED_TOTAL CURRENCY="EUR">250000.00</VAL_ESTIMATED_TOTAL>
+               <VAL_TOTAL CURRENCY="EUR">250000.00</VAL_TOTAL>
+            </AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <COMPLEMENTARY_INFO>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>An Chúirt Ghinearálta</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <E_MAIL>cfi.registry@curia.europa.eu</E_MAIL>
+               <FAX>+352 4303-2100</FAX>
+               <URL>http://www.curia.europa.eu</URL>
+            </ADDRESS_REVIEW_BODY>
+            <REVIEW_PROCEDURE>
+               <P>Laistigh de 2 mhí ón bhfógra don ghearánaí, nó ina éagmais sin, ón lá a fuarthas an t-eolas.</P>
+            </REVIEW_PROCEDURE>
+            <DATE_DISPATCH_NOTICE>2018-06-25</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F03_2014>
+      <F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="BG">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Европейска агенция за гранична и брегова охрана — Frontex</OFFICIALNAME>
+               <ADDRESS>Plac Europejski 6</ADDRESS>
+               <TOWN>Warsaw</TOWN>
+               <POSTAL_CODE>00-844</POSTAL_CODE>
+               <COUNTRY VALUE="PL"/>
+               <CONTACT_POINT>Frontex Procurement Team</CONTACT_POINT>
+               <PHONE>+48 222059500</PHONE>
+               <E_MAIL>procurement@frontex.europa.eu</E_MAIL>
+               <FAX>+48 222059501</FAX>
+               <n2016:NUTS CODE="PL911"/>
+               <URL_GENERAL>http://www.frontex.europa.eu</URL_GENERAL>
+            </ADDRESS_CONTRACTING_BODY>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Рамков договор за доставка на ръчни детектори за въглероден диоксид</P>
+            </TITLE>
+            <REFERENCE_NUMBER>Frontex/OP/50/2018/AH</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="35120000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SUPPLIES"/>
+            <SHORT_DESCR>
+               <P>Предметът на настоящия търг е да се сключи рамков договор за доставка на ръчни детектори за въглероден диоксид за опазване на границите.</P>
+            </SHORT_DESCR>
+            <VAL_TOTAL CURRENCY="EUR">250000.00</VAL_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <n2016:NUTS CODE="PL911"/>
+               <MAIN_SITE>
+                  <P>Помещения на Frontex, Варшава, Полша</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>Предметът на настоящия търг беше да се сключи рамков договор за доставка на ръчни детектори за въглероден диоксид.</P>
+                  <P>Детекторите за въглероден диоксид (CO<FT TYPE="SUB">2</FT>) ще се използват за измерване на съществуващата концентрация на CO<FT TYPE="SUB">2</FT> в затворени обекти, с цел откриване на хора, криещи се в затворени пространства, като например ремаркета, помещения и превозни средства (наблюдение на концентрацията на CO<FT TYPE="SUB">2</FT> от издишван от хора въздух).</P>
+               </SHORT_DESCR>
+               <AC_PRICE/>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <NO_CONTRACT_COVERED_GPA/>
+            <NOTICE_NUMBER_OJ>2018/S 038-081972</NOTICE_NUMBER_OJ>
+         </PROCEDURE>
+         <AWARD_CONTRACT ITEM="1">
+            <CONTRACT_NO>Frontex/OP/50/2018/AH</CONTRACT_NO>
+            <TITLE>
+               <P>Рамков договор за доставка на детектори за въглероден диоксид</P>
+            </TITLE>
+            <AWARDED_CONTRACT>
+               <DATE_CONCLUSION_CONTRACT>2018-06-21</DATE_CONCLUSION_CONTRACT>
+               <NB_TENDERS_RECEIVED>2</NB_TENDERS_RECEIVED>
+               <NO_AWARDED_TO_GROUP/>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>Opticoelectron Group JSCo</OFFICIALNAME>
+                     <TOWN>Panagyurishte</TOWN>
+                     <COUNTRY VALUE="BG"/>
+                     <n2016:NUTS CODE="BG"/>
+                  </ADDRESS_CONTRACTOR>
+                  <NO_SME/>
+               </CONTRACTOR>
+               <VAL_ESTIMATED_TOTAL CURRENCY="EUR">250000.00</VAL_ESTIMATED_TOTAL>
+               <VAL_TOTAL CURRENCY="EUR">250000.00</VAL_TOTAL>
+            </AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <COMPLEMENTARY_INFO>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Общ съд</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <E_MAIL>cfi.registry@curia.europa.eu</E_MAIL>
+               <FAX>+352 4303-2100</FAX>
+               <URL>http://www.curia.europa.eu</URL>
+            </ADDRESS_REVIEW_BODY>
+            <REVIEW_PROCEDURE>
+               <P>В рамките на 2 месеца от получаването на известието от ищеца или, в случай че такова липсва, от деня, в който е станало известно.</P>
+            </REVIEW_PROCEDURE>
+            <DATE_DISPATCH_NOTICE>2018-06-25</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F03_2014>
+      <F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="RO">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Agenția Europeană pentru Poliția de Frontieră și Garda de Coastă — Frontex</OFFICIALNAME>
+               <ADDRESS>Plac Europejski 6</ADDRESS>
+               <TOWN>Warsaw</TOWN>
+               <POSTAL_CODE>00-844</POSTAL_CODE>
+               <COUNTRY VALUE="PL"/>
+               <CONTACT_POINT>Frontex Procurement Team</CONTACT_POINT>
+               <PHONE>+48 222059500</PHONE>
+               <E_MAIL>procurement@frontex.europa.eu</E_MAIL>
+               <FAX>+48 222059501</FAX>
+               <n2016:NUTS CODE="PL911"/>
+               <URL_GENERAL>http://www.frontex.europa.eu</URL_GENERAL>
+            </ADDRESS_CONTRACTING_BODY>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Contract-cadru pentru furnizarea de detectoare portabile de dioxid de carbon</P>
+            </TITLE>
+            <REFERENCE_NUMBER>Frontex/OP/50/2018/AH</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="35120000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SUPPLIES"/>
+            <SHORT_DESCR>
+               <P>Obiectul acestei licitații constă în stabilirea contractului-cadru pentru furnizarea de detectoare portabile de dioxid de carbon pentru paza frontierelor.</P>
+            </SHORT_DESCR>
+            <VAL_TOTAL CURRENCY="EUR">250000.00</VAL_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <n2016:NUTS CODE="PL911"/>
+               <MAIN_SITE>
+                  <P>Sediul Frontex, Varșovia, Polonia</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>Obiectul acestei licitații constă în stabilirea contractului-cadru pentru furnizarea de detectoare portabile de dioxid de carbon.</P>
+                  <P>Detectoarele de dioxid de carbon (CO<FT TYPE="SUB">2</FT>) trebuie să fie utilizate pentru măsurarea concentrației de CO<FT TYPE="SUB">2</FT> existente într-un spațiu închis pentru detectarea persoanelor care se ascund în spații restrânse cum ar fi remorci, camere și vehicule (monitorizarea concentrației de CO<FT TYPE="SUB">2</FT> din aerul expirat de persoane).</P>
+               </SHORT_DESCR>
+               <AC_PRICE/>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <NO_CONTRACT_COVERED_GPA/>
+            <NOTICE_NUMBER_OJ>2018/S 038-081972</NOTICE_NUMBER_OJ>
+         </PROCEDURE>
+         <AWARD_CONTRACT ITEM="1">
+            <CONTRACT_NO>Frontex/OP/50/2018/AH</CONTRACT_NO>
+            <TITLE>
+               <P>Contract-cadru pentru furnizarea de detectoare de dioxid de carbon</P>
+            </TITLE>
+            <AWARDED_CONTRACT>
+               <DATE_CONCLUSION_CONTRACT>2018-06-21</DATE_CONCLUSION_CONTRACT>
+               <NB_TENDERS_RECEIVED>2</NB_TENDERS_RECEIVED>
+               <NO_AWARDED_TO_GROUP/>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>Opticoelectron Group JSCo</OFFICIALNAME>
+                     <TOWN>Panagyurishte</TOWN>
+                     <COUNTRY VALUE="BG"/>
+                     <n2016:NUTS CODE="BG"/>
+                  </ADDRESS_CONTRACTOR>
+                  <NO_SME/>
+               </CONTRACTOR>
+               <VAL_ESTIMATED_TOTAL CURRENCY="EUR">250000.00</VAL_ESTIMATED_TOTAL>
+               <VAL_TOTAL CURRENCY="EUR">250000.00</VAL_TOTAL>
+            </AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <COMPLEMENTARY_INFO>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Tribunalul</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <E_MAIL>cfi.registry@curia.europa.eu</E_MAIL>
+               <FAX>+352 4303-2100</FAX>
+               <URL>http://www.curia.europa.eu</URL>
+            </ADDRESS_REVIEW_BODY>
+            <REVIEW_PROCEDURE>
+               <P>În termen de 2 luni de la notificarea reclamantului sau, în absența acestuia, de la ziua în care acesta a luat cunoștință de actul respectiv.</P>
+            </REVIEW_PROCEDURE>
+            <DATE_DISPATCH_NOTICE>2018-06-25</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F03_2014>
+      <F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="HR">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Agencija za europsku graničnu i obalnu stražu — Frontex</OFFICIALNAME>
+               <ADDRESS>Plac Europejski 6</ADDRESS>
+               <TOWN>Warsaw</TOWN>
+               <POSTAL_CODE>00-844</POSTAL_CODE>
+               <COUNTRY VALUE="PL"/>
+               <CONTACT_POINT>Frontex Procurement Team</CONTACT_POINT>
+               <PHONE>+48 222059500</PHONE>
+               <E_MAIL>procurement@frontex.europa.eu</E_MAIL>
+               <FAX>+48 222059501</FAX>
+               <n2016:NUTS CODE="PL911"/>
+               <URL_GENERAL>http://www.frontex.europa.eu</URL_GENERAL>
+            </ADDRESS_CONTRACTING_BODY>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Okvirni ugovor za nabavu ručnih detektora ugljikovog dioksida</P>
+            </TITLE>
+            <REFERENCE_NUMBER>Frontex/OP/50/2018/AH</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="35120000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SUPPLIES"/>
+            <SHORT_DESCR>
+               <P>Predmet ovog nadmetanja je uspostava okvirnog ugovora za nabavu ručnih detektora ugljikovog dioksida za graničnu zaštitu.</P>
+            </SHORT_DESCR>
+            <VAL_TOTAL CURRENCY="EUR">250000.00</VAL_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <n2016:NUTS CODE="PL911"/>
+               <MAIN_SITE>
+                  <P>Prostori Frontexa, Varšava, Poljska</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>Predmet je ovog nadmetanja bio uspostava okvirnog ugovora za nabavu ručnih detektora ugljikovog dioksida.</P>
+                  <P>Detektori ugljikovog dioksida (CO<FT TYPE="SUB">2</FT>) upotrebljavaju se za mjerenje postojećih koncentracija CO<FT TYPE="SUB">2</FT> u zatvorenom obujmu u svrhu otkrivanja osoba koje se kriju u zatvorenim prostorima poput prikolica, prostorija i vozila (praćenje koncentracije CO<FT TYPE="SUB">2</FT> izdahnutog zraka ljudi).</P>
+               </SHORT_DESCR>
+               <AC_PRICE/>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <NO_CONTRACT_COVERED_GPA/>
+            <NOTICE_NUMBER_OJ>2018/S 038-081972</NOTICE_NUMBER_OJ>
+         </PROCEDURE>
+         <AWARD_CONTRACT ITEM="1">
+            <CONTRACT_NO>Frontex/OP/50/2018/AH</CONTRACT_NO>
+            <TITLE>
+               <P>Okvirni ugovor za nabavu detektora ugljikovog dioksida</P>
+            </TITLE>
+            <AWARDED_CONTRACT>
+               <DATE_CONCLUSION_CONTRACT>2018-06-21</DATE_CONCLUSION_CONTRACT>
+               <NB_TENDERS_RECEIVED>2</NB_TENDERS_RECEIVED>
+               <NO_AWARDED_TO_GROUP/>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>Opticoelectron Group JSCo</OFFICIALNAME>
+                     <TOWN>Panagyurishte</TOWN>
+                     <COUNTRY VALUE="BG"/>
+                     <n2016:NUTS CODE="BG"/>
+                  </ADDRESS_CONTRACTOR>
+                  <NO_SME/>
+               </CONTRACTOR>
+               <VAL_ESTIMATED_TOTAL CURRENCY="EUR">250000.00</VAL_ESTIMATED_TOTAL>
+               <VAL_TOTAL CURRENCY="EUR">250000.00</VAL_TOTAL>
+            </AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <COMPLEMENTARY_INFO>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Opći sud</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <E_MAIL>cfi.registry@curia.europa.eu</E_MAIL>
+               <FAX>+352 4303-2100</FAX>
+               <URL>http://www.curia.europa.eu</URL>
+            </ADDRESS_REVIEW_BODY>
+            <REVIEW_PROCEDURE>
+               <P>U roku od 2 mjeseca od slanja obavijesti podnositelju žalbe ili, u slučaju izostanka obavijesti, od dana primanja dotičnih okolnosti na znanje.</P>
+            </REVIEW_PROCEDURE>
+            <DATE_DISPATCH_NOTICE>2018-06-25</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F03_2014>
+   </FORM_SECTION>
+</TED_EXPORT>

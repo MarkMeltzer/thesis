@@ -1,0 +1,2592 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TED_EXPORT xmlns:xlink="http://www.w3.org/1999/xlink"
+            xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+            xmlns="ted/R2.0.9.S02/publication"
+            xmlns:n2016="ted/2016/nuts"
+            xsi:schemaLocation="ted/R2.0.9.S02/publication TED_EXPORT.xsd"
+            VERSION="R2.0.9.S02.E01"
+            DOC_ID="249435-2018"
+            EDITION="2018110">
+   <TECHNICAL_SECTION>
+      <RECEPTION_ID>18-249946-001</RECEPTION_ID>
+      <DELETION_DATE>20180914</DELETION_DATE>
+      <FORM_LG_LIST>DA DE EN ES FI FR EL IT NL PT SV CS ET HU LT LV MT PL SK SL GA BG RO HR </FORM_LG_LIST>
+      <COMMENTS>From Convertor</COMMENTS>
+   </TECHNICAL_SECTION>
+   <LINKS_SECTION>
+      <XML_SCHEMA_DEFINITION_LINK xlink:type="simple"
+                                  xlink:href="http://ted.europa.eu"
+                                  xlink:title="TED WEBSITE"/>
+      <OFFICIAL_FORMS_LINK xlink:type="simple" xlink:href="http://ted.europa.eu"/>
+      <FORMS_LABELS_LINK xlink:type="simple" xlink:href="http://ted.europa.eu"/>
+      <ORIGINAL_CPV_LINK xlink:type="simple" xlink:href="http://ted.europa.eu"/>
+      <ORIGINAL_NUTS_LINK xlink:type="simple" xlink:href="http://ted.europa.eu"/>
+   </LINKS_SECTION>
+   <CODED_DATA_SECTION>
+      <REF_OJS>
+         <COLL_OJ>S</COLL_OJ>
+         <NO_OJ>110</NO_OJ>
+         <DATE_PUB>20180612</DATE_PUB>
+      </REF_OJS>
+      <NOTICE_DATA>
+         <NO_DOC_OJS>2018/S 110-249435</NO_DOC_OJS>
+         <URI_LIST>
+            <URI_DOC LG="DA">http://ted.europa.eu/udl?uri=TED:NOTICE:249435-2018:TEXT:DA:HTML</URI_DOC>
+            <URI_DOC LG="DE">http://ted.europa.eu/udl?uri=TED:NOTICE:249435-2018:TEXT:DE:HTML</URI_DOC>
+            <URI_DOC LG="EN">http://ted.europa.eu/udl?uri=TED:NOTICE:249435-2018:TEXT:EN:HTML</URI_DOC>
+            <URI_DOC LG="ES">http://ted.europa.eu/udl?uri=TED:NOTICE:249435-2018:TEXT:ES:HTML</URI_DOC>
+            <URI_DOC LG="FI">http://ted.europa.eu/udl?uri=TED:NOTICE:249435-2018:TEXT:FI:HTML</URI_DOC>
+            <URI_DOC LG="FR">http://ted.europa.eu/udl?uri=TED:NOTICE:249435-2018:TEXT:FR:HTML</URI_DOC>
+            <URI_DOC LG="EL">http://ted.europa.eu/udl?uri=TED:NOTICE:249435-2018:TEXT:EL:HTML</URI_DOC>
+            <URI_DOC LG="IT">http://ted.europa.eu/udl?uri=TED:NOTICE:249435-2018:TEXT:IT:HTML</URI_DOC>
+            <URI_DOC LG="NL">http://ted.europa.eu/udl?uri=TED:NOTICE:249435-2018:TEXT:NL:HTML</URI_DOC>
+            <URI_DOC LG="PT">http://ted.europa.eu/udl?uri=TED:NOTICE:249435-2018:TEXT:PT:HTML</URI_DOC>
+            <URI_DOC LG="SV">http://ted.europa.eu/udl?uri=TED:NOTICE:249435-2018:TEXT:SV:HTML</URI_DOC>
+            <URI_DOC LG="CS">http://ted.europa.eu/udl?uri=TED:NOTICE:249435-2018:TEXT:CS:HTML</URI_DOC>
+            <URI_DOC LG="ET">http://ted.europa.eu/udl?uri=TED:NOTICE:249435-2018:TEXT:ET:HTML</URI_DOC>
+            <URI_DOC LG="HU">http://ted.europa.eu/udl?uri=TED:NOTICE:249435-2018:TEXT:HU:HTML</URI_DOC>
+            <URI_DOC LG="LT">http://ted.europa.eu/udl?uri=TED:NOTICE:249435-2018:TEXT:LT:HTML</URI_DOC>
+            <URI_DOC LG="LV">http://ted.europa.eu/udl?uri=TED:NOTICE:249435-2018:TEXT:LV:HTML</URI_DOC>
+            <URI_DOC LG="MT">http://ted.europa.eu/udl?uri=TED:NOTICE:249435-2018:TEXT:MT:HTML</URI_DOC>
+            <URI_DOC LG="PL">http://ted.europa.eu/udl?uri=TED:NOTICE:249435-2018:TEXT:PL:HTML</URI_DOC>
+            <URI_DOC LG="SK">http://ted.europa.eu/udl?uri=TED:NOTICE:249435-2018:TEXT:SK:HTML</URI_DOC>
+            <URI_DOC LG="SL">http://ted.europa.eu/udl?uri=TED:NOTICE:249435-2018:TEXT:SL:HTML</URI_DOC>
+            <URI_DOC LG="GA">http://ted.europa.eu/udl?uri=TED:NOTICE:249435-2018:TEXT:GA:HTML</URI_DOC>
+            <URI_DOC LG="BG">http://ted.europa.eu/udl?uri=TED:NOTICE:249435-2018:TEXT:BG:HTML</URI_DOC>
+            <URI_DOC LG="RO">http://ted.europa.eu/udl?uri=TED:NOTICE:249435-2018:TEXT:RO:HTML</URI_DOC>
+            <URI_DOC LG="HR">http://ted.europa.eu/udl?uri=TED:NOTICE:249435-2018:TEXT:HR:HTML</URI_DOC>
+         </URI_LIST>
+         <LG_ORIG>EN</LG_ORIG>
+         <ISO_COUNTRY VALUE="PL"/>
+         <IA_URL_GENERAL>http://www.frontex.europa.eu</IA_URL_GENERAL>
+         <ORIGINAL_CPV CODE="72316000">Data analysis services</ORIGINAL_CPV>
+         <n2016:PERFORMANCE_NUTS CODE="PL911">Miasto Warszawa</n2016:PERFORMANCE_NUTS>
+         <n2016:CA_CE_NUTS CODE="PL911">Miasto Warszawa</n2016:CA_CE_NUTS>
+         <n2016:TENDERER_NUTS CODE="00">Not specified / Other</n2016:TENDERER_NUTS>
+         <VALUES>
+            <VALUE TYPE="PROCUREMENT_TOTAL" CURRENCY="EUR">783000.00</VALUE>
+         </VALUES>
+         <REF_NOTICE>
+            <NO_DOC_OJS>2017/S 235-487320</NO_DOC_OJS>
+         </REF_NOTICE>
+      </NOTICE_DATA>
+      <CODIF_DATA>
+         <DS_DATE_DISPATCH>20180606</DS_DATE_DISPATCH>
+         <AA_AUTHORITY_TYPE CODE="5">European Institution/Agency or International Organisation</AA_AUTHORITY_TYPE>
+         <TD_DOCUMENT_TYPE CODE="7">Contract award notice</TD_DOCUMENT_TYPE>
+         <NC_CONTRACT_NATURE CODE="4">Services</NC_CONTRACT_NATURE>
+         <PR_PROC CODE="2">Restricted procedure</PR_PROC>
+         <RP_REGULATION CODE="3">European Institution/Agency or International Organisation</RP_REGULATION>
+         <TY_TYPE_BID CODE="9">Not applicable</TY_TYPE_BID>
+         <AC_AWARD_CRIT CODE="2">The most economic tender</AC_AWARD_CRIT>
+         <MA_MAIN_ACTIVITIES CODE="S">General public services</MA_MAIN_ACTIVITIES>
+         <HEADING>AGC03</HEADING>
+         <INITIATOR>AG</INITIATOR>
+         <DIRECTIVE VALUE="2014/24/EU"/>
+      </CODIF_DATA>
+   </CODED_DATA_SECTION>
+   <TRANSLATION_SECTION>
+      <ML_TITLES>
+         <ML_TI_DOC LG="DA">
+            <TI_CY>Polen</TI_CY>
+            <TI_TOWN>Warszawa</TI_TOWN>
+            <TI_TEXT>
+               <P>Maritime analyseværktøjer</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="DE">
+            <TI_CY>Polen</TI_CY>
+            <TI_TOWN>Warschau</TI_TOWN>
+            <TI_TEXT>
+               <P>Analysewerkzeuge für den Seeverkehr</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="EN">
+            <TI_CY>Poland</TI_CY>
+            <TI_TOWN>Warsaw</TI_TOWN>
+            <TI_TEXT>
+               <P>Maritime analysis tools</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="ES">
+            <TI_CY>Polonia</TI_CY>
+            <TI_TOWN>Varsovia</TI_TOWN>
+            <TI_TEXT>
+               <P>Herramientas de análisis marítimo</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="FI">
+            <TI_CY>Puola</TI_CY>
+            <TI_TOWN>Varsova</TI_TOWN>
+            <TI_TEXT>
+               <P>Merenkulun analysointivälineet</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="FR">
+            <TI_CY>Pologne</TI_CY>
+            <TI_TOWN>Varsovie</TI_TOWN>
+            <TI_TEXT>
+               <P>Outils d’analyse maritime</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="EL">
+            <TI_CY>Πολωνία</TI_CY>
+            <TI_TOWN>Βαρσοβία</TI_TOWN>
+            <TI_TEXT>
+               <P>Ναυτικά εργαλεία ανάλυσης</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="IT">
+            <TI_CY>Polonia</TI_CY>
+            <TI_TOWN>Varsavia</TI_TOWN>
+            <TI_TEXT>
+               <P>Strumenti di analisi marittima</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="NL">
+            <TI_CY>Polen</TI_CY>
+            <TI_TOWN>Warschau</TI_TOWN>
+            <TI_TEXT>
+               <P>Instrumenten voor maritieme analyse</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="PT">
+            <TI_CY>Polónia</TI_CY>
+            <TI_TOWN>Varsóvia</TI_TOWN>
+            <TI_TEXT>
+               <P>Ferramentas de análise marítima</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="SV">
+            <TI_CY>Polen</TI_CY>
+            <TI_TOWN>Warszawa</TI_TOWN>
+            <TI_TEXT>
+               <P>Maritima analysverktyg</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="CS">
+            <TI_CY>Polsko</TI_CY>
+            <TI_TOWN>Varšava</TI_TOWN>
+            <TI_TEXT>
+               <P>Námořní analytické nástroje</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="ET">
+            <TI_CY>Poola</TI_CY>
+            <TI_TOWN>Varssavi</TI_TOWN>
+            <TI_TEXT>
+               <P>Mereanalüüsi vahendid</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="HU">
+            <TI_CY>Lengyelország</TI_CY>
+            <TI_TOWN>Varsó</TI_TOWN>
+            <TI_TEXT>
+               <P>Tengerészeti elemzőeszközök</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="LT">
+            <TI_CY>Lenkija</TI_CY>
+            <TI_TOWN>Varšuva</TI_TOWN>
+            <TI_TEXT>
+               <P>Jūrų analizės priemonės</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="LV">
+            <TI_CY>Polija</TI_CY>
+            <TI_TOWN>Varšava</TI_TOWN>
+            <TI_TEXT>
+               <P>Jūras analīzes rīki</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="MT">
+            <TI_CY>il-Polonja</TI_CY>
+            <TI_TOWN>Varsavja</TI_TOWN>
+            <TI_TEXT>
+               <P>Għodod tal-analiżi marittima</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="PL">
+            <TI_CY>Polska</TI_CY>
+            <TI_TOWN>Warszawa</TI_TOWN>
+            <TI_TEXT>
+               <P>Narzędzia do analiz morskich</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="SK">
+            <TI_CY>Poľsko</TI_CY>
+            <TI_TOWN>Varšava</TI_TOWN>
+            <TI_TEXT>
+               <P>Nástroje námornej analýzy</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="SL">
+            <TI_CY>Poljska</TI_CY>
+            <TI_TOWN>Varšava</TI_TOWN>
+            <TI_TEXT>
+               <P>Pomorska analitična orodja</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="GA">
+            <TI_CY>Pholainn, an</TI_CY>
+            <TI_TOWN>Vársá</TI_TOWN>
+            <TI_TEXT>
+               <P>Uirlisí anailíse muirí</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="BG">
+            <TI_CY>Полша</TI_CY>
+            <TI_TOWN>Варшава</TI_TOWN>
+            <TI_TEXT>
+               <P>Инструменти за морски анализи</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="RO">
+            <TI_CY>Polonia</TI_CY>
+            <TI_TOWN>Varşovia</TI_TOWN>
+            <TI_TEXT>
+               <P>Instrumentele de analiză maritimă</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="HR">
+            <TI_CY>Poljska</TI_CY>
+            <TI_TOWN>Varšava</TI_TOWN>
+            <TI_TEXT>
+               <P>Alati za pomorsku analizu</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+      </ML_TITLES>
+      <ML_AA_NAMES>
+         <AA_NAME LG="DA">Det Europæiske Agentur for Grænse- og Kystbevogtning — Frontex</AA_NAME>
+         <AA_NAME LG="DE">Europäische Agentur für die Grenz- und Küstenwache — Frontex</AA_NAME>
+         <AA_NAME LG="EN">European Border and Coast Guard Agency — Frontex</AA_NAME>
+         <AA_NAME LG="ES">Agencia Europea de la Guardia de Fronteras y Costas (Frontex)</AA_NAME>
+         <AA_NAME LG="FI">Euroopan raja- ja merivartiovirasto – Frontex</AA_NAME>
+         <AA_NAME LG="FR">Agence européenne de garde-frontières et de garde-côtes (Frontex)</AA_NAME>
+         <AA_NAME LG="EL">Ευρωπαϊκός Οργανισμός Συνοριοφυλακής και Ακτοφυλακής — Frontex</AA_NAME>
+         <AA_NAME LG="IT">Agenzia europea della guardia di frontiera e costiera — Frontex</AA_NAME>
+         <AA_NAME LG="NL">Europees Grens- en kustwachtagentschap — Frontex</AA_NAME>
+         <AA_NAME LG="PT">Agência Europeia da Guarda de Fronteiras e Costeira — Frontex</AA_NAME>
+         <AA_NAME LG="SV">Europeiska gräns- och kustbevakningsbyrån – Frontex</AA_NAME>
+         <AA_NAME LG="CS">Evropská agentura pro pohraniční a pobřežní stráž – Frontex</AA_NAME>
+         <AA_NAME LG="ET">Euroopa Piiri- ja Rannikuvalve Amet (Frontex)</AA_NAME>
+         <AA_NAME LG="HU">Európai Határ- és Partvédelmi Ügynökség — Frontex</AA_NAME>
+         <AA_NAME LG="LT">Europos sienų ir pakrančių apsaugos agentūra „Frontex“</AA_NAME>
+         <AA_NAME LG="LV">Eiropas Robežu un krasta apsardzes aģentūra – Frontex</AA_NAME>
+         <AA_NAME LG="MT">L-Aġenzija Ewropea għall-Gwardja tal-Fruntiera u tal-Kosta — Frontex</AA_NAME>
+         <AA_NAME LG="PL">Europejska Agencja Straży Granicznej i Przybrzeżnej — Frontex</AA_NAME>
+         <AA_NAME LG="SK">Európska agentúra pre pohraničnú a pobrežnú stráž – Frontex</AA_NAME>
+         <AA_NAME LG="SL">Evropska agencija za mejno in obalno stražo – Frontex</AA_NAME>
+         <AA_NAME LG="GA">An Ghníomhaireacht Eorpach um an nGarda Teorann agus Cósta — Frontex</AA_NAME>
+         <AA_NAME LG="BG">Европейска агенция за гранична и брегова охрана — Frontex</AA_NAME>
+         <AA_NAME LG="RO">Agenția Europeană pentru Poliția de Frontieră și Garda de Coastă — Frontex</AA_NAME>
+         <AA_NAME LG="HR">Agencija za europsku graničnu i obalnu stražu — Frontex</AA_NAME>
+      </ML_AA_NAMES>
+   </TRANSLATION_SECTION>
+   <FORM_SECTION>
+      <F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="DA">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Det Europæiske Agentur for Grænse- og Kystbevogtning — Frontex</OFFICIALNAME>
+               <ADDRESS>Plac Europejski 6</ADDRESS>
+               <TOWN>Warsaw</TOWN>
+               <POSTAL_CODE>00-844</POSTAL_CODE>
+               <COUNTRY VALUE="PL"/>
+               <CONTACT_POINT>Frontex Procurement Sector</CONTACT_POINT>
+               <PHONE>+48 222059500</PHONE>
+               <E_MAIL>procurement@frontex.europa.eu</E_MAIL>
+               <FAX>+48 222059501</FAX>
+               <n2016:NUTS CODE="PL911"/>
+               <URL_GENERAL>http://www.frontex.europa.eu</URL_GENERAL>
+            </ADDRESS_CONTRACTING_BODY>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Maritime analyseværktøjer</P>
+            </TITLE>
+            <REFERENCE_NUMBER>Frontex/RP/1187/2017/AH</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="72316000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>Frontex har opnået multiadgang til maritime analyseværktøjer for en bestemt tidsperiode (1 år). Frontex vil benytte denne adgang til at foretage en konceptafprøvning for objektivt at forstå kapaciteterne for disse maritime analyseværktøjer (deres præstation, anvendelsesmåder, behov for støtte fra leverandøren til daglig brug, udvikling og tilpasning osv.) og måle, hvordan resultaterne for analyseværktøjet på en omkostningseffektiv måde passer med Frontex' krav til maritim risikoanalyse som støtte til multifunktionelle indsatser.</P>
+            </SHORT_DESCR>
+            <VAL_TOTAL CURRENCY="EUR">783000.00</VAL_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <n2016:NUTS CODE="PL911"/>
+               <MAIN_SITE>
+                  <P>Frontex' lokaler, Warszawa, Polen.</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>Nærværende udbud involverer levering af adgang til og udbredelse af allerede eksisterende maritime analyseværktøjer for en fastsat periode. Det omfatter desuden grundlæggende systemsupport til den daglige drift udført af leverandøren, tilpasning af systemet til de driftsmæssige behov og evaluering af ydeevnen. De nævnte aktiviteter vil foregå i Frontex' lokaler over en periode på 12 måneder.</P>
+               </SHORT_DESCR>
+               <AC_QUALITY>
+                  <AC_CRITERION>Teknisk værdi</AC_CRITERION>
+                  <AC_WEIGHTING>60</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_PRICE>
+                  <AC_WEIGHTING>40</AC_WEIGHTING>
+               </AC_PRICE>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <PROCEDURE>
+            <PT_RESTRICTED/>
+            <NO_CONTRACT_COVERED_GPA/>
+            <NOTICE_NUMBER_OJ>2017/S 235-487320</NOTICE_NUMBER_OJ>
+         </PROCEDURE>
+         <AWARD_CONTRACT ITEM="1">
+            <CONTRACT_NO>Frontex/RP/1187/2017/AH</CONTRACT_NO>
+            <TITLE>
+               <P>Maritime analyseværktøjer</P>
+            </TITLE>
+            <AWARDED_CONTRACT>
+               <DATE_CONCLUSION_CONTRACT>2018-06-04</DATE_CONCLUSION_CONTRACT>
+               <NB_TENDERS_RECEIVED>5</NB_TENDERS_RECEIVED>
+               <NO_AWARDED_TO_GROUP/>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>Windward Ltd</OFFICIALNAME>
+                     <TOWN>Tel Aviv</TOWN>
+                     <COUNTRY VALUE="IL"/>
+                     <n2016:NUTS CODE="00"/>
+                  </ADDRESS_CONTRACTOR>
+                  <NO_SME/>
+               </CONTRACTOR>
+               <VAL_ESTIMATED_TOTAL CURRENCY="EUR">1000000.00</VAL_ESTIMATED_TOTAL>
+               <VAL_TOTAL CURRENCY="EUR">783000.00</VAL_TOTAL>
+            </AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <COMPLEMENTARY_INFO>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Retten</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <E_MAIL>cfi.registry@curia.europa.eu</E_MAIL>
+               <FAX>+352 4303-2100</FAX>
+               <URL>http://www.curia.europa.eu</URL>
+            </ADDRESS_REVIEW_BODY>
+            <REVIEW_PROCEDURE>
+               <P>Senest 2 måneder efter meddelelse til klageren eller, i mangel heraf, efter den dag, sagen er taget til efterretning.</P>
+            </REVIEW_PROCEDURE>
+            <DATE_DISPATCH_NOTICE>2018-06-06</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F03_2014>
+      <F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="DE">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Europäische Agentur für die Grenz- und Küstenwache — Frontex</OFFICIALNAME>
+               <ADDRESS>Plac Europejski 6</ADDRESS>
+               <TOWN>Warsaw</TOWN>
+               <POSTAL_CODE>00-844</POSTAL_CODE>
+               <COUNTRY VALUE="PL"/>
+               <CONTACT_POINT>Frontex Procurement Sector</CONTACT_POINT>
+               <PHONE>+48 222059500</PHONE>
+               <E_MAIL>procurement@frontex.europa.eu</E_MAIL>
+               <FAX>+48 222059501</FAX>
+               <n2016:NUTS CODE="PL911"/>
+               <URL_GENERAL>http://www.frontex.europa.eu</URL_GENERAL>
+            </ADDRESS_CONTRACTING_BODY>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Analysewerkzeuge für den Seeverkehr</P>
+            </TITLE>
+            <REFERENCE_NUMBER>Frontex/RP/1187/2017/AH</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="72316000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>Frontex hat für einen bestimmten Zeitraum (1 Jahr) einen Mehrfachzugriff auf Analysewerkzeuge für den Seeverkehr erworben. Frontex wird diesen Zugang nutzen, um einen „Konzeptnachweis“ durchzuführen, um die Leistungsfähigkeiten dieser Analysewerkzeuge für den Seeverkehr (deren Leistung, Nutzungsmodalitäten, benötigte Unterstützung der Anbieter im täglichen Gebrauch, Entwicklung und Anpassungsfähigkeit usw.) objektiv zu verstehen und zu messen, wie die Ergebnisse des Analysewerkzeuges kosteneffizient zu den Risikoanalyseanforderungen des Seeverkehrs von Frontex passen, um eine vielseitige operative Reaktion zu unterstützen.</P>
+            </SHORT_DESCR>
+            <VAL_TOTAL CURRENCY="EUR">783000.00</VAL_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <n2016:NUTS CODE="PL911"/>
+               <MAIN_SITE>
+                  <P>Räumlichkeiten von Frontex, Warschau, Polen.</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>Die Beschaffung, die hier definiert wird, beinhaltet die Bereitstellung des Zugriffs und des Einsatzes bereits vorhandener Analysewerkzeuge für den Seeverkehr für einen festgelegten Zeitraum. Dazu gehört auch die wesentliche Systemunterstützung des Anbieters im täglichen Betrieb, die Anpassung an die betrieblichen Bedürfnisse und die Leistungsbewertung. Diese Aktivitäten finden in den Räumlichkeiten von Frontex über einen Zeitraum von 12 Monaten statt.</P>
+               </SHORT_DESCR>
+               <AC_QUALITY>
+                  <AC_CRITERION>Technischer Wert</AC_CRITERION>
+                  <AC_WEIGHTING>60</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_PRICE>
+                  <AC_WEIGHTING>40</AC_WEIGHTING>
+               </AC_PRICE>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <PROCEDURE>
+            <PT_RESTRICTED/>
+            <NO_CONTRACT_COVERED_GPA/>
+            <NOTICE_NUMBER_OJ>2017/S 235-487320</NOTICE_NUMBER_OJ>
+         </PROCEDURE>
+         <AWARD_CONTRACT ITEM="1">
+            <CONTRACT_NO>Frontex/RP/1187/2017/AH</CONTRACT_NO>
+            <TITLE>
+               <P>Analysewerkzeuge für den Seeverkehr</P>
+            </TITLE>
+            <AWARDED_CONTRACT>
+               <DATE_CONCLUSION_CONTRACT>2018-06-04</DATE_CONCLUSION_CONTRACT>
+               <NB_TENDERS_RECEIVED>5</NB_TENDERS_RECEIVED>
+               <NO_AWARDED_TO_GROUP/>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>Windward Ltd</OFFICIALNAME>
+                     <TOWN>Tel Aviv</TOWN>
+                     <COUNTRY VALUE="IL"/>
+                     <n2016:NUTS CODE="00"/>
+                  </ADDRESS_CONTRACTOR>
+                  <NO_SME/>
+               </CONTRACTOR>
+               <VAL_ESTIMATED_TOTAL CURRENCY="EUR">1000000.00</VAL_ESTIMATED_TOTAL>
+               <VAL_TOTAL CURRENCY="EUR">783000.00</VAL_TOTAL>
+            </AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <COMPLEMENTARY_INFO>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Gericht</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <E_MAIL>cfi.registry@curia.europa.eu</E_MAIL>
+               <FAX>+352 4303-2100</FAX>
+               <URL>http://www.curia.europa.eu</URL>
+            </ADDRESS_REVIEW_BODY>
+            <REVIEW_PROCEDURE>
+               <P>Binnen 2 Monaten ab Mitteilung an den Kläger oder, in Ermangelung dessen, ab dem Zeitpunkt der Kenntnisnahme.</P>
+            </REVIEW_PROCEDURE>
+            <DATE_DISPATCH_NOTICE>2018-06-06</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F03_2014>
+      <F03_2014 CATEGORY="ORIGINAL" FORM="F03" LG="EN">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>European Border and Coast Guard Agency — Frontex</OFFICIALNAME>
+               <ADDRESS>Plac Europejski 6</ADDRESS>
+               <TOWN>Warsaw</TOWN>
+               <POSTAL_CODE>00-844</POSTAL_CODE>
+               <COUNTRY VALUE="PL"/>
+               <CONTACT_POINT>Frontex Procurement Sector</CONTACT_POINT>
+               <PHONE>+48 222059500</PHONE>
+               <E_MAIL>procurement@frontex.europa.eu</E_MAIL>
+               <FAX>+48 222059501</FAX>
+               <n2016:NUTS CODE="PL911"/>
+               <URL_GENERAL>http://www.frontex.europa.eu</URL_GENERAL>
+            </ADDRESS_CONTRACTING_BODY>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Maritime analysis tools</P>
+            </TITLE>
+            <REFERENCE_NUMBER>Frontex/RP/1187/2017/AH</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="72316000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>Frontex has acquired multiple access to maritime analysis tools for a specific period of time (1 year). Frontex will use this access to carry out a “proof of concept” to objectively understand the capacities of these maritime analytical tools (their performance, modality of use, provider support needed in the daily use,evolution and adaptability, etc.) and to measure how the analytical tool outcomes fit, in a cost-efficient way, with Frontex maritime risk analysis requirements to support multipurpose operational response.</P>
+            </SHORT_DESCR>
+            <VAL_TOTAL CURRENCY="EUR">783000.00</VAL_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <n2016:NUTS CODE="PL911"/>
+               <MAIN_SITE>
+                  <P>Frontex premises, Warsaw, Poland.</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>The procurement defined herein involves the provision of access and deployment of already existing Maritime Analysis Tools for a fixed time period. This also comprises the essential system support by the provider in daily operations, its adaptation to operational needs, and performance evaluation. These activities shall take place in Frontex premises over a period of 12 months.</P>
+               </SHORT_DESCR>
+               <AC_QUALITY>
+                  <AC_CRITERION>Technical merit</AC_CRITERION>
+                  <AC_WEIGHTING>60</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_PRICE>
+                  <AC_WEIGHTING>40</AC_WEIGHTING>
+               </AC_PRICE>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <PROCEDURE>
+            <PT_RESTRICTED/>
+            <NO_CONTRACT_COVERED_GPA/>
+            <NOTICE_NUMBER_OJ>2017/S 235-487320</NOTICE_NUMBER_OJ>
+         </PROCEDURE>
+         <AWARD_CONTRACT ITEM="1">
+            <CONTRACT_NO>Frontex/RP/1187/2017/AH</CONTRACT_NO>
+            <TITLE>
+               <P>Maritime analysis tools</P>
+            </TITLE>
+            <AWARDED_CONTRACT>
+               <DATE_CONCLUSION_CONTRACT>2018-06-04</DATE_CONCLUSION_CONTRACT>
+               <NB_TENDERS_RECEIVED>5</NB_TENDERS_RECEIVED>
+               <NO_AWARDED_TO_GROUP/>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>Windward Ltd</OFFICIALNAME>
+                     <TOWN>Tel Aviv</TOWN>
+                     <COUNTRY VALUE="IL"/>
+                     <n2016:NUTS CODE="00"/>
+                  </ADDRESS_CONTRACTOR>
+                  <NO_SME/>
+               </CONTRACTOR>
+               <VAL_ESTIMATED_TOTAL CURRENCY="EUR">1000000.00</VAL_ESTIMATED_TOTAL>
+               <VAL_TOTAL CURRENCY="EUR">783000.00</VAL_TOTAL>
+            </AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <COMPLEMENTARY_INFO>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>General Court</OFFICIALNAME>
+               <ADDRESS>rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <E_MAIL>cfi.registry@curia.europa.eu</E_MAIL>
+               <FAX>+352 4303-2100</FAX>
+               <URL>http://www.curia.europa.eu</URL>
+            </ADDRESS_REVIEW_BODY>
+            <REVIEW_PROCEDURE>
+               <P>Within 2 months of the notification to the plaintiff, or, in absence thereof, of the day on which it came to the knowledge.</P>
+            </REVIEW_PROCEDURE>
+            <DATE_DISPATCH_NOTICE>2018-06-06</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F03_2014>
+      <F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="ES">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Agencia Europea de la Guardia de Fronteras y Costas (Frontex)</OFFICIALNAME>
+               <ADDRESS>Plac Europejski 6</ADDRESS>
+               <TOWN>Warsaw</TOWN>
+               <POSTAL_CODE>00-844</POSTAL_CODE>
+               <COUNTRY VALUE="PL"/>
+               <CONTACT_POINT>Frontex Procurement Sector</CONTACT_POINT>
+               <PHONE>+48 222059500</PHONE>
+               <E_MAIL>procurement@frontex.europa.eu</E_MAIL>
+               <FAX>+48 222059501</FAX>
+               <n2016:NUTS CODE="PL911"/>
+               <URL_GENERAL>http://www.frontex.europa.eu</URL_GENERAL>
+            </ADDRESS_CONTRACTING_BODY>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Herramientas de análisis marítimo</P>
+            </TITLE>
+            <REFERENCE_NUMBER>Frontex/RP/1187/2017/AH</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="72316000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>Frontex ha adquirido acceso múltiple a herramientas de análisis marítimo para una duración determinada (1 año). Frontex utilizará dicho acceso para realizar una «prueba de concepto» a fin de conocer objetivamente las capacidades de estas herramientas marítimas de análisis (su funcionamiento, modalidad de uso, proveedor de asistencia necesario para el uso diario, evolución y adaptabilidad, etc.) y de determinar la pertinencia de los resultados de la herramienta analítica, de manera eficiente, de conformidad con los requerimientos de análisis de riesgos marítimos de Frontex para dar apoyo a una respuesta operativa multipropósito.</P>
+            </SHORT_DESCR>
+            <VAL_TOTAL CURRENCY="EUR">783000.00</VAL_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <n2016:NUTS CODE="PL911"/>
+               <MAIN_SITE>
+                  <P>Las instalaciones de Frontex, Varsovia, Polonia.</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>El presente contrato incluye la provisión del acceso y la implementación de las herramientas de análisis marítimos ya existentes por un período determinado. También incluye el mantenimiento del sistema esencial por parte del proveedor en operaciones diarias, su adaptación a las necesidades operativas y evaluación de rendimiento. Estas actividades se desarrollarán en las instalaciones de Frontex durante un período de 12 meses.</P>
+               </SHORT_DESCR>
+               <AC_QUALITY>
+                  <AC_CRITERION>Valor técnico</AC_CRITERION>
+                  <AC_WEIGHTING>60</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_PRICE>
+                  <AC_WEIGHTING>40</AC_WEIGHTING>
+               </AC_PRICE>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <PROCEDURE>
+            <PT_RESTRICTED/>
+            <NO_CONTRACT_COVERED_GPA/>
+            <NOTICE_NUMBER_OJ>2017/S 235-487320</NOTICE_NUMBER_OJ>
+         </PROCEDURE>
+         <AWARD_CONTRACT ITEM="1">
+            <CONTRACT_NO>Frontex/RP/1187/2017/AH</CONTRACT_NO>
+            <TITLE>
+               <P>Herramientas de análisis marítimo</P>
+            </TITLE>
+            <AWARDED_CONTRACT>
+               <DATE_CONCLUSION_CONTRACT>2018-06-04</DATE_CONCLUSION_CONTRACT>
+               <NB_TENDERS_RECEIVED>5</NB_TENDERS_RECEIVED>
+               <NO_AWARDED_TO_GROUP/>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>Windward Ltd</OFFICIALNAME>
+                     <TOWN>Tel Aviv</TOWN>
+                     <COUNTRY VALUE="IL"/>
+                     <n2016:NUTS CODE="00"/>
+                  </ADDRESS_CONTRACTOR>
+                  <NO_SME/>
+               </CONTRACTOR>
+               <VAL_ESTIMATED_TOTAL CURRENCY="EUR">1000000.00</VAL_ESTIMATED_TOTAL>
+               <VAL_TOTAL CURRENCY="EUR">783000.00</VAL_TOTAL>
+            </AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <COMPLEMENTARY_INFO>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Tribunal General</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <E_MAIL>cfi.registry@curia.europa.eu</E_MAIL>
+               <FAX>+352 4303-2100</FAX>
+               <URL>http://www.curia.europa.eu</URL>
+            </ADDRESS_REVIEW_BODY>
+            <REVIEW_PROCEDURE>
+               <P>En un plazo de 2 meses a partir de la notificación al recurrente o, en su defecto, del día en que este haya tenido conocimiento del acto en cuestión.</P>
+            </REVIEW_PROCEDURE>
+            <DATE_DISPATCH_NOTICE>2018-06-06</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F03_2014>
+      <F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="FI">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Euroopan raja- ja merivartiovirasto – Frontex</OFFICIALNAME>
+               <ADDRESS>Plac Europejski 6</ADDRESS>
+               <TOWN>Warsaw</TOWN>
+               <POSTAL_CODE>00-844</POSTAL_CODE>
+               <COUNTRY VALUE="PL"/>
+               <CONTACT_POINT>Frontex Procurement Sector</CONTACT_POINT>
+               <PHONE>+48 222059500</PHONE>
+               <E_MAIL>procurement@frontex.europa.eu</E_MAIL>
+               <FAX>+48 222059501</FAX>
+               <n2016:NUTS CODE="PL911"/>
+               <URL_GENERAL>http://www.frontex.europa.eu</URL_GENERAL>
+            </ADDRESS_CONTRACTING_BODY>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Merenkulun analysointivälineet</P>
+            </TITLE>
+            <REFERENCE_NUMBER>Frontex/RP/1187/2017/AH</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="72316000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>Frontex on hankkinut merenkulun analysointivälineiden useita käyttöoikeuksia tietyn ajanjakson ajalle (1 vuosi). Frontex käyttää käyttöoikeuksia ”konseptin toimivuuden osoittamiseksi”, jotta voidaan saada käsitys kyseisten merenkulun analysointivälineiden valmiuksista (niiden suorituskyky, käyttötapa, päivittäisissä toimissa tarvittava toimittajan tuki, kehitys, mukautettavuus jne.) ja mitata, miten analyysivälineiden tulokset sopivat kustannustehokkaasti Frontexin merenkulun riskianalyysia koskeviin vaatimuksiin, jotta voidaan tukea monikäyttöistä operatiivista toimintaa.</P>
+            </SHORT_DESCR>
+            <VAL_TOTAL CURRENCY="EUR">783000.00</VAL_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <n2016:NUTS CODE="PL911"/>
+               <MAIN_SITE>
+                  <P>Frontexin toimitilat, Varsova, Puola.</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>Tässä yhteydessä kuvattu hankinta koskee käyttöoikeuden hankkimista olemassa oleviin merenkulun analyysivälineisiin sekä niiden käyttöönottamista määrätyksi ajaksi. Lisäksi hankintaan sisältyy toimittajan olennainen järjestelmätuki päivittäisiä toimia varten, järjestelmän mukauttaminen operatiivisiin tarpeisiin sekä suorituskyvyn arviointi. Tämä palvelut toteutetaan Frontexin toimitiloissa 12 kuukauden aikana.</P>
+               </SHORT_DESCR>
+               <AC_QUALITY>
+                  <AC_CRITERION>tekniset ansiot</AC_CRITERION>
+                  <AC_WEIGHTING>60</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_PRICE>
+                  <AC_WEIGHTING>40</AC_WEIGHTING>
+               </AC_PRICE>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <PROCEDURE>
+            <PT_RESTRICTED/>
+            <NO_CONTRACT_COVERED_GPA/>
+            <NOTICE_NUMBER_OJ>2017/S 235-487320</NOTICE_NUMBER_OJ>
+         </PROCEDURE>
+         <AWARD_CONTRACT ITEM="1">
+            <CONTRACT_NO>Frontex/RP/1187/2017/AH</CONTRACT_NO>
+            <TITLE>
+               <P>Merenkulun analysointivälineet</P>
+            </TITLE>
+            <AWARDED_CONTRACT>
+               <DATE_CONCLUSION_CONTRACT>2018-06-04</DATE_CONCLUSION_CONTRACT>
+               <NB_TENDERS_RECEIVED>5</NB_TENDERS_RECEIVED>
+               <NO_AWARDED_TO_GROUP/>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>Windward Ltd</OFFICIALNAME>
+                     <TOWN>Tel Aviv</TOWN>
+                     <COUNTRY VALUE="IL"/>
+                     <n2016:NUTS CODE="00"/>
+                  </ADDRESS_CONTRACTOR>
+                  <NO_SME/>
+               </CONTRACTOR>
+               <VAL_ESTIMATED_TOTAL CURRENCY="EUR">1000000.00</VAL_ESTIMATED_TOTAL>
+               <VAL_TOTAL CURRENCY="EUR">783000.00</VAL_TOTAL>
+            </AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <COMPLEMENTARY_INFO>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Unionin yleinen tuomioistuin</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <E_MAIL>cfi.registry@curia.europa.eu</E_MAIL>
+               <FAX>+352 4303-2100</FAX>
+               <URL>http://www.curia.europa.eu</URL>
+            </ADDRESS_REVIEW_BODY>
+            <REVIEW_PROCEDURE>
+               <P>muutoksenhakupyynnöt on jätettävä 2 kuukauden kuluessa siitä, kun asianomistaja on saanut ilmoituksen asiasta tai, mikäli ilmoitusta ei ole tehty, 2 kuukauden kuluessa siitä päivästä, kun asia on saatu tiedoksi.</P>
+            </REVIEW_PROCEDURE>
+            <DATE_DISPATCH_NOTICE>2018-06-06</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F03_2014>
+      <F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="FR">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Agence européenne de garde-frontières et de garde-côtes (Frontex)</OFFICIALNAME>
+               <ADDRESS>Plac Europejski 6</ADDRESS>
+               <TOWN>Warsaw</TOWN>
+               <POSTAL_CODE>00-844</POSTAL_CODE>
+               <COUNTRY VALUE="PL"/>
+               <CONTACT_POINT>Frontex Procurement Sector</CONTACT_POINT>
+               <PHONE>+48 222059500</PHONE>
+               <E_MAIL>procurement@frontex.europa.eu</E_MAIL>
+               <FAX>+48 222059501</FAX>
+               <n2016:NUTS CODE="PL911"/>
+               <URL_GENERAL>http://www.frontex.europa.eu</URL_GENERAL>
+            </ADDRESS_CONTRACTING_BODY>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Outils d’analyse maritime</P>
+            </TITLE>
+            <REFERENCE_NUMBER>Frontex/RP/1187/2017/AH</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="72316000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>Frontex a acquis de multiples accès à des outils d’analyse maritime pour une période spécifique (1 an). Frontex utilisera cet accès pour mener une «preuve de concept» pour comprendre objectivement les capacités de ces outils d’analyse maritime (leurs performances, leurs modalités d’utilisation, le soutien du fournisseur requis au cours de leur utilisation quotidienne, leur évolution et capacité d’adaptation, etc) et mesurer comment les résultats des outils d’analyse correspondent, d’une manière rentable, aux exigences d’analyse des risques maritimes de Frontex pour soutenir une réponse opérationnelle polyvalente.</P>
+            </SHORT_DESCR>
+            <VAL_TOTAL CURRENCY="EUR">783000.00</VAL_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <n2016:NUTS CODE="PL911"/>
+               <MAIN_SITE>
+                  <P>Locaux de Frontex, Varsovie, Pologne.</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>L’approvisionnement défini ici concerne la mise à disposition d’un accès et un déploiement des outils d’analyse maritime déjà existants pour une période de temps définie. Cela comprend également le soutien au système essentiel par le fournisseur au cours des opérations quotidiennes, son adaptation aux besoins opérationnels et l’évaluation de sa performance. Ces activités doivent avoir lieu dans les locaux de Frontex durant une période de 12 mois.</P>
+               </SHORT_DESCR>
+               <AC_QUALITY>
+                  <AC_CRITERION>Valeur technique</AC_CRITERION>
+                  <AC_WEIGHTING>60</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_PRICE>
+                  <AC_WEIGHTING>40</AC_WEIGHTING>
+               </AC_PRICE>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <PROCEDURE>
+            <PT_RESTRICTED/>
+            <NO_CONTRACT_COVERED_GPA/>
+            <NOTICE_NUMBER_OJ>2017/S 235-487320</NOTICE_NUMBER_OJ>
+         </PROCEDURE>
+         <AWARD_CONTRACT ITEM="1">
+            <CONTRACT_NO>Frontex/RP/1187/2017/AH</CONTRACT_NO>
+            <TITLE>
+               <P>Outils d’analyse maritime</P>
+            </TITLE>
+            <AWARDED_CONTRACT>
+               <DATE_CONCLUSION_CONTRACT>2018-06-04</DATE_CONCLUSION_CONTRACT>
+               <NB_TENDERS_RECEIVED>5</NB_TENDERS_RECEIVED>
+               <NO_AWARDED_TO_GROUP/>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>Windward Ltd</OFFICIALNAME>
+                     <TOWN>Tel Aviv</TOWN>
+                     <COUNTRY VALUE="IL"/>
+                     <n2016:NUTS CODE="00"/>
+                  </ADDRESS_CONTRACTOR>
+                  <NO_SME/>
+               </CONTRACTOR>
+               <VAL_ESTIMATED_TOTAL CURRENCY="EUR">1000000.00</VAL_ESTIMATED_TOTAL>
+               <VAL_TOTAL CURRENCY="EUR">783000.00</VAL_TOTAL>
+            </AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <COMPLEMENTARY_INFO>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Tribunal</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <E_MAIL>cfi.registry@curia.europa.eu</E_MAIL>
+               <FAX>+352 4303-2100</FAX>
+               <URL>http://www.curia.europa.eu</URL>
+            </ADDRESS_REVIEW_BODY>
+            <REVIEW_PROCEDURE>
+               <P>Dans les 2 mois à compter de la notification au requérant ou, à défaut, du jour où celui-ci en a eu connaissance.</P>
+            </REVIEW_PROCEDURE>
+            <DATE_DISPATCH_NOTICE>2018-06-06</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F03_2014>
+      <F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="EL">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Ευρωπαϊκός Οργανισμός Συνοριοφυλακής και Ακτοφυλακής — Frontex</OFFICIALNAME>
+               <ADDRESS>Plac Europejski 6</ADDRESS>
+               <TOWN>Warsaw</TOWN>
+               <POSTAL_CODE>00-844</POSTAL_CODE>
+               <COUNTRY VALUE="PL"/>
+               <CONTACT_POINT>Frontex Procurement Sector</CONTACT_POINT>
+               <PHONE>+48 222059500</PHONE>
+               <E_MAIL>procurement@frontex.europa.eu</E_MAIL>
+               <FAX>+48 222059501</FAX>
+               <n2016:NUTS CODE="PL911"/>
+               <URL_GENERAL>http://www.frontex.europa.eu</URL_GENERAL>
+            </ADDRESS_CONTRACTING_BODY>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Ναυτικά εργαλεία ανάλυσης</P>
+            </TITLE>
+            <REFERENCE_NUMBER>Frontex/RP/1187/2017/AH</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="72316000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>Ο Frontex έχει αποκτήσει πολλαπλή πρόσβαση σε εργαλεία θαλάσσιας ανάλυσης για συγκεκριμένο χρονικό διάστημα (1 έτος). Ο Frontex θα χρησιμοποιήσει αυτή την πρόσβαση για να κάνει μια εξακρίβωση προκειμένου να κατανοήσει αντικειμενικά τις ικανότητες αυτών των ναυτικών αναλυτικών εργαλείων (τις επιδόσεις τους, τον τρόπο χρήσης τους, την υποστήριξη των παρόχων που χρειάζονται στην καθημερινή χρήση, την εξέλιξη και την προσαρμοστικότητα, κ.λπ.) και να μετρήσει πώς τα αποτελέσματα του αναλυτικού εργαλείου ταιριάζουν, με οικονομικά αποδοτικό τρόπο, με τις απαιτήσεις ανάλυσης κινδύνου του Frontex για την υποστήριξη της επιχειρησιακής ανταπόκρισης πολλαπλών σκοπών.</P>
+            </SHORT_DESCR>
+            <VAL_TOTAL CURRENCY="EUR">783000.00</VAL_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <n2016:NUTS CODE="PL911"/>
+               <MAIN_SITE>
+                  <P>Εγκαταστάσεις του Frontex, Βαρσοβία, Πολωνία.</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>Η προκήρυξη που ορίζεται στο παρόν έγγραφο αφορά την παροχή πρόσβασης και την ανάπτυξη ήδη υφιστάμενων εργαλείων θαλάσσιας ανάλυσης για μια καθορισμένη χρονική περίοδο. Αυτό περιλαμβάνει επίσης την ουσιαστική υποστήριξη του συστήματος από τον πάροχο στις καθημερινές επιχειρήσεις, την προσαρμογή του στις επιχειρησιακές ανάγκες και την αξιολόγηση της απόδοσης. Οι δραστηριότητες αυτές θα πραγματοποιηθούν στις εγκαταστάσεις του Frontex για διάστημα 12 μηνών.</P>
+               </SHORT_DESCR>
+               <AC_QUALITY>
+                  <AC_CRITERION>Τεχνική αξία</AC_CRITERION>
+                  <AC_WEIGHTING>60</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_PRICE>
+                  <AC_WEIGHTING>40</AC_WEIGHTING>
+               </AC_PRICE>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <PROCEDURE>
+            <PT_RESTRICTED/>
+            <NO_CONTRACT_COVERED_GPA/>
+            <NOTICE_NUMBER_OJ>2017/S 235-487320</NOTICE_NUMBER_OJ>
+         </PROCEDURE>
+         <AWARD_CONTRACT ITEM="1">
+            <CONTRACT_NO>Frontex/RP/1187/2017/AH</CONTRACT_NO>
+            <TITLE>
+               <P>Ναυτικά εργαλεία ανάλυσης</P>
+            </TITLE>
+            <AWARDED_CONTRACT>
+               <DATE_CONCLUSION_CONTRACT>2018-06-04</DATE_CONCLUSION_CONTRACT>
+               <NB_TENDERS_RECEIVED>5</NB_TENDERS_RECEIVED>
+               <NO_AWARDED_TO_GROUP/>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>Windward Ltd</OFFICIALNAME>
+                     <TOWN>Tel Aviv</TOWN>
+                     <COUNTRY VALUE="IL"/>
+                     <n2016:NUTS CODE="00"/>
+                  </ADDRESS_CONTRACTOR>
+                  <NO_SME/>
+               </CONTRACTOR>
+               <VAL_ESTIMATED_TOTAL CURRENCY="EUR">1000000.00</VAL_ESTIMATED_TOTAL>
+               <VAL_TOTAL CURRENCY="EUR">783000.00</VAL_TOTAL>
+            </AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <COMPLEMENTARY_INFO>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Γενικό Δικαστήριο</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <E_MAIL>cfi.registry@curia.europa.eu</E_MAIL>
+               <FAX>+352 4303-2100</FAX>
+               <URL>http://www.curia.europa.eu</URL>
+            </ADDRESS_REVIEW_BODY>
+            <REVIEW_PROCEDURE>
+               <P>Εντός 2 μηνών από την κοινοποίηση στον προσφεύγοντα ή, ελλείψει τέτοιας, από την ημέρα που ο ίδιος έλαβε γνώση.</P>
+            </REVIEW_PROCEDURE>
+            <DATE_DISPATCH_NOTICE>2018-06-06</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F03_2014>
+      <F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="IT">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Agenzia europea della guardia di frontiera e costiera — Frontex</OFFICIALNAME>
+               <ADDRESS>Plac Europejski 6</ADDRESS>
+               <TOWN>Warsaw</TOWN>
+               <POSTAL_CODE>00-844</POSTAL_CODE>
+               <COUNTRY VALUE="PL"/>
+               <CONTACT_POINT>Frontex Procurement Sector</CONTACT_POINT>
+               <PHONE>+48 222059500</PHONE>
+               <E_MAIL>procurement@frontex.europa.eu</E_MAIL>
+               <FAX>+48 222059501</FAX>
+               <n2016:NUTS CODE="PL911"/>
+               <URL_GENERAL>http://www.frontex.europa.eu</URL_GENERAL>
+            </ADDRESS_CONTRACTING_BODY>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Strumenti di analisi marittima</P>
+            </TITLE>
+            <REFERENCE_NUMBER>Frontex/RP/1187/2017/AH</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="72316000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>Frontex ha acquisito un accesso multiplo agli strumenti di analisi marittima per un determinato periodo di tempo (1 anno). Frontex utilizzerà tale accesso per eseguire una "dimostrazione del concetto" per comprendere oggettivamente le capacità di questi strumenti analitici marittimi (le loro prestazioni, modalità di utilizzo, sostegno dell'operatore necessario per l'uso quotidiano, evoluzione e adattabilità, ecc.) e per misurare in che modo i risultati dello strumento analitico si adattano, in modo economicamente efficiente, ai requisiti di analisi del rischio marittimo di Frontex per sostenere la risposta operativa multifunzione.</P>
+            </SHORT_DESCR>
+            <VAL_TOTAL CURRENCY="EUR">783000.00</VAL_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <n2016:NUTS CODE="PL911"/>
+               <MAIN_SITE>
+                  <P>Locali di Frontex, Varsavia, Polonia.</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>L'appalto qui definito riguarda la fornitura dell'accesso e l'impiego di strumenti di analisi marittima già esistenti per un periodo di tempo prestabilito. Ciò comprende anche il sostegno essenziale al sistema da parte del fornitore nelle operazioni quotidiane, il suo adeguamento alle esigenze operative e la valutazione delle prestazioni. Queste attività si svolgeranno nei locali di Frontex per un periodo di 12 mesi.</P>
+               </SHORT_DESCR>
+               <AC_QUALITY>
+                  <AC_CRITERION>Merito tecnico</AC_CRITERION>
+                  <AC_WEIGHTING>60</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_PRICE>
+                  <AC_WEIGHTING>40</AC_WEIGHTING>
+               </AC_PRICE>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <PROCEDURE>
+            <PT_RESTRICTED/>
+            <NO_CONTRACT_COVERED_GPA/>
+            <NOTICE_NUMBER_OJ>2017/S 235-487320</NOTICE_NUMBER_OJ>
+         </PROCEDURE>
+         <AWARD_CONTRACT ITEM="1">
+            <CONTRACT_NO>Frontex/RP/1187/2017/AH</CONTRACT_NO>
+            <TITLE>
+               <P>Strumenti di analisi marittima</P>
+            </TITLE>
+            <AWARDED_CONTRACT>
+               <DATE_CONCLUSION_CONTRACT>2018-06-04</DATE_CONCLUSION_CONTRACT>
+               <NB_TENDERS_RECEIVED>5</NB_TENDERS_RECEIVED>
+               <NO_AWARDED_TO_GROUP/>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>Windward Ltd</OFFICIALNAME>
+                     <TOWN>Tel Aviv</TOWN>
+                     <COUNTRY VALUE="IL"/>
+                     <n2016:NUTS CODE="00"/>
+                  </ADDRESS_CONTRACTOR>
+                  <NO_SME/>
+               </CONTRACTOR>
+               <VAL_ESTIMATED_TOTAL CURRENCY="EUR">1000000.00</VAL_ESTIMATED_TOTAL>
+               <VAL_TOTAL CURRENCY="EUR">783000.00</VAL_TOTAL>
+            </AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <COMPLEMENTARY_INFO>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Tribunale</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <E_MAIL>cfi.registry@curia.europa.eu</E_MAIL>
+               <FAX>+352 4303-2100</FAX>
+               <URL>http://www.curia.europa.eu</URL>
+            </ADDRESS_REVIEW_BODY>
+            <REVIEW_PROCEDURE>
+               <P>Entro 2 mesi dalla notifica al ricorrente o, in assenza, dal giorno in cui ne è venuto a conoscenza.</P>
+            </REVIEW_PROCEDURE>
+            <DATE_DISPATCH_NOTICE>2018-06-06</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F03_2014>
+      <F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="NL">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Europees Grens- en kustwachtagentschap — Frontex</OFFICIALNAME>
+               <ADDRESS>Plac Europejski 6</ADDRESS>
+               <TOWN>Warsaw</TOWN>
+               <POSTAL_CODE>00-844</POSTAL_CODE>
+               <COUNTRY VALUE="PL"/>
+               <CONTACT_POINT>Frontex Procurement Sector</CONTACT_POINT>
+               <PHONE>+48 222059500</PHONE>
+               <E_MAIL>procurement@frontex.europa.eu</E_MAIL>
+               <FAX>+48 222059501</FAX>
+               <n2016:NUTS CODE="PL911"/>
+               <URL_GENERAL>http://www.frontex.europa.eu</URL_GENERAL>
+            </ADDRESS_CONTRACTING_BODY>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Instrumenten voor maritieme analyse</P>
+            </TITLE>
+            <REFERENCE_NUMBER>Frontex/RP/1187/2017/AH</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="72316000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>Frontex wil toegang tot meerdere (minstens 4) instrumenten voor maritieme analyse verwerven voor een bepaalde periode (1 jaar). Frontex zal deze toegang gebruiken om een „bewijs van concept” uit te voeren om tot een objectief begrip te komen over de mogelijkheden van deze instrumenten voor maritieme analyse (hun werking, gebruikswijze, noodzakelijke ondersteuning van de aanbieder bij dagelijks gebruik, ontwikkeling en aanpassingsvermogen, enz.) en om te meten hoe de resultaten van het analyse-instrument op kosteneffectieve wijze voldoen aan de vereisten van Frontex inzake maritieme risicoanalyse ter ondersteuning van multifunctionele operationele interventies.</P>
+            </SHORT_DESCR>
+            <VAL_TOTAL CURRENCY="EUR">783000.00</VAL_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <n2016:NUTS CODE="PL911"/>
+               <MAIN_SITE>
+                  <P>Kantoren van Frontex, Warschau, Polen.</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>De hierin beschreven aanbesteding omvat het verlenen van toegang en het inzetten van reeds bestaande maritieme instrumenten voor maritieme analyse voor een vaste periode. Dit omvat ook de essentiële systeemondersteuning door de leverancier bij de dagelijkse activiteiten, de aanpassing daarvan aan de operationele behoeften en de evaluatie van de prestaties. Deze activiteiten vinden plaats in de kantoren van Frontex gedurende een periode van twaalf maanden.</P>
+               </SHORT_DESCR>
+               <AC_QUALITY>
+                  <AC_CRITERION>technische waarde</AC_CRITERION>
+                  <AC_WEIGHTING>60</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_PRICE>
+                  <AC_WEIGHTING>40</AC_WEIGHTING>
+               </AC_PRICE>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <PROCEDURE>
+            <PT_RESTRICTED/>
+            <NO_CONTRACT_COVERED_GPA/>
+            <NOTICE_NUMBER_OJ>2017/S 235-487320</NOTICE_NUMBER_OJ>
+         </PROCEDURE>
+         <AWARD_CONTRACT ITEM="1">
+            <CONTRACT_NO>Frontex/RP/1187/2017/AH</CONTRACT_NO>
+            <TITLE>
+               <P>Instrumenten voor maritieme analyse</P>
+            </TITLE>
+            <AWARDED_CONTRACT>
+               <DATE_CONCLUSION_CONTRACT>2018-06-04</DATE_CONCLUSION_CONTRACT>
+               <NB_TENDERS_RECEIVED>5</NB_TENDERS_RECEIVED>
+               <NO_AWARDED_TO_GROUP/>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>Windward Ltd</OFFICIALNAME>
+                     <TOWN>Tel Aviv</TOWN>
+                     <COUNTRY VALUE="IL"/>
+                     <n2016:NUTS CODE="00"/>
+                  </ADDRESS_CONTRACTOR>
+                  <NO_SME/>
+               </CONTRACTOR>
+               <VAL_ESTIMATED_TOTAL CURRENCY="EUR">1000000.00</VAL_ESTIMATED_TOTAL>
+               <VAL_TOTAL CURRENCY="EUR">783000.00</VAL_TOTAL>
+            </AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <COMPLEMENTARY_INFO>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Gerecht</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <E_MAIL>cfi.registry@curia.europa.eu</E_MAIL>
+               <FAX>+352 4303-2100</FAX>
+               <URL>http://www.curia.europa.eu</URL>
+            </ADDRESS_REVIEW_BODY>
+            <REVIEW_PROCEDURE>
+               <P>binnen 2 maanden na de kennisgeving aan de klager of, bij ontbreken daarvan, binnen 2 maanden na de dag waarop het bekend werd.</P>
+            </REVIEW_PROCEDURE>
+            <DATE_DISPATCH_NOTICE>2018-06-06</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F03_2014>
+      <F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="PT">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Agência Europeia da Guarda de Fronteiras e Costeira — Frontex</OFFICIALNAME>
+               <ADDRESS>Plac Europejski 6</ADDRESS>
+               <TOWN>Warsaw</TOWN>
+               <POSTAL_CODE>00-844</POSTAL_CODE>
+               <COUNTRY VALUE="PL"/>
+               <CONTACT_POINT>Frontex Procurement Sector</CONTACT_POINT>
+               <PHONE>+48 222059500</PHONE>
+               <E_MAIL>procurement@frontex.europa.eu</E_MAIL>
+               <FAX>+48 222059501</FAX>
+               <n2016:NUTS CODE="PL911"/>
+               <URL_GENERAL>http://www.frontex.europa.eu</URL_GENERAL>
+            </ADDRESS_CONTRACTING_BODY>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Ferramentas de análise marítima</P>
+            </TITLE>
+            <REFERENCE_NUMBER>Frontex/RP/1187/2017/AH</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="72316000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>A Frontex pretende adquirir um acesso múltiplo a ferramentas de análise marítima por um período de tempo específico (1 ano). A Frontex utilizará o referido acesso para realizar uma «prova de conceito» para compreender objetivamente as capacidades das ferramentas de análise marítima em causa (respetivo desempenho, modalidade de uso, apoio do prestador necessário no uso diário, evolução e adaptabilidade, etc.) e avaliar o grau de enquadramento rentável dos resultados da ferramenta de análise nos requisitos de análise do risco marítimo da Frontex, para apoiar uma resposta operacional polivalente.</P>
+            </SHORT_DESCR>
+            <VAL_TOTAL CURRENCY="EUR">783000.00</VAL_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <n2016:NUTS CODE="PL911"/>
+               <MAIN_SITE>
+                  <P>Instalações da Frontex, Varsóvia, Polónia.</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>O concurso definido neste documento envolve a disponibilização de acesso e implantação de ferramentas de análise marítima já existentes por um período de tempo fixo. Isso também inclui o apoio essencial do sistema pelo prestador nas operações diárias, a sua adaptação às necessidades operacionais e avaliação de desempenho. Estas atividades devem realizar-se nas instalações da Frontex durante um período de 12 meses.</P>
+               </SHORT_DESCR>
+               <AC_QUALITY>
+                  <AC_CRITERION>Mérito técnico</AC_CRITERION>
+                  <AC_WEIGHTING>60</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_PRICE>
+                  <AC_WEIGHTING>40</AC_WEIGHTING>
+               </AC_PRICE>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <PROCEDURE>
+            <PT_RESTRICTED/>
+            <NO_CONTRACT_COVERED_GPA/>
+            <NOTICE_NUMBER_OJ>2017/S 235-487320</NOTICE_NUMBER_OJ>
+         </PROCEDURE>
+         <AWARD_CONTRACT ITEM="1">
+            <CONTRACT_NO>Frontex/RP/1187/2017/AH</CONTRACT_NO>
+            <TITLE>
+               <P>Ferramentas de análise marítima</P>
+            </TITLE>
+            <AWARDED_CONTRACT>
+               <DATE_CONCLUSION_CONTRACT>2018-06-04</DATE_CONCLUSION_CONTRACT>
+               <NB_TENDERS_RECEIVED>5</NB_TENDERS_RECEIVED>
+               <NO_AWARDED_TO_GROUP/>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>Windward Ltd</OFFICIALNAME>
+                     <TOWN>Tel Aviv</TOWN>
+                     <COUNTRY VALUE="IL"/>
+                     <n2016:NUTS CODE="00"/>
+                  </ADDRESS_CONTRACTOR>
+                  <NO_SME/>
+               </CONTRACTOR>
+               <VAL_ESTIMATED_TOTAL CURRENCY="EUR">1000000.00</VAL_ESTIMATED_TOTAL>
+               <VAL_TOTAL CURRENCY="EUR">783000.00</VAL_TOTAL>
+            </AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <COMPLEMENTARY_INFO>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Tribunal Geral</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <E_MAIL>cfi.registry@curia.europa.eu</E_MAIL>
+               <FAX>+352 4303-2100</FAX>
+               <URL>http://www.curia.europa.eu</URL>
+            </ADDRESS_REVIEW_BODY>
+            <REVIEW_PROCEDURE>
+               <P>Num prazo de 2 meses a contar da data de notificação ao requerente ou, na sua falta, a contar do dia em que o requerente tenha tomado conhecimento do ato.</P>
+            </REVIEW_PROCEDURE>
+            <DATE_DISPATCH_NOTICE>2018-06-06</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F03_2014>
+      <F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="SV">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Europeiska gräns- och kustbevakningsbyrån – Frontex</OFFICIALNAME>
+               <ADDRESS>Plac Europejski 6</ADDRESS>
+               <TOWN>Warsaw</TOWN>
+               <POSTAL_CODE>00-844</POSTAL_CODE>
+               <COUNTRY VALUE="PL"/>
+               <CONTACT_POINT>Frontex Procurement Sector</CONTACT_POINT>
+               <PHONE>+48 222059500</PHONE>
+               <E_MAIL>procurement@frontex.europa.eu</E_MAIL>
+               <FAX>+48 222059501</FAX>
+               <n2016:NUTS CODE="PL911"/>
+               <URL_GENERAL>http://www.frontex.europa.eu</URL_GENERAL>
+            </ADDRESS_CONTRACTING_BODY>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Maritima analysverktyg</P>
+            </TITLE>
+            <REFERENCE_NUMBER>Frontex/RP/1187/2017/AH</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="72316000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>Frontex har förvärvat mångfaldig tillgång till maritima analysverktyg under en bestämd tidsperiod (1 år). Frontex kommer att använda denna tillgång för att utföra ett "bevis på koncept" för att objektivt förstå kapaciteten hos dessa maritima analysverktyg (deras prestanda, användarförmåga, leverantörsstöd som behövs vid dagligt bruk, utveckling och anpassningsförmåga, etc.) och för att mäta hur resultaten av analysverktyg passar på ett kostnadseffektivt sätt med de maritima krav som Frontex ställer avseende riskanalys för att stödja en operativt respons med flera ändamål.</P>
+            </SHORT_DESCR>
+            <VAL_TOTAL CURRENCY="EUR">783000.00</VAL_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <n2016:NUTS CODE="PL911"/>
+               <MAIN_SITE>
+                  <P>Frontex lokaler, Warszawa, Polen.</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>Upphandlingen som definieras häri innefattar tillhandahållande av tillgång och utplacering av redan befintliga maritima analysverktyg under en bestämd tidsperiod. Detta innefattar också det nödvändiga systemstöd från leverantören i den dagliga driften, dess anpassning till operativa behov och utvärdering av prestation. Dessa verksamheter ska äga rum i Frontex lokaler under en period på 12 månader.</P>
+               </SHORT_DESCR>
+               <AC_QUALITY>
+                  <AC_CRITERION>Tekniska fördelar</AC_CRITERION>
+                  <AC_WEIGHTING>60</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_PRICE>
+                  <AC_WEIGHTING>40</AC_WEIGHTING>
+               </AC_PRICE>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <PROCEDURE>
+            <PT_RESTRICTED/>
+            <NO_CONTRACT_COVERED_GPA/>
+            <NOTICE_NUMBER_OJ>2017/S 235-487320</NOTICE_NUMBER_OJ>
+         </PROCEDURE>
+         <AWARD_CONTRACT ITEM="1">
+            <CONTRACT_NO>Frontex/RP/1187/2017/AH</CONTRACT_NO>
+            <TITLE>
+               <P>Maritima analysverktyg</P>
+            </TITLE>
+            <AWARDED_CONTRACT>
+               <DATE_CONCLUSION_CONTRACT>2018-06-04</DATE_CONCLUSION_CONTRACT>
+               <NB_TENDERS_RECEIVED>5</NB_TENDERS_RECEIVED>
+               <NO_AWARDED_TO_GROUP/>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>Windward Ltd</OFFICIALNAME>
+                     <TOWN>Tel Aviv</TOWN>
+                     <COUNTRY VALUE="IL"/>
+                     <n2016:NUTS CODE="00"/>
+                  </ADDRESS_CONTRACTOR>
+                  <NO_SME/>
+               </CONTRACTOR>
+               <VAL_ESTIMATED_TOTAL CURRENCY="EUR">1000000.00</VAL_ESTIMATED_TOTAL>
+               <VAL_TOTAL CURRENCY="EUR">783000.00</VAL_TOTAL>
+            </AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <COMPLEMENTARY_INFO>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Tribunalen</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <E_MAIL>cfi.registry@curia.europa.eu</E_MAIL>
+               <FAX>+352 4303-2100</FAX>
+               <URL>http://www.curia.europa.eu</URL>
+            </ADDRESS_REVIEW_BODY>
+            <REVIEW_PROCEDURE>
+               <P>Inom 2 månader från den dag då meddelandet delgavs käranden eller, i avsaknad av det, från den dag då det blev känt.</P>
+            </REVIEW_PROCEDURE>
+            <DATE_DISPATCH_NOTICE>2018-06-06</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F03_2014>
+      <F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="CS">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Evropská agentura pro pohraniční a pobřežní stráž – Frontex</OFFICIALNAME>
+               <ADDRESS>Plac Europejski 6</ADDRESS>
+               <TOWN>Warsaw</TOWN>
+               <POSTAL_CODE>00-844</POSTAL_CODE>
+               <COUNTRY VALUE="PL"/>
+               <CONTACT_POINT>Frontex Procurement Sector</CONTACT_POINT>
+               <PHONE>+48 222059500</PHONE>
+               <E_MAIL>procurement@frontex.europa.eu</E_MAIL>
+               <FAX>+48 222059501</FAX>
+               <n2016:NUTS CODE="PL911"/>
+               <URL_GENERAL>http://www.frontex.europa.eu</URL_GENERAL>
+            </ADDRESS_CONTRACTING_BODY>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Námořní analytické nástroje</P>
+            </TITLE>
+            <REFERENCE_NUMBER>Frontex/RP/1187/2017/AH</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="72316000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>Agentura Frontex získala mnohonásobný přístup k námořním analytickým nástrojům na určité časové období (1 rok). Agentura Frontex využije tento přístup k provádění „ověření koncepce“ s cílem objektivně pochopit způsobilost těchto námořních analytických nástrojů (jejich výkon, modalitu použití, podporu poskytovatele potřebnou při denním používání, vývoj a přizpůsobivost atd.) a na měření toho, jak vyhovují výsledky analytických nástrojů nákladově efektivním způsobem požadavkům Frontexu na námořní analýzu rizik v zájmu podpory víceúčelové provozní reakce.</P>
+            </SHORT_DESCR>
+            <VAL_TOTAL CURRENCY="EUR">783000.00</VAL_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <n2016:NUTS CODE="PL911"/>
+               <MAIN_SITE>
+                  <P>Prostory Frontex, Varšava, Polsko.</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>Veřejná zakázka, která je zde definována, zahrnuje poskytování přístupu a nasazení již existujících námořních analytických nástrojů na dobu určitou. To také zahrnuje základní systémovou podporu poskytovatele v každodenních operacích, jeho přizpůsobení provozním potřebám a hodnocení výkonu. Tyto činnosti se uskuteční v prostorách agentury Frontex po dobu 12 měsíců.</P>
+               </SHORT_DESCR>
+               <AC_QUALITY>
+                  <AC_CRITERION>Technický přínos</AC_CRITERION>
+                  <AC_WEIGHTING>60</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_PRICE>
+                  <AC_WEIGHTING>40</AC_WEIGHTING>
+               </AC_PRICE>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <PROCEDURE>
+            <PT_RESTRICTED/>
+            <NO_CONTRACT_COVERED_GPA/>
+            <NOTICE_NUMBER_OJ>2017/S 235-487320</NOTICE_NUMBER_OJ>
+         </PROCEDURE>
+         <AWARD_CONTRACT ITEM="1">
+            <CONTRACT_NO>Frontex/RP/1187/2017/AH</CONTRACT_NO>
+            <TITLE>
+               <P>Námořní analytické nástroje</P>
+            </TITLE>
+            <AWARDED_CONTRACT>
+               <DATE_CONCLUSION_CONTRACT>2018-06-04</DATE_CONCLUSION_CONTRACT>
+               <NB_TENDERS_RECEIVED>5</NB_TENDERS_RECEIVED>
+               <NO_AWARDED_TO_GROUP/>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>Windward Ltd</OFFICIALNAME>
+                     <TOWN>Tel Aviv</TOWN>
+                     <COUNTRY VALUE="IL"/>
+                     <n2016:NUTS CODE="00"/>
+                  </ADDRESS_CONTRACTOR>
+                  <NO_SME/>
+               </CONTRACTOR>
+               <VAL_ESTIMATED_TOTAL CURRENCY="EUR">1000000.00</VAL_ESTIMATED_TOTAL>
+               <VAL_TOTAL CURRENCY="EUR">783000.00</VAL_TOTAL>
+            </AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <COMPLEMENTARY_INFO>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Tribunál</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <E_MAIL>cfi.registry@curia.europa.eu</E_MAIL>
+               <FAX>+352 4303-2100</FAX>
+               <URL>http://www.curia.europa.eu</URL>
+            </ADDRESS_REVIEW_BODY>
+            <REVIEW_PROCEDURE>
+               <P>Ve lhůtě 2 měsíců od oznámení žalobci nebo, není-li k dispozici, ode dne, kdy vstoupilo ve známost.</P>
+            </REVIEW_PROCEDURE>
+            <DATE_DISPATCH_NOTICE>2018-06-06</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F03_2014>
+      <F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="ET">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Euroopa Piiri- ja Rannikuvalve Amet (Frontex)</OFFICIALNAME>
+               <ADDRESS>Plac Europejski 6</ADDRESS>
+               <TOWN>Warsaw</TOWN>
+               <POSTAL_CODE>00-844</POSTAL_CODE>
+               <COUNTRY VALUE="PL"/>
+               <CONTACT_POINT>Frontex Procurement Sector</CONTACT_POINT>
+               <PHONE>+48 222059500</PHONE>
+               <E_MAIL>procurement@frontex.europa.eu</E_MAIL>
+               <FAX>+48 222059501</FAX>
+               <n2016:NUTS CODE="PL911"/>
+               <URL_GENERAL>http://www.frontex.europa.eu</URL_GENERAL>
+            </ADDRESS_CONTRACTING_BODY>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Mereanalüüsi vahendid</P>
+            </TITLE>
+            <REFERENCE_NUMBER>Frontex/RP/1187/2017/AH</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="72316000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>Frontex on omandanud mitmekordse juurdepääsu mereanalüüsi vahenditele määratud perioodiks (1 aasta). Frontex kasutab seda juurdepääsu „kontseptsiooni katse“ teostamiseks, et objektiivselt mõista nende mereanalüüsi vahendite võimalusi (nende efektiivsust, kasutamisviisi, igapäevaseks kasutamiseks vajalikku tarnija tuge, kujunemist ja kohandatavust jne) ja mõõta, kuidas analüüsi vahendite tulemused sobivad kuluefektiivseks kasutamiseks vastavalt Frontexi mere riskianalüüsi reeglitele, et toetada küsimustele mitmeotstarbelist operatiivset vastamist.</P>
+            </SHORT_DESCR>
+            <VAL_TOTAL CURRENCY="EUR">783000.00</VAL_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <n2016:NUTS CODE="PL911"/>
+               <MAIN_SITE>
+                  <P>Frontexi hoone, Varssavi, Poola.</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>Siinkohal määratletud hange sisaldab olemasolevatele mereanalüüsi vahenditele juurdepääsu ja nende seadistamise tagamist kindlaksmääratud perioodi jooksul. Samuti sisaldab see varustaja poolt tagatavat määravat süsteemi tuge igapäevastes tegevustes, selle kohandamist kasutamisel tekkivateks vajadusteks ja tõhususe hindamist. Need tegevused toimuvad Frontexi ruumides 12 kuu jooksul.</P>
+               </SHORT_DESCR>
+               <AC_QUALITY>
+                  <AC_CRITERION>tehniline väärtus</AC_CRITERION>
+                  <AC_WEIGHTING>60</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_PRICE>
+                  <AC_WEIGHTING>40</AC_WEIGHTING>
+               </AC_PRICE>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <PROCEDURE>
+            <PT_RESTRICTED/>
+            <NO_CONTRACT_COVERED_GPA/>
+            <NOTICE_NUMBER_OJ>2017/S 235-487320</NOTICE_NUMBER_OJ>
+         </PROCEDURE>
+         <AWARD_CONTRACT ITEM="1">
+            <CONTRACT_NO>Frontex/RP/1187/2017/AH</CONTRACT_NO>
+            <TITLE>
+               <P>Mereanalüüsi vahendid</P>
+            </TITLE>
+            <AWARDED_CONTRACT>
+               <DATE_CONCLUSION_CONTRACT>2018-06-04</DATE_CONCLUSION_CONTRACT>
+               <NB_TENDERS_RECEIVED>5</NB_TENDERS_RECEIVED>
+               <NO_AWARDED_TO_GROUP/>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>Windward Ltd</OFFICIALNAME>
+                     <TOWN>Tel Aviv</TOWN>
+                     <COUNTRY VALUE="IL"/>
+                     <n2016:NUTS CODE="00"/>
+                  </ADDRESS_CONTRACTOR>
+                  <NO_SME/>
+               </CONTRACTOR>
+               <VAL_ESTIMATED_TOTAL CURRENCY="EUR">1000000.00</VAL_ESTIMATED_TOTAL>
+               <VAL_TOTAL CURRENCY="EUR">783000.00</VAL_TOTAL>
+            </AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <COMPLEMENTARY_INFO>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Üldkohus</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <E_MAIL>cfi.registry@curia.europa.eu</E_MAIL>
+               <FAX>+352 4303-2100</FAX>
+               <URL>http://www.curia.europa.eu</URL>
+            </ADDRESS_REVIEW_BODY>
+            <REVIEW_PROCEDURE>
+               <P>2 kuu jooksul hageja teavitamisest, või kui teavitamist ei toimu, päevast, mil asjast teada saadi.</P>
+            </REVIEW_PROCEDURE>
+            <DATE_DISPATCH_NOTICE>2018-06-06</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F03_2014>
+      <F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="HU">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Európai Határ- és Partvédelmi Ügynökség — Frontex</OFFICIALNAME>
+               <ADDRESS>Plac Europejski 6</ADDRESS>
+               <TOWN>Warsaw</TOWN>
+               <POSTAL_CODE>00-844</POSTAL_CODE>
+               <COUNTRY VALUE="PL"/>
+               <CONTACT_POINT>Frontex Procurement Sector</CONTACT_POINT>
+               <PHONE>+48 222059500</PHONE>
+               <E_MAIL>procurement@frontex.europa.eu</E_MAIL>
+               <FAX>+48 222059501</FAX>
+               <n2016:NUTS CODE="PL911"/>
+               <URL_GENERAL>http://www.frontex.europa.eu</URL_GENERAL>
+            </ADDRESS_CONTRACTING_BODY>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Tengerészeti elemzőeszközök</P>
+            </TITLE>
+            <REFERENCE_NUMBER>Frontex/RP/1187/2017/AH</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="72316000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>A Frontex meghatározott időtartamra (1 év) több hozzáférést szerzett tengeri elemzési eszközökhöz. A Frontex ezt a hozzáférést a működőképesség igazolására fogja felhasználni, hogy objektív módon értse meg ezeknek a tengerészeti elemzőeszközöknek a képességeit (teljesítményük, felhasználási módjuk, a napi használat során szükséges szolgáltatói támogatás, fejlesztés és felhasználhatóság stb.), és felmérje, hogy az elemzőeszköz eredményei hogyan illeszkednek költséghatékony módon a Frontex több célú operatív válaszadás támogatására irányuló, tengerészeti kockázatok elemzésére vonatkozó követelményeihez.</P>
+            </SHORT_DESCR>
+            <VAL_TOTAL CURRENCY="EUR">783000.00</VAL_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <n2016:NUTS CODE="PL911"/>
+               <MAIN_SITE>
+                  <P>A Frontex telephelye, Varsó, Lengyelország.</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>Az itt meghatározott közbeszerzés már meglévő tengerészeti elemzőeszközökhöz való hozzáférés biztosítására és telepítésére terjed ki meghatározott időtartamra. Ez a mindennapi működés során a szolgáltató által biztosított rendszertámogatást, a rendszernek a működési szükségletekhez való igazítását, valamint teljesítményértékelést is magában foglal. Ezekre a tevékenységekre a Frontex telephelyén fog sor kerülni 12 hónapos időtartam során.</P>
+               </SHORT_DESCR>
+               <AC_QUALITY>
+                  <AC_CRITERION>Műszaki megfelelés</AC_CRITERION>
+                  <AC_WEIGHTING>60</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_PRICE>
+                  <AC_WEIGHTING>40</AC_WEIGHTING>
+               </AC_PRICE>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <PROCEDURE>
+            <PT_RESTRICTED/>
+            <NO_CONTRACT_COVERED_GPA/>
+            <NOTICE_NUMBER_OJ>2017/S 235-487320</NOTICE_NUMBER_OJ>
+         </PROCEDURE>
+         <AWARD_CONTRACT ITEM="1">
+            <CONTRACT_NO>Frontex/RP/1187/2017/AH</CONTRACT_NO>
+            <TITLE>
+               <P>Tengerészeti elemzőeszközök</P>
+            </TITLE>
+            <AWARDED_CONTRACT>
+               <DATE_CONCLUSION_CONTRACT>2018-06-04</DATE_CONCLUSION_CONTRACT>
+               <NB_TENDERS_RECEIVED>5</NB_TENDERS_RECEIVED>
+               <NO_AWARDED_TO_GROUP/>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>Windward Ltd</OFFICIALNAME>
+                     <TOWN>Tel Aviv</TOWN>
+                     <COUNTRY VALUE="IL"/>
+                     <n2016:NUTS CODE="00"/>
+                  </ADDRESS_CONTRACTOR>
+                  <NO_SME/>
+               </CONTRACTOR>
+               <VAL_ESTIMATED_TOTAL CURRENCY="EUR">1000000.00</VAL_ESTIMATED_TOTAL>
+               <VAL_TOTAL CURRENCY="EUR">783000.00</VAL_TOTAL>
+            </AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <COMPLEMENTARY_INFO>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Törvényszék</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <E_MAIL>cfi.registry@curia.europa.eu</E_MAIL>
+               <FAX>+352 4303-2100</FAX>
+               <URL>http://www.curia.europa.eu</URL>
+            </ADDRESS_REVIEW_BODY>
+            <REVIEW_PROCEDURE>
+               <P>A vesztes fél értesítésétől, illetve – ennek hiányában – az eredmény ismertté válásától számított 2 hónapon belül.</P>
+            </REVIEW_PROCEDURE>
+            <DATE_DISPATCH_NOTICE>2018-06-06</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F03_2014>
+      <F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="LT">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Europos sienų ir pakrančių apsaugos agentūra „Frontex“</OFFICIALNAME>
+               <ADDRESS>Plac Europejski 6</ADDRESS>
+               <TOWN>Warsaw</TOWN>
+               <POSTAL_CODE>00-844</POSTAL_CODE>
+               <COUNTRY VALUE="PL"/>
+               <CONTACT_POINT>Frontex Procurement Sector</CONTACT_POINT>
+               <PHONE>+48 222059500</PHONE>
+               <E_MAIL>procurement@frontex.europa.eu</E_MAIL>
+               <FAX>+48 222059501</FAX>
+               <n2016:NUTS CODE="PL911"/>
+               <URL_GENERAL>http://www.frontex.europa.eu</URL_GENERAL>
+            </ADDRESS_CONTRACTING_BODY>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Jūrų analizės priemonės</P>
+            </TITLE>
+            <REFERENCE_NUMBER>Frontex/RP/1187/2017/AH</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="72316000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>„Frontex“ konkrečiam laikotarpiui (1 metams) įsigijo kelias prieigas prie jūros analizės priemonių. „Frontex“ pasinaudos šia prieiga, kad atliktų „praktinį atitikties įrodymą“, kad galėtų objektyviai įvertinti, kokie šių jūros analitinių priemonių pajėgumai (veikimas, taikymo būdas, kasdien naudojant reikiama parama iš tiekėjo, raida ir pritaikomumas ir kt.), ir nustatyti, kaip analitinės priemonės rezultatai atitinka (ekonomiškai efektyviai) „Frontex“ jūrų rizikos analizės reikalavimus, remiant universalius operatyvinius atsakomuosius veiksmus.</P>
+            </SHORT_DESCR>
+            <VAL_TOTAL CURRENCY="EUR">783000.00</VAL_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <n2016:NUTS CODE="PL911"/>
+               <MAIN_SITE>
+                  <P>„Frontex“ patalpos, Varšuva, Lenkija.</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>Čia apibūdinamas pirkimas apima prieigos suteikimą ir turimų jūrų analizės priemonių naudojimą tam tikrą laikotarpį. Taip pat apima tiekėjo teikiamą pagrindinę sisteminę paramą vykdant kasdienes operacijas, jos prisitaikymą prie veiklos poreikių ir veiklos įvertinimą. Ši veikla bus vykdoma „Frontex“ patalpose 12 mėnesių.</P>
+               </SHORT_DESCR>
+               <AC_QUALITY>
+                  <AC_CRITERION>Techninis privalumas</AC_CRITERION>
+                  <AC_WEIGHTING>60</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_PRICE>
+                  <AC_WEIGHTING>40</AC_WEIGHTING>
+               </AC_PRICE>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <PROCEDURE>
+            <PT_RESTRICTED/>
+            <NO_CONTRACT_COVERED_GPA/>
+            <NOTICE_NUMBER_OJ>2017/S 235-487320</NOTICE_NUMBER_OJ>
+         </PROCEDURE>
+         <AWARD_CONTRACT ITEM="1">
+            <CONTRACT_NO>Frontex/RP/1187/2017/AH</CONTRACT_NO>
+            <TITLE>
+               <P>Jūrų analizės priemonės</P>
+            </TITLE>
+            <AWARDED_CONTRACT>
+               <DATE_CONCLUSION_CONTRACT>2018-06-04</DATE_CONCLUSION_CONTRACT>
+               <NB_TENDERS_RECEIVED>5</NB_TENDERS_RECEIVED>
+               <NO_AWARDED_TO_GROUP/>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>Windward Ltd</OFFICIALNAME>
+                     <TOWN>Tel Aviv</TOWN>
+                     <COUNTRY VALUE="IL"/>
+                     <n2016:NUTS CODE="00"/>
+                  </ADDRESS_CONTRACTOR>
+                  <NO_SME/>
+               </CONTRACTOR>
+               <VAL_ESTIMATED_TOTAL CURRENCY="EUR">1000000.00</VAL_ESTIMATED_TOTAL>
+               <VAL_TOTAL CURRENCY="EUR">783000.00</VAL_TOTAL>
+            </AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <COMPLEMENTARY_INFO>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Bendrasis Teismas</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <E_MAIL>cfi.registry@curia.europa.eu</E_MAIL>
+               <FAX>+352 4303-2100</FAX>
+               <URL>http://www.curia.europa.eu</URL>
+            </ADDRESS_REVIEW_BODY>
+            <REVIEW_PROCEDURE>
+               <P>Per 2 mėnesius nuo dienos, kai apie tai pranešama ieškovui, arba, jei nepranešama, nuo dienos, kai tai tampa žinoma.</P>
+            </REVIEW_PROCEDURE>
+            <DATE_DISPATCH_NOTICE>2018-06-06</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F03_2014>
+      <F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="LV">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Eiropas Robežu un krasta apsardzes aģentūra – Frontex</OFFICIALNAME>
+               <ADDRESS>Plac Europejski 6</ADDRESS>
+               <TOWN>Warsaw</TOWN>
+               <POSTAL_CODE>00-844</POSTAL_CODE>
+               <COUNTRY VALUE="PL"/>
+               <CONTACT_POINT>Frontex Procurement Sector</CONTACT_POINT>
+               <PHONE>+48 222059500</PHONE>
+               <E_MAIL>procurement@frontex.europa.eu</E_MAIL>
+               <FAX>+48 222059501</FAX>
+               <n2016:NUTS CODE="PL911"/>
+               <URL_GENERAL>http://www.frontex.europa.eu</URL_GENERAL>
+            </ADDRESS_CONTRACTING_BODY>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Jūras analīzes rīki</P>
+            </TITLE>
+            <REFERENCE_NUMBER>Frontex/RP/1187/2017/AH</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="72316000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>Frontex mērķis ir iegūt daudzpiekļuvi jūras analīzes rīkiem konkrētā laika posmā (1 gads). Frontex izmantos šo piekļuvi, lai nodrošinātu koncepcijas pierādījumu ar mērķi objektīvi novērtēt šo jūras analītisko rīku iespējas (to sniegumu, izmantošanas veidu, nepieciešamo rīku nodrošinātāja atbalstu ikdienas lietošanā, attīstību, pielāgojamību utt.) un novērtēt ar analītiskajiem rīkiem iegūto rezultātu atbilstību (rentablā veidā) Frontex jūras riska analīzes prasībām atbalstīt daudznolūku operatīvo reaģēšanu.</P>
+            </SHORT_DESCR>
+            <VAL_TOTAL CURRENCY="EUR">783000.00</VAL_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <n2016:NUTS CODE="PL911"/>
+               <MAIN_SITE>
+                  <P>Frontex telpas, Varšava, Polija.</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>Šis iepirkums ietver piekļuves un izvietošanas nodrošināšanu attiecībā uz esošiem jūras analīzes rīkiem uz fiksētu laika periodu. Tas ietver arī nodrošinātāja būtisko atbalstu sistēmas ikdienas lietošanā, tās pielāgošanā darbības vajadzībām un veiktspējas novērtēšanā. Šīs darbības tiks veiktas Frontex telpās 12 mēnešu laikā.</P>
+               </SHORT_DESCR>
+               <AC_QUALITY>
+                  <AC_CRITERION>Tehniskā kvalitāte</AC_CRITERION>
+                  <AC_WEIGHTING>60</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_PRICE>
+                  <AC_WEIGHTING>40</AC_WEIGHTING>
+               </AC_PRICE>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <PROCEDURE>
+            <PT_RESTRICTED/>
+            <NO_CONTRACT_COVERED_GPA/>
+            <NOTICE_NUMBER_OJ>2017/S 235-487320</NOTICE_NUMBER_OJ>
+         </PROCEDURE>
+         <AWARD_CONTRACT ITEM="1">
+            <CONTRACT_NO>Frontex/RP/1187/2017/AH</CONTRACT_NO>
+            <TITLE>
+               <P>Jūras analīzes rīki</P>
+            </TITLE>
+            <AWARDED_CONTRACT>
+               <DATE_CONCLUSION_CONTRACT>2018-06-04</DATE_CONCLUSION_CONTRACT>
+               <NB_TENDERS_RECEIVED>5</NB_TENDERS_RECEIVED>
+               <NO_AWARDED_TO_GROUP/>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>Windward Ltd</OFFICIALNAME>
+                     <TOWN>Tel Aviv</TOWN>
+                     <COUNTRY VALUE="IL"/>
+                     <n2016:NUTS CODE="00"/>
+                  </ADDRESS_CONTRACTOR>
+                  <NO_SME/>
+               </CONTRACTOR>
+               <VAL_ESTIMATED_TOTAL CURRENCY="EUR">1000000.00</VAL_ESTIMATED_TOTAL>
+               <VAL_TOTAL CURRENCY="EUR">783000.00</VAL_TOTAL>
+            </AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <COMPLEMENTARY_INFO>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Vispārējā tiesa</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <E_MAIL>cfi.registry@curia.europa.eu</E_MAIL>
+               <FAX>+352 4303-2100</FAX>
+               <URL>http://www.curia.europa.eu</URL>
+            </ADDRESS_REVIEW_BODY>
+            <REVIEW_PROCEDURE>
+               <P>2 mēnešu laikā no prasītāja informēšanas vai, ja tā nav notikusi, no dienas, kad viņš to uzzinājis.</P>
+            </REVIEW_PROCEDURE>
+            <DATE_DISPATCH_NOTICE>2018-06-06</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F03_2014>
+      <F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="MT">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>L-Aġenzija Ewropea għall-Gwardja tal-Fruntiera u tal-Kosta — Frontex</OFFICIALNAME>
+               <ADDRESS>Plac Europejski 6</ADDRESS>
+               <TOWN>Warsaw</TOWN>
+               <POSTAL_CODE>00-844</POSTAL_CODE>
+               <COUNTRY VALUE="PL"/>
+               <CONTACT_POINT>Frontex Procurement Sector</CONTACT_POINT>
+               <PHONE>+48 222059500</PHONE>
+               <E_MAIL>procurement@frontex.europa.eu</E_MAIL>
+               <FAX>+48 222059501</FAX>
+               <n2016:NUTS CODE="PL911"/>
+               <URL_GENERAL>http://www.frontex.europa.eu</URL_GENERAL>
+            </ADDRESS_CONTRACTING_BODY>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Għodod tal-analiżi marittima</P>
+            </TITLE>
+            <REFERENCE_NUMBER>Frontex/RP/1187/2017/AH</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="72316000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>Il-Frontex kisbet aċċess multiplu għall-għodod tal-analiżi marittima għal perijodu ta' żmien speċifiku (sena (1)). Il-Frontex se tuża dan l-aċċess biex twettaq "kunċett ta' prova" biex tifhem b'mod oġġettiv il-ħiliet ta' dawn l-għodod analitiċi marittimi (il-prestazzjoni tagħhom, il-modalità tal-użu, l-appoġġ tal-fornitur meħtieġ għall-użu ta' kuljum, l-evoluzzjoni u l-adattabbiltà, eċċ.) u biex jitkejjel kif ir-riżultati tal-għodda analitika jidħlu, b'mod ta' valur għall-flus, mar-rekwiżiti tal-analiżi tar-riskju marittimu tal-Frontex biex tappoġġja r-rispons operazzjonali għal iżjed minn użu wieħed.</P>
+            </SHORT_DESCR>
+            <VAL_TOTAL CURRENCY="EUR">783000.00</VAL_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <n2016:NUTS CODE="PL911"/>
+               <MAIN_SITE>
+                  <P>Il-bini tal-Frontex, Varsavja, il-Polonja.</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>Il-ksib iddefinit hawnhekk jinvolvi l-provvista ta' aċċess u tħaddim ta' Għodod tal-Analiżi Marittima diġà eżistenti għal perijodu ta' żmien fiss. Dan jinkludi wkoll l-appoġġ essenzjali lis-sistema mill-fornitur fl-operazzjonijiet ta' kuljum, l-adattament tagħha għall-ħtiġijiet operazzjonali, u l-evalwazzjoni tal-prestazzjoni. Dawn l-attivitajiet għandhom isiru fil-bini tal-Frontex fuq perijodu ta' 12-il xahar.</P>
+               </SHORT_DESCR>
+               <AC_QUALITY>
+                  <AC_CRITERION>Il-mertu tekniku</AC_CRITERION>
+                  <AC_WEIGHTING>60</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_PRICE>
+                  <AC_WEIGHTING>40</AC_WEIGHTING>
+               </AC_PRICE>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <PROCEDURE>
+            <PT_RESTRICTED/>
+            <NO_CONTRACT_COVERED_GPA/>
+            <NOTICE_NUMBER_OJ>2017/S 235-487320</NOTICE_NUMBER_OJ>
+         </PROCEDURE>
+         <AWARD_CONTRACT ITEM="1">
+            <CONTRACT_NO>Frontex/RP/1187/2017/AH</CONTRACT_NO>
+            <TITLE>
+               <P>Għodod tal-analiżi marittima</P>
+            </TITLE>
+            <AWARDED_CONTRACT>
+               <DATE_CONCLUSION_CONTRACT>2018-06-04</DATE_CONCLUSION_CONTRACT>
+               <NB_TENDERS_RECEIVED>5</NB_TENDERS_RECEIVED>
+               <NO_AWARDED_TO_GROUP/>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>Windward Ltd</OFFICIALNAME>
+                     <TOWN>Tel Aviv</TOWN>
+                     <COUNTRY VALUE="IL"/>
+                     <n2016:NUTS CODE="00"/>
+                  </ADDRESS_CONTRACTOR>
+                  <NO_SME/>
+               </CONTRACTOR>
+               <VAL_ESTIMATED_TOTAL CURRENCY="EUR">1000000.00</VAL_ESTIMATED_TOTAL>
+               <VAL_TOTAL CURRENCY="EUR">783000.00</VAL_TOTAL>
+            </AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <COMPLEMENTARY_INFO>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Il-Qorti Ġenerali</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <E_MAIL>cfi.registry@curia.europa.eu</E_MAIL>
+               <FAX>+352 4303-2100</FAX>
+               <URL>http://www.curia.europa.eu</URL>
+            </ADDRESS_REVIEW_BODY>
+            <REVIEW_PROCEDURE>
+               <P>Fi żmien xahrejn (2) mill-avviż lil dak li jagħmel it-talba, jew, fl-assenza ta' dan, mill-jum li fih sar magħruf.</P>
+            </REVIEW_PROCEDURE>
+            <DATE_DISPATCH_NOTICE>2018-06-06</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F03_2014>
+      <F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="PL">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Europejska Agencja Straży Granicznej i Przybrzeżnej — Frontex</OFFICIALNAME>
+               <ADDRESS>Plac Europejski 6</ADDRESS>
+               <TOWN>Warsaw</TOWN>
+               <POSTAL_CODE>00-844</POSTAL_CODE>
+               <COUNTRY VALUE="PL"/>
+               <CONTACT_POINT>Frontex Procurement Sector</CONTACT_POINT>
+               <PHONE>+48 222059500</PHONE>
+               <E_MAIL>procurement@frontex.europa.eu</E_MAIL>
+               <FAX>+48 222059501</FAX>
+               <n2016:NUTS CODE="PL911"/>
+               <URL_GENERAL>http://www.frontex.europa.eu</URL_GENERAL>
+            </ADDRESS_CONTRACTING_BODY>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Narzędzia do analiz morskich</P>
+            </TITLE>
+            <REFERENCE_NUMBER>Frontex/RP/1187/2017/AH</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="72316000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>Frontex uzyskał wielokrotny dostęp do narzędzi do analiz morskich na pewien okres (1 rok). Frontex będzie korzystał z tego dostępu w celu przeprowadzenia weryfikacji koncepcji, z myślą o obiektywnym zrozumieniu potencjału tych narzędzi do analiz morskich (ich działania, trybów użycia, wsparcia usługodawcy potrzebnego przy codziennym użytkowaniu, ewolucji i możliwości dostosowywania itp.) oraz zmierzeniu, w jakim stopniu wyniki pochodzące z narzędzi analitycznych są zgodne, w sposób racjonalny pod względem kosztów, z wymogami morskiej analizy ryzyka służącej wsparciu wielofunkcyjnej reakcji operacyjnej.</P>
+            </SHORT_DESCR>
+            <VAL_TOTAL CURRENCY="EUR">783000.00</VAL_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <n2016:NUTS CODE="PL911"/>
+               <MAIN_SITE>
+                  <P>Siedziba Fronteksu, Warszawa, Polska.</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>Niniejsze zamówienie obejmuje zapewnienie dostępu do istniejących już narzędzi do analizy morskiej i ich wdrożenie w określonym czasie. Obejmuje ono również podstawowe wsparcie systemowe udzielane przez dostawcę w codziennych działaniach, jego dostosowanie do potrzeb operacyjnych oraz ocenę wydajności. Działania te prowadzone będą w siedzibie Fronteksu przez okres 12 miesięcy.</P>
+               </SHORT_DESCR>
+               <AC_QUALITY>
+                  <AC_CRITERION>Zalety techniczne</AC_CRITERION>
+                  <AC_WEIGHTING>60</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_PRICE>
+                  <AC_WEIGHTING>40</AC_WEIGHTING>
+               </AC_PRICE>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <PROCEDURE>
+            <PT_RESTRICTED/>
+            <NO_CONTRACT_COVERED_GPA/>
+            <NOTICE_NUMBER_OJ>2017/S 235-487320</NOTICE_NUMBER_OJ>
+         </PROCEDURE>
+         <AWARD_CONTRACT ITEM="1">
+            <CONTRACT_NO>Frontex/RP/1187/2017/AH</CONTRACT_NO>
+            <TITLE>
+               <P>Narzędzia do analiz morskich</P>
+            </TITLE>
+            <AWARDED_CONTRACT>
+               <DATE_CONCLUSION_CONTRACT>2018-06-04</DATE_CONCLUSION_CONTRACT>
+               <NB_TENDERS_RECEIVED>5</NB_TENDERS_RECEIVED>
+               <NO_AWARDED_TO_GROUP/>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>Windward Ltd</OFFICIALNAME>
+                     <TOWN>Tel Aviv</TOWN>
+                     <COUNTRY VALUE="IL"/>
+                     <n2016:NUTS CODE="00"/>
+                  </ADDRESS_CONTRACTOR>
+                  <NO_SME/>
+               </CONTRACTOR>
+               <VAL_ESTIMATED_TOTAL CURRENCY="EUR">1000000.00</VAL_ESTIMATED_TOTAL>
+               <VAL_TOTAL CURRENCY="EUR">783000.00</VAL_TOTAL>
+            </AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <COMPLEMENTARY_INFO>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Sąd</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <E_MAIL>cfi.registry@curia.europa.eu</E_MAIL>
+               <FAX>+352 4303-2100</FAX>
+               <URL>http://www.curia.europa.eu</URL>
+            </ADDRESS_REVIEW_BODY>
+            <REVIEW_PROCEDURE>
+               <P>W ciągu 2 miesięcy od zawiadomienia strony skarżącej lub, w przypadku braku zawiadomienia, od dnia podania do wiadomości.</P>
+            </REVIEW_PROCEDURE>
+            <DATE_DISPATCH_NOTICE>2018-06-06</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F03_2014>
+      <F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="SK">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Európska agentúra pre pohraničnú a pobrežnú stráž – Frontex</OFFICIALNAME>
+               <ADDRESS>Plac Europejski 6</ADDRESS>
+               <TOWN>Warsaw</TOWN>
+               <POSTAL_CODE>00-844</POSTAL_CODE>
+               <COUNTRY VALUE="PL"/>
+               <CONTACT_POINT>Frontex Procurement Sector</CONTACT_POINT>
+               <PHONE>+48 222059500</PHONE>
+               <E_MAIL>procurement@frontex.europa.eu</E_MAIL>
+               <FAX>+48 222059501</FAX>
+               <n2016:NUTS CODE="PL911"/>
+               <URL_GENERAL>http://www.frontex.europa.eu</URL_GENERAL>
+            </ADDRESS_CONTRACTING_BODY>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Nástroje námornej analýzy</P>
+            </TITLE>
+            <REFERENCE_NUMBER>Frontex/RP/1187/2017/AH</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="72316000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>Agentúra Frontex získala viacnásobný prístup k námorným analytickým nástrojom na špecifické obdobie (1 rok). Frontex využije tento prístup na „overenie koncepcie", aby objektívne pochopil kapacity týchto námorných analytických nástrojov (ich výkonnosť, spôsob používania, podporu zo strany poskytovateľa potrebnú pri každodennom používaní, vývoj a prispôsobivosť atď.) a na meranie toho, do akej miery sú výsledky analytického nástroja v súlade s nákladovo efektívnym spôsobom s požiadavkami agentúry Frontex na analýzu námorných rizík na podporu viacúčelovej operačnej reakcie.</P>
+            </SHORT_DESCR>
+            <VAL_TOTAL CURRENCY="EUR">783000.00</VAL_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <n2016:NUTS CODE="PL911"/>
+               <MAIN_SITE>
+                  <P>Priestory agentúry Frontex, Varšava, Poľsko.</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>Toto obstarávanie zahŕňa poskytnutie prístupu a využitie už existujúcich námorných analytických nástrojov počas pevne stanoveného obdobia. Zahŕňa tiež základný systém podpory zo strany poskytovateľa pri každodennej prevádzke, prispôsobenie prevádzkovým potrebám a hodnotenie výkonnosti. Tieto činnosti sa uskutočnia v priestoroch agentúry Frontex počas obdobia 12 mesiacov.</P>
+               </SHORT_DESCR>
+               <AC_QUALITY>
+                  <AC_CRITERION>Technická hodnota</AC_CRITERION>
+                  <AC_WEIGHTING>60</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_PRICE>
+                  <AC_WEIGHTING>40</AC_WEIGHTING>
+               </AC_PRICE>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <PROCEDURE>
+            <PT_RESTRICTED/>
+            <NO_CONTRACT_COVERED_GPA/>
+            <NOTICE_NUMBER_OJ>2017/S 235-487320</NOTICE_NUMBER_OJ>
+         </PROCEDURE>
+         <AWARD_CONTRACT ITEM="1">
+            <CONTRACT_NO>Frontex/RP/1187/2017/AH</CONTRACT_NO>
+            <TITLE>
+               <P>Nástroje námornej analýzy</P>
+            </TITLE>
+            <AWARDED_CONTRACT>
+               <DATE_CONCLUSION_CONTRACT>2018-06-04</DATE_CONCLUSION_CONTRACT>
+               <NB_TENDERS_RECEIVED>5</NB_TENDERS_RECEIVED>
+               <NO_AWARDED_TO_GROUP/>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>Windward Ltd</OFFICIALNAME>
+                     <TOWN>Tel Aviv</TOWN>
+                     <COUNTRY VALUE="IL"/>
+                     <n2016:NUTS CODE="00"/>
+                  </ADDRESS_CONTRACTOR>
+                  <NO_SME/>
+               </CONTRACTOR>
+               <VAL_ESTIMATED_TOTAL CURRENCY="EUR">1000000.00</VAL_ESTIMATED_TOTAL>
+               <VAL_TOTAL CURRENCY="EUR">783000.00</VAL_TOTAL>
+            </AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <COMPLEMENTARY_INFO>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Všeobecný súd</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <E_MAIL>cfi.registry@curia.europa.eu</E_MAIL>
+               <FAX>+352 4303-2100</FAX>
+               <URL>http://www.curia.europa.eu</URL>
+            </ADDRESS_REVIEW_BODY>
+            <REVIEW_PROCEDURE>
+               <P>Do 2 mesiacov od vyrozumenia osoby podávajúcej odvolanie alebo, ak to nie je možné, odo dňa, keď túto skutočnosť zistila.</P>
+            </REVIEW_PROCEDURE>
+            <DATE_DISPATCH_NOTICE>2018-06-06</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F03_2014>
+      <F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="SL">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Evropska agencija za mejno in obalno stražo – Frontex</OFFICIALNAME>
+               <ADDRESS>Plac Europejski 6</ADDRESS>
+               <TOWN>Warsaw</TOWN>
+               <POSTAL_CODE>00-844</POSTAL_CODE>
+               <COUNTRY VALUE="PL"/>
+               <CONTACT_POINT>Frontex Procurement Sector</CONTACT_POINT>
+               <PHONE>+48 222059500</PHONE>
+               <E_MAIL>procurement@frontex.europa.eu</E_MAIL>
+               <FAX>+48 222059501</FAX>
+               <n2016:NUTS CODE="PL911"/>
+               <URL_GENERAL>http://www.frontex.europa.eu</URL_GENERAL>
+            </ADDRESS_CONTRACTING_BODY>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Pomorska analitična orodja</P>
+            </TITLE>
+            <REFERENCE_NUMBER>Frontex/RP/1187/2017/AH</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="72316000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>Frontex si je zagotovil večkraten dostop do pomorskih analitičnih orodij za določeno časovno obdobje (1 leto). Frontex bo ta dostop uporabil za izvedbo „potrditve koncepta“ z namenom objektivnega razumevanja zmogljivosti teh pomorskih analitičnih orodij (njihove uspešnosti, načina uporabe, ponudnikove podpore pri vsakodnevni uporabi, razvoja in prilagodljivosti itd.) in ocene, v kolikšni meri rezultati analitičnega orodja, na stroškovno učinkovit način, ustrezajo Frontexovim zahtevam pomorske analize tveganja za podporo večnamenskega operativnega odziva.</P>
+            </SHORT_DESCR>
+            <VAL_TOTAL CURRENCY="EUR">783000.00</VAL_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <n2016:NUTS CODE="PL911"/>
+               <MAIN_SITE>
+                  <P>Prostori Frontexa, Varšava, Poljska.</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>To javno naročilo vključuje zagotavljanje dostopa in uvajanje že obstoječih pomorskih analitičnih orodij za določeno časovno obdobje. To vključuje tudi osnovno sistemsko podporo ponudnika pri vsakodnevnih operacijah, njeno prilagajanje operativnim potrebam in oceno uspešnosti. Te dejavnosti se bodo izvajale v prostorih Frontexa v obdobju 12 mesecev.</P>
+               </SHORT_DESCR>
+               <AC_QUALITY>
+                  <AC_CRITERION>Tehnična ustreznost</AC_CRITERION>
+                  <AC_WEIGHTING>60</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_PRICE>
+                  <AC_WEIGHTING>40</AC_WEIGHTING>
+               </AC_PRICE>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <PROCEDURE>
+            <PT_RESTRICTED/>
+            <NO_CONTRACT_COVERED_GPA/>
+            <NOTICE_NUMBER_OJ>2017/S 235-487320</NOTICE_NUMBER_OJ>
+         </PROCEDURE>
+         <AWARD_CONTRACT ITEM="1">
+            <CONTRACT_NO>Frontex/RP/1187/2017/AH</CONTRACT_NO>
+            <TITLE>
+               <P>Pomorska analitična orodja</P>
+            </TITLE>
+            <AWARDED_CONTRACT>
+               <DATE_CONCLUSION_CONTRACT>2018-06-04</DATE_CONCLUSION_CONTRACT>
+               <NB_TENDERS_RECEIVED>5</NB_TENDERS_RECEIVED>
+               <NO_AWARDED_TO_GROUP/>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>Windward Ltd</OFFICIALNAME>
+                     <TOWN>Tel Aviv</TOWN>
+                     <COUNTRY VALUE="IL"/>
+                     <n2016:NUTS CODE="00"/>
+                  </ADDRESS_CONTRACTOR>
+                  <NO_SME/>
+               </CONTRACTOR>
+               <VAL_ESTIMATED_TOTAL CURRENCY="EUR">1000000.00</VAL_ESTIMATED_TOTAL>
+               <VAL_TOTAL CURRENCY="EUR">783000.00</VAL_TOTAL>
+            </AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <COMPLEMENTARY_INFO>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Splošno sodišče</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <E_MAIL>cfi.registry@curia.europa.eu</E_MAIL>
+               <FAX>+352 4303-2100</FAX>
+               <URL>http://www.curia.europa.eu</URL>
+            </ADDRESS_REVIEW_BODY>
+            <REVIEW_PROCEDURE>
+               <P>V 2 mesecih od uradnega obvestila tožniku ali, če tega ni bilo, od dneva, ko je tožnik zanj izvedel.</P>
+            </REVIEW_PROCEDURE>
+            <DATE_DISPATCH_NOTICE>2018-06-06</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F03_2014>
+      <F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="GA">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>An Ghníomhaireacht Eorpach um an nGarda Teorann agus Cósta — Frontex</OFFICIALNAME>
+               <ADDRESS>Plac Europejski 6</ADDRESS>
+               <TOWN>Warsaw</TOWN>
+               <POSTAL_CODE>00-844</POSTAL_CODE>
+               <COUNTRY VALUE="PL"/>
+               <CONTACT_POINT>Frontex Procurement Sector</CONTACT_POINT>
+               <PHONE>+48 222059500</PHONE>
+               <E_MAIL>procurement@frontex.europa.eu</E_MAIL>
+               <FAX>+48 222059501</FAX>
+               <n2016:NUTS CODE="PL911"/>
+               <URL_GENERAL>http://www.frontex.europa.eu</URL_GENERAL>
+            </ADDRESS_CONTRACTING_BODY>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Uirlisí anailíse muirí</P>
+            </TITLE>
+            <REFERENCE_NUMBER>Frontex/RP/1187/2017/AH</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="72316000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>Tá ilrochtain faighte ag Frontex ar uirlisí anailíse muirí ar feadh tréimhse ama faoi leith (1 bhliain). Bainfidh Frontex leas as an rochtain sin chun “cruthúnas coincheapa” a dhéanamh chun tuiscint oibiachtúil a fháil ar chumais na n-uirlisí anailíseacha muirí sin (a bhfeidhmíocht, módúlacht na húsáide, tacaíocht an tsoláthraí a theastaíonn ina ngnáthúsáid laethúil, ina dteacht chun cinn agus ina n-inoiriúnaitheacht etc.) agus an dóigh ina luíonn torthaí na huirlise anailíse, ar bhealach cost-éifeachtúil, le riachtanais um anailís riosca muirí Frontex a thomhas chun tacú le freagairt oibriúcháin ilchuspóra.</P>
+            </SHORT_DESCR>
+            <VAL_TOTAL CURRENCY="EUR">783000.00</VAL_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <n2016:NUTS CODE="PL911"/>
+               <MAIN_SITE>
+                  <P>Áitreabh Frontex, Vársá, an Pholainn.</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>Baineann an soláthar a shainítear laistigh de seo le rochtain agus úsáid Uirlisí Anailíse Muirí atá ann cheana a sholáthar ar feadh tréimhse ama faoi leith. Cuimsítear ann chomh maith córas tacaíochta riachtanach an tsoláthraí i ngnáthoibríochtaí laethúla, a oiriúnú do riachtanais oibriúcháin, agus meastóireacht ar fheidhmíocht. Déanfar na gníomhaíochtaí sin ar áitreabh Frontex thar thréimhse 12 mhí.</P>
+               </SHORT_DESCR>
+               <AC_QUALITY>
+                  <AC_CRITERION>Fiúntas teicniúil</AC_CRITERION>
+                  <AC_WEIGHTING>60</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_PRICE>
+                  <AC_WEIGHTING>40</AC_WEIGHTING>
+               </AC_PRICE>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <PROCEDURE>
+            <PT_RESTRICTED/>
+            <NO_CONTRACT_COVERED_GPA/>
+            <NOTICE_NUMBER_OJ>2017/S 235-487320</NOTICE_NUMBER_OJ>
+         </PROCEDURE>
+         <AWARD_CONTRACT ITEM="1">
+            <CONTRACT_NO>Frontex/RP/1187/2017/AH</CONTRACT_NO>
+            <TITLE>
+               <P>Uirlisí anailíse muirí</P>
+            </TITLE>
+            <AWARDED_CONTRACT>
+               <DATE_CONCLUSION_CONTRACT>2018-06-04</DATE_CONCLUSION_CONTRACT>
+               <NB_TENDERS_RECEIVED>5</NB_TENDERS_RECEIVED>
+               <NO_AWARDED_TO_GROUP/>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>Windward Ltd</OFFICIALNAME>
+                     <TOWN>Tel Aviv</TOWN>
+                     <COUNTRY VALUE="IL"/>
+                     <n2016:NUTS CODE="00"/>
+                  </ADDRESS_CONTRACTOR>
+                  <NO_SME/>
+               </CONTRACTOR>
+               <VAL_ESTIMATED_TOTAL CURRENCY="EUR">1000000.00</VAL_ESTIMATED_TOTAL>
+               <VAL_TOTAL CURRENCY="EUR">783000.00</VAL_TOTAL>
+            </AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <COMPLEMENTARY_INFO>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>An Chúirt Ghinearálta</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <E_MAIL>cfi.registry@curia.europa.eu</E_MAIL>
+               <FAX>+352 4303-2100</FAX>
+               <URL>http://www.curia.europa.eu</URL>
+            </ADDRESS_REVIEW_BODY>
+            <REVIEW_PROCEDURE>
+               <P>Laistigh de 2 mhí ón bhfógra don ghearánaí, nó ina éagmais sin, ón lá a fuarthas an t-eolas.</P>
+            </REVIEW_PROCEDURE>
+            <DATE_DISPATCH_NOTICE>2018-06-06</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F03_2014>
+      <F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="BG">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Европейска агенция за гранична и брегова охрана — Frontex</OFFICIALNAME>
+               <ADDRESS>Plac Europejski 6</ADDRESS>
+               <TOWN>Warsaw</TOWN>
+               <POSTAL_CODE>00-844</POSTAL_CODE>
+               <COUNTRY VALUE="PL"/>
+               <CONTACT_POINT>Frontex Procurement Sector</CONTACT_POINT>
+               <PHONE>+48 222059500</PHONE>
+               <E_MAIL>procurement@frontex.europa.eu</E_MAIL>
+               <FAX>+48 222059501</FAX>
+               <n2016:NUTS CODE="PL911"/>
+               <URL_GENERAL>http://www.frontex.europa.eu</URL_GENERAL>
+            </ADDRESS_CONTRACTING_BODY>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Инструменти за морски анализи</P>
+            </TITLE>
+            <REFERENCE_NUMBER>Frontex/RP/1187/2017/AH</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="72316000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>Frontex е придобила достъп до инструменти за морски анализ за конкретен период от време (1 година). Frontex ще използва този достъп, за да направи „доказателство за концепцията“ за обективно разбиране на възможностите на тези инструменти за морски анализи (тяхното функциониране, начин на използване, подкрепа от доставчиците, необходима за ежедневна употреба, развитие и адаптивност и др.) и за начина, по който резултатите от тези аналитични инструменти съответстват по икономически ефективен начин на изискванията на Frontex за анализ на морските рискове, с цел подпомагане на многоцелевото оперативно реагиране.</P>
+            </SHORT_DESCR>
+            <VAL_TOTAL CURRENCY="EUR">783000.00</VAL_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <n2016:NUTS CODE="PL911"/>
+               <MAIN_SITE>
+                  <P>Помещения на Frontex, Варшава, Полша.</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>Тази обществена поръчка включва предоставянето на достъп и разгръщането на вече съществуващи инструменти за морски анализи за определен период от време. Освен това включва важна системна поддръжка от доставчика по време на ежедневните дейности, адаптирането ѝ спрямо работните нужди и оценка на ефективността. Тези дейности ще се провеждат в помещенията на Frontex за период от 12 месеца.</P>
+               </SHORT_DESCR>
+               <AC_QUALITY>
+                  <AC_CRITERION>Техническо качество</AC_CRITERION>
+                  <AC_WEIGHTING>60</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_PRICE>
+                  <AC_WEIGHTING>40</AC_WEIGHTING>
+               </AC_PRICE>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <PROCEDURE>
+            <PT_RESTRICTED/>
+            <NO_CONTRACT_COVERED_GPA/>
+            <NOTICE_NUMBER_OJ>2017/S 235-487320</NOTICE_NUMBER_OJ>
+         </PROCEDURE>
+         <AWARD_CONTRACT ITEM="1">
+            <CONTRACT_NO>Frontex/RP/1187/2017/AH</CONTRACT_NO>
+            <TITLE>
+               <P>Инструменти за морски анализи</P>
+            </TITLE>
+            <AWARDED_CONTRACT>
+               <DATE_CONCLUSION_CONTRACT>2018-06-04</DATE_CONCLUSION_CONTRACT>
+               <NB_TENDERS_RECEIVED>5</NB_TENDERS_RECEIVED>
+               <NO_AWARDED_TO_GROUP/>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>Windward Ltd</OFFICIALNAME>
+                     <TOWN>Tel Aviv</TOWN>
+                     <COUNTRY VALUE="IL"/>
+                     <n2016:NUTS CODE="00"/>
+                  </ADDRESS_CONTRACTOR>
+                  <NO_SME/>
+               </CONTRACTOR>
+               <VAL_ESTIMATED_TOTAL CURRENCY="EUR">1000000.00</VAL_ESTIMATED_TOTAL>
+               <VAL_TOTAL CURRENCY="EUR">783000.00</VAL_TOTAL>
+            </AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <COMPLEMENTARY_INFO>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Общ съд</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <E_MAIL>cfi.registry@curia.europa.eu</E_MAIL>
+               <FAX>+352 4303-2100</FAX>
+               <URL>http://www.curia.europa.eu</URL>
+            </ADDRESS_REVIEW_BODY>
+            <REVIEW_PROCEDURE>
+               <P>В рамките на 2 месеца от получаването на известието от ищеца или, в случай че такова липсва, от деня, в който е станало известно.</P>
+            </REVIEW_PROCEDURE>
+            <DATE_DISPATCH_NOTICE>2018-06-06</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F03_2014>
+      <F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="RO">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Agenția Europeană pentru Poliția de Frontieră și Garda de Coastă — Frontex</OFFICIALNAME>
+               <ADDRESS>Plac Europejski 6</ADDRESS>
+               <TOWN>Warsaw</TOWN>
+               <POSTAL_CODE>00-844</POSTAL_CODE>
+               <COUNTRY VALUE="PL"/>
+               <CONTACT_POINT>Frontex Procurement Sector</CONTACT_POINT>
+               <PHONE>+48 222059500</PHONE>
+               <E_MAIL>procurement@frontex.europa.eu</E_MAIL>
+               <FAX>+48 222059501</FAX>
+               <n2016:NUTS CODE="PL911"/>
+               <URL_GENERAL>http://www.frontex.europa.eu</URL_GENERAL>
+            </ADDRESS_CONTRACTING_BODY>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Instrumentele de analiză maritimă</P>
+            </TITLE>
+            <REFERENCE_NUMBER>Frontex/RP/1187/2017/AH</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="72316000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>Frontex a dobândit un acces multiplu la instrumentele de analiză maritimă pentru o perioadă specifică de timp (1 an). Frontex va utiliza acest acces pentru a realiza o "dovadă a conceptului" pentru a înțelege în mod obiectiv capacitățile acestor instrumente analitice maritime (performanța lor, modalitatea de utilizare, sprijinul furnizorilor necesar în utilizarea zilnică, evoluția și adaptabilitatea etc.) și pentru a măsura modul în care rezultatele instrumentului analitic se potrivesc, din punct de vedere rentabil, cu cerințele Frontex de analiză a riscului maritim pentru a sprijini răspunsul operațional cu scopuri multiple.</P>
+            </SHORT_DESCR>
+            <VAL_TOTAL CURRENCY="EUR">783000.00</VAL_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <n2016:NUTS CODE="PL911"/>
+               <MAIN_SITE>
+                  <P>Sediul Frontex, Varșovia, Polonia.</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>Achiziționarea definită în continuare implică furnizarea accesului și implementarea instrumentelor de analiză maritimă deja existente pentru o perioadă de timp fixă. Aceasta include, de asemenea, asistența esențială a furnizorului pentru sistem în operațiunile zilnice, adaptarea sa la nevoile operaționale și evaluarea performanței. Aceste activități se desfășoară la sediul Frontex pe o perioadă de 12 luni.</P>
+               </SHORT_DESCR>
+               <AC_QUALITY>
+                  <AC_CRITERION>Valoarea tehnică</AC_CRITERION>
+                  <AC_WEIGHTING>60</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_PRICE>
+                  <AC_WEIGHTING>40</AC_WEIGHTING>
+               </AC_PRICE>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <PROCEDURE>
+            <PT_RESTRICTED/>
+            <NO_CONTRACT_COVERED_GPA/>
+            <NOTICE_NUMBER_OJ>2017/S 235-487320</NOTICE_NUMBER_OJ>
+         </PROCEDURE>
+         <AWARD_CONTRACT ITEM="1">
+            <CONTRACT_NO>Frontex/RP/1187/2017/AH</CONTRACT_NO>
+            <TITLE>
+               <P>Instrumentele de analiză maritimă</P>
+            </TITLE>
+            <AWARDED_CONTRACT>
+               <DATE_CONCLUSION_CONTRACT>2018-06-04</DATE_CONCLUSION_CONTRACT>
+               <NB_TENDERS_RECEIVED>5</NB_TENDERS_RECEIVED>
+               <NO_AWARDED_TO_GROUP/>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>Windward Ltd</OFFICIALNAME>
+                     <TOWN>Tel Aviv</TOWN>
+                     <COUNTRY VALUE="IL"/>
+                     <n2016:NUTS CODE="00"/>
+                  </ADDRESS_CONTRACTOR>
+                  <NO_SME/>
+               </CONTRACTOR>
+               <VAL_ESTIMATED_TOTAL CURRENCY="EUR">1000000.00</VAL_ESTIMATED_TOTAL>
+               <VAL_TOTAL CURRENCY="EUR">783000.00</VAL_TOTAL>
+            </AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <COMPLEMENTARY_INFO>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Tribunalul</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <E_MAIL>cfi.registry@curia.europa.eu</E_MAIL>
+               <FAX>+352 4303-2100</FAX>
+               <URL>http://www.curia.europa.eu</URL>
+            </ADDRESS_REVIEW_BODY>
+            <REVIEW_PROCEDURE>
+               <P>În termen de 2 luni de la notificarea reclamantului sau, în absența acestuia, de la ziua în care acesta a luat cunoștință de actul respectiv.</P>
+            </REVIEW_PROCEDURE>
+            <DATE_DISPATCH_NOTICE>2018-06-06</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F03_2014>
+      <F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="HR">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Agencija za europsku graničnu i obalnu stražu — Frontex</OFFICIALNAME>
+               <ADDRESS>Plac Europejski 6</ADDRESS>
+               <TOWN>Warsaw</TOWN>
+               <POSTAL_CODE>00-844</POSTAL_CODE>
+               <COUNTRY VALUE="PL"/>
+               <CONTACT_POINT>Frontex Procurement Sector</CONTACT_POINT>
+               <PHONE>+48 222059500</PHONE>
+               <E_MAIL>procurement@frontex.europa.eu</E_MAIL>
+               <FAX>+48 222059501</FAX>
+               <n2016:NUTS CODE="PL911"/>
+               <URL_GENERAL>http://www.frontex.europa.eu</URL_GENERAL>
+            </ADDRESS_CONTRACTING_BODY>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Alati za pomorsku analizu</P>
+            </TITLE>
+            <REFERENCE_NUMBER>Frontex/RP/1187/2017/AH</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="72316000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>Frontex želi nabaviti višestruki pristup alatima za pomorsku analizu za određeno vremensko razdoblje (1 godina). Frontex će koristiti ovaj pristup za provedbu „provjere koncepta” za objektivno razumijevanje sposobnosti ovih pomorskih analitičkih alata (njihovih performansi, načina korištenja, podrške pružatelja koja je nužna u svakodnevnoj uporabi, razvoju i prilagodljivosti itd.) i za mjerenje kako rezultati analitičkog alata ispunjavaju, na isplativ način, Frontexove zahtjeve za analizu pomorskih rizika za podršku višenamjenskom operativnom odgovoru.</P>
+            </SHORT_DESCR>
+            <VAL_TOTAL CURRENCY="EUR">783000.00</VAL_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <n2016:NUTS CODE="PL911"/>
+               <MAIN_SITE>
+                  <P>Prostori Frontexa, Varšava, Poljska.</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>Navedena nabava uključuje pružanje pristupa i uporabu već postojećih alata za pomorsku analizu za određeno vremensko razdoblje. To također uključuje bitnu podršku sustava od strane pružatelja usluga u svakodnevnom poslovanju, prilagodbu operativnim potrebama i procjenu performansi. Te se djelatnosti odvijaju u prostorima Frontexa u razdoblju od 12 mjeseci.</P>
+               </SHORT_DESCR>
+               <AC_QUALITY>
+                  <AC_CRITERION>Tehnička kvaliteta</AC_CRITERION>
+                  <AC_WEIGHTING>60</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_PRICE>
+                  <AC_WEIGHTING>40</AC_WEIGHTING>
+               </AC_PRICE>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <PROCEDURE>
+            <PT_RESTRICTED/>
+            <NO_CONTRACT_COVERED_GPA/>
+            <NOTICE_NUMBER_OJ>2017/S 235-487320</NOTICE_NUMBER_OJ>
+         </PROCEDURE>
+         <AWARD_CONTRACT ITEM="1">
+            <CONTRACT_NO>Frontex/RP/1187/2017/AH</CONTRACT_NO>
+            <TITLE>
+               <P>Alati za pomorsku analizu</P>
+            </TITLE>
+            <AWARDED_CONTRACT>
+               <DATE_CONCLUSION_CONTRACT>2018-06-04</DATE_CONCLUSION_CONTRACT>
+               <NB_TENDERS_RECEIVED>5</NB_TENDERS_RECEIVED>
+               <NO_AWARDED_TO_GROUP/>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>Windward Ltd</OFFICIALNAME>
+                     <TOWN>Tel Aviv</TOWN>
+                     <COUNTRY VALUE="IL"/>
+                     <n2016:NUTS CODE="00"/>
+                  </ADDRESS_CONTRACTOR>
+                  <NO_SME/>
+               </CONTRACTOR>
+               <VAL_ESTIMATED_TOTAL CURRENCY="EUR">1000000.00</VAL_ESTIMATED_TOTAL>
+               <VAL_TOTAL CURRENCY="EUR">783000.00</VAL_TOTAL>
+            </AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <COMPLEMENTARY_INFO>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Opći sud</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <E_MAIL>cfi.registry@curia.europa.eu</E_MAIL>
+               <FAX>+352 4303-2100</FAX>
+               <URL>http://www.curia.europa.eu</URL>
+            </ADDRESS_REVIEW_BODY>
+            <REVIEW_PROCEDURE>
+               <P>U roku od 2 mjeseca od slanja obavijesti podnositelju žalbe ili, u slučaju izostanka obavijesti, od dana primanja dotičnih okolnosti na znanje.</P>
+            </REVIEW_PROCEDURE>
+            <DATE_DISPATCH_NOTICE>2018-06-06</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F03_2014>
+   </FORM_SECTION>
+</TED_EXPORT>
