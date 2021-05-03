@@ -1,0 +1,3290 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TED_EXPORT xmlns:xlink="http://www.w3.org/1999/xlink"
+            xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+            xmlns="ted/R2.0.9.S02/publication"
+            xmlns:n2016="ted/2016/nuts"
+            xsi:schemaLocation="ted/R2.0.9.S02/publication TED_EXPORT.xsd"
+            VERSION="R2.0.9.S02.E01"
+            DOC_ID="508644-2017"
+            EDITION="2017244">
+   <TECHNICAL_SECTION>
+      <RECEPTION_ID>17-711687-001</RECEPTION_ID>
+      <DELETION_DATE>20180318</DELETION_DATE>
+      <FORM_LG_LIST>DA DE EN ES FI FR EL IT NL PT SV CS ET HU LT LV MT PL SK SL GA BG RO HR </FORM_LG_LIST>
+      <COMMENTS>From Convertor</COMMENTS>
+   </TECHNICAL_SECTION>
+   <LINKS_SECTION>
+      <XML_SCHEMA_DEFINITION_LINK xlink:type="simple"
+                                  xlink:href="http://ted.europa.eu"
+                                  xlink:title="TED WEBSITE"/>
+      <OFFICIAL_FORMS_LINK xlink:type="simple" xlink:href="http://ted.europa.eu"/>
+      <FORMS_LABELS_LINK xlink:type="simple" xlink:href="http://ted.europa.eu"/>
+      <ORIGINAL_CPV_LINK xlink:type="simple" xlink:href="http://ted.europa.eu"/>
+      <ORIGINAL_NUTS_LINK xlink:type="simple" xlink:href="http://ted.europa.eu"/>
+   </LINKS_SECTION>
+   <CODED_DATA_SECTION>
+      <REF_OJS>
+         <COLL_OJ>S</COLL_OJ>
+         <NO_OJ>244</NO_OJ>
+         <DATE_PUB>20171220</DATE_PUB>
+      </REF_OJS>
+      <NOTICE_DATA>
+         <NO_DOC_OJS>2017/S 244-508644</NO_DOC_OJS>
+         <URI_LIST>
+            <URI_DOC LG="DA">http://ted.europa.eu/udl?uri=TED:NOTICE:508644-2017:TEXT:DA:HTML</URI_DOC>
+            <URI_DOC LG="DE">http://ted.europa.eu/udl?uri=TED:NOTICE:508644-2017:TEXT:DE:HTML</URI_DOC>
+            <URI_DOC LG="EN">http://ted.europa.eu/udl?uri=TED:NOTICE:508644-2017:TEXT:EN:HTML</URI_DOC>
+            <URI_DOC LG="ES">http://ted.europa.eu/udl?uri=TED:NOTICE:508644-2017:TEXT:ES:HTML</URI_DOC>
+            <URI_DOC LG="FI">http://ted.europa.eu/udl?uri=TED:NOTICE:508644-2017:TEXT:FI:HTML</URI_DOC>
+            <URI_DOC LG="FR">http://ted.europa.eu/udl?uri=TED:NOTICE:508644-2017:TEXT:FR:HTML</URI_DOC>
+            <URI_DOC LG="EL">http://ted.europa.eu/udl?uri=TED:NOTICE:508644-2017:TEXT:EL:HTML</URI_DOC>
+            <URI_DOC LG="IT">http://ted.europa.eu/udl?uri=TED:NOTICE:508644-2017:TEXT:IT:HTML</URI_DOC>
+            <URI_DOC LG="NL">http://ted.europa.eu/udl?uri=TED:NOTICE:508644-2017:TEXT:NL:HTML</URI_DOC>
+            <URI_DOC LG="PT">http://ted.europa.eu/udl?uri=TED:NOTICE:508644-2017:TEXT:PT:HTML</URI_DOC>
+            <URI_DOC LG="SV">http://ted.europa.eu/udl?uri=TED:NOTICE:508644-2017:TEXT:SV:HTML</URI_DOC>
+            <URI_DOC LG="CS">http://ted.europa.eu/udl?uri=TED:NOTICE:508644-2017:TEXT:CS:HTML</URI_DOC>
+            <URI_DOC LG="ET">http://ted.europa.eu/udl?uri=TED:NOTICE:508644-2017:TEXT:ET:HTML</URI_DOC>
+            <URI_DOC LG="HU">http://ted.europa.eu/udl?uri=TED:NOTICE:508644-2017:TEXT:HU:HTML</URI_DOC>
+            <URI_DOC LG="LT">http://ted.europa.eu/udl?uri=TED:NOTICE:508644-2017:TEXT:LT:HTML</URI_DOC>
+            <URI_DOC LG="LV">http://ted.europa.eu/udl?uri=TED:NOTICE:508644-2017:TEXT:LV:HTML</URI_DOC>
+            <URI_DOC LG="MT">http://ted.europa.eu/udl?uri=TED:NOTICE:508644-2017:TEXT:MT:HTML</URI_DOC>
+            <URI_DOC LG="PL">http://ted.europa.eu/udl?uri=TED:NOTICE:508644-2017:TEXT:PL:HTML</URI_DOC>
+            <URI_DOC LG="SK">http://ted.europa.eu/udl?uri=TED:NOTICE:508644-2017:TEXT:SK:HTML</URI_DOC>
+            <URI_DOC LG="SL">http://ted.europa.eu/udl?uri=TED:NOTICE:508644-2017:TEXT:SL:HTML</URI_DOC>
+            <URI_DOC LG="GA">http://ted.europa.eu/udl?uri=TED:NOTICE:508644-2017:TEXT:GA:HTML</URI_DOC>
+            <URI_DOC LG="BG">http://ted.europa.eu/udl?uri=TED:NOTICE:508644-2017:TEXT:BG:HTML</URI_DOC>
+            <URI_DOC LG="RO">http://ted.europa.eu/udl?uri=TED:NOTICE:508644-2017:TEXT:RO:HTML</URI_DOC>
+            <URI_DOC LG="HR">http://ted.europa.eu/udl?uri=TED:NOTICE:508644-2017:TEXT:HR:HTML</URI_DOC>
+         </URI_LIST>
+         <LG_ORIG>EN</LG_ORIG>
+         <ISO_COUNTRY VALUE="PL"/>
+         <IA_URL_GENERAL>http://www.frontex.europa.eu</IA_URL_GENERAL>
+         <ORIGINAL_CPV CODE="30230000">Computer-related equipment</ORIGINAL_CPV>
+         <n2016:PERFORMANCE_NUTS CODE="PL">POLSKA</n2016:PERFORMANCE_NUTS>
+         <n2016:CA_CE_NUTS CODE="PL">POLSKA</n2016:CA_CE_NUTS>
+         <n2016:TENDERER_NUTS CODE="NL">NEDERLAND</n2016:TENDERER_NUTS>
+         <n2016:TENDERER_NUTS CODE="CZ">ČESKÁ REPUBLIKA</n2016:TENDERER_NUTS>
+         <n2016:TENDERER_NUTS CODE="PL">POLSKA</n2016:TENDERER_NUTS>
+         <VALUES>
+            <VALUE TYPE="PROCUREMENT_TOTAL" CURRENCY="EUR">2000000.00</VALUE>
+         </VALUES>
+         <REF_NOTICE>
+            <NO_DOC_OJS>2017/S 126-255692</NO_DOC_OJS>
+         </REF_NOTICE>
+      </NOTICE_DATA>
+      <CODIF_DATA>
+         <DS_DATE_DISPATCH>20171208</DS_DATE_DISPATCH>
+         <AA_AUTHORITY_TYPE CODE="5">European Institution/Agency or International Organisation</AA_AUTHORITY_TYPE>
+         <TD_DOCUMENT_TYPE CODE="7">Contract award notice</TD_DOCUMENT_TYPE>
+         <NC_CONTRACT_NATURE CODE="2">Supplies</NC_CONTRACT_NATURE>
+         <PR_PROC CODE="1">Open procedure</PR_PROC>
+         <RP_REGULATION CODE="3">European Institution/Agency or International Organisation</RP_REGULATION>
+         <TY_TYPE_BID CODE="9">Not applicable</TY_TYPE_BID>
+         <AC_AWARD_CRIT CODE="2">The most economic tender</AC_AWARD_CRIT>
+         <MA_MAIN_ACTIVITIES CODE="S">General public services</MA_MAIN_ACTIVITIES>
+         <HEADING>AGB03</HEADING>
+         <INITIATOR>AG</INITIATOR>
+         <DIRECTIVE VALUE="2014/24/EU"/>
+      </CODIF_DATA>
+   </CODED_DATA_SECTION>
+   <TRANSLATION_SECTION>
+      <ML_TITLES>
+         <ML_TI_DOC LG="DA">
+            <TI_CY>Polen</TI_CY>
+            <TI_TOWN>Warszawa</TI_TOWN>
+            <TI_TEXT>
+               <P>Rammekontrakt med genåbning af konkurrence vedrørende leverancer af ikt-udstyr, reservedele og tilbehør</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="DE">
+            <TI_CY>Polen</TI_CY>
+            <TI_TOWN>Warschau</TI_TOWN>
+            <TI_TEXT>
+               <P>Rahmenvertrag mit erneutem Aufruf zum Wettbewerb für die Lieferung von IKT-Ausrüstung, Ersatzteilen und Zubehör</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="EN">
+            <TI_CY>Poland</TI_CY>
+            <TI_TOWN>Warsaw</TI_TOWN>
+            <TI_TEXT>
+               <P>Framework contract with reopening of competition for deliveries of ICT equipment, spare parts and accessories</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="ES">
+            <TI_CY>Polonia</TI_CY>
+            <TI_TOWN>Varsovia</TI_TOWN>
+            <TI_TEXT>
+               <P>Contrato marco con reapertura de concurso relativo a la entrega de equipos informáticos, piezas de repuesto y accesorios</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="FI">
+            <TI_CY>Puola</TI_CY>
+            <TI_TOWN>Varsova</TI_TOWN>
+            <TI_TEXT>
+               <P>Kyseessä on kilpailun uudelleenkäynnistämisen avulla tehtävä puitesopimus tieto- ja viestintäteknisten laitteiden, varaosien ja oheistarvikkeiden toimituksista</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="FR">
+            <TI_CY>Pologne</TI_CY>
+            <TI_TOWN>Varsovie</TI_TOWN>
+            <TI_TEXT>
+               <P>Contrat-cadre avec remise en concurrence relatif à la livraison d'équipement TIC, de pièces détachées et d'accessoires</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="EL">
+            <TI_CY>Πολωνία</TI_CY>
+            <TI_TOWN>Βαρσοβία</TI_TOWN>
+            <TI_TEXT>
+               <P>Σύμβαση-πλαίσιο με επανέναρξη του διαγωνισμού για τις παραδόσεις εξοπλισμού ΤΠΕ, ανταλλακτικών και εξαρτημάτων</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="IT">
+            <TI_CY>Polonia</TI_CY>
+            <TI_TOWN>Varsavia</TI_TOWN>
+            <TI_TEXT>
+               <P>Contratto quadro con riapertura della gara per la fornitura di attrezzature TIC, pezzi di ricambio e accessori</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="NL">
+            <TI_CY>Polen</TI_CY>
+            <TI_TOWN>Warschau</TI_TOWN>
+            <TI_TEXT>
+               <P>Raamovereenkomst met heropening van mededinging voor de levering van ICT-uitrusting, reserveonderdelen en toebehoren</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="PT">
+            <TI_CY>Polónia</TI_CY>
+            <TI_TOWN>Varsóvia</TI_TOWN>
+            <TI_TEXT>
+               <P>Contrato-quadro com reabertura de concurso para fornecimentos de equipamento TIC, peças sobresselentes e acessórios</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="SV">
+            <TI_CY>Polen</TI_CY>
+            <TI_TOWN>Warszawa</TI_TOWN>
+            <TI_TEXT>
+               <P>Ramavtal med förnyad inbjudan att lämna anbud för leverans av IKT-utrustning, reservdelar och tillbehör</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="CS">
+            <TI_CY>Polsko</TI_CY>
+            <TI_TOWN>Varšava</TI_TOWN>
+            <TI_TEXT>
+               <P>Rámcová smlouva s opětným otevřením soutěže na dodávky vybavení IKT, náhradních dílů a příslušenství</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="ET">
+            <TI_CY>Poola</TI_CY>
+            <TI_TOWN>Varssavi</TI_TOWN>
+            <TI_TEXT>
+               <P>Konkursi taasalgatamisega raamleping IKT-seadmete, varuosade ja lisatarvikute tarneks</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="HU">
+            <TI_CY>Lengyelország</TI_CY>
+            <TI_TOWN>Varsó</TI_TOWN>
+            <TI_TEXT>
+               <P>IKT-berendezések, tartalék alkatrészek és tartozékok leszállítására irányuló keretszerződés a verseny ismételt meghirdetésével</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="LT">
+            <TI_CY>Lenkija</TI_CY>
+            <TI_TOWN>Varšuva</TI_TOWN>
+            <TI_TEXT>
+               <P>Preliminarioji sutartis pakartotinai skelbiant konkursą dėl IRT įrangos, atsarginių dalių ir priedų pristatymo</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="LV">
+            <TI_CY>Polija</TI_CY>
+            <TI_TOWN>Varšava</TI_TOWN>
+            <TI_TEXT>
+               <P>Pamatnolīgums ar atkārtotu konkursa izsludināšanu par IKT aprīkojuma, rezerves daļu un piederumu piegādēm</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="MT">
+            <TI_CY>il-Polonja</TI_CY>
+            <TI_TOWN>Varsavja</TI_TOWN>
+            <TI_TEXT>
+               <P>Qafas ta' kuntratt bil-ftuħ mill-ġdid tal-kompetizzjoni għall-kunsinna ta' tagħmir, partijiet li jinbidlu u aċċessorji tal-ICT</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="PL">
+            <TI_CY>Polska</TI_CY>
+            <TI_TOWN>Warszawa</TI_TOWN>
+            <TI_TEXT>
+               <P>Umowa ramowa z odnowieniem konkurencji o dostawy sprzętu informacyjno-komunikacyjnego, części zamiennych i akcesoriów</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="SK">
+            <TI_CY>Poľsko</TI_CY>
+            <TI_TOWN>Varšava</TI_TOWN>
+            <TI_TEXT>
+               <P>Rámcová zmluva s obnovením súťaže na dodávku zariadenia IKT, náhradných dielov a príslušenstva</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="SL">
+            <TI_CY>Poljska</TI_CY>
+            <TI_TOWN>Varšava</TI_TOWN>
+            <TI_TEXT>
+               <P>Okvirno naročilo s ponovnim odpiranjem konkurence za dobavo opreme IKT, rezervnih delov in dodatne opreme</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="GA">
+            <TI_CY>Pholainn, an</TI_CY>
+            <TI_TOWN>Vársá</TI_TOWN>
+            <TI_TEXT>
+               <P>Creatchonradh le hathoscailt iomaíochta maidir le seachadtaí de threalamh TFC, comhpháirteanna breise agus oiriúintí</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="BG">
+            <TI_CY>Полша</TI_CY>
+            <TI_TOWN>Варшава</TI_TOWN>
+            <TI_TEXT>
+               <P>Рамков договор с повторно стартиране на конкурс за доставки на ИКТ оборудване, резервни части и принадлежности</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="RO">
+            <TI_CY>Polonia</TI_CY>
+            <TI_TOWN>Varşovia</TI_TOWN>
+            <TI_TEXT>
+               <P>Contract-cadru cu reluare a competiției pentru livrări de echipamente TIC, de piese de schimb și de accesorii</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="HR">
+            <TI_CY>Poljska</TI_CY>
+            <TI_TOWN>Varšava</TI_TOWN>
+            <TI_TEXT>
+               <P>Okvirni ugovor s ponovnim otvaranjem nadmetanja za isporuku opreme ICT-a, rezervnih dijelova i pribora</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+      </ML_TITLES>
+      <ML_AA_NAMES>
+         <AA_NAME LG="DA">Frontex</AA_NAME>
+         <AA_NAME LG="DE">Frontex</AA_NAME>
+         <AA_NAME LG="EN">Frontex</AA_NAME>
+         <AA_NAME LG="ES">Frontex</AA_NAME>
+         <AA_NAME LG="FI">Frontex</AA_NAME>
+         <AA_NAME LG="FR">Frontex</AA_NAME>
+         <AA_NAME LG="EL">Frontex</AA_NAME>
+         <AA_NAME LG="IT">Frontex</AA_NAME>
+         <AA_NAME LG="NL">Frontex</AA_NAME>
+         <AA_NAME LG="PT">Frontex</AA_NAME>
+         <AA_NAME LG="SV">Frontex</AA_NAME>
+         <AA_NAME LG="CS">Frontex</AA_NAME>
+         <AA_NAME LG="ET">Frontex</AA_NAME>
+         <AA_NAME LG="HU">Frontex</AA_NAME>
+         <AA_NAME LG="LT">Frontex</AA_NAME>
+         <AA_NAME LG="LV">Frontex</AA_NAME>
+         <AA_NAME LG="MT">Frontex</AA_NAME>
+         <AA_NAME LG="PL">Frontex</AA_NAME>
+         <AA_NAME LG="SK">Frontex</AA_NAME>
+         <AA_NAME LG="SL">Frontex</AA_NAME>
+         <AA_NAME LG="GA">Frontex</AA_NAME>
+         <AA_NAME LG="BG">Frontex</AA_NAME>
+         <AA_NAME LG="RO">Frontex</AA_NAME>
+         <AA_NAME LG="HR">Frontex</AA_NAME>
+      </ML_AA_NAMES>
+   </TRANSLATION_SECTION>
+   <FORM_SECTION>
+      <F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="DA">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Frontex</OFFICIALNAME>
+               <ADDRESS>Plac Europejski 6</ADDRESS>
+               <TOWN>Warsaw</TOWN>
+               <POSTAL_CODE>00-844</POSTAL_CODE>
+               <COUNTRY VALUE="PL"/>
+               <PHONE>+48 222059500</PHONE>
+               <E_MAIL>procurement@frontex.europa.eu</E_MAIL>
+               <FAX>+48 222059501</FAX>
+               <n2016:NUTS CODE="PL"/>
+               <URL_GENERAL>http://www.frontex.europa.eu</URL_GENERAL>
+            </ADDRESS_CONTRACTING_BODY>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Rammekontrakt med genåbning af konkurrence vedrørende leverancer af ikt-udstyr, reservedele og tilbehør</P>
+            </TITLE>
+            <REFERENCE_NUMBER>Frontex/OP/238/2017/KM</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="30230000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SUPPLIES"/>
+            <SHORT_DESCR>
+               <P>Rammekontrakt med genåbning af konkurrence vedrørende leverancer af ikt-udstyr, reservedele og tilbehør.</P>
+            </SHORT_DESCR>
+            <VAL_TOTAL CURRENCY="EUR">2000000.00</VAL_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <n2016:NUTS CODE="PL"/>
+               <SHORT_DESCR>
+                  <P>Rammekontrakt med genåbning af konkurrence vedrørende leverancer af ikt-udstyr, reservedele og tilbehør.</P>
+               </SHORT_DESCR>
+               <AC_QUALITY>
+                  <AC_CRITERION>Som angivet i udbudsmaterialet</AC_CRITERION>
+                  <AC_WEIGHTING>30</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_PRICE>
+                  <AC_WEIGHTING>70</AC_WEIGHTING>
+               </AC_PRICE>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <FRAMEWORK/>
+            <NO_CONTRACT_COVERED_GPA/>
+            <NOTICE_NUMBER_OJ>2017/S 126-255692</NOTICE_NUMBER_OJ>
+         </PROCEDURE>
+         <AWARD_CONTRACT ITEM="1">
+            <CONTRACT_NO>FRONTEX/OP/238/2017/KM</CONTRACT_NO>
+            <TITLE>
+               <P>Rammekontrakt med genåbning af konkurrence vedrørende leverancer af ikt-udstyr, reservedele og tilbehør</P>
+            </TITLE>
+            <AWARDED_CONTRACT>
+               <DATE_CONCLUSION_CONTRACT>2017-11-22</DATE_CONCLUSION_CONTRACT>
+               <NB_TENDERS_RECEIVED>4</NB_TENDERS_RECEIVED>
+               <AWARDED_TO_GROUP/>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>Uni Business Centre BV</OFFICIALNAME>
+                     <ADDRESS>Zekeringstraat 9a</ADDRESS>
+                     <TOWN>Amsterdam</TOWN>
+                     <POSTAL_CODE>1014BM</POSTAL_CODE>
+                     <COUNTRY VALUE="NL"/>
+                     <n2016:NUTS CODE="NL"/>
+                  </ADDRESS_CONTRACTOR>
+                  <SME/>
+               </CONTRACTOR>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>Nextis services s.r.o.</OFFICIALNAME>
+                     <ADDRESS>Krmelinska 934/4</ADDRESS>
+                     <TOWN>Ostrava</TOWN>
+                     <POSTAL_CODE>720 00</POSTAL_CODE>
+                     <COUNTRY VALUE="CZ"/>
+                     <n2016:NUTS CODE="CZ"/>
+                  </ADDRESS_CONTRACTOR>
+                  <SME/>
+               </CONTRACTOR>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>AutoCont CZ a.s.</OFFICIALNAME>
+                     <ADDRESS>Hornopolni 3322/34</ADDRESS>
+                     <TOWN>Ostrava</TOWN>
+                     <POSTAL_CODE>702 00</POSTAL_CODE>
+                     <COUNTRY VALUE="CZ"/>
+                     <n2016:NUTS CODE="CZ"/>
+                  </ADDRESS_CONTRACTOR>
+                  <SME/>
+               </CONTRACTOR>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>Bechtle direct Polska sp z oo</OFFICIALNAME>
+                     <ADDRESS>Krakowska 119</ADDRESS>
+                     <TOWN>Wroclaw</TOWN>
+                     <POSTAL_CODE>50-428</POSTAL_CODE>
+                     <COUNTRY VALUE="PL"/>
+                     <n2016:NUTS CODE="PL"/>
+                  </ADDRESS_CONTRACTOR>
+                  <SME/>
+               </CONTRACTOR>
+               <VAL_ESTIMATED_TOTAL CURRENCY="EUR">2000000.00</VAL_ESTIMATED_TOTAL>
+               <VAL_TOTAL CURRENCY="EUR">2000000.00</VAL_TOTAL>
+            </AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <COMPLEMENTARY_INFO>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Retten</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <E_MAIL>cfi.registry@curia.europa.eu</E_MAIL>
+               <FAX>+352 4303-2100</FAX>
+               <URL>http://curia.europa.eu/</URL>
+            </ADDRESS_REVIEW_BODY>
+            <DATE_DISPATCH_NOTICE>2017-12-08</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F03_2014>
+      <F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="DE">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Frontex</OFFICIALNAME>
+               <ADDRESS>Plac Europejski 6</ADDRESS>
+               <TOWN>Warsaw</TOWN>
+               <POSTAL_CODE>00-844</POSTAL_CODE>
+               <COUNTRY VALUE="PL"/>
+               <PHONE>+48 222059500</PHONE>
+               <E_MAIL>procurement@frontex.europa.eu</E_MAIL>
+               <FAX>+48 222059501</FAX>
+               <n2016:NUTS CODE="PL"/>
+               <URL_GENERAL>http://www.frontex.europa.eu</URL_GENERAL>
+            </ADDRESS_CONTRACTING_BODY>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Rahmenvertrag mit erneutem Aufruf zum Wettbewerb für die Lieferung von IKT-Ausrüstung, Ersatzteilen und Zubehör</P>
+            </TITLE>
+            <REFERENCE_NUMBER>Frontex/OP/238/2017/KM</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="30230000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SUPPLIES"/>
+            <SHORT_DESCR>
+               <P>Rahmenvertrag mit erneutem Aufruf zum Wettbewerb für die Lieferung von IKT-Ausrüstung, Ersatzteilen und Zubehör.</P>
+            </SHORT_DESCR>
+            <VAL_TOTAL CURRENCY="EUR">2000000.00</VAL_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <n2016:NUTS CODE="PL"/>
+               <SHORT_DESCR>
+                  <P>Rahmenvertrag mit erneutem Aufruf zum Wettbewerb für die Lieferung von IKT-Ausrüstung, Ersatzteilen und Zubehör.</P>
+               </SHORT_DESCR>
+               <AC_QUALITY>
+                  <AC_CRITERION>Wie in den Ausschreibungsunterlagen erläutert</AC_CRITERION>
+                  <AC_WEIGHTING>30</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_PRICE>
+                  <AC_WEIGHTING>70</AC_WEIGHTING>
+               </AC_PRICE>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <FRAMEWORK/>
+            <NO_CONTRACT_COVERED_GPA/>
+            <NOTICE_NUMBER_OJ>2017/S 126-255692</NOTICE_NUMBER_OJ>
+         </PROCEDURE>
+         <AWARD_CONTRACT ITEM="1">
+            <CONTRACT_NO>FRONTEX/OP/238/2017/KM</CONTRACT_NO>
+            <TITLE>
+               <P>Rahmenvertrag mit erneutem Aufruf zum Wettbewerb für die Lieferung von IKT-Ausrüstung, Ersatzteilen und Zubehör</P>
+            </TITLE>
+            <AWARDED_CONTRACT>
+               <DATE_CONCLUSION_CONTRACT>2017-11-22</DATE_CONCLUSION_CONTRACT>
+               <NB_TENDERS_RECEIVED>4</NB_TENDERS_RECEIVED>
+               <AWARDED_TO_GROUP/>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>Uni Business Centre BV</OFFICIALNAME>
+                     <ADDRESS>Zekeringstraat 9a</ADDRESS>
+                     <TOWN>Amsterdam</TOWN>
+                     <POSTAL_CODE>1014BM</POSTAL_CODE>
+                     <COUNTRY VALUE="NL"/>
+                     <n2016:NUTS CODE="NL"/>
+                  </ADDRESS_CONTRACTOR>
+                  <SME/>
+               </CONTRACTOR>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>Nextis services s.r.o.</OFFICIALNAME>
+                     <ADDRESS>Krmelinska 934/4</ADDRESS>
+                     <TOWN>Ostrava</TOWN>
+                     <POSTAL_CODE>720 00</POSTAL_CODE>
+                     <COUNTRY VALUE="CZ"/>
+                     <n2016:NUTS CODE="CZ"/>
+                  </ADDRESS_CONTRACTOR>
+                  <SME/>
+               </CONTRACTOR>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>AutoCont CZ a.s.</OFFICIALNAME>
+                     <ADDRESS>Hornopolni 3322/34</ADDRESS>
+                     <TOWN>Ostrava</TOWN>
+                     <POSTAL_CODE>702 00</POSTAL_CODE>
+                     <COUNTRY VALUE="CZ"/>
+                     <n2016:NUTS CODE="CZ"/>
+                  </ADDRESS_CONTRACTOR>
+                  <SME/>
+               </CONTRACTOR>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>Bechtle direct Polska sp z oo</OFFICIALNAME>
+                     <ADDRESS>Krakowska 119</ADDRESS>
+                     <TOWN>Wroclaw</TOWN>
+                     <POSTAL_CODE>50-428</POSTAL_CODE>
+                     <COUNTRY VALUE="PL"/>
+                     <n2016:NUTS CODE="PL"/>
+                  </ADDRESS_CONTRACTOR>
+                  <SME/>
+               </CONTRACTOR>
+               <VAL_ESTIMATED_TOTAL CURRENCY="EUR">2000000.00</VAL_ESTIMATED_TOTAL>
+               <VAL_TOTAL CURRENCY="EUR">2000000.00</VAL_TOTAL>
+            </AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <COMPLEMENTARY_INFO>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Gericht</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <E_MAIL>cfi.registry@curia.europa.eu</E_MAIL>
+               <FAX>+352 4303-2100</FAX>
+               <URL>http://curia.europa.eu/</URL>
+            </ADDRESS_REVIEW_BODY>
+            <DATE_DISPATCH_NOTICE>2017-12-08</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F03_2014>
+      <F03_2014 CATEGORY="ORIGINAL" FORM="F03" LG="EN">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Frontex</OFFICIALNAME>
+               <ADDRESS>Plac Europejski 6</ADDRESS>
+               <TOWN>Warsaw</TOWN>
+               <POSTAL_CODE>00-844</POSTAL_CODE>
+               <COUNTRY VALUE="PL"/>
+               <PHONE>+48 222059500</PHONE>
+               <E_MAIL>procurement@frontex.europa.eu</E_MAIL>
+               <FAX>+48 222059501</FAX>
+               <n2016:NUTS CODE="PL"/>
+               <URL_GENERAL>http://www.frontex.europa.eu</URL_GENERAL>
+            </ADDRESS_CONTRACTING_BODY>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Framework contract with reopening of competition for deliveries of ICT equipment, spare parts and accessories</P>
+            </TITLE>
+            <REFERENCE_NUMBER>Frontex/OP/238/2017/KM</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="30230000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SUPPLIES"/>
+            <SHORT_DESCR>
+               <P>Framework contract with reopening of competition for deliveries of ICT equipment, spare parts and accessories.</P>
+            </SHORT_DESCR>
+            <VAL_TOTAL CURRENCY="EUR">2000000.00</VAL_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <n2016:NUTS CODE="PL"/>
+               <SHORT_DESCR>
+                  <P>Framework contract with reopening of competition for deliveries of ICT equipment, spare parts and accessories.</P>
+               </SHORT_DESCR>
+               <AC_QUALITY>
+                  <AC_CRITERION>As indicated in the Tender Specifications</AC_CRITERION>
+                  <AC_WEIGHTING>30</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_PRICE>
+                  <AC_WEIGHTING>70</AC_WEIGHTING>
+               </AC_PRICE>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <FRAMEWORK/>
+            <NO_CONTRACT_COVERED_GPA/>
+            <NOTICE_NUMBER_OJ>2017/S 126-255692</NOTICE_NUMBER_OJ>
+         </PROCEDURE>
+         <AWARD_CONTRACT ITEM="1">
+            <CONTRACT_NO>FRONTEX/OP/238/2017/KM</CONTRACT_NO>
+            <TITLE>
+               <P>Framework contract with reopening of competition for deliveries of ICT equipment, spare parts and accessories</P>
+            </TITLE>
+            <AWARDED_CONTRACT>
+               <DATE_CONCLUSION_CONTRACT>2017-11-22</DATE_CONCLUSION_CONTRACT>
+               <NB_TENDERS_RECEIVED>4</NB_TENDERS_RECEIVED>
+               <AWARDED_TO_GROUP/>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>Uni Business Centre BV</OFFICIALNAME>
+                     <ADDRESS>Zekeringstraat 9a</ADDRESS>
+                     <TOWN>Amsterdam</TOWN>
+                     <POSTAL_CODE>1014BM</POSTAL_CODE>
+                     <COUNTRY VALUE="NL"/>
+                     <n2016:NUTS CODE="NL"/>
+                  </ADDRESS_CONTRACTOR>
+                  <SME/>
+               </CONTRACTOR>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>Nextis services s.r.o.</OFFICIALNAME>
+                     <ADDRESS>Krmelinska 934/4</ADDRESS>
+                     <TOWN>Ostrava</TOWN>
+                     <POSTAL_CODE>720 00</POSTAL_CODE>
+                     <COUNTRY VALUE="CZ"/>
+                     <n2016:NUTS CODE="CZ"/>
+                  </ADDRESS_CONTRACTOR>
+                  <SME/>
+               </CONTRACTOR>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>AutoCont CZ a.s.</OFFICIALNAME>
+                     <ADDRESS>Hornopolni 3322/34</ADDRESS>
+                     <TOWN>Ostrava</TOWN>
+                     <POSTAL_CODE>702 00</POSTAL_CODE>
+                     <COUNTRY VALUE="CZ"/>
+                     <n2016:NUTS CODE="CZ"/>
+                  </ADDRESS_CONTRACTOR>
+                  <SME/>
+               </CONTRACTOR>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>Bechtle direct Polska sp z oo</OFFICIALNAME>
+                     <ADDRESS>Krakowska 119</ADDRESS>
+                     <TOWN>Wroclaw</TOWN>
+                     <POSTAL_CODE>50-428</POSTAL_CODE>
+                     <COUNTRY VALUE="PL"/>
+                     <n2016:NUTS CODE="PL"/>
+                  </ADDRESS_CONTRACTOR>
+                  <SME/>
+               </CONTRACTOR>
+               <VAL_ESTIMATED_TOTAL CURRENCY="EUR">2000000.00</VAL_ESTIMATED_TOTAL>
+               <VAL_TOTAL CURRENCY="EUR">2000000.00</VAL_TOTAL>
+            </AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <COMPLEMENTARY_INFO>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>General Court</OFFICIALNAME>
+               <ADDRESS>rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <E_MAIL>cfi.registry@curia.europa.eu</E_MAIL>
+               <FAX>+352 4303-2100</FAX>
+               <URL>http://curia.europa.eu/</URL>
+            </ADDRESS_REVIEW_BODY>
+            <DATE_DISPATCH_NOTICE>2017-12-08</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F03_2014>
+      <F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="ES">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Frontex</OFFICIALNAME>
+               <ADDRESS>Plac Europejski 6</ADDRESS>
+               <TOWN>Warsaw</TOWN>
+               <POSTAL_CODE>00-844</POSTAL_CODE>
+               <COUNTRY VALUE="PL"/>
+               <PHONE>+48 222059500</PHONE>
+               <E_MAIL>procurement@frontex.europa.eu</E_MAIL>
+               <FAX>+48 222059501</FAX>
+               <n2016:NUTS CODE="PL"/>
+               <URL_GENERAL>http://www.frontex.europa.eu</URL_GENERAL>
+            </ADDRESS_CONTRACTING_BODY>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Contrato marco con reapertura de concurso relativo a la entrega de equipos informáticos, piezas de repuesto y accesorios</P>
+            </TITLE>
+            <REFERENCE_NUMBER>Frontex/OP/238/2017/KM</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="30230000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SUPPLIES"/>
+            <SHORT_DESCR>
+               <P>Contrato marco con reapertura de concurso relativo a la entrega de equipos informáticos, piezas de repuesto y accesorios.</P>
+            </SHORT_DESCR>
+            <VAL_TOTAL CURRENCY="EUR">2000000.00</VAL_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <n2016:NUTS CODE="PL"/>
+               <SHORT_DESCR>
+                  <P>Contrato marco con reapertura de concurso relativo a la entrega de equipos informáticos, piezas de repuesto y accesorios.</P>
+               </SHORT_DESCR>
+               <AC_QUALITY>
+                  <AC_CRITERION>véase el pliego de condiciones</AC_CRITERION>
+                  <AC_WEIGHTING>30</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_PRICE>
+                  <AC_WEIGHTING>70</AC_WEIGHTING>
+               </AC_PRICE>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <FRAMEWORK/>
+            <NO_CONTRACT_COVERED_GPA/>
+            <NOTICE_NUMBER_OJ>2017/S 126-255692</NOTICE_NUMBER_OJ>
+         </PROCEDURE>
+         <AWARD_CONTRACT ITEM="1">
+            <CONTRACT_NO>FRONTEX/OP/238/2017/KM</CONTRACT_NO>
+            <TITLE>
+               <P>Contrato marco con reapertura de concurso relativo a la entrega de equipos informáticos, piezas de repuesto y accesorios</P>
+            </TITLE>
+            <AWARDED_CONTRACT>
+               <DATE_CONCLUSION_CONTRACT>2017-11-22</DATE_CONCLUSION_CONTRACT>
+               <NB_TENDERS_RECEIVED>4</NB_TENDERS_RECEIVED>
+               <AWARDED_TO_GROUP/>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>Uni Business Centre BV</OFFICIALNAME>
+                     <ADDRESS>Zekeringstraat 9a</ADDRESS>
+                     <TOWN>Amsterdam</TOWN>
+                     <POSTAL_CODE>1014BM</POSTAL_CODE>
+                     <COUNTRY VALUE="NL"/>
+                     <n2016:NUTS CODE="NL"/>
+                  </ADDRESS_CONTRACTOR>
+                  <SME/>
+               </CONTRACTOR>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>Nextis services s.r.o.</OFFICIALNAME>
+                     <ADDRESS>Krmelinska 934/4</ADDRESS>
+                     <TOWN>Ostrava</TOWN>
+                     <POSTAL_CODE>720 00</POSTAL_CODE>
+                     <COUNTRY VALUE="CZ"/>
+                     <n2016:NUTS CODE="CZ"/>
+                  </ADDRESS_CONTRACTOR>
+                  <SME/>
+               </CONTRACTOR>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>AutoCont CZ a.s.</OFFICIALNAME>
+                     <ADDRESS>Hornopolni 3322/34</ADDRESS>
+                     <TOWN>Ostrava</TOWN>
+                     <POSTAL_CODE>702 00</POSTAL_CODE>
+                     <COUNTRY VALUE="CZ"/>
+                     <n2016:NUTS CODE="CZ"/>
+                  </ADDRESS_CONTRACTOR>
+                  <SME/>
+               </CONTRACTOR>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>Bechtle direct Polska sp z oo</OFFICIALNAME>
+                     <ADDRESS>Krakowska 119</ADDRESS>
+                     <TOWN>Wroclaw</TOWN>
+                     <POSTAL_CODE>50-428</POSTAL_CODE>
+                     <COUNTRY VALUE="PL"/>
+                     <n2016:NUTS CODE="PL"/>
+                  </ADDRESS_CONTRACTOR>
+                  <SME/>
+               </CONTRACTOR>
+               <VAL_ESTIMATED_TOTAL CURRENCY="EUR">2000000.00</VAL_ESTIMATED_TOTAL>
+               <VAL_TOTAL CURRENCY="EUR">2000000.00</VAL_TOTAL>
+            </AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <COMPLEMENTARY_INFO>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Tribunal General</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <E_MAIL>cfi.registry@curia.europa.eu</E_MAIL>
+               <FAX>+352 4303-2100</FAX>
+               <URL>http://curia.europa.eu/</URL>
+            </ADDRESS_REVIEW_BODY>
+            <DATE_DISPATCH_NOTICE>2017-12-08</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F03_2014>
+      <F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="FI">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Frontex</OFFICIALNAME>
+               <ADDRESS>Plac Europejski 6</ADDRESS>
+               <TOWN>Warsaw</TOWN>
+               <POSTAL_CODE>00-844</POSTAL_CODE>
+               <COUNTRY VALUE="PL"/>
+               <PHONE>+48 222059500</PHONE>
+               <E_MAIL>procurement@frontex.europa.eu</E_MAIL>
+               <FAX>+48 222059501</FAX>
+               <n2016:NUTS CODE="PL"/>
+               <URL_GENERAL>http://www.frontex.europa.eu</URL_GENERAL>
+            </ADDRESS_CONTRACTING_BODY>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Kyseessä on kilpailun uudelleenkäynnistämisen avulla tehtävä puitesopimus tieto- ja viestintäteknisten laitteiden, varaosien ja oheistarvikkeiden toimituksista</P>
+            </TITLE>
+            <REFERENCE_NUMBER>Frontex/OP/238/2017/KM</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="30230000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SUPPLIES"/>
+            <SHORT_DESCR>
+               <P>Kyseessä on kilpailun uudelleenkäynnistämisen avulla tehtävä puitesopimus tieto- ja viestintäteknisten laitteiden, varaosien ja oheistarvikkeiden toimituksista.</P>
+            </SHORT_DESCR>
+            <VAL_TOTAL CURRENCY="EUR">2000000.00</VAL_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <n2016:NUTS CODE="PL"/>
+               <SHORT_DESCR>
+                  <P>Kyseessä on kilpailun uudelleenkäynnistämisen avulla tehtävä puitesopimus tieto- ja viestintäteknisten laitteiden, varaosien ja oheistarvikkeiden toimituksista.</P>
+               </SHORT_DESCR>
+               <AC_QUALITY>
+                  <AC_CRITERION>ilmoitetaan tarjouseritelmissä</AC_CRITERION>
+                  <AC_WEIGHTING>30</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_PRICE>
+                  <AC_WEIGHTING>70</AC_WEIGHTING>
+               </AC_PRICE>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <FRAMEWORK/>
+            <NO_CONTRACT_COVERED_GPA/>
+            <NOTICE_NUMBER_OJ>2017/S 126-255692</NOTICE_NUMBER_OJ>
+         </PROCEDURE>
+         <AWARD_CONTRACT ITEM="1">
+            <CONTRACT_NO>FRONTEX/OP/238/2017/KM</CONTRACT_NO>
+            <TITLE>
+               <P>Kyseessä on kilpailun uudelleenkäynnistämisen avulla tehtävä puitesopimus tieto- ja viestintäteknisten laitteiden, varaosien ja oheistarvikkeiden toimituksista</P>
+            </TITLE>
+            <AWARDED_CONTRACT>
+               <DATE_CONCLUSION_CONTRACT>2017-11-22</DATE_CONCLUSION_CONTRACT>
+               <NB_TENDERS_RECEIVED>4</NB_TENDERS_RECEIVED>
+               <AWARDED_TO_GROUP/>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>Uni Business Centre BV</OFFICIALNAME>
+                     <ADDRESS>Zekeringstraat 9a</ADDRESS>
+                     <TOWN>Amsterdam</TOWN>
+                     <POSTAL_CODE>1014BM</POSTAL_CODE>
+                     <COUNTRY VALUE="NL"/>
+                     <n2016:NUTS CODE="NL"/>
+                  </ADDRESS_CONTRACTOR>
+                  <SME/>
+               </CONTRACTOR>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>Nextis services s.r.o.</OFFICIALNAME>
+                     <ADDRESS>Krmelinska 934/4</ADDRESS>
+                     <TOWN>Ostrava</TOWN>
+                     <POSTAL_CODE>720 00</POSTAL_CODE>
+                     <COUNTRY VALUE="CZ"/>
+                     <n2016:NUTS CODE="CZ"/>
+                  </ADDRESS_CONTRACTOR>
+                  <SME/>
+               </CONTRACTOR>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>AutoCont CZ a.s.</OFFICIALNAME>
+                     <ADDRESS>Hornopolni 3322/34</ADDRESS>
+                     <TOWN>Ostrava</TOWN>
+                     <POSTAL_CODE>702 00</POSTAL_CODE>
+                     <COUNTRY VALUE="CZ"/>
+                     <n2016:NUTS CODE="CZ"/>
+                  </ADDRESS_CONTRACTOR>
+                  <SME/>
+               </CONTRACTOR>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>Bechtle direct Polska sp z oo</OFFICIALNAME>
+                     <ADDRESS>Krakowska 119</ADDRESS>
+                     <TOWN>Wroclaw</TOWN>
+                     <POSTAL_CODE>50-428</POSTAL_CODE>
+                     <COUNTRY VALUE="PL"/>
+                     <n2016:NUTS CODE="PL"/>
+                  </ADDRESS_CONTRACTOR>
+                  <SME/>
+               </CONTRACTOR>
+               <VAL_ESTIMATED_TOTAL CURRENCY="EUR">2000000.00</VAL_ESTIMATED_TOTAL>
+               <VAL_TOTAL CURRENCY="EUR">2000000.00</VAL_TOTAL>
+            </AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <COMPLEMENTARY_INFO>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Unionin yleinen tuomioistuin</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <E_MAIL>cfi.registry@curia.europa.eu</E_MAIL>
+               <FAX>+352 4303-2100</FAX>
+               <URL>http://curia.europa.eu/</URL>
+            </ADDRESS_REVIEW_BODY>
+            <DATE_DISPATCH_NOTICE>2017-12-08</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F03_2014>
+      <F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="FR">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Frontex</OFFICIALNAME>
+               <ADDRESS>Plac Europejski 6</ADDRESS>
+               <TOWN>Warsaw</TOWN>
+               <POSTAL_CODE>00-844</POSTAL_CODE>
+               <COUNTRY VALUE="PL"/>
+               <PHONE>+48 222059500</PHONE>
+               <E_MAIL>procurement@frontex.europa.eu</E_MAIL>
+               <FAX>+48 222059501</FAX>
+               <n2016:NUTS CODE="PL"/>
+               <URL_GENERAL>http://www.frontex.europa.eu</URL_GENERAL>
+            </ADDRESS_CONTRACTING_BODY>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Contrat-cadre avec remise en concurrence relatif à la livraison d'équipement TIC, de pièces détachées et d'accessoires</P>
+            </TITLE>
+            <REFERENCE_NUMBER>Frontex/OP/238/2017/KM</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="30230000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SUPPLIES"/>
+            <SHORT_DESCR>
+               <P>Contrat-cadre avec remise en concurrence relatif à la livraison d'équipement TIC, de pièces détachées et d'accessoires.</P>
+            </SHORT_DESCR>
+            <VAL_TOTAL CURRENCY="EUR">2000000.00</VAL_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <n2016:NUTS CODE="PL"/>
+               <SHORT_DESCR>
+                  <P>Contrat-cadre avec remise en concurrence relatif à la livraison d'équipement TIC, de pièces détachées et d'accessoires.</P>
+               </SHORT_DESCR>
+               <AC_QUALITY>
+                  <AC_CRITERION>Voir cahier des charges</AC_CRITERION>
+                  <AC_WEIGHTING>30</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_PRICE>
+                  <AC_WEIGHTING>70</AC_WEIGHTING>
+               </AC_PRICE>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <FRAMEWORK/>
+            <NO_CONTRACT_COVERED_GPA/>
+            <NOTICE_NUMBER_OJ>2017/S 126-255692</NOTICE_NUMBER_OJ>
+         </PROCEDURE>
+         <AWARD_CONTRACT ITEM="1">
+            <CONTRACT_NO>FRONTEX/OP/238/2017/KM</CONTRACT_NO>
+            <TITLE>
+               <P>Contrat-cadre avec remise en concurrence relatif à la livraison d'équipement TIC, de pièces détachées et d'accessoires</P>
+            </TITLE>
+            <AWARDED_CONTRACT>
+               <DATE_CONCLUSION_CONTRACT>2017-11-22</DATE_CONCLUSION_CONTRACT>
+               <NB_TENDERS_RECEIVED>4</NB_TENDERS_RECEIVED>
+               <AWARDED_TO_GROUP/>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>Uni Business Centre BV</OFFICIALNAME>
+                     <ADDRESS>Zekeringstraat 9a</ADDRESS>
+                     <TOWN>Amsterdam</TOWN>
+                     <POSTAL_CODE>1014BM</POSTAL_CODE>
+                     <COUNTRY VALUE="NL"/>
+                     <n2016:NUTS CODE="NL"/>
+                  </ADDRESS_CONTRACTOR>
+                  <SME/>
+               </CONTRACTOR>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>Nextis services s.r.o.</OFFICIALNAME>
+                     <ADDRESS>Krmelinska 934/4</ADDRESS>
+                     <TOWN>Ostrava</TOWN>
+                     <POSTAL_CODE>720 00</POSTAL_CODE>
+                     <COUNTRY VALUE="CZ"/>
+                     <n2016:NUTS CODE="CZ"/>
+                  </ADDRESS_CONTRACTOR>
+                  <SME/>
+               </CONTRACTOR>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>AutoCont CZ a.s.</OFFICIALNAME>
+                     <ADDRESS>Hornopolni 3322/34</ADDRESS>
+                     <TOWN>Ostrava</TOWN>
+                     <POSTAL_CODE>702 00</POSTAL_CODE>
+                     <COUNTRY VALUE="CZ"/>
+                     <n2016:NUTS CODE="CZ"/>
+                  </ADDRESS_CONTRACTOR>
+                  <SME/>
+               </CONTRACTOR>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>Bechtle direct Polska sp z oo</OFFICIALNAME>
+                     <ADDRESS>Krakowska 119</ADDRESS>
+                     <TOWN>Wroclaw</TOWN>
+                     <POSTAL_CODE>50-428</POSTAL_CODE>
+                     <COUNTRY VALUE="PL"/>
+                     <n2016:NUTS CODE="PL"/>
+                  </ADDRESS_CONTRACTOR>
+                  <SME/>
+               </CONTRACTOR>
+               <VAL_ESTIMATED_TOTAL CURRENCY="EUR">2000000.00</VAL_ESTIMATED_TOTAL>
+               <VAL_TOTAL CURRENCY="EUR">2000000.00</VAL_TOTAL>
+            </AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <COMPLEMENTARY_INFO>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Tribunal</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <E_MAIL>cfi.registry@curia.europa.eu</E_MAIL>
+               <FAX>+352 4303-2100</FAX>
+               <URL>http://curia.europa.eu/</URL>
+            </ADDRESS_REVIEW_BODY>
+            <DATE_DISPATCH_NOTICE>2017-12-08</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F03_2014>
+      <F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="EL">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Frontex</OFFICIALNAME>
+               <ADDRESS>Plac Europejski 6</ADDRESS>
+               <TOWN>Warsaw</TOWN>
+               <POSTAL_CODE>00-844</POSTAL_CODE>
+               <COUNTRY VALUE="PL"/>
+               <PHONE>+48 222059500</PHONE>
+               <E_MAIL>procurement@frontex.europa.eu</E_MAIL>
+               <FAX>+48 222059501</FAX>
+               <n2016:NUTS CODE="PL"/>
+               <URL_GENERAL>http://www.frontex.europa.eu</URL_GENERAL>
+            </ADDRESS_CONTRACTING_BODY>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Σύμβαση-πλαίσιο με επανέναρξη του διαγωνισμού για τις παραδόσεις εξοπλισμού ΤΠΕ, ανταλλακτικών και εξαρτημάτων</P>
+            </TITLE>
+            <REFERENCE_NUMBER>Frontex/OP/238/2017/KM</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="30230000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SUPPLIES"/>
+            <SHORT_DESCR>
+               <P>Σύμβαση-πλαίσιο με επανέναρξη του διαγωνισμού για τις παραδόσεις εξοπλισμού ΤΠΕ, ανταλλακτικών και εξαρτημάτων.</P>
+            </SHORT_DESCR>
+            <VAL_TOTAL CURRENCY="EUR">2000000.00</VAL_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <n2016:NUTS CODE="PL"/>
+               <SHORT_DESCR>
+                  <P>Σύμβαση-πλαίσιο με επανέναρξη του διαγωνισμού για τις παραδόσεις εξοπλισμού ΤΠΕ, ανταλλακτικών και εξαρτημάτων.</P>
+               </SHORT_DESCR>
+               <AC_QUALITY>
+                  <AC_CRITERION>Όπως ορίζονται στη συγγραφή υποχρεώσεων</AC_CRITERION>
+                  <AC_WEIGHTING>30</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_PRICE>
+                  <AC_WEIGHTING>70</AC_WEIGHTING>
+               </AC_PRICE>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <FRAMEWORK/>
+            <NO_CONTRACT_COVERED_GPA/>
+            <NOTICE_NUMBER_OJ>2017/S 126-255692</NOTICE_NUMBER_OJ>
+         </PROCEDURE>
+         <AWARD_CONTRACT ITEM="1">
+            <CONTRACT_NO>FRONTEX/OP/238/2017/KM</CONTRACT_NO>
+            <TITLE>
+               <P>Σύμβαση-πλαίσιο με επανέναρξη του διαγωνισμού για τις παραδόσεις εξοπλισμού ΤΠΕ, ανταλλακτικών και εξαρτημάτων</P>
+            </TITLE>
+            <AWARDED_CONTRACT>
+               <DATE_CONCLUSION_CONTRACT>2017-11-22</DATE_CONCLUSION_CONTRACT>
+               <NB_TENDERS_RECEIVED>4</NB_TENDERS_RECEIVED>
+               <AWARDED_TO_GROUP/>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>Uni Business Centre BV</OFFICIALNAME>
+                     <ADDRESS>Zekeringstraat 9a</ADDRESS>
+                     <TOWN>Amsterdam</TOWN>
+                     <POSTAL_CODE>1014BM</POSTAL_CODE>
+                     <COUNTRY VALUE="NL"/>
+                     <n2016:NUTS CODE="NL"/>
+                  </ADDRESS_CONTRACTOR>
+                  <SME/>
+               </CONTRACTOR>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>Nextis services s.r.o.</OFFICIALNAME>
+                     <ADDRESS>Krmelinska 934/4</ADDRESS>
+                     <TOWN>Ostrava</TOWN>
+                     <POSTAL_CODE>720 00</POSTAL_CODE>
+                     <COUNTRY VALUE="CZ"/>
+                     <n2016:NUTS CODE="CZ"/>
+                  </ADDRESS_CONTRACTOR>
+                  <SME/>
+               </CONTRACTOR>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>AutoCont CZ a.s.</OFFICIALNAME>
+                     <ADDRESS>Hornopolni 3322/34</ADDRESS>
+                     <TOWN>Ostrava</TOWN>
+                     <POSTAL_CODE>702 00</POSTAL_CODE>
+                     <COUNTRY VALUE="CZ"/>
+                     <n2016:NUTS CODE="CZ"/>
+                  </ADDRESS_CONTRACTOR>
+                  <SME/>
+               </CONTRACTOR>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>Bechtle direct Polska sp z oo</OFFICIALNAME>
+                     <ADDRESS>Krakowska 119</ADDRESS>
+                     <TOWN>Wroclaw</TOWN>
+                     <POSTAL_CODE>50-428</POSTAL_CODE>
+                     <COUNTRY VALUE="PL"/>
+                     <n2016:NUTS CODE="PL"/>
+                  </ADDRESS_CONTRACTOR>
+                  <SME/>
+               </CONTRACTOR>
+               <VAL_ESTIMATED_TOTAL CURRENCY="EUR">2000000.00</VAL_ESTIMATED_TOTAL>
+               <VAL_TOTAL CURRENCY="EUR">2000000.00</VAL_TOTAL>
+            </AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <COMPLEMENTARY_INFO>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Γενικό Δικαστήριο</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <E_MAIL>cfi.registry@curia.europa.eu</E_MAIL>
+               <FAX>+352 4303-2100</FAX>
+               <URL>http://curia.europa.eu/</URL>
+            </ADDRESS_REVIEW_BODY>
+            <DATE_DISPATCH_NOTICE>2017-12-08</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F03_2014>
+      <F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="IT">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Frontex</OFFICIALNAME>
+               <ADDRESS>Plac Europejski 6</ADDRESS>
+               <TOWN>Warsaw</TOWN>
+               <POSTAL_CODE>00-844</POSTAL_CODE>
+               <COUNTRY VALUE="PL"/>
+               <PHONE>+48 222059500</PHONE>
+               <E_MAIL>procurement@frontex.europa.eu</E_MAIL>
+               <FAX>+48 222059501</FAX>
+               <n2016:NUTS CODE="PL"/>
+               <URL_GENERAL>http://www.frontex.europa.eu</URL_GENERAL>
+            </ADDRESS_CONTRACTING_BODY>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Contratto quadro con riapertura della gara per la fornitura di attrezzature TIC, pezzi di ricambio e accessori</P>
+            </TITLE>
+            <REFERENCE_NUMBER>Frontex/OP/238/2017/KM</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="30230000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SUPPLIES"/>
+            <SHORT_DESCR>
+               <P>Contratto quadro con riapertura della gara per la fornitura di attrezzature TIC, pezzi di ricambio e accessori.</P>
+            </SHORT_DESCR>
+            <VAL_TOTAL CURRENCY="EUR">2000000.00</VAL_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <n2016:NUTS CODE="PL"/>
+               <SHORT_DESCR>
+                  <P>Contratto quadro con riapertura della gara per la fornitura di attrezzature TIC, pezzi di ricambio e accessori.</P>
+               </SHORT_DESCR>
+               <AC_QUALITY>
+                  <AC_CRITERION>Come specificato nel capitolato d'oneri</AC_CRITERION>
+                  <AC_WEIGHTING>30</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_PRICE>
+                  <AC_WEIGHTING>70</AC_WEIGHTING>
+               </AC_PRICE>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <FRAMEWORK/>
+            <NO_CONTRACT_COVERED_GPA/>
+            <NOTICE_NUMBER_OJ>2017/S 126-255692</NOTICE_NUMBER_OJ>
+         </PROCEDURE>
+         <AWARD_CONTRACT ITEM="1">
+            <CONTRACT_NO>FRONTEX/OP/238/2017/KM</CONTRACT_NO>
+            <TITLE>
+               <P>Contratto quadro con riapertura della gara per la fornitura di attrezzature TIC, pezzi di ricambio e accessori</P>
+            </TITLE>
+            <AWARDED_CONTRACT>
+               <DATE_CONCLUSION_CONTRACT>2017-11-22</DATE_CONCLUSION_CONTRACT>
+               <NB_TENDERS_RECEIVED>4</NB_TENDERS_RECEIVED>
+               <AWARDED_TO_GROUP/>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>Uni Business Centre BV</OFFICIALNAME>
+                     <ADDRESS>Zekeringstraat 9a</ADDRESS>
+                     <TOWN>Amsterdam</TOWN>
+                     <POSTAL_CODE>1014BM</POSTAL_CODE>
+                     <COUNTRY VALUE="NL"/>
+                     <n2016:NUTS CODE="NL"/>
+                  </ADDRESS_CONTRACTOR>
+                  <SME/>
+               </CONTRACTOR>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>Nextis services s.r.o.</OFFICIALNAME>
+                     <ADDRESS>Krmelinska 934/4</ADDRESS>
+                     <TOWN>Ostrava</TOWN>
+                     <POSTAL_CODE>720 00</POSTAL_CODE>
+                     <COUNTRY VALUE="CZ"/>
+                     <n2016:NUTS CODE="CZ"/>
+                  </ADDRESS_CONTRACTOR>
+                  <SME/>
+               </CONTRACTOR>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>AutoCont CZ a.s.</OFFICIALNAME>
+                     <ADDRESS>Hornopolni 3322/34</ADDRESS>
+                     <TOWN>Ostrava</TOWN>
+                     <POSTAL_CODE>702 00</POSTAL_CODE>
+                     <COUNTRY VALUE="CZ"/>
+                     <n2016:NUTS CODE="CZ"/>
+                  </ADDRESS_CONTRACTOR>
+                  <SME/>
+               </CONTRACTOR>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>Bechtle direct Polska sp z oo</OFFICIALNAME>
+                     <ADDRESS>Krakowska 119</ADDRESS>
+                     <TOWN>Wroclaw</TOWN>
+                     <POSTAL_CODE>50-428</POSTAL_CODE>
+                     <COUNTRY VALUE="PL"/>
+                     <n2016:NUTS CODE="PL"/>
+                  </ADDRESS_CONTRACTOR>
+                  <SME/>
+               </CONTRACTOR>
+               <VAL_ESTIMATED_TOTAL CURRENCY="EUR">2000000.00</VAL_ESTIMATED_TOTAL>
+               <VAL_TOTAL CURRENCY="EUR">2000000.00</VAL_TOTAL>
+            </AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <COMPLEMENTARY_INFO>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Tribunale</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <E_MAIL>cfi.registry@curia.europa.eu</E_MAIL>
+               <FAX>+352 4303-2100</FAX>
+               <URL>http://curia.europa.eu/</URL>
+            </ADDRESS_REVIEW_BODY>
+            <DATE_DISPATCH_NOTICE>2017-12-08</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F03_2014>
+      <F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="NL">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Frontex</OFFICIALNAME>
+               <ADDRESS>Plac Europejski 6</ADDRESS>
+               <TOWN>Warsaw</TOWN>
+               <POSTAL_CODE>00-844</POSTAL_CODE>
+               <COUNTRY VALUE="PL"/>
+               <PHONE>+48 222059500</PHONE>
+               <E_MAIL>procurement@frontex.europa.eu</E_MAIL>
+               <FAX>+48 222059501</FAX>
+               <n2016:NUTS CODE="PL"/>
+               <URL_GENERAL>http://www.frontex.europa.eu</URL_GENERAL>
+            </ADDRESS_CONTRACTING_BODY>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Raamovereenkomst met heropening van mededinging voor de levering van ICT-uitrusting, reserveonderdelen en toebehoren</P>
+            </TITLE>
+            <REFERENCE_NUMBER>Frontex/OP/238/2017/KM</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="30230000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SUPPLIES"/>
+            <SHORT_DESCR>
+               <P>Raamovereenkomst met heropening van mededinging voor de levering van ICT-uitrusting, reserveonderdelen en toebehoren.</P>
+            </SHORT_DESCR>
+            <VAL_TOTAL CURRENCY="EUR">2000000.00</VAL_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <n2016:NUTS CODE="PL"/>
+               <SHORT_DESCR>
+                  <P>Raamovereenkomst met heropening van mededinging voor de levering van ICT-uitrusting, reserveonderdelen en toebehoren.</P>
+               </SHORT_DESCR>
+               <AC_QUALITY>
+                  <AC_CRITERION>zoals aangegeven in de aanbestedingsstukken</AC_CRITERION>
+                  <AC_WEIGHTING>30</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_PRICE>
+                  <AC_WEIGHTING>70</AC_WEIGHTING>
+               </AC_PRICE>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <FRAMEWORK/>
+            <NO_CONTRACT_COVERED_GPA/>
+            <NOTICE_NUMBER_OJ>2017/S 126-255692</NOTICE_NUMBER_OJ>
+         </PROCEDURE>
+         <AWARD_CONTRACT ITEM="1">
+            <CONTRACT_NO>FRONTEX/OP/238/2017/KM</CONTRACT_NO>
+            <TITLE>
+               <P>Raamovereenkomst met heropening van mededinging voor de levering van ICT-uitrusting, reserveonderdelen en toebehoren</P>
+            </TITLE>
+            <AWARDED_CONTRACT>
+               <DATE_CONCLUSION_CONTRACT>2017-11-22</DATE_CONCLUSION_CONTRACT>
+               <NB_TENDERS_RECEIVED>4</NB_TENDERS_RECEIVED>
+               <AWARDED_TO_GROUP/>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>Uni Business Centre BV</OFFICIALNAME>
+                     <ADDRESS>Zekeringstraat 9a</ADDRESS>
+                     <TOWN>Amsterdam</TOWN>
+                     <POSTAL_CODE>1014BM</POSTAL_CODE>
+                     <COUNTRY VALUE="NL"/>
+                     <n2016:NUTS CODE="NL"/>
+                  </ADDRESS_CONTRACTOR>
+                  <SME/>
+               </CONTRACTOR>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>Nextis services s.r.o.</OFFICIALNAME>
+                     <ADDRESS>Krmelinska 934/4</ADDRESS>
+                     <TOWN>Ostrava</TOWN>
+                     <POSTAL_CODE>720 00</POSTAL_CODE>
+                     <COUNTRY VALUE="CZ"/>
+                     <n2016:NUTS CODE="CZ"/>
+                  </ADDRESS_CONTRACTOR>
+                  <SME/>
+               </CONTRACTOR>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>AutoCont CZ a.s.</OFFICIALNAME>
+                     <ADDRESS>Hornopolni 3322/34</ADDRESS>
+                     <TOWN>Ostrava</TOWN>
+                     <POSTAL_CODE>702 00</POSTAL_CODE>
+                     <COUNTRY VALUE="CZ"/>
+                     <n2016:NUTS CODE="CZ"/>
+                  </ADDRESS_CONTRACTOR>
+                  <SME/>
+               </CONTRACTOR>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>Bechtle direct Polska sp z oo</OFFICIALNAME>
+                     <ADDRESS>Krakowska 119</ADDRESS>
+                     <TOWN>Wroclaw</TOWN>
+                     <POSTAL_CODE>50-428</POSTAL_CODE>
+                     <COUNTRY VALUE="PL"/>
+                     <n2016:NUTS CODE="PL"/>
+                  </ADDRESS_CONTRACTOR>
+                  <SME/>
+               </CONTRACTOR>
+               <VAL_ESTIMATED_TOTAL CURRENCY="EUR">2000000.00</VAL_ESTIMATED_TOTAL>
+               <VAL_TOTAL CURRENCY="EUR">2000000.00</VAL_TOTAL>
+            </AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <COMPLEMENTARY_INFO>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Gerecht</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <E_MAIL>cfi.registry@curia.europa.eu</E_MAIL>
+               <FAX>+352 4303-2100</FAX>
+               <URL>http://curia.europa.eu/</URL>
+            </ADDRESS_REVIEW_BODY>
+            <DATE_DISPATCH_NOTICE>2017-12-08</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F03_2014>
+      <F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="PT">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Frontex</OFFICIALNAME>
+               <ADDRESS>Plac Europejski 6</ADDRESS>
+               <TOWN>Warsaw</TOWN>
+               <POSTAL_CODE>00-844</POSTAL_CODE>
+               <COUNTRY VALUE="PL"/>
+               <PHONE>+48 222059500</PHONE>
+               <E_MAIL>procurement@frontex.europa.eu</E_MAIL>
+               <FAX>+48 222059501</FAX>
+               <n2016:NUTS CODE="PL"/>
+               <URL_GENERAL>http://www.frontex.europa.eu</URL_GENERAL>
+            </ADDRESS_CONTRACTING_BODY>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Contrato-quadro com reabertura de concurso para fornecimentos de equipamento TIC, peças sobresselentes e acessórios</P>
+            </TITLE>
+            <REFERENCE_NUMBER>Frontex/OP/238/2017/KM</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="30230000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SUPPLIES"/>
+            <SHORT_DESCR>
+               <P>Contrato-quadro com reabertura de concurso para fornecimentos de equipamento TIC, peças sobresselentes e acessórios.</P>
+            </SHORT_DESCR>
+            <VAL_TOTAL CURRENCY="EUR">2000000.00</VAL_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <n2016:NUTS CODE="PL"/>
+               <SHORT_DESCR>
+                  <P>Contrato-quadro com reabertura de concurso para fornecimentos de equipamento TIC, peças sobresselentes e acessórios.</P>
+               </SHORT_DESCR>
+               <AC_QUALITY>
+                  <AC_CRITERION>Tal como indicado no caderno de encargos</AC_CRITERION>
+                  <AC_WEIGHTING>30</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_PRICE>
+                  <AC_WEIGHTING>70</AC_WEIGHTING>
+               </AC_PRICE>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <FRAMEWORK/>
+            <NO_CONTRACT_COVERED_GPA/>
+            <NOTICE_NUMBER_OJ>2017/S 126-255692</NOTICE_NUMBER_OJ>
+         </PROCEDURE>
+         <AWARD_CONTRACT ITEM="1">
+            <CONTRACT_NO>FRONTEX/OP/238/2017/KM</CONTRACT_NO>
+            <TITLE>
+               <P>Contrato-quadro com reabertura de concurso para fornecimentos de equipamento TIC, peças sobresselentes e acessórios</P>
+            </TITLE>
+            <AWARDED_CONTRACT>
+               <DATE_CONCLUSION_CONTRACT>2017-11-22</DATE_CONCLUSION_CONTRACT>
+               <NB_TENDERS_RECEIVED>4</NB_TENDERS_RECEIVED>
+               <AWARDED_TO_GROUP/>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>Uni Business Centre BV</OFFICIALNAME>
+                     <ADDRESS>Zekeringstraat 9a</ADDRESS>
+                     <TOWN>Amsterdam</TOWN>
+                     <POSTAL_CODE>1014BM</POSTAL_CODE>
+                     <COUNTRY VALUE="NL"/>
+                     <n2016:NUTS CODE="NL"/>
+                  </ADDRESS_CONTRACTOR>
+                  <SME/>
+               </CONTRACTOR>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>Nextis services s.r.o.</OFFICIALNAME>
+                     <ADDRESS>Krmelinska 934/4</ADDRESS>
+                     <TOWN>Ostrava</TOWN>
+                     <POSTAL_CODE>720 00</POSTAL_CODE>
+                     <COUNTRY VALUE="CZ"/>
+                     <n2016:NUTS CODE="CZ"/>
+                  </ADDRESS_CONTRACTOR>
+                  <SME/>
+               </CONTRACTOR>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>AutoCont CZ a.s.</OFFICIALNAME>
+                     <ADDRESS>Hornopolni 3322/34</ADDRESS>
+                     <TOWN>Ostrava</TOWN>
+                     <POSTAL_CODE>702 00</POSTAL_CODE>
+                     <COUNTRY VALUE="CZ"/>
+                     <n2016:NUTS CODE="CZ"/>
+                  </ADDRESS_CONTRACTOR>
+                  <SME/>
+               </CONTRACTOR>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>Bechtle direct Polska sp z oo</OFFICIALNAME>
+                     <ADDRESS>Krakowska 119</ADDRESS>
+                     <TOWN>Wroclaw</TOWN>
+                     <POSTAL_CODE>50-428</POSTAL_CODE>
+                     <COUNTRY VALUE="PL"/>
+                     <n2016:NUTS CODE="PL"/>
+                  </ADDRESS_CONTRACTOR>
+                  <SME/>
+               </CONTRACTOR>
+               <VAL_ESTIMATED_TOTAL CURRENCY="EUR">2000000.00</VAL_ESTIMATED_TOTAL>
+               <VAL_TOTAL CURRENCY="EUR">2000000.00</VAL_TOTAL>
+            </AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <COMPLEMENTARY_INFO>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Tribunal Geral</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <E_MAIL>cfi.registry@curia.europa.eu</E_MAIL>
+               <FAX>+352 4303-2100</FAX>
+               <URL>http://curia.europa.eu/</URL>
+            </ADDRESS_REVIEW_BODY>
+            <DATE_DISPATCH_NOTICE>2017-12-08</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F03_2014>
+      <F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="SV">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Frontex</OFFICIALNAME>
+               <ADDRESS>Plac Europejski 6</ADDRESS>
+               <TOWN>Warsaw</TOWN>
+               <POSTAL_CODE>00-844</POSTAL_CODE>
+               <COUNTRY VALUE="PL"/>
+               <PHONE>+48 222059500</PHONE>
+               <E_MAIL>procurement@frontex.europa.eu</E_MAIL>
+               <FAX>+48 222059501</FAX>
+               <n2016:NUTS CODE="PL"/>
+               <URL_GENERAL>http://www.frontex.europa.eu</URL_GENERAL>
+            </ADDRESS_CONTRACTING_BODY>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Ramavtal med förnyad inbjudan att lämna anbud för leverans av IKT-utrustning, reservdelar och tillbehör</P>
+            </TITLE>
+            <REFERENCE_NUMBER>Frontex/OP/238/2017/KM</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="30230000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SUPPLIES"/>
+            <SHORT_DESCR>
+               <P>Ramavtal med förnyad inbjudan att lämna anbud för leverans av IKT-utrustning, reservdelar och tillbehör.</P>
+            </SHORT_DESCR>
+            <VAL_TOTAL CURRENCY="EUR">2000000.00</VAL_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <n2016:NUTS CODE="PL"/>
+               <SHORT_DESCR>
+                  <P>Ramavtal med förnyad inbjudan att lämna anbud för leverans av IKT-utrustning, reservdelar och tillbehör.</P>
+               </SHORT_DESCR>
+               <AC_QUALITY>
+                  <AC_CRITERION>Enligt vad som anges i förfrågningsunderlaget</AC_CRITERION>
+                  <AC_WEIGHTING>30</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_PRICE>
+                  <AC_WEIGHTING>70</AC_WEIGHTING>
+               </AC_PRICE>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <FRAMEWORK/>
+            <NO_CONTRACT_COVERED_GPA/>
+            <NOTICE_NUMBER_OJ>2017/S 126-255692</NOTICE_NUMBER_OJ>
+         </PROCEDURE>
+         <AWARD_CONTRACT ITEM="1">
+            <CONTRACT_NO>FRONTEX/OP/238/2017/KM</CONTRACT_NO>
+            <TITLE>
+               <P>Ramavtal med förnyad inbjudan att lämna anbud för leverans av IKT-utrustning, reservdelar och tillbehör</P>
+            </TITLE>
+            <AWARDED_CONTRACT>
+               <DATE_CONCLUSION_CONTRACT>2017-11-22</DATE_CONCLUSION_CONTRACT>
+               <NB_TENDERS_RECEIVED>4</NB_TENDERS_RECEIVED>
+               <AWARDED_TO_GROUP/>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>Uni Business Centre BV</OFFICIALNAME>
+                     <ADDRESS>Zekeringstraat 9a</ADDRESS>
+                     <TOWN>Amsterdam</TOWN>
+                     <POSTAL_CODE>1014BM</POSTAL_CODE>
+                     <COUNTRY VALUE="NL"/>
+                     <n2016:NUTS CODE="NL"/>
+                  </ADDRESS_CONTRACTOR>
+                  <SME/>
+               </CONTRACTOR>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>Nextis services s.r.o.</OFFICIALNAME>
+                     <ADDRESS>Krmelinska 934/4</ADDRESS>
+                     <TOWN>Ostrava</TOWN>
+                     <POSTAL_CODE>720 00</POSTAL_CODE>
+                     <COUNTRY VALUE="CZ"/>
+                     <n2016:NUTS CODE="CZ"/>
+                  </ADDRESS_CONTRACTOR>
+                  <SME/>
+               </CONTRACTOR>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>AutoCont CZ a.s.</OFFICIALNAME>
+                     <ADDRESS>Hornopolni 3322/34</ADDRESS>
+                     <TOWN>Ostrava</TOWN>
+                     <POSTAL_CODE>702 00</POSTAL_CODE>
+                     <COUNTRY VALUE="CZ"/>
+                     <n2016:NUTS CODE="CZ"/>
+                  </ADDRESS_CONTRACTOR>
+                  <SME/>
+               </CONTRACTOR>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>Bechtle direct Polska sp z oo</OFFICIALNAME>
+                     <ADDRESS>Krakowska 119</ADDRESS>
+                     <TOWN>Wroclaw</TOWN>
+                     <POSTAL_CODE>50-428</POSTAL_CODE>
+                     <COUNTRY VALUE="PL"/>
+                     <n2016:NUTS CODE="PL"/>
+                  </ADDRESS_CONTRACTOR>
+                  <SME/>
+               </CONTRACTOR>
+               <VAL_ESTIMATED_TOTAL CURRENCY="EUR">2000000.00</VAL_ESTIMATED_TOTAL>
+               <VAL_TOTAL CURRENCY="EUR">2000000.00</VAL_TOTAL>
+            </AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <COMPLEMENTARY_INFO>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Tribunalen</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <E_MAIL>cfi.registry@curia.europa.eu</E_MAIL>
+               <FAX>+352 4303-2100</FAX>
+               <URL>http://curia.europa.eu/</URL>
+            </ADDRESS_REVIEW_BODY>
+            <DATE_DISPATCH_NOTICE>2017-12-08</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F03_2014>
+      <F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="CS">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Frontex</OFFICIALNAME>
+               <ADDRESS>Plac Europejski 6</ADDRESS>
+               <TOWN>Warsaw</TOWN>
+               <POSTAL_CODE>00-844</POSTAL_CODE>
+               <COUNTRY VALUE="PL"/>
+               <PHONE>+48 222059500</PHONE>
+               <E_MAIL>procurement@frontex.europa.eu</E_MAIL>
+               <FAX>+48 222059501</FAX>
+               <n2016:NUTS CODE="PL"/>
+               <URL_GENERAL>http://www.frontex.europa.eu</URL_GENERAL>
+            </ADDRESS_CONTRACTING_BODY>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Rámcová smlouva s opětným otevřením soutěže na dodávky vybavení IKT, náhradních dílů a příslušenství</P>
+            </TITLE>
+            <REFERENCE_NUMBER>Frontex/OP/238/2017/KM</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="30230000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SUPPLIES"/>
+            <SHORT_DESCR>
+               <P>Rámcová smlouva s opětným otevřením soutěže na dodávky vybavení IKT, náhradních dílů a příslušenství.</P>
+            </SHORT_DESCR>
+            <VAL_TOTAL CURRENCY="EUR">2000000.00</VAL_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <n2016:NUTS CODE="PL"/>
+               <SHORT_DESCR>
+                  <P>Rámcová smlouva s opětným otevřením soutěže na dodávky vybavení IKT, náhradních dílů a příslušenství.</P>
+               </SHORT_DESCR>
+               <AC_QUALITY>
+                  <AC_CRITERION>Jak je uvedeno ve specifikacích nabídkového řízení</AC_CRITERION>
+                  <AC_WEIGHTING>30</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_PRICE>
+                  <AC_WEIGHTING>70</AC_WEIGHTING>
+               </AC_PRICE>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <FRAMEWORK/>
+            <NO_CONTRACT_COVERED_GPA/>
+            <NOTICE_NUMBER_OJ>2017/S 126-255692</NOTICE_NUMBER_OJ>
+         </PROCEDURE>
+         <AWARD_CONTRACT ITEM="1">
+            <CONTRACT_NO>FRONTEX/OP/238/2017/KM</CONTRACT_NO>
+            <TITLE>
+               <P>Rámcová smlouva s opětným otevřením soutěže na dodávky vybavení IKT, náhradních dílů a příslušenství</P>
+            </TITLE>
+            <AWARDED_CONTRACT>
+               <DATE_CONCLUSION_CONTRACT>2017-11-22</DATE_CONCLUSION_CONTRACT>
+               <NB_TENDERS_RECEIVED>4</NB_TENDERS_RECEIVED>
+               <AWARDED_TO_GROUP/>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>Uni Business Centre BV</OFFICIALNAME>
+                     <ADDRESS>Zekeringstraat 9a</ADDRESS>
+                     <TOWN>Amsterdam</TOWN>
+                     <POSTAL_CODE>1014BM</POSTAL_CODE>
+                     <COUNTRY VALUE="NL"/>
+                     <n2016:NUTS CODE="NL"/>
+                  </ADDRESS_CONTRACTOR>
+                  <SME/>
+               </CONTRACTOR>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>Nextis services s.r.o.</OFFICIALNAME>
+                     <ADDRESS>Krmelinska 934/4</ADDRESS>
+                     <TOWN>Ostrava</TOWN>
+                     <POSTAL_CODE>720 00</POSTAL_CODE>
+                     <COUNTRY VALUE="CZ"/>
+                     <n2016:NUTS CODE="CZ"/>
+                  </ADDRESS_CONTRACTOR>
+                  <SME/>
+               </CONTRACTOR>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>AutoCont CZ a.s.</OFFICIALNAME>
+                     <ADDRESS>Hornopolni 3322/34</ADDRESS>
+                     <TOWN>Ostrava</TOWN>
+                     <POSTAL_CODE>702 00</POSTAL_CODE>
+                     <COUNTRY VALUE="CZ"/>
+                     <n2016:NUTS CODE="CZ"/>
+                  </ADDRESS_CONTRACTOR>
+                  <SME/>
+               </CONTRACTOR>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>Bechtle direct Polska sp z oo</OFFICIALNAME>
+                     <ADDRESS>Krakowska 119</ADDRESS>
+                     <TOWN>Wroclaw</TOWN>
+                     <POSTAL_CODE>50-428</POSTAL_CODE>
+                     <COUNTRY VALUE="PL"/>
+                     <n2016:NUTS CODE="PL"/>
+                  </ADDRESS_CONTRACTOR>
+                  <SME/>
+               </CONTRACTOR>
+               <VAL_ESTIMATED_TOTAL CURRENCY="EUR">2000000.00</VAL_ESTIMATED_TOTAL>
+               <VAL_TOTAL CURRENCY="EUR">2000000.00</VAL_TOTAL>
+            </AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <COMPLEMENTARY_INFO>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Tribunál</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <E_MAIL>cfi.registry@curia.europa.eu</E_MAIL>
+               <FAX>+352 4303-2100</FAX>
+               <URL>http://curia.europa.eu/</URL>
+            </ADDRESS_REVIEW_BODY>
+            <DATE_DISPATCH_NOTICE>2017-12-08</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F03_2014>
+      <F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="ET">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Frontex</OFFICIALNAME>
+               <ADDRESS>Plac Europejski 6</ADDRESS>
+               <TOWN>Warsaw</TOWN>
+               <POSTAL_CODE>00-844</POSTAL_CODE>
+               <COUNTRY VALUE="PL"/>
+               <PHONE>+48 222059500</PHONE>
+               <E_MAIL>procurement@frontex.europa.eu</E_MAIL>
+               <FAX>+48 222059501</FAX>
+               <n2016:NUTS CODE="PL"/>
+               <URL_GENERAL>http://www.frontex.europa.eu</URL_GENERAL>
+            </ADDRESS_CONTRACTING_BODY>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Konkursi taasalgatamisega raamleping IKT-seadmete, varuosade ja lisatarvikute tarneks</P>
+            </TITLE>
+            <REFERENCE_NUMBER>Frontex/OP/238/2017/KM</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="30230000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SUPPLIES"/>
+            <SHORT_DESCR>
+               <P>Konkursi taasalgatamisega raamleping IKT-seadmete, varuosade ja lisatarvikute tarneks.</P>
+            </SHORT_DESCR>
+            <VAL_TOTAL CURRENCY="EUR">2000000.00</VAL_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <n2016:NUTS CODE="PL"/>
+               <SHORT_DESCR>
+                  <P>Konkursi taasalgatamisega raamleping IKT-seadmete, varuosade ja lisatarvikute tarneks.</P>
+               </SHORT_DESCR>
+               <AC_QUALITY>
+                  <AC_CRITERION>vt pakkumise iseloomustust</AC_CRITERION>
+                  <AC_WEIGHTING>30</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_PRICE>
+                  <AC_WEIGHTING>70</AC_WEIGHTING>
+               </AC_PRICE>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <FRAMEWORK/>
+            <NO_CONTRACT_COVERED_GPA/>
+            <NOTICE_NUMBER_OJ>2017/S 126-255692</NOTICE_NUMBER_OJ>
+         </PROCEDURE>
+         <AWARD_CONTRACT ITEM="1">
+            <CONTRACT_NO>FRONTEX/OP/238/2017/KM</CONTRACT_NO>
+            <TITLE>
+               <P>Konkursi taasalgatamisega raamleping IKT-seadmete, varuosade ja lisatarvikute tarneks</P>
+            </TITLE>
+            <AWARDED_CONTRACT>
+               <DATE_CONCLUSION_CONTRACT>2017-11-22</DATE_CONCLUSION_CONTRACT>
+               <NB_TENDERS_RECEIVED>4</NB_TENDERS_RECEIVED>
+               <AWARDED_TO_GROUP/>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>Uni Business Centre BV</OFFICIALNAME>
+                     <ADDRESS>Zekeringstraat 9a</ADDRESS>
+                     <TOWN>Amsterdam</TOWN>
+                     <POSTAL_CODE>1014BM</POSTAL_CODE>
+                     <COUNTRY VALUE="NL"/>
+                     <n2016:NUTS CODE="NL"/>
+                  </ADDRESS_CONTRACTOR>
+                  <SME/>
+               </CONTRACTOR>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>Nextis services s.r.o.</OFFICIALNAME>
+                     <ADDRESS>Krmelinska 934/4</ADDRESS>
+                     <TOWN>Ostrava</TOWN>
+                     <POSTAL_CODE>720 00</POSTAL_CODE>
+                     <COUNTRY VALUE="CZ"/>
+                     <n2016:NUTS CODE="CZ"/>
+                  </ADDRESS_CONTRACTOR>
+                  <SME/>
+               </CONTRACTOR>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>AutoCont CZ a.s.</OFFICIALNAME>
+                     <ADDRESS>Hornopolni 3322/34</ADDRESS>
+                     <TOWN>Ostrava</TOWN>
+                     <POSTAL_CODE>702 00</POSTAL_CODE>
+                     <COUNTRY VALUE="CZ"/>
+                     <n2016:NUTS CODE="CZ"/>
+                  </ADDRESS_CONTRACTOR>
+                  <SME/>
+               </CONTRACTOR>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>Bechtle direct Polska sp z oo</OFFICIALNAME>
+                     <ADDRESS>Krakowska 119</ADDRESS>
+                     <TOWN>Wroclaw</TOWN>
+                     <POSTAL_CODE>50-428</POSTAL_CODE>
+                     <COUNTRY VALUE="PL"/>
+                     <n2016:NUTS CODE="PL"/>
+                  </ADDRESS_CONTRACTOR>
+                  <SME/>
+               </CONTRACTOR>
+               <VAL_ESTIMATED_TOTAL CURRENCY="EUR">2000000.00</VAL_ESTIMATED_TOTAL>
+               <VAL_TOTAL CURRENCY="EUR">2000000.00</VAL_TOTAL>
+            </AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <COMPLEMENTARY_INFO>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Üldkohus</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <E_MAIL>cfi.registry@curia.europa.eu</E_MAIL>
+               <FAX>+352 4303-2100</FAX>
+               <URL>http://curia.europa.eu/</URL>
+            </ADDRESS_REVIEW_BODY>
+            <DATE_DISPATCH_NOTICE>2017-12-08</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F03_2014>
+      <F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="HU">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Frontex</OFFICIALNAME>
+               <ADDRESS>Plac Europejski 6</ADDRESS>
+               <TOWN>Warsaw</TOWN>
+               <POSTAL_CODE>00-844</POSTAL_CODE>
+               <COUNTRY VALUE="PL"/>
+               <PHONE>+48 222059500</PHONE>
+               <E_MAIL>procurement@frontex.europa.eu</E_MAIL>
+               <FAX>+48 222059501</FAX>
+               <n2016:NUTS CODE="PL"/>
+               <URL_GENERAL>http://www.frontex.europa.eu</URL_GENERAL>
+            </ADDRESS_CONTRACTING_BODY>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>IKT-berendezések, tartalék alkatrészek és tartozékok leszállítására irányuló keretszerződés a verseny ismételt meghirdetésével</P>
+            </TITLE>
+            <REFERENCE_NUMBER>Frontex/OP/238/2017/KM</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="30230000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SUPPLIES"/>
+            <SHORT_DESCR>
+               <P>IKT-berendezések, tartalék alkatrészek és tartozékok leszállítására irányuló keretszerződés a verseny ismételt meghirdetésével.</P>
+            </SHORT_DESCR>
+            <VAL_TOTAL CURRENCY="EUR">2000000.00</VAL_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <n2016:NUTS CODE="PL"/>
+               <SHORT_DESCR>
+                  <P>IKT-berendezések, tartalék alkatrészek és tartozékok leszállítására irányuló keretszerződés a verseny ismételt meghirdetésével.</P>
+               </SHORT_DESCR>
+               <AC_QUALITY>
+                  <AC_CRITERION>Lásd a pályázati dokumentációt</AC_CRITERION>
+                  <AC_WEIGHTING>30</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_PRICE>
+                  <AC_WEIGHTING>70</AC_WEIGHTING>
+               </AC_PRICE>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <FRAMEWORK/>
+            <NO_CONTRACT_COVERED_GPA/>
+            <NOTICE_NUMBER_OJ>2017/S 126-255692</NOTICE_NUMBER_OJ>
+         </PROCEDURE>
+         <AWARD_CONTRACT ITEM="1">
+            <CONTRACT_NO>FRONTEX/OP/238/2017/KM</CONTRACT_NO>
+            <TITLE>
+               <P>IKT-berendezések, tartalék alkatrészek és tartozékok leszállítására irányuló keretszerződés a verseny ismételt meghirdetésével</P>
+            </TITLE>
+            <AWARDED_CONTRACT>
+               <DATE_CONCLUSION_CONTRACT>2017-11-22</DATE_CONCLUSION_CONTRACT>
+               <NB_TENDERS_RECEIVED>4</NB_TENDERS_RECEIVED>
+               <AWARDED_TO_GROUP/>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>Uni Business Centre BV</OFFICIALNAME>
+                     <ADDRESS>Zekeringstraat 9a</ADDRESS>
+                     <TOWN>Amsterdam</TOWN>
+                     <POSTAL_CODE>1014BM</POSTAL_CODE>
+                     <COUNTRY VALUE="NL"/>
+                     <n2016:NUTS CODE="NL"/>
+                  </ADDRESS_CONTRACTOR>
+                  <SME/>
+               </CONTRACTOR>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>Nextis services s.r.o.</OFFICIALNAME>
+                     <ADDRESS>Krmelinska 934/4</ADDRESS>
+                     <TOWN>Ostrava</TOWN>
+                     <POSTAL_CODE>720 00</POSTAL_CODE>
+                     <COUNTRY VALUE="CZ"/>
+                     <n2016:NUTS CODE="CZ"/>
+                  </ADDRESS_CONTRACTOR>
+                  <SME/>
+               </CONTRACTOR>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>AutoCont CZ a.s.</OFFICIALNAME>
+                     <ADDRESS>Hornopolni 3322/34</ADDRESS>
+                     <TOWN>Ostrava</TOWN>
+                     <POSTAL_CODE>702 00</POSTAL_CODE>
+                     <COUNTRY VALUE="CZ"/>
+                     <n2016:NUTS CODE="CZ"/>
+                  </ADDRESS_CONTRACTOR>
+                  <SME/>
+               </CONTRACTOR>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>Bechtle direct Polska sp z oo</OFFICIALNAME>
+                     <ADDRESS>Krakowska 119</ADDRESS>
+                     <TOWN>Wroclaw</TOWN>
+                     <POSTAL_CODE>50-428</POSTAL_CODE>
+                     <COUNTRY VALUE="PL"/>
+                     <n2016:NUTS CODE="PL"/>
+                  </ADDRESS_CONTRACTOR>
+                  <SME/>
+               </CONTRACTOR>
+               <VAL_ESTIMATED_TOTAL CURRENCY="EUR">2000000.00</VAL_ESTIMATED_TOTAL>
+               <VAL_TOTAL CURRENCY="EUR">2000000.00</VAL_TOTAL>
+            </AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <COMPLEMENTARY_INFO>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Törvényszék</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <E_MAIL>cfi.registry@curia.europa.eu</E_MAIL>
+               <FAX>+352 4303-2100</FAX>
+               <URL>http://curia.europa.eu/</URL>
+            </ADDRESS_REVIEW_BODY>
+            <DATE_DISPATCH_NOTICE>2017-12-08</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F03_2014>
+      <F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="LT">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Frontex</OFFICIALNAME>
+               <ADDRESS>Plac Europejski 6</ADDRESS>
+               <TOWN>Warsaw</TOWN>
+               <POSTAL_CODE>00-844</POSTAL_CODE>
+               <COUNTRY VALUE="PL"/>
+               <PHONE>+48 222059500</PHONE>
+               <E_MAIL>procurement@frontex.europa.eu</E_MAIL>
+               <FAX>+48 222059501</FAX>
+               <n2016:NUTS CODE="PL"/>
+               <URL_GENERAL>http://www.frontex.europa.eu</URL_GENERAL>
+            </ADDRESS_CONTRACTING_BODY>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Preliminarioji sutartis pakartotinai skelbiant konkursą dėl IRT įrangos, atsarginių dalių ir priedų pristatymo</P>
+            </TITLE>
+            <REFERENCE_NUMBER>Frontex/OP/238/2017/KM</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="30230000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SUPPLIES"/>
+            <SHORT_DESCR>
+               <P>Preliminarioji sutartis pakartotinai skelbiant konkursą dėl IRT įrangos, atsarginių dalių ir priedų pristatymo.</P>
+            </SHORT_DESCR>
+            <VAL_TOTAL CURRENCY="EUR">2000000.00</VAL_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <n2016:NUTS CODE="PL"/>
+               <SHORT_DESCR>
+                  <P>Preliminarioji sutartis pakartotinai skelbiant konkursą dėl IRT įrangos, atsarginių dalių ir priedų pristatymo.</P>
+               </SHORT_DESCR>
+               <AC_QUALITY>
+                  <AC_CRITERION>Nurodyta pirkimo specifikacijose</AC_CRITERION>
+                  <AC_WEIGHTING>30</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_PRICE>
+                  <AC_WEIGHTING>70</AC_WEIGHTING>
+               </AC_PRICE>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <FRAMEWORK/>
+            <NO_CONTRACT_COVERED_GPA/>
+            <NOTICE_NUMBER_OJ>2017/S 126-255692</NOTICE_NUMBER_OJ>
+         </PROCEDURE>
+         <AWARD_CONTRACT ITEM="1">
+            <CONTRACT_NO>FRONTEX/OP/238/2017/KM</CONTRACT_NO>
+            <TITLE>
+               <P>Preliminarioji sutartis pakartotinai skelbiant konkursą dėl IRT įrangos, atsarginių dalių ir priedų pristatymo</P>
+            </TITLE>
+            <AWARDED_CONTRACT>
+               <DATE_CONCLUSION_CONTRACT>2017-11-22</DATE_CONCLUSION_CONTRACT>
+               <NB_TENDERS_RECEIVED>4</NB_TENDERS_RECEIVED>
+               <AWARDED_TO_GROUP/>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>Uni Business Centre BV</OFFICIALNAME>
+                     <ADDRESS>Zekeringstraat 9a</ADDRESS>
+                     <TOWN>Amsterdam</TOWN>
+                     <POSTAL_CODE>1014BM</POSTAL_CODE>
+                     <COUNTRY VALUE="NL"/>
+                     <n2016:NUTS CODE="NL"/>
+                  </ADDRESS_CONTRACTOR>
+                  <SME/>
+               </CONTRACTOR>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>Nextis services s.r.o.</OFFICIALNAME>
+                     <ADDRESS>Krmelinska 934/4</ADDRESS>
+                     <TOWN>Ostrava</TOWN>
+                     <POSTAL_CODE>720 00</POSTAL_CODE>
+                     <COUNTRY VALUE="CZ"/>
+                     <n2016:NUTS CODE="CZ"/>
+                  </ADDRESS_CONTRACTOR>
+                  <SME/>
+               </CONTRACTOR>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>AutoCont CZ a.s.</OFFICIALNAME>
+                     <ADDRESS>Hornopolni 3322/34</ADDRESS>
+                     <TOWN>Ostrava</TOWN>
+                     <POSTAL_CODE>702 00</POSTAL_CODE>
+                     <COUNTRY VALUE="CZ"/>
+                     <n2016:NUTS CODE="CZ"/>
+                  </ADDRESS_CONTRACTOR>
+                  <SME/>
+               </CONTRACTOR>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>Bechtle direct Polska sp z oo</OFFICIALNAME>
+                     <ADDRESS>Krakowska 119</ADDRESS>
+                     <TOWN>Wroclaw</TOWN>
+                     <POSTAL_CODE>50-428</POSTAL_CODE>
+                     <COUNTRY VALUE="PL"/>
+                     <n2016:NUTS CODE="PL"/>
+                  </ADDRESS_CONTRACTOR>
+                  <SME/>
+               </CONTRACTOR>
+               <VAL_ESTIMATED_TOTAL CURRENCY="EUR">2000000.00</VAL_ESTIMATED_TOTAL>
+               <VAL_TOTAL CURRENCY="EUR">2000000.00</VAL_TOTAL>
+            </AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <COMPLEMENTARY_INFO>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Bendrasis Teismas</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <E_MAIL>cfi.registry@curia.europa.eu</E_MAIL>
+               <FAX>+352 4303-2100</FAX>
+               <URL>http://curia.europa.eu/</URL>
+            </ADDRESS_REVIEW_BODY>
+            <DATE_DISPATCH_NOTICE>2017-12-08</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F03_2014>
+      <F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="LV">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Frontex</OFFICIALNAME>
+               <ADDRESS>Plac Europejski 6</ADDRESS>
+               <TOWN>Warsaw</TOWN>
+               <POSTAL_CODE>00-844</POSTAL_CODE>
+               <COUNTRY VALUE="PL"/>
+               <PHONE>+48 222059500</PHONE>
+               <E_MAIL>procurement@frontex.europa.eu</E_MAIL>
+               <FAX>+48 222059501</FAX>
+               <n2016:NUTS CODE="PL"/>
+               <URL_GENERAL>http://www.frontex.europa.eu</URL_GENERAL>
+            </ADDRESS_CONTRACTING_BODY>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Pamatnolīgums ar atkārtotu konkursa izsludināšanu par IKT aprīkojuma, rezerves daļu un piederumu piegādēm</P>
+            </TITLE>
+            <REFERENCE_NUMBER>Frontex/OP/238/2017/KM</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="30230000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SUPPLIES"/>
+            <SHORT_DESCR>
+               <P>Pamatnolīgums ar atkārtotu konkursa izsludināšanu par IKT aprīkojuma, rezerves daļu un piederumu piegādēm.</P>
+            </SHORT_DESCR>
+            <VAL_TOTAL CURRENCY="EUR">2000000.00</VAL_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <n2016:NUTS CODE="PL"/>
+               <SHORT_DESCR>
+                  <P>Pamatnolīgums ar atkārtotu konkursa izsludināšanu par IKT aprīkojuma, rezerves daļu un piederumu piegādēm.</P>
+               </SHORT_DESCR>
+               <AC_QUALITY>
+                  <AC_CRITERION>kā norādīts konkursa specifikācijās</AC_CRITERION>
+                  <AC_WEIGHTING>30</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_PRICE>
+                  <AC_WEIGHTING>70</AC_WEIGHTING>
+               </AC_PRICE>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <FRAMEWORK/>
+            <NO_CONTRACT_COVERED_GPA/>
+            <NOTICE_NUMBER_OJ>2017/S 126-255692</NOTICE_NUMBER_OJ>
+         </PROCEDURE>
+         <AWARD_CONTRACT ITEM="1">
+            <CONTRACT_NO>FRONTEX/OP/238/2017/KM</CONTRACT_NO>
+            <TITLE>
+               <P>Pamatnolīgums ar atkārtotu konkursa izsludināšanu par IKT aprīkojuma, rezerves daļu un piederumu piegādēm</P>
+            </TITLE>
+            <AWARDED_CONTRACT>
+               <DATE_CONCLUSION_CONTRACT>2017-11-22</DATE_CONCLUSION_CONTRACT>
+               <NB_TENDERS_RECEIVED>4</NB_TENDERS_RECEIVED>
+               <AWARDED_TO_GROUP/>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>Uni Business Centre BV</OFFICIALNAME>
+                     <ADDRESS>Zekeringstraat 9a</ADDRESS>
+                     <TOWN>Amsterdam</TOWN>
+                     <POSTAL_CODE>1014BM</POSTAL_CODE>
+                     <COUNTRY VALUE="NL"/>
+                     <n2016:NUTS CODE="NL"/>
+                  </ADDRESS_CONTRACTOR>
+                  <SME/>
+               </CONTRACTOR>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>Nextis services s.r.o.</OFFICIALNAME>
+                     <ADDRESS>Krmelinska 934/4</ADDRESS>
+                     <TOWN>Ostrava</TOWN>
+                     <POSTAL_CODE>720 00</POSTAL_CODE>
+                     <COUNTRY VALUE="CZ"/>
+                     <n2016:NUTS CODE="CZ"/>
+                  </ADDRESS_CONTRACTOR>
+                  <SME/>
+               </CONTRACTOR>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>AutoCont CZ a.s.</OFFICIALNAME>
+                     <ADDRESS>Hornopolni 3322/34</ADDRESS>
+                     <TOWN>Ostrava</TOWN>
+                     <POSTAL_CODE>702 00</POSTAL_CODE>
+                     <COUNTRY VALUE="CZ"/>
+                     <n2016:NUTS CODE="CZ"/>
+                  </ADDRESS_CONTRACTOR>
+                  <SME/>
+               </CONTRACTOR>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>Bechtle direct Polska sp z oo</OFFICIALNAME>
+                     <ADDRESS>Krakowska 119</ADDRESS>
+                     <TOWN>Wroclaw</TOWN>
+                     <POSTAL_CODE>50-428</POSTAL_CODE>
+                     <COUNTRY VALUE="PL"/>
+                     <n2016:NUTS CODE="PL"/>
+                  </ADDRESS_CONTRACTOR>
+                  <SME/>
+               </CONTRACTOR>
+               <VAL_ESTIMATED_TOTAL CURRENCY="EUR">2000000.00</VAL_ESTIMATED_TOTAL>
+               <VAL_TOTAL CURRENCY="EUR">2000000.00</VAL_TOTAL>
+            </AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <COMPLEMENTARY_INFO>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Vispārējā tiesa</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <E_MAIL>cfi.registry@curia.europa.eu</E_MAIL>
+               <FAX>+352 4303-2100</FAX>
+               <URL>http://curia.europa.eu/</URL>
+            </ADDRESS_REVIEW_BODY>
+            <DATE_DISPATCH_NOTICE>2017-12-08</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F03_2014>
+      <F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="MT">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Frontex</OFFICIALNAME>
+               <ADDRESS>Plac Europejski 6</ADDRESS>
+               <TOWN>Warsaw</TOWN>
+               <POSTAL_CODE>00-844</POSTAL_CODE>
+               <COUNTRY VALUE="PL"/>
+               <PHONE>+48 222059500</PHONE>
+               <E_MAIL>procurement@frontex.europa.eu</E_MAIL>
+               <FAX>+48 222059501</FAX>
+               <n2016:NUTS CODE="PL"/>
+               <URL_GENERAL>http://www.frontex.europa.eu</URL_GENERAL>
+            </ADDRESS_CONTRACTING_BODY>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Qafas ta' kuntratt bil-ftuħ mill-ġdid tal-kompetizzjoni għall-kunsinna ta' tagħmir, partijiet li jinbidlu u aċċessorji tal-ICT</P>
+            </TITLE>
+            <REFERENCE_NUMBER>Frontex/OP/238/2017/KM</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="30230000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SUPPLIES"/>
+            <SHORT_DESCR>
+               <P>Qafas ta' kuntratt bil-ftuħ mill-ġdid tal-kompetizzjoni għall-kunsinna ta' tagħmir, partijiet li jinbidlu u aċċessorji tal-ICT.</P>
+            </SHORT_DESCR>
+            <VAL_TOTAL CURRENCY="EUR">2000000.00</VAL_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <n2016:NUTS CODE="PL"/>
+               <SHORT_DESCR>
+                  <P>Qafas ta' kuntratt bil-ftuħ mill-ġdid tal-kompetizzjoni għall-kunsinna ta' tagħmir, partijiet li jinbidlu u aċċessorji tal-ICT.</P>
+               </SHORT_DESCR>
+               <AC_QUALITY>
+                  <AC_CRITERION>Kif indikat fl-ispeċifikazzjonijiet tas-sejħa għall-offerti</AC_CRITERION>
+                  <AC_WEIGHTING>30</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_PRICE>
+                  <AC_WEIGHTING>70</AC_WEIGHTING>
+               </AC_PRICE>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <FRAMEWORK/>
+            <NO_CONTRACT_COVERED_GPA/>
+            <NOTICE_NUMBER_OJ>2017/S 126-255692</NOTICE_NUMBER_OJ>
+         </PROCEDURE>
+         <AWARD_CONTRACT ITEM="1">
+            <CONTRACT_NO>FRONTEX/OP/238/2017/KM</CONTRACT_NO>
+            <TITLE>
+               <P>Qafas ta' kuntratt bil-ftuħ mill-ġdid tal-kompetizzjoni għall-kunsinna ta' tagħmir, partijiet li jinbidlu u aċċessorji tal-ICT</P>
+            </TITLE>
+            <AWARDED_CONTRACT>
+               <DATE_CONCLUSION_CONTRACT>2017-11-22</DATE_CONCLUSION_CONTRACT>
+               <NB_TENDERS_RECEIVED>4</NB_TENDERS_RECEIVED>
+               <AWARDED_TO_GROUP/>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>Uni Business Centre BV</OFFICIALNAME>
+                     <ADDRESS>Zekeringstraat 9a</ADDRESS>
+                     <TOWN>Amsterdam</TOWN>
+                     <POSTAL_CODE>1014BM</POSTAL_CODE>
+                     <COUNTRY VALUE="NL"/>
+                     <n2016:NUTS CODE="NL"/>
+                  </ADDRESS_CONTRACTOR>
+                  <SME/>
+               </CONTRACTOR>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>Nextis services s.r.o.</OFFICIALNAME>
+                     <ADDRESS>Krmelinska 934/4</ADDRESS>
+                     <TOWN>Ostrava</TOWN>
+                     <POSTAL_CODE>720 00</POSTAL_CODE>
+                     <COUNTRY VALUE="CZ"/>
+                     <n2016:NUTS CODE="CZ"/>
+                  </ADDRESS_CONTRACTOR>
+                  <SME/>
+               </CONTRACTOR>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>AutoCont CZ a.s.</OFFICIALNAME>
+                     <ADDRESS>Hornopolni 3322/34</ADDRESS>
+                     <TOWN>Ostrava</TOWN>
+                     <POSTAL_CODE>702 00</POSTAL_CODE>
+                     <COUNTRY VALUE="CZ"/>
+                     <n2016:NUTS CODE="CZ"/>
+                  </ADDRESS_CONTRACTOR>
+                  <SME/>
+               </CONTRACTOR>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>Bechtle direct Polska sp z oo</OFFICIALNAME>
+                     <ADDRESS>Krakowska 119</ADDRESS>
+                     <TOWN>Wroclaw</TOWN>
+                     <POSTAL_CODE>50-428</POSTAL_CODE>
+                     <COUNTRY VALUE="PL"/>
+                     <n2016:NUTS CODE="PL"/>
+                  </ADDRESS_CONTRACTOR>
+                  <SME/>
+               </CONTRACTOR>
+               <VAL_ESTIMATED_TOTAL CURRENCY="EUR">2000000.00</VAL_ESTIMATED_TOTAL>
+               <VAL_TOTAL CURRENCY="EUR">2000000.00</VAL_TOTAL>
+            </AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <COMPLEMENTARY_INFO>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Il-Qorti Ġenerali</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <E_MAIL>cfi.registry@curia.europa.eu</E_MAIL>
+               <FAX>+352 4303-2100</FAX>
+               <URL>http://curia.europa.eu/</URL>
+            </ADDRESS_REVIEW_BODY>
+            <DATE_DISPATCH_NOTICE>2017-12-08</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F03_2014>
+      <F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="PL">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Frontex</OFFICIALNAME>
+               <ADDRESS>Plac Europejski 6</ADDRESS>
+               <TOWN>Warsaw</TOWN>
+               <POSTAL_CODE>00-844</POSTAL_CODE>
+               <COUNTRY VALUE="PL"/>
+               <PHONE>+48 222059500</PHONE>
+               <E_MAIL>procurement@frontex.europa.eu</E_MAIL>
+               <FAX>+48 222059501</FAX>
+               <n2016:NUTS CODE="PL"/>
+               <URL_GENERAL>http://www.frontex.europa.eu</URL_GENERAL>
+            </ADDRESS_CONTRACTING_BODY>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Umowa ramowa z odnowieniem konkurencji o dostawy sprzętu informacyjno-komunikacyjnego, części zamiennych i akcesoriów</P>
+            </TITLE>
+            <REFERENCE_NUMBER>Frontex/OP/238/2017/KM</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="30230000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SUPPLIES"/>
+            <SHORT_DESCR>
+               <P>Umowa ramowa z odnowieniem konkurencji o dostawy sprzętu informacyjno-komunikacyjnego, części zamiennych i akcesoriów.</P>
+            </SHORT_DESCR>
+            <VAL_TOTAL CURRENCY="EUR">2000000.00</VAL_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <n2016:NUTS CODE="PL"/>
+               <SHORT_DESCR>
+                  <P>Umowa ramowa z odnowieniem konkurencji o dostawy sprzętu informacyjno-komunikacyjnego, części zamiennych i akcesoriów.</P>
+               </SHORT_DESCR>
+               <AC_QUALITY>
+                  <AC_CRITERION>jak określono w specyfikacji istotnych warunków zamówienia</AC_CRITERION>
+                  <AC_WEIGHTING>30</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_PRICE>
+                  <AC_WEIGHTING>70</AC_WEIGHTING>
+               </AC_PRICE>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <FRAMEWORK/>
+            <NO_CONTRACT_COVERED_GPA/>
+            <NOTICE_NUMBER_OJ>2017/S 126-255692</NOTICE_NUMBER_OJ>
+         </PROCEDURE>
+         <AWARD_CONTRACT ITEM="1">
+            <CONTRACT_NO>FRONTEX/OP/238/2017/KM</CONTRACT_NO>
+            <TITLE>
+               <P>Umowa ramowa z odnowieniem konkurencji o dostawy sprzętu informacyjno-komunikacyjnego, części zamiennych i akcesoriów</P>
+            </TITLE>
+            <AWARDED_CONTRACT>
+               <DATE_CONCLUSION_CONTRACT>2017-11-22</DATE_CONCLUSION_CONTRACT>
+               <NB_TENDERS_RECEIVED>4</NB_TENDERS_RECEIVED>
+               <AWARDED_TO_GROUP/>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>Uni Business Centre BV</OFFICIALNAME>
+                     <ADDRESS>Zekeringstraat 9a</ADDRESS>
+                     <TOWN>Amsterdam</TOWN>
+                     <POSTAL_CODE>1014BM</POSTAL_CODE>
+                     <COUNTRY VALUE="NL"/>
+                     <n2016:NUTS CODE="NL"/>
+                  </ADDRESS_CONTRACTOR>
+                  <SME/>
+               </CONTRACTOR>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>Nextis services s.r.o.</OFFICIALNAME>
+                     <ADDRESS>Krmelinska 934/4</ADDRESS>
+                     <TOWN>Ostrava</TOWN>
+                     <POSTAL_CODE>720 00</POSTAL_CODE>
+                     <COUNTRY VALUE="CZ"/>
+                     <n2016:NUTS CODE="CZ"/>
+                  </ADDRESS_CONTRACTOR>
+                  <SME/>
+               </CONTRACTOR>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>AutoCont CZ a.s.</OFFICIALNAME>
+                     <ADDRESS>Hornopolni 3322/34</ADDRESS>
+                     <TOWN>Ostrava</TOWN>
+                     <POSTAL_CODE>702 00</POSTAL_CODE>
+                     <COUNTRY VALUE="CZ"/>
+                     <n2016:NUTS CODE="CZ"/>
+                  </ADDRESS_CONTRACTOR>
+                  <SME/>
+               </CONTRACTOR>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>Bechtle direct Polska sp z oo</OFFICIALNAME>
+                     <ADDRESS>Krakowska 119</ADDRESS>
+                     <TOWN>Wroclaw</TOWN>
+                     <POSTAL_CODE>50-428</POSTAL_CODE>
+                     <COUNTRY VALUE="PL"/>
+                     <n2016:NUTS CODE="PL"/>
+                  </ADDRESS_CONTRACTOR>
+                  <SME/>
+               </CONTRACTOR>
+               <VAL_ESTIMATED_TOTAL CURRENCY="EUR">2000000.00</VAL_ESTIMATED_TOTAL>
+               <VAL_TOTAL CURRENCY="EUR">2000000.00</VAL_TOTAL>
+            </AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <COMPLEMENTARY_INFO>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Sąd</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <E_MAIL>cfi.registry@curia.europa.eu</E_MAIL>
+               <FAX>+352 4303-2100</FAX>
+               <URL>http://curia.europa.eu/</URL>
+            </ADDRESS_REVIEW_BODY>
+            <DATE_DISPATCH_NOTICE>2017-12-08</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F03_2014>
+      <F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="SK">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Frontex</OFFICIALNAME>
+               <ADDRESS>Plac Europejski 6</ADDRESS>
+               <TOWN>Warsaw</TOWN>
+               <POSTAL_CODE>00-844</POSTAL_CODE>
+               <COUNTRY VALUE="PL"/>
+               <PHONE>+48 222059500</PHONE>
+               <E_MAIL>procurement@frontex.europa.eu</E_MAIL>
+               <FAX>+48 222059501</FAX>
+               <n2016:NUTS CODE="PL"/>
+               <URL_GENERAL>http://www.frontex.europa.eu</URL_GENERAL>
+            </ADDRESS_CONTRACTING_BODY>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Rámcová zmluva s obnovením súťaže na dodávku zariadenia IKT, náhradných dielov a príslušenstva</P>
+            </TITLE>
+            <REFERENCE_NUMBER>Frontex/OP/238/2017/KM</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="30230000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SUPPLIES"/>
+            <SHORT_DESCR>
+               <P>Rámcová zmluva s obnovením súťaže na dodávku zariadenia IKT, náhradných dielov a príslušenstva.</P>
+            </SHORT_DESCR>
+            <VAL_TOTAL CURRENCY="EUR">2000000.00</VAL_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <n2016:NUTS CODE="PL"/>
+               <SHORT_DESCR>
+                  <P>Rámcová zmluva s obnovením súťaže na dodávku zariadenia IKT, náhradných dielov a príslušenstva.</P>
+               </SHORT_DESCR>
+               <AC_QUALITY>
+                  <AC_CRITERION>ako je uvedené v súťažných podkladoch</AC_CRITERION>
+                  <AC_WEIGHTING>30</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_PRICE>
+                  <AC_WEIGHTING>70</AC_WEIGHTING>
+               </AC_PRICE>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <FRAMEWORK/>
+            <NO_CONTRACT_COVERED_GPA/>
+            <NOTICE_NUMBER_OJ>2017/S 126-255692</NOTICE_NUMBER_OJ>
+         </PROCEDURE>
+         <AWARD_CONTRACT ITEM="1">
+            <CONTRACT_NO>FRONTEX/OP/238/2017/KM</CONTRACT_NO>
+            <TITLE>
+               <P>Rámcová zmluva s obnovením súťaže na dodávku zariadenia IKT, náhradných dielov a príslušenstva</P>
+            </TITLE>
+            <AWARDED_CONTRACT>
+               <DATE_CONCLUSION_CONTRACT>2017-11-22</DATE_CONCLUSION_CONTRACT>
+               <NB_TENDERS_RECEIVED>4</NB_TENDERS_RECEIVED>
+               <AWARDED_TO_GROUP/>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>Uni Business Centre BV</OFFICIALNAME>
+                     <ADDRESS>Zekeringstraat 9a</ADDRESS>
+                     <TOWN>Amsterdam</TOWN>
+                     <POSTAL_CODE>1014BM</POSTAL_CODE>
+                     <COUNTRY VALUE="NL"/>
+                     <n2016:NUTS CODE="NL"/>
+                  </ADDRESS_CONTRACTOR>
+                  <SME/>
+               </CONTRACTOR>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>Nextis services s.r.o.</OFFICIALNAME>
+                     <ADDRESS>Krmelinska 934/4</ADDRESS>
+                     <TOWN>Ostrava</TOWN>
+                     <POSTAL_CODE>720 00</POSTAL_CODE>
+                     <COUNTRY VALUE="CZ"/>
+                     <n2016:NUTS CODE="CZ"/>
+                  </ADDRESS_CONTRACTOR>
+                  <SME/>
+               </CONTRACTOR>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>AutoCont CZ a.s.</OFFICIALNAME>
+                     <ADDRESS>Hornopolni 3322/34</ADDRESS>
+                     <TOWN>Ostrava</TOWN>
+                     <POSTAL_CODE>702 00</POSTAL_CODE>
+                     <COUNTRY VALUE="CZ"/>
+                     <n2016:NUTS CODE="CZ"/>
+                  </ADDRESS_CONTRACTOR>
+                  <SME/>
+               </CONTRACTOR>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>Bechtle direct Polska sp z oo</OFFICIALNAME>
+                     <ADDRESS>Krakowska 119</ADDRESS>
+                     <TOWN>Wroclaw</TOWN>
+                     <POSTAL_CODE>50-428</POSTAL_CODE>
+                     <COUNTRY VALUE="PL"/>
+                     <n2016:NUTS CODE="PL"/>
+                  </ADDRESS_CONTRACTOR>
+                  <SME/>
+               </CONTRACTOR>
+               <VAL_ESTIMATED_TOTAL CURRENCY="EUR">2000000.00</VAL_ESTIMATED_TOTAL>
+               <VAL_TOTAL CURRENCY="EUR">2000000.00</VAL_TOTAL>
+            </AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <COMPLEMENTARY_INFO>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Všeobecný súd</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <E_MAIL>cfi.registry@curia.europa.eu</E_MAIL>
+               <FAX>+352 4303-2100</FAX>
+               <URL>http://curia.europa.eu/</URL>
+            </ADDRESS_REVIEW_BODY>
+            <DATE_DISPATCH_NOTICE>2017-12-08</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F03_2014>
+      <F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="SL">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Frontex</OFFICIALNAME>
+               <ADDRESS>Plac Europejski 6</ADDRESS>
+               <TOWN>Warsaw</TOWN>
+               <POSTAL_CODE>00-844</POSTAL_CODE>
+               <COUNTRY VALUE="PL"/>
+               <PHONE>+48 222059500</PHONE>
+               <E_MAIL>procurement@frontex.europa.eu</E_MAIL>
+               <FAX>+48 222059501</FAX>
+               <n2016:NUTS CODE="PL"/>
+               <URL_GENERAL>http://www.frontex.europa.eu</URL_GENERAL>
+            </ADDRESS_CONTRACTING_BODY>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Okvirno naročilo s ponovnim odpiranjem konkurence za dobavo opreme IKT, rezervnih delov in dodatne opreme</P>
+            </TITLE>
+            <REFERENCE_NUMBER>Frontex/OP/238/2017/KM</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="30230000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SUPPLIES"/>
+            <SHORT_DESCR>
+               <P>Okvirno naročilo s ponovnim odpiranjem konkurence za dobavo opreme IKT, rezervnih delov in dodatne opreme.</P>
+            </SHORT_DESCR>
+            <VAL_TOTAL CURRENCY="EUR">2000000.00</VAL_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <n2016:NUTS CODE="PL"/>
+               <SHORT_DESCR>
+                  <P>Okvirno naročilo s ponovnim odpiranjem konkurence za dobavo opreme IKT, rezervnih delov in dodatne opreme.</P>
+               </SHORT_DESCR>
+               <AC_QUALITY>
+                  <AC_CRITERION>Kakor je navedeno v razpisnih specifikacijah</AC_CRITERION>
+                  <AC_WEIGHTING>30</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_PRICE>
+                  <AC_WEIGHTING>70</AC_WEIGHTING>
+               </AC_PRICE>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <FRAMEWORK/>
+            <NO_CONTRACT_COVERED_GPA/>
+            <NOTICE_NUMBER_OJ>2017/S 126-255692</NOTICE_NUMBER_OJ>
+         </PROCEDURE>
+         <AWARD_CONTRACT ITEM="1">
+            <CONTRACT_NO>FRONTEX/OP/238/2017/KM</CONTRACT_NO>
+            <TITLE>
+               <P>Okvirno naročilo s ponovnim odpiranjem konkurence za dobavo opreme IKT, rezervnih delov in dodatne opreme</P>
+            </TITLE>
+            <AWARDED_CONTRACT>
+               <DATE_CONCLUSION_CONTRACT>2017-11-22</DATE_CONCLUSION_CONTRACT>
+               <NB_TENDERS_RECEIVED>4</NB_TENDERS_RECEIVED>
+               <AWARDED_TO_GROUP/>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>Uni Business Centre BV</OFFICIALNAME>
+                     <ADDRESS>Zekeringstraat 9a</ADDRESS>
+                     <TOWN>Amsterdam</TOWN>
+                     <POSTAL_CODE>1014BM</POSTAL_CODE>
+                     <COUNTRY VALUE="NL"/>
+                     <n2016:NUTS CODE="NL"/>
+                  </ADDRESS_CONTRACTOR>
+                  <SME/>
+               </CONTRACTOR>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>Nextis services s.r.o.</OFFICIALNAME>
+                     <ADDRESS>Krmelinska 934/4</ADDRESS>
+                     <TOWN>Ostrava</TOWN>
+                     <POSTAL_CODE>720 00</POSTAL_CODE>
+                     <COUNTRY VALUE="CZ"/>
+                     <n2016:NUTS CODE="CZ"/>
+                  </ADDRESS_CONTRACTOR>
+                  <SME/>
+               </CONTRACTOR>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>AutoCont CZ a.s.</OFFICIALNAME>
+                     <ADDRESS>Hornopolni 3322/34</ADDRESS>
+                     <TOWN>Ostrava</TOWN>
+                     <POSTAL_CODE>702 00</POSTAL_CODE>
+                     <COUNTRY VALUE="CZ"/>
+                     <n2016:NUTS CODE="CZ"/>
+                  </ADDRESS_CONTRACTOR>
+                  <SME/>
+               </CONTRACTOR>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>Bechtle direct Polska sp z oo</OFFICIALNAME>
+                     <ADDRESS>Krakowska 119</ADDRESS>
+                     <TOWN>Wroclaw</TOWN>
+                     <POSTAL_CODE>50-428</POSTAL_CODE>
+                     <COUNTRY VALUE="PL"/>
+                     <n2016:NUTS CODE="PL"/>
+                  </ADDRESS_CONTRACTOR>
+                  <SME/>
+               </CONTRACTOR>
+               <VAL_ESTIMATED_TOTAL CURRENCY="EUR">2000000.00</VAL_ESTIMATED_TOTAL>
+               <VAL_TOTAL CURRENCY="EUR">2000000.00</VAL_TOTAL>
+            </AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <COMPLEMENTARY_INFO>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Splošno sodišče</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <E_MAIL>cfi.registry@curia.europa.eu</E_MAIL>
+               <FAX>+352 4303-2100</FAX>
+               <URL>http://curia.europa.eu/</URL>
+            </ADDRESS_REVIEW_BODY>
+            <DATE_DISPATCH_NOTICE>2017-12-08</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F03_2014>
+      <F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="GA">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Frontex</OFFICIALNAME>
+               <ADDRESS>Plac Europejski 6</ADDRESS>
+               <TOWN>Warsaw</TOWN>
+               <POSTAL_CODE>00-844</POSTAL_CODE>
+               <COUNTRY VALUE="PL"/>
+               <PHONE>+48 222059500</PHONE>
+               <E_MAIL>procurement@frontex.europa.eu</E_MAIL>
+               <FAX>+48 222059501</FAX>
+               <n2016:NUTS CODE="PL"/>
+               <URL_GENERAL>http://www.frontex.europa.eu</URL_GENERAL>
+            </ADDRESS_CONTRACTING_BODY>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Creatchonradh le hathoscailt iomaíochta maidir le seachadtaí de threalamh TFC, comhpháirteanna breise agus oiriúintí</P>
+            </TITLE>
+            <REFERENCE_NUMBER>Frontex/OP/238/2017/KM</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="30230000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SUPPLIES"/>
+            <SHORT_DESCR>
+               <P>Creatchonradh le hathoscailt iomaíochta maidir le seachadtaí de threalamh TFC, comhpháirteanna breise agus oiriúintí.</P>
+            </SHORT_DESCR>
+            <VAL_TOTAL CURRENCY="EUR">2000000.00</VAL_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <n2016:NUTS CODE="PL"/>
+               <SHORT_DESCR>
+                  <P>Creatchonradh le hathoscailt iomaíochta maidir le seachadtaí de threalamh TFC, comhpháirteanna breise agus oiriúintí.</P>
+               </SHORT_DESCR>
+               <AC_QUALITY>
+                  <AC_CRITERION>Mar a shonraítear sna Sonraíochtaí Tairisceana</AC_CRITERION>
+                  <AC_WEIGHTING>30</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_PRICE>
+                  <AC_WEIGHTING>70</AC_WEIGHTING>
+               </AC_PRICE>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <FRAMEWORK/>
+            <NO_CONTRACT_COVERED_GPA/>
+            <NOTICE_NUMBER_OJ>2017/S 126-255692</NOTICE_NUMBER_OJ>
+         </PROCEDURE>
+         <AWARD_CONTRACT ITEM="1">
+            <CONTRACT_NO>FRONTEX/OP/238/2017/KM</CONTRACT_NO>
+            <TITLE>
+               <P>Creatchonradh le hathoscailt iomaíochta maidir le seachadtaí de threalamh TFC, comhpháirteanna breise agus oiriúintí</P>
+            </TITLE>
+            <AWARDED_CONTRACT>
+               <DATE_CONCLUSION_CONTRACT>2017-11-22</DATE_CONCLUSION_CONTRACT>
+               <NB_TENDERS_RECEIVED>4</NB_TENDERS_RECEIVED>
+               <AWARDED_TO_GROUP/>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>Uni Business Centre BV</OFFICIALNAME>
+                     <ADDRESS>Zekeringstraat 9a</ADDRESS>
+                     <TOWN>Amsterdam</TOWN>
+                     <POSTAL_CODE>1014BM</POSTAL_CODE>
+                     <COUNTRY VALUE="NL"/>
+                     <n2016:NUTS CODE="NL"/>
+                  </ADDRESS_CONTRACTOR>
+                  <SME/>
+               </CONTRACTOR>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>Nextis services s.r.o.</OFFICIALNAME>
+                     <ADDRESS>Krmelinska 934/4</ADDRESS>
+                     <TOWN>Ostrava</TOWN>
+                     <POSTAL_CODE>720 00</POSTAL_CODE>
+                     <COUNTRY VALUE="CZ"/>
+                     <n2016:NUTS CODE="CZ"/>
+                  </ADDRESS_CONTRACTOR>
+                  <SME/>
+               </CONTRACTOR>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>AutoCont CZ a.s.</OFFICIALNAME>
+                     <ADDRESS>Hornopolni 3322/34</ADDRESS>
+                     <TOWN>Ostrava</TOWN>
+                     <POSTAL_CODE>702 00</POSTAL_CODE>
+                     <COUNTRY VALUE="CZ"/>
+                     <n2016:NUTS CODE="CZ"/>
+                  </ADDRESS_CONTRACTOR>
+                  <SME/>
+               </CONTRACTOR>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>Bechtle direct Polska sp z oo</OFFICIALNAME>
+                     <ADDRESS>Krakowska 119</ADDRESS>
+                     <TOWN>Wroclaw</TOWN>
+                     <POSTAL_CODE>50-428</POSTAL_CODE>
+                     <COUNTRY VALUE="PL"/>
+                     <n2016:NUTS CODE="PL"/>
+                  </ADDRESS_CONTRACTOR>
+                  <SME/>
+               </CONTRACTOR>
+               <VAL_ESTIMATED_TOTAL CURRENCY="EUR">2000000.00</VAL_ESTIMATED_TOTAL>
+               <VAL_TOTAL CURRENCY="EUR">2000000.00</VAL_TOTAL>
+            </AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <COMPLEMENTARY_INFO>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>An Chúirt Ghinearálta</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <E_MAIL>cfi.registry@curia.europa.eu</E_MAIL>
+               <FAX>+352 4303-2100</FAX>
+               <URL>http://curia.europa.eu/</URL>
+            </ADDRESS_REVIEW_BODY>
+            <DATE_DISPATCH_NOTICE>2017-12-08</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F03_2014>
+      <F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="BG">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Frontex</OFFICIALNAME>
+               <ADDRESS>Plac Europejski 6</ADDRESS>
+               <TOWN>Warsaw</TOWN>
+               <POSTAL_CODE>00-844</POSTAL_CODE>
+               <COUNTRY VALUE="PL"/>
+               <PHONE>+48 222059500</PHONE>
+               <E_MAIL>procurement@frontex.europa.eu</E_MAIL>
+               <FAX>+48 222059501</FAX>
+               <n2016:NUTS CODE="PL"/>
+               <URL_GENERAL>http://www.frontex.europa.eu</URL_GENERAL>
+            </ADDRESS_CONTRACTING_BODY>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Рамков договор с повторно стартиране на конкурс за доставки на ИКТ оборудване, резервни части и принадлежности</P>
+            </TITLE>
+            <REFERENCE_NUMBER>Frontex/OP/238/2017/KM</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="30230000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SUPPLIES"/>
+            <SHORT_DESCR>
+               <P>Рамков договор с повторно стартиране на конкурс за доставки на ИКТ оборудване, резервни части и принадлежности.</P>
+            </SHORT_DESCR>
+            <VAL_TOTAL CURRENCY="EUR">2000000.00</VAL_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <n2016:NUTS CODE="PL"/>
+               <SHORT_DESCR>
+                  <P>Рамков договор с повторно стартиране на конкурс за доставки на ИКТ оборудване, резервни части и принадлежности.</P>
+               </SHORT_DESCR>
+               <AC_QUALITY>
+                  <AC_CRITERION>Както е посочено в тръжните спецификации</AC_CRITERION>
+                  <AC_WEIGHTING>30</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_PRICE>
+                  <AC_WEIGHTING>70</AC_WEIGHTING>
+               </AC_PRICE>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <FRAMEWORK/>
+            <NO_CONTRACT_COVERED_GPA/>
+            <NOTICE_NUMBER_OJ>2017/S 126-255692</NOTICE_NUMBER_OJ>
+         </PROCEDURE>
+         <AWARD_CONTRACT ITEM="1">
+            <CONTRACT_NO>FRONTEX/OP/238/2017/KM</CONTRACT_NO>
+            <TITLE>
+               <P>Рамков договор с повторно стартиране на конкурс за доставки на ИКТ оборудване, резервни части и принадлежности</P>
+            </TITLE>
+            <AWARDED_CONTRACT>
+               <DATE_CONCLUSION_CONTRACT>2017-11-22</DATE_CONCLUSION_CONTRACT>
+               <NB_TENDERS_RECEIVED>4</NB_TENDERS_RECEIVED>
+               <AWARDED_TO_GROUP/>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>Uni Business Centre BV</OFFICIALNAME>
+                     <ADDRESS>Zekeringstraat 9a</ADDRESS>
+                     <TOWN>Amsterdam</TOWN>
+                     <POSTAL_CODE>1014BM</POSTAL_CODE>
+                     <COUNTRY VALUE="NL"/>
+                     <n2016:NUTS CODE="NL"/>
+                  </ADDRESS_CONTRACTOR>
+                  <SME/>
+               </CONTRACTOR>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>Nextis services s.r.o.</OFFICIALNAME>
+                     <ADDRESS>Krmelinska 934/4</ADDRESS>
+                     <TOWN>Ostrava</TOWN>
+                     <POSTAL_CODE>720 00</POSTAL_CODE>
+                     <COUNTRY VALUE="CZ"/>
+                     <n2016:NUTS CODE="CZ"/>
+                  </ADDRESS_CONTRACTOR>
+                  <SME/>
+               </CONTRACTOR>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>AutoCont CZ a.s.</OFFICIALNAME>
+                     <ADDRESS>Hornopolni 3322/34</ADDRESS>
+                     <TOWN>Ostrava</TOWN>
+                     <POSTAL_CODE>702 00</POSTAL_CODE>
+                     <COUNTRY VALUE="CZ"/>
+                     <n2016:NUTS CODE="CZ"/>
+                  </ADDRESS_CONTRACTOR>
+                  <SME/>
+               </CONTRACTOR>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>Bechtle direct Polska sp z oo</OFFICIALNAME>
+                     <ADDRESS>Krakowska 119</ADDRESS>
+                     <TOWN>Wroclaw</TOWN>
+                     <POSTAL_CODE>50-428</POSTAL_CODE>
+                     <COUNTRY VALUE="PL"/>
+                     <n2016:NUTS CODE="PL"/>
+                  </ADDRESS_CONTRACTOR>
+                  <SME/>
+               </CONTRACTOR>
+               <VAL_ESTIMATED_TOTAL CURRENCY="EUR">2000000.00</VAL_ESTIMATED_TOTAL>
+               <VAL_TOTAL CURRENCY="EUR">2000000.00</VAL_TOTAL>
+            </AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <COMPLEMENTARY_INFO>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Общ съд</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <E_MAIL>cfi.registry@curia.europa.eu</E_MAIL>
+               <FAX>+352 4303-2100</FAX>
+               <URL>http://curia.europa.eu/</URL>
+            </ADDRESS_REVIEW_BODY>
+            <DATE_DISPATCH_NOTICE>2017-12-08</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F03_2014>
+      <F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="RO">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Frontex</OFFICIALNAME>
+               <ADDRESS>Plac Europejski 6</ADDRESS>
+               <TOWN>Warsaw</TOWN>
+               <POSTAL_CODE>00-844</POSTAL_CODE>
+               <COUNTRY VALUE="PL"/>
+               <PHONE>+48 222059500</PHONE>
+               <E_MAIL>procurement@frontex.europa.eu</E_MAIL>
+               <FAX>+48 222059501</FAX>
+               <n2016:NUTS CODE="PL"/>
+               <URL_GENERAL>http://www.frontex.europa.eu</URL_GENERAL>
+            </ADDRESS_CONTRACTING_BODY>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Contract-cadru cu reluare a competiției pentru livrări de echipamente TIC, de piese de schimb și de accesorii</P>
+            </TITLE>
+            <REFERENCE_NUMBER>Frontex/OP/238/2017/KM</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="30230000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SUPPLIES"/>
+            <SHORT_DESCR>
+               <P>Contract-cadru cu reluare a competiției pentru livrări de echipamente TIC, de piese de schimb și de accesorii.</P>
+            </SHORT_DESCR>
+            <VAL_TOTAL CURRENCY="EUR">2000000.00</VAL_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <n2016:NUTS CODE="PL"/>
+               <SHORT_DESCR>
+                  <P>Contract-cadru cu reluare a competiției pentru livrări de echipamente TIC, de piese de schimb și de accesorii.</P>
+               </SHORT_DESCR>
+               <AC_QUALITY>
+                  <AC_CRITERION>Astfel cum se indică în caietul de sarcini al licitației</AC_CRITERION>
+                  <AC_WEIGHTING>30</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_PRICE>
+                  <AC_WEIGHTING>70</AC_WEIGHTING>
+               </AC_PRICE>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <FRAMEWORK/>
+            <NO_CONTRACT_COVERED_GPA/>
+            <NOTICE_NUMBER_OJ>2017/S 126-255692</NOTICE_NUMBER_OJ>
+         </PROCEDURE>
+         <AWARD_CONTRACT ITEM="1">
+            <CONTRACT_NO>FRONTEX/OP/238/2017/KM</CONTRACT_NO>
+            <TITLE>
+               <P>Contract-cadru cu reluare a competiției pentru livrări de echipamente TIC, de piese de schimb și de accesorii</P>
+            </TITLE>
+            <AWARDED_CONTRACT>
+               <DATE_CONCLUSION_CONTRACT>2017-11-22</DATE_CONCLUSION_CONTRACT>
+               <NB_TENDERS_RECEIVED>4</NB_TENDERS_RECEIVED>
+               <AWARDED_TO_GROUP/>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>Uni Business Centre BV</OFFICIALNAME>
+                     <ADDRESS>Zekeringstraat 9a</ADDRESS>
+                     <TOWN>Amsterdam</TOWN>
+                     <POSTAL_CODE>1014BM</POSTAL_CODE>
+                     <COUNTRY VALUE="NL"/>
+                     <n2016:NUTS CODE="NL"/>
+                  </ADDRESS_CONTRACTOR>
+                  <SME/>
+               </CONTRACTOR>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>Nextis services s.r.o.</OFFICIALNAME>
+                     <ADDRESS>Krmelinska 934/4</ADDRESS>
+                     <TOWN>Ostrava</TOWN>
+                     <POSTAL_CODE>720 00</POSTAL_CODE>
+                     <COUNTRY VALUE="CZ"/>
+                     <n2016:NUTS CODE="CZ"/>
+                  </ADDRESS_CONTRACTOR>
+                  <SME/>
+               </CONTRACTOR>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>AutoCont CZ a.s.</OFFICIALNAME>
+                     <ADDRESS>Hornopolni 3322/34</ADDRESS>
+                     <TOWN>Ostrava</TOWN>
+                     <POSTAL_CODE>702 00</POSTAL_CODE>
+                     <COUNTRY VALUE="CZ"/>
+                     <n2016:NUTS CODE="CZ"/>
+                  </ADDRESS_CONTRACTOR>
+                  <SME/>
+               </CONTRACTOR>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>Bechtle direct Polska sp z oo</OFFICIALNAME>
+                     <ADDRESS>Krakowska 119</ADDRESS>
+                     <TOWN>Wroclaw</TOWN>
+                     <POSTAL_CODE>50-428</POSTAL_CODE>
+                     <COUNTRY VALUE="PL"/>
+                     <n2016:NUTS CODE="PL"/>
+                  </ADDRESS_CONTRACTOR>
+                  <SME/>
+               </CONTRACTOR>
+               <VAL_ESTIMATED_TOTAL CURRENCY="EUR">2000000.00</VAL_ESTIMATED_TOTAL>
+               <VAL_TOTAL CURRENCY="EUR">2000000.00</VAL_TOTAL>
+            </AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <COMPLEMENTARY_INFO>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Tribunalul</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <E_MAIL>cfi.registry@curia.europa.eu</E_MAIL>
+               <FAX>+352 4303-2100</FAX>
+               <URL>http://curia.europa.eu/</URL>
+            </ADDRESS_REVIEW_BODY>
+            <DATE_DISPATCH_NOTICE>2017-12-08</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F03_2014>
+      <F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="HR">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Frontex</OFFICIALNAME>
+               <ADDRESS>Plac Europejski 6</ADDRESS>
+               <TOWN>Warsaw</TOWN>
+               <POSTAL_CODE>00-844</POSTAL_CODE>
+               <COUNTRY VALUE="PL"/>
+               <PHONE>+48 222059500</PHONE>
+               <E_MAIL>procurement@frontex.europa.eu</E_MAIL>
+               <FAX>+48 222059501</FAX>
+               <n2016:NUTS CODE="PL"/>
+               <URL_GENERAL>http://www.frontex.europa.eu</URL_GENERAL>
+            </ADDRESS_CONTRACTING_BODY>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Okvirni ugovor s ponovnim otvaranjem nadmetanja za isporuku opreme ICT-a, rezervnih dijelova i pribora</P>
+            </TITLE>
+            <REFERENCE_NUMBER>Frontex/OP/238/2017/KM</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="30230000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SUPPLIES"/>
+            <SHORT_DESCR>
+               <P>Okvirni ugovor s ponovnim otvaranjem nadmetanja za isporuku opreme ICT-a, rezervnih dijelova i pribora.</P>
+            </SHORT_DESCR>
+            <VAL_TOTAL CURRENCY="EUR">2000000.00</VAL_TOTAL>
+            <NO_LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <n2016:NUTS CODE="PL"/>
+               <SHORT_DESCR>
+                  <P>Okvirni ugovor s ponovnim otvaranjem nadmetanja za isporuku opreme ICT-a, rezervnih dijelova i pribora.</P>
+               </SHORT_DESCR>
+               <AC_QUALITY>
+                  <AC_CRITERION>Kako je navedeno u uputama za nadmetanje</AC_CRITERION>
+                  <AC_WEIGHTING>30</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_PRICE>
+                  <AC_WEIGHTING>70</AC_WEIGHTING>
+               </AC_PRICE>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <FRAMEWORK/>
+            <NO_CONTRACT_COVERED_GPA/>
+            <NOTICE_NUMBER_OJ>2017/S 126-255692</NOTICE_NUMBER_OJ>
+         </PROCEDURE>
+         <AWARD_CONTRACT ITEM="1">
+            <CONTRACT_NO>FRONTEX/OP/238/2017/KM</CONTRACT_NO>
+            <TITLE>
+               <P>Okvirni ugovor s ponovnim otvaranjem nadmetanja za isporuku opreme ICT-a, rezervnih dijelova i pribora</P>
+            </TITLE>
+            <AWARDED_CONTRACT>
+               <DATE_CONCLUSION_CONTRACT>2017-11-22</DATE_CONCLUSION_CONTRACT>
+               <NB_TENDERS_RECEIVED>4</NB_TENDERS_RECEIVED>
+               <AWARDED_TO_GROUP/>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>Uni Business Centre BV</OFFICIALNAME>
+                     <ADDRESS>Zekeringstraat 9a</ADDRESS>
+                     <TOWN>Amsterdam</TOWN>
+                     <POSTAL_CODE>1014BM</POSTAL_CODE>
+                     <COUNTRY VALUE="NL"/>
+                     <n2016:NUTS CODE="NL"/>
+                  </ADDRESS_CONTRACTOR>
+                  <SME/>
+               </CONTRACTOR>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>Nextis services s.r.o.</OFFICIALNAME>
+                     <ADDRESS>Krmelinska 934/4</ADDRESS>
+                     <TOWN>Ostrava</TOWN>
+                     <POSTAL_CODE>720 00</POSTAL_CODE>
+                     <COUNTRY VALUE="CZ"/>
+                     <n2016:NUTS CODE="CZ"/>
+                  </ADDRESS_CONTRACTOR>
+                  <SME/>
+               </CONTRACTOR>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>AutoCont CZ a.s.</OFFICIALNAME>
+                     <ADDRESS>Hornopolni 3322/34</ADDRESS>
+                     <TOWN>Ostrava</TOWN>
+                     <POSTAL_CODE>702 00</POSTAL_CODE>
+                     <COUNTRY VALUE="CZ"/>
+                     <n2016:NUTS CODE="CZ"/>
+                  </ADDRESS_CONTRACTOR>
+                  <SME/>
+               </CONTRACTOR>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>Bechtle direct Polska sp z oo</OFFICIALNAME>
+                     <ADDRESS>Krakowska 119</ADDRESS>
+                     <TOWN>Wroclaw</TOWN>
+                     <POSTAL_CODE>50-428</POSTAL_CODE>
+                     <COUNTRY VALUE="PL"/>
+                     <n2016:NUTS CODE="PL"/>
+                  </ADDRESS_CONTRACTOR>
+                  <SME/>
+               </CONTRACTOR>
+               <VAL_ESTIMATED_TOTAL CURRENCY="EUR">2000000.00</VAL_ESTIMATED_TOTAL>
+               <VAL_TOTAL CURRENCY="EUR">2000000.00</VAL_TOTAL>
+            </AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <COMPLEMENTARY_INFO>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Opći sud</OFFICIALNAME>
+               <ADDRESS>Rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>L-2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <E_MAIL>cfi.registry@curia.europa.eu</E_MAIL>
+               <FAX>+352 4303-2100</FAX>
+               <URL>http://curia.europa.eu/</URL>
+            </ADDRESS_REVIEW_BODY>
+            <DATE_DISPATCH_NOTICE>2017-12-08</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F03_2014>
+   </FORM_SECTION>
+</TED_EXPORT>

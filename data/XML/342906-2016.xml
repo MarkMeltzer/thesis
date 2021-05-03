@@ -1,0 +1,4192 @@
+<?xml version="1.0" encoding="UTF-8"?><TED_EXPORT xmlns="http://formex.publications.europa.eu/ted/schema/export/R2.0.9.S01.E01" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" VERSION="R2.0.9.S01.E01" xsi:schemaLocation="http://formex.publications.europa.eu/ted/schema/export/R2.0.9.S01.E01 TED_EXPORT.xsd" DOC_ID="342906-2016" EDITION="2016191">
+<TECHNICAL_SECTION>
+<RECEPTION_ID>16-354671-001</RECEPTION_ID>
+<DELETION_DATE>20161231</DELETION_DATE>
+<FORM_LG_LIST>DA DE EN ES FI FR EL IT NL PT SV CS ET HU LT LV MT PL SK SL GA BG RO HR </FORM_LG_LIST>
+<COMMENTS>From Convertor</COMMENTS>
+</TECHNICAL_SECTION>
+<LINKS_SECTION>
+<XML_SCHEMA_DEFINITION_LINK xlink:title="TED WEBSITE" xlink:href="http://ted.europa.eu" xlink:type="simple"/>
+<OFFICIAL_FORMS_LINK xlink:href="http://ted.europa.eu" xlink:type="simple"/>
+<FORMS_LABELS_LINK xlink:href="http://ted.europa.eu" xlink:type="simple"/>
+<ORIGINAL_CPV_LINK xlink:href="http://ted.europa.eu" xlink:type="simple"/>
+<ORIGINAL_NUTS_LINK xlink:href="http://ted.europa.eu" xlink:type="simple"/>
+</LINKS_SECTION>
+<CODED_DATA_SECTION>
+<REF_OJS>
+<COLL_OJ>S</COLL_OJ>
+<NO_OJ>191</NO_OJ>
+<DATE_PUB>20161004</DATE_PUB>
+</REF_OJS>
+<NOTICE_DATA>
+<NO_DOC_OJS>2016/S 191-342906</NO_DOC_OJS>
+<URI_LIST>
+<URI_DOC LG="DA">http://ted.europa.eu/udl?uri=TED:NOTICE:342906-2016:TEXT:DA:HTML</URI_DOC>
+<URI_DOC LG="DE">http://ted.europa.eu/udl?uri=TED:NOTICE:342906-2016:TEXT:DE:HTML</URI_DOC>
+<URI_DOC LG="EN">http://ted.europa.eu/udl?uri=TED:NOTICE:342906-2016:TEXT:EN:HTML</URI_DOC>
+<URI_DOC LG="ES">http://ted.europa.eu/udl?uri=TED:NOTICE:342906-2016:TEXT:ES:HTML</URI_DOC>
+<URI_DOC LG="FI">http://ted.europa.eu/udl?uri=TED:NOTICE:342906-2016:TEXT:FI:HTML</URI_DOC>
+<URI_DOC LG="FR">http://ted.europa.eu/udl?uri=TED:NOTICE:342906-2016:TEXT:FR:HTML</URI_DOC>
+<URI_DOC LG="EL">http://ted.europa.eu/udl?uri=TED:NOTICE:342906-2016:TEXT:EL:HTML</URI_DOC>
+<URI_DOC LG="IT">http://ted.europa.eu/udl?uri=TED:NOTICE:342906-2016:TEXT:IT:HTML</URI_DOC>
+<URI_DOC LG="NL">http://ted.europa.eu/udl?uri=TED:NOTICE:342906-2016:TEXT:NL:HTML</URI_DOC>
+<URI_DOC LG="PT">http://ted.europa.eu/udl?uri=TED:NOTICE:342906-2016:TEXT:PT:HTML</URI_DOC>
+<URI_DOC LG="SV">http://ted.europa.eu/udl?uri=TED:NOTICE:342906-2016:TEXT:SV:HTML</URI_DOC>
+<URI_DOC LG="CS">http://ted.europa.eu/udl?uri=TED:NOTICE:342906-2016:TEXT:CS:HTML</URI_DOC>
+<URI_DOC LG="ET">http://ted.europa.eu/udl?uri=TED:NOTICE:342906-2016:TEXT:ET:HTML</URI_DOC>
+<URI_DOC LG="HU">http://ted.europa.eu/udl?uri=TED:NOTICE:342906-2016:TEXT:HU:HTML</URI_DOC>
+<URI_DOC LG="LT">http://ted.europa.eu/udl?uri=TED:NOTICE:342906-2016:TEXT:LT:HTML</URI_DOC>
+<URI_DOC LG="LV">http://ted.europa.eu/udl?uri=TED:NOTICE:342906-2016:TEXT:LV:HTML</URI_DOC>
+<URI_DOC LG="MT">http://ted.europa.eu/udl?uri=TED:NOTICE:342906-2016:TEXT:MT:HTML</URI_DOC>
+<URI_DOC LG="PL">http://ted.europa.eu/udl?uri=TED:NOTICE:342906-2016:TEXT:PL:HTML</URI_DOC>
+<URI_DOC LG="SK">http://ted.europa.eu/udl?uri=TED:NOTICE:342906-2016:TEXT:SK:HTML</URI_DOC>
+<URI_DOC LG="SL">http://ted.europa.eu/udl?uri=TED:NOTICE:342906-2016:TEXT:SL:HTML</URI_DOC>
+<URI_DOC LG="GA">http://ted.europa.eu/udl?uri=TED:NOTICE:342906-2016:TEXT:GA:HTML</URI_DOC>
+<URI_DOC LG="BG">http://ted.europa.eu/udl?uri=TED:NOTICE:342906-2016:TEXT:BG:HTML</URI_DOC>
+<URI_DOC LG="RO">http://ted.europa.eu/udl?uri=TED:NOTICE:342906-2016:TEXT:RO:HTML</URI_DOC>
+<URI_DOC LG="HR">http://ted.europa.eu/udl?uri=TED:NOTICE:342906-2016:TEXT:HR:HTML</URI_DOC>
+</URI_LIST>
+<LG_ORIG>EN</LG_ORIG>
+<ISO_COUNTRY VALUE="PL"/>
+<IA_URL_GENERAL>http://www.frontex.europa.eu</IA_URL_GENERAL>
+<ORIGINAL_CPV CODE="72000000">IT services: consulting, software development, Internet and support</ORIGINAL_CPV>
+<ORIGINAL_NUTS CODE="PL127">Miasto Warszawa</ORIGINAL_NUTS>
+<CA_CE_NUTS CODE="PL127">Miasto Warszawa</CA_CE_NUTS>
+<TENDERER_NUTS CODE="CZ010">Hlavní město Praha</TENDERER_NUTS>
+<TENDERER_NUTS CODE="PL127">Miasto Warszawa</TENDERER_NUTS>
+<TENDERER_NUTS CODE="PL514">Miasto Wrocław</TENDERER_NUTS>
+<VALUES>
+<VALUE TYPE="PROCUREMENT_TOTAL" CURRENCY="EUR">2650000.00</VALUE>
+</VALUES>
+<REF_NOTICE>
+<NO_DOC_OJS>2016/S 085-149362</NO_DOC_OJS>
+</REF_NOTICE>
+</NOTICE_DATA>
+<CODIF_DATA>
+<DS_DATE_DISPATCH>20160922</DS_DATE_DISPATCH>
+<AA_AUTHORITY_TYPE CODE="5">European Institution/Agency or International Organisation</AA_AUTHORITY_TYPE>
+<TD_DOCUMENT_TYPE CODE="7">Contract award notice</TD_DOCUMENT_TYPE>
+<NC_CONTRACT_NATURE CODE="4">Services</NC_CONTRACT_NATURE>
+<PR_PROC CODE="1">Open procedure</PR_PROC>
+<RP_REGULATION CODE="3">European Institution/Agency or International Organisation</RP_REGULATION>
+<TY_TYPE_BID CODE="9">Not applicable</TY_TYPE_BID>
+<AC_AWARD_CRIT CODE="2">The most economic tender</AC_AWARD_CRIT>
+<MA_MAIN_ACTIVITIES CODE="S">General public services</MA_MAIN_ACTIVITIES>
+<HEADING>AGC03</HEADING>
+<INITIATOR>AG</INITIATOR>
+<DIRECTIVE VALUE="2014/24/EU"/>
+</CODIF_DATA>
+</CODED_DATA_SECTION>
+<TRANSLATION_SECTION>
+<ML_TITLES>
+<ML_TI_DOC LG="DA">
+<TI_CY>Polen</TI_CY>
+<TI_TOWN>Warszawa</TI_TOWN>
+<TI_TEXT>
+<P>Multipel rammekontrakt med genåbning af konkurrence vedrørende levering af SharePoint-relaterede tjenester</P>
+</TI_TEXT>
+</ML_TI_DOC>
+<ML_TI_DOC LG="DE">
+<TI_CY>Polen</TI_CY>
+<TI_TOWN>Warschau</TI_TOWN>
+<TI_TEXT>
+<P>Mehrfachrahmenvertrag mit erneutem Aufruf zum Wettbewerb über Dienstleistungen im Zusammenhang mit SharePoint</P>
+</TI_TEXT>
+</ML_TI_DOC>
+<ML_TI_DOC LG="EN">
+<TI_CY>Poland</TI_CY>
+<TI_TOWN>Warsaw</TI_TOWN>
+<TI_TEXT>
+<P>Multiple framework contract with reopening of competition for the provision of SharePoint-related services</P>
+</TI_TEXT>
+</ML_TI_DOC>
+<ML_TI_DOC LG="ES">
+<TI_CY>Polonia</TI_CY>
+<TI_TOWN>Varsovia</TI_TOWN>
+<TI_TEXT>
+<P>Contrato marco múltiple con reapertura de concurso para la prestación de servicios relacionados con SharePoint</P>
+</TI_TEXT>
+</ML_TI_DOC>
+<ML_TI_DOC LG="FI">
+<TI_CY>Puola</TI_CY>
+<TI_TOWN>Varsova</TI_TOWN>
+<TI_TEXT>
+<P>Uudelleenkäynnistetyn kilpailun avulla tehtävä rinnakkainen puitesopimus SharePoint-ohjelmistoon liittyvien palvelujen toimittamisesta</P>
+</TI_TEXT>
+</ML_TI_DOC>
+<ML_TI_DOC LG="FR">
+<TI_CY>Pologne</TI_CY>
+<TI_TOWN>Varsovie</TI_TOWN>
+<TI_TEXT>
+<P>Contrat-cadre multiple avec remise en concurrence pour la prestation de services SharePoint</P>
+</TI_TEXT>
+</ML_TI_DOC>
+<ML_TI_DOC LG="EL">
+<TI_CY>Πολωνία</TI_CY>
+<TI_TOWN>Βαρσοβία</TI_TOWN>
+<TI_TEXT>
+<P>Πολλαπλή σύμβαση-πλαίσιο με επανέναρξη του διαγωνισμού για την παροχή υπηρεσιών σχετικών με την τεχνολογία SharePoint</P>
+</TI_TEXT>
+</ML_TI_DOC>
+<ML_TI_DOC LG="IT">
+<TI_CY>Polonia</TI_CY>
+<TI_TOWN>Varsavia</TI_TOWN>
+<TI_TEXT>
+<P>Contratto quadro multiplo con riapertura della gara per la prestazione di servizi connessi a Share-Point</P>
+</TI_TEXT>
+</ML_TI_DOC>
+<ML_TI_DOC LG="NL">
+<TI_CY>Polen</TI_CY>
+<TI_TOWN>Warschau</TI_TOWN>
+<TI_TEXT>
+<P>Meervoudige raamovereenkomst met heropening van mededinging voor de verlening van diensten in verband met SharePoint</P>
+</TI_TEXT>
+</ML_TI_DOC>
+<ML_TI_DOC LG="PT">
+<TI_CY>Polónia</TI_CY>
+<TI_TOWN>Varsóvia</TI_TOWN>
+<TI_TEXT>
+<P>Contrato-quadro múltiplo, com reabertura de concurso, para a prestação de serviços relacionados com SharePoint</P>
+</TI_TEXT>
+</ML_TI_DOC>
+<ML_TI_DOC LG="SV">
+<TI_CY>Polen</TI_CY>
+<TI_TOWN>Warszawa</TI_TOWN>
+<TI_TEXT>
+<P>Multipelt ramavtal med förnyad inbjudan att lämna anbud för tillhandahållande av tjänster med anknytning till SharePoint</P>
+</TI_TEXT>
+</ML_TI_DOC>
+<ML_TI_DOC LG="CS">
+<TI_CY>Polsko</TI_CY>
+<TI_TOWN>Varšava</TI_TOWN>
+<TI_TEXT>
+<P>Vícestranná rámcová smlouva s opětným otevřením soutěže na poskytování služeb souvisejících s programem SharePoint</P>
+</TI_TEXT>
+</ML_TI_DOC>
+<ML_TI_DOC LG="ET">
+<TI_CY>Poola</TI_CY>
+<TI_TOWN>Varssavi</TI_TOWN>
+<TI_TEXT>
+<P>SharePoint-teenuste mitmekordne raamleping konkursi taasalgatamisega</P>
+</TI_TEXT>
+</ML_TI_DOC>
+<ML_TI_DOC LG="HU">
+<TI_CY>Lengyelország</TI_CY>
+<TI_TOWN>Varsó</TI_TOWN>
+<TI_TEXT>
+<P>Verseny ismételt meghirdetésével elindított, több féllel kötött keretszerződés SharePoint-hoz kapcsolódó szolgáltatások nyújtására irányulóan</P>
+</TI_TEXT>
+</ML_TI_DOC>
+<ML_TI_DOC LG="LT">
+<TI_CY>Lenkija</TI_CY>
+<TI_TOWN>Varšuva</TI_TOWN>
+<TI_TEXT>
+<P>Preliminarioji sutartis su keliais tiekėjais pakartotinai skelbiant konkursą dėl su „SharePoint“ susijusių paslaugų teikimo</P>
+</TI_TEXT>
+</ML_TI_DOC>
+<ML_TI_DOC LG="LV">
+<TI_CY>Polija</TI_CY>
+<TI_TOWN>Varšava</TI_TOWN>
+<TI_TEXT>
+<P>Vairākkārtējs pamatnolīgums ar atkārtotu konkursa izsludināšanu par pakalpojumiem saistībā ar SharePoint</P>
+</TI_TEXT>
+</ML_TI_DOC>
+<ML_TI_DOC LG="MT">
+<TI_CY>il-Polonja</TI_CY>
+<TI_TOWN>Varsavja</TI_TOWN>
+<TI_TEXT>
+<P>Qafas ta' kuntratt multiplu bil-ftuħ mill-ġdid ta' kompetizzjoni għall-provvista ta' servizzi marbutin ma' SharePoint</P>
+</TI_TEXT>
+</ML_TI_DOC>
+<ML_TI_DOC LG="PL">
+<TI_CY>Polska</TI_CY>
+<TI_TOWN>Warszawa</TI_TOWN>
+<TI_TEXT>
+<P>Wielokrotna umowa ramowa z odnowieniem konkurencji o usługi związane z technologią SharePoint</P>
+</TI_TEXT>
+</ML_TI_DOC>
+<ML_TI_DOC LG="SK">
+<TI_CY>Poľsko</TI_CY>
+<TI_TOWN>Varšava</TI_TOWN>
+<TI_TEXT>
+<P>Viacnásobná rámcová zmluva s obnovením súťaže na poskytovanie služieb týkajúcich sa SharePoint</P>
+</TI_TEXT>
+</ML_TI_DOC>
+<ML_TI_DOC LG="SL">
+<TI_CY>Poljska</TI_CY>
+<TI_TOWN>Varšava</TI_TOWN>
+<TI_TEXT>
+<P>Večkratno okvirno naročilo s ponovnim odpiranjem konkurence za zagotavljanje storitev, povezanih s tehnologijo SharePoint</P>
+</TI_TEXT>
+</ML_TI_DOC>
+<ML_TI_DOC LG="GA">
+<TI_CY>Pholainn, an</TI_CY>
+<TI_TOWN>Vársá</TI_TOWN>
+<TI_TEXT>
+<P>Conradh ilchreatlaí le comórtas athoscailte le haghaidh seirbhísí a bhaineann le SharePoint a chur ar fáil</P>
+</TI_TEXT>
+</ML_TI_DOC>
+<ML_TI_DOC LG="BG">
+<TI_CY>Полша</TI_CY>
+<TI_TOWN>Варшава</TI_TOWN>
+<TI_TEXT>
+<P>Многостранен рамков договор с повторно стартиране на конкурс за предоставяне на свързани с SharePoint услуги</P>
+</TI_TEXT>
+</ML_TI_DOC>
+<ML_TI_DOC LG="RO">
+<TI_CY>Polonia</TI_CY>
+<TI_TOWN>Varșovia</TI_TOWN>
+<TI_TEXT>
+<P>Contract-cadru multiplu cu reluare a procedurii concurențiale pentru prestarea de servicii legate de SharePoint</P>
+</TI_TEXT>
+</ML_TI_DOC>
+<ML_TI_DOC LG="HR">
+<TI_CY>Poljska</TI_CY>
+<TI_TOWN>Varšava</TI_TOWN>
+<TI_TEXT>
+<P>Višestruki okvirni ugovor s ponovnim pokretanjem nadmetanja za pružanje usluga povezanih s tehnologijom SharePoint</P>
+</TI_TEXT>
+</ML_TI_DOC>
+</ML_TITLES>
+<ML_AA_NAMES>
+<AA_NAME LG="DA">Det Europæiske Agentur for Forvaltning af det Operative Samarbejde ved EU-medlemsstaternes Ydre Grænser — Frontex</AA_NAME>
+<AA_NAME LG="DE">Europäische Agentur für die operative Zusammenarbeit an den Außengrenzen der Mitgliedstaaten der Europäischen Union — Frontex</AA_NAME>
+<AA_NAME LG="EN">European Agency for the Management of Operational Cooperation at the External Borders of the Member States of the European Union — Frontex</AA_NAME>
+<AA_NAME LG="ES">Agencia Europea para la Gestión de la Cooperación Operativa en las Fronteras Exteriores de los Estados miembros de la Unión Europea (Frontex)</AA_NAME>
+<AA_NAME LG="FI">Euroopan unionin jäsenvaltioiden operatiivisesta ulkorajayhteistyöstä huolehtiva virasto – Frontex</AA_NAME>
+<AA_NAME LG="FR">Agence européenne pour la gestion de la coopération opérationnelle aux frontières extérieures des États membres de l'Union européenne — Frontex</AA_NAME>
+<AA_NAME LG="EL">Ευρωπαϊκός Οργανισμός για τη Διαχείριση της Επιχειρησιακής Συνεργασίας στα Εξωτερικά Σύνορα των Κρατών Μελών της Ευρωπαϊκής Ένωσης — Frontex</AA_NAME>
+<AA_NAME LG="IT">Agenzia europea per la gestione della cooperazione operativa alle frontiere esterne degli Stati membri dell'Unione europea — Frontex</AA_NAME>
+<AA_NAME LG="NL">Europees Agentschap voor het beheer van de operationele samenwerking aan de buitengrenzen van de lidstaten van de Europese Unie — Frontex</AA_NAME>
+<AA_NAME LG="PT">Agência Europeia de Gestão da Cooperação Operacional nas Fronteiras Externas dos Estados-Membros da União Europeia — Frontex</AA_NAME>
+<AA_NAME LG="SV">Europeiska byrån för förvaltningen av det operativa samarbetet vid Europeiska unionens medlemsstaters yttre gränser – Frontex</AA_NAME>
+<AA_NAME LG="CS">Evropská agentura pro řízení operativní spolupráce na vnějších hranicích členských států Evropské unie – Frontex</AA_NAME>
+<AA_NAME LG="ET">Euroopa Liidu Liikmesriikide Välispiiril Tehtava Operatiivkoostöö Juhtimise Euroopa Agentuur – Frontex</AA_NAME>
+<AA_NAME LG="HU">Az Európai Unió Tagállamai Külső Határain Való Operatív Együttműködési Igazgatásért Felelős Európai Ügynökség — Frontex</AA_NAME>
+<AA_NAME LG="LT">Europos operatyvaus bendradarbiavimo prie Europos Sąjungos valstybių narių išorės sienų valdymo agentūra – Frontex</AA_NAME>
+<AA_NAME LG="LV">Eiropas Aģentūra operatīvās sadarbības vadībai pie Eiropas Savienības dalībvalstu ārējām robežām – Frontex</AA_NAME>
+<AA_NAME LG="MT">L-Aġenzija Ewropea għall-Immaniġġjar ta' Kooperazzjoni Operattiva fil-Fruntieri Barranin tal-Istati Membri tal-Unjoni Ewropea — Frontex</AA_NAME>
+<AA_NAME LG="PL">Europejska Agencja Zarządzania Współpracą Operacyjną na Zewnętrznych Granicach Państw Członkowskich Unii Europejskiej – Frontex</AA_NAME>
+<AA_NAME LG="SK">Európska agentúra pre riadenie operačnej spolupráce na vonkajších hraniciach členských štátov Európskej únie – Frontex</AA_NAME>
+<AA_NAME LG="SL">Evropska agencija za upravljanje operativnega sodelovanja na zunanjih mejah držav članic Evropske unije – Frontex</AA_NAME>
+<AA_NAME LG="GA">An Ghníomhaireacht Eorpach chun Comhar Oibríochtúil a Bhainistiú ag Teorainneacha Seachtracha Bhallstáit an Aontais Eorpaigh — Frontex</AA_NAME>
+<AA_NAME LG="BG">Европейска агенция за управление на оперативното сътрудничество по външните граници на държавите-членки на Европейския съюз – Frontex</AA_NAME>
+<AA_NAME LG="RO">Agenția Europeană pentru Gestionarea Cooperării Operative la Frontierele Externe ale Statelor Membre ale Uniunii Europene – Frontex</AA_NAME>
+<AA_NAME LG="HR">Europska agencija za upravljanje operativnom suradnjom na vanjskim granicama država članica Europske unije — Frontex</AA_NAME>
+</ML_AA_NAMES>
+</TRANSLATION_SECTION>
+<FORM_SECTION>
+<F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="DA">
+<CONTRACTING_BODY>
+<ADDRESS_CONTRACTING_BODY>
+<OFFICIALNAME>Det Europæiske Agentur for Forvaltning af det Operative Samarbejde ved EU-medlemsstaternes Ydre Grænser — Frontex</OFFICIALNAME>
+<ADDRESS>Plac Europejski 6</ADDRESS>
+<TOWN>Warsaw</TOWN>
+<POSTAL_CODE>00-844</POSTAL_CODE>
+<COUNTRY VALUE="PL"/>
+<CONTACT_POINT>Frontex Procurement Sector</CONTACT_POINT>
+<PHONE>+48 222059500</PHONE>
+<E_MAIL>procurement@frontex.europa.eu</E_MAIL>
+<FAX>+48 222059501</FAX>
+<NUTS CODE="PL127"/>
+<URL_GENERAL>http://www.frontex.europa.eu</URL_GENERAL>
+</ADDRESS_CONTRACTING_BODY>
+<CA_TYPE VALUE="EU_INSTITUTION"/>
+<CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+</CONTRACTING_BODY>
+<OBJECT_CONTRACT>
+<TITLE>
+<P>Multipel rammekontrakt med genåbning af konkurrence vedrørende levering af SharePoint-relaterede tjenester.</P>
+</TITLE>
+<REFERENCE_NUMBER>Frontex/OP/131/2016/AH.</REFERENCE_NUMBER>
+<CPV_MAIN>
+<CPV_CODE CODE="72000000"/>
+</CPV_MAIN>
+<TYPE_CONTRACT CTYPE="SERVICES"/>
+<SHORT_DESCR>
+<P>Kontrakten omfatter levering af ikt-tjenester i SharePoint-teknologi.</P>
+</SHORT_DESCR>
+<VAL_TOTAL CURRENCY="EUR">2650000.00</VAL_TOTAL>
+<NO_LOT_DIVISION/>
+<OBJECT_DESCR ITEM="1">
+<NUTS CODE="PL127"/>
+<MAIN_SITE>
+<P>Frontex' lokaler, Warszawa, Polen.</P>
+</MAIN_SITE>
+<SHORT_DESCR>
+<P>Denne kontrakt (rammekontrakt med genåbning af konkurrence, der er indgået med 3 økonomiske aktører) skal betragtes som en kilde til basistjenester relateret til SP-platformen inden for rammerne af opgaverne på grundlag af tid og ressourcer (times and means – T&amp;M) eller angivne tider og angivne ressourcer (quoted times and means – QT&amp;M) eller opgaver til fast pris. I modsætning til andre specifikke løsningsorienterede og produktorienterede kontrakter (f.eks. intranet baseret på COTS, dokumentforvaltningssystemer (DMS)) skal denne kontrakt opfylde Frontex' behov vedrørende kundetilpassede programløsninger og vedligeholdelse af den eksisterende platform. Kontrakten skal forstås i bred betydning med henvisning til alle faser af softwarens livscyklus og tekniske områder inden for softwareudvikling. Derfor kan kontrakten omfatte typisk softwareudvikling samt vedligeholdelse af eksisterende platforme og løsninger, refactoring, justering osv.</P>
+<P>Fra et teknologisk synspunkt fokuserer denne kontrakt på SP, eventuelle fremtidige versioner af denne platform samt løsninger, der bygger på platformen, og grænseflader forbinder den sammen med andre softwareløsninger, som anvendes af Frontex.</P>
+</SHORT_DESCR>
+<AC_QUALITY>
+<AC_CRITERION>Kvalitetssikring af specifikke kontrakter i forbindelse med tid og ressourcer eller angivne tider og angivne ressourcer </AC_CRITERION>
+<AC_WEIGHTING>20 point</AC_WEIGHTING>
+</AC_QUALITY>
+<AC_QUALITY>
+<AC_CRITERION>Støtte på 3. niveau</AC_CRITERION>
+<AC_WEIGHTING>15 point</AC_WEIGHTING>
+</AC_QUALITY>
+<AC_QUALITY>
+<AC_CRITERION>Tilgang til konfigurationsforvaltning og testning</AC_CRITERION>
+<AC_WEIGHTING>15 point</AC_WEIGHTING>
+</AC_QUALITY>
+<AC_QUALITY>
+<AC_CRITERION>Udkast til dokument for virksomheds- og systemkrav (business and system requirement documents – BRD/SRS) for det hypotetiske scenarie</AC_CRITERION>
+<AC_WEIGHTING>15 point</AC_WEIGHTING>
+</AC_QUALITY>
+<AC_QUALITY>
+<AC_CRITERION>Udkast til dokument for teknisk udformning (technical design document – TDD) vedrørende det hypotetiske scenarie</AC_CRITERION>
+<AC_WEIGHTING>15 point</AC_WEIGHTING>
+</AC_QUALITY>
+<AC_QUALITY>
+<AC_CRITERION>Overordnet tidsplan til projektet vedrørende det hypotetiske scenarie</AC_CRITERION>
+<AC_WEIGHTING>10 point</AC_WEIGHTING>
+</AC_QUALITY>
+<AC_QUALITY>
+<AC_CRITERION>Beskrivelse af risici og risikonedbringelser vedrørende det hypotetiske scenarie</AC_CRITERION>
+<AC_WEIGHTING>10 point</AC_WEIGHTING>
+</AC_QUALITY>
+<AC_PRICE>
+<AC_WEIGHTING>40 %</AC_WEIGHTING>
+</AC_PRICE>
+<NO_OPTIONS/>
+<NO_EU_PROGR_RELATED/>
+</OBJECT_DESCR>
+</OBJECT_CONTRACT>
+<PROCEDURE>
+<PT_OPEN/>
+<FRAMEWORK/>
+<NO_CONTRACT_COVERED_GPA/>
+<NOTICE_NUMBER_OJ>2016/S 085-149362</NOTICE_NUMBER_OJ>
+</PROCEDURE>
+<AWARD_CONTRACT ITEM="1">
+<CONTRACT_NO>Frontex/OP/131/2016/AH (BoldBrick)</CONTRACT_NO>
+<TITLE>
+<P>Multipel rammekontrakt med genåbning af konkurrence vedrørende levering af SharePoint-relaterede tjenester</P>
+</TITLE>
+<AWARDED_CONTRACT>
+<DATE_CONCLUSION_CONTRACT>2016-09-01</DATE_CONCLUSION_CONTRACT>
+<NB_TENDERS_RECEIVED>5</NB_TENDERS_RECEIVED>
+<NO_AWARDED_TO_GROUP/>
+<CONTRACTOR>
+<ADDRESS_CONTRACTOR>
+<OFFICIALNAME>BoldBrick s.r.o.</OFFICIALNAME>
+<TOWN>Prague</TOWN>
+<COUNTRY VALUE="CZ"/>
+<NUTS CODE="CZ010"/>
+</ADDRESS_CONTRACTOR>
+<NO_SME/>
+</CONTRACTOR>
+<VAL_TOTAL CURRENCY="EUR">2650000.00</VAL_TOTAL>
+</AWARDED_CONTRACT>
+</AWARD_CONTRACT>
+<AWARD_CONTRACT ITEM="2">
+<CONTRACT_NO>Frontex/OP/131/2016/AH (Fabrity)</CONTRACT_NO>
+<TITLE>
+<P>Multipel rammekontrakt med genåbning af konkurrence vedrørende levering af SharePoint-relaterede tjenester</P>
+</TITLE>
+<AWARDED_CONTRACT>
+<DATE_CONCLUSION_CONTRACT>2016-09-01</DATE_CONCLUSION_CONTRACT>
+<NB_TENDERS_RECEIVED>5</NB_TENDERS_RECEIVED>
+<NO_AWARDED_TO_GROUP/>
+<CONTRACTOR>
+<ADDRESS_CONTRACTOR>
+<OFFICIALNAME>Fabrity K2 Sp. z o.o.</OFFICIALNAME>
+<TOWN>Warsaw</TOWN>
+<COUNTRY VALUE="PL"/>
+<NUTS CODE="PL127"/>
+</ADDRESS_CONTRACTOR>
+<NO_SME/>
+</CONTRACTOR>
+<VAL_TOTAL CURRENCY="EUR">2650000.00</VAL_TOTAL>
+</AWARDED_CONTRACT>
+</AWARD_CONTRACT>
+<AWARD_CONTRACT ITEM="3">
+<CONTRACT_NO>Frontex/OP/131/2016/AH (IT-Dev Sp. z o.o.)</CONTRACT_NO>
+<TITLE>
+<P>Multipel rammekontrakt med genåbning af konkurrence vedrørende levering af SharePoint-relaterede tjenester</P>
+</TITLE>
+<AWARDED_CONTRACT>
+<DATE_CONCLUSION_CONTRACT>2016-09-01</DATE_CONCLUSION_CONTRACT>
+<NB_TENDERS_RECEIVED>5</NB_TENDERS_RECEIVED>
+<NO_AWARDED_TO_GROUP/>
+<CONTRACTOR>
+<ADDRESS_CONTRACTOR>
+<OFFICIALNAME>IT-Dev Sp. z o.o.</OFFICIALNAME>
+<TOWN>Wrocław</TOWN>
+<COUNTRY VALUE="PL"/>
+<NUTS CODE="PL514"/>
+</ADDRESS_CONTRACTOR>
+<NO_SME/>
+</CONTRACTOR>
+<VAL_TOTAL CURRENCY="EUR">2650000.00</VAL_TOTAL>
+</AWARDED_CONTRACT>
+</AWARD_CONTRACT>
+<COMPLEMENTARY_INFO>
+<ADDRESS_REVIEW_BODY>
+<OFFICIALNAME>Retten</OFFICIALNAME>
+<ADDRESS>rue du Fort Niedergrünewald</ADDRESS>
+<TOWN>Luxembourg</TOWN>
+<POSTAL_CODE>2925</POSTAL_CODE>
+<COUNTRY VALUE="LU"/>
+<PHONE>+352 4303-1</PHONE>
+<E_MAIL>cfi.registry@curia.europa.eu</E_MAIL>
+<FAX>+352 4303-2100</FAX>
+<URL>http://www.curia.europa.eu</URL>
+</ADDRESS_REVIEW_BODY>
+<REVIEW_PROCEDURE>
+<P>senest 2 måneder efter underrettelsen af klageren eller, i tilfælde af udeblivelse deraf, efter den dag, sagen er taget til efterretning.</P>
+</REVIEW_PROCEDURE>
+<DATE_DISPATCH_NOTICE>2016-09-22</DATE_DISPATCH_NOTICE>
+</COMPLEMENTARY_INFO>
+</F03_2014>
+<F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="DE">
+<CONTRACTING_BODY>
+<ADDRESS_CONTRACTING_BODY>
+<OFFICIALNAME>Europäische Agentur für die operative Zusammenarbeit an den Außengrenzen der Mitgliedstaaten der Europäischen Union — Frontex</OFFICIALNAME>
+<ADDRESS>Plac Europejski 6</ADDRESS>
+<TOWN>Warsaw</TOWN>
+<POSTAL_CODE>00-844</POSTAL_CODE>
+<COUNTRY VALUE="PL"/>
+<CONTACT_POINT>Frontex Procurement Sector</CONTACT_POINT>
+<PHONE>+48 222059500</PHONE>
+<E_MAIL>procurement@frontex.europa.eu</E_MAIL>
+<FAX>+48 222059501</FAX>
+<NUTS CODE="PL127"/>
+<URL_GENERAL>http://www.frontex.europa.eu</URL_GENERAL>
+</ADDRESS_CONTRACTING_BODY>
+<CA_TYPE VALUE="EU_INSTITUTION"/>
+<CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+</CONTRACTING_BODY>
+<OBJECT_CONTRACT>
+<TITLE>
+<P>Mehrfachrahmenvertrag mit erneutem Aufruf zum Wettbewerb über Dienstleistungen im Zusammenhang mit SharePoint.</P>
+</TITLE>
+<REFERENCE_NUMBER>Frontex/OP/131/2016/AH.</REFERENCE_NUMBER>
+<CPV_MAIN>
+<CPV_CODE CODE="72000000"/>
+</CPV_MAIN>
+<TYPE_CONTRACT CTYPE="SERVICES"/>
+<SHORT_DESCR>
+<P>Dieser Auftrag umfasst die Bereitstellung von IKT-Diensten im Zusammenhang mit der SharePoint-Technologie.</P>
+</SHORT_DESCR>
+<VAL_TOTAL CURRENCY="EUR">2650000.00</VAL_TOTAL>
+<NO_LOT_DIVISION/>
+<OBJECT_DESCR ITEM="1">
+<NUTS CODE="PL127"/>
+<MAIN_SITE>
+<P>Räumlichkeiten von Frontex, Warschau, Polen.</P>
+</MAIN_SITE>
+<SHORT_DESCR>
+<P>Dieser Auftrag (mit 3 Wirtschaftsteilnehmern abgeschlossener Rahmenvertrag mit erneutem Aufruf zum Wettbewerb) bildet die Grundlage für allgemeine Dienstleistungen im Zusammenhang mit der SP-Plattform, die im Rahmen von Aufträgen auf Zeit- und Mittelaufwandsbasis, auf Zeit- und Mittelaufwandsbasis gemäß Angebot oder auf Festpreisbasis erbracht werden. Im Gegensatz zu anderen Aufträgen über spezifische Lösungen oder produktorientierten Aufträgen (z. B. Intranet auf COTS-Basis, Dokumentenmanagementsystem) sollen mit diesem Auftrag die Erfordernisse der Frontex hinsichtlich maßgeschneiderter Softwarelösungen und der Wartung der bestehenden Plattform abgedeckt werden. Der Auftrag bezieht sich im weiteren Sinne auf alle Phasen eines Software-Lebenszyklus und alle technischen Bereiche des Software-Engineering. Er kann daher die Entwicklung von typischer Software, die Wartung der bestehenden Plattform und weiterer Lösungen, das Refactoring, Tuning usw. beinhalten.</P>
+<P>In technologischer Hinsicht liegt der Schwerpunkt dieses Auftrags auf SharePoint und etwaigen künftigen Versionen der Plattform sowie auf Lösungen, die auf SharePoint aufbauen, und Schnittstellen, die SharePoint mit anderen Softwarelösungen verbinden, die bei der Frontex im Einsatz sind.</P>
+</SHORT_DESCR>
+<AC_QUALITY>
+<AC_CRITERION>Qualitätssicherung in Bezug auf spezifische Aufträge auf Zeit- und Mittelaufwandsbasis bzw. auf Zeit- und Mittelaufwandsbasis gemäß Angebot</AC_CRITERION>
+<AC_WEIGHTING>20 Punkte</AC_WEIGHTING>
+</AC_QUALITY>
+<AC_QUALITY>
+<AC_CRITERION>Third Level Support</AC_CRITERION>
+<AC_WEIGHTING>15 Punkte</AC_WEIGHTING>
+</AC_QUALITY>
+<AC_QUALITY>
+<AC_CRITERION>Konzept für Konfigurationsmanagement und Erprobung</AC_CRITERION>
+<AC_WEIGHTING>15 Punkte</AC_WEIGHTING>
+</AC_QUALITY>
+<AC_QUALITY>
+<AC_CRITERION>Entwurf der Dokumentation über betriebliche und Systemanforderungen in Bezug auf das hypothetische Szenario</AC_CRITERION>
+<AC_WEIGHTING>15 Punkte</AC_WEIGHTING>
+</AC_QUALITY>
+<AC_QUALITY>
+<AC_CRITERION>Entwurf der Dokumentation über die technische Ausführung in Bezug auf das hypothetische Szenario</AC_CRITERION>
+<AC_WEIGHTING>15 Punkte</AC_WEIGHTING>
+</AC_QUALITY>
+<AC_QUALITY>
+<AC_CRITERION>Master-Ablaufplan für das Projekt in Bezug auf das hypothetische Szenario</AC_CRITERION>
+<AC_WEIGHTING>10 Punkte</AC_WEIGHTING>
+</AC_QUALITY>
+<AC_QUALITY>
+<AC_CRITERION>Beschreibung der Risiken und der Maßnahmen zur Minderung in Bezug auf das hypothetische Szenario</AC_CRITERION>
+<AC_WEIGHTING>10 Punkte</AC_WEIGHTING>
+</AC_QUALITY>
+<AC_PRICE>
+<AC_WEIGHTING>40 %</AC_WEIGHTING>
+</AC_PRICE>
+<NO_OPTIONS/>
+<NO_EU_PROGR_RELATED/>
+</OBJECT_DESCR>
+</OBJECT_CONTRACT>
+<PROCEDURE>
+<PT_OPEN/>
+<FRAMEWORK/>
+<NO_CONTRACT_COVERED_GPA/>
+<NOTICE_NUMBER_OJ>2016/S 085-149362</NOTICE_NUMBER_OJ>
+</PROCEDURE>
+<AWARD_CONTRACT ITEM="1">
+<CONTRACT_NO>Frontex/OP/131/2016/AH (BoldBrick)</CONTRACT_NO>
+<TITLE>
+<P>Mehrfachrahmenvertrag mit erneutem Aufruf zum Wettbewerb über Dienstleistungen im Zusammenhang mit SharePoint</P>
+</TITLE>
+<AWARDED_CONTRACT>
+<DATE_CONCLUSION_CONTRACT>2016-09-01</DATE_CONCLUSION_CONTRACT>
+<NB_TENDERS_RECEIVED>5</NB_TENDERS_RECEIVED>
+<NO_AWARDED_TO_GROUP/>
+<CONTRACTOR>
+<ADDRESS_CONTRACTOR>
+<OFFICIALNAME>BoldBrick s.r.o.</OFFICIALNAME>
+<TOWN>Prag</TOWN>
+<COUNTRY VALUE="CZ"/>
+<NUTS CODE="CZ010"/>
+</ADDRESS_CONTRACTOR>
+<NO_SME/>
+</CONTRACTOR>
+<VAL_TOTAL CURRENCY="EUR">2650000.00</VAL_TOTAL>
+</AWARDED_CONTRACT>
+</AWARD_CONTRACT>
+<AWARD_CONTRACT ITEM="2">
+<CONTRACT_NO>Frontex/OP/131/2016/AH (Fabrity)</CONTRACT_NO>
+<TITLE>
+<P>Mehrfachrahmenvertrag mit erneutem Aufruf zum Wettbewerb über Dienstleistungen im Zusammenhang mit SharePoint</P>
+</TITLE>
+<AWARDED_CONTRACT>
+<DATE_CONCLUSION_CONTRACT>2016-09-01</DATE_CONCLUSION_CONTRACT>
+<NB_TENDERS_RECEIVED>5</NB_TENDERS_RECEIVED>
+<NO_AWARDED_TO_GROUP/>
+<CONTRACTOR>
+<ADDRESS_CONTRACTOR>
+<OFFICIALNAME>Fabrity K2 Sp. z o.o.</OFFICIALNAME>
+<TOWN>Warschau</TOWN>
+<COUNTRY VALUE="PL"/>
+<NUTS CODE="PL127"/>
+</ADDRESS_CONTRACTOR>
+<NO_SME/>
+</CONTRACTOR>
+<VAL_TOTAL CURRENCY="EUR">2650000.00</VAL_TOTAL>
+</AWARDED_CONTRACT>
+</AWARD_CONTRACT>
+<AWARD_CONTRACT ITEM="3">
+<CONTRACT_NO>Frontex/OP/131/2016/AH (IT-Dev Sp. z o.o.)</CONTRACT_NO>
+<TITLE>
+<P>Mehrfachrahmenvertrag mit erneutem Aufruf zum Wettbewerb über Dienstleistungen im Zusammenhang mit SharePoint</P>
+</TITLE>
+<AWARDED_CONTRACT>
+<DATE_CONCLUSION_CONTRACT>2016-09-01</DATE_CONCLUSION_CONTRACT>
+<NB_TENDERS_RECEIVED>5</NB_TENDERS_RECEIVED>
+<NO_AWARDED_TO_GROUP/>
+<CONTRACTOR>
+<ADDRESS_CONTRACTOR>
+<OFFICIALNAME>IT-Dev Sp. z o.o.</OFFICIALNAME>
+<TOWN>Wrocław</TOWN>
+<COUNTRY VALUE="PL"/>
+<NUTS CODE="PL514"/>
+</ADDRESS_CONTRACTOR>
+<NO_SME/>
+</CONTRACTOR>
+<VAL_TOTAL CURRENCY="EUR">2650000.00</VAL_TOTAL>
+</AWARDED_CONTRACT>
+</AWARD_CONTRACT>
+<COMPLEMENTARY_INFO>
+<ADDRESS_REVIEW_BODY>
+<OFFICIALNAME>Gericht der Europäischen Union</OFFICIALNAME>
+<ADDRESS>rue du Fort Niedergrünewald</ADDRESS>
+<TOWN>Luxembourg</TOWN>
+<POSTAL_CODE>2925</POSTAL_CODE>
+<COUNTRY VALUE="LU"/>
+<PHONE>+352 4303-1</PHONE>
+<E_MAIL>cfi.registry@curia.europa.eu</E_MAIL>
+<FAX>+352 4303-2100</FAX>
+<URL>http://www.curia.europa.eu</URL>
+</ADDRESS_REVIEW_BODY>
+<REVIEW_PROCEDURE>
+<P>binnen 2 Monaten ab Mitteilung an den Kläger oder, in Ermangelung dessen, vom Zeitpunkt der Kenntnisnahme an.</P>
+</REVIEW_PROCEDURE>
+<DATE_DISPATCH_NOTICE>2016-09-22</DATE_DISPATCH_NOTICE>
+</COMPLEMENTARY_INFO>
+</F03_2014>
+<F03_2014 CATEGORY="ORIGINAL" FORM="F03" LG="EN">
+<CONTRACTING_BODY>
+<ADDRESS_CONTRACTING_BODY>
+<OFFICIALNAME>European Agency for the Management of Operational Cooperation at the External Borders of the Member States of the European Union — Frontex</OFFICIALNAME>
+<ADDRESS>Plac Europejski 6</ADDRESS>
+<TOWN>Warsaw</TOWN>
+<POSTAL_CODE>00-844</POSTAL_CODE>
+<COUNTRY VALUE="PL"/>
+<CONTACT_POINT>Frontex Procurement Sector</CONTACT_POINT>
+<PHONE>+48 222059500</PHONE>
+<E_MAIL>procurement@frontex.europa.eu</E_MAIL>
+<FAX>+48 222059501</FAX>
+<NUTS CODE="PL127"/>
+<URL_GENERAL>http://www.frontex.europa.eu</URL_GENERAL>
+</ADDRESS_CONTRACTING_BODY>
+<CA_TYPE VALUE="EU_INSTITUTION"/>
+<CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+</CONTRACTING_BODY>
+<OBJECT_CONTRACT>
+<TITLE>
+<P>Multiple framework contract with reopening of competition for the provision of SharePoint-related services.</P>
+</TITLE>
+<REFERENCE_NUMBER>Frontex/OP/131/2016/AH.</REFERENCE_NUMBER>
+<CPV_MAIN>
+<CPV_CODE CODE="72000000"/>
+</CPV_MAIN>
+<TYPE_CONTRACT CTYPE="SERVICES"/>
+<SHORT_DESCR>
+<P>The scope of the contract covers the provision of ICT services in SharePoint technology.</P>
+</SHORT_DESCR>
+<VAL_TOTAL CURRENCY="EUR">2650000.00</VAL_TOTAL>
+<NO_LOT_DIVISION/>
+<OBJECT_DESCR ITEM="1">
+<NUTS CODE="PL127"/>
+<MAIN_SITE>
+<P>Frontex premises, Warsaw, Poland.</P>
+</MAIN_SITE>
+<SHORT_DESCR>
+<P>This contract (framework contract with reopening of competition concluded with 3 economic operators) shall be considered as a source for generic services related to SP platform under T&amp;M, QT&amp;M or fixed price assignments. Contrary to other specific solution and product-oriented contracts (e.g. intranet COTS, DMS), this contract will address Frontex needs regarding custom-developed software solutions and maintenance of the existing platform. It shall be understood in broad meaning with reference to all phases of software life cycle and technical domains of software engineering. Therefore it may cover typical software development as well as maintenance of existing platform and solutions, refactoring, tuning, etc.</P>
+<P>Technologically this contract is focused on SP, possible future versions of this platform as well as on solutions built on it and interfaces linking it to other software solutions used by Frontex.</P>
+</SHORT_DESCR>
+<AC_QUALITY>
+<AC_CRITERION>Quality assurance for times and means and quoted times and means specific contracts</AC_CRITERION>
+<AC_WEIGHTING>20 points</AC_WEIGHTING>
+</AC_QUALITY>
+<AC_QUALITY>
+<AC_CRITERION>3rd level support</AC_CRITERION>
+<AC_WEIGHTING>15 points</AC_WEIGHTING>
+</AC_QUALITY>
+<AC_QUALITY>
+<AC_CRITERION>Approach to configuration management and testing</AC_CRITERION>
+<AC_WEIGHTING>15 points</AC_WEIGHTING>
+</AC_QUALITY>
+<AC_QUALITY>
+<AC_CRITERION>Draft BRD/SRS for the hypothetical scenario</AC_CRITERION>
+<AC_WEIGHTING>15 points</AC_WEIGHTING>
+</AC_QUALITY>
+<AC_QUALITY>
+<AC_CRITERION>Draft TDD for the hypothetical scenario</AC_CRITERION>
+<AC_WEIGHTING>15 points</AC_WEIGHTING>
+</AC_QUALITY>
+<AC_QUALITY>
+<AC_CRITERION>Project master schedule for the hypothetical scenario</AC_CRITERION>
+<AC_WEIGHTING>10 points</AC_WEIGHTING>
+</AC_QUALITY>
+<AC_QUALITY>
+<AC_CRITERION>Description of risks and mitigations for the hypothetical scenario</AC_CRITERION>
+<AC_WEIGHTING>10 points</AC_WEIGHTING>
+</AC_QUALITY>
+<AC_PRICE>
+<AC_WEIGHTING>40 %</AC_WEIGHTING>
+</AC_PRICE>
+<NO_OPTIONS/>
+<NO_EU_PROGR_RELATED/>
+</OBJECT_DESCR>
+</OBJECT_CONTRACT>
+<PROCEDURE>
+<PT_OPEN/>
+<FRAMEWORK/>
+<NO_CONTRACT_COVERED_GPA/>
+<NOTICE_NUMBER_OJ>2016/S 085-149362</NOTICE_NUMBER_OJ>
+</PROCEDURE>
+<AWARD_CONTRACT ITEM="1">
+<CONTRACT_NO>Frontex/OP/131/2016/AH (BoldBrick)</CONTRACT_NO>
+<TITLE>
+<P>Multiple framework contract with reopening of competition for the provision of SharePoint-related services</P>
+</TITLE>
+<AWARDED_CONTRACT>
+<DATE_CONCLUSION_CONTRACT>2016-09-01</DATE_CONCLUSION_CONTRACT>
+<NB_TENDERS_RECEIVED>5</NB_TENDERS_RECEIVED>
+<NO_AWARDED_TO_GROUP/>
+<CONTRACTOR>
+<ADDRESS_CONTRACTOR>
+<OFFICIALNAME>BoldBrick s.r.o.</OFFICIALNAME>
+<TOWN>Prague</TOWN>
+<COUNTRY VALUE="CZ"/>
+<NUTS CODE="CZ010"/>
+</ADDRESS_CONTRACTOR>
+<NO_SME/>
+</CONTRACTOR>
+<VAL_TOTAL CURRENCY="EUR">2650000.00</VAL_TOTAL>
+</AWARDED_CONTRACT>
+</AWARD_CONTRACT>
+<AWARD_CONTRACT ITEM="2">
+<CONTRACT_NO>Frontex/OP/131/2016/AH (Fabrity)</CONTRACT_NO>
+<TITLE>
+<P>Multiple framework contract with reopening of competition for the provision of SharePoint-related services</P>
+</TITLE>
+<AWARDED_CONTRACT>
+<DATE_CONCLUSION_CONTRACT>2016-09-01</DATE_CONCLUSION_CONTRACT>
+<NB_TENDERS_RECEIVED>5</NB_TENDERS_RECEIVED>
+<NO_AWARDED_TO_GROUP/>
+<CONTRACTOR>
+<ADDRESS_CONTRACTOR>
+<OFFICIALNAME>Fabrity K2 Sp. z o.o.</OFFICIALNAME>
+<TOWN>Warsaw</TOWN>
+<COUNTRY VALUE="PL"/>
+<NUTS CODE="PL127"/>
+</ADDRESS_CONTRACTOR>
+<NO_SME/>
+</CONTRACTOR>
+<VAL_TOTAL CURRENCY="EUR">2650000.00</VAL_TOTAL>
+</AWARDED_CONTRACT>
+</AWARD_CONTRACT>
+<AWARD_CONTRACT ITEM="3">
+<CONTRACT_NO>Frontex/OP/131/2016/AH (IT-Dev Sp. z o.o.)</CONTRACT_NO>
+<TITLE>
+<P>Multiple framework contract with reopening of competition for the provision of SharePoint-related services</P>
+</TITLE>
+<AWARDED_CONTRACT>
+<DATE_CONCLUSION_CONTRACT>2016-09-01</DATE_CONCLUSION_CONTRACT>
+<NB_TENDERS_RECEIVED>5</NB_TENDERS_RECEIVED>
+<NO_AWARDED_TO_GROUP/>
+<CONTRACTOR>
+<ADDRESS_CONTRACTOR>
+<OFFICIALNAME>IT-Dev Sp. z o.o.</OFFICIALNAME>
+<TOWN>Wrocław</TOWN>
+<COUNTRY VALUE="PL"/>
+<NUTS CODE="PL514"/>
+</ADDRESS_CONTRACTOR>
+<NO_SME/>
+</CONTRACTOR>
+<VAL_TOTAL CURRENCY="EUR">2650000.00</VAL_TOTAL>
+</AWARDED_CONTRACT>
+</AWARD_CONTRACT>
+<COMPLEMENTARY_INFO>
+<ADDRESS_REVIEW_BODY>
+<OFFICIALNAME>General Court</OFFICIALNAME>
+<ADDRESS>rue du Fort Niedergrünewald</ADDRESS>
+<TOWN>Luxembourg</TOWN>
+<POSTAL_CODE>2925</POSTAL_CODE>
+<COUNTRY VALUE="LU"/>
+<PHONE>+352 4303-1</PHONE>
+<E_MAIL>cfi.registry@curia.europa.eu</E_MAIL>
+<FAX>+352 4303-2100</FAX>
+<URL>http://www.curia.europa.eu</URL>
+</ADDRESS_REVIEW_BODY>
+<REVIEW_PROCEDURE>
+<P>Within 2 months of the notification to the plaintiff, or, in absence thereof, of the day on which it came to the knowledge.</P>
+</REVIEW_PROCEDURE>
+<DATE_DISPATCH_NOTICE>2016-09-22</DATE_DISPATCH_NOTICE>
+</COMPLEMENTARY_INFO>
+</F03_2014>
+<F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="ES">
+<CONTRACTING_BODY>
+<ADDRESS_CONTRACTING_BODY>
+<OFFICIALNAME>Agencia Europea para la Gestión de la Cooperación Operativa en las Fronteras Exteriores de los Estados miembros de la Unión Europea (Frontex)</OFFICIALNAME>
+<ADDRESS>Plac Europejski 6</ADDRESS>
+<TOWN>Warsaw</TOWN>
+<POSTAL_CODE>00-844</POSTAL_CODE>
+<COUNTRY VALUE="PL"/>
+<CONTACT_POINT>Frontex Procurement Sector</CONTACT_POINT>
+<PHONE>+48 222059500</PHONE>
+<E_MAIL>procurement@frontex.europa.eu</E_MAIL>
+<FAX>+48 222059501</FAX>
+<NUTS CODE="PL127"/>
+<URL_GENERAL>http://www.frontex.europa.eu</URL_GENERAL>
+</ADDRESS_CONTRACTING_BODY>
+<CA_TYPE VALUE="EU_INSTITUTION"/>
+<CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+</CONTRACTING_BODY>
+<OBJECT_CONTRACT>
+<TITLE>
+<P>Contrato marco múltiple con reapertura de concurso para la prestación de servicios relacionados con SharePoint.</P>
+</TITLE>
+<REFERENCE_NUMBER>Frontex/OP/131/2016/AH.</REFERENCE_NUMBER>
+<CPV_MAIN>
+<CPV_CODE CODE="72000000"/>
+</CPV_MAIN>
+<TYPE_CONTRACT CTYPE="SERVICES"/>
+<SHORT_DESCR>
+<P>El objeto del contrato consiste en la prestación de servicios de TIC relativos a la tecnología SharePoint.</P>
+</SHORT_DESCR>
+<VAL_TOTAL CURRENCY="EUR">2650000.00</VAL_TOTAL>
+<NO_LOT_DIVISION/>
+<OBJECT_DESCR ITEM="1">
+<NUTS CODE="PL127"/>
+<MAIN_SITE>
+<P>instalaciones de Frontex, Varsovia, Polonia.</P>
+</MAIN_SITE>
+<SHORT_DESCR>
+<P>Este contrato (contrato marco con reapertura de concurso celebrado con 3 operadores económicos) se considerará una fuente de servicios genéricos relacionados con la plataforma SharePoint en el ámbito de encargos con precios de tiempo y medios, de tiempo y medios sujetos a presupuesto o de precio fijo. A diferencia de otros contratos de solución específica u orientados a productos (por ejemplo, COTS de intranet, sistemas de gestión de documentos), el presente contrato cubrirá las necesidades de Frontex en cuanto a las soluciones de «software» personalizado y al mantenimiento de la plataforma existente. Deberá entenderse en sentido amplio con respecto a todas las fases del ciclo de vida del «software» y todos los ámbitos técnicos de ingeniería de «software». Por consiguiente, podrá cubrir el desarrollo de «software» típico, así como el mantenimiento de la plataforma existente y de soluciones, reestructuración, ajustes, etc.</P>
+<P>Desde el punto de vista de la tecnología, este contrato se centra en SharePoint, en posibles versiones futuras de esta plataforma, así como en soluciones basadas en esta e interfaces que la vinculan con otras soluciones de «software» empleadas por Frontex.</P>
+</SHORT_DESCR>
+<AC_QUALITY>
+<AC_CRITERION>garantía de la calidad para contratos específicos de tiempo y medios y de tiempo y medios sujetos a presupuesto</AC_CRITERION>
+<AC_WEIGHTING>20 puntos</AC_WEIGHTING>
+</AC_QUALITY>
+<AC_QUALITY>
+<AC_CRITERION>apoyo de tercer nivel</AC_CRITERION>
+<AC_WEIGHTING>15 puntos</AC_WEIGHTING>
+</AC_QUALITY>
+<AC_QUALITY>
+<AC_CRITERION>enfoque para la gestión y realización de pruebas de la configuración</AC_CRITERION>
+<AC_WEIGHTING>15 puntos</AC_WEIGHTING>
+</AC_QUALITY>
+<AC_QUALITY>
+<AC_CRITERION>borrador de los documentos sobre los requisitos para el negocio y el sistema para el escenario hipotético</AC_CRITERION>
+<AC_WEIGHTING>15 puntos</AC_WEIGHTING>
+</AC_QUALITY>
+<AC_QUALITY>
+<AC_CRITERION>borrador del documento de diseño técnico para el escenario hipotético</AC_CRITERION>
+<AC_WEIGHTING>15 puntos</AC_WEIGHTING>
+</AC_QUALITY>
+<AC_QUALITY>
+<AC_CRITERION>planificación principal del proyecto para el escenario hipotético</AC_CRITERION>
+<AC_WEIGHTING>10 puntos</AC_WEIGHTING>
+</AC_QUALITY>
+<AC_QUALITY>
+<AC_CRITERION>descripción de los riesgos y las medidas de mitigación para el escenario hipotético</AC_CRITERION>
+<AC_WEIGHTING>10 puntos</AC_WEIGHTING>
+</AC_QUALITY>
+<AC_PRICE>
+<AC_WEIGHTING>40 %</AC_WEIGHTING>
+</AC_PRICE>
+<NO_OPTIONS/>
+<NO_EU_PROGR_RELATED/>
+</OBJECT_DESCR>
+</OBJECT_CONTRACT>
+<PROCEDURE>
+<PT_OPEN/>
+<FRAMEWORK/>
+<NO_CONTRACT_COVERED_GPA/>
+<NOTICE_NUMBER_OJ>2016/S 085-149362</NOTICE_NUMBER_OJ>
+</PROCEDURE>
+<AWARD_CONTRACT ITEM="1">
+<CONTRACT_NO>Frontex/OP/131/2016/AH (BoldBrick)</CONTRACT_NO>
+<TITLE>
+<P>Contrato marco múltiple con reapertura de concurso para la prestación de servicios relacionados con SharePoint</P>
+</TITLE>
+<AWARDED_CONTRACT>
+<DATE_CONCLUSION_CONTRACT>2016-09-01</DATE_CONCLUSION_CONTRACT>
+<NB_TENDERS_RECEIVED>5</NB_TENDERS_RECEIVED>
+<NO_AWARDED_TO_GROUP/>
+<CONTRACTOR>
+<ADDRESS_CONTRACTOR>
+<OFFICIALNAME>BoldBrick s.r.o.</OFFICIALNAME>
+<TOWN>Praga</TOWN>
+<COUNTRY VALUE="CZ"/>
+<NUTS CODE="CZ010"/>
+</ADDRESS_CONTRACTOR>
+<NO_SME/>
+</CONTRACTOR>
+<VAL_TOTAL CURRENCY="EUR">2650000.00</VAL_TOTAL>
+</AWARDED_CONTRACT>
+</AWARD_CONTRACT>
+<AWARD_CONTRACT ITEM="2">
+<CONTRACT_NO>Frontex/OP/131/2016/AH (Fabrity)</CONTRACT_NO>
+<TITLE>
+<P>Contrato marco múltiple con reapertura de concurso para la prestación de servicios relacionados con SharePoint</P>
+</TITLE>
+<AWARDED_CONTRACT>
+<DATE_CONCLUSION_CONTRACT>2016-09-01</DATE_CONCLUSION_CONTRACT>
+<NB_TENDERS_RECEIVED>5</NB_TENDERS_RECEIVED>
+<NO_AWARDED_TO_GROUP/>
+<CONTRACTOR>
+<ADDRESS_CONTRACTOR>
+<OFFICIALNAME>Fabrity K2 Sp. z o.o.</OFFICIALNAME>
+<TOWN>Varsovia</TOWN>
+<COUNTRY VALUE="PL"/>
+<NUTS CODE="PL127"/>
+</ADDRESS_CONTRACTOR>
+<NO_SME/>
+</CONTRACTOR>
+<VAL_TOTAL CURRENCY="EUR">2650000.00</VAL_TOTAL>
+</AWARDED_CONTRACT>
+</AWARD_CONTRACT>
+<AWARD_CONTRACT ITEM="3">
+<CONTRACT_NO>Frontex/OP/131/2016/AH (IT-Dev Sp. z o.o.)</CONTRACT_NO>
+<TITLE>
+<P>Contrato marco múltiple con reapertura de concurso para la prestación de servicios relacionados con SharePoint</P>
+</TITLE>
+<AWARDED_CONTRACT>
+<DATE_CONCLUSION_CONTRACT>2016-09-01</DATE_CONCLUSION_CONTRACT>
+<NB_TENDERS_RECEIVED>5</NB_TENDERS_RECEIVED>
+<NO_AWARDED_TO_GROUP/>
+<CONTRACTOR>
+<ADDRESS_CONTRACTOR>
+<OFFICIALNAME>IT-Dev Sp. z o.o.</OFFICIALNAME>
+<TOWN>Wrocław</TOWN>
+<COUNTRY VALUE="PL"/>
+<NUTS CODE="PL514"/>
+</ADDRESS_CONTRACTOR>
+<NO_SME/>
+</CONTRACTOR>
+<VAL_TOTAL CURRENCY="EUR">2650000.00</VAL_TOTAL>
+</AWARDED_CONTRACT>
+</AWARD_CONTRACT>
+<COMPLEMENTARY_INFO>
+<ADDRESS_REVIEW_BODY>
+<OFFICIALNAME>Tribunal General</OFFICIALNAME>
+<ADDRESS>rue du Fort Niedergrünewald</ADDRESS>
+<TOWN>Luxembourg</TOWN>
+<POSTAL_CODE>2925</POSTAL_CODE>
+<COUNTRY VALUE="LU"/>
+<PHONE>+352 4303-1</PHONE>
+<E_MAIL>cfi.registry@curia.europa.eu</E_MAIL>
+<FAX>+352 4303-2100</FAX>
+<URL>http://www.curia.europa.eu</URL>
+</ADDRESS_REVIEW_BODY>
+<REVIEW_PROCEDURE>
+<P>En un plazo de 2 meses a partir de la notificación al recurrente o, en su defecto, del día en que este haya tenido conocimiento del acto en cuestión.</P>
+</REVIEW_PROCEDURE>
+<DATE_DISPATCH_NOTICE>2016-09-22</DATE_DISPATCH_NOTICE>
+</COMPLEMENTARY_INFO>
+</F03_2014>
+<F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="FI">
+<CONTRACTING_BODY>
+<ADDRESS_CONTRACTING_BODY>
+<OFFICIALNAME>Euroopan unionin jäsenvaltioiden operatiivisesta ulkorajayhteistyöstä huolehtiva virasto – Frontex</OFFICIALNAME>
+<ADDRESS>Plac Europejski 6</ADDRESS>
+<TOWN>Warsaw</TOWN>
+<POSTAL_CODE>00-844</POSTAL_CODE>
+<COUNTRY VALUE="PL"/>
+<CONTACT_POINT>Frontex Procurement Sector</CONTACT_POINT>
+<PHONE>+48 222059500</PHONE>
+<E_MAIL>procurement@frontex.europa.eu</E_MAIL>
+<FAX>+48 222059501</FAX>
+<NUTS CODE="PL127"/>
+<URL_GENERAL>http://www.frontex.europa.eu</URL_GENERAL>
+</ADDRESS_CONTRACTING_BODY>
+<CA_TYPE VALUE="EU_INSTITUTION"/>
+<CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+</CONTRACTING_BODY>
+<OBJECT_CONTRACT>
+<TITLE>
+<P>Uudelleenkäynnistetyn kilpailun avulla tehtävä rinnakkainen puitesopimus SharePoint-ohjelmistoon liittyvien palvelujen toimittamisesta</P>
+</TITLE>
+<REFERENCE_NUMBER>Frontex/OP/131/2016/AH.</REFERENCE_NUMBER>
+<CPV_MAIN>
+<CPV_CODE CODE="72000000"/>
+</CPV_MAIN>
+<TYPE_CONTRACT CTYPE="SERVICES"/>
+<SHORT_DESCR>
+<P>Sopimuksen kohteena on SharePoint-teknologiaa koskevien tieto- ja viestintäteknisten palvelujen toimittaminen.</P>
+</SHORT_DESCR>
+<VAL_TOTAL CURRENCY="EUR">2650000.00</VAL_TOTAL>
+<NO_LOT_DIVISION/>
+<OBJECT_DESCR ITEM="1">
+<NUTS CODE="PL127"/>
+<MAIN_SITE>
+<P>Frontexin toimitilat, Varsova, Puola.</P>
+</MAIN_SITE>
+<SHORT_DESCR>
+<P>Tätä sopimusta (uudelleenkäynnistetyn kilpailun avulla 3 talouden toimijan kanssa tehtävä puitesopimus) pidetään SharePoint-alustaan liittyvien yleisten palvelujen lähteenä aikaan ja resursseihin (times and means – T&amp;M), käytetyiksi ilmoitettuun aikaan ja resursseihin (quoted times and means – QT&amp;M) tai kiinteään hintaan perustuvien toimeksiantojen yhteydessä. Toisin kuin muut ratkaisu- ja tuotekohtaiset erillissopimukset (esim. intranetiin liittyvä kaupallinen valmisohjelmisto (commercial off the shelf – COTS), asiakirjojen hallintajärjestelmä (document management system – DMS)) tämä sopimus vastaa Frontexin tarpeisiin, jotka koskevat räätälöityjä ohjelmistoratkaisuja ja nykyisen alustan ylläpitoa. Sopimus on käsitettävä laajassa merkityksessä niin, että siihen sisältyvät kaikki ohjelmiston elinkaaren vaiheet ja kaikki ohjelmistotekniikan tekniset alueet. Näin olleen siihen voi kuulua sekä tavanomaista ohjelmistokehitystä että nykyisen alustan ja ratkaisujen ylläpitoa, refaktorointia, hienosäätöä jne.</P>
+<P>Teknisesti tässä sopimuksessa keskitytään SharePoint-ohjelmistoon ja tämän alustan mahdollisiin myöhempiin versioihin sekä siihen perustuviin ratkaisuihin ja sen ja muiden Frontexin käyttämien ohjelmistoratkaisuiden välisiin liittymiin.</P>
+</SHORT_DESCR>
+<AC_QUALITY>
+<AC_CRITERION>aikaan ja resursseihin sekä käytetyiksi ilmoitettuun aikaan ja resursseihin perustuvia erillissopimuksia koskeva laadunvarmistus</AC_CRITERION>
+<AC_WEIGHTING>20 pistettä</AC_WEIGHTING>
+</AC_QUALITY>
+<AC_QUALITY>
+<AC_CRITERION>kolmannen tason tuki</AC_CRITERION>
+<AC_WEIGHTING>15 pistettä</AC_WEIGHTING>
+</AC_QUALITY>
+<AC_QUALITY>
+<AC_CRITERION>lähestymistapa konfiguroinnin hallintaan ja testaukseen</AC_CRITERION>
+<AC_WEIGHTING>15 pistettä</AC_WEIGHTING>
+</AC_QUALITY>
+<AC_QUALITY>
+<AC_CRITERION>liiketoiminnan ja järjestelmän vaatimuksia koskevien asiakirjojen (business and system requirement documents – BRD/SRS) luonnos mahdollista skenaariota varten</AC_CRITERION>
+<AC_WEIGHTING>15 pistettä</AC_WEIGHTING>
+</AC_QUALITY>
+<AC_QUALITY>
+<AC_CRITERION>teknisen suunnitteluasiakirjan (technical design document – TDD) luonnos mahdollista skenaariota varten</AC_CRITERION>
+<AC_WEIGHTING>15 pistettä</AC_WEIGHTING>
+</AC_QUALITY>
+<AC_QUALITY>
+<AC_CRITERION>hankkeen yleisaikataulu mahdollista skenaariota varten</AC_CRITERION>
+<AC_WEIGHTING>10 pistettä</AC_WEIGHTING>
+</AC_QUALITY>
+<AC_QUALITY>
+<AC_CRITERION>kuvaus riskeistä ja niiden lieventämisestä mahdollista skenaariota varten</AC_CRITERION>
+<AC_WEIGHTING>10 pistettä</AC_WEIGHTING>
+</AC_QUALITY>
+<AC_PRICE>
+<AC_WEIGHTING>40 %</AC_WEIGHTING>
+</AC_PRICE>
+<NO_OPTIONS/>
+<NO_EU_PROGR_RELATED/>
+</OBJECT_DESCR>
+</OBJECT_CONTRACT>
+<PROCEDURE>
+<PT_OPEN/>
+<FRAMEWORK/>
+<NO_CONTRACT_COVERED_GPA/>
+<NOTICE_NUMBER_OJ>2016/S 085-149362</NOTICE_NUMBER_OJ>
+</PROCEDURE>
+<AWARD_CONTRACT ITEM="1">
+<CONTRACT_NO>Frontex/OP/131/2016/AH (BoldBrick)</CONTRACT_NO>
+<TITLE>
+<P>Uudelleenkäynnistetyn kilpailun avulla tehtävä rinnakkainen puitesopimus SharePoint-ohjelmistoon liittyvien palvelujen toimittamisesta</P>
+</TITLE>
+<AWARDED_CONTRACT>
+<DATE_CONCLUSION_CONTRACT>2016-09-01</DATE_CONCLUSION_CONTRACT>
+<NB_TENDERS_RECEIVED>5</NB_TENDERS_RECEIVED>
+<NO_AWARDED_TO_GROUP/>
+<CONTRACTOR>
+<ADDRESS_CONTRACTOR>
+<OFFICIALNAME>BoldBrick s.r.o.</OFFICIALNAME>
+<TOWN>Prague</TOWN>
+<COUNTRY VALUE="CZ"/>
+<NUTS CODE="CZ010"/>
+</ADDRESS_CONTRACTOR>
+<NO_SME/>
+</CONTRACTOR>
+<VAL_TOTAL CURRENCY="EUR">2650000.00</VAL_TOTAL>
+</AWARDED_CONTRACT>
+</AWARD_CONTRACT>
+<AWARD_CONTRACT ITEM="2">
+<CONTRACT_NO>Frontex/OP/131/2016/AH (Fabrity)</CONTRACT_NO>
+<TITLE>
+<P>Uudelleenkäynnistetyn kilpailun avulla tehtävä rinnakkainen puitesopimus SharePoint-ohjelmistoon liittyvien palvelujen toimittamisesta</P>
+</TITLE>
+<AWARDED_CONTRACT>
+<DATE_CONCLUSION_CONTRACT>2016-09-01</DATE_CONCLUSION_CONTRACT>
+<NB_TENDERS_RECEIVED>5</NB_TENDERS_RECEIVED>
+<NO_AWARDED_TO_GROUP/>
+<CONTRACTOR>
+<ADDRESS_CONTRACTOR>
+<OFFICIALNAME>Fabrity K2 Sp. z o.o.</OFFICIALNAME>
+<TOWN>Warsaw</TOWN>
+<COUNTRY VALUE="PL"/>
+<NUTS CODE="PL127"/>
+</ADDRESS_CONTRACTOR>
+<NO_SME/>
+</CONTRACTOR>
+<VAL_TOTAL CURRENCY="EUR">2650000.00</VAL_TOTAL>
+</AWARDED_CONTRACT>
+</AWARD_CONTRACT>
+<AWARD_CONTRACT ITEM="3">
+<CONTRACT_NO>Frontex/OP/131/2016/AH (IT-Dev Sp. z o.o.)</CONTRACT_NO>
+<TITLE>
+<P>Uudelleenkäynnistetyn kilpailun avulla tehtävä rinnakkainen puitesopimus SharePoint-ohjelmistoon liittyvien palvelujen toimittamisesta</P>
+</TITLE>
+<AWARDED_CONTRACT>
+<DATE_CONCLUSION_CONTRACT>2016-09-01</DATE_CONCLUSION_CONTRACT>
+<NB_TENDERS_RECEIVED>5</NB_TENDERS_RECEIVED>
+<NO_AWARDED_TO_GROUP/>
+<CONTRACTOR>
+<ADDRESS_CONTRACTOR>
+<OFFICIALNAME>IT-Dev Sp. z o.o.</OFFICIALNAME>
+<TOWN>Wrocław</TOWN>
+<COUNTRY VALUE="PL"/>
+<NUTS CODE="PL514"/>
+</ADDRESS_CONTRACTOR>
+<NO_SME/>
+</CONTRACTOR>
+<VAL_TOTAL CURRENCY="EUR">2650000.00</VAL_TOTAL>
+</AWARDED_CONTRACT>
+</AWARD_CONTRACT>
+<COMPLEMENTARY_INFO>
+<ADDRESS_REVIEW_BODY>
+<OFFICIALNAME>Unionin yleinen tuomioistuin</OFFICIALNAME>
+<ADDRESS>rue du Fort Niedergrünewald</ADDRESS>
+<TOWN>Luxembourg</TOWN>
+<POSTAL_CODE>2925</POSTAL_CODE>
+<COUNTRY VALUE="LU"/>
+<PHONE>+352 4303-1</PHONE>
+<E_MAIL>cfi.registry@curia.europa.eu</E_MAIL>
+<FAX>+352 4303-2100</FAX>
+<URL>http://www.curia.europa.eu</URL>
+</ADDRESS_REVIEW_BODY>
+<REVIEW_PROCEDURE>
+<P>muutoksenhakupyynnöt on jätettävä 2 kuukauden kuluessa siitä, kun asianomistaja on saanut ilmoituksen asiasta tai, mikäli ilmoitusta ei ole tehty, 2 kuukauden kuluessa siitä päivästä, kun asia on saatu tiedoksi.</P>
+</REVIEW_PROCEDURE>
+<DATE_DISPATCH_NOTICE>2016-09-22</DATE_DISPATCH_NOTICE>
+</COMPLEMENTARY_INFO>
+</F03_2014>
+<F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="FR">
+<CONTRACTING_BODY>
+<ADDRESS_CONTRACTING_BODY>
+<OFFICIALNAME>Agence européenne pour la gestion de la coopération opérationnelle aux frontières extérieures des États membres de l'Union européenne — Frontex</OFFICIALNAME>
+<ADDRESS>Plac Europejski 6</ADDRESS>
+<TOWN>Warsaw</TOWN>
+<POSTAL_CODE>00-844</POSTAL_CODE>
+<COUNTRY VALUE="PL"/>
+<CONTACT_POINT>Frontex Procurement Sector</CONTACT_POINT>
+<PHONE>+48 222059500</PHONE>
+<E_MAIL>procurement@frontex.europa.eu</E_MAIL>
+<FAX>+48 222059501</FAX>
+<NUTS CODE="PL127"/>
+<URL_GENERAL>http://www.frontex.europa.eu</URL_GENERAL>
+</ADDRESS_CONTRACTING_BODY>
+<CA_TYPE VALUE="EU_INSTITUTION"/>
+<CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+</CONTRACTING_BODY>
+<OBJECT_CONTRACT>
+<TITLE>
+<P>Contrat-cadre multiple avec remise en concurrence pour la prestation de services SharePoint.</P>
+</TITLE>
+<REFERENCE_NUMBER>Frontex/OP/131/2016/AH.</REFERENCE_NUMBER>
+<CPV_MAIN>
+<CPV_CODE CODE="72000000"/>
+</CPV_MAIN>
+<TYPE_CONTRACT CTYPE="SERVICES"/>
+<SHORT_DESCR>
+<P>Le marché porte sur la prestation de services TIC relatifs à la technologie SharePoint.</P>
+</SHORT_DESCR>
+<VAL_TOTAL CURRENCY="EUR">2650000.00</VAL_TOTAL>
+<NO_LOT_DIVISION/>
+<OBJECT_DESCR ITEM="1">
+<NUTS CODE="PL127"/>
+<MAIN_SITE>
+<P>locaux de Frontex, Varsovie, Pologne.</P>
+</MAIN_SITE>
+<SHORT_DESCR>
+<P>Le présent marché (contrat-cadre avec remise en concurrence conclu avec 3 opérateurs économiques) doit être considéré comme une source de services génériques liés à la plateforme SP dans le cadre de missions à prix unitaire, à prix unitaire sur devis ou à prix fixe. Contrairement aux autres marchés portant sur des solutions et des produits spécifiques (par exemple systèmes commerciaux standard fondés sur l'intranet, systèmes de gestion de documents), le présent marché répondra aux besoins de Frontex en matière de solutions logicielles sur mesure et de maintenance de la plateforme existante. Il doit être compris au sens large comme faisant référence à toutes les étapes du cycle de vie d'un logiciel et à tous les domaines techniques de l'ingénierie logicielle. Par conséquent, il pourra couvrir les services classiques de développement de logiciels, ainsi que la maintenance des plateformes et solutions existantes, la refactorisation, l'adaptation, etc.</P>
+<P>Sur le plan technologique, le présent marché est axé sur SP, sur les éventuelles versions futures de cette plateforme, ainsi que sur les solutions qui y ont été intégrées et sur les interfaces qui la relient aux autres solutions logicielles utilisées par Frontex.</P>
+</SHORT_DESCR>
+<AC_QUALITY>
+<AC_CRITERION>assurance de la qualité pour les contrats spécifiques à prix unitaire et à prix unitaire sur devis</AC_CRITERION>
+<AC_WEIGHTING>20 points</AC_WEIGHTING>
+</AC_QUALITY>
+<AC_QUALITY>
+<AC_CRITERION>soutien de troisième niveau</AC_CRITERION>
+<AC_WEIGHTING>15 points</AC_WEIGHTING>
+</AC_QUALITY>
+<AC_QUALITY>
+<AC_CRITERION>approche relative à la gestion et à l'essai de la configuration</AC_CRITERION>
+<AC_WEIGHTING>15 points</AC_WEIGHTING>
+</AC_QUALITY>
+<AC_QUALITY>
+<AC_CRITERION>projet de document relatif aux exigences d'exploitation/du système pour le scénario hypothétique</AC_CRITERION>
+<AC_WEIGHTING>15 points</AC_WEIGHTING>
+</AC_QUALITY>
+<AC_QUALITY>
+<AC_CRITERION>projet de document de conception technique pour le scénario hypothétique</AC_CRITERION>
+<AC_WEIGHTING>15 points</AC_WEIGHTING>
+</AC_QUALITY>
+<AC_QUALITY>
+<AC_CRITERION>plan directeur du projet pour le scénario hypothétique</AC_CRITERION>
+<AC_WEIGHTING>10 points</AC_WEIGHTING>
+</AC_QUALITY>
+<AC_QUALITY>
+<AC_CRITERION>description des risques et des mesures d'atténuation pour le scénario hypothétique</AC_CRITERION>
+<AC_WEIGHTING>10 points</AC_WEIGHTING>
+</AC_QUALITY>
+<AC_PRICE>
+<AC_WEIGHTING>40 %</AC_WEIGHTING>
+</AC_PRICE>
+<NO_OPTIONS/>
+<NO_EU_PROGR_RELATED/>
+</OBJECT_DESCR>
+</OBJECT_CONTRACT>
+<PROCEDURE>
+<PT_OPEN/>
+<FRAMEWORK/>
+<NO_CONTRACT_COVERED_GPA/>
+<NOTICE_NUMBER_OJ>2016/S 085-149362</NOTICE_NUMBER_OJ>
+</PROCEDURE>
+<AWARD_CONTRACT ITEM="1">
+<CONTRACT_NO>Frontex/OP/131/2016/AH (BoldBrick)</CONTRACT_NO>
+<TITLE>
+<P>Contrat-cadre multiple avec remise en concurrence pour la prestation de services SharePoint</P>
+</TITLE>
+<AWARDED_CONTRACT>
+<DATE_CONCLUSION_CONTRACT>2016-09-01</DATE_CONCLUSION_CONTRACT>
+<NB_TENDERS_RECEIVED>5</NB_TENDERS_RECEIVED>
+<NO_AWARDED_TO_GROUP/>
+<CONTRACTOR>
+<ADDRESS_CONTRACTOR>
+<OFFICIALNAME>BoldBrick s.r.o.</OFFICIALNAME>
+<TOWN>Prague</TOWN>
+<COUNTRY VALUE="CZ"/>
+<NUTS CODE="CZ010"/>
+</ADDRESS_CONTRACTOR>
+<NO_SME/>
+</CONTRACTOR>
+<VAL_TOTAL CURRENCY="EUR">2650000.00</VAL_TOTAL>
+</AWARDED_CONTRACT>
+</AWARD_CONTRACT>
+<AWARD_CONTRACT ITEM="2">
+<CONTRACT_NO>Frontex/OP/131/2016/AH (Fabrity)</CONTRACT_NO>
+<TITLE>
+<P>Contrat-cadre multiple avec remise en concurrence pour la prestation de services SharePoint</P>
+</TITLE>
+<AWARDED_CONTRACT>
+<DATE_CONCLUSION_CONTRACT>2016-09-01</DATE_CONCLUSION_CONTRACT>
+<NB_TENDERS_RECEIVED>5</NB_TENDERS_RECEIVED>
+<NO_AWARDED_TO_GROUP/>
+<CONTRACTOR>
+<ADDRESS_CONTRACTOR>
+<OFFICIALNAME>Fabrity K2 Sp. z o.o.</OFFICIALNAME>
+<TOWN>Warsaw</TOWN>
+<COUNTRY VALUE="PL"/>
+<NUTS CODE="PL127"/>
+</ADDRESS_CONTRACTOR>
+<NO_SME/>
+</CONTRACTOR>
+<VAL_TOTAL CURRENCY="EUR">2650000.00</VAL_TOTAL>
+</AWARDED_CONTRACT>
+</AWARD_CONTRACT>
+<AWARD_CONTRACT ITEM="3">
+<CONTRACT_NO>Frontex/OP/131/2016/AH (IT-Dev Sp. z o.o.)</CONTRACT_NO>
+<TITLE>
+<P>Contrat-cadre multiple avec remise en concurrence pour la prestation de services SharePoint</P>
+</TITLE>
+<AWARDED_CONTRACT>
+<DATE_CONCLUSION_CONTRACT>2016-09-01</DATE_CONCLUSION_CONTRACT>
+<NB_TENDERS_RECEIVED>5</NB_TENDERS_RECEIVED>
+<NO_AWARDED_TO_GROUP/>
+<CONTRACTOR>
+<ADDRESS_CONTRACTOR>
+<OFFICIALNAME>IT-Dev Sp. z o.o.</OFFICIALNAME>
+<TOWN>Wrocław</TOWN>
+<COUNTRY VALUE="PL"/>
+<NUTS CODE="PL514"/>
+</ADDRESS_CONTRACTOR>
+<NO_SME/>
+</CONTRACTOR>
+<VAL_TOTAL CURRENCY="EUR">2650000.00</VAL_TOTAL>
+</AWARDED_CONTRACT>
+</AWARD_CONTRACT>
+<COMPLEMENTARY_INFO>
+<ADDRESS_REVIEW_BODY>
+<OFFICIALNAME>Tribunal</OFFICIALNAME>
+<ADDRESS>rue du Fort Niedergrünewald</ADDRESS>
+<TOWN>Luxembourg</TOWN>
+<POSTAL_CODE>2925</POSTAL_CODE>
+<COUNTRY VALUE="LU"/>
+<PHONE>+352 4303-1</PHONE>
+<E_MAIL>cfi.registry@curia.europa.eu</E_MAIL>
+<FAX>+352 4303-2100</FAX>
+<URL>http://www.curia.europa.eu</URL>
+</ADDRESS_REVIEW_BODY>
+<REVIEW_PROCEDURE>
+<P>dans les 2 mois à compter de la notification au requérant ou, à défaut, du jour où celui-ci en a eu connaissance.</P>
+</REVIEW_PROCEDURE>
+<DATE_DISPATCH_NOTICE>2016-09-22</DATE_DISPATCH_NOTICE>
+</COMPLEMENTARY_INFO>
+</F03_2014>
+<F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="EL">
+<CONTRACTING_BODY>
+<ADDRESS_CONTRACTING_BODY>
+<OFFICIALNAME>Ευρωπαϊκός Οργανισμός για τη Διαχείριση της Επιχειρησιακής Συνεργασίας στα Εξωτερικά Σύνορα των Κρατών Μελών της Ευρωπαϊκής Ένωσης — Frontex</OFFICIALNAME>
+<ADDRESS>Plac Europejski 6</ADDRESS>
+<TOWN>Warsaw</TOWN>
+<POSTAL_CODE>00-844</POSTAL_CODE>
+<COUNTRY VALUE="PL"/>
+<CONTACT_POINT>Τμήμα Συμβάσεων Frontex</CONTACT_POINT>
+<PHONE>+48 222059500</PHONE>
+<E_MAIL>procurement@frontex.europa.eu</E_MAIL>
+<FAX>+48 222059501</FAX>
+<NUTS CODE="PL127"/>
+<URL_GENERAL>http://www.frontex.europa.eu</URL_GENERAL>
+</ADDRESS_CONTRACTING_BODY>
+<CA_TYPE VALUE="EU_INSTITUTION"/>
+<CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+</CONTRACTING_BODY>
+<OBJECT_CONTRACT>
+<TITLE>
+<P>Πολλαπλή σύμβαση-πλαίσιο με επανέναρξη του διαγωνισμού για την παροχή υπηρεσιών σχετικών με την τεχνολογία SharePoint.</P>
+</TITLE>
+<REFERENCE_NUMBER>Frontex/OP/131/2016/AH.</REFERENCE_NUMBER>
+<CPV_MAIN>
+<CPV_CODE CODE="72000000"/>
+</CPV_MAIN>
+<TYPE_CONTRACT CTYPE="SERVICES"/>
+<SHORT_DESCR>
+<P>Το πεδίο εφαρμογής της σύμβασης καλύπτει την παροχή υπηρεσιών ΤΠΕ στην τεχνολογία SharePoint.</P>
+</SHORT_DESCR>
+<VAL_TOTAL CURRENCY="EUR">2650000.00</VAL_TOTAL>
+<NO_LOT_DIVISION/>
+<OBJECT_DESCR ITEM="1">
+<NUTS CODE="PL127"/>
+<MAIN_SITE>
+<P>εγκαταστάσεις του Frontex, Βαρσοβία, Πολωνία.</P>
+</MAIN_SITE>
+<SHORT_DESCR>
+<P>Η προκηρυσσόμενη σύμβαση (σύμβαση-πλαίσιο με επανέναρξη του διαγωνισμού η οποία θα συναφθεί με 3 οικονομικούς φορείς) θα θεωρηθεί ως πηγή για γενικές υπηρεσίες σχετικά με την πλατφόρμα SP στο πλαίσιο αναθέσεων βάσει χρόνου και μέσων (T&amp;M), βάσει καθορισμένου χρόνου και μέσων (QT&amp;M) ή αναθέσεων σταθερής τιμής. Σε αντίθεση με άλλες συμβάσεις που προσανατολίζονται σε συγκεκριμένες λύσεις και προϊόντα [π.χ. δίκτυο intranet βάσει εμπορικά διαθέσιμων προϊόντων (COTS), σύστημα DMS], η προκηρυσσόμενη σύμβαση θα καλύψει τις ανάγκες του Frontex όσον αφορά την ανάπτυξη ειδικά προσαρμοσμένων λύσεων λογισμικού και τη συντήρηση της υφιστάμενης πλατφόρμας. Οι εν λόγω υπηρεσίες θα πρέπει να νοούνται με την ευρεία έννοια αναφορικά με όλες τις φάσεις του κύκλου ζωής ενός λογισμικού και τους τεχνικούς τομείς της μηχανικής λογισμικού. Συνεπώς, ενδέχεται να καλύπτουν την τυπική ανάπτυξη λογισμικού, καθώς και τη συντήρηση τις υπάρχουσας πλατφόρμας και των υφιστάμενων λύσεων, τον επανασχεδιασμό, τον συντονισμό, κ.λπ.</P>
+<P>Από τεχνολογικής άποψης, η προκηρυσσόμενη σύμβαση επικεντρώνεται στην πλατφόρμα SP, σε πιθανές μελλοντικές εκδόσεις της εν λόγω πλατφόρμας, καθώς και σε λύσεις που βασίζονται σε αυτή και σε διεπαφές που τη συνδέουν με άλλες λύσεις λογισμικού που χρησιμοποιεί ο Frontex.</P>
+</SHORT_DESCR>
+<AC_QUALITY>
+<AC_CRITERION>Διασφάλιση ποιότητας για ειδικές συμβάσεις βάσει χρόνου και μέσων και βάσει καθορισμένου χρόνου και μέσων</AC_CRITERION>
+<AC_WEIGHTING>20 βαθμοί</AC_WEIGHTING>
+</AC_QUALITY>
+<AC_QUALITY>
+<AC_CRITERION>Υποστήριξη 3ου επιπέδου</AC_CRITERION>
+<AC_WEIGHTING>15 βαθμοί</AC_WEIGHTING>
+</AC_QUALITY>
+<AC_QUALITY>
+<AC_CRITERION>Προσέγγιση για τη διαχείριση και τη δοκιμή της διαμόρφωσης</AC_CRITERION>
+<AC_WEIGHTING>15 βαθμοί</AC_WEIGHTING>
+</AC_QUALITY>
+<AC_QUALITY>
+<AC_CRITERION>Σύνταξη εγγράφων BRD/SRS για το υποθετικό σενάριο</AC_CRITERION>
+<AC_WEIGHTING>15 βαθμοί</AC_WEIGHTING>
+</AC_QUALITY>
+<AC_QUALITY>
+<AC_CRITERION>Σύνταξη εγγράφου TDD για το υποθετικό σενάριο</AC_CRITERION>
+<AC_WEIGHTING>15 βαθμοί</AC_WEIGHTING>
+</AC_QUALITY>
+<AC_QUALITY>
+<AC_CRITERION>Βασικό χρονοδιάγραμμα σχεδίου για το υποθετικό σενάριο</AC_CRITERION>
+<AC_WEIGHTING>10 βαθμοί</AC_WEIGHTING>
+</AC_QUALITY>
+<AC_QUALITY>
+<AC_CRITERION>Περιγραφή των κινδύνων και των μέτρων μετριασμού για το υποθετικό σενάριο</AC_CRITERION>
+<AC_WEIGHTING>10 βαθμοί</AC_WEIGHTING>
+</AC_QUALITY>
+<AC_PRICE>
+<AC_WEIGHTING>40 %</AC_WEIGHTING>
+</AC_PRICE>
+<NO_OPTIONS/>
+<NO_EU_PROGR_RELATED/>
+</OBJECT_DESCR>
+</OBJECT_CONTRACT>
+<PROCEDURE>
+<PT_OPEN/>
+<FRAMEWORK/>
+<NO_CONTRACT_COVERED_GPA/>
+<NOTICE_NUMBER_OJ>2016/S 085-149362</NOTICE_NUMBER_OJ>
+</PROCEDURE>
+<AWARD_CONTRACT ITEM="1">
+<CONTRACT_NO>Frontex/OP/131/2016/AH (BoldBrick)</CONTRACT_NO>
+<TITLE>
+<P>Πολλαπλή σύμβαση-πλαίσιο με επανέναρξη του διαγωνισμού για την παροχή υπηρεσιών σχετικών με την τεχνολογία SharePoint</P>
+</TITLE>
+<AWARDED_CONTRACT>
+<DATE_CONCLUSION_CONTRACT>2016-09-01</DATE_CONCLUSION_CONTRACT>
+<NB_TENDERS_RECEIVED>5</NB_TENDERS_RECEIVED>
+<NO_AWARDED_TO_GROUP/>
+<CONTRACTOR>
+<ADDRESS_CONTRACTOR>
+<OFFICIALNAME>BoldBrick s.r.o.</OFFICIALNAME>
+<TOWN>Prague</TOWN>
+<COUNTRY VALUE="CZ"/>
+<NUTS CODE="CZ010"/>
+</ADDRESS_CONTRACTOR>
+<NO_SME/>
+</CONTRACTOR>
+<VAL_TOTAL CURRENCY="EUR">2650000.00</VAL_TOTAL>
+</AWARDED_CONTRACT>
+</AWARD_CONTRACT>
+<AWARD_CONTRACT ITEM="2">
+<CONTRACT_NO>Frontex/OP/131/2016/AH (Fabrity)</CONTRACT_NO>
+<TITLE>
+<P>Πολλαπλή σύμβαση-πλαίσιο με επανέναρξη του διαγωνισμού για την παροχή υπηρεσιών σχετικών με την τεχνολογία SharePoint</P>
+</TITLE>
+<AWARDED_CONTRACT>
+<DATE_CONCLUSION_CONTRACT>2016-09-01</DATE_CONCLUSION_CONTRACT>
+<NB_TENDERS_RECEIVED>5</NB_TENDERS_RECEIVED>
+<NO_AWARDED_TO_GROUP/>
+<CONTRACTOR>
+<ADDRESS_CONTRACTOR>
+<OFFICIALNAME>Fabrity K2 Sp. z o.o.</OFFICIALNAME>
+<TOWN>Warsaw</TOWN>
+<COUNTRY VALUE="PL"/>
+<NUTS CODE="PL127"/>
+</ADDRESS_CONTRACTOR>
+<NO_SME/>
+</CONTRACTOR>
+<VAL_TOTAL CURRENCY="EUR">2650000.00</VAL_TOTAL>
+</AWARDED_CONTRACT>
+</AWARD_CONTRACT>
+<AWARD_CONTRACT ITEM="3">
+<CONTRACT_NO>Frontex/OP/131/2016/AH (IT-Dev Sp. z o.o.)</CONTRACT_NO>
+<TITLE>
+<P>Πολλαπλή σύμβαση-πλαίσιο με επανέναρξη του διαγωνισμού για την παροχή υπηρεσιών σχετικών με την τεχνολογία SharePoint</P>
+</TITLE>
+<AWARDED_CONTRACT>
+<DATE_CONCLUSION_CONTRACT>2016-09-01</DATE_CONCLUSION_CONTRACT>
+<NB_TENDERS_RECEIVED>5</NB_TENDERS_RECEIVED>
+<NO_AWARDED_TO_GROUP/>
+<CONTRACTOR>
+<ADDRESS_CONTRACTOR>
+<OFFICIALNAME>IT-Dev Sp. z o.o.</OFFICIALNAME>
+<TOWN>Wrocław</TOWN>
+<COUNTRY VALUE="PL"/>
+<NUTS CODE="PL514"/>
+</ADDRESS_CONTRACTOR>
+<NO_SME/>
+</CONTRACTOR>
+<VAL_TOTAL CURRENCY="EUR">2650000.00</VAL_TOTAL>
+</AWARDED_CONTRACT>
+</AWARD_CONTRACT>
+<COMPLEMENTARY_INFO>
+<ADDRESS_REVIEW_BODY>
+<OFFICIALNAME>Γενικό Δικαστήριο</OFFICIALNAME>
+<ADDRESS>rue du Fort Niedergrünewald</ADDRESS>
+<TOWN>Luxembourg</TOWN>
+<POSTAL_CODE>2925</POSTAL_CODE>
+<COUNTRY VALUE="LU"/>
+<PHONE>+352 4303-1</PHONE>
+<E_MAIL>cfi.registry@curia.europa.eu</E_MAIL>
+<FAX>+352 4303-2100</FAX>
+<URL>http://www.curia.europa.eu</URL>
+</ADDRESS_REVIEW_BODY>
+<REVIEW_PROCEDURE>
+<P>εντός 2 μηνών από την κοινοποίηση στον προσφεύγοντα ή, ελλείψει τέτοιας, από την ημέρα που ο ίδιος έλαβε γνώση.</P>
+</REVIEW_PROCEDURE>
+<DATE_DISPATCH_NOTICE>2016-09-22</DATE_DISPATCH_NOTICE>
+</COMPLEMENTARY_INFO>
+</F03_2014>
+<F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="IT">
+<CONTRACTING_BODY>
+<ADDRESS_CONTRACTING_BODY>
+<OFFICIALNAME>Agenzia europea per la gestione della cooperazione operativa alle frontiere esterne degli Stati membri dell'Unione europea — Frontex</OFFICIALNAME>
+<ADDRESS>Plac Europejski 6</ADDRESS>
+<TOWN>Warsaw</TOWN>
+<POSTAL_CODE>00-844</POSTAL_CODE>
+<COUNTRY VALUE="PL"/>
+<CONTACT_POINT>Frontex Procurement Sector</CONTACT_POINT>
+<PHONE>+48 222059500</PHONE>
+<E_MAIL>procurement@frontex.europa.eu</E_MAIL>
+<FAX>+48 222059501</FAX>
+<NUTS CODE="PL127"/>
+<URL_GENERAL>http://www.frontex.europa.eu</URL_GENERAL>
+</ADDRESS_CONTRACTING_BODY>
+<CA_TYPE VALUE="EU_INSTITUTION"/>
+<CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+</CONTRACTING_BODY>
+<OBJECT_CONTRACT>
+<TITLE>
+<P>Contratto quadro multiplo con riapertura della gara per la prestazione di servizi connessi a Share-Point.</P>
+</TITLE>
+<REFERENCE_NUMBER>Frontex/OP/131/2016/AH.</REFERENCE_NUMBER>
+<CPV_MAIN>
+<CPV_CODE CODE="72000000"/>
+</CPV_MAIN>
+<TYPE_CONTRACT CTYPE="SERVICES"/>
+<SHORT_DESCR>
+<P>Lo scopo del presente appalto riguarda la prestazione di servizi TIC nell'ambito della tecnologia SharePoint.</P>
+</SHORT_DESCR>
+<VAL_TOTAL CURRENCY="EUR">2650000.00</VAL_TOTAL>
+<NO_LOT_DIVISION/>
+<OBJECT_DESCR ITEM="1">
+<NUTS CODE="PL127"/>
+<MAIN_SITE>
+<P>locali di Frontex, Varsavia, Polonia.</P>
+</MAIN_SITE>
+<SHORT_DESCR>
+<P>Il presente appalto (contratto quadro con riapertura della gara concluso con 3 operatori economici) è inteso a fornire servizi generici connessi alla piattaforma Share-Point nell'ambito di incarichi sulla base di tempi e mezzi, con tempi e mezzi indicati o a prezzo fisso. Contrariamente ad altri contratti per soluzioni specifiche e orientati al prodotto (ad esempio intranet di serie, sistemi di gestione di documenti), il presente appalto prenderà in considerazione le necessità di Frontex riguardanti soluzioni software sviluppate su misura e manutenzione della piattaforma esistente. Esso è inteso in senso lato, con riferimento a tutte le fasi del ciclo di vita del software e a tutti i settori tecnici dell'ingegneria del software. Pertanto, può riferirsi al tipico sviluppo di software così come alla manutenzione di soluzioni e piattaforme esistenti, al refactoring, al tuning ecc. </P>
+<P>Dal punto di vista tecnologico il presente appalto si concentra su Share-Point, eventuali future versioni di tale piattaforma nonché soluzioni basate su di essa e interfacce che la collegano ad altre soluzioni software utilizzate da Frontex.</P>
+</SHORT_DESCR>
+<AC_QUALITY>
+<AC_CRITERION>assicurazione della qualità per contratti specifici con tempi e mezzi e tempi e mezzi indicati</AC_CRITERION>
+<AC_WEIGHTING>20 punti</AC_WEIGHTING>
+</AC_QUALITY>
+<AC_QUALITY>
+<AC_CRITERION>sostegno di terzo livello</AC_CRITERION>
+<AC_WEIGHTING>15 punti</AC_WEIGHTING>
+</AC_QUALITY>
+<AC_QUALITY>
+<AC_CRITERION>approccio alla gestione della configurazione e al collaudo</AC_CRITERION>
+<AC_WEIGHTING>15 punti</AC_WEIGHTING>
+</AC_QUALITY>
+<AC_QUALITY>
+<AC_CRITERION>progetto riguardante i documenti relativi ai requisiti del sistema e aziendali per lo scenario ipotetico</AC_CRITERION>
+<AC_WEIGHTING>15 punti</AC_WEIGHTING>
+</AC_QUALITY>
+<AC_QUALITY>
+<AC_CRITERION>progetto riguardante i documenti di progettazione tecnica per lo scenario ipotetico</AC_CRITERION>
+<AC_WEIGHTING>15 punti</AC_WEIGHTING>
+</AC_QUALITY>
+<AC_QUALITY>
+<AC_CRITERION>calendario generale del progetto per lo scenario ipotetico</AC_CRITERION>
+<AC_WEIGHTING>10 punti</AC_WEIGHTING>
+</AC_QUALITY>
+<AC_QUALITY>
+<AC_CRITERION>descrizione dei rischi e delle misure di mitigazione per lo scenario ipotetico</AC_CRITERION>
+<AC_WEIGHTING>10 punti</AC_WEIGHTING>
+</AC_QUALITY>
+<AC_PRICE>
+<AC_WEIGHTING>40 %</AC_WEIGHTING>
+</AC_PRICE>
+<NO_OPTIONS/>
+<NO_EU_PROGR_RELATED/>
+</OBJECT_DESCR>
+</OBJECT_CONTRACT>
+<PROCEDURE>
+<PT_OPEN/>
+<FRAMEWORK/>
+<NO_CONTRACT_COVERED_GPA/>
+<NOTICE_NUMBER_OJ>2016/S 085-149362</NOTICE_NUMBER_OJ>
+</PROCEDURE>
+<AWARD_CONTRACT ITEM="1">
+<CONTRACT_NO>Frontex/OP/131/2016/AH (BoldBrick)</CONTRACT_NO>
+<TITLE>
+<P>Contratto quadro multiplo con riapertura della gara per la prestazione di servizi connessi a Share-Point</P>
+</TITLE>
+<AWARDED_CONTRACT>
+<DATE_CONCLUSION_CONTRACT>2016-09-01</DATE_CONCLUSION_CONTRACT>
+<NB_TENDERS_RECEIVED>5</NB_TENDERS_RECEIVED>
+<NO_AWARDED_TO_GROUP/>
+<CONTRACTOR>
+<ADDRESS_CONTRACTOR>
+<OFFICIALNAME>BoldBrick s.r.o.</OFFICIALNAME>
+<TOWN>Prague</TOWN>
+<COUNTRY VALUE="CZ"/>
+<NUTS CODE="CZ010"/>
+</ADDRESS_CONTRACTOR>
+<NO_SME/>
+</CONTRACTOR>
+<VAL_TOTAL CURRENCY="EUR">2650000.00</VAL_TOTAL>
+</AWARDED_CONTRACT>
+</AWARD_CONTRACT>
+<AWARD_CONTRACT ITEM="2">
+<CONTRACT_NO>Frontex/OP/131/2016/AH (Fabrity)</CONTRACT_NO>
+<TITLE>
+<P>Contratto quadro multiplo con riapertura della gara per la prestazione di servizi connessi a Share-Point</P>
+</TITLE>
+<AWARDED_CONTRACT>
+<DATE_CONCLUSION_CONTRACT>2016-09-01</DATE_CONCLUSION_CONTRACT>
+<NB_TENDERS_RECEIVED>5</NB_TENDERS_RECEIVED>
+<NO_AWARDED_TO_GROUP/>
+<CONTRACTOR>
+<ADDRESS_CONTRACTOR>
+<OFFICIALNAME>Fabrity K2 Sp. z o.o.</OFFICIALNAME>
+<TOWN>Warsaw</TOWN>
+<COUNTRY VALUE="PL"/>
+<NUTS CODE="PL127"/>
+</ADDRESS_CONTRACTOR>
+<NO_SME/>
+</CONTRACTOR>
+<VAL_TOTAL CURRENCY="EUR">2650000.00</VAL_TOTAL>
+</AWARDED_CONTRACT>
+</AWARD_CONTRACT>
+<AWARD_CONTRACT ITEM="3">
+<CONTRACT_NO>Frontex/OP/131/2016/AH (IT-Dev Sp. z o.o.)</CONTRACT_NO>
+<TITLE>
+<P>Contratto quadro multiplo con riapertura della gara per la prestazione di servizi connessi a Share-Point</P>
+</TITLE>
+<AWARDED_CONTRACT>
+<DATE_CONCLUSION_CONTRACT>2016-09-01</DATE_CONCLUSION_CONTRACT>
+<NB_TENDERS_RECEIVED>5</NB_TENDERS_RECEIVED>
+<NO_AWARDED_TO_GROUP/>
+<CONTRACTOR>
+<ADDRESS_CONTRACTOR>
+<OFFICIALNAME>IT-Dev Sp. z o.o.</OFFICIALNAME>
+<TOWN>Wrocław</TOWN>
+<COUNTRY VALUE="PL"/>
+<NUTS CODE="PL514"/>
+</ADDRESS_CONTRACTOR>
+<NO_SME/>
+</CONTRACTOR>
+<VAL_TOTAL CURRENCY="EUR">2650000.00</VAL_TOTAL>
+</AWARDED_CONTRACT>
+</AWARD_CONTRACT>
+<COMPLEMENTARY_INFO>
+<ADDRESS_REVIEW_BODY>
+<OFFICIALNAME>Tribunale</OFFICIALNAME>
+<ADDRESS>rue du Fort Niedergrünewald</ADDRESS>
+<TOWN>Luxembourg</TOWN>
+<POSTAL_CODE>2925</POSTAL_CODE>
+<COUNTRY VALUE="LU"/>
+<PHONE>+352 4303-1</PHONE>
+<E_MAIL>cfi.registry@curia.europa.eu</E_MAIL>
+<FAX>+352 4303-2100</FAX>
+<URL>http://www.curia.europa.eu</URL>
+</ADDRESS_REVIEW_BODY>
+<REVIEW_PROCEDURE>
+<P>entro 2 mesi dalla notifica al ricorrente o, in assenza, dal giorno in cui ne è venuto a conoscenza.</P>
+</REVIEW_PROCEDURE>
+<DATE_DISPATCH_NOTICE>2016-09-22</DATE_DISPATCH_NOTICE>
+</COMPLEMENTARY_INFO>
+</F03_2014>
+<F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="NL">
+<CONTRACTING_BODY>
+<ADDRESS_CONTRACTING_BODY>
+<OFFICIALNAME>Europees Agentschap voor het beheer van de operationele samenwerking aan de buitengrenzen van de lidstaten van de Europese Unie — Frontex</OFFICIALNAME>
+<ADDRESS>Plac Europejski 6</ADDRESS>
+<TOWN>Warsaw</TOWN>
+<POSTAL_CODE>00-844</POSTAL_CODE>
+<COUNTRY VALUE="PL"/>
+<CONTACT_POINT>Frontex Procurement Sector</CONTACT_POINT>
+<PHONE>+48 222059500</PHONE>
+<E_MAIL>procurement@frontex.europa.eu</E_MAIL>
+<FAX>+48 222059501</FAX>
+<NUTS CODE="PL127"/>
+<URL_GENERAL>http://www.frontex.europa.eu</URL_GENERAL>
+</ADDRESS_CONTRACTING_BODY>
+<CA_TYPE VALUE="EU_INSTITUTION"/>
+<CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+</CONTRACTING_BODY>
+<OBJECT_CONTRACT>
+<TITLE>
+<P>Meervoudige raamovereenkomst met heropening van mededinging voor de verlening van diensten in verband met SharePoint.</P>
+</TITLE>
+<REFERENCE_NUMBER>Frontex/OP/131/2016/AH.</REFERENCE_NUMBER>
+<CPV_MAIN>
+<CPV_CODE CODE="72000000"/>
+</CPV_MAIN>
+<TYPE_CONTRACT CTYPE="SERVICES"/>
+<SHORT_DESCR>
+<P>Het toepassingsgebied van de opdracht omvat de verlening van ICT-diensten op het gebied van SharePoint-technologie.</P>
+</SHORT_DESCR>
+<VAL_TOTAL CURRENCY="EUR">2650000.00</VAL_TOTAL>
+<NO_LOT_DIVISION/>
+<OBJECT_DESCR ITEM="1">
+<NUTS CODE="PL127"/>
+<MAIN_SITE>
+<P>kantoor van Frontex, Warschau, Polen.</P>
+</MAIN_SITE>
+<SHORT_DESCR>
+<P>Deze opdracht (raamovereenkomst met heropening van mededinging gesloten met 3 ondernemers), wordt beschouwd als een bron voor generieke diensten in verband met het SP-platform in het kader van taken op basis van tijd en middelen, opgegeven tijd en middelen of een vaste prijs. In tegenstelling tot andere, op specifieke oplossingen en producten gerichte opdrachten (bijv. intranet COTS, DMS) richt deze opdracht zich op de behoeften van Frontex met betrekking tot op maat ontwikkelde softwareoplossingen en het onderhoud van het bestaande platform. Het moet in brede zin worden begrepen met verwijzing naar alle fasen van een levenscyclus van software en technische domeinen van software-engineering. Daarom kan het zowel de typische ontwikkeling van software als het onderhoud van bestaande platforms en oplossingen, refactoring, tuning enz. bestrijken.</P>
+<P>Onderhavige opdracht is technologisch gericht op SP, mogelijke toekomstige versies van dit platform alsook op oplossingen die erop gebouwd zijn en interfaces die het verbinden met andere softwareoplossingen die door Frontex worden gebruikt.</P>
+</SHORT_DESCR>
+<AC_QUALITY>
+<AC_CRITERION>Kwaliteitsborging voor specifieke opdrachten met betrekking tot tijd en middelen en opgegeven tijd en middelen</AC_CRITERION>
+<AC_WEIGHTING>20 punten</AC_WEIGHTING>
+</AC_QUALITY>
+<AC_QUALITY>
+<AC_CRITERION>Derdelijnsondersteuning</AC_CRITERION>
+<AC_WEIGHTING>15 punten</AC_WEIGHTING>
+</AC_QUALITY>
+<AC_QUALITY>
+<AC_CRITERION>Aanpak voor configuratiebeheer en -tests</AC_CRITERION>
+<AC_WEIGHTING>15 punten</AC_WEIGHTING>
+</AC_QUALITY>
+<AC_QUALITY>
+<AC_CRITERION>Ontwerp van documenten inzake bedrijfs- en systeemvereisten (BRD/SRS) voor het hypothetische scenario</AC_CRITERION>
+<AC_WEIGHTING>15 punten</AC_WEIGHTING>
+</AC_QUALITY>
+<AC_QUALITY>
+<AC_CRITERION>Ontwerp van een technisch ontwerpdocument (TDD) voor het hypothetische scenario</AC_CRITERION>
+<AC_WEIGHTING>15 punten</AC_WEIGHTING>
+</AC_QUALITY>
+<AC_QUALITY>
+<AC_CRITERION>Algemeen tijdschema voor het hypothetische scenario</AC_CRITERION>
+<AC_WEIGHTING>10 punten</AC_WEIGHTING>
+</AC_QUALITY>
+<AC_QUALITY>
+<AC_CRITERION>Beschrijving van de risico's en de beperkingen voor het hypothetische scenario</AC_CRITERION>
+<AC_WEIGHTING>10 punten</AC_WEIGHTING>
+</AC_QUALITY>
+<AC_PRICE>
+<AC_WEIGHTING>40 %</AC_WEIGHTING>
+</AC_PRICE>
+<NO_OPTIONS/>
+<NO_EU_PROGR_RELATED/>
+</OBJECT_DESCR>
+</OBJECT_CONTRACT>
+<PROCEDURE>
+<PT_OPEN/>
+<FRAMEWORK/>
+<NO_CONTRACT_COVERED_GPA/>
+<NOTICE_NUMBER_OJ>2016/S 085-149362</NOTICE_NUMBER_OJ>
+</PROCEDURE>
+<AWARD_CONTRACT ITEM="1">
+<CONTRACT_NO>Frontex/OP/131/2016/AH (BoldBrick)</CONTRACT_NO>
+<TITLE>
+<P>Meervoudige raamovereenkomst met heropening van mededinging voor de verlening van diensten in verband met SharePoint</P>
+</TITLE>
+<AWARDED_CONTRACT>
+<DATE_CONCLUSION_CONTRACT>2016-09-01</DATE_CONCLUSION_CONTRACT>
+<NB_TENDERS_RECEIVED>5</NB_TENDERS_RECEIVED>
+<NO_AWARDED_TO_GROUP/>
+<CONTRACTOR>
+<ADDRESS_CONTRACTOR>
+<OFFICIALNAME>BoldBrick s.r.o.</OFFICIALNAME>
+<TOWN>Prague</TOWN>
+<COUNTRY VALUE="CZ"/>
+<NUTS CODE="CZ010"/>
+</ADDRESS_CONTRACTOR>
+<NO_SME/>
+</CONTRACTOR>
+<VAL_TOTAL CURRENCY="EUR">2650000.00</VAL_TOTAL>
+</AWARDED_CONTRACT>
+</AWARD_CONTRACT>
+<AWARD_CONTRACT ITEM="2">
+<CONTRACT_NO>Frontex/OP/131/2016/AH (Fabrity)</CONTRACT_NO>
+<TITLE>
+<P>Meervoudige raamovereenkomst met heropening van mededinging voor de verlening van diensten in verband met SharePoint</P>
+</TITLE>
+<AWARDED_CONTRACT>
+<DATE_CONCLUSION_CONTRACT>2016-09-01</DATE_CONCLUSION_CONTRACT>
+<NB_TENDERS_RECEIVED>5</NB_TENDERS_RECEIVED>
+<NO_AWARDED_TO_GROUP/>
+<CONTRACTOR>
+<ADDRESS_CONTRACTOR>
+<OFFICIALNAME>Fabrity K2 Sp. z o.o.</OFFICIALNAME>
+<TOWN>Warsaw</TOWN>
+<COUNTRY VALUE="PL"/>
+<NUTS CODE="PL127"/>
+</ADDRESS_CONTRACTOR>
+<NO_SME/>
+</CONTRACTOR>
+<VAL_TOTAL CURRENCY="EUR">2650000.00</VAL_TOTAL>
+</AWARDED_CONTRACT>
+</AWARD_CONTRACT>
+<AWARD_CONTRACT ITEM="3">
+<CONTRACT_NO>Frontex/OP/131/2016/AH (IT-Dev Sp. z o.o.)</CONTRACT_NO>
+<TITLE>
+<P>Meervoudige raamovereenkomst met heropening van mededinging voor de verlening van diensten in verband met SharePoint</P>
+</TITLE>
+<AWARDED_CONTRACT>
+<DATE_CONCLUSION_CONTRACT>2016-09-01</DATE_CONCLUSION_CONTRACT>
+<NB_TENDERS_RECEIVED>5</NB_TENDERS_RECEIVED>
+<NO_AWARDED_TO_GROUP/>
+<CONTRACTOR>
+<ADDRESS_CONTRACTOR>
+<OFFICIALNAME>IT-Dev Sp. z o.o.</OFFICIALNAME>
+<TOWN>Wrocław</TOWN>
+<COUNTRY VALUE="PL"/>
+<NUTS CODE="PL514"/>
+</ADDRESS_CONTRACTOR>
+<NO_SME/>
+</CONTRACTOR>
+<VAL_TOTAL CURRENCY="EUR">2650000.00</VAL_TOTAL>
+</AWARDED_CONTRACT>
+</AWARD_CONTRACT>
+<COMPLEMENTARY_INFO>
+<ADDRESS_REVIEW_BODY>
+<OFFICIALNAME>Gerecht</OFFICIALNAME>
+<ADDRESS>rue du Fort Niedergrünewald</ADDRESS>
+<TOWN>Luxembourg</TOWN>
+<POSTAL_CODE>2925</POSTAL_CODE>
+<COUNTRY VALUE="LU"/>
+<PHONE>+352 4303-1</PHONE>
+<E_MAIL>cfi.registry@curia.europa.eu</E_MAIL>
+<FAX>+352 4303-2100</FAX>
+<URL>http://www.curia.europa.eu</URL>
+</ADDRESS_REVIEW_BODY>
+<REVIEW_PROCEDURE>
+<P>binnen 2 maanden na de kennisgeving aan de klager of, bij ontbreken daarvan, binnen 2 maanden na de dag waarop het bekend werd.</P>
+</REVIEW_PROCEDURE>
+<DATE_DISPATCH_NOTICE>2016-09-22</DATE_DISPATCH_NOTICE>
+</COMPLEMENTARY_INFO>
+</F03_2014>
+<F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="PT">
+<CONTRACTING_BODY>
+<ADDRESS_CONTRACTING_BODY>
+<OFFICIALNAME>Agência Europeia de Gestão da Cooperação Operacional nas Fronteiras Externas dos Estados-Membros da União Europeia — Frontex</OFFICIALNAME>
+<ADDRESS>Plac Europejski 6</ADDRESS>
+<TOWN>Warsaw</TOWN>
+<POSTAL_CODE>00-844</POSTAL_CODE>
+<COUNTRY VALUE="PL"/>
+<CONTACT_POINT>Frontex Procurement Sector</CONTACT_POINT>
+<PHONE>+48 222059500</PHONE>
+<E_MAIL>procurement@frontex.europa.eu</E_MAIL>
+<FAX>+48 222059501</FAX>
+<NUTS CODE="PL127"/>
+<URL_GENERAL>http://www.frontex.europa.eu</URL_GENERAL>
+</ADDRESS_CONTRACTING_BODY>
+<CA_TYPE VALUE="EU_INSTITUTION"/>
+<CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+</CONTRACTING_BODY>
+<OBJECT_CONTRACT>
+<TITLE>
+<P>Contrato-quadro múltiplo, com reabertura de concurso, para a prestação de serviços relacionados com SharePoint.</P>
+</TITLE>
+<REFERENCE_NUMBER>Frontex/OP/131/2016/AH.</REFERENCE_NUMBER>
+<CPV_MAIN>
+<CPV_CODE CODE="72000000"/>
+</CPV_MAIN>
+<TYPE_CONTRACT CTYPE="SERVICES"/>
+<SHORT_DESCR>
+<P>O âmbito do contrato abrange a prestação de serviços no domínio das TIC em tecnologia SharePoint.</P>
+</SHORT_DESCR>
+<VAL_TOTAL CURRENCY="EUR">2650000.00</VAL_TOTAL>
+<NO_LOT_DIVISION/>
+<OBJECT_DESCR ITEM="1">
+<NUTS CODE="PL127"/>
+<MAIN_SITE>
+<P>Instalações da Frontex, Varsóvia, Polónia.</P>
+</MAIN_SITE>
+<SHORT_DESCR>
+<P>O presente contrato (contrato-quadro, com reabertura de concurso, celebrado com 3 operadores económicos) deve ser considerado uma fonte de serviços genéricos relacionados com a plataforma SP no âmbito de tarefas baseadas em preços fixos, prazos e meios estipulados ou prazos e meios. Contrariamente a outros contratos orientados para produtos e soluções específicas (por exemplo, Intranet disponível no mercado, sistema de gestão de documentos), este contrato atenderá às necessidades da Frontex em matéria de soluções personalizadas de software e manutenção da plataforma existente. Deve ser entendido, num sentido lato, com referência a todas as fases do ciclo de vida do software e domínios técnicos de engenharia de software. Consequentemente, pode abranger o desenvolvimento de software típico, bem como a manutenção da plataforma e das soluções existentes, a refatoração, a otimização, etc.</P>
+<P>A nível tecnológico, este contrato centra-se na plataforma SP, nas possíveis versões futuras desta plataforma, bem como nas soluções nela incorporadas e nas interfaces que a associam a outras soluções de software utilizadas pela Frontex.</P>
+</SHORT_DESCR>
+<AC_QUALITY>
+<AC_CRITERION>garantia de qualidade para os contratos especificamente baseados em prazos e meios estipulados e em prazos e meios</AC_CRITERION>
+<AC_WEIGHTING>20 pontos</AC_WEIGHTING>
+</AC_QUALITY>
+<AC_QUALITY>
+<AC_CRITERION>apoio de terceiro nível</AC_CRITERION>
+<AC_WEIGHTING>15 pontos</AC_WEIGHTING>
+</AC_QUALITY>
+<AC_QUALITY>
+<AC_CRITERION>abordagem à gestão e ao ensaio da configuração</AC_CRITERION>
+<AC_WEIGHTING>15 pontos</AC_WEIGHTING>
+</AC_QUALITY>
+<AC_QUALITY>
+<AC_CRITERION>projeto de documento de requisitos do sistema/documento de requisitos empresariais para o cenário hipotético</AC_CRITERION>
+<AC_WEIGHTING>15 pontos</AC_WEIGHTING>
+</AC_QUALITY>
+<AC_QUALITY>
+<AC_CRITERION>projeto de documento de conceção técnica para o cenário hipotético</AC_CRITERION>
+<AC_WEIGHTING>15 pontos</AC_WEIGHTING>
+</AC_QUALITY>
+<AC_QUALITY>
+<AC_CRITERION>plano-mestre do projeto para o cenário hipotético</AC_CRITERION>
+<AC_WEIGHTING>10 pontos</AC_WEIGHTING>
+</AC_QUALITY>
+<AC_QUALITY>
+<AC_CRITERION>descrição dos riscos e mitigações para o cenário hipotético</AC_CRITERION>
+<AC_WEIGHTING>10 pontos</AC_WEIGHTING>
+</AC_QUALITY>
+<AC_PRICE>
+<AC_WEIGHTING>40 %</AC_WEIGHTING>
+</AC_PRICE>
+<NO_OPTIONS/>
+<NO_EU_PROGR_RELATED/>
+</OBJECT_DESCR>
+</OBJECT_CONTRACT>
+<PROCEDURE>
+<PT_OPEN/>
+<FRAMEWORK/>
+<NO_CONTRACT_COVERED_GPA/>
+<NOTICE_NUMBER_OJ>2016/S 085-149362</NOTICE_NUMBER_OJ>
+</PROCEDURE>
+<AWARD_CONTRACT ITEM="1">
+<CONTRACT_NO>Frontex/OP/131/2016/AH (BoldBrick)</CONTRACT_NO>
+<TITLE>
+<P>Contrato-quadro múltiplo, com reabertura de concurso, para a prestação de serviços relacionados com SharePoint</P>
+</TITLE>
+<AWARDED_CONTRACT>
+<DATE_CONCLUSION_CONTRACT>2016-09-01</DATE_CONCLUSION_CONTRACT>
+<NB_TENDERS_RECEIVED>5</NB_TENDERS_RECEIVED>
+<NO_AWARDED_TO_GROUP/>
+<CONTRACTOR>
+<ADDRESS_CONTRACTOR>
+<OFFICIALNAME>BoldBrick s.r.o.</OFFICIALNAME>
+<TOWN>Prague</TOWN>
+<COUNTRY VALUE="CZ"/>
+<NUTS CODE="CZ010"/>
+</ADDRESS_CONTRACTOR>
+<NO_SME/>
+</CONTRACTOR>
+<VAL_TOTAL CURRENCY="EUR">2650000.00</VAL_TOTAL>
+</AWARDED_CONTRACT>
+</AWARD_CONTRACT>
+<AWARD_CONTRACT ITEM="2">
+<CONTRACT_NO>Frontex/OP/131/2016/AH (Fabrity)</CONTRACT_NO>
+<TITLE>
+<P>Contrato-quadro múltiplo, com reabertura de concurso, para a prestação de serviços relacionados com SharePoint</P>
+</TITLE>
+<AWARDED_CONTRACT>
+<DATE_CONCLUSION_CONTRACT>2016-09-01</DATE_CONCLUSION_CONTRACT>
+<NB_TENDERS_RECEIVED>5</NB_TENDERS_RECEIVED>
+<NO_AWARDED_TO_GROUP/>
+<CONTRACTOR>
+<ADDRESS_CONTRACTOR>
+<OFFICIALNAME>Fabrity K2 Sp. z o.o.</OFFICIALNAME>
+<TOWN>Warsaw</TOWN>
+<COUNTRY VALUE="PL"/>
+<NUTS CODE="PL127"/>
+</ADDRESS_CONTRACTOR>
+<NO_SME/>
+</CONTRACTOR>
+<VAL_TOTAL CURRENCY="EUR">2650000.00</VAL_TOTAL>
+</AWARDED_CONTRACT>
+</AWARD_CONTRACT>
+<AWARD_CONTRACT ITEM="3">
+<CONTRACT_NO>Frontex/OP/131/2016/AH (IT-Dev Sp. z o.o.)</CONTRACT_NO>
+<TITLE>
+<P>Contrato-quadro múltiplo, com reabertura de concurso, para a prestação de serviços relacionados com SharePoint</P>
+</TITLE>
+<AWARDED_CONTRACT>
+<DATE_CONCLUSION_CONTRACT>2016-09-01</DATE_CONCLUSION_CONTRACT>
+<NB_TENDERS_RECEIVED>5</NB_TENDERS_RECEIVED>
+<NO_AWARDED_TO_GROUP/>
+<CONTRACTOR>
+<ADDRESS_CONTRACTOR>
+<OFFICIALNAME>IT-Dev Sp. z o.o.</OFFICIALNAME>
+<TOWN>Wrocław</TOWN>
+<COUNTRY VALUE="PL"/>
+<NUTS CODE="PL514"/>
+</ADDRESS_CONTRACTOR>
+<NO_SME/>
+</CONTRACTOR>
+<VAL_TOTAL CURRENCY="EUR">2650000.00</VAL_TOTAL>
+</AWARDED_CONTRACT>
+</AWARD_CONTRACT>
+<COMPLEMENTARY_INFO>
+<ADDRESS_REVIEW_BODY>
+<OFFICIALNAME>Tribunal Geral</OFFICIALNAME>
+<ADDRESS>rue du Fort Niedergrünewald</ADDRESS>
+<TOWN>Luxembourg</TOWN>
+<POSTAL_CODE>2925</POSTAL_CODE>
+<COUNTRY VALUE="LU"/>
+<PHONE>+352 4303-1</PHONE>
+<E_MAIL>cfi.registry@curia.europa.eu</E_MAIL>
+<FAX>+352 4303-2100</FAX>
+<URL>http://www.curia.europa.eu</URL>
+</ADDRESS_REVIEW_BODY>
+<REVIEW_PROCEDURE>
+<P>Num prazo de 2 meses a contar da data de notificação ao requerente ou, na sua falta, a contar do dia em que o requerente tenha tomado conhecimento do ato.</P>
+</REVIEW_PROCEDURE>
+<DATE_DISPATCH_NOTICE>2016-09-22</DATE_DISPATCH_NOTICE>
+</COMPLEMENTARY_INFO>
+</F03_2014>
+<F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="SV">
+<CONTRACTING_BODY>
+<ADDRESS_CONTRACTING_BODY>
+<OFFICIALNAME>Europeiska byrån för förvaltningen av det operativa samarbetet vid Europeiska unionens medlemsstaters yttre gränser – Frontex</OFFICIALNAME>
+<ADDRESS>Plac Europejski 6</ADDRESS>
+<TOWN>Warsaw</TOWN>
+<POSTAL_CODE>00-844</POSTAL_CODE>
+<COUNTRY VALUE="PL"/>
+<CONTACT_POINT>Frontex Procurement Sector</CONTACT_POINT>
+<PHONE>+48 222059500</PHONE>
+<E_MAIL>procurement@frontex.europa.eu</E_MAIL>
+<FAX>+48 222059501</FAX>
+<NUTS CODE="PL127"/>
+<URL_GENERAL>http://www.frontex.europa.eu</URL_GENERAL>
+</ADDRESS_CONTRACTING_BODY>
+<CA_TYPE VALUE="EU_INSTITUTION"/>
+<CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+</CONTRACTING_BODY>
+<OBJECT_CONTRACT>
+<TITLE>
+<P>Multipelt ramavtal med förnyad inbjudan att lämna anbud för tillhandahållande av tjänster med anknytning till SharePoint</P>
+</TITLE>
+<REFERENCE_NUMBER>Frontex/OP/131/2016/AH.</REFERENCE_NUMBER>
+<CPV_MAIN>
+<CPV_CODE CODE="72000000"/>
+</CPV_MAIN>
+<TYPE_CONTRACT CTYPE="SERVICES"/>
+<SHORT_DESCR>
+<P>Kontraktet omfattar tillhandahållande av IKT-tjänster inom SharePoint-teknik.</P>
+</SHORT_DESCR>
+<VAL_TOTAL CURRENCY="EUR">2650000.00</VAL_TOTAL>
+<NO_LOT_DIVISION/>
+<OBJECT_DESCR ITEM="1">
+<NUTS CODE="PL127"/>
+<MAIN_SITE>
+<P>Frontex kontor, Warszawa, Polen.</P>
+</MAIN_SITE>
+<SHORT_DESCR>
+<P>Detta kontrakt (ramavtal, med förnyad inbjudan att lämna anbud, som slutits med 3 ekonomiska aktörer) ska ses som en källa för allmänna tjänster med anknytning till SharePoint-plattformen (SharePoint – SP) inom ramen för uppdrag på grundval av tid och medel (times and means – T&amp;M) eller föreslagen tid och föreslagna medel (quoted times and means – QT&amp;M) eller för uppdrag till fast pris. I motsats till andra specifika lösningsorienterade och produktorienterade kontrakt (t.ex. intranät som baseras på Cots, datahanteringssystem [document management system – DMS]) kommer detta kontrakt att inrikta sig på Frontex behov av skräddarsydda programvarulösningar samt underhåll av den befintliga plattformen. Kontraktet ska ses ur ett brett perspektiv avseende alla etapper i programvarors livscykel samt tekniska områden inom programvaruutveckling. Därför kan kontraktet omfatta typisk programvaruutveckling såväl som underhåll av befintliga plattformar och lösningar, refaktorisering, justering etc.</P>
+<P>Ur teknisk synvinkel är kontraktet inriktat på SP, eventuella framtida versioner av denna plattform samt lösningar som bygger på plattformen och gränssnitt som kopplar den till andra programvarulösningar som används av Frontex.</P>
+</SHORT_DESCR>
+<AC_QUALITY>
+<AC_CRITERION>Kvalitetssäkring för specifika kontrakt på grundval av tid och medel samt föreslagen tid och föreslagna medel</AC_CRITERION>
+<AC_WEIGHTING>20 poäng</AC_WEIGHTING>
+</AC_QUALITY>
+<AC_QUALITY>
+<AC_CRITERION>Support på 3:e nivån</AC_CRITERION>
+<AC_WEIGHTING>15 poäng</AC_WEIGHTING>
+</AC_QUALITY>
+<AC_QUALITY>
+<AC_CRITERION>Strategi för konfigurationsledning och testning</AC_CRITERION>
+<AC_WEIGHTING>15 poäng</AC_WEIGHTING>
+</AC_QUALITY>
+<AC_QUALITY>
+<AC_CRITERION>Utkast till dokument för verksamhets- och systemkrav (business and system requirement documents – BRD/SRS) för det hypotetiska scenariot</AC_CRITERION>
+<AC_WEIGHTING>15 poäng</AC_WEIGHTING>
+</AC_QUALITY>
+<AC_QUALITY>
+<AC_CRITERION>Utkast till dokument för teknisk utformning (technical design document – TDD) avseende det hypotetiska scenariot</AC_CRITERION>
+<AC_WEIGHTING>15 poäng</AC_WEIGHTING>
+</AC_QUALITY>
+<AC_QUALITY>
+<AC_CRITERION>Översiktsplan för projekt avseende det hypotetiska scenariot</AC_CRITERION>
+<AC_WEIGHTING>10 poäng</AC_WEIGHTING>
+</AC_QUALITY>
+<AC_QUALITY>
+<AC_CRITERION>Beskrivning av risker och riskreducerande åtgärder avseende det hypotetiska scenariot</AC_CRITERION>
+<AC_WEIGHTING>10 poäng</AC_WEIGHTING>
+</AC_QUALITY>
+<AC_PRICE>
+<AC_WEIGHTING>40 %</AC_WEIGHTING>
+</AC_PRICE>
+<NO_OPTIONS/>
+<NO_EU_PROGR_RELATED/>
+</OBJECT_DESCR>
+</OBJECT_CONTRACT>
+<PROCEDURE>
+<PT_OPEN/>
+<FRAMEWORK/>
+<NO_CONTRACT_COVERED_GPA/>
+<NOTICE_NUMBER_OJ>2016/S 085-149362</NOTICE_NUMBER_OJ>
+</PROCEDURE>
+<AWARD_CONTRACT ITEM="1">
+<CONTRACT_NO>Frontex/OP/131/2016/AH (BoldBrick)</CONTRACT_NO>
+<TITLE>
+<P>Multipelt ramavtal med förnyad inbjudan att lämna anbud för tillhandahållande av tjänster med anknytning till SharePoint</P>
+</TITLE>
+<AWARDED_CONTRACT>
+<DATE_CONCLUSION_CONTRACT>2016-09-01</DATE_CONCLUSION_CONTRACT>
+<NB_TENDERS_RECEIVED>5</NB_TENDERS_RECEIVED>
+<NO_AWARDED_TO_GROUP/>
+<CONTRACTOR>
+<ADDRESS_CONTRACTOR>
+<OFFICIALNAME>BoldBrick s.r.o.</OFFICIALNAME>
+<TOWN>Prague</TOWN>
+<COUNTRY VALUE="CZ"/>
+<NUTS CODE="CZ010"/>
+</ADDRESS_CONTRACTOR>
+<NO_SME/>
+</CONTRACTOR>
+<VAL_TOTAL CURRENCY="EUR">2650000.00</VAL_TOTAL>
+</AWARDED_CONTRACT>
+</AWARD_CONTRACT>
+<AWARD_CONTRACT ITEM="2">
+<CONTRACT_NO>Frontex/OP/131/2016/AH (Fabrity)</CONTRACT_NO>
+<TITLE>
+<P>Multipelt ramavtal med förnyad inbjudan att lämna anbud för tillhandahållande av tjänster med anknytning till SharePoint</P>
+</TITLE>
+<AWARDED_CONTRACT>
+<DATE_CONCLUSION_CONTRACT>2016-09-01</DATE_CONCLUSION_CONTRACT>
+<NB_TENDERS_RECEIVED>5</NB_TENDERS_RECEIVED>
+<NO_AWARDED_TO_GROUP/>
+<CONTRACTOR>
+<ADDRESS_CONTRACTOR>
+<OFFICIALNAME>Fabrity K2 Sp. z o.o.</OFFICIALNAME>
+<TOWN>Warsaw</TOWN>
+<COUNTRY VALUE="PL"/>
+<NUTS CODE="PL127"/>
+</ADDRESS_CONTRACTOR>
+<NO_SME/>
+</CONTRACTOR>
+<VAL_TOTAL CURRENCY="EUR">2650000.00</VAL_TOTAL>
+</AWARDED_CONTRACT>
+</AWARD_CONTRACT>
+<AWARD_CONTRACT ITEM="3">
+<CONTRACT_NO>Frontex/OP/131/2016/AH (IT-Dev Sp. z o.o.)</CONTRACT_NO>
+<TITLE>
+<P>Multipelt ramavtal med förnyad inbjudan att lämna anbud för tillhandahållande av tjänster med anknytning till SharePoint</P>
+</TITLE>
+<AWARDED_CONTRACT>
+<DATE_CONCLUSION_CONTRACT>2016-09-01</DATE_CONCLUSION_CONTRACT>
+<NB_TENDERS_RECEIVED>5</NB_TENDERS_RECEIVED>
+<NO_AWARDED_TO_GROUP/>
+<CONTRACTOR>
+<ADDRESS_CONTRACTOR>
+<OFFICIALNAME>IT-Dev Sp. z o.o.</OFFICIALNAME>
+<TOWN>Wrocław</TOWN>
+<COUNTRY VALUE="PL"/>
+<NUTS CODE="PL514"/>
+</ADDRESS_CONTRACTOR>
+<NO_SME/>
+</CONTRACTOR>
+<VAL_TOTAL CURRENCY="EUR">2650000.00</VAL_TOTAL>
+</AWARDED_CONTRACT>
+</AWARD_CONTRACT>
+<COMPLEMENTARY_INFO>
+<ADDRESS_REVIEW_BODY>
+<OFFICIALNAME>Tribunalen</OFFICIALNAME>
+<ADDRESS>rue du Fort Niedergrünewald</ADDRESS>
+<TOWN>Luxembourg</TOWN>
+<POSTAL_CODE>2925</POSTAL_CODE>
+<COUNTRY VALUE="LU"/>
+<PHONE>+352 4303-1</PHONE>
+<E_MAIL>cfi.registry@curia.europa.eu</E_MAIL>
+<FAX>+352 4303-2100</FAX>
+<URL>http://www.curia.europa.eu</URL>
+</ADDRESS_REVIEW_BODY>
+<REVIEW_PROCEDURE>
+<P>Inom 2 månader från den dag då den klagande delgavs eller, om så inte skett, från den dag då det blev känt.</P>
+</REVIEW_PROCEDURE>
+<DATE_DISPATCH_NOTICE>2016-09-22</DATE_DISPATCH_NOTICE>
+</COMPLEMENTARY_INFO>
+</F03_2014>
+<F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="CS">
+<CONTRACTING_BODY>
+<ADDRESS_CONTRACTING_BODY>
+<OFFICIALNAME>Evropská agentura pro řízení operativní spolupráce na vnějších hranicích členských států Evropské unie – Frontex</OFFICIALNAME>
+<ADDRESS>Plac Europejski 6</ADDRESS>
+<TOWN>Warsaw</TOWN>
+<POSTAL_CODE>00-844</POSTAL_CODE>
+<COUNTRY VALUE="PL"/>
+<CONTACT_POINT>Frontex Procurement Sector</CONTACT_POINT>
+<PHONE>+48 222059500</PHONE>
+<E_MAIL>procurement@frontex.europa.eu</E_MAIL>
+<FAX>+48 222059501</FAX>
+<NUTS CODE="PL127"/>
+<URL_GENERAL>http://www.frontex.europa.eu</URL_GENERAL>
+</ADDRESS_CONTRACTING_BODY>
+<CA_TYPE VALUE="EU_INSTITUTION"/>
+<CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+</CONTRACTING_BODY>
+<OBJECT_CONTRACT>
+<TITLE>
+<P>Vícestranná rámcová smlouva s opětným otevřením soutěže na poskytování služeb souvisejících s programem SharePoint.</P>
+</TITLE>
+<REFERENCE_NUMBER>Frontex/OP/131/2016/AH.</REFERENCE_NUMBER>
+<CPV_MAIN>
+<CPV_CODE CODE="72000000"/>
+</CPV_MAIN>
+<TYPE_CONTRACT CTYPE="SERVICES"/>
+<SHORT_DESCR>
+<P>Rozsahem zakázky je poskytování služeb IKT v rámci technologie SharePoint.</P>
+</SHORT_DESCR>
+<VAL_TOTAL CURRENCY="EUR">2650000.00</VAL_TOTAL>
+<NO_LOT_DIVISION/>
+<OBJECT_DESCR ITEM="1">
+<NUTS CODE="PL127"/>
+<MAIN_SITE>
+<P>Prostory agentury Frontex, Varšava, Polsko.</P>
+</MAIN_SITE>
+<SHORT_DESCR>
+<P>Tato zakázka (rámcová zakázka s opětným otevřením hospodářské soutěže uzavřená se 3 hospodářskými subjekty) bude považována za zdroj generických služeb týkajících se platformy SP v rámci úkolů vycházejících z času a prostředků, stanoveného času a prostředků nebo úkolů s pevnou cenou. Na rozdíl od ostatních zakázek orientovaných na konkrétní řešení nebo produkt (např. standardní komerční (COTS) intranet, systém pro správu dokumentů (DMS)) bude tato zakázka řešit potřeby Frontexu týkající se zakázkově vyvíjených softwarových řešení a údržby stávající platformy. Musí to být chápáno v širším smyslu s odkazem na všechny fáze životnosti softwaru a technické oblasti softwarového inženýrství. Může proto zahrnovat typický vývoj softwaru, jakož i údržbu stávající platformy a řešení, refaktorování, vyladění atd.</P>
+<P>Technologicky je tato zakázka zaměřena na SP, možné budoucí verze této platformy, jakož i na řešení z ní vycházející a na rozhraní, které ji spojují s ostatními softwarovými řešeními, která používá Frontex.</P>
+</SHORT_DESCR>
+<AC_QUALITY>
+<AC_CRITERION>Zabezpečení jakosti v případě dílčí zakázky na základě času a prostředků a stanoveného času a prostředků.</AC_CRITERION>
+<AC_WEIGHTING>20 bodů</AC_WEIGHTING>
+</AC_QUALITY>
+<AC_QUALITY>
+<AC_CRITERION>Podpora 3. úrovně</AC_CRITERION>
+<AC_WEIGHTING>15 bodů</AC_WEIGHTING>
+</AC_QUALITY>
+<AC_QUALITY>
+<AC_CRITERION>Přístup ke správě konfigurace a testování</AC_CRITERION>
+<AC_WEIGHTING>15 bodů</AC_WEIGHTING>
+</AC_QUALITY>
+<AC_QUALITY>
+<AC_CRITERION>Návrh dokumentace obchodních a systémových požadavků (BRD/SRS) pro hypotetický scénář</AC_CRITERION>
+<AC_WEIGHTING>15 bodů</AC_WEIGHTING>
+</AC_QUALITY>
+<AC_QUALITY>
+<AC_CRITERION>Návrh dokumentace technického návrhu (TDD) pro hypotetický scénář</AC_CRITERION>
+<AC_WEIGHTING>15 bodů</AC_WEIGHTING>
+</AC_QUALITY>
+<AC_QUALITY>
+<AC_CRITERION>Hlavní harmonogram projektu pro hypotetický scénář</AC_CRITERION>
+<AC_WEIGHTING>10 bodů</AC_WEIGHTING>
+</AC_QUALITY>
+<AC_QUALITY>
+<AC_CRITERION>Popis rizik a jejich zmírnění pro hypotetický scénář</AC_CRITERION>
+<AC_WEIGHTING>10 bodů</AC_WEIGHTING>
+</AC_QUALITY>
+<AC_PRICE>
+<AC_WEIGHTING>40 %</AC_WEIGHTING>
+</AC_PRICE>
+<NO_OPTIONS/>
+<NO_EU_PROGR_RELATED/>
+</OBJECT_DESCR>
+</OBJECT_CONTRACT>
+<PROCEDURE>
+<PT_OPEN/>
+<FRAMEWORK/>
+<NO_CONTRACT_COVERED_GPA/>
+<NOTICE_NUMBER_OJ>2016/S 085-149362</NOTICE_NUMBER_OJ>
+</PROCEDURE>
+<AWARD_CONTRACT ITEM="1">
+<CONTRACT_NO>Frontex/OP/131/2016/AH (BoldBrick)</CONTRACT_NO>
+<TITLE>
+<P>Vícestranná rámcová smlouva s opětným otevřením soutěže na poskytování služeb souvisejících s programem SharePoint</P>
+</TITLE>
+<AWARDED_CONTRACT>
+<DATE_CONCLUSION_CONTRACT>2016-09-01</DATE_CONCLUSION_CONTRACT>
+<NB_TENDERS_RECEIVED>5</NB_TENDERS_RECEIVED>
+<NO_AWARDED_TO_GROUP/>
+<CONTRACTOR>
+<ADDRESS_CONTRACTOR>
+<OFFICIALNAME>BoldBrick s.r.o.</OFFICIALNAME>
+<TOWN>Prague</TOWN>
+<COUNTRY VALUE="CZ"/>
+<NUTS CODE="CZ010"/>
+</ADDRESS_CONTRACTOR>
+<NO_SME/>
+</CONTRACTOR>
+<VAL_TOTAL CURRENCY="EUR">2650000.00</VAL_TOTAL>
+</AWARDED_CONTRACT>
+</AWARD_CONTRACT>
+<AWARD_CONTRACT ITEM="2">
+<CONTRACT_NO>Frontex/OP/131/2016/AH (Fabrity)</CONTRACT_NO>
+<TITLE>
+<P>Vícestranná rámcová smlouva s opětným otevřením soutěže na poskytování služeb souvisejících s programem SharePoint</P>
+</TITLE>
+<AWARDED_CONTRACT>
+<DATE_CONCLUSION_CONTRACT>2016-09-01</DATE_CONCLUSION_CONTRACT>
+<NB_TENDERS_RECEIVED>5</NB_TENDERS_RECEIVED>
+<NO_AWARDED_TO_GROUP/>
+<CONTRACTOR>
+<ADDRESS_CONTRACTOR>
+<OFFICIALNAME>Fabrity K2 Sp. z o.o.</OFFICIALNAME>
+<TOWN>Warsaw</TOWN>
+<COUNTRY VALUE="PL"/>
+<NUTS CODE="PL127"/>
+</ADDRESS_CONTRACTOR>
+<NO_SME/>
+</CONTRACTOR>
+<VAL_TOTAL CURRENCY="EUR">2650000.00</VAL_TOTAL>
+</AWARDED_CONTRACT>
+</AWARD_CONTRACT>
+<AWARD_CONTRACT ITEM="3">
+<CONTRACT_NO>Frontex/OP/131/2016/AH (IT-Dev Sp. z o.o.)</CONTRACT_NO>
+<TITLE>
+<P>Vícestranná rámcová smlouva s opětným otevřením soutěže na poskytování služeb souvisejících s programem SharePoint</P>
+</TITLE>
+<AWARDED_CONTRACT>
+<DATE_CONCLUSION_CONTRACT>2016-09-01</DATE_CONCLUSION_CONTRACT>
+<NB_TENDERS_RECEIVED>5</NB_TENDERS_RECEIVED>
+<NO_AWARDED_TO_GROUP/>
+<CONTRACTOR>
+<ADDRESS_CONTRACTOR>
+<OFFICIALNAME>IT-Dev Sp. z o.o.</OFFICIALNAME>
+<TOWN>Wrocław</TOWN>
+<COUNTRY VALUE="PL"/>
+<NUTS CODE="PL514"/>
+</ADDRESS_CONTRACTOR>
+<NO_SME/>
+</CONTRACTOR>
+<VAL_TOTAL CURRENCY="EUR">2650000.00</VAL_TOTAL>
+</AWARDED_CONTRACT>
+</AWARD_CONTRACT>
+<COMPLEMENTARY_INFO>
+<ADDRESS_REVIEW_BODY>
+<OFFICIALNAME>Tribunál</OFFICIALNAME>
+<ADDRESS>rue du Fort Niedergrünewald</ADDRESS>
+<TOWN>Luxembourg</TOWN>
+<POSTAL_CODE>2925</POSTAL_CODE>
+<COUNTRY VALUE="LU"/>
+<PHONE>+352 4303-1</PHONE>
+<E_MAIL>cfi.registry@curia.europa.eu</E_MAIL>
+<FAX>+352 4303-2100</FAX>
+<URL>http://www.curia.europa.eu</URL>
+</ADDRESS_REVIEW_BODY>
+<REVIEW_PROCEDURE>
+<P>Ve lhůtě 2 měsíců od oznámení žalobci nebo, není-li k dispozici, ode dne, kdy vstoupilo ve známost.</P>
+</REVIEW_PROCEDURE>
+<DATE_DISPATCH_NOTICE>2016-09-22</DATE_DISPATCH_NOTICE>
+</COMPLEMENTARY_INFO>
+</F03_2014>
+<F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="ET">
+<CONTRACTING_BODY>
+<ADDRESS_CONTRACTING_BODY>
+<OFFICIALNAME>Euroopa Liidu Liikmesriikide Välispiiril Tehtava Operatiivkoostöö Juhtimise Euroopa Agentuur – Frontex</OFFICIALNAME>
+<ADDRESS>Plac Europejski 6</ADDRESS>
+<TOWN>Warsaw</TOWN>
+<POSTAL_CODE>00-844</POSTAL_CODE>
+<COUNTRY VALUE="PL"/>
+<CONTACT_POINT>Frontex Procurement Sector</CONTACT_POINT>
+<PHONE>+48 222059500</PHONE>
+<E_MAIL>procurement@frontex.europa.eu</E_MAIL>
+<FAX>+48 222059501</FAX>
+<NUTS CODE="PL127"/>
+<URL_GENERAL>http://www.frontex.europa.eu</URL_GENERAL>
+</ADDRESS_CONTRACTING_BODY>
+<CA_TYPE VALUE="EU_INSTITUTION"/>
+<CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+</CONTRACTING_BODY>
+<OBJECT_CONTRACT>
+<TITLE>
+<P>SharePoint-teenuste mitmekordne raamleping konkursi taasalgatamisega</P>
+</TITLE>
+<REFERENCE_NUMBER>Frontex/OP/131/2016/AH.</REFERENCE_NUMBER>
+<CPV_MAIN>
+<CPV_CODE CODE="72000000"/>
+</CPV_MAIN>
+<TYPE_CONTRACT CTYPE="SERVICES"/>
+<SHORT_DESCR>
+<P>Leping hõlmab SharePoint-tehnoloogia valdkonnas IKT-teenuste osutamist.</P>
+</SHORT_DESCR>
+<VAL_TOTAL CURRENCY="EUR">2650000.00</VAL_TOTAL>
+<NO_LOT_DIVISION/>
+<OBJECT_DESCR ITEM="1">
+<NUTS CODE="PL127"/>
+<MAIN_SITE>
+<P>Frontexi hoone, Varssavi, Poola.</P>
+</MAIN_SITE>
+<SHORT_DESCR>
+<P>Lepingut (konkursi taasalgatamisega raamleping 3 ettevõtjaga) käsitletakse üldiste teenuste allikana. Need teenused on aja ja vahendite, kindlaksmääratud aja ja vahendite või fikseeritud hinnaga ülesannete raames seotud SP platvormiga. Vastupidiselt teistele erilahendustele ja tootepõhistele lepingutele (nt sisevõrgu kaubanduslikud valmistooted (commercial off the shelf (COTS)), dokumentide haldamise süsteem (document management system (DMS))) käsitleb see leping Frontexi vajadusi, mis on seotud kasutajale eritellimusel arendatud tarkvaralahendustega ning olemasoleva platvormi hooldamisega. Laiemalt hõlmab see tarkvara elutsüklit ja tarkvaraarenduse kõiki tehnilisi valdkondi. Seetõttu võib see hõlmata nii tavapärast tarkvaraarendust kui ka olemasoleva platvormi ja lahenduste hooldamist, refaktooringut, häälestamist jm.</P>
+<P>Tehnoloogilisest aspektist keskendutakse lepinguga SP-le, platvormi võimalikele tulevikuversioonidele ning selle põhjal arendatud lahendustele ja liidestele, mis ühendavad seda teiste Frontexi kasutatavate tarkvaralahendustega.</P>
+</SHORT_DESCR>
+<AC_QUALITY>
+<AC_CRITERION>aja ja vahendite ning kindlaks määratud aja ja vahenditega erilepingute kvaliteedi tagamine</AC_CRITERION>
+<AC_WEIGHTING>20 punkti</AC_WEIGHTING>
+</AC_QUALITY>
+<AC_QUALITY>
+<AC_CRITERION>3. taseme tugi</AC_CRITERION>
+<AC_WEIGHTING>15 punkti</AC_WEIGHTING>
+</AC_QUALITY>
+<AC_QUALITY>
+<AC_CRITERION>konfiguratsiooni haldamise ja katsetamise käsitlus</AC_CRITERION>
+<AC_WEIGHTING>15 punkti</AC_WEIGHTING>
+</AC_QUALITY>
+<AC_QUALITY>
+<AC_CRITERION>ärinõuete ja süsteeminõuete dokumentide kavand hüpoteetilise stsenaariumi jaoks</AC_CRITERION>
+<AC_WEIGHTING>15 punkti</AC_WEIGHTING>
+</AC_QUALITY>
+<AC_QUALITY>
+<AC_CRITERION>tehnilise kavandi dokumendi kavand hüpoteetilise stsenaariumi jaoks</AC_CRITERION>
+<AC_WEIGHTING>15 punkti</AC_WEIGHTING>
+</AC_QUALITY>
+<AC_QUALITY>
+<AC_CRITERION>projekti komplekskavand hüpoteetilise stsenaariumi jaoks</AC_CRITERION>
+<AC_WEIGHTING>10 punkti</AC_WEIGHTING>
+</AC_QUALITY>
+<AC_QUALITY>
+<AC_CRITERION>riskide ja leevenduste kirjeldus hüpoteetilise stsenaariumi jaoks</AC_CRITERION>
+<AC_WEIGHTING>10 punkti</AC_WEIGHTING>
+</AC_QUALITY>
+<AC_PRICE>
+<AC_WEIGHTING>40 %</AC_WEIGHTING>
+</AC_PRICE>
+<NO_OPTIONS/>
+<NO_EU_PROGR_RELATED/>
+</OBJECT_DESCR>
+</OBJECT_CONTRACT>
+<PROCEDURE>
+<PT_OPEN/>
+<FRAMEWORK/>
+<NO_CONTRACT_COVERED_GPA/>
+<NOTICE_NUMBER_OJ>2016/S 085-149362</NOTICE_NUMBER_OJ>
+</PROCEDURE>
+<AWARD_CONTRACT ITEM="1">
+<CONTRACT_NO>Frontex/OP/131/2016/AH (BoldBrick)</CONTRACT_NO>
+<TITLE>
+<P>SharePoint-teenuste mitmekordne raamleping konkursi taasalgatamisega</P>
+</TITLE>
+<AWARDED_CONTRACT>
+<DATE_CONCLUSION_CONTRACT>2016-09-01</DATE_CONCLUSION_CONTRACT>
+<NB_TENDERS_RECEIVED>5</NB_TENDERS_RECEIVED>
+<NO_AWARDED_TO_GROUP/>
+<CONTRACTOR>
+<ADDRESS_CONTRACTOR>
+<OFFICIALNAME>BoldBrick s.r.o.</OFFICIALNAME>
+<TOWN>Prague</TOWN>
+<COUNTRY VALUE="CZ"/>
+<NUTS CODE="CZ010"/>
+</ADDRESS_CONTRACTOR>
+<NO_SME/>
+</CONTRACTOR>
+<VAL_TOTAL CURRENCY="EUR">2650000.00</VAL_TOTAL>
+</AWARDED_CONTRACT>
+</AWARD_CONTRACT>
+<AWARD_CONTRACT ITEM="2">
+<CONTRACT_NO>Frontex/OP/131/2016/AH (Fabrity)</CONTRACT_NO>
+<TITLE>
+<P>SharePoint-teenuste mitmekordne raamleping konkursi taasalgatamisega</P>
+</TITLE>
+<AWARDED_CONTRACT>
+<DATE_CONCLUSION_CONTRACT>2016-09-01</DATE_CONCLUSION_CONTRACT>
+<NB_TENDERS_RECEIVED>5</NB_TENDERS_RECEIVED>
+<NO_AWARDED_TO_GROUP/>
+<CONTRACTOR>
+<ADDRESS_CONTRACTOR>
+<OFFICIALNAME>Fabrity K2 Sp. z o.o.</OFFICIALNAME>
+<TOWN>Warsaw</TOWN>
+<COUNTRY VALUE="PL"/>
+<NUTS CODE="PL127"/>
+</ADDRESS_CONTRACTOR>
+<NO_SME/>
+</CONTRACTOR>
+<VAL_TOTAL CURRENCY="EUR">2650000.00</VAL_TOTAL>
+</AWARDED_CONTRACT>
+</AWARD_CONTRACT>
+<AWARD_CONTRACT ITEM="3">
+<CONTRACT_NO>Frontex/OP/131/2016/AH (IT-Dev Sp. z o.o.)</CONTRACT_NO>
+<TITLE>
+<P>SharePoint-teenuste mitmekordne raamleping konkursi taasalgatamisega</P>
+</TITLE>
+<AWARDED_CONTRACT>
+<DATE_CONCLUSION_CONTRACT>2016-09-01</DATE_CONCLUSION_CONTRACT>
+<NB_TENDERS_RECEIVED>5</NB_TENDERS_RECEIVED>
+<NO_AWARDED_TO_GROUP/>
+<CONTRACTOR>
+<ADDRESS_CONTRACTOR>
+<OFFICIALNAME>IT-Dev Sp. z o.o.</OFFICIALNAME>
+<TOWN>Wrocław</TOWN>
+<COUNTRY VALUE="PL"/>
+<NUTS CODE="PL514"/>
+</ADDRESS_CONTRACTOR>
+<NO_SME/>
+</CONTRACTOR>
+<VAL_TOTAL CURRENCY="EUR">2650000.00</VAL_TOTAL>
+</AWARDED_CONTRACT>
+</AWARD_CONTRACT>
+<COMPLEMENTARY_INFO>
+<ADDRESS_REVIEW_BODY>
+<OFFICIALNAME>Üldkohus</OFFICIALNAME>
+<ADDRESS>rue du Fort Niedergrünewald</ADDRESS>
+<TOWN>Luxembourg</TOWN>
+<POSTAL_CODE>2925</POSTAL_CODE>
+<COUNTRY VALUE="LU"/>
+<PHONE>+352 4303-1</PHONE>
+<E_MAIL>cfi.registry@curia.europa.eu</E_MAIL>
+<FAX>+352 4303-2100</FAX>
+<URL>http://www.curia.europa.eu</URL>
+</ADDRESS_REVIEW_BODY>
+<REVIEW_PROCEDURE>
+<P>2 kuu jooksul hageja teavitamisest või kui teavitamist ei toimu, 2 kuu jooksul päevast, mil asjast teada saadi.</P>
+</REVIEW_PROCEDURE>
+<DATE_DISPATCH_NOTICE>2016-09-22</DATE_DISPATCH_NOTICE>
+</COMPLEMENTARY_INFO>
+</F03_2014>
+<F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="HU">
+<CONTRACTING_BODY>
+<ADDRESS_CONTRACTING_BODY>
+<OFFICIALNAME>Az Európai Unió Tagállamai Külső Határain Való Operatív Együttműködési Igazgatásért Felelős Európai Ügynökség — Frontex</OFFICIALNAME>
+<ADDRESS>Plac Europejski 6</ADDRESS>
+<TOWN>Varsó</TOWN>
+<POSTAL_CODE>00-844</POSTAL_CODE>
+<COUNTRY VALUE="PL"/>
+<CONTACT_POINT>Frontex Procurement Sector</CONTACT_POINT>
+<PHONE>+48 222059500</PHONE>
+<E_MAIL>procurement@frontex.europa.eu</E_MAIL>
+<FAX>+48 222059501</FAX>
+<NUTS CODE="PL127"/>
+<URL_GENERAL>http://www.frontex.europa.eu</URL_GENERAL>
+</ADDRESS_CONTRACTING_BODY>
+<CA_TYPE VALUE="EU_INSTITUTION"/>
+<CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+</CONTRACTING_BODY>
+<OBJECT_CONTRACT>
+<TITLE>
+<P>Verseny ismételt meghirdetésével elindított, több féllel kötött keretszerződés SharePoint-hoz kapcsolódó szolgáltatások nyújtására irányulóan.</P>
+</TITLE>
+<REFERENCE_NUMBER>Frontex/OP/131/2016/AH.</REFERENCE_NUMBER>
+<CPV_MAIN>
+<CPV_CODE CODE="72000000"/>
+</CPV_MAIN>
+<TYPE_CONTRACT CTYPE="SERVICES"/>
+<SHORT_DESCR>
+<P>A szerződés tárgyköre ikt-szolgáltatások SharePoint technológiával történő nyújtására terjed ki.</P>
+</SHORT_DESCR>
+<VAL_TOTAL CURRENCY="EUR">2650000.00</VAL_TOTAL>
+<NO_LOT_DIVISION/>
+<OBJECT_DESCR ITEM="1">
+<NUTS CODE="PL127"/>
+<MAIN_SITE>
+<P>Frontex-iroda, Varsó, Lengyelország.</P>
+</MAIN_SITE>
+<SHORT_DESCR>
+<P>A szóban forgó szerződés (a verseny ismételt meghirdetésével elindított, 3 gazdasági szereplővel kötött keretszerződés) az SP platformmal kapcsolatos általános szolgáltatások forrásának tekintendő, amelyek teljesítésére „idő és eszközök” (times and means, T&amp;M), „ajánlat tárgyát képező idő és eszközök” (quoted times and means, QT&amp;M) jellegű vagy rögzített áras megbízások révén kerül sor. Egyéb egyedi megoldásokkal és termékorientált szerződésekkel (pl: intranet COTS, DMS), ez a szerződés a Frontex egyedi fejlesztésű szoftvermegoldásokkal és a meglévő platform karbantartásával kapcsolatos igényeit elégíti ki. Ez tágabb értelemben a szoftver életciklusának valamennyi szakaszát és a szoftvermérnöki tevékenység technikai területeit jelenti. Ezért a szerződés kiterjedhet a tipikus szoftverfejlesztésre, valamint a meglévő platform és megoldások karbantartására, refaktorálásra, összehangolásra stb.</P>
+<P>Jelen szerződés technológiailag az SP-re, e platform lehetséges jövőbeni verzióira, valamint az arra építő megoldásokra és az azt a Frontex által használt egyéb szoftvermegoldásokkal összekötő interfészekre fókuszál.</P>
+</SHORT_DESCR>
+<AC_QUALITY>
+<AC_CRITERION>Minőségbiztosítás az idő- és eszközalapú, valamint a végrehajtás megjelölt időtartamára és módjára hivatkozó egyedi szerződések esetében</AC_CRITERION>
+<AC_WEIGHTING>20 pont</AC_WEIGHTING>
+</AC_QUALITY>
+<AC_QUALITY>
+<AC_CRITERION>3. szintű támogatás</AC_CRITERION>
+<AC_WEIGHTING>15 pont</AC_WEIGHTING>
+</AC_QUALITY>
+<AC_QUALITY>
+<AC_CRITERION>A konfiguráláskezelés és -tesztelés megközelítése</AC_CRITERION>
+<AC_WEIGHTING>15 pont</AC_WEIGHTING>
+</AC_QUALITY>
+<AC_QUALITY>
+<AC_CRITERION>BRD-/SRS-tervezet a hipotetikus forgatókönyvhöz</AC_CRITERION>
+<AC_WEIGHTING>15 pont</AC_WEIGHTING>
+</AC_QUALITY>
+<AC_QUALITY>
+<AC_CRITERION>TDD-tervezet a hipotetikus forgatókönyvhöz</AC_CRITERION>
+<AC_WEIGHTING>15 pont</AC_WEIGHTING>
+</AC_QUALITY>
+<AC_QUALITY>
+<AC_CRITERION>A hipotetikus forgatókönyv fő projektütemterve</AC_CRITERION>
+<AC_WEIGHTING>10 pont</AC_WEIGHTING>
+</AC_QUALITY>
+<AC_QUALITY>
+<AC_CRITERION>A kockázatok és a kockázatmérséklés meghatározása a hipotetikus forgatókönyvhöz</AC_CRITERION>
+<AC_WEIGHTING>10 pont</AC_WEIGHTING>
+</AC_QUALITY>
+<AC_PRICE>
+<AC_WEIGHTING>40 %</AC_WEIGHTING>
+</AC_PRICE>
+<NO_OPTIONS/>
+<NO_EU_PROGR_RELATED/>
+</OBJECT_DESCR>
+</OBJECT_CONTRACT>
+<PROCEDURE>
+<PT_OPEN/>
+<FRAMEWORK/>
+<NO_CONTRACT_COVERED_GPA/>
+<NOTICE_NUMBER_OJ>2016/S 085-149362</NOTICE_NUMBER_OJ>
+</PROCEDURE>
+<AWARD_CONTRACT ITEM="1">
+<CONTRACT_NO>Frontex/OP/131/2016/AH (BoldBrick)</CONTRACT_NO>
+<TITLE>
+<P>Verseny ismételt meghirdetésével elindított, több féllel kötött keretszerződés SharePoint-hoz kapcsolódó szolgáltatások nyújtására</P>
+</TITLE>
+<AWARDED_CONTRACT>
+<DATE_CONCLUSION_CONTRACT>2016-09-01</DATE_CONCLUSION_CONTRACT>
+<NB_TENDERS_RECEIVED>5</NB_TENDERS_RECEIVED>
+<NO_AWARDED_TO_GROUP/>
+<CONTRACTOR>
+<ADDRESS_CONTRACTOR>
+<OFFICIALNAME>BoldBrick s.r.o.</OFFICIALNAME>
+<TOWN>Prague</TOWN>
+<COUNTRY VALUE="CZ"/>
+<NUTS CODE="CZ010"/>
+</ADDRESS_CONTRACTOR>
+<NO_SME/>
+</CONTRACTOR>
+<VAL_TOTAL CURRENCY="EUR">2650000.00</VAL_TOTAL>
+</AWARDED_CONTRACT>
+</AWARD_CONTRACT>
+<AWARD_CONTRACT ITEM="2">
+<CONTRACT_NO>Frontex/OP/131/2016/AH (Fabrity)</CONTRACT_NO>
+<TITLE>
+<P>Verseny ismételt meghirdetésével elindított, több féllel kötött keretszerződés SharePoint-hoz kapcsolódó szolgáltatások nyújtására</P>
+</TITLE>
+<AWARDED_CONTRACT>
+<DATE_CONCLUSION_CONTRACT>2016-09-01</DATE_CONCLUSION_CONTRACT>
+<NB_TENDERS_RECEIVED>5</NB_TENDERS_RECEIVED>
+<NO_AWARDED_TO_GROUP/>
+<CONTRACTOR>
+<ADDRESS_CONTRACTOR>
+<OFFICIALNAME>Fabrity K2 Sp. z o.o.</OFFICIALNAME>
+<TOWN>Warsaw</TOWN>
+<COUNTRY VALUE="PL"/>
+<NUTS CODE="PL127"/>
+</ADDRESS_CONTRACTOR>
+<NO_SME/>
+</CONTRACTOR>
+<VAL_TOTAL CURRENCY="EUR">2650000.00</VAL_TOTAL>
+</AWARDED_CONTRACT>
+</AWARD_CONTRACT>
+<AWARD_CONTRACT ITEM="3">
+<CONTRACT_NO>Frontex/OP/131/2016/AH (IT-Dev Sp. z o.o.)</CONTRACT_NO>
+<TITLE>
+<P>Verseny ismételt meghirdetésével elindított, több féllel kötött keretszerződés SharePoint-hoz kapcsolódó szolgáltatások nyújtására</P>
+</TITLE>
+<AWARDED_CONTRACT>
+<DATE_CONCLUSION_CONTRACT>2016-09-01</DATE_CONCLUSION_CONTRACT>
+<NB_TENDERS_RECEIVED>5</NB_TENDERS_RECEIVED>
+<NO_AWARDED_TO_GROUP/>
+<CONTRACTOR>
+<ADDRESS_CONTRACTOR>
+<OFFICIALNAME>IT-Dev Sp. z o.o.</OFFICIALNAME>
+<TOWN>Wrocław</TOWN>
+<COUNTRY VALUE="PL"/>
+<NUTS CODE="PL514"/>
+</ADDRESS_CONTRACTOR>
+<NO_SME/>
+</CONTRACTOR>
+<VAL_TOTAL CURRENCY="EUR">2650000.00</VAL_TOTAL>
+</AWARDED_CONTRACT>
+</AWARD_CONTRACT>
+<COMPLEMENTARY_INFO>
+<ADDRESS_REVIEW_BODY>
+<OFFICIALNAME>Törvényszék</OFFICIALNAME>
+<ADDRESS>rue du Fort Niedergrünewald</ADDRESS>
+<TOWN>Luxembourg</TOWN>
+<POSTAL_CODE>2925</POSTAL_CODE>
+<COUNTRY VALUE="LU"/>
+<PHONE>+352 4303-1</PHONE>
+<E_MAIL>cfi.registry@curia.europa.eu</E_MAIL>
+<FAX>+352 4303-2100</FAX>
+<URL>http://www.curia.europa.eu.</URL>
+</ADDRESS_REVIEW_BODY>
+<REVIEW_PROCEDURE>
+<P>A vesztes fél értesítésétől, illetve – ennek hiányában – az eredmény ismertté válásától számított 2 hónapon belül.</P>
+</REVIEW_PROCEDURE>
+<DATE_DISPATCH_NOTICE>2016-09-22</DATE_DISPATCH_NOTICE>
+</COMPLEMENTARY_INFO>
+</F03_2014>
+<F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="LT">
+<CONTRACTING_BODY>
+<ADDRESS_CONTRACTING_BODY>
+<OFFICIALNAME>Europos operatyvaus bendradarbiavimo prie Europos Sąjungos valstybių narių išorės sienų valdymo agentūra – Frontex</OFFICIALNAME>
+<ADDRESS>Plac Europejski 6</ADDRESS>
+<TOWN>Warsaw</TOWN>
+<POSTAL_CODE>00-844</POSTAL_CODE>
+<COUNTRY VALUE="PL"/>
+<CONTACT_POINT>Frontex Procurement Sector</CONTACT_POINT>
+<PHONE>+48 222059500</PHONE>
+<E_MAIL>procurement@frontex.europa.eu</E_MAIL>
+<FAX>+48 222059501</FAX>
+<NUTS CODE="PL127"/>
+<URL_GENERAL>http://www.frontex.europa.eu</URL_GENERAL>
+</ADDRESS_CONTRACTING_BODY>
+<CA_TYPE VALUE="EU_INSTITUTION"/>
+<CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+</CONTRACTING_BODY>
+<OBJECT_CONTRACT>
+<TITLE>
+<P>Preliminarioji sutartis su keliais tiekėjais pakartotinai skelbiant konkursą dėl su „SharePoint“ susijusių paslaugų teikimo.</P>
+</TITLE>
+<REFERENCE_NUMBER>Frontex/OP/131/2016/AH.</REFERENCE_NUMBER>
+<CPV_MAIN>
+<CPV_CODE CODE="72000000"/>
+</CPV_MAIN>
+<TYPE_CONTRACT CTYPE="SERVICES"/>
+<SHORT_DESCR>
+<P>Sutarties taikymo sritis apima IRT paslaugų teikimą naudojant „SharePoint“ technologiją.</P>
+</SHORT_DESCR>
+<VAL_TOTAL CURRENCY="EUR">2650000.00</VAL_TOTAL>
+<NO_LOT_DIVISION/>
+<OBJECT_DESCR ITEM="1">
+<NUTS CODE="PL127"/>
+<MAIN_SITE>
+<P>Frontex patalpos, Varšuva, Lenkija.</P>
+</MAIN_SITE>
+<SHORT_DESCR>
+<P>Ši sutartis (preliminarioji sutartis pakartotinai skelbiant konkursą, sudaryta su 3 ekonominės veiklos vykdytojais) laikoma bendrųjų paslaugų, susijusių su „SharePoint“ platforma, šaltiniu vykdant laiko ir priemonių (times and means – T&amp;M), nurodomo laiko ir priemonių (quoted times – QT&amp;M) ar fiksuotos kainos užduotis. Priešingai kitoms specialaus sprendimo ir į produktą orientuotoms sutartims (pvz., intranetas, kurį galima įsigyti rinkoje (commercial off the shelf – COTS), dokumentų tvarkymo sistema (document management system – DMS)), šioje sutartyje dėmesys bus teikiamas Frontex poreikiams, susijusiems su specialiai sukurtais programinės įrangos sprendimais ir esamos platformos priežiūra. Visus programinės įrangos gyvavimo ciklus ir programinės įrangos inžinerijos technines sritis reikia suprati plačiąja prasme. Todėl tai gali apimti tipišką programinės įrangos kūrimą bei esamos platformos ir sprendimų priežiūrą, perstruktūrizavimą, suderinimą ir kt.</P>
+<P>Technologiniu požiūriu ši sutartis yra orientuota į „SharePoint“, galima šios platformos versijas ateityje ir ja paremtus sprendimus bei sąsajas, siejančias ją su kitais programinės įrangos sprendimais, kuriuos naudoja Frontex.</P>
+</SHORT_DESCR>
+<AC_QUALITY>
+<AC_CRITERION>Laiko ir priemonių bei nurodomo laiko ir priemonių specialių sutarčių kokybės užtikrinimą</AC_CRITERION>
+<AC_WEIGHTING>20 balų</AC_WEIGHTING>
+</AC_QUALITY>
+<AC_QUALITY>
+<AC_CRITERION>3-iojo lygio paramą</AC_CRITERION>
+<AC_WEIGHTING>15 balų</AC_WEIGHTING>
+</AC_QUALITY>
+<AC_QUALITY>
+<AC_CRITERION>Valdymo ir bandymų nustatymo principą</AC_CRITERION>
+<AC_WEIGHTING>15 balų</AC_WEIGHTING>
+</AC_QUALITY>
+<AC_QUALITY>
+<AC_CRITERION>Projektas BRD/SRS dėl hipotetinio scenarijaus</AC_CRITERION>
+<AC_WEIGHTING>15 balų</AC_WEIGHTING>
+</AC_QUALITY>
+<AC_QUALITY>
+<AC_CRITERION>Projektas TDD dėl hipotetinio scenarijaus</AC_CRITERION>
+<AC_WEIGHTING>15 balų</AC_WEIGHTING>
+</AC_QUALITY>
+<AC_QUALITY>
+<AC_CRITERION>Projekto pagrindinis tvarkaraštis dėl hipotetinio scenarijaus</AC_CRITERION>
+<AC_WEIGHTING>10 balų</AC_WEIGHTING>
+</AC_QUALITY>
+<AC_QUALITY>
+<AC_CRITERION>Rizikų ir rizikos mažinimo priemonių hipotetiniam scenarijui aprašymas</AC_CRITERION>
+<AC_WEIGHTING>10 balų</AC_WEIGHTING>
+</AC_QUALITY>
+<AC_PRICE>
+<AC_WEIGHTING>40 %</AC_WEIGHTING>
+</AC_PRICE>
+<NO_OPTIONS/>
+<NO_EU_PROGR_RELATED/>
+</OBJECT_DESCR>
+</OBJECT_CONTRACT>
+<PROCEDURE>
+<PT_OPEN/>
+<FRAMEWORK/>
+<NO_CONTRACT_COVERED_GPA/>
+<NOTICE_NUMBER_OJ>2016/S 085-149362</NOTICE_NUMBER_OJ>
+</PROCEDURE>
+<AWARD_CONTRACT ITEM="1">
+<CONTRACT_NO>Frontex/OP/131/2016/AH (BoldBrick)</CONTRACT_NO>
+<TITLE>
+<P>Preliminarioji sutartis su keliais tiekėjais pakartotinai skelbiant konkursą dėl su „SharePoint“ susijusių paslaugų teikimo</P>
+</TITLE>
+<AWARDED_CONTRACT>
+<DATE_CONCLUSION_CONTRACT>2016-09-01</DATE_CONCLUSION_CONTRACT>
+<NB_TENDERS_RECEIVED>5</NB_TENDERS_RECEIVED>
+<NO_AWARDED_TO_GROUP/>
+<CONTRACTOR>
+<ADDRESS_CONTRACTOR>
+<OFFICIALNAME>BoldBrick s.r.o.</OFFICIALNAME>
+<TOWN>Prague</TOWN>
+<COUNTRY VALUE="CZ"/>
+<NUTS CODE="CZ010"/>
+</ADDRESS_CONTRACTOR>
+<NO_SME/>
+</CONTRACTOR>
+<VAL_TOTAL CURRENCY="EUR">2650000.00</VAL_TOTAL>
+</AWARDED_CONTRACT>
+</AWARD_CONTRACT>
+<AWARD_CONTRACT ITEM="2">
+<CONTRACT_NO>Frontex/OP/131/2016/AH (Fabrity)</CONTRACT_NO>
+<TITLE>
+<P>Preliminarioji sutartis su keliais tiekėjais pakartotinai skelbiant konkursą dėl su „SharePoint“ susijusių paslaugų teikimo</P>
+</TITLE>
+<AWARDED_CONTRACT>
+<DATE_CONCLUSION_CONTRACT>2016-09-01</DATE_CONCLUSION_CONTRACT>
+<NB_TENDERS_RECEIVED>5</NB_TENDERS_RECEIVED>
+<NO_AWARDED_TO_GROUP/>
+<CONTRACTOR>
+<ADDRESS_CONTRACTOR>
+<OFFICIALNAME>Fabrity K2 Sp. z o.o.</OFFICIALNAME>
+<TOWN>Warsaw</TOWN>
+<COUNTRY VALUE="PL"/>
+<NUTS CODE="PL127"/>
+</ADDRESS_CONTRACTOR>
+<NO_SME/>
+</CONTRACTOR>
+<VAL_TOTAL CURRENCY="EUR">2650000.00</VAL_TOTAL>
+</AWARDED_CONTRACT>
+</AWARD_CONTRACT>
+<AWARD_CONTRACT ITEM="3">
+<CONTRACT_NO>Frontex/OP/131/2016/AH (IT-Dev Sp. z o.o.)</CONTRACT_NO>
+<TITLE>
+<P>Preliminarioji sutartis su keliais tiekėjais pakartotinai skelbiant konkursą dėl su „SharePoint“ susijusių paslaugų teikimo</P>
+</TITLE>
+<AWARDED_CONTRACT>
+<DATE_CONCLUSION_CONTRACT>2016-09-01</DATE_CONCLUSION_CONTRACT>
+<NB_TENDERS_RECEIVED>5</NB_TENDERS_RECEIVED>
+<NO_AWARDED_TO_GROUP/>
+<CONTRACTOR>
+<ADDRESS_CONTRACTOR>
+<OFFICIALNAME>IT-Dev Sp. z o.o.</OFFICIALNAME>
+<TOWN>Wrocław</TOWN>
+<COUNTRY VALUE="PL"/>
+<NUTS CODE="PL514"/>
+</ADDRESS_CONTRACTOR>
+<NO_SME/>
+</CONTRACTOR>
+<VAL_TOTAL CURRENCY="EUR">2650000.00</VAL_TOTAL>
+</AWARDED_CONTRACT>
+</AWARD_CONTRACT>
+<COMPLEMENTARY_INFO>
+<ADDRESS_REVIEW_BODY>
+<OFFICIALNAME>Bendrasis Teismas</OFFICIALNAME>
+<ADDRESS>rue du Fort Niedergrünewald</ADDRESS>
+<TOWN>Luxembourg</TOWN>
+<POSTAL_CODE>2925</POSTAL_CODE>
+<COUNTRY VALUE="LU"/>
+<PHONE>+352 4303-1</PHONE>
+<E_MAIL>cfi.registry@curia.europa.eu</E_MAIL>
+<FAX>+352 4303-2100</FAX>
+<URL>http://www.curia.europa.eu</URL>
+</ADDRESS_REVIEW_BODY>
+<REVIEW_PROCEDURE>
+<P>Per 2 mėnesius nuo dienos, kai apie tai pranešama ieškovui, arba, jei pranešimas neparengiamas, nuo dienos, kai apie tai tampa žinoma.</P>
+</REVIEW_PROCEDURE>
+<DATE_DISPATCH_NOTICE>2016-09-22</DATE_DISPATCH_NOTICE>
+</COMPLEMENTARY_INFO>
+</F03_2014>
+<F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="LV">
+<CONTRACTING_BODY>
+<ADDRESS_CONTRACTING_BODY>
+<OFFICIALNAME>Eiropas Aģentūra operatīvās sadarbības vadībai pie Eiropas Savienības dalībvalstu ārējām robežām – Frontex</OFFICIALNAME>
+<ADDRESS>Plac Europejski 6</ADDRESS>
+<TOWN>Warsaw</TOWN>
+<POSTAL_CODE>00-844</POSTAL_CODE>
+<COUNTRY VALUE="PL"/>
+<CONTACT_POINT>Frontex Procurement Sector</CONTACT_POINT>
+<PHONE>+48 222059500</PHONE>
+<E_MAIL>procurement@frontex.europa.eu</E_MAIL>
+<FAX>+48 222059501</FAX>
+<NUTS CODE="PL127"/>
+<URL_GENERAL>http://www.frontex.europa.eu</URL_GENERAL>
+</ADDRESS_CONTRACTING_BODY>
+<CA_TYPE VALUE="EU_INSTITUTION"/>
+<CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+</CONTRACTING_BODY>
+<OBJECT_CONTRACT>
+<TITLE>
+<P>Vairākkārtējs pamatnolīgums ar atkārtotu konkursa izsludināšanu par pakalpojumiem saistībā ar SharePoint.</P>
+</TITLE>
+<REFERENCE_NUMBER>Frontex/OP/131/2016/AH.</REFERENCE_NUMBER>
+<CPV_MAIN>
+<CPV_CODE CODE="72000000"/>
+</CPV_MAIN>
+<TYPE_CONTRACT CTYPE="SERVICES"/>
+<SHORT_DESCR>
+<P>Līguma darbības joma aptver IKT pakalpojumu nodrošināšanu saistībā ar SharePoint tehnoloģiju.</P>
+</SHORT_DESCR>
+<VAL_TOTAL CURRENCY="EUR">2650000.00</VAL_TOTAL>
+<NO_LOT_DIVISION/>
+<OBJECT_DESCR ITEM="1">
+<NUTS CODE="PL127"/>
+<MAIN_SITE>
+<P>Frontex telpas, Varšava, Polija.</P>
+</MAIN_SITE>
+<SHORT_DESCR>
+<P>Šis līgums (ar 3 uzņēmējiem noslēgts pamatnolīgums ar atkārtotu konkursa izsludināšanu) uzskatāms par tādu vispārēju pakalpojumu ieguves avotu, kuri ir saistīti ar SharePoint platformu un kuri tiks sniegti laika un līdzekļu, noteikta laika un līdzekļu vai noteiktas cenas uzdevumu ietvaros. Atšķirībā no citiem līgumiem, kas vērsti uz konkrētiem risinājumiem un produktiem (piem., vispārēja lietojuma komerciālām intraneta tehnoloģijām, dokumentu pārvaldības sistēmu), ar šo līgumu tiks apmierinātas Frontex vajadzības attiecībā uz īpaši pielāgotiem programmatūras risinājumiem un jau izveidotās platformas uzturēšanu. Tā tvērums ir plašs – attiecināms uz visiem programmatūras darbmūža posmiem un visām programmatūras inženierijas tehniskajām jomām. Tādēļ tas var ietvert tipisku programmatūras izstrādi, kā arī jau ieviestās platformas un risinājumu uzturēšanu, pārstrukturēšanu, koriģēšanu u. c.</P>
+<P>Tehnoloģiskā ziņā šis līgums ir vērsts uz SharePoint, iespējamām šīs platformas nākamajām versijām, kā arī tai pievienotajiem risinājumiem un saskarnēm, kas to savieno ar citiem Frontex izmantotiem programmatūras risinājumiem.</P>
+</SHORT_DESCR>
+<AC_QUALITY>
+<AC_CRITERION>Kvalitātes nodrošināšana konkrētos laika un līdzekļu un noteikta laika un līdzekļu līgumos</AC_CRITERION>
+<AC_WEIGHTING>20 punkti</AC_WEIGHTING>
+</AC_QUALITY>
+<AC_QUALITY>
+<AC_CRITERION>3. līmeņa atbalsts</AC_CRITERION>
+<AC_WEIGHTING>15 punkti</AC_WEIGHTING>
+</AC_QUALITY>
+<AC_QUALITY>
+<AC_CRITERION>Pieeja konfigurācijas pārvaldībai un testēšanai</AC_CRITERION>
+<AC_WEIGHTING>15 punkti</AC_WEIGHTING>
+</AC_QUALITY>
+<AC_QUALITY>
+<AC_CRITERION>Darbības prasību dokumenta (Business Requirements Document – BRD) / sistēmu prasību specifikāciju (Systems Requirements Specification – SRS) projekts hipotētiskajam scenārijam</AC_CRITERION>
+<AC_WEIGHTING>15 punkti</AC_WEIGHTING>
+</AC_QUALITY>
+<AC_QUALITY>
+<AC_CRITERION>Tehniskā projekta dokumenta projekts hipotētiskajam scenārijam</AC_CRITERION>
+<AC_WEIGHTING>15 punkti</AC_WEIGHTING>
+</AC_QUALITY>
+<AC_QUALITY>
+<AC_CRITERION>Projekta galvenais grafiks hipotētiskajam scenārijam</AC_CRITERION>
+<AC_WEIGHTING>10 punkti</AC_WEIGHTING>
+</AC_QUALITY>
+<AC_QUALITY>
+<AC_CRITERION>Apraksts par hipotētiskā scenārija riskiem un to mazināšanas pasākumiem</AC_CRITERION>
+<AC_WEIGHTING>10 punkti</AC_WEIGHTING>
+</AC_QUALITY>
+<AC_PRICE>
+<AC_WEIGHTING>40 %</AC_WEIGHTING>
+</AC_PRICE>
+<NO_OPTIONS/>
+<NO_EU_PROGR_RELATED/>
+</OBJECT_DESCR>
+</OBJECT_CONTRACT>
+<PROCEDURE>
+<PT_OPEN/>
+<FRAMEWORK/>
+<NO_CONTRACT_COVERED_GPA/>
+<NOTICE_NUMBER_OJ>2016/S 085-149362</NOTICE_NUMBER_OJ>
+</PROCEDURE>
+<AWARD_CONTRACT ITEM="1">
+<CONTRACT_NO>Frontex/OP/131/2016/AH (BoldBrick)</CONTRACT_NO>
+<TITLE>
+<P>Vairākkārtējs pamatnolīgums ar atkārtotu konkursa izsludināšanu par pakalpojumiem saistībā ar SharePoint</P>
+</TITLE>
+<AWARDED_CONTRACT>
+<DATE_CONCLUSION_CONTRACT>2016-09-01</DATE_CONCLUSION_CONTRACT>
+<NB_TENDERS_RECEIVED>5</NB_TENDERS_RECEIVED>
+<NO_AWARDED_TO_GROUP/>
+<CONTRACTOR>
+<ADDRESS_CONTRACTOR>
+<OFFICIALNAME>BoldBrick s.r.o.</OFFICIALNAME>
+<TOWN>Prague</TOWN>
+<COUNTRY VALUE="CZ"/>
+<NUTS CODE="CZ010"/>
+</ADDRESS_CONTRACTOR>
+<NO_SME/>
+</CONTRACTOR>
+<VAL_TOTAL CURRENCY="EUR">2650000.00</VAL_TOTAL>
+</AWARDED_CONTRACT>
+</AWARD_CONTRACT>
+<AWARD_CONTRACT ITEM="2">
+<CONTRACT_NO>Frontex/OP/131/2016/AH (Fabrity)</CONTRACT_NO>
+<TITLE>
+<P>Vairākkārtējs pamatnolīgums ar atkārtotu konkursa izsludināšanu par pakalpojumiem saistībā ar SharePoint</P>
+</TITLE>
+<AWARDED_CONTRACT>
+<DATE_CONCLUSION_CONTRACT>2016-09-01</DATE_CONCLUSION_CONTRACT>
+<NB_TENDERS_RECEIVED>5</NB_TENDERS_RECEIVED>
+<NO_AWARDED_TO_GROUP/>
+<CONTRACTOR>
+<ADDRESS_CONTRACTOR>
+<OFFICIALNAME>Fabrity K2 Sp. z o.o.</OFFICIALNAME>
+<TOWN>Warsaw</TOWN>
+<COUNTRY VALUE="PL"/>
+<NUTS CODE="PL127"/>
+</ADDRESS_CONTRACTOR>
+<NO_SME/>
+</CONTRACTOR>
+<VAL_TOTAL CURRENCY="EUR">2650000.00</VAL_TOTAL>
+</AWARDED_CONTRACT>
+</AWARD_CONTRACT>
+<AWARD_CONTRACT ITEM="3">
+<CONTRACT_NO>Frontex/OP/131/2016/AH (IT-Dev Sp. z o.o.)</CONTRACT_NO>
+<TITLE>
+<P>Vairākkārtējs pamatnolīgums ar atkārtotu konkursa izsludināšanu par pakalpojumiem saistībā ar SharePoint</P>
+</TITLE>
+<AWARDED_CONTRACT>
+<DATE_CONCLUSION_CONTRACT>2016-09-01</DATE_CONCLUSION_CONTRACT>
+<NB_TENDERS_RECEIVED>5</NB_TENDERS_RECEIVED>
+<NO_AWARDED_TO_GROUP/>
+<CONTRACTOR>
+<ADDRESS_CONTRACTOR>
+<OFFICIALNAME>IT-Dev Sp. z o.o.</OFFICIALNAME>
+<TOWN>Wrocław</TOWN>
+<COUNTRY VALUE="PL"/>
+<NUTS CODE="PL514"/>
+</ADDRESS_CONTRACTOR>
+<NO_SME/>
+</CONTRACTOR>
+<VAL_TOTAL CURRENCY="EUR">2650000.00</VAL_TOTAL>
+</AWARDED_CONTRACT>
+</AWARD_CONTRACT>
+<COMPLEMENTARY_INFO>
+<ADDRESS_REVIEW_BODY>
+<OFFICIALNAME>Vispārējā tiesa</OFFICIALNAME>
+<ADDRESS>rue du Fort Niedergrünewald</ADDRESS>
+<TOWN>Luxembourg</TOWN>
+<POSTAL_CODE>2925</POSTAL_CODE>
+<COUNTRY VALUE="LU"/>
+<PHONE>+352 4303-1</PHONE>
+<E_MAIL>cfi.registry@curia.europa.eu</E_MAIL>
+<FAX>+352 4303-2100</FAX>
+<URL>http://www.curia.europa.eu</URL>
+</ADDRESS_REVIEW_BODY>
+<REVIEW_PROCEDURE>
+<P>2 mēnešu laikā no prasītāja informēšanas vai, ja tā nav notikusi, no dienas, kad viņš to uzzinājis.</P>
+</REVIEW_PROCEDURE>
+<DATE_DISPATCH_NOTICE>2016-09-22</DATE_DISPATCH_NOTICE>
+</COMPLEMENTARY_INFO>
+</F03_2014>
+<F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="MT">
+<CONTRACTING_BODY>
+<ADDRESS_CONTRACTING_BODY>
+<OFFICIALNAME>L-Aġenzija Ewropea għall-Immaniġġjar ta' Kooperazzjoni Operattiva fil-Fruntieri Barranin tal-Istati Membri tal-Unjoni Ewropea — Frontex</OFFICIALNAME>
+<ADDRESS>Plac Europejski 6</ADDRESS>
+<TOWN>Varsavja</TOWN>
+<POSTAL_CODE>00-844</POSTAL_CODE>
+<COUNTRY VALUE="PL"/>
+<CONTACT_POINT>Is-Settur tal-Ksib tal-Frontex</CONTACT_POINT>
+<PHONE>+48 222059500</PHONE>
+<E_MAIL>procurement@frontex.europa.eu</E_MAIL>
+<FAX>+48 222059501</FAX>
+<NUTS CODE="PL127"/>
+<URL_GENERAL>http://www.frontex.europa.eu</URL_GENERAL>
+</ADDRESS_CONTRACTING_BODY>
+<CA_TYPE VALUE="EU_INSTITUTION"/>
+<CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+</CONTRACTING_BODY>
+<OBJECT_CONTRACT>
+<TITLE>
+<P>Qafas ta' kuntratt multiplu bil-ftuħ mill-ġdid ta' kompetizzjoni għall-provvista ta' servizzi marbutin ma' SharePoint.</P>
+</TITLE>
+<REFERENCE_NUMBER>Frontex/OP/131/2016/AH.</REFERENCE_NUMBER>
+<CPV_MAIN>
+<CPV_CODE CODE="72000000"/>
+</CPV_MAIN>
+<TYPE_CONTRACT CTYPE="SERVICES"/>
+<SHORT_DESCR>
+<P>L-iskop tal-kuntratt ikopri l-provvista ta' servizzi tat-TIK fit-teknoloġija SharePoint.</P>
+</SHORT_DESCR>
+<VAL_TOTAL CURRENCY="EUR">2650000.00</VAL_TOTAL>
+<NO_LOT_DIVISION/>
+<OBJECT_DESCR ITEM="1">
+<NUTS CODE="PL127"/>
+<MAIN_SITE>
+<P>Il-bini tal-Frontex, Warsaw, il-Polonja.</P>
+</MAIN_SITE>
+<SHORT_DESCR>
+<P>Dan il-kuntratt (qafas ta' kuntratt bil-ftuħ mill-ġdid tal-kompetizzjoni konkluż ma' 3 operaturi ekonomiċi) se jkun ikkunsidrat bħala sors ta' servizzi ġeneriċi marbutin mal-pjattaforma SP taħt it-T&amp;M, QT&amp;M jew xogħlijiet bi prezz fiss. Kuntrarju għal kuntratti oħra b'soluzzjoni speċifika u orjentati lejn il-prodott (e.g. intranet COTS, DMS), dan il-kuntratt se jindirizza l-ħtiġijiet tal-Frontex fejn jidħlu soluzzjonijiet ta' softwer żviluppati apposta u l-manutenzjoni tal-pjattaforma eżistenti. Wieħed għandu jifhem it-tifsira wiesgħa b'referenza għal fażijiet kollha ta' ċiklu tal-ħajja ta' softwer u fl-oqsma tekniċi tal-inġinerija tas-softwer. Għaldaqstant din għandha tkopri l-iżvilupp tipiku tas-softwer kif ukoll il-manutenzjoni tal-pjattaforma u s-soluzzjonijiet eżistenti, ir-ristrutturar tal-kodifikazzjoni tal-kompjuter, l-issettjar, eċċ.</P>
+<P>B'mod teknoloġiku dan il-kuntratt huwa ffukat fuq l-SP, il-verżjonijiet possibbli tal-futur ta' din il-pjattaforma kif ukoll fuq soluzzjonijiet mibnijin fuqha u r-rabtiet li jikkonettjawha ma' soluzzjonijiet oħra ta' softwer li jintuża mill-Frontex.</P>
+</SHORT_DESCR>
+<AC_QUALITY>
+<AC_CRITERION>L-assigurazzjoni tal-kwalità għal żmienijiet u mezzi u żmienijiet ikkwotati u l-mezzi ta' kuntratti speċifiċi</AC_CRITERION>
+<AC_WEIGHTING>20 punt</AC_WEIGHTING>
+</AC_QUALITY>
+<AC_QUALITY>
+<AC_CRITERION>It-3 livell ta' appoġġ</AC_CRITERION>
+<AC_WEIGHTING>15-il punt</AC_WEIGHTING>
+</AC_QUALITY>
+<AC_QUALITY>
+<AC_CRITERION>L-approwċ għall-immaniġġjar u l-ittestjar tal-konfigurazzjoni</AC_CRITERION>
+<AC_WEIGHTING>15-il punt</AC_WEIGHTING>
+</AC_QUALITY>
+<AC_QUALITY>
+<AC_CRITERION>Abbozz ta' BRD/SRS għal xenarju ipotetiku</AC_CRITERION>
+<AC_WEIGHTING>15-il punt</AC_WEIGHTING>
+</AC_QUALITY>
+<AC_QUALITY>
+<AC_CRITERION>Abbozz ta' TDD għal xenarju ipotetiku</AC_CRITERION>
+<AC_WEIGHTING>15-il punt</AC_WEIGHTING>
+</AC_QUALITY>
+<AC_QUALITY>
+<AC_CRITERION>Skeda ta' proġett ewlieni għal xenarju ipotetiku</AC_CRITERION>
+<AC_WEIGHTING>10 punti</AC_WEIGHTING>
+</AC_QUALITY>
+<AC_QUALITY>
+<AC_CRITERION>Deskrizzjoni ta' riskji u mitigazzjonijiet għal xenarju ipotetiku</AC_CRITERION>
+<AC_WEIGHTING>10 punti</AC_WEIGHTING>
+</AC_QUALITY>
+<AC_PRICE>
+<AC_WEIGHTING>40 %</AC_WEIGHTING>
+</AC_PRICE>
+<NO_OPTIONS/>
+<NO_EU_PROGR_RELATED/>
+</OBJECT_DESCR>
+</OBJECT_CONTRACT>
+<PROCEDURE>
+<PT_OPEN/>
+<FRAMEWORK/>
+<NO_CONTRACT_COVERED_GPA/>
+<NOTICE_NUMBER_OJ>2016/S 085-149362</NOTICE_NUMBER_OJ>
+</PROCEDURE>
+<AWARD_CONTRACT ITEM="1">
+<CONTRACT_NO>Frontex/OP/131/2016/AH (BoldBrick)</CONTRACT_NO>
+<TITLE>
+<P>Qafas ta' kuntratt multiplu bil-ftuħ mill-ġdid ta' kompetizzjoni għall-provvista ta' servizzi marbutin ma' SharePoint</P>
+</TITLE>
+<AWARDED_CONTRACT>
+<DATE_CONCLUSION_CONTRACT>2016-09-01</DATE_CONCLUSION_CONTRACT>
+<NB_TENDERS_RECEIVED>5</NB_TENDERS_RECEIVED>
+<NO_AWARDED_TO_GROUP/>
+<CONTRACTOR>
+<ADDRESS_CONTRACTOR>
+<OFFICIALNAME>BoldBrick s.r.o.</OFFICIALNAME>
+<TOWN>Praga</TOWN>
+<COUNTRY VALUE="CZ"/>
+<NUTS CODE="CZ010"/>
+</ADDRESS_CONTRACTOR>
+<NO_SME/>
+</CONTRACTOR>
+<VAL_TOTAL CURRENCY="EUR">2650000.00</VAL_TOTAL>
+</AWARDED_CONTRACT>
+</AWARD_CONTRACT>
+<AWARD_CONTRACT ITEM="2">
+<CONTRACT_NO>Frontex/OP/131/2016/AH (Fabrity)</CONTRACT_NO>
+<TITLE>
+<P>Qafas ta' kuntratt multiplu bil-ftuħ mill-ġdid ta' kompetizzjoni għall-provvista ta' servizzi marbutin ma' SharePoint</P>
+</TITLE>
+<AWARDED_CONTRACT>
+<DATE_CONCLUSION_CONTRACT>2016-09-01</DATE_CONCLUSION_CONTRACT>
+<NB_TENDERS_RECEIVED>5</NB_TENDERS_RECEIVED>
+<NO_AWARDED_TO_GROUP/>
+<CONTRACTOR>
+<ADDRESS_CONTRACTOR>
+<OFFICIALNAME>Fabrity K2 Sp. z o.o.</OFFICIALNAME>
+<TOWN>Varsavja</TOWN>
+<COUNTRY VALUE="PL"/>
+<NUTS CODE="PL127"/>
+</ADDRESS_CONTRACTOR>
+<NO_SME/>
+</CONTRACTOR>
+<VAL_TOTAL CURRENCY="EUR">2650000.00</VAL_TOTAL>
+</AWARDED_CONTRACT>
+</AWARD_CONTRACT>
+<AWARD_CONTRACT ITEM="3">
+<CONTRACT_NO>Frontex/OP/131/2016/AH (IT-Dev Sp. z o.o.)</CONTRACT_NO>
+<TITLE>
+<P>Qafas ta' kuntratt multiplu bil-ftuħ mill-ġdid ta' kompetizzjoni għall-provvista ta' servizzi marbutin ma' SharePoint</P>
+</TITLE>
+<AWARDED_CONTRACT>
+<DATE_CONCLUSION_CONTRACT>2016-09-01</DATE_CONCLUSION_CONTRACT>
+<NB_TENDERS_RECEIVED>5</NB_TENDERS_RECEIVED>
+<NO_AWARDED_TO_GROUP/>
+<CONTRACTOR>
+<ADDRESS_CONTRACTOR>
+<OFFICIALNAME>IT-Dev Sp. z o.o.</OFFICIALNAME>
+<TOWN>Wrocław</TOWN>
+<COUNTRY VALUE="PL"/>
+<NUTS CODE="PL514"/>
+</ADDRESS_CONTRACTOR>
+<NO_SME/>
+</CONTRACTOR>
+<VAL_TOTAL CURRENCY="EUR">2650000.00</VAL_TOTAL>
+</AWARDED_CONTRACT>
+</AWARD_CONTRACT>
+<COMPLEMENTARY_INFO>
+<ADDRESS_REVIEW_BODY>
+<OFFICIALNAME>Il-Qorti Ġenerali</OFFICIALNAME>
+<ADDRESS>rue du Fort Niedergrünewald</ADDRESS>
+<TOWN>Lussemburgu</TOWN>
+<POSTAL_CODE>2925</POSTAL_CODE>
+<COUNTRY VALUE="LU"/>
+<PHONE>+352 4303-1</PHONE>
+<E_MAIL>cfi.registry@curia.europa.eu</E_MAIL>
+<FAX>+352 4303-2100</FAX>
+<URL>http://www.curia.europa.eu</URL>
+</ADDRESS_REVIEW_BODY>
+<REVIEW_PROCEDURE>
+<P>Fi żmien xahrejn (2) min-notifika lil dak li jagħmel it-talba, jew, fl-assenza ta' din, tal-jum li fih sar magħruf.</P>
+</REVIEW_PROCEDURE>
+<DATE_DISPATCH_NOTICE>2016-09-22</DATE_DISPATCH_NOTICE>
+</COMPLEMENTARY_INFO>
+</F03_2014>
+<F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="PL">
+<CONTRACTING_BODY>
+<ADDRESS_CONTRACTING_BODY>
+<OFFICIALNAME>Europejska Agencja Zarządzania Współpracą Operacyjną na Zewnętrznych Granicach Państw Członkowskich Unii Europejskiej – Frontex</OFFICIALNAME>
+<ADDRESS>Plac Europejski 6</ADDRESS>
+<TOWN>Warsaw</TOWN>
+<POSTAL_CODE>00-844</POSTAL_CODE>
+<COUNTRY VALUE="PL"/>
+<CONTACT_POINT>Frontex Procurement Sector</CONTACT_POINT>
+<PHONE>+48 222059500</PHONE>
+<E_MAIL>procurement@frontex.europa.eu</E_MAIL>
+<FAX>+48 222059501</FAX>
+<NUTS CODE="PL127"/>
+<URL_GENERAL>http://www.frontex.europa.eu</URL_GENERAL>
+</ADDRESS_CONTRACTING_BODY>
+<CA_TYPE VALUE="EU_INSTITUTION"/>
+<CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+</CONTRACTING_BODY>
+<OBJECT_CONTRACT>
+<TITLE>
+<P>Wielokrotna umowa ramowa z odnowieniem konkurencji o usługi związane z technologią SharePoint</P>
+</TITLE>
+<REFERENCE_NUMBER>Frontex/OP/131/2016/AH.</REFERENCE_NUMBER>
+<CPV_MAIN>
+<CPV_CODE CODE="72000000"/>
+</CPV_MAIN>
+<TYPE_CONTRACT CTYPE="SERVICES"/>
+<SHORT_DESCR>
+<P>W zakres zamówienia wchodzi świadczenie usług ICT w technologii SharePoint.</P>
+</SHORT_DESCR>
+<VAL_TOTAL CURRENCY="EUR">2650000.00</VAL_TOTAL>
+<NO_LOT_DIVISION/>
+<OBJECT_DESCR ITEM="1">
+<NUTS CODE="PL127"/>
+<MAIN_SITE>
+<P>siedziba Fronteksu, Warszawa, Polska.</P>
+</MAIN_SITE>
+<SHORT_DESCR>
+<P>Niniejsza umowa (umowa ramowa z odnowieniem konkurencji zawarta z 3 wykonawcami) będzie podstawą do zamawiania ogólnych usług dotyczących platformy SharePoint realizowanych w ramach zadań rozliczanych według czasu i zużytych materiałów, ustalonego czasu i zużytych materiałów lub ceny ryczałtowej. W odróżnieniu od innych umów szczegółowych dotyczących rozwiązań i produktów (np. intranet wykorzystujący rozwiązania dostępne w handlu – COTS, system zarządzania dokumentami – DMS) niniejsza umowa służy zaspokojeniu potrzeb Fronteksu w zakresie specjalnie projektowanego oprogramowania i utrzymania istniejącej platformy. Należy ją rozumieć w ujęciu ogólnym jako umowę obejmującą wszystkie etapy cyklu życia oprogramowania oraz techniczne dziedziny inżynierii oprogramowania. W związku z tym może ona obejmować opracowywanie standardowego oprogramowania, a także usługi utrzymania istniejącej platformy i rozwiązań, usługi przebudowy, dostrajania itp.</P>
+<P>Pod względem technicznym umowa jest ukierunkowana na platformę SharePoint, jej możliwe przyszłe wersje, jak również rozwiązania bazujące na niej i interfejsy łączące ją z innymi rozwiązaniami w zakresie oprogramowania wykorzystywanymi przez Frontex.</P>
+</SHORT_DESCR>
+<AC_QUALITY>
+<AC_CRITERION>zapewnienie jakości w umowach szczegółowych rozliczanych według czasu i materiałów oraz ustalonego czasu i materiałów</AC_CRITERION>
+<AC_WEIGHTING>20 punktów</AC_WEIGHTING>
+</AC_QUALITY>
+<AC_QUALITY>
+<AC_CRITERION>trzecia linia wsparcia</AC_CRITERION>
+<AC_WEIGHTING>15 punktów</AC_WEIGHTING>
+</AC_QUALITY>
+<AC_QUALITY>
+<AC_CRITERION>metoda zarządzania konfiguracją i testowania konfiguracji</AC_CRITERION>
+<AC_WEIGHTING>15 punktów</AC_WEIGHTING>
+</AC_QUALITY>
+<AC_QUALITY>
+<AC_CRITERION>projekt dokumentu wymagań biznesowych i systemowych (BRD/SRS) na potrzeby hipotetycznego scenariusza</AC_CRITERION>
+<AC_WEIGHTING>15 punktów</AC_WEIGHTING>
+</AC_QUALITY>
+<AC_QUALITY>
+<AC_CRITERION>projekt dokumentu projektu technicznego (TDD) na potrzeby hipotetycznego scenariusza</AC_CRITERION>
+<AC_WEIGHTING>15 punktów</AC_WEIGHTING>
+</AC_QUALITY>
+<AC_QUALITY>
+<AC_CRITERION>harmonogram główny projektu na potrzeby hipotetycznego scenariusza</AC_CRITERION>
+<AC_WEIGHTING>10 punktów</AC_WEIGHTING>
+</AC_QUALITY>
+<AC_QUALITY>
+<AC_CRITERION>opis zagrożeń i środków zaradczych na potrzeby hipotetycznego scenariusza</AC_CRITERION>
+<AC_WEIGHTING>10 punktów</AC_WEIGHTING>
+</AC_QUALITY>
+<AC_PRICE>
+<AC_WEIGHTING>40 %</AC_WEIGHTING>
+</AC_PRICE>
+<NO_OPTIONS/>
+<NO_EU_PROGR_RELATED/>
+</OBJECT_DESCR>
+</OBJECT_CONTRACT>
+<PROCEDURE>
+<PT_OPEN/>
+<FRAMEWORK/>
+<NO_CONTRACT_COVERED_GPA/>
+<NOTICE_NUMBER_OJ>2016/S 085-149362</NOTICE_NUMBER_OJ>
+</PROCEDURE>
+<AWARD_CONTRACT ITEM="1">
+<CONTRACT_NO>Frontex/OP/131/2016/AH (BoldBrick)</CONTRACT_NO>
+<TITLE>
+<P>Wielokrotna umowa ramowa z odnowieniem konkurencji o usługi związane z technologią SharePoint</P>
+</TITLE>
+<AWARDED_CONTRACT>
+<DATE_CONCLUSION_CONTRACT>2016-09-01</DATE_CONCLUSION_CONTRACT>
+<NB_TENDERS_RECEIVED>5</NB_TENDERS_RECEIVED>
+<NO_AWARDED_TO_GROUP/>
+<CONTRACTOR>
+<ADDRESS_CONTRACTOR>
+<OFFICIALNAME>BoldBrick s.r.o.</OFFICIALNAME>
+<TOWN>Prague</TOWN>
+<COUNTRY VALUE="CZ"/>
+<NUTS CODE="CZ010"/>
+</ADDRESS_CONTRACTOR>
+<NO_SME/>
+</CONTRACTOR>
+<VAL_TOTAL CURRENCY="EUR">2650000.00</VAL_TOTAL>
+</AWARDED_CONTRACT>
+</AWARD_CONTRACT>
+<AWARD_CONTRACT ITEM="2">
+<CONTRACT_NO>Frontex/OP/131/2016/AH (Fabrity)</CONTRACT_NO>
+<TITLE>
+<P>Wielokrotna umowa ramowa z odnowieniem konkurencji o usługi związane z technologią SharePoint</P>
+</TITLE>
+<AWARDED_CONTRACT>
+<DATE_CONCLUSION_CONTRACT>2016-09-01</DATE_CONCLUSION_CONTRACT>
+<NB_TENDERS_RECEIVED>5</NB_TENDERS_RECEIVED>
+<NO_AWARDED_TO_GROUP/>
+<CONTRACTOR>
+<ADDRESS_CONTRACTOR>
+<OFFICIALNAME>Fabrity K2 Sp. z o.o.</OFFICIALNAME>
+<TOWN>Warsaw</TOWN>
+<COUNTRY VALUE="PL"/>
+<NUTS CODE="PL127"/>
+</ADDRESS_CONTRACTOR>
+<NO_SME/>
+</CONTRACTOR>
+<VAL_TOTAL CURRENCY="EUR">2650000.00</VAL_TOTAL>
+</AWARDED_CONTRACT>
+</AWARD_CONTRACT>
+<AWARD_CONTRACT ITEM="3">
+<CONTRACT_NO>Frontex/OP/131/2016/AH (IT-Dev Sp. z o.o.)</CONTRACT_NO>
+<TITLE>
+<P>Wielokrotna umowa ramowa z odnowieniem konkurencji o usługi związane z technologią SharePoint</P>
+</TITLE>
+<AWARDED_CONTRACT>
+<DATE_CONCLUSION_CONTRACT>2016-09-01</DATE_CONCLUSION_CONTRACT>
+<NB_TENDERS_RECEIVED>5</NB_TENDERS_RECEIVED>
+<NO_AWARDED_TO_GROUP/>
+<CONTRACTOR>
+<ADDRESS_CONTRACTOR>
+<OFFICIALNAME>IT-Dev Sp. z o.o.</OFFICIALNAME>
+<TOWN>Wrocław</TOWN>
+<COUNTRY VALUE="PL"/>
+<NUTS CODE="PL514"/>
+</ADDRESS_CONTRACTOR>
+<NO_SME/>
+</CONTRACTOR>
+<VAL_TOTAL CURRENCY="EUR">2650000.00</VAL_TOTAL>
+</AWARDED_CONTRACT>
+</AWARD_CONTRACT>
+<COMPLEMENTARY_INFO>
+<ADDRESS_REVIEW_BODY>
+<OFFICIALNAME>Sąd</OFFICIALNAME>
+<ADDRESS>rue du Fort Niedergrünewald</ADDRESS>
+<TOWN>Luxembourg</TOWN>
+<POSTAL_CODE>2925</POSTAL_CODE>
+<COUNTRY VALUE="LU"/>
+<PHONE>+352 4303-1</PHONE>
+<E_MAIL>cfi.registry@curia.europa.eu</E_MAIL>
+<FAX>+352 4303-2100</FAX>
+<URL>http://www.curia.europa.eu</URL>
+</ADDRESS_REVIEW_BODY>
+<REVIEW_PROCEDURE>
+<P>w ciągu 2 miesięcy od zawiadomienia strony skarżącej lub, w przypadku braku zawiadomienia, od dnia podania do wiadomości.</P>
+</REVIEW_PROCEDURE>
+<DATE_DISPATCH_NOTICE>2016-09-22</DATE_DISPATCH_NOTICE>
+</COMPLEMENTARY_INFO>
+</F03_2014>
+<F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="SK">
+<CONTRACTING_BODY>
+<ADDRESS_CONTRACTING_BODY>
+<OFFICIALNAME>Európska agentúra pre riadenie operačnej spolupráce na vonkajších hraniciach členských štátov Európskej únie – Frontex</OFFICIALNAME>
+<ADDRESS>Plac Europejski 6</ADDRESS>
+<TOWN>Warsaw</TOWN>
+<POSTAL_CODE>00-844</POSTAL_CODE>
+<COUNTRY VALUE="PL"/>
+<CONTACT_POINT>Frontex Procurement Sector</CONTACT_POINT>
+<PHONE>+48 222059500</PHONE>
+<E_MAIL>procurement@frontex.europa.eu</E_MAIL>
+<FAX>+48 222059501</FAX>
+<NUTS CODE="PL127"/>
+<URL_GENERAL>http://www.frontex.europa.eu</URL_GENERAL>
+</ADDRESS_CONTRACTING_BODY>
+<CA_TYPE VALUE="EU_INSTITUTION"/>
+<CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+</CONTRACTING_BODY>
+<OBJECT_CONTRACT>
+<TITLE>
+<P>Viacnásobná rámcová zmluva s obnovením súťaže na poskytovanie služieb týkajúcich sa SharePoint.</P>
+</TITLE>
+<REFERENCE_NUMBER>Frontex/OP/131/2016/AH.</REFERENCE_NUMBER>
+<CPV_MAIN>
+<CPV_CODE CODE="72000000"/>
+</CPV_MAIN>
+<TYPE_CONTRACT CTYPE="SERVICES"/>
+<SHORT_DESCR>
+<P>Rozsah zákazky zahŕňa poskytovanie IKT služieb týkajúcich sa technológie SharePoint.</P>
+</SHORT_DESCR>
+<VAL_TOTAL CURRENCY="EUR">2650000.00</VAL_TOTAL>
+<NO_LOT_DIVISION/>
+<OBJECT_DESCR ITEM="1">
+<NUTS CODE="PL127"/>
+<MAIN_SITE>
+<P>priestory Frontex, Varšava, Poľsko.</P>
+</MAIN_SITE>
+<SHORT_DESCR>
+<P>Toto obstarávanie (rámcová zmluva s obnovením súťaže uzatvorená s 3 hospodárskymi subjektmi) sa bude považovať za zdroj generických služieb súvisiacich s platformou SP v rámci zákaziek určených na základe času a prostriedkov, stanoveného času a prostriedkov alebo zákaziek s pevnou cenou. Na rozdiel od iných obstarávaní s konkrétnym riešením a orientáciou na produkt (napr. komerčne dostupný intranet, systém správy dokumentov) sa v rámci tohto obstarávania budú riešiť potreby Frontexu týkajúce sa individuálne vyvíjaných softvérových riešení a údržby súčasnej platformy. Má sa chápať v širokom význame s odkazom na všetky fázy životného cyklu softvéru a technické oblasti softvérového inžinierstva. Môže preto zahŕňať vývoj typického softvéru, ako aj údržbu súčasnej platformy a riešení, refaktorovanie, nastavenie atď.</P>
+<P>Technologicky sa toto obstarávanie zameriava na SP, možné budúce verzie tejto platformy, ako aj na riešenia z nej vychádzajúce a na rozhrania, ktoré ju spájajú s inými softvérovými riešeniami, ktoré Frontex používa.</P>
+</SHORT_DESCR>
+<AC_QUALITY>
+<AC_CRITERION>Zaistenie kvality pre obstarávania na základe času a prostriedkov, stanoveného času a prostriedkov</AC_CRITERION>
+<AC_WEIGHTING>20 bodov</AC_WEIGHTING>
+</AC_QUALITY>
+<AC_QUALITY>
+<AC_CRITERION>podpora 3. úrovne</AC_CRITERION>
+<AC_WEIGHTING>15 bodov</AC_WEIGHTING>
+</AC_QUALITY>
+<AC_QUALITY>
+<AC_CRITERION>Prístup k riadeniu a testovaniu konfigurácie</AC_CRITERION>
+<AC_WEIGHTING>15 bodov</AC_WEIGHTING>
+</AC_QUALITY>
+<AC_QUALITY>
+<AC_CRITERION>Návrh dokumentov s obchodnými a systémovými požiadavkami pre hypotetický scenár</AC_CRITERION>
+<AC_WEIGHTING>15 bodov</AC_WEIGHTING>
+</AC_QUALITY>
+<AC_QUALITY>
+<AC_CRITERION>Návrh dokumentu s technickým návrhom pre hypotetický scenár</AC_CRITERION>
+<AC_WEIGHTING>15 bodov</AC_WEIGHTING>
+</AC_QUALITY>
+<AC_QUALITY>
+<AC_CRITERION>Hlavný harmonogram projektu pre hypotetický scenár</AC_CRITERION>
+<AC_WEIGHTING>10 bodov</AC_WEIGHTING>
+</AC_QUALITY>
+<AC_QUALITY>
+<AC_CRITERION>Opis rizík a zmierňujúcich opatrení pre hypotetický scenár</AC_CRITERION>
+<AC_WEIGHTING>10 bodov</AC_WEIGHTING>
+</AC_QUALITY>
+<AC_PRICE>
+<AC_WEIGHTING>40 %</AC_WEIGHTING>
+</AC_PRICE>
+<NO_OPTIONS/>
+<NO_EU_PROGR_RELATED/>
+</OBJECT_DESCR>
+</OBJECT_CONTRACT>
+<PROCEDURE>
+<PT_OPEN/>
+<FRAMEWORK/>
+<NO_CONTRACT_COVERED_GPA/>
+<NOTICE_NUMBER_OJ>2016/S 085-149362</NOTICE_NUMBER_OJ>
+</PROCEDURE>
+<AWARD_CONTRACT ITEM="1">
+<CONTRACT_NO>Frontex/OP/131/2016/AH (BoldBrick)</CONTRACT_NO>
+<TITLE>
+<P>Viacnásobná rámcová zmluva s obnovením súťaže na poskytovanie služieb týkajúcich sa SharePoint</P>
+</TITLE>
+<AWARDED_CONTRACT>
+<DATE_CONCLUSION_CONTRACT>2016-09-01</DATE_CONCLUSION_CONTRACT>
+<NB_TENDERS_RECEIVED>5</NB_TENDERS_RECEIVED>
+<NO_AWARDED_TO_GROUP/>
+<CONTRACTOR>
+<ADDRESS_CONTRACTOR>
+<OFFICIALNAME>BoldBrick s.r.o.</OFFICIALNAME>
+<TOWN>Prague</TOWN>
+<COUNTRY VALUE="CZ"/>
+<NUTS CODE="CZ010"/>
+</ADDRESS_CONTRACTOR>
+<NO_SME/>
+</CONTRACTOR>
+<VAL_TOTAL CURRENCY="EUR">2650000.00</VAL_TOTAL>
+</AWARDED_CONTRACT>
+</AWARD_CONTRACT>
+<AWARD_CONTRACT ITEM="2">
+<CONTRACT_NO>Frontex/OP/131/2016/AH (Fabrity)</CONTRACT_NO>
+<TITLE>
+<P>Viacnásobná rámcová zmluva s obnovením súťaže na poskytovanie služieb týkajúcich sa SharePoint</P>
+</TITLE>
+<AWARDED_CONTRACT>
+<DATE_CONCLUSION_CONTRACT>2016-09-01</DATE_CONCLUSION_CONTRACT>
+<NB_TENDERS_RECEIVED>5</NB_TENDERS_RECEIVED>
+<NO_AWARDED_TO_GROUP/>
+<CONTRACTOR>
+<ADDRESS_CONTRACTOR>
+<OFFICIALNAME>Fabrity K2 Sp. z o.o.</OFFICIALNAME>
+<TOWN>Warsaw</TOWN>
+<COUNTRY VALUE="PL"/>
+<NUTS CODE="PL127"/>
+</ADDRESS_CONTRACTOR>
+<NO_SME/>
+</CONTRACTOR>
+<VAL_TOTAL CURRENCY="EUR">2650000.00</VAL_TOTAL>
+</AWARDED_CONTRACT>
+</AWARD_CONTRACT>
+<AWARD_CONTRACT ITEM="3">
+<CONTRACT_NO>Frontex/OP/131/2016/AH (IT-Dev Sp. z o.o.)</CONTRACT_NO>
+<TITLE>
+<P>Viacnásobná rámcová zmluva s obnovením súťaže na poskytovanie služieb týkajúcich sa SharePoint</P>
+</TITLE>
+<AWARDED_CONTRACT>
+<DATE_CONCLUSION_CONTRACT>2016-09-01</DATE_CONCLUSION_CONTRACT>
+<NB_TENDERS_RECEIVED>5</NB_TENDERS_RECEIVED>
+<NO_AWARDED_TO_GROUP/>
+<CONTRACTOR>
+<ADDRESS_CONTRACTOR>
+<OFFICIALNAME>IT-Dev Sp. z o.o.</OFFICIALNAME>
+<TOWN>Wrocław</TOWN>
+<COUNTRY VALUE="PL"/>
+<NUTS CODE="PL514"/>
+</ADDRESS_CONTRACTOR>
+<NO_SME/>
+</CONTRACTOR>
+<VAL_TOTAL CURRENCY="EUR">2650000.00</VAL_TOTAL>
+</AWARDED_CONTRACT>
+</AWARD_CONTRACT>
+<COMPLEMENTARY_INFO>
+<ADDRESS_REVIEW_BODY>
+<OFFICIALNAME>Všeobecný súd</OFFICIALNAME>
+<ADDRESS>rue du Fort Niedergrünewald</ADDRESS>
+<TOWN>Luxembourg</TOWN>
+<POSTAL_CODE>2925</POSTAL_CODE>
+<COUNTRY VALUE="LU"/>
+<PHONE>+352 4303-1</PHONE>
+<E_MAIL>cfi.registry@curia.europa.eu</E_MAIL>
+<FAX>+352 4303-2100</FAX>
+<URL>http://www.curia.europa.eu</URL>
+</ADDRESS_REVIEW_BODY>
+<REVIEW_PROCEDURE>
+<P>Do 2 mesiacov od vyrozumenia osoby podávajúcej odvolanie alebo, ak to nie je možné, odo dňa, keď túto skutočnosť zistila.</P>
+</REVIEW_PROCEDURE>
+<DATE_DISPATCH_NOTICE>2016-09-22</DATE_DISPATCH_NOTICE>
+</COMPLEMENTARY_INFO>
+</F03_2014>
+<F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="SL">
+<CONTRACTING_BODY>
+<ADDRESS_CONTRACTING_BODY>
+<OFFICIALNAME>Evropska agencija za upravljanje operativnega sodelovanja na zunanjih mejah držav članic Evropske unije – Frontex</OFFICIALNAME>
+<ADDRESS>Plac Europejski 6</ADDRESS>
+<TOWN>Warsaw</TOWN>
+<POSTAL_CODE>00-844</POSTAL_CODE>
+<COUNTRY VALUE="PL"/>
+<CONTACT_POINT>Frontex Procurement Sector</CONTACT_POINT>
+<PHONE>+48 222059500</PHONE>
+<E_MAIL>procurement@frontex.europa.eu</E_MAIL>
+<FAX>+48 222059501</FAX>
+<NUTS CODE="PL127"/>
+<URL_GENERAL>http://www.frontex.europa.eu</URL_GENERAL>
+</ADDRESS_CONTRACTING_BODY>
+<CA_TYPE VALUE="EU_INSTITUTION"/>
+<CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+</CONTRACTING_BODY>
+<OBJECT_CONTRACT>
+<TITLE>
+<P>Večkratno okvirno naročilo s ponovnim odpiranjem konkurence za zagotavljanje storitev, povezanih s tehnologijo SharePoint.</P>
+</TITLE>
+<REFERENCE_NUMBER>Frontex/OP/131/2016/AH.</REFERENCE_NUMBER>
+<CPV_MAIN>
+<CPV_CODE CODE="72000000"/>
+</CPV_MAIN>
+<TYPE_CONTRACT CTYPE="SERVICES"/>
+<SHORT_DESCR>
+<P>Obseg naročila vključuje zagotavljanje storitev IKT v tehnologiji SharePoint.</P>
+</SHORT_DESCR>
+<VAL_TOTAL CURRENCY="EUR">2650000.00</VAL_TOTAL>
+<NO_LOT_DIVISION/>
+<OBJECT_DESCR ITEM="1">
+<NUTS CODE="PL127"/>
+<MAIN_SITE>
+<P>Prostori Frontexa, Varšava, Poljska.</P>
+</MAIN_SITE>
+<SHORT_DESCR>
+<P>To naročilo (okvirno naročilo s ponovnim odpiranjem konkurence, sklenjeno s 3 gospodarskimi subjekti) se bo upoštevalo kot vir za generične storitve, povezane s platformo SP v okviru časovnih rokov in sredstev (times and means – T&amp;M), navedenih časovnih rokov in sredstev (quoted times and means – QT&amp;M) ali nalog s fiksno ceno. V nasprotju z drugimi naročili za specifične rešitve in naročili, usmerjenimi k proizvodom (npr. intranet na podlagi serijskih proizvodov v komercialni prodaji (commercial off the shelf – COTS), sistem za upravljanje dokumentov (document management system – DMS)), bo to naročilo usmerjeno k potrebam Frontexa v zvezi s programskimi rešitvami, razvitimi po meri, in vzdrževanjem obstoječe platforme. Vključevalo bo razumevanje v širšem smislu in se bo navezovalo na vse faze življenjskega cikla programske opreme in na tehnična področja načrtovanja programske opreme. Zato lahko zajema tipičen razvoj programske opreme ter vzdrževanje obstoječe platforme in rešitve, preurejanje, prilagajanje itd.</P>
+<P>V tehnološkem smislu je to naročilo osredotočeno na SP, možne prihodnje različice te platforme, kakor tudi na rešitve, zgrajene na njej, in vmesnike, ki jo povezujejo z drugimi programskimi rešitvami, ki jih uporablja Frontex.</P>
+</SHORT_DESCR>
+<AC_QUALITY>
+<AC_CRITERION>Zagotavljanje kakovosti za specifična naročila na podlagi časovnih rokov in sredstev ter navedenih časovnih rokov in sredstev</AC_CRITERION>
+<AC_WEIGHTING>20 točk</AC_WEIGHTING>
+</AC_QUALITY>
+<AC_QUALITY>
+<AC_CRITERION>podpora 3. ravni</AC_CRITERION>
+<AC_WEIGHTING>15 točk</AC_WEIGHTING>
+</AC_QUALITY>
+<AC_QUALITY>
+<AC_CRITERION>Pristop k upravljanju konfiguracije in preskušanju</AC_CRITERION>
+<AC_WEIGHTING>15 točk</AC_WEIGHTING>
+</AC_QUALITY>
+<AC_QUALITY>
+<AC_CRITERION>Osnutek dokumentacije o poslovnih in sistemskih zahtevah (business and system requirement documents – BRD/SRS) za hipotetičen scenarij</AC_CRITERION>
+<AC_WEIGHTING>15 točk</AC_WEIGHTING>
+</AC_QUALITY>
+<AC_QUALITY>
+<AC_CRITERION>Osnutek dokumenta o tehničnem projektiranju (technical design document – TDD) za hipotetičen scenarij</AC_CRITERION>
+<AC_WEIGHTING>15 točk</AC_WEIGHTING>
+</AC_QUALITY>
+<AC_QUALITY>
+<AC_CRITERION>Glavni razpored projekta za hipotetičen scenarij</AC_CRITERION>
+<AC_WEIGHTING>10 točk</AC_WEIGHTING>
+</AC_QUALITY>
+<AC_QUALITY>
+<AC_CRITERION>Opis tveganj in blažitev za hipotetičen scenarij</AC_CRITERION>
+<AC_WEIGHTING>10 točk</AC_WEIGHTING>
+</AC_QUALITY>
+<AC_PRICE>
+<AC_WEIGHTING>40 %</AC_WEIGHTING>
+</AC_PRICE>
+<NO_OPTIONS/>
+<NO_EU_PROGR_RELATED/>
+</OBJECT_DESCR>
+</OBJECT_CONTRACT>
+<PROCEDURE>
+<PT_OPEN/>
+<FRAMEWORK/>
+<NO_CONTRACT_COVERED_GPA/>
+<NOTICE_NUMBER_OJ>2016/S 085-149362</NOTICE_NUMBER_OJ>
+</PROCEDURE>
+<AWARD_CONTRACT ITEM="1">
+<CONTRACT_NO>Frontex/OP/131/2016/AH (BoldBrick)</CONTRACT_NO>
+<TITLE>
+<P>Večkratno okvirno naročilo s ponovnim odpiranjem konkurence za zagotavljanje storitev, povezanih s tehnologijo SharePoint</P>
+</TITLE>
+<AWARDED_CONTRACT>
+<DATE_CONCLUSION_CONTRACT>2016-09-01</DATE_CONCLUSION_CONTRACT>
+<NB_TENDERS_RECEIVED>5</NB_TENDERS_RECEIVED>
+<NO_AWARDED_TO_GROUP/>
+<CONTRACTOR>
+<ADDRESS_CONTRACTOR>
+<OFFICIALNAME>BoldBrick s.r.o.</OFFICIALNAME>
+<TOWN>Prague</TOWN>
+<COUNTRY VALUE="CZ"/>
+<NUTS CODE="CZ010"/>
+</ADDRESS_CONTRACTOR>
+<NO_SME/>
+</CONTRACTOR>
+<VAL_TOTAL CURRENCY="EUR">2650000.00</VAL_TOTAL>
+</AWARDED_CONTRACT>
+</AWARD_CONTRACT>
+<AWARD_CONTRACT ITEM="2">
+<CONTRACT_NO>Frontex/OP/131/2016/AH (Fabrity)</CONTRACT_NO>
+<TITLE>
+<P>Večkratno okvirno naročilo s ponovnim odpiranjem konkurence za zagotavljanje storitev, povezanih s tehnologijo SharePoint</P>
+</TITLE>
+<AWARDED_CONTRACT>
+<DATE_CONCLUSION_CONTRACT>2016-09-01</DATE_CONCLUSION_CONTRACT>
+<NB_TENDERS_RECEIVED>5</NB_TENDERS_RECEIVED>
+<NO_AWARDED_TO_GROUP/>
+<CONTRACTOR>
+<ADDRESS_CONTRACTOR>
+<OFFICIALNAME>Fabrity K2 Sp. z o.o.</OFFICIALNAME>
+<TOWN>Warsaw</TOWN>
+<COUNTRY VALUE="PL"/>
+<NUTS CODE="PL127"/>
+</ADDRESS_CONTRACTOR>
+<NO_SME/>
+</CONTRACTOR>
+<VAL_TOTAL CURRENCY="EUR">2650000.00</VAL_TOTAL>
+</AWARDED_CONTRACT>
+</AWARD_CONTRACT>
+<AWARD_CONTRACT ITEM="3">
+<CONTRACT_NO>Frontex/OP/131/2016/AH (IT-Dev Sp. z o.o.)</CONTRACT_NO>
+<TITLE>
+<P>Večkratno okvirno naročilo s ponovnim odpiranjem konkurence za zagotavljanje storitev, povezanih s tehnologijo SharePoint</P>
+</TITLE>
+<AWARDED_CONTRACT>
+<DATE_CONCLUSION_CONTRACT>2016-09-01</DATE_CONCLUSION_CONTRACT>
+<NB_TENDERS_RECEIVED>5</NB_TENDERS_RECEIVED>
+<NO_AWARDED_TO_GROUP/>
+<CONTRACTOR>
+<ADDRESS_CONTRACTOR>
+<OFFICIALNAME>IT-Dev Sp. z o.o.</OFFICIALNAME>
+<TOWN>Wrocław</TOWN>
+<COUNTRY VALUE="PL"/>
+<NUTS CODE="PL514"/>
+</ADDRESS_CONTRACTOR>
+<NO_SME/>
+</CONTRACTOR>
+<VAL_TOTAL CURRENCY="EUR">2650000.00</VAL_TOTAL>
+</AWARDED_CONTRACT>
+</AWARD_CONTRACT>
+<COMPLEMENTARY_INFO>
+<ADDRESS_REVIEW_BODY>
+<OFFICIALNAME>Splošno sodišče</OFFICIALNAME>
+<ADDRESS>rue du Fort Niedergrünewald</ADDRESS>
+<TOWN>Luxembourg</TOWN>
+<POSTAL_CODE>2925</POSTAL_CODE>
+<COUNTRY VALUE="LU"/>
+<PHONE>+352 4303-1</PHONE>
+<E_MAIL>cfi.registry@curia.europa.eu</E_MAIL>
+<FAX>+352 4303-2100</FAX>
+<URL>http://www.curia.europa.eu</URL>
+</ADDRESS_REVIEW_BODY>
+<REVIEW_PROCEDURE>
+<P>V 2 mesecih od uradnega obvestila tožniku ali, če tega ni bilo, od dneva, ko je tožnik zanj izvedel.</P>
+</REVIEW_PROCEDURE>
+<DATE_DISPATCH_NOTICE>2016-09-22</DATE_DISPATCH_NOTICE>
+</COMPLEMENTARY_INFO>
+</F03_2014>
+<F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="GA">
+<CONTRACTING_BODY>
+<ADDRESS_CONTRACTING_BODY>
+<OFFICIALNAME>An Ghníomhaireacht Eorpach chun Comhar Oibríochtúil a Bhainistiú ag Teorainneacha Seachtracha Bhallstáit an Aontais Eorpaigh — Frontex</OFFICIALNAME>
+<ADDRESS>Plac Europejski 6</ADDRESS>
+<TOWN>Warsaw</TOWN>
+<POSTAL_CODE>00-844</POSTAL_CODE>
+<COUNTRY VALUE="PL"/>
+<CONTACT_POINT>Earnáil Soláthair Frontex</CONTACT_POINT>
+<PHONE>+48 222059500</PHONE>
+<E_MAIL>procurement@frontex.europa.eu</E_MAIL>
+<FAX>+48 222059501</FAX>
+<NUTS CODE="PL127"/>
+<URL_GENERAL>http://www.frontex.europa.eu</URL_GENERAL>
+</ADDRESS_CONTRACTING_BODY>
+<CA_TYPE VALUE="EU_INSTITUTION"/>
+<CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+</CONTRACTING_BODY>
+<OBJECT_CONTRACT>
+<TITLE>
+<P>Conradh ilchreatlaí le comórtas athoscailte le haghaidh seirbhísí a bhaineann le SharePoint a chur ar fáil.</P>
+</TITLE>
+<REFERENCE_NUMBER>Frontex/OP/131/2016/AH.</REFERENCE_NUMBER>
+<CPV_MAIN>
+<CPV_CODE CODE="72000000"/>
+</CPV_MAIN>
+<TYPE_CONTRACT CTYPE="SERVICES"/>
+<SHORT_DESCR>
+<P>Cuimsíonn raon feidhme an chonartha seirbhísí TFC a chur ar fáil maidir le teicneolaíocht SharePoint.</P>
+</SHORT_DESCR>
+<VAL_TOTAL CURRENCY="EUR">2650000.00</VAL_TOTAL>
+<NO_LOT_DIVISION/>
+<OBJECT_DESCR ITEM="1">
+<NUTS CODE="PL127"/>
+<MAIN_SITE>
+<P>Áitreabh Frontex, Vársá, an Pholainn.</P>
+</MAIN_SITE>
+<SHORT_DESCR>
+<P>Breithneofar an conradh seo (conradh creatlaí le haghaidh comórtas arna shocrú le 3 oibreoirí eacnamaíocha a athoscailt) mar fhoinse seirbhísí comhchineálacha a bhaineann le hardán SP faoi T&amp;M, QT&amp;M nó tascanna praghais sheasta. Mar mhalairt ar chonarthaí eile lena mbaineann réiteach sainiúil agus atá dírithe ar tháirge (m.sh. inlíon COTS, DMS), déanfar freastal sa chonradh seo ar riachtanais Frontex maidir le réitigh bhogearraí shainfhorbartha agus an t-ardán atá ann cheana a chothabháil. Tuigfear é faoi réir ag ciall leathan maidir le gach céim de thimthriall bogearraí agus gach fearann teicniúil d'innealtóireacht bogearraí. Dá réir sin d'fhéadfadh sé gnáthfhorbairt bogearraí a chlúdach anuas ar chothabháil an ardáin agus na réiteach atá ann cheana, athfhachtóiriú, tiúnáil, srl.</P>
+<P>Tá an conradh seo dírithe ó thaobh teicneolaíochta de ar SP, ar leaganacha féideartha sa todhchaí den ardán sin agus ar réitigh arna bhforbairt air agus ar chomhéadain lena ndéantar é a nascadh le réitigh bogearraí arna n-úsáid ag Frontex.</P>
+</SHORT_DESCR>
+<AC_QUALITY>
+<AC_CRITERION>Dearbhú cáilíochta le haghaidh conarthaí sainiúla ama agus acmhainní agus conarthaí sainiúla ama agus acmhainní luaite</AC_CRITERION>
+<AC_WEIGHTING>20 pointe</AC_WEIGHTING>
+</AC_QUALITY>
+<AC_QUALITY>
+<AC_CRITERION>Tacaíocht 3ú leibhéal</AC_CRITERION>
+<AC_WEIGHTING>15 phointe</AC_WEIGHTING>
+</AC_QUALITY>
+<AC_QUALITY>
+<AC_CRITERION>Cur chuige ar bhainistíocht agus ar thástáil cumraíochta</AC_CRITERION>
+<AC_WEIGHTING>15 phointe</AC_WEIGHTING>
+</AC_QUALITY>
+<AC_QUALITY>
+<AC_CRITERION>BRD/SRS dréachta don chás hipitéiseach</AC_CRITERION>
+<AC_WEIGHTING>15 phointe</AC_WEIGHTING>
+</AC_QUALITY>
+<AC_QUALITY>
+<AC_CRITERION>TDD dréachta don chás hipitéiseach</AC_CRITERION>
+<AC_WEIGHTING>15 phointe</AC_WEIGHTING>
+</AC_QUALITY>
+<AC_QUALITY>
+<AC_CRITERION>Sceideal máistirthionscadail don chás hipitéiseach</AC_CRITERION>
+<AC_WEIGHTING>10 bpointe</AC_WEIGHTING>
+</AC_QUALITY>
+<AC_QUALITY>
+<AC_CRITERION>Cur síos ar na rioscaí agus ar na maolaithe don chás hipitéiseach</AC_CRITERION>
+<AC_WEIGHTING>10 bpointe</AC_WEIGHTING>
+</AC_QUALITY>
+<AC_PRICE>
+<AC_WEIGHTING>40 %</AC_WEIGHTING>
+</AC_PRICE>
+<NO_OPTIONS/>
+<NO_EU_PROGR_RELATED/>
+</OBJECT_DESCR>
+</OBJECT_CONTRACT>
+<PROCEDURE>
+<PT_OPEN/>
+<FRAMEWORK/>
+<NO_CONTRACT_COVERED_GPA/>
+<NOTICE_NUMBER_OJ>2016/S 085-149362</NOTICE_NUMBER_OJ>
+</PROCEDURE>
+<AWARD_CONTRACT ITEM="1">
+<CONTRACT_NO>Frontex/OP/131/2016/AH (BoldBrick)</CONTRACT_NO>
+<TITLE>
+<P>Conradh ilchreatlaí le comórtas athoscailte le haghaidh seirbhísí a bhaineann le SharePoint a chur ar fáil</P>
+</TITLE>
+<AWARDED_CONTRACT>
+<DATE_CONCLUSION_CONTRACT>2016-09-01</DATE_CONCLUSION_CONTRACT>
+<NB_TENDERS_RECEIVED>5</NB_TENDERS_RECEIVED>
+<NO_AWARDED_TO_GROUP/>
+<CONTRACTOR>
+<ADDRESS_CONTRACTOR>
+<OFFICIALNAME>BoldBrick s.r.o.</OFFICIALNAME>
+<TOWN>Prague</TOWN>
+<COUNTRY VALUE="CZ"/>
+<NUTS CODE="CZ010"/>
+</ADDRESS_CONTRACTOR>
+<NO_SME/>
+</CONTRACTOR>
+<VAL_TOTAL CURRENCY="EUR">2650000.00</VAL_TOTAL>
+</AWARDED_CONTRACT>
+</AWARD_CONTRACT>
+<AWARD_CONTRACT ITEM="2">
+<CONTRACT_NO>Frontex/OP/131/2016/AH (Fabrity)</CONTRACT_NO>
+<TITLE>
+<P>Conradh ilchreatlaí le comórtas athoscailte le haghaidh seirbhísí a bhaineann le SharePoint a chur ar fáil</P>
+</TITLE>
+<AWARDED_CONTRACT>
+<DATE_CONCLUSION_CONTRACT>2016-09-01</DATE_CONCLUSION_CONTRACT>
+<NB_TENDERS_RECEIVED>5</NB_TENDERS_RECEIVED>
+<NO_AWARDED_TO_GROUP/>
+<CONTRACTOR>
+<ADDRESS_CONTRACTOR>
+<OFFICIALNAME>Fabrity K2 Sp. z o.o.</OFFICIALNAME>
+<TOWN>Warsaw</TOWN>
+<COUNTRY VALUE="PL"/>
+<NUTS CODE="PL127"/>
+</ADDRESS_CONTRACTOR>
+<NO_SME/>
+</CONTRACTOR>
+<VAL_TOTAL CURRENCY="EUR">2650000.00</VAL_TOTAL>
+</AWARDED_CONTRACT>
+</AWARD_CONTRACT>
+<AWARD_CONTRACT ITEM="3">
+<CONTRACT_NO>Frontex/OP/131/2016/AH (IT-Dev Sp. z o.o.)</CONTRACT_NO>
+<TITLE>
+<P>Conradh ilchreatlaí le comórtas athoscailte le haghaidh seirbhísí a bhaineann le SharePoint a chur ar fáil</P>
+</TITLE>
+<AWARDED_CONTRACT>
+<DATE_CONCLUSION_CONTRACT>2016-09-01</DATE_CONCLUSION_CONTRACT>
+<NB_TENDERS_RECEIVED>5</NB_TENDERS_RECEIVED>
+<NO_AWARDED_TO_GROUP/>
+<CONTRACTOR>
+<ADDRESS_CONTRACTOR>
+<OFFICIALNAME>IT-Dev Sp. z o.o.</OFFICIALNAME>
+<TOWN>Wrocław</TOWN>
+<COUNTRY VALUE="PL"/>
+<NUTS CODE="PL514"/>
+</ADDRESS_CONTRACTOR>
+<NO_SME/>
+</CONTRACTOR>
+<VAL_TOTAL CURRENCY="EUR">2650000.00</VAL_TOTAL>
+</AWARDED_CONTRACT>
+</AWARD_CONTRACT>
+<COMPLEMENTARY_INFO>
+<ADDRESS_REVIEW_BODY>
+<OFFICIALNAME>An Chúirt Ghinearálta</OFFICIALNAME>
+<ADDRESS>rue du Fort Niedergrünewald</ADDRESS>
+<TOWN>Luxembourg</TOWN>
+<POSTAL_CODE>2925</POSTAL_CODE>
+<COUNTRY VALUE="LU"/>
+<PHONE>+352 4303-1</PHONE>
+<E_MAIL>cfi.registry@curia.europa.eu</E_MAIL>
+<FAX>+352 4303-2100</FAX>
+<URL>http://www.curia.europa.eu</URL>
+</ADDRESS_REVIEW_BODY>
+<REVIEW_PROCEDURE>
+<P>Laistigh de 2 mhí ón bhfógra don ghearánaí, nó, dá éagmais sin, ón lá a fuarthas an t-eolas.</P>
+</REVIEW_PROCEDURE>
+<DATE_DISPATCH_NOTICE>2016-09-22</DATE_DISPATCH_NOTICE>
+</COMPLEMENTARY_INFO>
+</F03_2014>
+<F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="BG">
+<CONTRACTING_BODY>
+<ADDRESS_CONTRACTING_BODY>
+<OFFICIALNAME>Европейска агенция за управление на оперативното сътрудничество по външните граници на държавите-членки на Европейския съюз – Frontex</OFFICIALNAME>
+<ADDRESS>Plac Europejski 6</ADDRESS>
+<TOWN>Warsaw</TOWN>
+<POSTAL_CODE>00-844</POSTAL_CODE>
+<COUNTRY VALUE="PL"/>
+<CONTACT_POINT>Frontex Procurement Sector</CONTACT_POINT>
+<PHONE>+48 222059500</PHONE>
+<E_MAIL>procurement@frontex.europa.eu</E_MAIL>
+<FAX>+48 222059501</FAX>
+<NUTS CODE="PL127"/>
+<URL_GENERAL>http://www.frontex.europa.eu</URL_GENERAL>
+</ADDRESS_CONTRACTING_BODY>
+<CA_TYPE VALUE="EU_INSTITUTION"/>
+<CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+</CONTRACTING_BODY>
+<OBJECT_CONTRACT>
+<TITLE>
+<P>Многостранен рамков договор с повторно стартиране на конкурс за предоставяне на свързани с SharePoint услуги.</P>
+</TITLE>
+<REFERENCE_NUMBER>Frontex/OP/131/2016/AH.</REFERENCE_NUMBER>
+<CPV_MAIN>
+<CPV_CODE CODE="72000000"/>
+</CPV_MAIN>
+<TYPE_CONTRACT CTYPE="SERVICES"/>
+<SHORT_DESCR>
+<P>В обхвата на поръчката влиза предоставянето на ИКТ услуги в технологията SharePoint.</P>
+</SHORT_DESCR>
+<VAL_TOTAL CURRENCY="EUR">2650000.00</VAL_TOTAL>
+<NO_LOT_DIVISION/>
+<OBJECT_DESCR ITEM="1">
+<NUTS CODE="PL127"/>
+<MAIN_SITE>
+<P>помещения на Frontex, Варшава, Полша.</P>
+</MAIN_SITE>
+<SHORT_DESCR>
+<P>Тази поръчка (рамков договор с повторно стартиране на конкурс, сключен с 3-ма икономически оператори) трябва да бъде счетена за източник за основни услуги, свързани с платформа SP съгласно задания на базата на време и средства, посочено време и средства или задания с фиксирана цена. За разлика от други поръчки за специфични решения и поръчки, ориентирани към продукта (например търговска стандартна система, базирана на интранет, система за управление на документи), тази поръчка ще разгледа нуждите на Frontex относно специално разработени софтуерни решения и поддръжка на съществуващата платформа. Това трябва да се разбира в широк смисъл по отношение на всички етапи на жизнения цикъл на софтуера и техническите области на софтуерното инженерство. Поради това може да обхваща типичното разработване на софтуер, както и поддръжката на съществуващата платформа и решения, преработката на код, настройването и т.н.</P>
+<P>Технологично тази поръчка е насочена към SP, възможни бъдещи версии на тази платформа, както и към решения, основани на нея и интерфейси, които я свързват с други софтуерни решения, използвани от Frontex.</P>
+</SHORT_DESCR>
+<AC_QUALITY>
+<AC_CRITERION>Гарантиране на качеството за специфични поръчки за време и средства и посочено време и средства</AC_CRITERION>
+<AC_WEIGHTING>20 точки</AC_WEIGHTING>
+</AC_QUALITY>
+<AC_QUALITY>
+<AC_CRITERION>поддръжка на 3-то ниво</AC_CRITERION>
+<AC_WEIGHTING>15 точки</AC_WEIGHTING>
+</AC_QUALITY>
+<AC_QUALITY>
+<AC_CRITERION>Подход за управление и изпитване на конфигурации</AC_CRITERION>
+<AC_WEIGHTING>15 точки</AC_WEIGHTING>
+</AC_QUALITY>
+<AC_QUALITY>
+<AC_CRITERION>Проектодокументи относно бизнес и системни изисквания за хипотетичен сценарий</AC_CRITERION>
+<AC_WEIGHTING>15 точки</AC_WEIGHTING>
+</AC_QUALITY>
+<AC_QUALITY>
+<AC_CRITERION>Проектодокумент за технически проект за хипотетичен сценарий</AC_CRITERION>
+<AC_WEIGHTING>15 точки</AC_WEIGHTING>
+</AC_QUALITY>
+<AC_QUALITY>
+<AC_CRITERION>Основен график на проекта за хипотетичен сценарий</AC_CRITERION>
+<AC_WEIGHTING>10 точки</AC_WEIGHTING>
+</AC_QUALITY>
+<AC_QUALITY>
+<AC_CRITERION>Описание на рисковете и облекчения за хипотетичния сценарий</AC_CRITERION>
+<AC_WEIGHTING>10 точки</AC_WEIGHTING>
+</AC_QUALITY>
+<AC_PRICE>
+<AC_WEIGHTING>40 %</AC_WEIGHTING>
+</AC_PRICE>
+<NO_OPTIONS/>
+<NO_EU_PROGR_RELATED/>
+</OBJECT_DESCR>
+</OBJECT_CONTRACT>
+<PROCEDURE>
+<PT_OPEN/>
+<FRAMEWORK/>
+<NO_CONTRACT_COVERED_GPA/>
+<NOTICE_NUMBER_OJ>2016/S 085-149362</NOTICE_NUMBER_OJ>
+</PROCEDURE>
+<AWARD_CONTRACT ITEM="1">
+<CONTRACT_NO>Frontex/OP/131/2016/AH (BoldBrick)</CONTRACT_NO>
+<TITLE>
+<P>Многостранен рамков договор с повторно стартиране на конкурс за предоставяне на свързани с SharePoint услуги</P>
+</TITLE>
+<AWARDED_CONTRACT>
+<DATE_CONCLUSION_CONTRACT>2016-09-01</DATE_CONCLUSION_CONTRACT>
+<NB_TENDERS_RECEIVED>5</NB_TENDERS_RECEIVED>
+<NO_AWARDED_TO_GROUP/>
+<CONTRACTOR>
+<ADDRESS_CONTRACTOR>
+<OFFICIALNAME>BoldBrick s.r.o.</OFFICIALNAME>
+<TOWN>Prague</TOWN>
+<COUNTRY VALUE="CZ"/>
+<NUTS CODE="CZ010"/>
+</ADDRESS_CONTRACTOR>
+<NO_SME/>
+</CONTRACTOR>
+<VAL_TOTAL CURRENCY="EUR">2650000.00</VAL_TOTAL>
+</AWARDED_CONTRACT>
+</AWARD_CONTRACT>
+<AWARD_CONTRACT ITEM="2">
+<CONTRACT_NO>Frontex/OP/131/2016/AH (Fabrity)</CONTRACT_NO>
+<TITLE>
+<P>Многостранен рамков договор с повторно стартиране на конкурс за предоставяне на свързани с SharePoint услуги</P>
+</TITLE>
+<AWARDED_CONTRACT>
+<DATE_CONCLUSION_CONTRACT>2016-09-01</DATE_CONCLUSION_CONTRACT>
+<NB_TENDERS_RECEIVED>5</NB_TENDERS_RECEIVED>
+<NO_AWARDED_TO_GROUP/>
+<CONTRACTOR>
+<ADDRESS_CONTRACTOR>
+<OFFICIALNAME>Fabrity K2 Sp. z o.o.</OFFICIALNAME>
+<TOWN>Warsaw</TOWN>
+<COUNTRY VALUE="PL"/>
+<NUTS CODE="PL127"/>
+</ADDRESS_CONTRACTOR>
+<NO_SME/>
+</CONTRACTOR>
+<VAL_TOTAL CURRENCY="EUR">2650000.00</VAL_TOTAL>
+</AWARDED_CONTRACT>
+</AWARD_CONTRACT>
+<AWARD_CONTRACT ITEM="3">
+<CONTRACT_NO>Frontex/OP/131/2016/AH (IT-Dev Sp. z o.o.)</CONTRACT_NO>
+<TITLE>
+<P>Многостранен рамков договор с повторно стартиране на конкурс за предоставяне на свързани с SharePoint услуги</P>
+</TITLE>
+<AWARDED_CONTRACT>
+<DATE_CONCLUSION_CONTRACT>2016-09-01</DATE_CONCLUSION_CONTRACT>
+<NB_TENDERS_RECEIVED>5</NB_TENDERS_RECEIVED>
+<NO_AWARDED_TO_GROUP/>
+<CONTRACTOR>
+<ADDRESS_CONTRACTOR>
+<OFFICIALNAME>IT-Dev Sp. z o.o.</OFFICIALNAME>
+<TOWN>Wrocław</TOWN>
+<COUNTRY VALUE="PL"/>
+<NUTS CODE="PL514"/>
+</ADDRESS_CONTRACTOR>
+<NO_SME/>
+</CONTRACTOR>
+<VAL_TOTAL CURRENCY="EUR">2650000.00</VAL_TOTAL>
+</AWARDED_CONTRACT>
+</AWARD_CONTRACT>
+<COMPLEMENTARY_INFO>
+<ADDRESS_REVIEW_BODY>
+<OFFICIALNAME>Общ съд</OFFICIALNAME>
+<ADDRESS>rue du Fort Niedergrünewald</ADDRESS>
+<TOWN>Luxembourg</TOWN>
+<POSTAL_CODE>2925</POSTAL_CODE>
+<COUNTRY VALUE="LU"/>
+<PHONE>+352 4303-1</PHONE>
+<E_MAIL>cfi.registry@curia.europa.eu</E_MAIL>
+<FAX>+352 4303-2100</FAX>
+<URL>http://www.curia.europa.eu</URL>
+</ADDRESS_REVIEW_BODY>
+<REVIEW_PROCEDURE>
+<P>В рамките на 2 месеца от получаването на известието от ищеца или, в случай че такова липсва, от деня, в който е станало известно.</P>
+</REVIEW_PROCEDURE>
+<DATE_DISPATCH_NOTICE>2016-09-22</DATE_DISPATCH_NOTICE>
+</COMPLEMENTARY_INFO>
+</F03_2014>
+<F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="RO">
+<CONTRACTING_BODY>
+<ADDRESS_CONTRACTING_BODY>
+<OFFICIALNAME>Agenția Europeană pentru Gestionarea Cooperării Operative la Frontierele Externe ale Statelor Membre ale Uniunii Europene – Frontex</OFFICIALNAME>
+<ADDRESS>Plac Europejski 6</ADDRESS>
+<TOWN>Warsaw</TOWN>
+<POSTAL_CODE>00-844</POSTAL_CODE>
+<COUNTRY VALUE="PL"/>
+<CONTACT_POINT>Frontex Procurement Sector</CONTACT_POINT>
+<PHONE>+48 222059500</PHONE>
+<E_MAIL>procurement@frontex.europa.eu</E_MAIL>
+<FAX>+48 222059501</FAX>
+<NUTS CODE="PL127"/>
+<URL_GENERAL>http://www.frontex.europa.eu</URL_GENERAL>
+</ADDRESS_CONTRACTING_BODY>
+<CA_TYPE VALUE="EU_INSTITUTION"/>
+<CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+</CONTRACTING_BODY>
+<OBJECT_CONTRACT>
+<TITLE>
+<P>Contract-cadru multiplu cu reluare a procedurii concurențiale pentru prestarea de servicii legate de SharePoint.</P>
+</TITLE>
+<REFERENCE_NUMBER>Frontex/OP/131/2016/AH.</REFERENCE_NUMBER>
+<CPV_MAIN>
+<CPV_CODE CODE="72000000"/>
+</CPV_MAIN>
+<TYPE_CONTRACT CTYPE="SERVICES"/>
+<SHORT_DESCR>
+<P>Contractul are ca obiect prestarea de servicii TIC în tehnologia SharePoint.</P>
+</SHORT_DESCR>
+<VAL_TOTAL CURRENCY="EUR">2650000.00</VAL_TOTAL>
+<NO_LOT_DIVISION/>
+<OBJECT_DESCR ITEM="1">
+<NUTS CODE="PL127"/>
+<MAIN_SITE>
+<P>Sediul Frontex, Varșovia, Polonia.</P>
+</MAIN_SITE>
+<SHORT_DESCR>
+<P>Acest contract (contract-cadru cu reluare a procedurii concurențiale încheiat cu 3 operatori economici) va fi considerat o sursă de servicii generice legate de platforma SP în cadrul unor misiuni cu preț în funcție de timpul și mijloacele utilizate, de timpul și mijloacele indicate sau cu preț fix. Spre deosebire de alte contracte privind soluții și produse specifice (de exemplu, sisteme comerciale standard pe bază de intranet, sisteme de gestionare a documentelor), acest contract va viza nevoile Frontex legate de soluții software dezvoltate la comandă și întreținerea platformei existente. În sens larg, acesta privește toate etapele ciclului de viață al software-ului și domeniile tehnice de inginerie software. Prin urmare, poate acoperi în mod obișnuit dezvoltarea de software, precum și întreținerea platformei și soluțiilor existente, servicii de refacere, reglare etc.</P>
+<P>Din punct de vedere tehnologic, acest contract se axează pe SP, pe eventualele versiuni viitoare ale acestei platforme, precum și pe soluțiile dezvoltate pentru aceasta și pe interfețele care o leagă la alte soluții software utilizate de Frontex.</P>
+</SHORT_DESCR>
+<AC_QUALITY>
+<AC_CRITERION>Asigurarea calității pentru contractele specifice cu preț în funcție de timpul și mijloacele utilizate și de timpul și mijloacele indicate</AC_CRITERION>
+<AC_WEIGHTING>20 de puncte</AC_WEIGHTING>
+</AC_QUALITY>
+<AC_QUALITY>
+<AC_CRITERION>Susținerea de nivelul al 3-lea</AC_CRITERION>
+<AC_WEIGHTING>15 puncte</AC_WEIGHTING>
+</AC_QUALITY>
+<AC_QUALITY>
+<AC_CRITERION>Abordarea privind gestionarea și testarea configurărilor</AC_CRITERION>
+<AC_WEIGHTING>15 puncte</AC_WEIGHTING>
+</AC_QUALITY>
+<AC_QUALITY>
+<AC_CRITERION>Proiectul de document privind cerințele operaționale și de sistem pentru un scenariu ipotetic</AC_CRITERION>
+<AC_WEIGHTING>15 puncte</AC_WEIGHTING>
+</AC_QUALITY>
+<AC_QUALITY>
+<AC_CRITERION>Proiectul de document de proiectare tehnică pentru scenariul ipotetic</AC_CRITERION>
+<AC_WEIGHTING>15 puncte</AC_WEIGHTING>
+</AC_QUALITY>
+<AC_QUALITY>
+<AC_CRITERION>Planul general al proiectului pentru scenariul ipotetic</AC_CRITERION>
+<AC_WEIGHTING>10 puncte</AC_WEIGHTING>
+</AC_QUALITY>
+<AC_QUALITY>
+<AC_CRITERION>Descrierea riscurilor și a măsurilor de atenuare pentru scenariul ipotetic</AC_CRITERION>
+<AC_WEIGHTING>10 puncte</AC_WEIGHTING>
+</AC_QUALITY>
+<AC_PRICE>
+<AC_WEIGHTING>40 %</AC_WEIGHTING>
+</AC_PRICE>
+<NO_OPTIONS/>
+<NO_EU_PROGR_RELATED/>
+</OBJECT_DESCR>
+</OBJECT_CONTRACT>
+<PROCEDURE>
+<PT_OPEN/>
+<FRAMEWORK/>
+<NO_CONTRACT_COVERED_GPA/>
+<NOTICE_NUMBER_OJ>2016/S 085-149362</NOTICE_NUMBER_OJ>
+</PROCEDURE>
+<AWARD_CONTRACT ITEM="1">
+<CONTRACT_NO>Frontex/OP/131/2016/AH (BoldBrick)</CONTRACT_NO>
+<TITLE>
+<P>Contract-cadru multiplu cu reluare a procedurii concurențiale pentru prestarea de servicii legate de SharePoint</P>
+</TITLE>
+<AWARDED_CONTRACT>
+<DATE_CONCLUSION_CONTRACT>2016-09-01</DATE_CONCLUSION_CONTRACT>
+<NB_TENDERS_RECEIVED>5</NB_TENDERS_RECEIVED>
+<NO_AWARDED_TO_GROUP/>
+<CONTRACTOR>
+<ADDRESS_CONTRACTOR>
+<OFFICIALNAME>BoldBrick s.r.o.</OFFICIALNAME>
+<TOWN>Prague</TOWN>
+<COUNTRY VALUE="CZ"/>
+<NUTS CODE="CZ010"/>
+</ADDRESS_CONTRACTOR>
+<NO_SME/>
+</CONTRACTOR>
+<VAL_TOTAL CURRENCY="EUR">2650000.00</VAL_TOTAL>
+</AWARDED_CONTRACT>
+</AWARD_CONTRACT>
+<AWARD_CONTRACT ITEM="2">
+<CONTRACT_NO>Frontex/OP/131/2016/AH (Fabrity)</CONTRACT_NO>
+<TITLE>
+<P>Contract-cadru multiplu cu reluare a procedurii concurențiale pentru prestarea de servicii legate de SharePoint</P>
+</TITLE>
+<AWARDED_CONTRACT>
+<DATE_CONCLUSION_CONTRACT>2016-09-01</DATE_CONCLUSION_CONTRACT>
+<NB_TENDERS_RECEIVED>5</NB_TENDERS_RECEIVED>
+<NO_AWARDED_TO_GROUP/>
+<CONTRACTOR>
+<ADDRESS_CONTRACTOR>
+<OFFICIALNAME>Fabrity K2 Sp. z o.o.</OFFICIALNAME>
+<TOWN>Warsaw</TOWN>
+<COUNTRY VALUE="PL"/>
+<NUTS CODE="PL127"/>
+</ADDRESS_CONTRACTOR>
+<NO_SME/>
+</CONTRACTOR>
+<VAL_TOTAL CURRENCY="EUR">2650000.00</VAL_TOTAL>
+</AWARDED_CONTRACT>
+</AWARD_CONTRACT>
+<AWARD_CONTRACT ITEM="3">
+<CONTRACT_NO>Frontex/OP/131/2016/AH (IT-Dev Sp. z o.o.)</CONTRACT_NO>
+<TITLE>
+<P>Contract-cadru multiplu cu reluare a procedurii concurențiale pentru prestarea de servicii legate de SharePoint</P>
+</TITLE>
+<AWARDED_CONTRACT>
+<DATE_CONCLUSION_CONTRACT>2016-09-01</DATE_CONCLUSION_CONTRACT>
+<NB_TENDERS_RECEIVED>5</NB_TENDERS_RECEIVED>
+<NO_AWARDED_TO_GROUP/>
+<CONTRACTOR>
+<ADDRESS_CONTRACTOR>
+<OFFICIALNAME>IT-Dev Sp. z o.o.</OFFICIALNAME>
+<TOWN>Wrocław</TOWN>
+<COUNTRY VALUE="PL"/>
+<NUTS CODE="PL514"/>
+</ADDRESS_CONTRACTOR>
+<NO_SME/>
+</CONTRACTOR>
+<VAL_TOTAL CURRENCY="EUR">2650000.00</VAL_TOTAL>
+</AWARDED_CONTRACT>
+</AWARD_CONTRACT>
+<COMPLEMENTARY_INFO>
+<ADDRESS_REVIEW_BODY>
+<OFFICIALNAME>Tribunalul</OFFICIALNAME>
+<ADDRESS>rue du Fort Niedergrünewald</ADDRESS>
+<TOWN>Luxembourg</TOWN>
+<POSTAL_CODE>2925</POSTAL_CODE>
+<COUNTRY VALUE="LU"/>
+<PHONE>+352 4303-1</PHONE>
+<E_MAIL>cfi.registry@curia.europa.eu</E_MAIL>
+<FAX>+352 4303-2100</FAX>
+<URL>http://www.curia.europa.eu</URL>
+</ADDRESS_REVIEW_BODY>
+<REVIEW_PROCEDURE>
+<P>În termen de 2 luni de la notificarea reclamantului sau, în lipsa acesteia, de la ziua în care acesta a luat cunoștință de actul respectiv.</P>
+</REVIEW_PROCEDURE>
+<DATE_DISPATCH_NOTICE>2016-09-22</DATE_DISPATCH_NOTICE>
+</COMPLEMENTARY_INFO>
+</F03_2014>
+<F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="HR">
+<CONTRACTING_BODY>
+<ADDRESS_CONTRACTING_BODY>
+<OFFICIALNAME>Europska agencija za upravljanje operativnom suradnjom na vanjskim granicama država članica Europske unije — Frontex</OFFICIALNAME>
+<ADDRESS>Plac Europejski 6</ADDRESS>
+<TOWN>Warsaw</TOWN>
+<POSTAL_CODE>00-844</POSTAL_CODE>
+<COUNTRY VALUE="PL"/>
+<CONTACT_POINT>Frontex Procurement Sector</CONTACT_POINT>
+<PHONE>+48 222059500</PHONE>
+<E_MAIL>procurement@frontex.europa.eu</E_MAIL>
+<FAX>+48 222059501</FAX>
+<NUTS CODE="PL127"/>
+<URL_GENERAL>http://www.frontex.europa.eu</URL_GENERAL>
+</ADDRESS_CONTRACTING_BODY>
+<CA_TYPE VALUE="EU_INSTITUTION"/>
+<CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+</CONTRACTING_BODY>
+<OBJECT_CONTRACT>
+<TITLE>
+<P>Višestruki okvirni ugovor s ponovnim pokretanjem nadmetanja za pružanje usluga povezanih s tehnologijom SharePoint</P>
+</TITLE>
+<REFERENCE_NUMBER>Frontex/OP/131/2016/AH.</REFERENCE_NUMBER>
+<CPV_MAIN>
+<CPV_CODE CODE="72000000"/>
+</CPV_MAIN>
+<TYPE_CONTRACT CTYPE="SERVICES"/>
+<SHORT_DESCR>
+<P>Opseg ugovora obuhvaća pružanje usluga u području IKT-a u tehnologiji SharePoint.</P>
+</SHORT_DESCR>
+<VAL_TOTAL CURRENCY="EUR">2650000.00</VAL_TOTAL>
+<NO_LOT_DIVISION/>
+<OBJECT_DESCR ITEM="1">
+<NUTS CODE="PL127"/>
+<MAIN_SITE>
+<P>Prostori Frontexa, Varšava, Poljska.</P>
+</MAIN_SITE>
+<SHORT_DESCR>
+<P>Ovaj ugovor (okvirni ugovor s ponovnim pokretanjem nadmetanja sklopljen s 3 gospodarska subjekta) smatra se izvorom za opće usluge povezane s platformom SharePoint (SP) u okviru zadataka na osnovi vremena i sredstava (times and means – T&amp;M), određenog vremena i sredstava (quoted times and means – QT&amp;M) ili zadane cijene. Suprotno od drugih posebnih ugovora usmjerenih na rješenja ili proizvode (primjerice, komercijalni intranet spreman za upotrebu (commercial off the shelf – COTS), sustav za upravljanje dokumentima (document management system – DMS)), ovim će se ugovorom riješiti Frontexove potrebe u pogledu softverskih rješenja razvijenih po narudžbi i održavanja postojeće platforme. U širem se smislu treba shvatiti s obzirom na sve faze životnog ciklusa softvera te tehničke domene softverskog inženjeringa. Stoga može obuhvaćati tipični razvoj softvera, kao i održavanje postojeće platforme i rješenja, refaktoriranje, podešavanje itd.</P>
+<P>Ovaj je ugovor tehnološki usmjeren na SP, moguće buduće inačice te platforme, kao i na rješenja utemeljena na njoj te sučelja koja je povezuju s drugim softverskim rješenjima koja upotrebljava Frontex.</P>
+</SHORT_DESCR>
+<AC_QUALITY>
+<AC_CRITERION>Osiguranje kvalitete za posebne ugovore na osnovi vremena i sredstava te određenog vremena i sredstava</AC_CRITERION>
+<AC_WEIGHTING>20 bodova</AC_WEIGHTING>
+</AC_QUALITY>
+<AC_QUALITY>
+<AC_CRITERION>Podrška 3. razine</AC_CRITERION>
+<AC_WEIGHTING>15 bodova</AC_WEIGHTING>
+</AC_QUALITY>
+<AC_QUALITY>
+<AC_CRITERION>Pristup upravljanju konfiguracijom i ispitivanju</AC_CRITERION>
+<AC_WEIGHTING>15 bodova</AC_WEIGHTING>
+</AC_QUALITY>
+<AC_QUALITY>
+<AC_CRITERION>Nacrt dokumentacije sa zahtjevima za poslovanje i sustav (business and system requirement documents – BRD/SRS) za hipotetski scenarij</AC_CRITERION>
+<AC_WEIGHTING>15 bodova</AC_WEIGHTING>
+</AC_QUALITY>
+<AC_QUALITY>
+<AC_CRITERION>Nacrt tehničkog projektnog dokumenta (technical design document – TDD) za hipotetski scenarij</AC_CRITERION>
+<AC_WEIGHTING>15 bodova</AC_WEIGHTING>
+</AC_QUALITY>
+<AC_QUALITY>
+<AC_CRITERION>Glavni plan projekta za hipotetski scenarij</AC_CRITERION>
+<AC_WEIGHTING>10 bodova</AC_WEIGHTING>
+</AC_QUALITY>
+<AC_QUALITY>
+<AC_CRITERION>Opis rizika i mjera ublažavanja za hipotetski scenarij</AC_CRITERION>
+<AC_WEIGHTING>10 bodova</AC_WEIGHTING>
+</AC_QUALITY>
+<AC_PRICE>
+<AC_WEIGHTING>40 %</AC_WEIGHTING>
+</AC_PRICE>
+<NO_OPTIONS/>
+<NO_EU_PROGR_RELATED/>
+</OBJECT_DESCR>
+</OBJECT_CONTRACT>
+<PROCEDURE>
+<PT_OPEN/>
+<FRAMEWORK/>
+<NO_CONTRACT_COVERED_GPA/>
+<NOTICE_NUMBER_OJ>2016/S 085-149362</NOTICE_NUMBER_OJ>
+</PROCEDURE>
+<AWARD_CONTRACT ITEM="1">
+<CONTRACT_NO>Frontex/OP/131/2016/AH (BoldBrick)</CONTRACT_NO>
+<TITLE>
+<P>Višestruki okvirni ugovor s ponovnim pokretanjem nadmetanja za pružanje usluga povezanih s tehnologijom SharePoint</P>
+</TITLE>
+<AWARDED_CONTRACT>
+<DATE_CONCLUSION_CONTRACT>2016-09-01</DATE_CONCLUSION_CONTRACT>
+<NB_TENDERS_RECEIVED>5</NB_TENDERS_RECEIVED>
+<NO_AWARDED_TO_GROUP/>
+<CONTRACTOR>
+<ADDRESS_CONTRACTOR>
+<OFFICIALNAME>BoldBrick s.r.o.</OFFICIALNAME>
+<TOWN>Prague</TOWN>
+<COUNTRY VALUE="CZ"/>
+<NUTS CODE="CZ010"/>
+</ADDRESS_CONTRACTOR>
+<NO_SME/>
+</CONTRACTOR>
+<VAL_TOTAL CURRENCY="EUR">2650000.00</VAL_TOTAL>
+</AWARDED_CONTRACT>
+</AWARD_CONTRACT>
+<AWARD_CONTRACT ITEM="2">
+<CONTRACT_NO>Frontex/OP/131/2016/AH (Fabrity)</CONTRACT_NO>
+<TITLE>
+<P>Višestruki okvirni ugovor s ponovnim pokretanjem nadmetanja za pružanje usluga povezanih s tehnologijom SharePoint</P>
+</TITLE>
+<AWARDED_CONTRACT>
+<DATE_CONCLUSION_CONTRACT>2016-09-01</DATE_CONCLUSION_CONTRACT>
+<NB_TENDERS_RECEIVED>5</NB_TENDERS_RECEIVED>
+<NO_AWARDED_TO_GROUP/>
+<CONTRACTOR>
+<ADDRESS_CONTRACTOR>
+<OFFICIALNAME>Fabrity K2 Sp. z o.o.</OFFICIALNAME>
+<TOWN>Warsaw</TOWN>
+<COUNTRY VALUE="PL"/>
+<NUTS CODE="PL127"/>
+</ADDRESS_CONTRACTOR>
+<NO_SME/>
+</CONTRACTOR>
+<VAL_TOTAL CURRENCY="EUR">2650000.00</VAL_TOTAL>
+</AWARDED_CONTRACT>
+</AWARD_CONTRACT>
+<AWARD_CONTRACT ITEM="3">
+<CONTRACT_NO>Frontex/OP/131/2016/AH (IT-Dev Sp. z o.o.)</CONTRACT_NO>
+<TITLE>
+<P>Višestruki okvirni ugovor s ponovnim pokretanjem nadmetanja za pružanje usluga povezanih s tehnologijom SharePoint</P>
+</TITLE>
+<AWARDED_CONTRACT>
+<DATE_CONCLUSION_CONTRACT>2016-09-01</DATE_CONCLUSION_CONTRACT>
+<NB_TENDERS_RECEIVED>5</NB_TENDERS_RECEIVED>
+<NO_AWARDED_TO_GROUP/>
+<CONTRACTOR>
+<ADDRESS_CONTRACTOR>
+<OFFICIALNAME>IT-Dev Sp. z o.o.</OFFICIALNAME>
+<TOWN>Wrocław</TOWN>
+<COUNTRY VALUE="PL"/>
+<NUTS CODE="PL514"/>
+</ADDRESS_CONTRACTOR>
+<NO_SME/>
+</CONTRACTOR>
+<VAL_TOTAL CURRENCY="EUR">2650000.00</VAL_TOTAL>
+</AWARDED_CONTRACT>
+</AWARD_CONTRACT>
+<COMPLEMENTARY_INFO>
+<ADDRESS_REVIEW_BODY>
+<OFFICIALNAME>Opći sud</OFFICIALNAME>
+<ADDRESS>rue du Fort Niedergrünewald</ADDRESS>
+<TOWN>Luxembourg</TOWN>
+<POSTAL_CODE>2925</POSTAL_CODE>
+<COUNTRY VALUE="LU"/>
+<PHONE>+352 4303-1</PHONE>
+<E_MAIL>cfi.registry@curia.europa.eu</E_MAIL>
+<FAX>+352 4303-2100</FAX>
+<URL>http://www.curia.europa.eu</URL>
+</ADDRESS_REVIEW_BODY>
+<REVIEW_PROCEDURE>
+<P>U roku od 2 mjeseca od slanja obavijesti podnositelju žalbe ili, u slučaju izostanka obavijesti, od dana primanja dotičnih okolnosti na znanje.</P>
+</REVIEW_PROCEDURE>
+<DATE_DISPATCH_NOTICE>2016-09-22</DATE_DISPATCH_NOTICE>
+</COMPLEMENTARY_INFO>
+</F03_2014>
+</FORM_SECTION>
+</TED_EXPORT>

@@ -1,0 +1,2808 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TED_EXPORT xmlns:xlink="http://www.w3.org/1999/xlink"
+            xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+            xmlns="ted/R2.0.9.S02/publication"
+            xmlns:n2016="ted/2016/nuts"
+            xsi:schemaLocation="ted/R2.0.9.S02/publication TED_EXPORT.xsd"
+            VERSION="R2.0.9.S02.E01"
+            DOC_ID="321184-2017"
+            EDITION="2017155">
+   <TECHNICAL_SECTION>
+      <RECEPTION_ID>17-329369-001</RECEPTION_ID>
+      <DELETION_DATE>20171112</DELETION_DATE>
+      <FORM_LG_LIST>DA DE EN ES FI FR EL IT NL PT SV CS ET HU LT LV MT PL SK SL GA BG RO HR </FORM_LG_LIST>
+      <COMMENTS>From Convertor</COMMENTS>
+   </TECHNICAL_SECTION>
+   <LINKS_SECTION>
+      <XML_SCHEMA_DEFINITION_LINK xlink:type="simple"
+                                  xlink:href="http://ted.europa.eu"
+                                  xlink:title="TED WEBSITE"/>
+      <OFFICIAL_FORMS_LINK xlink:type="simple" xlink:href="http://ted.europa.eu"/>
+      <FORMS_LABELS_LINK xlink:type="simple" xlink:href="http://ted.europa.eu"/>
+      <ORIGINAL_CPV_LINK xlink:type="simple" xlink:href="http://ted.europa.eu"/>
+      <ORIGINAL_NUTS_LINK xlink:type="simple" xlink:href="http://ted.europa.eu"/>
+   </LINKS_SECTION>
+   <CODED_DATA_SECTION>
+      <REF_OJS>
+         <COLL_OJ>S</COLL_OJ>
+         <NO_OJ>155</NO_OJ>
+         <DATE_PUB>20170816</DATE_PUB>
+      </REF_OJS>
+      <NOTICE_DATA>
+         <NO_DOC_OJS>2017/S 155-321184</NO_DOC_OJS>
+         <URI_LIST>
+            <URI_DOC LG="DA">http://ted.europa.eu/udl?uri=TED:NOTICE:321184-2017:TEXT:DA:HTML</URI_DOC>
+            <URI_DOC LG="DE">http://ted.europa.eu/udl?uri=TED:NOTICE:321184-2017:TEXT:DE:HTML</URI_DOC>
+            <URI_DOC LG="EN">http://ted.europa.eu/udl?uri=TED:NOTICE:321184-2017:TEXT:EN:HTML</URI_DOC>
+            <URI_DOC LG="ES">http://ted.europa.eu/udl?uri=TED:NOTICE:321184-2017:TEXT:ES:HTML</URI_DOC>
+            <URI_DOC LG="FI">http://ted.europa.eu/udl?uri=TED:NOTICE:321184-2017:TEXT:FI:HTML</URI_DOC>
+            <URI_DOC LG="FR">http://ted.europa.eu/udl?uri=TED:NOTICE:321184-2017:TEXT:FR:HTML</URI_DOC>
+            <URI_DOC LG="EL">http://ted.europa.eu/udl?uri=TED:NOTICE:321184-2017:TEXT:EL:HTML</URI_DOC>
+            <URI_DOC LG="IT">http://ted.europa.eu/udl?uri=TED:NOTICE:321184-2017:TEXT:IT:HTML</URI_DOC>
+            <URI_DOC LG="NL">http://ted.europa.eu/udl?uri=TED:NOTICE:321184-2017:TEXT:NL:HTML</URI_DOC>
+            <URI_DOC LG="PT">http://ted.europa.eu/udl?uri=TED:NOTICE:321184-2017:TEXT:PT:HTML</URI_DOC>
+            <URI_DOC LG="SV">http://ted.europa.eu/udl?uri=TED:NOTICE:321184-2017:TEXT:SV:HTML</URI_DOC>
+            <URI_DOC LG="CS">http://ted.europa.eu/udl?uri=TED:NOTICE:321184-2017:TEXT:CS:HTML</URI_DOC>
+            <URI_DOC LG="ET">http://ted.europa.eu/udl?uri=TED:NOTICE:321184-2017:TEXT:ET:HTML</URI_DOC>
+            <URI_DOC LG="HU">http://ted.europa.eu/udl?uri=TED:NOTICE:321184-2017:TEXT:HU:HTML</URI_DOC>
+            <URI_DOC LG="LT">http://ted.europa.eu/udl?uri=TED:NOTICE:321184-2017:TEXT:LT:HTML</URI_DOC>
+            <URI_DOC LG="LV">http://ted.europa.eu/udl?uri=TED:NOTICE:321184-2017:TEXT:LV:HTML</URI_DOC>
+            <URI_DOC LG="MT">http://ted.europa.eu/udl?uri=TED:NOTICE:321184-2017:TEXT:MT:HTML</URI_DOC>
+            <URI_DOC LG="PL">http://ted.europa.eu/udl?uri=TED:NOTICE:321184-2017:TEXT:PL:HTML</URI_DOC>
+            <URI_DOC LG="SK">http://ted.europa.eu/udl?uri=TED:NOTICE:321184-2017:TEXT:SK:HTML</URI_DOC>
+            <URI_DOC LG="SL">http://ted.europa.eu/udl?uri=TED:NOTICE:321184-2017:TEXT:SL:HTML</URI_DOC>
+            <URI_DOC LG="GA">http://ted.europa.eu/udl?uri=TED:NOTICE:321184-2017:TEXT:GA:HTML</URI_DOC>
+            <URI_DOC LG="BG">http://ted.europa.eu/udl?uri=TED:NOTICE:321184-2017:TEXT:BG:HTML</URI_DOC>
+            <URI_DOC LG="RO">http://ted.europa.eu/udl?uri=TED:NOTICE:321184-2017:TEXT:RO:HTML</URI_DOC>
+            <URI_DOC LG="HR">http://ted.europa.eu/udl?uri=TED:NOTICE:321184-2017:TEXT:HR:HTML</URI_DOC>
+         </URI_LIST>
+         <LG_ORIG>EN</LG_ORIG>
+         <ISO_COUNTRY VALUE="PL"/>
+         <IA_URL_GENERAL>http://www.frontex.europa.eu</IA_URL_GENERAL>
+         <ORIGINAL_CPV CODE="72200000">Software programming and consultancy services</ORIGINAL_CPV>
+         <n2016:PERFORMANCE_NUTS CODE="PL911">Miasto Warszawa</n2016:PERFORMANCE_NUTS>
+         <n2016:CA_CE_NUTS CODE="PL911">Miasto Warszawa</n2016:CA_CE_NUTS>
+         <n2016:TENDERER_NUTS CODE="PL911">Miasto Warszawa</n2016:TENDERER_NUTS>
+         <VALUES>
+            <VALUE TYPE="PROCUREMENT_TOTAL" CURRENCY="EUR">1900000</VALUE>
+         </VALUES>
+         <REF_NOTICE>
+            <NO_DOC_OJS>2017/S 039-070052</NO_DOC_OJS>
+         </REF_NOTICE>
+      </NOTICE_DATA>
+      <CODIF_DATA>
+         <DS_DATE_DISPATCH>20170804</DS_DATE_DISPATCH>
+         <AA_AUTHORITY_TYPE CODE="5">European Institution/Agency or International Organisation</AA_AUTHORITY_TYPE>
+         <TD_DOCUMENT_TYPE CODE="7">Contract award notice</TD_DOCUMENT_TYPE>
+         <NC_CONTRACT_NATURE CODE="4">Services</NC_CONTRACT_NATURE>
+         <PR_PROC CODE="1">Open procedure</PR_PROC>
+         <RP_REGULATION CODE="3">European Institution/Agency or International Organisation</RP_REGULATION>
+         <TY_TYPE_BID CODE="9">Not applicable</TY_TYPE_BID>
+         <AC_AWARD_CRIT CODE="2">The most economic tender</AC_AWARD_CRIT>
+         <MA_MAIN_ACTIVITIES CODE="S">General public services</MA_MAIN_ACTIVITIES>
+         <HEADING>AGC03</HEADING>
+         <INITIATOR>AG</INITIATOR>
+         <DIRECTIVE VALUE="2014/24/EU"/>
+      </CODIF_DATA>
+   </CODED_DATA_SECTION>
+   <TRANSLATION_SECTION>
+      <ML_TITLES>
+         <ML_TI_DOC LG="DA">
+            <TI_CY>Polen</TI_CY>
+            <TI_TOWN>Warszawa</TI_TOWN>
+            <TI_TEXT>
+               <P>Multipel rammekontrakt om udførelse af tjenesteydelser vedrørende SAS-software, Microsoft BI og ESRI GIS</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="DE">
+            <TI_CY>Polen</TI_CY>
+            <TI_TOWN>Warschau</TI_TOWN>
+            <TI_TEXT>
+               <P>Mehrfachrahmenvertrag für Dienstleistungen im Zusammenhang mit SAS-Software, Microsoft BI und ESRI GIS</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="EN">
+            <TI_CY>Poland</TI_CY>
+            <TI_TOWN>Warsaw</TI_TOWN>
+            <TI_TEXT>
+               <P>Multiple framework contract for the provision of services related to SAS software, Microsoft BI and ESRI GIS</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="ES">
+            <TI_CY>Polonia</TI_CY>
+            <TI_TOWN>Varsovia</TI_TOWN>
+            <TI_TEXT>
+               <P>Contrato marco múltiple para la prestación de servicios relacionados con el «software» SAS, Microsoft BI y el SIG ESRI</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="FI">
+            <TI_CY>Puola</TI_CY>
+            <TI_TOWN>Varsova</TI_TOWN>
+            <TI_TEXT>
+               <P>Rinnakkainen puitesopimus SAS-ohjelmistoon, Microsoft BI -työkaluihin sekä ESRIn paikkatietojärjestelmään (GIS) liittyvien palvelujen toimittamisesta</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="FR">
+            <TI_CY>Pologne</TI_CY>
+            <TI_TOWN>Varsovie</TI_TOWN>
+            <TI_TEXT>
+               <P>Contrat-cadre multiple en vue de la prestation de services relatifs au logiciel SAS, à Microsoft BI et au SIG ESRI</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="EL">
+            <TI_CY>Πολωνία</TI_CY>
+            <TI_TOWN>Βαρσοβία</TI_TOWN>
+            <TI_TEXT>
+               <P>Πολλαπλή σύμβαση-πλαίσιο για την παροχή υπηρεσιών σχετικά με λογισμικό SAS, Microsoft BI και ESRI GIS</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="IT">
+            <TI_CY>Polonia</TI_CY>
+            <TI_TOWN>Varsavia</TI_TOWN>
+            <TI_TEXT>
+               <P>Contratto quadro multiplo per la prestazione di servizi relativi al software SAS, a Microsoft BI e al SIG ESRI</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="NL">
+            <TI_CY>Polen</TI_CY>
+            <TI_TOWN>Warschau</TI_TOWN>
+            <TI_TEXT>
+               <P>Meervoudige raamovereenkomst voor de verlening van diensten met betrekking tot SAS-software, Microsoft BI en ESRI GIS</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="PT">
+            <TI_CY>Polónia</TI_CY>
+            <TI_TOWN>Varsóvia</TI_TOWN>
+            <TI_TEXT>
+               <P>Contrato-quadro múltiplo para a prestação de serviços relacionados com software SAS, Microsoft BI e SIG ESRI</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="SV">
+            <TI_CY>Polen</TI_CY>
+            <TI_TOWN>Warszawa</TI_TOWN>
+            <TI_TEXT>
+               <P>Multipelt ramavtal för tillhandahållande av tjänster med anknytning till SAS-programvara, Microsoft BI och ESRI GIS</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="CS">
+            <TI_CY>Polsko</TI_CY>
+            <TI_TOWN>Varšava</TI_TOWN>
+            <TI_TEXT>
+               <P>Vícestranná rámcová smlouva na poskytnutí služeb týkajících se softwaru SAS, Microsoft BI a ESRI GIS</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="ET">
+            <TI_CY>Poola</TI_CY>
+            <TI_TOWN>Varssavi</TI_TOWN>
+            <TI_TEXT>
+               <P>Mitmekordne raamleping SASi tarkvara, Microsoft BI and ESRI GISiga seotud teenuste osutamiseks</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="HU">
+            <TI_CY>Lengyelország</TI_CY>
+            <TI_TOWN>Varsó</TI_TOWN>
+            <TI_TEXT>
+               <P>Több féllel kötött keretszerződés SAS szoftverrel, Microsoft BI-vel és ESRI GIS-sel kapcsolatos szolgáltatásnyújtásra</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="LT">
+            <TI_CY>Lenkija</TI_CY>
+            <TI_TOWN>Varšuva</TI_TOWN>
+            <TI_TEXT>
+               <P>Preliminarioji sutartis su keliais tiekėjais dėl paslaugų, susijusių su SAS programine įranga, Microsoft BI ir ESRI GIS, teikimo</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="LV">
+            <TI_CY>Polija</TI_CY>
+            <TI_TOWN>Varšava</TI_TOWN>
+            <TI_TEXT>
+               <P>Vairākkārtējs pamatnolīgums par pakalpojumu sniegšanu saistībā ar SAS programmatūru, Microsoft BI un ESRI ĢIS</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="MT">
+            <TI_CY>il-Polonja</TI_CY>
+            <TI_TOWN>Varsavja</TI_TOWN>
+            <TI_TEXT>
+               <P>Qafas ta' kuntratt multiplu għall-provvista ta' servizzi rrelatati għas-softwer SAS, il-Microsoft BI u l-ESRI GIS</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="PL">
+            <TI_CY>Polska</TI_CY>
+            <TI_TOWN>Warszawa</TI_TOWN>
+            <TI_TEXT>
+               <P>Wielokrotna umowa ramowa o świadczenie usług związanych z oprogramowaniem SAS, Microsoft BI oraz ESRI GIS</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="SK">
+            <TI_CY>Poľsko</TI_CY>
+            <TI_TOWN>Varšava</TI_TOWN>
+            <TI_TEXT>
+               <P>Viacnásobná rámcová zmluva na poskytovanie služieb týkajúcich sa softvéru SAS, Microsoft BI a ESRI GIS</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="SL">
+            <TI_CY>Poljska</TI_CY>
+            <TI_TOWN>Varšava</TI_TOWN>
+            <TI_TEXT>
+               <P>Večkratno okvirno naročilo za zagotavljanje storitev v zvezi s programsko opremo SAS, programsko opremo Microsoft BI in geografskim informacijskim sistemom ESRI</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="GA">
+            <TI_CY>Pholainn, an</TI_CY>
+            <TI_TOWN>Vársá</TI_TOWN>
+            <TI_TEXT>
+               <P>Conradh ilchreatlaí le haghaidh seirbhísí maidir le bogearraí SAS, BI Microsoft agus GIS ESRI a chur ar fáil</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="BG">
+            <TI_CY>Полша</TI_CY>
+            <TI_TOWN>Варшава</TI_TOWN>
+            <TI_TEXT>
+               <P>Многостранен рамков договор за осигуряване на услуги, свързани със софтуер SAS, Microsoft BI и географска информационна система (ГИС) ESRI</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="RO">
+            <TI_CY>Polonia</TI_CY>
+            <TI_TOWN>Varșovia</TI_TOWN>
+            <TI_TEXT>
+               <P>Contract-cadru multiplu pentru prestarea de servicii legate de produsele software SAS, Microsoft BI și ESRI GIS</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="HR">
+            <TI_CY>Poljska</TI_CY>
+            <TI_TOWN>Varšava</TI_TOWN>
+            <TI_TEXT>
+               <P>Višestruki okvirni ugovor za pružanje usluga povezanih sa softverima SAS, Microsoft BI i GIS-om ESRI-ja</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+      </ML_TITLES>
+      <ML_AA_NAMES>
+         <AA_NAME LG="DA">Det Europæiske Agentur for Grænse- og Kystbevogtning — Frontex</AA_NAME>
+         <AA_NAME LG="DE">Europäische Agentur für die Grenz- und Küstenwache — Frontex</AA_NAME>
+         <AA_NAME LG="EN">European Border and Coast Guard Agency — Frontex</AA_NAME>
+         <AA_NAME LG="ES">Agencia Europea de la Guardia de Fronteras y Costas (Frontex)</AA_NAME>
+         <AA_NAME LG="FI">Euroopan raja- ja merivartiovirasto – Frontex</AA_NAME>
+         <AA_NAME LG="FR">Agence européenne de garde-frontières et de garde-côtes (Frontex)</AA_NAME>
+         <AA_NAME LG="EL">Οργανισμός Ευρωπαϊκής Συνοριοφυλακής και Ακτοφυλακής — Frontex</AA_NAME>
+         <AA_NAME LG="IT">Agenzia europea della guardia di frontiera e costiera — Frontex</AA_NAME>
+         <AA_NAME LG="NL">Europees Grens- en kustwachtagentschap — Frontex</AA_NAME>
+         <AA_NAME LG="PT">Agência Europeia da Guarda de Fronteiras e Costeira — Frontex</AA_NAME>
+         <AA_NAME LG="SV">Europeiska gräns- och kustbevakningsbyrån – Frontex</AA_NAME>
+         <AA_NAME LG="CS">Evropská agentura pro pohraniční a pobřežní stráž – Frontex</AA_NAME>
+         <AA_NAME LG="ET">Euroopa Piiri- ja Rannikuvalve Amet – Frontex</AA_NAME>
+         <AA_NAME LG="HU">Európai Határ– és Partvédelmi Ügynökség — Frontex</AA_NAME>
+         <AA_NAME LG="LT">Europos sienų ir pakrančių apsaugos agentūra – Frontex</AA_NAME>
+         <AA_NAME LG="LV">Eiropas Robežu un krasta apsardzes aģentūra – Frontex</AA_NAME>
+         <AA_NAME LG="MT">L-Aġenzija Ewropea tal-Fruntieri u l-Għassa tal-Kosta — il-Frontex</AA_NAME>
+         <AA_NAME LG="PL">Europejska Agencja Straży Granicznej i Przybrzeżnej – Frontex</AA_NAME>
+         <AA_NAME LG="SK">Európska agentúra pre pohraničnú a pobrežnú stráž – Frontex</AA_NAME>
+         <AA_NAME LG="SL">Evropska agencija za mejno in obalno stražo – Frontex</AA_NAME>
+         <AA_NAME LG="GA">An Ghníomhaireacht Eorpach um an nGarda Teorann agus Cósta  — Frontex</AA_NAME>
+         <AA_NAME LG="BG">Европейска агенция за гранична и брегова охрана – Frontex</AA_NAME>
+         <AA_NAME LG="RO">Agenția Europeană pentru Poliția de Frontieră și Garda de Coastă – Frontex</AA_NAME>
+         <AA_NAME LG="HR">Agencija za europsku graničnu i obalnu stražu — Frontex</AA_NAME>
+      </ML_AA_NAMES>
+   </TRANSLATION_SECTION>
+   <FORM_SECTION>
+      <F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="DA">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Det Europæiske Agentur for Grænse- og Kystbevogtning — Frontex</OFFICIALNAME>
+               <ADDRESS>Plac Europejski 6</ADDRESS>
+               <TOWN>Warsaw</TOWN>
+               <POSTAL_CODE>00-844</POSTAL_CODE>
+               <COUNTRY VALUE="PL"/>
+               <CONTACT_POINT>Frontex Procurement Team</CONTACT_POINT>
+               <PHONE>+48 222059500</PHONE>
+               <E_MAIL>procurement@frontex.europa.eu</E_MAIL>
+               <FAX>+48 222059501</FAX>
+               <n2016:NUTS CODE="PL911"/>
+               <URL_GENERAL>http://www.frontex.europa.eu</URL_GENERAL>
+            </ADDRESS_CONTRACTING_BODY>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Multipel rammekontrakt om udførelse af tjenesteydelser vedrørende SAS-software, Microsoft BI og ESRI GIS.</P>
+            </TITLE>
+            <REFERENCE_NUMBER>Frontex/OP/726/2016/AH.</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="72200000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>Kontrakten er opdelt i 3 partier, der omfatter levering af tjenesteydelser vedrørende SAS-software (parti 1), Microsoft BI (parti 2) og ESRI GIS (parti 3).</P>
+               <P>Denne bekendtgørelse om kontrakttildeling vedrører parti 1 — tjenesteydelser vedrørende SAS-software.</P>
+            </SHORT_DESCR>
+            <VAL_TOTAL CURRENCY="EUR">1900000</VAL_TOTAL>
+            <LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <TITLE>
+                  <P>Levering af tjenesteydelser vedrørende SAS-software</P>
+               </TITLE>
+               <LOT_NO>1</LOT_NO>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="72200000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="PL911"/>
+               <MAIN_SITE>
+                  <P>Frontex' lokaler, Warszawa, Polen.</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>Denne kontrakt skal betragtes som en primær kilde til tjenester vedrørende SAS-software og løsninger, der anvendes hos Frontex. Disse tjenester omfatter: konfiguration, udvikling, implementering og vedligeholdelse samt levering af vejledning og videnoverførsel.</P>
+               </SHORT_DESCR>
+               <AC_QUALITY>
+                  <AC_CRITERION>Teknisk værdi</AC_CRITERION>
+                  <AC_WEIGHTING>60</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_PRICE>
+                  <AC_WEIGHTING>40</AC_WEIGHTING>
+               </AC_PRICE>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <NO_CONTRACT_COVERED_GPA/>
+            <NOTICE_NUMBER_OJ>2017/S 039-070052</NOTICE_NUMBER_OJ>
+         </PROCEDURE>
+         <AWARD_CONTRACT ITEM="1">
+            <CONTRACT_NO>Frontex/OP/726/2016/AH</CONTRACT_NO>
+            <LOT_NO>1</LOT_NO>
+            <TITLE>
+               <P>Levering af tjenesteydelser vedrørende SAS-software</P>
+            </TITLE>
+            <AWARDED_CONTRACT>
+               <DATE_CONCLUSION_CONTRACT>2017-06-26</DATE_CONCLUSION_CONTRACT>
+               <NB_TENDERS_RECEIVED>1</NB_TENDERS_RECEIVED>
+               <NO_AWARDED_TO_GROUP/>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>SAS Institute Polska Sp. z o.o.</OFFICIALNAME>
+                     <TOWN>Warsaw</TOWN>
+                     <COUNTRY VALUE="PL"/>
+                     <n2016:NUTS CODE="PL911"/>
+                  </ADDRESS_CONTRACTOR>
+                  <NO_SME/>
+               </CONTRACTOR>
+               <VAL_ESTIMATED_TOTAL CURRENCY="EUR">1900000</VAL_ESTIMATED_TOTAL>
+               <VAL_TOTAL CURRENCY="EUR">1900000</VAL_TOTAL>
+            </AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <COMPLEMENTARY_INFO>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Retten</OFFICIALNAME>
+               <ADDRESS>rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <E_MAIL>cfi.registry@curia.europa.eu</E_MAIL>
+               <FAX>+352 4303-2100</FAX>
+               <URL>http://www.curia.europa.eu</URL>
+            </ADDRESS_REVIEW_BODY>
+            <REVIEW_PROCEDURE>
+               <P>senest 2 måneder efter underrettelsen af klageren eller, i tilfælde af udeblivelse deraf, efter den dag, sagen er taget til efterretning.</P>
+            </REVIEW_PROCEDURE>
+            <DATE_DISPATCH_NOTICE>2017-08-04</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F03_2014>
+      <F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="DE">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Europäische Agentur für die Grenz- und Küstenwache — Frontex</OFFICIALNAME>
+               <ADDRESS>Plac Europejski 6</ADDRESS>
+               <TOWN>Warsaw</TOWN>
+               <POSTAL_CODE>00-844</POSTAL_CODE>
+               <COUNTRY VALUE="PL"/>
+               <CONTACT_POINT>Frontex Procurement Team</CONTACT_POINT>
+               <PHONE>+48 222059500</PHONE>
+               <E_MAIL>procurement@frontex.europa.eu</E_MAIL>
+               <FAX>+48 222059501</FAX>
+               <n2016:NUTS CODE="PL911"/>
+               <URL_GENERAL>http://www.frontex.europa.eu</URL_GENERAL>
+            </ADDRESS_CONTRACTING_BODY>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Mehrfachrahmenvertrag für Dienstleistungen im Zusammenhang mit SAS-Software, Microsoft BI und ESRI GIS.</P>
+            </TITLE>
+            <REFERENCE_NUMBER>Frontex/OP/726/2016/AH.</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="72200000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>Der Gegenstand des Auftrags ist in 3 Lose unterteilt und umfasst die Erbringung von Dienstleistungen im Zusammenhang mit SAS-Software (Los 1), Microsoft BI (Los 2) und ESRI GIS (Los 3).</P>
+               <P>Diese Bekanntmachung vergebener Aufträge betrifft nur Los 1 — Dienstleistungen im Zusammenhang mit SAS-Software.</P>
+            </SHORT_DESCR>
+            <VAL_TOTAL CURRENCY="EUR">1900000</VAL_TOTAL>
+            <LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <TITLE>
+                  <P>Erbringung von Dienstleistungen im Zusammenhang mit SAS-Software</P>
+               </TITLE>
+               <LOT_NO>1</LOT_NO>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="72200000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="PL911"/>
+               <MAIN_SITE>
+                  <P>Räumlichkeiten von Frontex, Warschau, Polen.</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>Dieser Auftrag wird als primäre Quelle von Dienstleistungen im Zusammenhang mit SAS-Software und -Lösungen, die von Frontex genutzt werden, betrachtet. Diese Dienstleistungen umfassen Folgendes: Konfiguration, Entwicklung, Umsetzung und Wartung sowie Anleitung und Wissenstransfer.</P>
+               </SHORT_DESCR>
+               <AC_QUALITY>
+                  <AC_CRITERION>technischer Wert</AC_CRITERION>
+                  <AC_WEIGHTING>60</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_PRICE>
+                  <AC_WEIGHTING>40</AC_WEIGHTING>
+               </AC_PRICE>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <NO_CONTRACT_COVERED_GPA/>
+            <NOTICE_NUMBER_OJ>2017/S 039-070052</NOTICE_NUMBER_OJ>
+         </PROCEDURE>
+         <AWARD_CONTRACT ITEM="1">
+            <CONTRACT_NO>Frontex/OP/726/2016/AH</CONTRACT_NO>
+            <LOT_NO>1</LOT_NO>
+            <TITLE>
+               <P>Erbringung von Dienstleistungen im Zusammenhang mit SAS-Software</P>
+            </TITLE>
+            <AWARDED_CONTRACT>
+               <DATE_CONCLUSION_CONTRACT>2017-06-26</DATE_CONCLUSION_CONTRACT>
+               <NB_TENDERS_RECEIVED>1</NB_TENDERS_RECEIVED>
+               <NO_AWARDED_TO_GROUP/>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>SAS Institute Polska Sp. z o.o.</OFFICIALNAME>
+                     <TOWN>Warsaw</TOWN>
+                     <COUNTRY VALUE="PL"/>
+                     <n2016:NUTS CODE="PL911"/>
+                  </ADDRESS_CONTRACTOR>
+                  <NO_SME/>
+               </CONTRACTOR>
+               <VAL_ESTIMATED_TOTAL CURRENCY="EUR">1900000</VAL_ESTIMATED_TOTAL>
+               <VAL_TOTAL CURRENCY="EUR">1900000</VAL_TOTAL>
+            </AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <COMPLEMENTARY_INFO>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Gericht der Europäischen Union</OFFICIALNAME>
+               <ADDRESS>rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <E_MAIL>cfi.registry@curia.europa.eu</E_MAIL>
+               <FAX>+352 4303-2100</FAX>
+               <URL>http://www.curia.europa.eu</URL>
+            </ADDRESS_REVIEW_BODY>
+            <REVIEW_PROCEDURE>
+               <P>binnen 2 Monaten ab Mitteilung an den Kläger oder, in Ermangelung dessen, ab dem Zeitpunkt der Kenntnisnahme.</P>
+            </REVIEW_PROCEDURE>
+            <DATE_DISPATCH_NOTICE>2017-08-04</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F03_2014>
+      <F03_2014 CATEGORY="ORIGINAL" FORM="F03" LG="EN">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>European Border and Coast Guard Agency — Frontex</OFFICIALNAME>
+               <ADDRESS>Plac Europejski 6</ADDRESS>
+               <TOWN>Warsaw</TOWN>
+               <POSTAL_CODE>00-844</POSTAL_CODE>
+               <COUNTRY VALUE="PL"/>
+               <CONTACT_POINT>Frontex Procurement Team</CONTACT_POINT>
+               <PHONE>+48 222059500</PHONE>
+               <E_MAIL>procurement@frontex.europa.eu</E_MAIL>
+               <FAX>+48 222059501</FAX>
+               <n2016:NUTS CODE="PL911"/>
+               <URL_GENERAL>http://www.frontex.europa.eu</URL_GENERAL>
+            </ADDRESS_CONTRACTING_BODY>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Multiple framework contract for the provision of services related to SAS software, Microsoft BI and ESRI GIS.</P>
+            </TITLE>
+            <REFERENCE_NUMBER>Frontex/OP/726/2016/AH.</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="72200000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>The scope of the contract is divided into 3 lots, which cover the provision of services related to SAS software (lot 1), Microsoft BI (lot 2) and ESRI GIS (lot 3).</P>
+               <P>This contract award notice concerns lot 1 — services related to SAS software.</P>
+            </SHORT_DESCR>
+            <VAL_TOTAL CURRENCY="EUR">1900000</VAL_TOTAL>
+            <LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <TITLE>
+                  <P>Provision of services related to SAS software</P>
+               </TITLE>
+               <LOT_NO>1</LOT_NO>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="72200000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="PL911"/>
+               <MAIN_SITE>
+                  <P>Frontex premises, Warsaw, Poland.</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>This contract is considered as a primary source of services related to the SAS software and solutions being in use in Frontex. These services are: configuration, development, implementation and maintenance as well as provision of guidance and transfer of knowledge.</P>
+               </SHORT_DESCR>
+               <AC_QUALITY>
+                  <AC_CRITERION>Technical merit</AC_CRITERION>
+                  <AC_WEIGHTING>60</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_PRICE>
+                  <AC_WEIGHTING>40</AC_WEIGHTING>
+               </AC_PRICE>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <NO_CONTRACT_COVERED_GPA/>
+            <NOTICE_NUMBER_OJ>2017/S 039-070052</NOTICE_NUMBER_OJ>
+         </PROCEDURE>
+         <AWARD_CONTRACT ITEM="1">
+            <CONTRACT_NO>Frontex/OP/726/2016/AH</CONTRACT_NO>
+            <LOT_NO>1</LOT_NO>
+            <TITLE>
+               <P>Provision of services related to SAS software</P>
+            </TITLE>
+            <AWARDED_CONTRACT>
+               <DATE_CONCLUSION_CONTRACT>2017-06-26</DATE_CONCLUSION_CONTRACT>
+               <NB_TENDERS_RECEIVED>1</NB_TENDERS_RECEIVED>
+               <NO_AWARDED_TO_GROUP/>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>SAS Institute Polska Sp. z o.o.</OFFICIALNAME>
+                     <TOWN>Warsaw</TOWN>
+                     <COUNTRY VALUE="PL"/>
+                     <n2016:NUTS CODE="PL911"/>
+                  </ADDRESS_CONTRACTOR>
+                  <NO_SME/>
+               </CONTRACTOR>
+               <VAL_ESTIMATED_TOTAL CURRENCY="EUR">1900000</VAL_ESTIMATED_TOTAL>
+               <VAL_TOTAL CURRENCY="EUR">1900000</VAL_TOTAL>
+            </AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <COMPLEMENTARY_INFO>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>General Court</OFFICIALNAME>
+               <ADDRESS>rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <E_MAIL>cfi.registry@curia.europa.eu</E_MAIL>
+               <FAX>+352 4303-2100</FAX>
+               <URL>http://www.curia.europa.eu</URL>
+            </ADDRESS_REVIEW_BODY>
+            <REVIEW_PROCEDURE>
+               <P>Within 2 months of the notification to the plaintiff, or, in absence thereof, of the day on which it came to the knowledge.</P>
+            </REVIEW_PROCEDURE>
+            <DATE_DISPATCH_NOTICE>2017-08-04</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F03_2014>
+      <F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="ES">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Agencia Europea de la Guardia de Fronteras y Costas (Frontex)</OFFICIALNAME>
+               <ADDRESS>Plac Europejski 6</ADDRESS>
+               <TOWN>Warsaw</TOWN>
+               <POSTAL_CODE>00-844</POSTAL_CODE>
+               <COUNTRY VALUE="PL"/>
+               <CONTACT_POINT>Frontex Procurement Team</CONTACT_POINT>
+               <PHONE>+48 222059500</PHONE>
+               <E_MAIL>procurement@frontex.europa.eu</E_MAIL>
+               <FAX>+48 222059501</FAX>
+               <n2016:NUTS CODE="PL911"/>
+               <URL_GENERAL>http://www.frontex.europa.eu</URL_GENERAL>
+            </ADDRESS_CONTRACTING_BODY>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Contrato marco múltiple para la prestación de servicios relacionados con el «software» SAS, Microsoft BI y el SIG ESRI.</P>
+            </TITLE>
+            <REFERENCE_NUMBER>Frontex/OP/726/2016/AH.</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="72200000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>El objeto del contrato está dividido en 3 lotes, que abarcan la prestación de servicios relacionados con el «software» SAS (lote 1), Microsoft BI (lote 2) y el SIG ESRI (lote 3).</P>
+               <P>El presente anuncio de adjudicación de contrato se refiere al lote 1: servicios relacionados con el «software» SAS.</P>
+            </SHORT_DESCR>
+            <VAL_TOTAL CURRENCY="EUR">1900000</VAL_TOTAL>
+            <LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <TITLE>
+                  <P>Prestación de servicios relacionados con el «software» SAS</P>
+               </TITLE>
+               <LOT_NO>1</LOT_NO>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="72200000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="PL911"/>
+               <MAIN_SITE>
+                  <P>Las instalaciones de Frontex, Varsovia, Polonia.</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>Este contrato se considerará una fuente principal de servicios relacionados con el «software» SAS y las soluciones en uso en Frontex. Estos servicios son: configuración, desarrollo, implantación y mantenimiento, así como servicios de orientación y transferencia de conocimientos.</P>
+               </SHORT_DESCR>
+               <AC_QUALITY>
+                  <AC_CRITERION>valor técnico</AC_CRITERION>
+                  <AC_WEIGHTING>60</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_PRICE>
+                  <AC_WEIGHTING>40</AC_WEIGHTING>
+               </AC_PRICE>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <NO_CONTRACT_COVERED_GPA/>
+            <NOTICE_NUMBER_OJ>2017/S 039-070052</NOTICE_NUMBER_OJ>
+         </PROCEDURE>
+         <AWARD_CONTRACT ITEM="1">
+            <CONTRACT_NO>Frontex/OP/726/2016/AH</CONTRACT_NO>
+            <LOT_NO>1</LOT_NO>
+            <TITLE>
+               <P>Prestación de servicios relacionados con el «software» SAS</P>
+            </TITLE>
+            <AWARDED_CONTRACT>
+               <DATE_CONCLUSION_CONTRACT>2017-06-26</DATE_CONCLUSION_CONTRACT>
+               <NB_TENDERS_RECEIVED>1</NB_TENDERS_RECEIVED>
+               <NO_AWARDED_TO_GROUP/>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>SAS Institute Polska Sp. z o.o.</OFFICIALNAME>
+                     <TOWN>Warsaw</TOWN>
+                     <COUNTRY VALUE="PL"/>
+                     <n2016:NUTS CODE="PL911"/>
+                  </ADDRESS_CONTRACTOR>
+                  <NO_SME/>
+               </CONTRACTOR>
+               <VAL_ESTIMATED_TOTAL CURRENCY="EUR">1900000</VAL_ESTIMATED_TOTAL>
+               <VAL_TOTAL CURRENCY="EUR">1900000</VAL_TOTAL>
+            </AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <COMPLEMENTARY_INFO>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Tribunal General</OFFICIALNAME>
+               <ADDRESS>rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <E_MAIL>cfi.registry@curia.europa.eu</E_MAIL>
+               <FAX>+352 4303-2100</FAX>
+               <URL>http://www.curia.europa.eu</URL>
+            </ADDRESS_REVIEW_BODY>
+            <REVIEW_PROCEDURE>
+               <P>En un plazo de 2 meses a partir de la notificación al recurrente o, en su defecto, del día en que este haya tenido conocimiento del acto en cuestión.</P>
+            </REVIEW_PROCEDURE>
+            <DATE_DISPATCH_NOTICE>2017-08-04</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F03_2014>
+      <F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="FI">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Euroopan raja- ja merivartiovirasto – Frontex</OFFICIALNAME>
+               <ADDRESS>Plac Europejski 6</ADDRESS>
+               <TOWN>Warsaw</TOWN>
+               <POSTAL_CODE>00-844</POSTAL_CODE>
+               <COUNTRY VALUE="PL"/>
+               <CONTACT_POINT>Frontex Procurement Team</CONTACT_POINT>
+               <PHONE>+48 222059500</PHONE>
+               <E_MAIL>procurement@frontex.europa.eu</E_MAIL>
+               <FAX>+48 222059501</FAX>
+               <n2016:NUTS CODE="PL911"/>
+               <URL_GENERAL>http://www.frontex.europa.eu</URL_GENERAL>
+            </ADDRESS_CONTRACTING_BODY>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Rinnakkainen puitesopimus SAS-ohjelmistoon, Microsoft BI -työkaluihin sekä ESRIn paikkatietojärjestelmään (GIS) liittyvien palvelujen toimittamisesta</P>
+            </TITLE>
+            <REFERENCE_NUMBER>Frontex/OP/726/2016/AH.</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="72200000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>Sopimuksen kohde on jaettu 3 erään, jotka kattavat SAS-ohjelmistoon (erä 1), Microsoftin liiketoimintatiedon hallintatyökaluihin (Business Intelligence – BI) (erä 2) sekä ESRIn paikkatietojärjestelmään (GIS) (erä 3) liittyvien palvelujen toimittamisen.</P>
+               <P>Tämä ilmoitus tehdystä sopimuksesta koskee erää 1 (SAS-ohjelmistoa koskevat palvelut).</P>
+            </SHORT_DESCR>
+            <VAL_TOTAL CURRENCY="EUR">1900000</VAL_TOTAL>
+            <LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <TITLE>
+                  <P>SAS-ohjelmistoa koskevien palvelujen toimittaminen</P>
+               </TITLE>
+               <LOT_NO>1</LOT_NO>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="72200000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="PL911"/>
+               <MAIN_SITE>
+                  <P>Frontexin toimitilat, Varsova, Puola.</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>Tämän sopimuksen katsotaan olevan päälähde sellaisia palveluja varten, jotka liittyvät Frontexissa käytössä oleviin SAS-ohjelmistoon ja -ratkaisuihin. Kyseiset palvelut ovat seuraavat: konfigurointi, kehittäminen, toteutus ja ylläpito sekä neuvonnan toimittaminen ja tiedon siirto.</P>
+               </SHORT_DESCR>
+               <AC_QUALITY>
+                  <AC_CRITERION>tekniset ansiot</AC_CRITERION>
+                  <AC_WEIGHTING>60</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_PRICE>
+                  <AC_WEIGHTING>40</AC_WEIGHTING>
+               </AC_PRICE>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <NO_CONTRACT_COVERED_GPA/>
+            <NOTICE_NUMBER_OJ>2017/S 039-070052</NOTICE_NUMBER_OJ>
+         </PROCEDURE>
+         <AWARD_CONTRACT ITEM="1">
+            <CONTRACT_NO>Frontex/OP/726/2016/AH</CONTRACT_NO>
+            <LOT_NO>1</LOT_NO>
+            <TITLE>
+               <P>SAS-ohjelmistoa koskevien palvelujen toimittaminen</P>
+            </TITLE>
+            <AWARDED_CONTRACT>
+               <DATE_CONCLUSION_CONTRACT>2017-06-26</DATE_CONCLUSION_CONTRACT>
+               <NB_TENDERS_RECEIVED>1</NB_TENDERS_RECEIVED>
+               <NO_AWARDED_TO_GROUP/>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>SAS Institute Polska Sp. z o.o.</OFFICIALNAME>
+                     <TOWN>Warsaw</TOWN>
+                     <COUNTRY VALUE="PL"/>
+                     <n2016:NUTS CODE="PL911"/>
+                  </ADDRESS_CONTRACTOR>
+                  <NO_SME/>
+               </CONTRACTOR>
+               <VAL_ESTIMATED_TOTAL CURRENCY="EUR">1900000</VAL_ESTIMATED_TOTAL>
+               <VAL_TOTAL CURRENCY="EUR">1900000</VAL_TOTAL>
+            </AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <COMPLEMENTARY_INFO>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Unionin yleinen tuomioistuin</OFFICIALNAME>
+               <ADDRESS>rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <E_MAIL>cfi.registry@curia.europa.eu</E_MAIL>
+               <FAX>+352 4303-2100</FAX>
+               <URL>http://www.curia.europa.eu</URL>
+            </ADDRESS_REVIEW_BODY>
+            <REVIEW_PROCEDURE>
+               <P>muutoksenhakupyynnöt on jätettävä 2 kuukauden kuluessa siitä, kun asianomistaja on saanut ilmoituksen asiasta tai, mikäli ilmoitusta ei ole tehty, 2 kuukauden kuluessa siitä päivästä, kun asia on saatu tiedoksi.</P>
+            </REVIEW_PROCEDURE>
+            <DATE_DISPATCH_NOTICE>2017-08-04</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F03_2014>
+      <F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="FR">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Agence européenne de garde-frontières et de garde-côtes (Frontex)</OFFICIALNAME>
+               <ADDRESS>Plac Europejski 6</ADDRESS>
+               <TOWN>Warsaw</TOWN>
+               <POSTAL_CODE>00-844</POSTAL_CODE>
+               <COUNTRY VALUE="PL"/>
+               <CONTACT_POINT>Frontex Procurement Team</CONTACT_POINT>
+               <PHONE>+48 222059500</PHONE>
+               <E_MAIL>procurement@frontex.europa.eu</E_MAIL>
+               <FAX>+48 222059501</FAX>
+               <n2016:NUTS CODE="PL911"/>
+               <URL_GENERAL>http://www.frontex.europa.eu</URL_GENERAL>
+            </ADDRESS_CONTRACTING_BODY>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Contrat-cadre multiple en vue de la prestation de services relatifs au logiciel SAS, à Microsoft BI et au SIG ESRI.</P>
+            </TITLE>
+            <REFERENCE_NUMBER>Frontex/OP/726/2016/AH.</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="72200000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>Le marché est divisé en 3 lots et porte sur la prestation de services relatifs au logiciel SAS (lot 1), à Microsoft BI (lot 2) et au SIG ESRI (lot 3).</P>
+               <P>Le présent avis d'attribution de marché concerne le lot 1: services relatifs au logiciel SAS.</P>
+            </SHORT_DESCR>
+            <VAL_TOTAL CURRENCY="EUR">1900000</VAL_TOTAL>
+            <LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <TITLE>
+                  <P>Prestation de services relatifs au logiciel SAS</P>
+               </TITLE>
+               <LOT_NO>1</LOT_NO>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="72200000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="PL911"/>
+               <MAIN_SITE>
+                  <P>locaux de Frontex, Varsovie, Pologne.</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>Le présent marché est considéré comme une source primaire d'acquisition de services relatifs au logiciel et aux solutions SAS utilisés par Frontex. Ces services sont les suivants: configuration, développement, implémentation et maintenance, ainsi qu'élaboration de lignes directrices et transfert de connaissances.</P>
+               </SHORT_DESCR>
+               <AC_QUALITY>
+                  <AC_CRITERION>valeur technique</AC_CRITERION>
+                  <AC_WEIGHTING>60</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_PRICE>
+                  <AC_WEIGHTING>40</AC_WEIGHTING>
+               </AC_PRICE>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <NO_CONTRACT_COVERED_GPA/>
+            <NOTICE_NUMBER_OJ>2017/S 039-070052</NOTICE_NUMBER_OJ>
+         </PROCEDURE>
+         <AWARD_CONTRACT ITEM="1">
+            <CONTRACT_NO>Frontex/OP/726/2016/AH</CONTRACT_NO>
+            <LOT_NO>1</LOT_NO>
+            <TITLE>
+               <P>Prestation de services relatifs au logiciel SAS</P>
+            </TITLE>
+            <AWARDED_CONTRACT>
+               <DATE_CONCLUSION_CONTRACT>2017-06-26</DATE_CONCLUSION_CONTRACT>
+               <NB_TENDERS_RECEIVED>1</NB_TENDERS_RECEIVED>
+               <NO_AWARDED_TO_GROUP/>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>SAS Institute Polska Sp. z o.o.</OFFICIALNAME>
+                     <TOWN>Warsaw</TOWN>
+                     <COUNTRY VALUE="PL"/>
+                     <n2016:NUTS CODE="PL911"/>
+                  </ADDRESS_CONTRACTOR>
+                  <NO_SME/>
+               </CONTRACTOR>
+               <VAL_ESTIMATED_TOTAL CURRENCY="EUR">1900000</VAL_ESTIMATED_TOTAL>
+               <VAL_TOTAL CURRENCY="EUR">1900000</VAL_TOTAL>
+            </AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <COMPLEMENTARY_INFO>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Tribunal</OFFICIALNAME>
+               <ADDRESS>rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <E_MAIL>cfi.registry@curia.europa.eu</E_MAIL>
+               <FAX>+352 4303-2100</FAX>
+               <URL>http://www.curia.europa.eu</URL>
+            </ADDRESS_REVIEW_BODY>
+            <REVIEW_PROCEDURE>
+               <P>dans les 2 mois à compter de la notification au requérant ou, à défaut, du jour où celui-ci en a eu connaissance.</P>
+            </REVIEW_PROCEDURE>
+            <DATE_DISPATCH_NOTICE>2017-08-04</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F03_2014>
+      <F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="EL">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Οργανισμός Ευρωπαϊκής Συνοριοφυλακής και Ακτοφυλακής — Frontex</OFFICIALNAME>
+               <ADDRESS>Plac Europejski 6</ADDRESS>
+               <TOWN>Warsaw</TOWN>
+               <POSTAL_CODE>00-844</POSTAL_CODE>
+               <COUNTRY VALUE="PL"/>
+               <CONTACT_POINT>Frontex Procurement Team</CONTACT_POINT>
+               <PHONE>+48 222059500</PHONE>
+               <E_MAIL>procurement@frontex.europa.eu</E_MAIL>
+               <FAX>+48 222059501</FAX>
+               <n2016:NUTS CODE="PL911"/>
+               <URL_GENERAL>http://www.frontex.europa.eu</URL_GENERAL>
+            </ADDRESS_CONTRACTING_BODY>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Πολλαπλή σύμβαση-πλαίσιο για την παροχή υπηρεσιών σχετικά με λογισμικό SAS, Microsoft BI και ESRI GIS.</P>
+            </TITLE>
+            <REFERENCE_NUMBER>Frontex/OP/726/2016/AH.</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="72200000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>Το πεδίο εφαρμογής της σύμβασης διαιρείται σε 3 τμήματα, τα οποία καλύπτουν την παροχή υπηρεσιών σχετικά με λογισμικό SAS (τμήμα 1), Microsoft BI (τμήμα 2) και ESRI GIS (τμήμα 3).</P>
+               <P>Η παρούσα γνωστοποίηση ανάθεσης σύμβασης αφορά την παρτίδα 1 — υπηρεσίες σχετικά με λογισμικό SAS.</P>
+            </SHORT_DESCR>
+            <VAL_TOTAL CURRENCY="EUR">1900000</VAL_TOTAL>
+            <LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <TITLE>
+                  <P>Παροχή υπηρεσιών σχετικά με λογισμικό SAS</P>
+               </TITLE>
+               <LOT_NO>1</LOT_NO>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="72200000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="PL911"/>
+               <MAIN_SITE>
+                  <P>εγκαταστάσεις του Frontex, Βαρσοβία, Πολωνία.</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>Η προκηρυσσόμενη σύμβαση θεωρείται κύρια πηγή υπηρεσιών σχετικά με το λογισμικό SAS και τις λύσεις που χρησιμοποιούνται στον Frontex. Οι εν λόγω υπηρεσίες είναι οι εξής: διαμόρφωση, ανάπτυξη, εφαρμογή και συντήρηση καθώς και παροχή καθοδήγησης και μεταφορά γνώσεων.</P>
+               </SHORT_DESCR>
+               <AC_QUALITY>
+                  <AC_CRITERION>Τεχνική αξία</AC_CRITERION>
+                  <AC_WEIGHTING>60</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_PRICE>
+                  <AC_WEIGHTING>40</AC_WEIGHTING>
+               </AC_PRICE>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <NO_CONTRACT_COVERED_GPA/>
+            <NOTICE_NUMBER_OJ>2017/S 039-070052</NOTICE_NUMBER_OJ>
+         </PROCEDURE>
+         <AWARD_CONTRACT ITEM="1">
+            <CONTRACT_NO>Frontex/OP/726/2016/AH</CONTRACT_NO>
+            <LOT_NO>1</LOT_NO>
+            <TITLE>
+               <P>Παροχή υπηρεσιών σχετικά με λογισμικό SAS</P>
+            </TITLE>
+            <AWARDED_CONTRACT>
+               <DATE_CONCLUSION_CONTRACT>2017-06-26</DATE_CONCLUSION_CONTRACT>
+               <NB_TENDERS_RECEIVED>1</NB_TENDERS_RECEIVED>
+               <NO_AWARDED_TO_GROUP/>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>SAS Institute Polska Sp. z o.o.</OFFICIALNAME>
+                     <TOWN>Warsaw</TOWN>
+                     <COUNTRY VALUE="PL"/>
+                     <n2016:NUTS CODE="PL911"/>
+                  </ADDRESS_CONTRACTOR>
+                  <NO_SME/>
+               </CONTRACTOR>
+               <VAL_ESTIMATED_TOTAL CURRENCY="EUR">1900000</VAL_ESTIMATED_TOTAL>
+               <VAL_TOTAL CURRENCY="EUR">1900000</VAL_TOTAL>
+            </AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <COMPLEMENTARY_INFO>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Γενικό Δικαστήριο</OFFICIALNAME>
+               <ADDRESS>rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <E_MAIL>cfi.registry@curia.europa.eu</E_MAIL>
+               <FAX>+352 4303-2100</FAX>
+               <URL>http://www.curia.europa.eu</URL>
+            </ADDRESS_REVIEW_BODY>
+            <REVIEW_PROCEDURE>
+               <P>Εντός 2 μηνών από την κοινοποίηση στον προσφεύγοντα ή, ελλείψει τέτοιας, από την ημέρα που ο ίδιος έλαβε γνώση.</P>
+            </REVIEW_PROCEDURE>
+            <DATE_DISPATCH_NOTICE>2017-08-04</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F03_2014>
+      <F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="IT">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Agenzia europea della guardia di frontiera e costiera — Frontex</OFFICIALNAME>
+               <ADDRESS>Plac Europejski 6</ADDRESS>
+               <TOWN>Warsaw</TOWN>
+               <POSTAL_CODE>00-844</POSTAL_CODE>
+               <COUNTRY VALUE="PL"/>
+               <CONTACT_POINT>Frontex Procurement Team</CONTACT_POINT>
+               <PHONE>+48 222059500</PHONE>
+               <E_MAIL>procurement@frontex.europa.eu</E_MAIL>
+               <FAX>+48 222059501</FAX>
+               <n2016:NUTS CODE="PL911"/>
+               <URL_GENERAL>http://www.frontex.europa.eu</URL_GENERAL>
+            </ADDRESS_CONTRACTING_BODY>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Contratto quadro multiplo per la prestazione di servizi relativi al software SAS, a Microsoft BI e al SIG ESRI.</P>
+            </TITLE>
+            <REFERENCE_NUMBER>Frontex/OP/726/2016/AH.</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="72200000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>L'oggetto dell'appalto è suddiviso in 3 lotti, che riguardano la prestazione di servizi relativi al software SAS (lotto 1), a Microsoft BI (lotto 2) e al SIG ESRI (lotto 3).</P>
+               <P>Il presente avviso di aggiudicazione di un appalto riguarda il lotto 1 — servizi relativi al software SAS.</P>
+            </SHORT_DESCR>
+            <VAL_TOTAL CURRENCY="EUR">1900000</VAL_TOTAL>
+            <LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <TITLE>
+                  <P>Prestazione di servizi relativi al software SAS</P>
+               </TITLE>
+               <LOT_NO>1</LOT_NO>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="72200000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="PL911"/>
+               <MAIN_SITE>
+                  <P>locali di Frontex, Varsavia, Polonia.</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>Il presente appalto è considerato una fonte primaria di servizi relativi al software e alle soluzioni SAS in uso presso Frontex. Tali servizi sono: configurazione, sviluppo, implementazione e manutenzione nonché fornitura di orientamenti e trasferimento delle conoscenze.</P>
+               </SHORT_DESCR>
+               <AC_QUALITY>
+                  <AC_CRITERION>merito tecnico</AC_CRITERION>
+                  <AC_WEIGHTING>60</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_PRICE>
+                  <AC_WEIGHTING>40</AC_WEIGHTING>
+               </AC_PRICE>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <NO_CONTRACT_COVERED_GPA/>
+            <NOTICE_NUMBER_OJ>2017/S 039-070052</NOTICE_NUMBER_OJ>
+         </PROCEDURE>
+         <AWARD_CONTRACT ITEM="1">
+            <CONTRACT_NO>Frontex/OP/726/2016/AH</CONTRACT_NO>
+            <LOT_NO>1</LOT_NO>
+            <TITLE>
+               <P>Prestazione di servizi relativi al software SAS</P>
+            </TITLE>
+            <AWARDED_CONTRACT>
+               <DATE_CONCLUSION_CONTRACT>2017-06-26</DATE_CONCLUSION_CONTRACT>
+               <NB_TENDERS_RECEIVED>1</NB_TENDERS_RECEIVED>
+               <NO_AWARDED_TO_GROUP/>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>SAS Institute Polska Sp. z o.o.</OFFICIALNAME>
+                     <TOWN>Warsaw</TOWN>
+                     <COUNTRY VALUE="PL"/>
+                     <n2016:NUTS CODE="PL911"/>
+                  </ADDRESS_CONTRACTOR>
+                  <NO_SME/>
+               </CONTRACTOR>
+               <VAL_ESTIMATED_TOTAL CURRENCY="EUR">1900000</VAL_ESTIMATED_TOTAL>
+               <VAL_TOTAL CURRENCY="EUR">1900000</VAL_TOTAL>
+            </AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <COMPLEMENTARY_INFO>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Tribunale</OFFICIALNAME>
+               <ADDRESS>rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <E_MAIL>cfi.registry@curia.europa.eu</E_MAIL>
+               <FAX>+352 4303-2100</FAX>
+               <URL>http://www.curia.europa.eu</URL>
+            </ADDRESS_REVIEW_BODY>
+            <REVIEW_PROCEDURE>
+               <P>entro 2 mesi dalla notifica al ricorrente o, in assenza, dal giorno in cui ne è venuto a conoscenza.</P>
+            </REVIEW_PROCEDURE>
+            <DATE_DISPATCH_NOTICE>2017-08-04</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F03_2014>
+      <F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="NL">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Europees Grens- en kustwachtagentschap — Frontex</OFFICIALNAME>
+               <ADDRESS>Plac Europejski 6</ADDRESS>
+               <TOWN>Warsaw</TOWN>
+               <POSTAL_CODE>00-844</POSTAL_CODE>
+               <COUNTRY VALUE="PL"/>
+               <CONTACT_POINT>Frontex Procurement Team</CONTACT_POINT>
+               <PHONE>+48 222059500</PHONE>
+               <E_MAIL>procurement@frontex.europa.eu</E_MAIL>
+               <FAX>+48 222059501</FAX>
+               <n2016:NUTS CODE="PL911"/>
+               <URL_GENERAL>http://www.frontex.europa.eu</URL_GENERAL>
+            </ADDRESS_CONTRACTING_BODY>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Meervoudige raamovereenkomst voor de verlening van diensten met betrekking tot SAS-software, Microsoft BI en ESRI GIS.</P>
+            </TITLE>
+            <REFERENCE_NUMBER>Frontex/OP/726/2016/AH.</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="72200000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>De opdracht is verdeeld in 3 percelen die betrekking hebben op de verlening van diensten met betrekking tot SAS-software (perceel 1), Microsoft BI (perceel 2) en ESRI GIS (perceel 3).</P>
+               <P>Deze aankondiging van een gegunde opdracht betreft perceel 1 — diensten met betrekking tot SAS-software.</P>
+            </SHORT_DESCR>
+            <VAL_TOTAL CURRENCY="EUR">1900000</VAL_TOTAL>
+            <LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <TITLE>
+                  <P>Verlening van diensten met betrekking tot SAS-software</P>
+               </TITLE>
+               <LOT_NO>1</LOT_NO>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="72200000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="PL911"/>
+               <MAIN_SITE>
+                  <P>kantoor van Frontex, Warschau, Polen.</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>Deze opdracht wordt beschouwd als een primaire bron van diensten met betrekking tot de SAS-software en -oplossingen die worden gebruikt bij Frontex. Deze diensten zijn: configuratie, ontwikkeling, implementatie en onderhoud, alsook begeleiding en kennisoverdracht.</P>
+               </SHORT_DESCR>
+               <AC_QUALITY>
+                  <AC_CRITERION>technische waarde</AC_CRITERION>
+                  <AC_WEIGHTING>60</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_PRICE>
+                  <AC_WEIGHTING>40</AC_WEIGHTING>
+               </AC_PRICE>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <NO_CONTRACT_COVERED_GPA/>
+            <NOTICE_NUMBER_OJ>2017/S 039-070052</NOTICE_NUMBER_OJ>
+         </PROCEDURE>
+         <AWARD_CONTRACT ITEM="1">
+            <CONTRACT_NO>Frontex/OP/726/2016/AH</CONTRACT_NO>
+            <LOT_NO>1</LOT_NO>
+            <TITLE>
+               <P>Verlening van diensten met betrekking tot SAS-software</P>
+            </TITLE>
+            <AWARDED_CONTRACT>
+               <DATE_CONCLUSION_CONTRACT>2017-06-26</DATE_CONCLUSION_CONTRACT>
+               <NB_TENDERS_RECEIVED>1</NB_TENDERS_RECEIVED>
+               <NO_AWARDED_TO_GROUP/>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>SAS Institute Polska Sp. z o.o.</OFFICIALNAME>
+                     <TOWN>Warsaw</TOWN>
+                     <COUNTRY VALUE="PL"/>
+                     <n2016:NUTS CODE="PL911"/>
+                  </ADDRESS_CONTRACTOR>
+                  <NO_SME/>
+               </CONTRACTOR>
+               <VAL_ESTIMATED_TOTAL CURRENCY="EUR">1900000</VAL_ESTIMATED_TOTAL>
+               <VAL_TOTAL CURRENCY="EUR">1900000</VAL_TOTAL>
+            </AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <COMPLEMENTARY_INFO>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Gerecht</OFFICIALNAME>
+               <ADDRESS>rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <E_MAIL>cfi.registry@curia.europa.eu</E_MAIL>
+               <FAX>+352 4303-2100</FAX>
+               <URL>http://www.curia.europa.eu</URL>
+            </ADDRESS_REVIEW_BODY>
+            <REVIEW_PROCEDURE>
+               <P>binnen 2 maanden na de kennisgeving aan de klager of, bij ontbreken daarvan, binnen 2 maanden na de dag waarop het bekend werd.</P>
+            </REVIEW_PROCEDURE>
+            <DATE_DISPATCH_NOTICE>2017-08-04</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F03_2014>
+      <F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="PT">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Agência Europeia da Guarda de Fronteiras e Costeira — Frontex</OFFICIALNAME>
+               <ADDRESS>Plac Europejski 6</ADDRESS>
+               <TOWN>Warsaw</TOWN>
+               <POSTAL_CODE>00-844</POSTAL_CODE>
+               <COUNTRY VALUE="PL"/>
+               <CONTACT_POINT>Frontex Procurement Team</CONTACT_POINT>
+               <PHONE>+48 222059500</PHONE>
+               <E_MAIL>procurement@frontex.europa.eu</E_MAIL>
+               <FAX>+48 222059501</FAX>
+               <n2016:NUTS CODE="PL911"/>
+               <URL_GENERAL>http://www.frontex.europa.eu</URL_GENERAL>
+            </ADDRESS_CONTRACTING_BODY>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Contrato-quadro múltiplo para a prestação de serviços relacionados com software SAS, Microsoft BI e SIG ESRI.</P>
+            </TITLE>
+            <REFERENCE_NUMBER>Frontex/OP/726/2016/AH.</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="72200000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>O âmbito do contrato está dividido em 3 lotes, que abrangem a prestação de serviços relacionados com software SAS (lote 1), Microsoft BI (lote 2) e SIG ESRI (lote 3).</P>
+               <P>Este anúncio de adjudicação refere-se ao lote 1 — Prestação de serviços relacionados com software SAS.</P>
+            </SHORT_DESCR>
+            <VAL_TOTAL CURRENCY="EUR">1900000</VAL_TOTAL>
+            <LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <TITLE>
+                  <P>Prestação de serviços relacionados com software SAS</P>
+               </TITLE>
+               <LOT_NO>1</LOT_NO>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="72200000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="PL911"/>
+               <MAIN_SITE>
+                  <P>Instalações da Frontex, Varsóvia, Polónia.</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>O presente contrato é considerado como uma fonte primária de serviços relacionados com o software SAS e as soluções utilizadas atualmente na Frontex. Estes serviços são: configuração, desenvolvimento, implementação e manutenção, bem como fornecimento de orientações e transferência de conhecimentos.</P>
+               </SHORT_DESCR>
+               <AC_QUALITY>
+                  <AC_CRITERION>mérito técnico</AC_CRITERION>
+                  <AC_WEIGHTING>60</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_PRICE>
+                  <AC_WEIGHTING>40</AC_WEIGHTING>
+               </AC_PRICE>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <NO_CONTRACT_COVERED_GPA/>
+            <NOTICE_NUMBER_OJ>2017/S 039-070052</NOTICE_NUMBER_OJ>
+         </PROCEDURE>
+         <AWARD_CONTRACT ITEM="1">
+            <CONTRACT_NO>Frontex/OP/726/2016/AH</CONTRACT_NO>
+            <LOT_NO>1</LOT_NO>
+            <TITLE>
+               <P>Prestação de serviços relacionados com software SAS</P>
+            </TITLE>
+            <AWARDED_CONTRACT>
+               <DATE_CONCLUSION_CONTRACT>2017-06-26</DATE_CONCLUSION_CONTRACT>
+               <NB_TENDERS_RECEIVED>1</NB_TENDERS_RECEIVED>
+               <NO_AWARDED_TO_GROUP/>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>SAS Institute Polska Sp. z o.o.</OFFICIALNAME>
+                     <TOWN>Varsóvia</TOWN>
+                     <COUNTRY VALUE="PL"/>
+                     <n2016:NUTS CODE="PL911"/>
+                  </ADDRESS_CONTRACTOR>
+                  <NO_SME/>
+               </CONTRACTOR>
+               <VAL_ESTIMATED_TOTAL CURRENCY="EUR">1900000</VAL_ESTIMATED_TOTAL>
+               <VAL_TOTAL CURRENCY="EUR">1900000</VAL_TOTAL>
+            </AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <COMPLEMENTARY_INFO>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Tribunal Geral</OFFICIALNAME>
+               <ADDRESS>rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <E_MAIL>cfi.registry@curia.europa.eu</E_MAIL>
+               <FAX>+352 4303-2100</FAX>
+               <URL>http://www.curia.europa.eu</URL>
+            </ADDRESS_REVIEW_BODY>
+            <REVIEW_PROCEDURE>
+               <P>Num prazo de 2 meses a contar da data de notificação ao requerente ou, na sua falta, a contar do dia em que o requerente tenha tomado conhecimento do ato.</P>
+            </REVIEW_PROCEDURE>
+            <DATE_DISPATCH_NOTICE>2017-08-04</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F03_2014>
+      <F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="SV">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Europeiska gräns- och kustbevakningsbyrån – Frontex</OFFICIALNAME>
+               <ADDRESS>Plac Europejski 6</ADDRESS>
+               <TOWN>Warsaw</TOWN>
+               <POSTAL_CODE>00-844</POSTAL_CODE>
+               <COUNTRY VALUE="PL"/>
+               <CONTACT_POINT>Frontex Procurement Team</CONTACT_POINT>
+               <PHONE>+48 222059500</PHONE>
+               <E_MAIL>procurement@frontex.europa.eu</E_MAIL>
+               <FAX>+48 222059501</FAX>
+               <n2016:NUTS CODE="PL911"/>
+               <URL_GENERAL>http://www.frontex.europa.eu</URL_GENERAL>
+            </ADDRESS_CONTRACTING_BODY>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Multipelt ramavtal för tillhandahållande av tjänster med anknytning till SAS-programvara, Microsoft BI och ESRI GIS</P>
+            </TITLE>
+            <REFERENCE_NUMBER>Frontex/OP/726/2016/AH.</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="72200000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>Kontraktets omfattning är uppdelad i 3 delar, vilka omfattar tillhandahållande av tjänster med anknytning till SAS-programvara (del 1), Microsofts omvärldsbevakning (business intelligence – BI) (del 2) och GIS från ESRI (del 3).</P>
+               <P>Detta meddelande om tilldelning av kontrakt avser del 1 – tjänster med anknytning till SAS-programvara.</P>
+            </SHORT_DESCR>
+            <VAL_TOTAL CURRENCY="EUR">1900000</VAL_TOTAL>
+            <LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <TITLE>
+                  <P>Tillhandahållande av tjänster med anknytning till SAS-programvara</P>
+               </TITLE>
+               <LOT_NO>1</LOT_NO>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="72200000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="PL911"/>
+               <MAIN_SITE>
+                  <P>Frontex lokaler, Warszawa, Polen.</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>Detta kontrakt betraktas som en primärkälla till tjänster med anknytning till SAS-programvara och lösningar som används inom Frontex. Dessa tjänster är: konfiguration, utveckling, implementering och underhåll samt tillhandahållande av vägledning och kunskapsöverföring.</P>
+               </SHORT_DESCR>
+               <AC_QUALITY>
+                  <AC_CRITERION>Tekniska fördelar</AC_CRITERION>
+                  <AC_WEIGHTING>60</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_PRICE>
+                  <AC_WEIGHTING>40</AC_WEIGHTING>
+               </AC_PRICE>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <NO_CONTRACT_COVERED_GPA/>
+            <NOTICE_NUMBER_OJ>2017/S 039-070052</NOTICE_NUMBER_OJ>
+         </PROCEDURE>
+         <AWARD_CONTRACT ITEM="1">
+            <CONTRACT_NO>Frontex/OP/726/2016/AH</CONTRACT_NO>
+            <LOT_NO>1</LOT_NO>
+            <TITLE>
+               <P>Tillhandahållande av tjänster med anknytning till SAS-programvara</P>
+            </TITLE>
+            <AWARDED_CONTRACT>
+               <DATE_CONCLUSION_CONTRACT>2017-06-26</DATE_CONCLUSION_CONTRACT>
+               <NB_TENDERS_RECEIVED>1</NB_TENDERS_RECEIVED>
+               <NO_AWARDED_TO_GROUP/>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>SAS Institute Polska Sp. z o.o.</OFFICIALNAME>
+                     <TOWN>Warsaw</TOWN>
+                     <COUNTRY VALUE="PL"/>
+                     <n2016:NUTS CODE="PL911"/>
+                  </ADDRESS_CONTRACTOR>
+                  <NO_SME/>
+               </CONTRACTOR>
+               <VAL_ESTIMATED_TOTAL CURRENCY="EUR">1900000</VAL_ESTIMATED_TOTAL>
+               <VAL_TOTAL CURRENCY="EUR">1900000</VAL_TOTAL>
+            </AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <COMPLEMENTARY_INFO>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Tribunalen</OFFICIALNAME>
+               <ADDRESS>rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <E_MAIL>cfi.registry@curia.europa.eu</E_MAIL>
+               <FAX>+352 4303-2100</FAX>
+               <URL>http://www.curia.europa.eu</URL>
+            </ADDRESS_REVIEW_BODY>
+            <REVIEW_PROCEDURE>
+               <P>Inom 2 månader från den dag då den klagande delgavs eller, om så inte skett, från den dag då det blev känt.</P>
+            </REVIEW_PROCEDURE>
+            <DATE_DISPATCH_NOTICE>2017-08-04</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F03_2014>
+      <F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="CS">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Evropská agentura pro pohraniční a pobřežní stráž – Frontex</OFFICIALNAME>
+               <ADDRESS>Plac Europejski 6</ADDRESS>
+               <TOWN>Warsaw</TOWN>
+               <POSTAL_CODE>00-844</POSTAL_CODE>
+               <COUNTRY VALUE="PL"/>
+               <CONTACT_POINT>Frontex Procurement Team</CONTACT_POINT>
+               <PHONE>+48 222059500</PHONE>
+               <E_MAIL>procurement@frontex.europa.eu</E_MAIL>
+               <FAX>+48 222059501</FAX>
+               <n2016:NUTS CODE="PL911"/>
+               <URL_GENERAL>http://www.frontex.europa.eu</URL_GENERAL>
+            </ADDRESS_CONTRACTING_BODY>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Vícestranná rámcová smlouva na poskytnutí služeb týkajících se softwaru SAS, Microsoft BI a ESRI GIS.</P>
+            </TITLE>
+            <REFERENCE_NUMBER>Frontex/OP/726/2016/AH.</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="72200000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>Rozsah zakázky je rozdělen do 3 položek, které zahrnují poskytování služeb týkajících se softwaru SAS (položka č. 1), Microsoft BI (položka č. 2) a ESRI GIS (položka č. 3).</P>
+               <P>Toto oznámení o zadání zakázky se vztahuje na položku č. 1 – služby týkající se softwaru SAS.</P>
+            </SHORT_DESCR>
+            <VAL_TOTAL CURRENCY="EUR">1900000</VAL_TOTAL>
+            <LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <TITLE>
+                  <P>Poskytování služeb týkajících se softwaru SAS</P>
+               </TITLE>
+               <LOT_NO>1</LOT_NO>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="72200000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="PL911"/>
+               <MAIN_SITE>
+                  <P>Prostory Frontex, Varšava, Polsko.</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>Tato zakázka je považována za primární zdroj služeb týkajících se softwaru SAS a řešení používaných v rámci agentury Frontex. Těmito službami jsou: konfigurace, vývoj, zavádění a údržba, jakož i poradenství a přenos znalostí.</P>
+               </SHORT_DESCR>
+               <AC_QUALITY>
+                  <AC_CRITERION>Technický přínos</AC_CRITERION>
+                  <AC_WEIGHTING>60</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_PRICE>
+                  <AC_WEIGHTING>40</AC_WEIGHTING>
+               </AC_PRICE>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <NO_CONTRACT_COVERED_GPA/>
+            <NOTICE_NUMBER_OJ>2017/S 039-070052</NOTICE_NUMBER_OJ>
+         </PROCEDURE>
+         <AWARD_CONTRACT ITEM="1">
+            <CONTRACT_NO>Frontex/OP/726/2016/AH</CONTRACT_NO>
+            <LOT_NO>1</LOT_NO>
+            <TITLE>
+               <P>Poskytování služeb týkajících se softwaru SAS</P>
+            </TITLE>
+            <AWARDED_CONTRACT>
+               <DATE_CONCLUSION_CONTRACT>2017-06-26</DATE_CONCLUSION_CONTRACT>
+               <NB_TENDERS_RECEIVED>1</NB_TENDERS_RECEIVED>
+               <NO_AWARDED_TO_GROUP/>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>SAS Institute Polska Sp. z o.o.</OFFICIALNAME>
+                     <TOWN>Warsaw</TOWN>
+                     <COUNTRY VALUE="PL"/>
+                     <n2016:NUTS CODE="PL911"/>
+                  </ADDRESS_CONTRACTOR>
+                  <NO_SME/>
+               </CONTRACTOR>
+               <VAL_ESTIMATED_TOTAL CURRENCY="EUR">1900000</VAL_ESTIMATED_TOTAL>
+               <VAL_TOTAL CURRENCY="EUR">1900000</VAL_TOTAL>
+            </AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <COMPLEMENTARY_INFO>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Tribunál</OFFICIALNAME>
+               <ADDRESS>rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <E_MAIL>cfi.registry@curia.europa.eu</E_MAIL>
+               <FAX>+352 4303-2100</FAX>
+               <URL>http://www.curia.europa.eu</URL>
+            </ADDRESS_REVIEW_BODY>
+            <REVIEW_PROCEDURE>
+               <P>Ve lhůtě 2 měsíců od oznámení žalobci nebo, není-li k dispozici, ode dne, kdy vstoupilo ve známost.</P>
+            </REVIEW_PROCEDURE>
+            <DATE_DISPATCH_NOTICE>2017-08-04</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F03_2014>
+      <F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="ET">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Euroopa Piiri- ja Rannikuvalve Amet – Frontex</OFFICIALNAME>
+               <ADDRESS>Plac Europejski 6</ADDRESS>
+               <TOWN>Warsaw</TOWN>
+               <POSTAL_CODE>00-844</POSTAL_CODE>
+               <COUNTRY VALUE="PL"/>
+               <CONTACT_POINT>Frontex Procurement Team</CONTACT_POINT>
+               <PHONE>+48 222059500</PHONE>
+               <E_MAIL>procurement@frontex.europa.eu</E_MAIL>
+               <FAX>+48 222059501</FAX>
+               <n2016:NUTS CODE="PL911"/>
+               <URL_GENERAL>http://www.frontex.europa.eu</URL_GENERAL>
+            </ADDRESS_CONTRACTING_BODY>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Mitmekordne raamleping SASi tarkvara, Microsoft BI and ESRI GISiga seotud teenuste osutamiseks</P>
+            </TITLE>
+            <REFERENCE_NUMBER>Frontex/OP/726/2016/AH.</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="72200000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>Leping on jagatud 3 ossa, mis hõlmavad SASi tarkvara (1. osa), Microsoft BI (2. osa) ja ESRI geoinfosüsteemiga (geographical information system (GIS)) (3. osa) seotud teenuste osutamist.</P>
+               <P>Kõnealune lepingu sõlmimise teade puudutab 1. osa – SASi tarkvaraga seotud teenused.</P>
+            </SHORT_DESCR>
+            <VAL_TOTAL CURRENCY="EUR">1900000</VAL_TOTAL>
+            <LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <TITLE>
+                  <P>SASi tarkvaraga seotud teenuste osutamine</P>
+               </TITLE>
+               <LOT_NO>1</LOT_NO>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="72200000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="PL911"/>
+               <MAIN_SITE>
+                  <P>Frontexi hoone, Varssavi, Poola.</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>Leping on Frontexis kasutatavate SASi tarkvara ja lahendustega seotud teenuste peamine allikas. Nimetatud teenused on järgmised: konfigureerimine, arendamine, rakendamine ja hooldus ning juhendamise ja teadmussiirde tagamine.</P>
+               </SHORT_DESCR>
+               <AC_QUALITY>
+                  <AC_CRITERION>tehniline väärtus</AC_CRITERION>
+                  <AC_WEIGHTING>60</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_PRICE>
+                  <AC_WEIGHTING>40</AC_WEIGHTING>
+               </AC_PRICE>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <NO_CONTRACT_COVERED_GPA/>
+            <NOTICE_NUMBER_OJ>2017/S 039-070052</NOTICE_NUMBER_OJ>
+         </PROCEDURE>
+         <AWARD_CONTRACT ITEM="1">
+            <CONTRACT_NO>Frontex/OP/726/2016/AH</CONTRACT_NO>
+            <LOT_NO>1</LOT_NO>
+            <TITLE>
+               <P>SASi tarkvaraga seotud teenuste osutamine</P>
+            </TITLE>
+            <AWARDED_CONTRACT>
+               <DATE_CONCLUSION_CONTRACT>2017-06-26</DATE_CONCLUSION_CONTRACT>
+               <NB_TENDERS_RECEIVED>1</NB_TENDERS_RECEIVED>
+               <NO_AWARDED_TO_GROUP/>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>SAS Institute Polska Sp. z o.o.</OFFICIALNAME>
+                     <TOWN>Warsaw</TOWN>
+                     <COUNTRY VALUE="PL"/>
+                     <n2016:NUTS CODE="PL911"/>
+                  </ADDRESS_CONTRACTOR>
+                  <NO_SME/>
+               </CONTRACTOR>
+               <VAL_ESTIMATED_TOTAL CURRENCY="EUR">1900000</VAL_ESTIMATED_TOTAL>
+               <VAL_TOTAL CURRENCY="EUR">1900000</VAL_TOTAL>
+            </AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <COMPLEMENTARY_INFO>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Üldkohus</OFFICIALNAME>
+               <ADDRESS>rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <E_MAIL>cfi.registry@curia.europa.eu</E_MAIL>
+               <FAX>+352 4303-2100</FAX>
+               <URL>http://www.curia.europa.eu</URL>
+            </ADDRESS_REVIEW_BODY>
+            <REVIEW_PROCEDURE>
+               <P>2 kuu jooksul hageja teavitamisest või kui teavitamist ei toimu, 2 kuu jooksul päevast, mil asjast teada saadi.</P>
+            </REVIEW_PROCEDURE>
+            <DATE_DISPATCH_NOTICE>2017-08-04</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F03_2014>
+      <F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="HU">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Európai Határ– és Partvédelmi Ügynökség — Frontex</OFFICIALNAME>
+               <ADDRESS>Plac Europejski 6</ADDRESS>
+               <TOWN>Warsaw</TOWN>
+               <POSTAL_CODE>00-844</POSTAL_CODE>
+               <COUNTRY VALUE="PL"/>
+               <CONTACT_POINT>Frontex Procurement Team</CONTACT_POINT>
+               <PHONE>+48 222059500</PHONE>
+               <E_MAIL>procurement@frontex.europa.eu</E_MAIL>
+               <FAX>+48 222059501</FAX>
+               <n2016:NUTS CODE="PL911"/>
+               <URL_GENERAL>http://www.frontex.europa.eu</URL_GENERAL>
+            </ADDRESS_CONTRACTING_BODY>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Több féllel kötött keretszerződés SAS szoftverrel, Microsoft BI-vel és ESRI GIS-sel kapcsolatos szolgáltatásnyújtásra.</P>
+            </TITLE>
+            <REFERENCE_NUMBER>Frontex/OP/726/2016/AH.</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="72200000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>A szerződés 3 tételre oszlik, a SAS szoftverhez (1. tétel), a Microsoft BI-hez (2. tétel) és az ESRI GIS-hez (3. tétel) kapcsolódó szolgáltatásnyújtáshoz igazodóan.</P>
+               <P>Ez a szerződés eredményéről szóló tájékoztató az 1. tételre vonatkozik – SAS szoftverrel kapcsolatos szolgáltatások.</P>
+            </SHORT_DESCR>
+            <VAL_TOTAL CURRENCY="EUR">1900000</VAL_TOTAL>
+            <LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <TITLE>
+                  <P>SAS szoftverrel kapcsolatos szolgáltatásnyújtás</P>
+               </TITLE>
+               <LOT_NO>1</LOT_NO>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="72200000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="PL911"/>
+               <MAIN_SITE>
+                  <P>Frontex-iroda, Varsó, Lengyelország.</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>Elsődlegesen e szerződés keretében kell biztosítani a Frontex által alkalmazott SAS szoftverhez és megoldásokhoz kapcsolódó szolgáltatásokat. E szolgáltatások a következők: konfigurálás, fejlesztés, telepítés és karbantartás, valamint iránymutatás biztosítása és ismeretátadás.</P>
+               </SHORT_DESCR>
+               <AC_QUALITY>
+                  <AC_CRITERION>Műszaki megfelelés</AC_CRITERION>
+                  <AC_WEIGHTING>60</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_PRICE>
+                  <AC_WEIGHTING>40</AC_WEIGHTING>
+               </AC_PRICE>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <NO_CONTRACT_COVERED_GPA/>
+            <NOTICE_NUMBER_OJ>2017/S 039-070052</NOTICE_NUMBER_OJ>
+         </PROCEDURE>
+         <AWARD_CONTRACT ITEM="1">
+            <CONTRACT_NO>Frontex/OP/726/2016/AH</CONTRACT_NO>
+            <LOT_NO>1</LOT_NO>
+            <TITLE>
+               <P>SAS szoftverrel kapcsolatos szolgáltatásnyújtás</P>
+            </TITLE>
+            <AWARDED_CONTRACT>
+               <DATE_CONCLUSION_CONTRACT>2017-06-26</DATE_CONCLUSION_CONTRACT>
+               <NB_TENDERS_RECEIVED>1</NB_TENDERS_RECEIVED>
+               <NO_AWARDED_TO_GROUP/>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>SAS Institute Polska Sp. z o.o.</OFFICIALNAME>
+                     <TOWN>Warsaw</TOWN>
+                     <COUNTRY VALUE="PL"/>
+                     <n2016:NUTS CODE="PL911"/>
+                  </ADDRESS_CONTRACTOR>
+                  <NO_SME/>
+               </CONTRACTOR>
+               <VAL_ESTIMATED_TOTAL CURRENCY="EUR">1900000</VAL_ESTIMATED_TOTAL>
+               <VAL_TOTAL CURRENCY="EUR">1900000</VAL_TOTAL>
+            </AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <COMPLEMENTARY_INFO>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Törvényszék</OFFICIALNAME>
+               <ADDRESS>rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <E_MAIL>cfi.registry@curia.europa.eu</E_MAIL>
+               <FAX>+352 4303-2100</FAX>
+               <URL>http://www.curia.europa.eu</URL>
+            </ADDRESS_REVIEW_BODY>
+            <REVIEW_PROCEDURE>
+               <P>A vesztes fél értesítésétől, illetve – ennek hiányában – az eredmény ismertté válásától számított 2 hónapon belül.</P>
+            </REVIEW_PROCEDURE>
+            <DATE_DISPATCH_NOTICE>2017-08-04</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F03_2014>
+      <F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="LT">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Europos sienų ir pakrančių apsaugos agentūra – Frontex</OFFICIALNAME>
+               <ADDRESS>Plac Europejski 6</ADDRESS>
+               <TOWN>Warsaw</TOWN>
+               <POSTAL_CODE>00-844</POSTAL_CODE>
+               <COUNTRY VALUE="PL"/>
+               <CONTACT_POINT>Frontex Procurement Team</CONTACT_POINT>
+               <PHONE>+48 222059500</PHONE>
+               <E_MAIL>procurement@frontex.europa.eu</E_MAIL>
+               <FAX>+48 222059501</FAX>
+               <n2016:NUTS CODE="PL911"/>
+               <URL_GENERAL>http://www.frontex.europa.eu</URL_GENERAL>
+            </ADDRESS_CONTRACTING_BODY>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Preliminarioji sutartis su keliais tiekėjais dėl paslaugų, susijusių su SAS programine įranga, Microsoft BI ir ESRI GIS, teikimo.</P>
+            </TITLE>
+            <REFERENCE_NUMBER>Frontex/OP/726/2016/AH.</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="72200000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>Sutartis padalyta į 3 dalis, kuriomis numatytas paslaugų, susijusių su SAS programine įranga (1 dalis), Microsoft BI (2 dalis) ir ESRI GIS (3 dalis), teikimas.</P>
+               <P>Šis skelbimas apie sutarties paskyrimą susijęs su 1 dalimi: paslaugos, susijusios su SAS programine įranga.</P>
+            </SHORT_DESCR>
+            <VAL_TOTAL CURRENCY="EUR">1900000</VAL_TOTAL>
+            <LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <TITLE>
+                  <P>Paslaugų, susijusių su SAS programine įranga, teikimas</P>
+               </TITLE>
+               <LOT_NO>1</LOT_NO>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="72200000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="PL911"/>
+               <MAIN_SITE>
+                  <P>Frontex patalpos, Varšuva, Lenkija.</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>Ši sutartis yra laikoma pirminiu paslaugų, susijusių su SAS programine įranga ir sprendimais, naudojamais Frontex, šaltiniu. Šios paslaugos: konfigūravimas, kūrimas, įgyvendinimas ir priežiūra bei gairių teikimas ir žinių perdavimas.</P>
+               </SHORT_DESCR>
+               <AC_QUALITY>
+                  <AC_CRITERION>Techninis pranašumas</AC_CRITERION>
+                  <AC_WEIGHTING>60</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_PRICE>
+                  <AC_WEIGHTING>40</AC_WEIGHTING>
+               </AC_PRICE>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <NO_CONTRACT_COVERED_GPA/>
+            <NOTICE_NUMBER_OJ>2017/S 039-070052</NOTICE_NUMBER_OJ>
+         </PROCEDURE>
+         <AWARD_CONTRACT ITEM="1">
+            <CONTRACT_NO>Frontex/OP/726/2016/AH</CONTRACT_NO>
+            <LOT_NO>1</LOT_NO>
+            <TITLE>
+               <P>Paslaugų, susijusių su SAS programine įranga, teikimas</P>
+            </TITLE>
+            <AWARDED_CONTRACT>
+               <DATE_CONCLUSION_CONTRACT>2017-06-26</DATE_CONCLUSION_CONTRACT>
+               <NB_TENDERS_RECEIVED>1</NB_TENDERS_RECEIVED>
+               <NO_AWARDED_TO_GROUP/>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>SAS Institute Polska Sp. z o.o.</OFFICIALNAME>
+                     <TOWN>Warsaw</TOWN>
+                     <COUNTRY VALUE="PL"/>
+                     <n2016:NUTS CODE="PL911"/>
+                  </ADDRESS_CONTRACTOR>
+                  <NO_SME/>
+               </CONTRACTOR>
+               <VAL_ESTIMATED_TOTAL CURRENCY="EUR">1900000</VAL_ESTIMATED_TOTAL>
+               <VAL_TOTAL CURRENCY="EUR">1900000</VAL_TOTAL>
+            </AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <COMPLEMENTARY_INFO>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Bendrasis Teismas</OFFICIALNAME>
+               <ADDRESS>rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <E_MAIL>cfi.registry@curia.europa.eu</E_MAIL>
+               <FAX>+352 4303-2100</FAX>
+               <URL>http://www.curia.europa.eu</URL>
+            </ADDRESS_REVIEW_BODY>
+            <REVIEW_PROCEDURE>
+               <P>per 2 mėnesius nuo dienos, kai apie tai pranešama ieškovui, arba, jei pranešimas neparengiamas, nuo dienos, kai apie tai tampa žinoma.</P>
+            </REVIEW_PROCEDURE>
+            <DATE_DISPATCH_NOTICE>2017-08-04</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F03_2014>
+      <F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="LV">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Eiropas Robežu un krasta apsardzes aģentūra – Frontex</OFFICIALNAME>
+               <ADDRESS>Plac Europejski 6</ADDRESS>
+               <TOWN>Warsaw</TOWN>
+               <POSTAL_CODE>00-844</POSTAL_CODE>
+               <COUNTRY VALUE="PL"/>
+               <CONTACT_POINT>Frontex Procurement Team</CONTACT_POINT>
+               <PHONE>+48 222059500</PHONE>
+               <E_MAIL>procurement@frontex.europa.eu</E_MAIL>
+               <FAX>+48 222059501</FAX>
+               <n2016:NUTS CODE="PL911"/>
+               <URL_GENERAL>http://www.frontex.europa.eu</URL_GENERAL>
+            </ADDRESS_CONTRACTING_BODY>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Vairākkārtējs pamatnolīgums par pakalpojumu sniegšanu saistībā ar SAS programmatūru, Microsoft BI un ESRI ĢIS.</P>
+            </TITLE>
+            <REFERENCE_NUMBER>Frontex/OP/726/2016/AH.</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="72200000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>Līguma darbības joma ir sadalīta 3 daļās, kas attiecas uz pakalpojumu sniegšanu saistībā ar SAS programmatūru (1. daļa), Microsoft biznesa informācijas (BI) risinājumiem (2. daļa) un ESRI ĢIS (3. daļa).</P>
+               <P>Šis paziņojums par līguma slēgšanas tiesību piešķiršanu attiecas uz 1. daļu (ar SAS programmatūru saistīti pakalpojumi).</P>
+            </SHORT_DESCR>
+            <VAL_TOTAL CURRENCY="EUR">1900000</VAL_TOTAL>
+            <LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <TITLE>
+                  <P>Ar SAS programmatūru saistītu pakalpojumu sniegšana</P>
+               </TITLE>
+               <LOT_NO>1</LOT_NO>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="72200000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="PL911"/>
+               <MAIN_SITE>
+                  <P>Frontex telpas, Varšava, Polija.</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>Uzskatāms, ka šis līgums ir ar Frontex lietoto SAS programmatūru un risinājumiem saistīto pakalpojumu galvenais avots. Šie pakalpojumi ir konfigurēšana, izstrāde, ieviešana un uzturēšana, kā arī norāžu sniegšana un zināšanu nodošana.</P>
+               </SHORT_DESCR>
+               <AC_QUALITY>
+                  <AC_CRITERION>Tehniskā kvalitāte</AC_CRITERION>
+                  <AC_WEIGHTING>60</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_PRICE>
+                  <AC_WEIGHTING>40</AC_WEIGHTING>
+               </AC_PRICE>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <NO_CONTRACT_COVERED_GPA/>
+            <NOTICE_NUMBER_OJ>2017/S 039-070052</NOTICE_NUMBER_OJ>
+         </PROCEDURE>
+         <AWARD_CONTRACT ITEM="1">
+            <CONTRACT_NO>Frontex/OP/726/2016/AH</CONTRACT_NO>
+            <LOT_NO>1</LOT_NO>
+            <TITLE>
+               <P>Ar SAS programmatūru saistītu pakalpojumu sniegšana</P>
+            </TITLE>
+            <AWARDED_CONTRACT>
+               <DATE_CONCLUSION_CONTRACT>2017-06-26</DATE_CONCLUSION_CONTRACT>
+               <NB_TENDERS_RECEIVED>1</NB_TENDERS_RECEIVED>
+               <NO_AWARDED_TO_GROUP/>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>SAS Institute Polska Sp. z o.o.</OFFICIALNAME>
+                     <TOWN>Warsaw</TOWN>
+                     <COUNTRY VALUE="PL"/>
+                     <n2016:NUTS CODE="PL911"/>
+                  </ADDRESS_CONTRACTOR>
+                  <NO_SME/>
+               </CONTRACTOR>
+               <VAL_ESTIMATED_TOTAL CURRENCY="EUR">1900000</VAL_ESTIMATED_TOTAL>
+               <VAL_TOTAL CURRENCY="EUR">1900000</VAL_TOTAL>
+            </AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <COMPLEMENTARY_INFO>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Vispārējā tiesa</OFFICIALNAME>
+               <ADDRESS>rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <E_MAIL>cfi.registry@curia.europa.eu</E_MAIL>
+               <FAX>+352 4303-2100</FAX>
+               <URL>http://www.curia.europa.eu</URL>
+            </ADDRESS_REVIEW_BODY>
+            <REVIEW_PROCEDURE>
+               <P>2 mēnešu laikā no prasītāja informēšanas vai, ja tā nav notikusi, no dienas, kad viņš to uzzinājis.</P>
+            </REVIEW_PROCEDURE>
+            <DATE_DISPATCH_NOTICE>2017-08-04</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F03_2014>
+      <F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="MT">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>L-Aġenzija Ewropea tal-Fruntieri u l-Għassa tal-Kosta — il-Frontex</OFFICIALNAME>
+               <ADDRESS>Plac Europejski 6</ADDRESS>
+               <TOWN>Varsavja</TOWN>
+               <POSTAL_CODE>00-844</POSTAL_CODE>
+               <COUNTRY VALUE="PL"/>
+               <CONTACT_POINT>It-Tim tal-Ksib tal-Frontex</CONTACT_POINT>
+               <PHONE>+48 222059500</PHONE>
+               <E_MAIL>procurement@frontex.europa.eu</E_MAIL>
+               <FAX>+48 222059501</FAX>
+               <n2016:NUTS CODE="PL911"/>
+               <URL_GENERAL>http://www.frontex.europa.eu</URL_GENERAL>
+            </ADDRESS_CONTRACTING_BODY>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Qafas ta' kuntratt multiplu għall-provvista ta' servizzi rrelatati għas-softwer SAS, il-Microsoft BI u l-ESRI GIS.</P>
+            </TITLE>
+            <REFERENCE_NUMBER>Frontex/OP/726/2016/AH.</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="72200000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>L-għan tal-kuntratt hu maqsum fi 3 lottijiet, li jkopru l-provvista ta' servizzi rrelatati għas-softwer SAS (l-1 lott), il-Microsoft BI (it-2 lott) u l-ESRI GIS (it-3 lott).</P>
+               <P>Dan l-avviż ta' għoti ta' kuntratt jikkonċerna l-1 lott — servizzi rrelatati mas-softwer SAS.</P>
+            </SHORT_DESCR>
+            <VAL_TOTAL CURRENCY="EUR">1900000</VAL_TOTAL>
+            <LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <TITLE>
+                  <P>Il-provvista ta' servizzi rrelatati mas-softwer SAS</P>
+               </TITLE>
+               <LOT_NO>1</LOT_NO>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="72200000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="PL911"/>
+               <MAIN_SITE>
+                  <P>Il-bini tal-Frontex, Warsaw, il-Polonja.</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>Dan il-kuntratt huwa kkunsidrat bħala sors primarju ta' servizzi rrelatati għas-softwer SAS u s-soluzzjonijiet li qed jiġu użati fil-Frontex. Dawn is-servizzi huma: il-konfigurazzjoni, l-iżvilupp, l-implimentazzjoni u l-manutenzjoni kif ukoll il-provvista ta' gwida u trasferiment tal-għarfien.</P>
+               </SHORT_DESCR>
+               <AC_QUALITY>
+                  <AC_CRITERION>Il-mertu tekniku</AC_CRITERION>
+                  <AC_WEIGHTING>60</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_PRICE>
+                  <AC_WEIGHTING>40</AC_WEIGHTING>
+               </AC_PRICE>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <NO_CONTRACT_COVERED_GPA/>
+            <NOTICE_NUMBER_OJ>2017/S 039-070052</NOTICE_NUMBER_OJ>
+         </PROCEDURE>
+         <AWARD_CONTRACT ITEM="1">
+            <CONTRACT_NO>Frontex/OP/726/2016/AH</CONTRACT_NO>
+            <LOT_NO>1</LOT_NO>
+            <TITLE>
+               <P>Provvista ta' servizzi rrelatati mas-softwer SAS</P>
+            </TITLE>
+            <AWARDED_CONTRACT>
+               <DATE_CONCLUSION_CONTRACT>2017-06-26</DATE_CONCLUSION_CONTRACT>
+               <NB_TENDERS_RECEIVED>1</NB_TENDERS_RECEIVED>
+               <NO_AWARDED_TO_GROUP/>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>SAS Institute Polska Sp. z o.o.</OFFICIALNAME>
+                     <TOWN>Varsavja</TOWN>
+                     <COUNTRY VALUE="PL"/>
+                     <n2016:NUTS CODE="PL911"/>
+                  </ADDRESS_CONTRACTOR>
+                  <NO_SME/>
+               </CONTRACTOR>
+               <VAL_ESTIMATED_TOTAL CURRENCY="EUR">1900000</VAL_ESTIMATED_TOTAL>
+               <VAL_TOTAL CURRENCY="EUR">1900000</VAL_TOTAL>
+            </AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <COMPLEMENTARY_INFO>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Il-Qorti Ġenerali</OFFICIALNAME>
+               <ADDRESS>rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Lussemburgu</TOWN>
+               <POSTAL_CODE>2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <E_MAIL>cfi.registry@curia.europa.eu</E_MAIL>
+               <FAX>+352 4303-2100</FAX>
+               <URL>http://www.curia.europa.eu</URL>
+            </ADDRESS_REVIEW_BODY>
+            <REVIEW_PROCEDURE>
+               <P>Fi żmien xahrejn (2) mill-avviż lil dak li jagħmel it-talba, jew, fl-assenza ta' dan, mill-jum li fih sar magħruf.</P>
+            </REVIEW_PROCEDURE>
+            <DATE_DISPATCH_NOTICE>2017-08-04</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F03_2014>
+      <F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="PL">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Europejska Agencja Straży Granicznej i Przybrzeżnej – Frontex</OFFICIALNAME>
+               <ADDRESS>Plac Europejski 6</ADDRESS>
+               <TOWN>Warsaw</TOWN>
+               <POSTAL_CODE>00-844</POSTAL_CODE>
+               <COUNTRY VALUE="PL"/>
+               <CONTACT_POINT>Frontex Procurement Team</CONTACT_POINT>
+               <PHONE>+48 222059500</PHONE>
+               <E_MAIL>procurement@frontex.europa.eu</E_MAIL>
+               <FAX>+48 222059501</FAX>
+               <n2016:NUTS CODE="PL911"/>
+               <URL_GENERAL>http://www.frontex.europa.eu</URL_GENERAL>
+            </ADDRESS_CONTRACTING_BODY>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Wielokrotna umowa ramowa o świadczenie usług związanych z oprogramowaniem SAS, Microsoft BI oraz ESRI GIS</P>
+            </TITLE>
+            <REFERENCE_NUMBER>Frontex/OP/726/2016/AH.</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="72200000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>Zamówienie jest podzielone na 3 części, które obejmują świadczenie usług związanych z oprogramowaniem SAS (część 1), Microsoft BI (część 2) oraz ESRI GIS (część 3).</P>
+               <P>Niniejsze ogłoszenie o udzieleniu zamówienia dotyczy części 1 – usługi związane z oprogramowaniem SAS.</P>
+            </SHORT_DESCR>
+            <VAL_TOTAL CURRENCY="EUR">1900000</VAL_TOTAL>
+            <LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <TITLE>
+                  <P>Świadczenie usług związanych z oprogramowaniem SAS</P>
+               </TITLE>
+               <LOT_NO>1</LOT_NO>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="72200000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="PL911"/>
+               <MAIN_SITE>
+                  <P>siedziba Fronteksu, Warszawa, Polska.</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>Niniejsze zamówienie jest traktowane jako podstawowe źródło usług związanych z oprogramowaniem SAS i rozwiązaniami używanymi we Fronteksie. Usługi te są obejmują: konfigurację, rozwój, wdrażanie i konserwację, a także usługi doradztwa i przekazywania wiedzy.</P>
+               </SHORT_DESCR>
+               <AC_QUALITY>
+                  <AC_CRITERION>zalety techniczne</AC_CRITERION>
+                  <AC_WEIGHTING>60</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_PRICE>
+                  <AC_WEIGHTING>40</AC_WEIGHTING>
+               </AC_PRICE>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <NO_CONTRACT_COVERED_GPA/>
+            <NOTICE_NUMBER_OJ>2017/S 039-070052</NOTICE_NUMBER_OJ>
+         </PROCEDURE>
+         <AWARD_CONTRACT ITEM="1">
+            <CONTRACT_NO>Frontex/OP/726/2016/AH</CONTRACT_NO>
+            <LOT_NO>1</LOT_NO>
+            <TITLE>
+               <P>Świadczenie usług związanych z oprogramowaniem SAS</P>
+            </TITLE>
+            <AWARDED_CONTRACT>
+               <DATE_CONCLUSION_CONTRACT>2017-06-26</DATE_CONCLUSION_CONTRACT>
+               <NB_TENDERS_RECEIVED>1</NB_TENDERS_RECEIVED>
+               <NO_AWARDED_TO_GROUP/>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>SAS Institute Polska Sp. z o.o.</OFFICIALNAME>
+                     <TOWN>Warsaw</TOWN>
+                     <COUNTRY VALUE="PL"/>
+                     <n2016:NUTS CODE="PL911"/>
+                  </ADDRESS_CONTRACTOR>
+                  <NO_SME/>
+               </CONTRACTOR>
+               <VAL_ESTIMATED_TOTAL CURRENCY="EUR">1900000</VAL_ESTIMATED_TOTAL>
+               <VAL_TOTAL CURRENCY="EUR">1900000</VAL_TOTAL>
+            </AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <COMPLEMENTARY_INFO>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Sąd</OFFICIALNAME>
+               <ADDRESS>rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <E_MAIL>cfi.registry@curia.europa.eu</E_MAIL>
+               <FAX>+352 4303-2100</FAX>
+               <URL>http://www.curia.europa.eu</URL>
+            </ADDRESS_REVIEW_BODY>
+            <REVIEW_PROCEDURE>
+               <P>w ciągu 2 miesięcy od zawiadomienia strony skarżącej lub, w przypadku braku zawiadomienia, od dnia podania do wiadomości.</P>
+            </REVIEW_PROCEDURE>
+            <DATE_DISPATCH_NOTICE>2017-08-04</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F03_2014>
+      <F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="SK">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Európska agentúra pre pohraničnú a pobrežnú stráž – Frontex</OFFICIALNAME>
+               <ADDRESS>Plac Europejski 6</ADDRESS>
+               <TOWN>Warsaw</TOWN>
+               <POSTAL_CODE>00-844</POSTAL_CODE>
+               <COUNTRY VALUE="PL"/>
+               <CONTACT_POINT>Frontex Procurement Team</CONTACT_POINT>
+               <PHONE>+48 222059500</PHONE>
+               <E_MAIL>procurement@frontex.europa.eu</E_MAIL>
+               <FAX>+48 222059501</FAX>
+               <n2016:NUTS CODE="PL911"/>
+               <URL_GENERAL>http://www.frontex.europa.eu</URL_GENERAL>
+            </ADDRESS_CONTRACTING_BODY>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Viacnásobná rámcová zmluva na poskytovanie služieb týkajúcich sa softvéru SAS, Microsoft BI a ESRI GIS.</P>
+            </TITLE>
+            <REFERENCE_NUMBER>Frontex/OP/726/2016/AH.</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="72200000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>Rozsah zákazky sa delí na 3 časti, ktoré zahŕňajú poskytovanie služieb týkajúcich sa softvéru SAS (časť 1), Microsoft BI (časť 2) a ESRI GIS (časť 3).</P>
+               <P>Toto oznámenie o výsledku verejného obstarávania sa týka časti 1 – služby týkajúce sa softvéru SAS.</P>
+            </SHORT_DESCR>
+            <VAL_TOTAL CURRENCY="EUR">1900000</VAL_TOTAL>
+            <LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <TITLE>
+                  <P>Poskytovanie služieb týkajúcich sa softvéru SAS</P>
+               </TITLE>
+               <LOT_NO>1</LOT_NO>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="72200000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="PL911"/>
+               <MAIN_SITE>
+                  <P>priestory agentúry Frontex, Varšava, Poľsko.</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>Táto zákazka sa pokladá za prvotný zdroj služieb týkajúcich sa softvéru SAS a riešení, ktoré sa používajú v rámci Frontexu. Tieto služby sú: konfigurácia, vývoj, implementácia a údržba, ako aj poskytovanie poradenstva a prenos znalostí.</P>
+               </SHORT_DESCR>
+               <AC_QUALITY>
+                  <AC_CRITERION>Technická hodnota</AC_CRITERION>
+                  <AC_WEIGHTING>60</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_PRICE>
+                  <AC_WEIGHTING>40</AC_WEIGHTING>
+               </AC_PRICE>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <NO_CONTRACT_COVERED_GPA/>
+            <NOTICE_NUMBER_OJ>2017/S 039-070052</NOTICE_NUMBER_OJ>
+         </PROCEDURE>
+         <AWARD_CONTRACT ITEM="1">
+            <CONTRACT_NO>Frontex/OP/726/2016/AH</CONTRACT_NO>
+            <LOT_NO>1</LOT_NO>
+            <TITLE>
+               <P>Poskytovanie služieb týkajúcich sa softvéru SAS</P>
+            </TITLE>
+            <AWARDED_CONTRACT>
+               <DATE_CONCLUSION_CONTRACT>2017-06-26</DATE_CONCLUSION_CONTRACT>
+               <NB_TENDERS_RECEIVED>1</NB_TENDERS_RECEIVED>
+               <NO_AWARDED_TO_GROUP/>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>SAS Institute Polska Sp. z o.o.</OFFICIALNAME>
+                     <TOWN>Warsaw</TOWN>
+                     <COUNTRY VALUE="PL"/>
+                     <n2016:NUTS CODE="PL911"/>
+                  </ADDRESS_CONTRACTOR>
+                  <NO_SME/>
+               </CONTRACTOR>
+               <VAL_ESTIMATED_TOTAL CURRENCY="EUR">1900000</VAL_ESTIMATED_TOTAL>
+               <VAL_TOTAL CURRENCY="EUR">1900000</VAL_TOTAL>
+            </AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <COMPLEMENTARY_INFO>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Všeobecný súd</OFFICIALNAME>
+               <ADDRESS>rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <E_MAIL>cfi.registry@curia.europa.eu</E_MAIL>
+               <FAX>+352 4303-2100</FAX>
+               <URL>http://www.curia.europa.eu</URL>
+            </ADDRESS_REVIEW_BODY>
+            <REVIEW_PROCEDURE>
+               <P>Do 2 mesiacov od vyrozumenia osoby podávajúcej odvolanie alebo, ak to nie je možné, odo dňa, keď túto skutočnosť zistila.</P>
+            </REVIEW_PROCEDURE>
+            <DATE_DISPATCH_NOTICE>2017-08-04</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F03_2014>
+      <F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="SL">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Evropska agencija za mejno in obalno stražo – Frontex</OFFICIALNAME>
+               <ADDRESS>Plac Europejski 6</ADDRESS>
+               <TOWN>Warsaw</TOWN>
+               <POSTAL_CODE>00-844</POSTAL_CODE>
+               <COUNTRY VALUE="PL"/>
+               <CONTACT_POINT>Frontex Procurement Team</CONTACT_POINT>
+               <PHONE>+48 222059500</PHONE>
+               <E_MAIL>procurement@frontex.europa.eu</E_MAIL>
+               <FAX>+48 222059501</FAX>
+               <n2016:NUTS CODE="PL911"/>
+               <URL_GENERAL>http://www.frontex.europa.eu</URL_GENERAL>
+            </ADDRESS_CONTRACTING_BODY>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Večkratno okvirno naročilo za zagotavljanje storitev v zvezi s programsko opremo SAS, programsko opremo Microsoft BI in geografskim informacijskim sistemom ESRI.</P>
+            </TITLE>
+            <REFERENCE_NUMBER>Frontex/OP/726/2016/AH.</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="72200000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>Naročilo je razdeljeno na 3 sklope, ki zajemajo zagotavljanje storitev v zvezi s programsko opremo sistema za statistično analizo (Statistical Analysis System – SAS) (sklop 1), programsko opremo za poslovno obveščanje (business intelligence – BI) Microsoft (sklop 2) in geografskim informacijskim sistemom (GIS) ESRI (sklop 3).</P>
+               <P>To obvestilo o oddaji naročila se nanaša na sklop 1 – storitve v zvezi s programsko opremo SAS.</P>
+            </SHORT_DESCR>
+            <VAL_TOTAL CURRENCY="EUR">1900000</VAL_TOTAL>
+            <LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <TITLE>
+                  <P>Zagotavljanje storitev v zvezi s programsko opremo SAS</P>
+               </TITLE>
+               <LOT_NO>1</LOT_NO>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="72200000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="PL911"/>
+               <MAIN_SITE>
+                  <P>prostori Frontexa, Varšava, Poljska.</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>To naročilo se obravnava kot primarni vir storitev v zvezi s programsko opremo in rešitvami SAS, ki jih uporablja Frontex. Te storitve so: konfiguracija, razvoj, izvedba in vzdrževanje ter zagotavljanje smernic in prenosa znanja.</P>
+               </SHORT_DESCR>
+               <AC_QUALITY>
+                  <AC_CRITERION>Tehnična ustreznost</AC_CRITERION>
+                  <AC_WEIGHTING>60</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_PRICE>
+                  <AC_WEIGHTING>40</AC_WEIGHTING>
+               </AC_PRICE>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <NO_CONTRACT_COVERED_GPA/>
+            <NOTICE_NUMBER_OJ>2017/S 039-070052</NOTICE_NUMBER_OJ>
+         </PROCEDURE>
+         <AWARD_CONTRACT ITEM="1">
+            <CONTRACT_NO>Frontex/OP/726/2016/AH</CONTRACT_NO>
+            <LOT_NO>1</LOT_NO>
+            <TITLE>
+               <P>Zagotavljanje storitev v zvezi s programsko opremo SAS</P>
+            </TITLE>
+            <AWARDED_CONTRACT>
+               <DATE_CONCLUSION_CONTRACT>2017-06-26</DATE_CONCLUSION_CONTRACT>
+               <NB_TENDERS_RECEIVED>1</NB_TENDERS_RECEIVED>
+               <NO_AWARDED_TO_GROUP/>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>SAS Institute Polska Sp. z o.o.</OFFICIALNAME>
+                     <TOWN>Warsaw</TOWN>
+                     <COUNTRY VALUE="PL"/>
+                     <n2016:NUTS CODE="PL911"/>
+                  </ADDRESS_CONTRACTOR>
+                  <NO_SME/>
+               </CONTRACTOR>
+               <VAL_ESTIMATED_TOTAL CURRENCY="EUR">1900000</VAL_ESTIMATED_TOTAL>
+               <VAL_TOTAL CURRENCY="EUR">1900000</VAL_TOTAL>
+            </AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <COMPLEMENTARY_INFO>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Splošno sodišče</OFFICIALNAME>
+               <ADDRESS>rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <E_MAIL>cfi.registry@curia.europa.eu</E_MAIL>
+               <FAX>+352 4303-2100</FAX>
+               <URL>http://www.curia.europa.eu</URL>
+            </ADDRESS_REVIEW_BODY>
+            <REVIEW_PROCEDURE>
+               <P>v 2 mesecih od uradnega obvestila tožniku ali, če tega ni bilo, od dneva, ko je tožnik zanj izvedel.</P>
+            </REVIEW_PROCEDURE>
+            <DATE_DISPATCH_NOTICE>2017-08-04</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F03_2014>
+      <F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="GA">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>An Ghníomhaireacht Eorpach um an nGarda Teorann agus Cósta  — Frontex</OFFICIALNAME>
+               <ADDRESS>Plac Europejski 6</ADDRESS>
+               <TOWN>Warsaw</TOWN>
+               <POSTAL_CODE>00-844</POSTAL_CODE>
+               <COUNTRY VALUE="PL"/>
+               <CONTACT_POINT>Frontex Procurement Team</CONTACT_POINT>
+               <PHONE>+48 222059500</PHONE>
+               <E_MAIL>procurement@frontex.europa.eu</E_MAIL>
+               <FAX>+48 222059501</FAX>
+               <n2016:NUTS CODE="PL911"/>
+               <URL_GENERAL>http://www.frontex.europa.eu</URL_GENERAL>
+            </ADDRESS_CONTRACTING_BODY>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Conradh ilchreatlaí le haghaidh seirbhísí maidir le bogearraí SAS, BI Microsoft agus GIS ESRI a chur ar fáil.</P>
+            </TITLE>
+            <REFERENCE_NUMBER>Frontex/OP/726/2016/AH.</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="72200000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>Tá raon feidhme an chonartha roinnte ina 3 bheart, lena gclúdófar soláthar seirbhísí a bhaineann le bogearraí SAS (beart 1), BI Microsoft (beart 2) agus GIS ESRI (beart 3).</P>
+               <P>Baineann an fógra dámhachtana conartha seo le beart 1 — seirbhísí a bhaineann le bogearraí SAS.</P>
+            </SHORT_DESCR>
+            <VAL_TOTAL CURRENCY="EUR">1900000</VAL_TOTAL>
+            <LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <TITLE>
+                  <P>Seirbhísí a bhaineann le bogearraí SAS.</P>
+               </TITLE>
+               <LOT_NO>1</LOT_NO>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="72200000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="PL911"/>
+               <MAIN_SITE>
+                  <P>Áitreabh Frontex, Vársá, an Pholainn.</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>Breithnítear go bhfuil an conradh ina phríomhfhoinse seirbhísí maidir le húsáid bogearraí agus réitigh SAS arna n-úsáid in Frontex. Is ionann na seirbhísí agus: cumrú, forbairt, cur chun feidhme agus cothabháil mar aon le treoir a chur ar fáil agus eolas a thraschur.</P>
+               </SHORT_DESCR>
+               <AC_QUALITY>
+                  <AC_CRITERION>Fiúntas teicniúil</AC_CRITERION>
+                  <AC_WEIGHTING>60</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_PRICE>
+                  <AC_WEIGHTING>40</AC_WEIGHTING>
+               </AC_PRICE>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <NO_CONTRACT_COVERED_GPA/>
+            <NOTICE_NUMBER_OJ>2017/S 039-070052</NOTICE_NUMBER_OJ>
+         </PROCEDURE>
+         <AWARD_CONTRACT ITEM="1">
+            <CONTRACT_NO>Frontex/OP/726/2016/AH</CONTRACT_NO>
+            <LOT_NO>1</LOT_NO>
+            <TITLE>
+               <P>Seirbhísí a bhaineann le bogearraí SAS.</P>
+            </TITLE>
+            <AWARDED_CONTRACT>
+               <DATE_CONCLUSION_CONTRACT>2017-06-26</DATE_CONCLUSION_CONTRACT>
+               <NB_TENDERS_RECEIVED>1</NB_TENDERS_RECEIVED>
+               <NO_AWARDED_TO_GROUP/>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>SAS Institute Polska Sp. z o.o.</OFFICIALNAME>
+                     <TOWN>Warsaw</TOWN>
+                     <COUNTRY VALUE="PL"/>
+                     <n2016:NUTS CODE="PL911"/>
+                  </ADDRESS_CONTRACTOR>
+                  <NO_SME/>
+               </CONTRACTOR>
+               <VAL_ESTIMATED_TOTAL CURRENCY="EUR">1900000</VAL_ESTIMATED_TOTAL>
+               <VAL_TOTAL CURRENCY="EUR">1900000</VAL_TOTAL>
+            </AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <COMPLEMENTARY_INFO>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>An Chúirt Ghinearálta</OFFICIALNAME>
+               <ADDRESS>rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <E_MAIL>cfi.registry@curia.europa.eu</E_MAIL>
+               <FAX>+352 4303-2100</FAX>
+               <URL>http://www.curia.europa.eu</URL>
+            </ADDRESS_REVIEW_BODY>
+            <REVIEW_PROCEDURE>
+               <P>Laistigh de 2 mhí ón bhfógra don ghearánaí, nó, dá éagmais sin, ón lá a fuarthas an t-eolas.</P>
+            </REVIEW_PROCEDURE>
+            <DATE_DISPATCH_NOTICE>2017-08-04</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F03_2014>
+      <F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="BG">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Европейска агенция за гранична и брегова охрана – Frontex</OFFICIALNAME>
+               <ADDRESS>Plac Europejski 6</ADDRESS>
+               <TOWN>Warsaw</TOWN>
+               <POSTAL_CODE>00-844</POSTAL_CODE>
+               <COUNTRY VALUE="PL"/>
+               <CONTACT_POINT>Frontex Procurement Team</CONTACT_POINT>
+               <PHONE>+48 222059500</PHONE>
+               <E_MAIL>procurement@frontex.europa.eu</E_MAIL>
+               <FAX>+48 222059501</FAX>
+               <n2016:NUTS CODE="PL911"/>
+               <URL_GENERAL>http://www.frontex.europa.eu</URL_GENERAL>
+            </ADDRESS_CONTRACTING_BODY>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Многостранен рамков договор за осигуряване на услуги, свързани със софтуер SAS, Microsoft BI и географска информационна система (ГИС) ESRI.</P>
+            </TITLE>
+            <REFERENCE_NUMBER>Frontex/OP/726/2016/AH.</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="72200000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>Обхватът на поръчката е разделен на 3 партиди, които обхващат осигуряването на услуги, свързани със софтуер SAS (партида 1), Microsoft BI (партида 2) и географска информационна система ESRI (партида 3).</P>
+               <P>Това обявление за възлагане на поръчка се отнася за партида 1 – услуги, свързани със софтуер SAS.</P>
+            </SHORT_DESCR>
+            <VAL_TOTAL CURRENCY="EUR">1900000</VAL_TOTAL>
+            <LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <TITLE>
+                  <P>Осигуряване на услуги, свързани със софтуер SAS</P>
+               </TITLE>
+               <LOT_NO>1</LOT_NO>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="72200000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="PL911"/>
+               <MAIN_SITE>
+                  <P>помещения на Frontex, Варшава, Полша.</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>Тази поръчка се счита за основен източник на услуги, свързани със софтуер SAS и решения, които са в употреба в Frontex. Тези услуги са: конфигуриране, разработване, внедряване и поддръжка, както и осигуряване на насоки и трансфер на знания.</P>
+               </SHORT_DESCR>
+               <AC_QUALITY>
+                  <AC_CRITERION>Техническо качество</AC_CRITERION>
+                  <AC_WEIGHTING>60</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_PRICE>
+                  <AC_WEIGHTING>40</AC_WEIGHTING>
+               </AC_PRICE>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <NO_CONTRACT_COVERED_GPA/>
+            <NOTICE_NUMBER_OJ>2017/S 039-070052</NOTICE_NUMBER_OJ>
+         </PROCEDURE>
+         <AWARD_CONTRACT ITEM="1">
+            <CONTRACT_NO>Frontex/OP/726/2016/AH</CONTRACT_NO>
+            <LOT_NO>1</LOT_NO>
+            <TITLE>
+               <P>Осигуряване на услуги, свързани със софтуер SAS</P>
+            </TITLE>
+            <AWARDED_CONTRACT>
+               <DATE_CONCLUSION_CONTRACT>2017-06-26</DATE_CONCLUSION_CONTRACT>
+               <NB_TENDERS_RECEIVED>1</NB_TENDERS_RECEIVED>
+               <NO_AWARDED_TO_GROUP/>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>SAS Institute Polska Sp. z o.o.</OFFICIALNAME>
+                     <TOWN>Warsaw</TOWN>
+                     <COUNTRY VALUE="PL"/>
+                     <n2016:NUTS CODE="PL911"/>
+                  </ADDRESS_CONTRACTOR>
+                  <NO_SME/>
+               </CONTRACTOR>
+               <VAL_ESTIMATED_TOTAL CURRENCY="EUR">1900000</VAL_ESTIMATED_TOTAL>
+               <VAL_TOTAL CURRENCY="EUR">1900000</VAL_TOTAL>
+            </AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <COMPLEMENTARY_INFO>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Общ съд</OFFICIALNAME>
+               <ADDRESS>rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <E_MAIL>cfi.registry@curia.europa.eu</E_MAIL>
+               <FAX>+352 4303-2100</FAX>
+               <URL>http://www.curia.europa.eu</URL>
+            </ADDRESS_REVIEW_BODY>
+            <REVIEW_PROCEDURE>
+               <P>В рамките на 2 месеца от получаването на известието от ищеца или, в случай че такова липсва, от деня, в който е станало известно.</P>
+            </REVIEW_PROCEDURE>
+            <DATE_DISPATCH_NOTICE>2017-08-04</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F03_2014>
+      <F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="RO">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Agenția Europeană pentru Poliția de Frontieră și Garda de Coastă – Frontex</OFFICIALNAME>
+               <ADDRESS>Plac Europejski 6</ADDRESS>
+               <TOWN>Warsaw</TOWN>
+               <POSTAL_CODE>00-844</POSTAL_CODE>
+               <COUNTRY VALUE="PL"/>
+               <CONTACT_POINT>Frontex Procurement Team</CONTACT_POINT>
+               <PHONE>+48 222059500</PHONE>
+               <E_MAIL>procurement@frontex.europa.eu</E_MAIL>
+               <FAX>+48 222059501</FAX>
+               <n2016:NUTS CODE="PL911"/>
+               <URL_GENERAL>http://www.frontex.europa.eu</URL_GENERAL>
+            </ADDRESS_CONTRACTING_BODY>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Contract-cadru multiplu pentru prestarea de servicii legate de produsele software SAS, Microsoft BI și ESRI GIS.</P>
+            </TITLE>
+            <REFERENCE_NUMBER>Frontex/OP/726/2016/AH.</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="72200000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>Obiectul contractului este împărțit în 3 loturi, care acoperă prestarea de servicii legate de produsele software SAS (lotul 1), Microsoft BI (lotul 2) și ESRI GIS (lotul 3).</P>
+               <P>Prezentul anunț de atribuire vizează lotul 1 – servicii legate de software-ul SAS.</P>
+            </SHORT_DESCR>
+            <VAL_TOTAL CURRENCY="EUR">1900000</VAL_TOTAL>
+            <LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <TITLE>
+                  <P>Prestarea de servicii legate de software-ul SAS</P>
+               </TITLE>
+               <LOT_NO>1</LOT_NO>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="72200000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="PL911"/>
+               <MAIN_SITE>
+                  <P>Sediul Frontex, Varșovia, Polonia.</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>Acest contract este considerat o sursă primară de servicii legate de software-ul și soluțiile SAS utilizate în cadrul Frontex. Aceste servicii sunt: configurarea, dezvoltarea, implementarea și întreținerea, precum și elaborarea de orientări și transferul de cunoștințe.</P>
+               </SHORT_DESCR>
+               <AC_QUALITY>
+                  <AC_CRITERION>valoarea tehnică</AC_CRITERION>
+                  <AC_WEIGHTING>60</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_PRICE>
+                  <AC_WEIGHTING>40</AC_WEIGHTING>
+               </AC_PRICE>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <NO_CONTRACT_COVERED_GPA/>
+            <NOTICE_NUMBER_OJ>2017/S 039-070052</NOTICE_NUMBER_OJ>
+         </PROCEDURE>
+         <AWARD_CONTRACT ITEM="1">
+            <CONTRACT_NO>Frontex/OP/726/2016/AH</CONTRACT_NO>
+            <LOT_NO>1</LOT_NO>
+            <TITLE>
+               <P>Prestarea de servicii legate de software-ul SAS</P>
+            </TITLE>
+            <AWARDED_CONTRACT>
+               <DATE_CONCLUSION_CONTRACT>2017-06-26</DATE_CONCLUSION_CONTRACT>
+               <NB_TENDERS_RECEIVED>1</NB_TENDERS_RECEIVED>
+               <NO_AWARDED_TO_GROUP/>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>SAS Institute Polska Sp. z o.o.</OFFICIALNAME>
+                     <TOWN>Warsaw</TOWN>
+                     <COUNTRY VALUE="PL"/>
+                     <n2016:NUTS CODE="PL911"/>
+                  </ADDRESS_CONTRACTOR>
+                  <NO_SME/>
+               </CONTRACTOR>
+               <VAL_ESTIMATED_TOTAL CURRENCY="EUR">1900000</VAL_ESTIMATED_TOTAL>
+               <VAL_TOTAL CURRENCY="EUR">1900000</VAL_TOTAL>
+            </AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <COMPLEMENTARY_INFO>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Tribunalul</OFFICIALNAME>
+               <ADDRESS>rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <E_MAIL>cfi.registry@curia.europa.eu</E_MAIL>
+               <FAX>+352 4303-2100</FAX>
+               <URL>http://www.curia.europa.eu</URL>
+            </ADDRESS_REVIEW_BODY>
+            <REVIEW_PROCEDURE>
+               <P>În termen de 2 luni de la notificarea reclamantului sau, în lipsa acesteia, de la ziua în care acesta a luat cunoștință de actul respectiv.</P>
+            </REVIEW_PROCEDURE>
+            <DATE_DISPATCH_NOTICE>2017-08-04</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F03_2014>
+      <F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="HR">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Agencija za europsku graničnu i obalnu stražu — Frontex</OFFICIALNAME>
+               <ADDRESS>Plac Europejski 6</ADDRESS>
+               <TOWN>Warsaw</TOWN>
+               <POSTAL_CODE>00-844</POSTAL_CODE>
+               <COUNTRY VALUE="PL"/>
+               <CONTACT_POINT>Frontex Procurement Team</CONTACT_POINT>
+               <PHONE>+48 222059500</PHONE>
+               <E_MAIL>procurement@frontex.europa.eu</E_MAIL>
+               <FAX>+48 222059501</FAX>
+               <n2016:NUTS CODE="PL911"/>
+               <URL_GENERAL>http://www.frontex.europa.eu</URL_GENERAL>
+            </ADDRESS_CONTRACTING_BODY>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Višestruki okvirni ugovor za pružanje usluga povezanih sa softverima SAS, Microsoft BI i GIS-om ESRI-ja</P>
+            </TITLE>
+            <REFERENCE_NUMBER>Frontex/OP/726/2016/AH.</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="72200000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SERVICES"/>
+            <SHORT_DESCR>
+               <P>Opseg ugovora podijeljen je u 3 grupe koje obuhvaćaju pružanje usluga koje se odnose na softver sustava za statističku analizu (Statistical Analysis System — SAS) (grupa 1), sustava za poslovnu inteligenciju (business intelligence — BI) Microsoft (grupa 2) te GIS ESRI-ja (grupa 3).</P>
+               <P>Obavijest o dodjeli ugovora odnosi se na grupu 1 — usluge povezane sa softverom SAS.</P>
+            </SHORT_DESCR>
+            <VAL_TOTAL CURRENCY="EUR">1900000</VAL_TOTAL>
+            <LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <TITLE>
+                  <P>Pružanje usluga povezanih s a softverom SAS</P>
+               </TITLE>
+               <LOT_NO>1</LOT_NO>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="72200000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="PL911"/>
+               <MAIN_SITE>
+                  <P>Prostori Frontexa, Varšava, Poljska.</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>Ovaj se ugovor smatra primarnim izvorom usluga koje su povezane sa softverom SAS i rješenjima koja se koriste u Frontexu. Navedene usluge su sljedeće: konfiguracija, razvoj, provedba i održavanje kao i pružanje vodstva i prijenosa znanja.</P>
+               </SHORT_DESCR>
+               <AC_QUALITY>
+                  <AC_CRITERION>Tehnička kvaliteta</AC_CRITERION>
+                  <AC_WEIGHTING>60</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_PRICE>
+                  <AC_WEIGHTING>40</AC_WEIGHTING>
+               </AC_PRICE>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <NO_CONTRACT_COVERED_GPA/>
+            <NOTICE_NUMBER_OJ>2017/S 039-070052</NOTICE_NUMBER_OJ>
+         </PROCEDURE>
+         <AWARD_CONTRACT ITEM="1">
+            <CONTRACT_NO>Frontex/OP/726/2016/AH</CONTRACT_NO>
+            <LOT_NO>1</LOT_NO>
+            <TITLE>
+               <P>Pružanje usluga povezanih s a softverom SAS</P>
+            </TITLE>
+            <AWARDED_CONTRACT>
+               <DATE_CONCLUSION_CONTRACT>2017-06-26</DATE_CONCLUSION_CONTRACT>
+               <NB_TENDERS_RECEIVED>1</NB_TENDERS_RECEIVED>
+               <NO_AWARDED_TO_GROUP/>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>SAS Institute Polska Sp. z o.o.</OFFICIALNAME>
+                     <TOWN>Warsaw</TOWN>
+                     <COUNTRY VALUE="PL"/>
+                     <n2016:NUTS CODE="PL911"/>
+                  </ADDRESS_CONTRACTOR>
+                  <NO_SME/>
+               </CONTRACTOR>
+               <VAL_ESTIMATED_TOTAL CURRENCY="EUR">1900000</VAL_ESTIMATED_TOTAL>
+               <VAL_TOTAL CURRENCY="EUR">1900000</VAL_TOTAL>
+            </AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <COMPLEMENTARY_INFO>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Opći sud</OFFICIALNAME>
+               <ADDRESS>rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <E_MAIL>cfi.registry@curia.europa.eu</E_MAIL>
+               <FAX>+352 4303-2100</FAX>
+               <URL>http://www.curia.europa.eu</URL>
+            </ADDRESS_REVIEW_BODY>
+            <REVIEW_PROCEDURE>
+               <P>U roku od 2 mjeseca od slanja obavijesti podnositelju žalbe ili, u slučaju izostanka obavijesti, od dana primanja dotičnih okolnosti na znanje.</P>
+            </REVIEW_PROCEDURE>
+            <DATE_DISPATCH_NOTICE>2017-08-04</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F03_2014>
+   </FORM_SECTION>
+</TED_EXPORT>

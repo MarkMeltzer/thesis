@@ -1,0 +1,2654 @@
+<?xml version="1.0" encoding="UTF-8"?><TED_EXPORT xmlns="http://formex.publications.europa.eu/ted/schema/export/R2.0.9.S01.E01" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" VERSION="R2.0.9.S01.E01" xsi:schemaLocation="http://formex.publications.europa.eu/ted/schema/export/R2.0.9.S01.E01 TED_EXPORT.xsd" DOC_ID="320222-2016" EDITION="2016179">
+<TECHNICAL_SECTION>
+<RECEPTION_ID>16-332756-001</RECEPTION_ID>
+<DELETION_DATE>20161215</DELETION_DATE>
+<FORM_LG_LIST>DA DE EN ES FI FR EL IT NL PT SV CS ET HU LT LV MT PL SK SL GA BG RO HR </FORM_LG_LIST>
+<COMMENTS>From Convertor</COMMENTS>
+</TECHNICAL_SECTION>
+<LINKS_SECTION>
+<XML_SCHEMA_DEFINITION_LINK xlink:title="TED WEBSITE" xlink:href="http://ted.europa.eu" xlink:type="simple"/>
+<OFFICIAL_FORMS_LINK xlink:href="http://ted.europa.eu" xlink:type="simple"/>
+<FORMS_LABELS_LINK xlink:href="http://ted.europa.eu" xlink:type="simple"/>
+<ORIGINAL_CPV_LINK xlink:href="http://ted.europa.eu" xlink:type="simple"/>
+<ORIGINAL_NUTS_LINK xlink:href="http://ted.europa.eu" xlink:type="simple"/>
+</LINKS_SECTION>
+<CODED_DATA_SECTION>
+<REF_OJS>
+<COLL_OJ>S</COLL_OJ>
+<NO_OJ>179</NO_OJ>
+<DATE_PUB>20160916</DATE_PUB>
+</REF_OJS>
+<NOTICE_DATA>
+<NO_DOC_OJS>2016/S 179-320222</NO_DOC_OJS>
+<URI_LIST>
+<URI_DOC LG="DA">http://ted.europa.eu/udl?uri=TED:NOTICE:320222-2016:TEXT:DA:HTML</URI_DOC>
+<URI_DOC LG="DE">http://ted.europa.eu/udl?uri=TED:NOTICE:320222-2016:TEXT:DE:HTML</URI_DOC>
+<URI_DOC LG="EN">http://ted.europa.eu/udl?uri=TED:NOTICE:320222-2016:TEXT:EN:HTML</URI_DOC>
+<URI_DOC LG="ES">http://ted.europa.eu/udl?uri=TED:NOTICE:320222-2016:TEXT:ES:HTML</URI_DOC>
+<URI_DOC LG="FI">http://ted.europa.eu/udl?uri=TED:NOTICE:320222-2016:TEXT:FI:HTML</URI_DOC>
+<URI_DOC LG="FR">http://ted.europa.eu/udl?uri=TED:NOTICE:320222-2016:TEXT:FR:HTML</URI_DOC>
+<URI_DOC LG="EL">http://ted.europa.eu/udl?uri=TED:NOTICE:320222-2016:TEXT:EL:HTML</URI_DOC>
+<URI_DOC LG="IT">http://ted.europa.eu/udl?uri=TED:NOTICE:320222-2016:TEXT:IT:HTML</URI_DOC>
+<URI_DOC LG="NL">http://ted.europa.eu/udl?uri=TED:NOTICE:320222-2016:TEXT:NL:HTML</URI_DOC>
+<URI_DOC LG="PT">http://ted.europa.eu/udl?uri=TED:NOTICE:320222-2016:TEXT:PT:HTML</URI_DOC>
+<URI_DOC LG="SV">http://ted.europa.eu/udl?uri=TED:NOTICE:320222-2016:TEXT:SV:HTML</URI_DOC>
+<URI_DOC LG="CS">http://ted.europa.eu/udl?uri=TED:NOTICE:320222-2016:TEXT:CS:HTML</URI_DOC>
+<URI_DOC LG="ET">http://ted.europa.eu/udl?uri=TED:NOTICE:320222-2016:TEXT:ET:HTML</URI_DOC>
+<URI_DOC LG="HU">http://ted.europa.eu/udl?uri=TED:NOTICE:320222-2016:TEXT:HU:HTML</URI_DOC>
+<URI_DOC LG="LT">http://ted.europa.eu/udl?uri=TED:NOTICE:320222-2016:TEXT:LT:HTML</URI_DOC>
+<URI_DOC LG="LV">http://ted.europa.eu/udl?uri=TED:NOTICE:320222-2016:TEXT:LV:HTML</URI_DOC>
+<URI_DOC LG="MT">http://ted.europa.eu/udl?uri=TED:NOTICE:320222-2016:TEXT:MT:HTML</URI_DOC>
+<URI_DOC LG="PL">http://ted.europa.eu/udl?uri=TED:NOTICE:320222-2016:TEXT:PL:HTML</URI_DOC>
+<URI_DOC LG="SK">http://ted.europa.eu/udl?uri=TED:NOTICE:320222-2016:TEXT:SK:HTML</URI_DOC>
+<URI_DOC LG="SL">http://ted.europa.eu/udl?uri=TED:NOTICE:320222-2016:TEXT:SL:HTML</URI_DOC>
+<URI_DOC LG="GA">http://ted.europa.eu/udl?uri=TED:NOTICE:320222-2016:TEXT:GA:HTML</URI_DOC>
+<URI_DOC LG="BG">http://ted.europa.eu/udl?uri=TED:NOTICE:320222-2016:TEXT:BG:HTML</URI_DOC>
+<URI_DOC LG="RO">http://ted.europa.eu/udl?uri=TED:NOTICE:320222-2016:TEXT:RO:HTML</URI_DOC>
+<URI_DOC LG="HR">http://ted.europa.eu/udl?uri=TED:NOTICE:320222-2016:TEXT:HR:HTML</URI_DOC>
+</URI_LIST>
+<LG_ORIG>EN</LG_ORIG>
+<ISO_COUNTRY VALUE="PL"/>
+<IA_URL_GENERAL>www.frontex.europa.eu</IA_URL_GENERAL>
+<ORIGINAL_CPV CODE="48000000">Software package and information systems</ORIGINAL_CPV>
+<ORIGINAL_NUTS CODE="PL127">Miasto Warszawa</ORIGINAL_NUTS>
+<CA_CE_NUTS CODE="PL127">Miasto Warszawa</CA_CE_NUTS>
+<TENDERER_NUTS CODE="DK011">Byen København</TENDERER_NUTS>
+<VALUES>
+<VALUE TYPE="PROCUREMENT_TOTAL" CURRENCY="EUR">1276694.00</VALUE>
+</VALUES>
+<REF_NOTICE>
+<NO_DOC_OJS>2016/S 049-080761</NO_DOC_OJS>
+</REF_NOTICE>
+</NOTICE_DATA>
+<CODIF_DATA>
+<DS_DATE_DISPATCH>20160906</DS_DATE_DISPATCH>
+<AA_AUTHORITY_TYPE CODE="5">European Institution/Agency or International Organisation</AA_AUTHORITY_TYPE>
+<TD_DOCUMENT_TYPE CODE="7">Contract award notice</TD_DOCUMENT_TYPE>
+<NC_CONTRACT_NATURE CODE="4">Services</NC_CONTRACT_NATURE>
+<PR_PROC CODE="1">Open procedure</PR_PROC>
+<RP_REGULATION CODE="3">European Institution/Agency or International Organisation</RP_REGULATION>
+<TY_TYPE_BID CODE="9">Not applicable</TY_TYPE_BID>
+<AC_AWARD_CRIT CODE="2">The most economic tender</AC_AWARD_CRIT>
+<MA_MAIN_ACTIVITIES CODE="8">Other</MA_MAIN_ACTIVITIES>
+<HEADING>AGC03</HEADING>
+<INITIATOR>AG</INITIATOR>
+<DIRECTIVE VALUE="2014/24/EU"/>
+</CODIF_DATA>
+</CODED_DATA_SECTION>
+<TRANSLATION_SECTION>
+<ML_TITLES>
+<ML_TI_DOC LG="DA">
+<TI_CY>Polen</TI_CY>
+<TI_TOWN>Warszawa</TI_TOWN>
+<TI_TEXT>
+<P>Den digitale arbejdsplads MyFrontex (intranet baseret på kommerciel standardsoftware)</P>
+</TI_TEXT>
+</ML_TI_DOC>
+<ML_TI_DOC LG="DE">
+<TI_CY>Polen</TI_CY>
+<TI_TOWN>Warschau</TI_TOWN>
+<TI_TEXT>
+<P>Digitaler Arbeitsplatz MyFrontex (auf handelsüblicher Standardsoftware basierendes Intranet)</P>
+</TI_TEXT>
+</ML_TI_DOC>
+<ML_TI_DOC LG="EN">
+<TI_CY>Poland</TI_CY>
+<TI_TOWN>Warsaw</TI_TOWN>
+<TI_TEXT>
+<P>MyFrontex digital workplace (COTS-based intranet)</P>
+</TI_TEXT>
+</ML_TI_DOC>
+<ML_TI_DOC LG="ES">
+<TI_CY>Polonia</TI_CY>
+<TI_TOWN>Varsovia</TI_TOWN>
+<TI_TEXT>
+<P>Entorno laboral digital MyFrontex (intranet basada en programas que estén disponibles en el mercado)</P>
+</TI_TEXT>
+</ML_TI_DOC>
+<ML_TI_DOC LG="FI">
+<TI_CY>Puola</TI_CY>
+<TI_TOWN>Varsova</TI_TOWN>
+<TI_TEXT>
+<P>Digitaalista työympäristöä koskeva MyFrontex-ratkaisu (kaupalliseen valmisohjelmistoon (COTS) perustuva intranet)</P>
+</TI_TEXT>
+</ML_TI_DOC>
+<ML_TI_DOC LG="FR">
+<TI_CY>Pologne</TI_CY>
+<TI_TOWN>Varsovie</TI_TOWN>
+<TI_TEXT>
+<P>Espace de travail numérique MyFrontex (intranet reposant sur un logiciel commercial)</P>
+</TI_TEXT>
+</ML_TI_DOC>
+<ML_TI_DOC LG="EL">
+<TI_CY>Πολωνία</TI_CY>
+<TI_TOWN>Βαρσοβία</TI_TOWN>
+<TI_TEXT>
+<P>Ψηφιακός χώρος εργασίας «MyFrontex» (ενδοδίκτυο βάσει COTS)</P>
+</TI_TEXT>
+</ML_TI_DOC>
+<ML_TI_DOC LG="IT">
+<TI_CY>Polonia</TI_CY>
+<TI_TOWN>Varsavia</TI_TOWN>
+<TI_TEXT>
+<P>Postazione di lavoro digitale MyFrontex (intranet basato su componenti hardware disponibili in commercio)</P>
+</TI_TEXT>
+</ML_TI_DOC>
+<ML_TI_DOC LG="NL">
+<TI_CY>Polen</TI_CY>
+<TI_TOWN>Warschau</TI_TOWN>
+<TI_TEXT>
+<P>Digitale werkplek MyFrontex (intranet op basis van commerciële kant-en-klare software)</P>
+</TI_TEXT>
+</ML_TI_DOC>
+<ML_TI_DOC LG="PT">
+<TI_CY>Polónia</TI_CY>
+<TI_TOWN>Varsóvia</TI_TOWN>
+<TI_TEXT>
+<P>Espaço de trabalho digital MyFrontex (Intranet baseada em software COTS)</P>
+</TI_TEXT>
+</ML_TI_DOC>
+<ML_TI_DOC LG="SV">
+<TI_CY>Polen</TI_CY>
+<TI_TOWN>Warszawa</TI_TOWN>
+<TI_TEXT>
+<P>Den digitala arbetsplatsen MyFrontex (intranät som baseras på en färdigköpt allmänt tillgänglig programvara)</P>
+</TI_TEXT>
+</ML_TI_DOC>
+<ML_TI_DOC LG="CS">
+<TI_CY>Polsko</TI_CY>
+<TI_TOWN>Varšava</TI_TOWN>
+<TI_TEXT>
+<P>Digitální pracoviště MyFrontex (intranet na bázi standardních komerčně dostupných technologií (COTS))</P>
+</TI_TEXT>
+</ML_TI_DOC>
+<ML_TI_DOC LG="ET">
+<TI_CY>Poola</TI_CY>
+<TI_TOWN>Varssavi</TI_TOWN>
+<TI_TEXT>
+<P>MyFrontexi digitaalne töökoht (COTSi-põhine intranet)</P>
+</TI_TEXT>
+</ML_TI_DOC>
+<ML_TI_DOC LG="HU">
+<TI_CY>Lengyelország</TI_CY>
+<TI_TOWN>Varsó</TI_TOWN>
+<TI_TEXT>
+<P>MyFrontex digitális munkahely (kereskedelmi forgalomba hozott készterméken [COTS] alapuló intranet)</P>
+</TI_TEXT>
+</ML_TI_DOC>
+<ML_TI_DOC LG="LT">
+<TI_CY>Lenkija</TI_CY>
+<TI_TOWN>Varšuva</TI_TOWN>
+<TI_TEXT>
+<P>„MyFrontex“ skaitmeninė darbo vieta (COTS pagrįstas intranetas)</P>
+</TI_TEXT>
+</ML_TI_DOC>
+<ML_TI_DOC LG="LV">
+<TI_CY>Polija</TI_CY>
+<TI_TOWN>Varšava</TI_TOWN>
+<TI_TEXT>
+<P>Digitālā darba vieta MyFrontex (COTS intranets)</P>
+</TI_TEXT>
+</ML_TI_DOC>
+<ML_TI_DOC LG="MT">
+<TI_CY>il-Polonja</TI_CY>
+<TI_TOWN>Varsavja</TI_TOWN>
+<TI_TEXT>
+<P>Il-post tax-xogħol diġitali MyFrontex (intranet ibbażat fuq il-COTS)</P>
+</TI_TEXT>
+</ML_TI_DOC>
+<ML_TI_DOC LG="PL">
+<TI_CY>Polska</TI_CY>
+<TI_TOWN>Warszawa</TI_TOWN>
+<TI_TEXT>
+<P>Cyfrowe środowisko pracy MyFrontex (intranet wykorzystujący rozwiązania dostępne w handlu)</P>
+</TI_TEXT>
+</ML_TI_DOC>
+<ML_TI_DOC LG="SK">
+<TI_CY>Poľsko</TI_CY>
+<TI_TOWN>Varšava</TI_TOWN>
+<TI_TEXT>
+<P>Digitálne pracovisko MyFrontex (intranet na báze komerčne dostupného softvéru)</P>
+</TI_TEXT>
+</ML_TI_DOC>
+<ML_TI_DOC LG="SL">
+<TI_CY>Poljska</TI_CY>
+<TI_TOWN>Varšava</TI_TOWN>
+<TI_TEXT>
+<P>Digitalno delovno mesto MyFrontex (intranet na podlagi COTS)</P>
+</TI_TEXT>
+</ML_TI_DOC>
+<ML_TI_DOC LG="GA">
+<TI_CY>Pholainn, an</TI_CY>
+<TI_TOWN>Vársá</TI_TOWN>
+<TI_TEXT>
+<P>Láthair oibre dhigiteach MyFrontex (inlíon bunaithe ar COTS)</P>
+</TI_TEXT>
+</ML_TI_DOC>
+<ML_TI_DOC LG="BG">
+<TI_CY>Полша</TI_CY>
+<TI_TOWN>Варшава</TI_TOWN>
+<TI_TEXT>
+<P>Цифрово работно място MyFrontex (интранет, базиран на пазарно утвърден продукт (COTS))</P>
+</TI_TEXT>
+</ML_TI_DOC>
+<ML_TI_DOC LG="RO">
+<TI_CY>Polonia</TI_CY>
+<TI_TOWN>Varșovia</TI_TOWN>
+<TI_TEXT>
+<P>Spațiu de lucru digital MyFrontex (intranet bazat pe COTS)</P>
+</TI_TEXT>
+</ML_TI_DOC>
+<ML_TI_DOC LG="HR">
+<TI_CY>Poljska</TI_CY>
+<TI_TOWN>Varšava</TI_TOWN>
+<TI_TEXT>
+<P>Digitalno radno mjesto MyFrontex (intranet koji se temelji na COTS-u)</P>
+</TI_TEXT>
+</ML_TI_DOC>
+</ML_TITLES>
+<ML_AA_NAMES>
+<AA_NAME LG="DA">Frontex</AA_NAME>
+<AA_NAME LG="DE">Frontex</AA_NAME>
+<AA_NAME LG="EN">Frontex</AA_NAME>
+<AA_NAME LG="ES">Frontex</AA_NAME>
+<AA_NAME LG="FI">Euroopan unionin jäsenvaltioiden operatiivisesta ulkorajayhteistyöstä huolehtiva virasto (Frontex)</AA_NAME>
+<AA_NAME LG="FR">Frontex</AA_NAME>
+<AA_NAME LG="EL">Frontex</AA_NAME>
+<AA_NAME LG="IT">Frontex</AA_NAME>
+<AA_NAME LG="NL">Frontex</AA_NAME>
+<AA_NAME LG="PT">Frontex</AA_NAME>
+<AA_NAME LG="SV">Frontex</AA_NAME>
+<AA_NAME LG="CS">Frontex</AA_NAME>
+<AA_NAME LG="ET">Frontex</AA_NAME>
+<AA_NAME LG="HU">Frontex</AA_NAME>
+<AA_NAME LG="LT">Frontex</AA_NAME>
+<AA_NAME LG="LV">Frontex</AA_NAME>
+<AA_NAME LG="MT">Frontex</AA_NAME>
+<AA_NAME LG="PL">Frontex</AA_NAME>
+<AA_NAME LG="SK">Frontex</AA_NAME>
+<AA_NAME LG="SL">Frontex</AA_NAME>
+<AA_NAME LG="GA">Frontex</AA_NAME>
+<AA_NAME LG="BG">Frontex</AA_NAME>
+<AA_NAME LG="RO">Frontex</AA_NAME>
+<AA_NAME LG="HR">Frontex</AA_NAME>
+</ML_AA_NAMES>
+</TRANSLATION_SECTION>
+<FORM_SECTION>
+<F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="DA">
+<CONTRACTING_BODY>
+<ADDRESS_CONTRACTING_BODY>
+<OFFICIALNAME>Frontex</OFFICIALNAME>
+<ADDRESS>Plac Europejski 6</ADDRESS>
+<TOWN>Warsaw</TOWN>
+<POSTAL_CODE>00-844</POSTAL_CODE>
+<COUNTRY VALUE="PL"/>
+<PHONE>+48 222059500</PHONE>
+<E_MAIL>procurement@frontex.europa.eu</E_MAIL>
+<FAX>+48 222059501</FAX>
+<NUTS CODE="PL127"/>
+<URL_GENERAL>www.frontex.europa.eu</URL_GENERAL>
+</ADDRESS_CONTRACTING_BODY>
+<CA_TYPE VALUE="EU_INSTITUTION"/>
+<CA_ACTIVITY_OTHER>Forvaltning af det operative samarbejde ved EU-medlemsstaternes ydre grænser.</CA_ACTIVITY_OTHER>
+</CONTRACTING_BODY>
+<OBJECT_CONTRACT>
+<TITLE>
+<P>Den digitale arbejdsplads MyFrontex (intranet baseret på kommerciel standardsoftware).</P>
+</TITLE>
+<REFERENCE_NUMBER>Frontex/37/2016/JL.</REFERENCE_NUMBER>
+<CPV_MAIN>
+<CPV_CODE CODE="48000000"/>
+</CPV_MAIN>
+<TYPE_CONTRACT CTYPE="SERVICES"/>
+<SHORT_DESCR>
+<P>Frontex søger en integreret løsning, der kan fungere som en digital arbejdsplads til håndtering af alle sædvanlige opgaver for Frontex' personale, uanset om de arbejder i hovedkontoret eller på afstand.</P>
+</SHORT_DESCR>
+<VAL_TOTAL CURRENCY="EUR">1276694.00</VAL_TOTAL>
+<NO_LOT_DIVISION/>
+<OBJECT_DESCR ITEM="1">
+<NUTS CODE="PL127"/>
+<MAIN_SITE>
+<P>Frontex-hovedkontoret, Warszawa, Polen.</P>
+</MAIN_SITE>
+<SHORT_DESCR>
+<P>Frontex søger en integreret løsning, der kan fungere som en digital arbejdsplads til håndtering af alle sædvanlige opgaver for Frontex' personale, uanset om de arbejder i hovedkontoret eller på afstand.</P>
+</SHORT_DESCR>
+<AC_QUALITY>
+<AC_CRITERION>Teknisk kvalitet</AC_CRITERION>
+<AC_WEIGHTING>0.60</AC_WEIGHTING>
+</AC_QUALITY>
+<AC_PRICE>
+<AC_WEIGHTING>0.40</AC_WEIGHTING>
+</AC_PRICE>
+<NO_OPTIONS/>
+<NO_EU_PROGR_RELATED/>
+</OBJECT_DESCR>
+</OBJECT_CONTRACT>
+<PROCEDURE>
+<PT_OPEN/>
+<FRAMEWORK/>
+<NO_CONTRACT_COVERED_GPA/>
+<NOTICE_NUMBER_OJ>2016/S 049-080761</NOTICE_NUMBER_OJ>
+</PROCEDURE>
+<AWARD_CONTRACT ITEM="1">
+<CONTRACT_NO>Frontex/OP/37/2016/JL</CONTRACT_NO>
+<TITLE>
+<P>Den digitale arbejdsplads MyFrontex (intranet baseret på kommerciel standardsoftware)</P>
+</TITLE>
+<AWARDED_CONTRACT>
+<DATE_CONCLUSION_CONTRACT>2016-09-02</DATE_CONCLUSION_CONTRACT>
+<NB_TENDERS_RECEIVED>4</NB_TENDERS_RECEIVED>
+<NO_AWARDED_TO_GROUP/>
+<CONTRACTOR>
+<ADDRESS_CONTRACTOR>
+<OFFICIALNAME>Netcompany IT and Business Consulting A/S</OFFICIALNAME>
+<ADDRESS>Gronningen 17</ADDRESS>
+<TOWN>Copenhagen</TOWN>
+<POSTAL_CODE>1270</POSTAL_CODE>
+<COUNTRY VALUE="DK"/>
+<NUTS CODE="DK011"/>
+</ADDRESS_CONTRACTOR>
+<NO_SME/>
+</CONTRACTOR>
+<VAL_ESTIMATED_TOTAL CURRENCY="EUR">850000.00</VAL_ESTIMATED_TOTAL>
+<VAL_TOTAL CURRENCY="EUR">1276694.00</VAL_TOTAL>
+<LIKELY_SUBCONTRACTED/>
+</AWARDED_CONTRACT>
+</AWARD_CONTRACT>
+<COMPLEMENTARY_INFO>
+<ADDRESS_REVIEW_BODY>
+<OFFICIALNAME>Retten</OFFICIALNAME>
+<ADDRESS>rue du Fort Niedergrünewald </ADDRESS>
+<TOWN>Luxembourg</TOWN>
+<POSTAL_CODE>2925</POSTAL_CODE>
+<COUNTRY VALUE="LU"/>
+<PHONE>+352 4303-1</PHONE>
+<E_MAIL>cfi.registry@curia.europa.eu</E_MAIL>
+<FAX>+352 4303-2100</FAX>
+<URL>http://curia.europa.eu</URL>
+</ADDRESS_REVIEW_BODY>
+<REVIEW_PROCEDURE>
+<P>senest 2 måneder efter underrettelsen af klageren eller, i tilfælde af udeblivelse deraf, efter den dag, sagen er taget til efterretning.</P>
+</REVIEW_PROCEDURE>
+<DATE_DISPATCH_NOTICE>2016-09-06</DATE_DISPATCH_NOTICE>
+</COMPLEMENTARY_INFO>
+</F03_2014>
+<F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="DE">
+<CONTRACTING_BODY>
+<ADDRESS_CONTRACTING_BODY>
+<OFFICIALNAME>Frontex</OFFICIALNAME>
+<ADDRESS>Plac Europejski 6</ADDRESS>
+<TOWN>Warsaw</TOWN>
+<POSTAL_CODE>00-844</POSTAL_CODE>
+<COUNTRY VALUE="PL"/>
+<PHONE>+48 222059500</PHONE>
+<E_MAIL>procurement@frontex.europa.eu</E_MAIL>
+<FAX>+48 222059501</FAX>
+<NUTS CODE="PL127"/>
+<URL_GENERAL>www.frontex.europa.eu</URL_GENERAL>
+</ADDRESS_CONTRACTING_BODY>
+<CA_TYPE VALUE="EU_INSTITUTION"/>
+<CA_ACTIVITY_OTHER>Verwaltung der operativen Zusammenarbeit an den Außengrenzen der Mitgliedstaaten der EU.</CA_ACTIVITY_OTHER>
+</CONTRACTING_BODY>
+<OBJECT_CONTRACT>
+<TITLE>
+<P>Digitaler Arbeitsplatz MyFrontex (auf handelsüblicher Standardsoftware basierendes Intranet).</P>
+</TITLE>
+<REFERENCE_NUMBER>Frontex/37/2016/JL.</REFERENCE_NUMBER>
+<CPV_MAIN>
+<CPV_CODE CODE="48000000"/>
+</CPV_MAIN>
+<TYPE_CONTRACT CTYPE="SERVICES"/>
+<SHORT_DESCR>
+<P>Frontex benötigt eine integrierte Lösung für einen digitalen Arbeitsplatz, über den die Mitarbeiter von Frontex alle üblichen Aufgaben abwickeln können, ganz gleich, ob sie am Hauptsitz oder per Remote-Verbindung arbeiten.</P>
+</SHORT_DESCR>
+<VAL_TOTAL CURRENCY="EUR">1276694.00</VAL_TOTAL>
+<NO_LOT_DIVISION/>
+<OBJECT_DESCR ITEM="1">
+<NUTS CODE="PL127"/>
+<MAIN_SITE>
+<P>Hauptsitz von Frontex, Warschau, Polen.</P>
+</MAIN_SITE>
+<SHORT_DESCR>
+<P>Frontex benötigt eine integrierte Lösung für einen digitalen Arbeitsplatz, über den die Mitarbeiter von Frontex alle üblichen Aufgaben abwickeln können, ganz gleich, ob sie am Hauptsitz oder per Remote-Verbindung arbeiten.</P>
+</SHORT_DESCR>
+<AC_QUALITY>
+<AC_CRITERION>technische Eignung</AC_CRITERION>
+<AC_WEIGHTING>0.60</AC_WEIGHTING>
+</AC_QUALITY>
+<AC_PRICE>
+<AC_WEIGHTING>0.40</AC_WEIGHTING>
+</AC_PRICE>
+<NO_OPTIONS/>
+<NO_EU_PROGR_RELATED/>
+</OBJECT_DESCR>
+</OBJECT_CONTRACT>
+<PROCEDURE>
+<PT_OPEN/>
+<FRAMEWORK/>
+<NO_CONTRACT_COVERED_GPA/>
+<NOTICE_NUMBER_OJ>2016/S 049-080761</NOTICE_NUMBER_OJ>
+</PROCEDURE>
+<AWARD_CONTRACT ITEM="1">
+<CONTRACT_NO>Frontex/OP/37/2016/JL</CONTRACT_NO>
+<TITLE>
+<P>Digitaler Arbeitsplatz MyFrontex (auf handelsüblicher Standardsoftware basierendes Intranet)</P>
+</TITLE>
+<AWARDED_CONTRACT>
+<DATE_CONCLUSION_CONTRACT>2016-09-02</DATE_CONCLUSION_CONTRACT>
+<NB_TENDERS_RECEIVED>4</NB_TENDERS_RECEIVED>
+<NO_AWARDED_TO_GROUP/>
+<CONTRACTOR>
+<ADDRESS_CONTRACTOR>
+<OFFICIALNAME>Netcompany IT and Business Consulting A/S</OFFICIALNAME>
+<ADDRESS>Gronningen 17</ADDRESS>
+<TOWN>Copenhagen</TOWN>
+<POSTAL_CODE>1270</POSTAL_CODE>
+<COUNTRY VALUE="DK"/>
+<NUTS CODE="DK011"/>
+</ADDRESS_CONTRACTOR>
+<NO_SME/>
+</CONTRACTOR>
+<VAL_ESTIMATED_TOTAL CURRENCY="EUR">850000.00</VAL_ESTIMATED_TOTAL>
+<VAL_TOTAL CURRENCY="EUR">1276694.00</VAL_TOTAL>
+<LIKELY_SUBCONTRACTED/>
+</AWARDED_CONTRACT>
+</AWARD_CONTRACT>
+<COMPLEMENTARY_INFO>
+<ADDRESS_REVIEW_BODY>
+<OFFICIALNAME>Gericht der Europäischen Union</OFFICIALNAME>
+<ADDRESS>rue du Fort Niedergrünewald </ADDRESS>
+<TOWN>Luxembourg</TOWN>
+<POSTAL_CODE>2925</POSTAL_CODE>
+<COUNTRY VALUE="LU"/>
+<PHONE>+352 4303-1</PHONE>
+<E_MAIL>cfi.registry@curia.europa.eu</E_MAIL>
+<FAX>+352 4303-2100</FAX>
+<URL>http://curia.europa.eu</URL>
+</ADDRESS_REVIEW_BODY>
+<REVIEW_PROCEDURE>
+<P>binnen 2 Monaten ab Mitteilung an den Kläger oder, in Ermangelung dessen, ab dem Zeitpunkt der Kenntnisnahme.</P>
+</REVIEW_PROCEDURE>
+<DATE_DISPATCH_NOTICE>2016-09-06</DATE_DISPATCH_NOTICE>
+</COMPLEMENTARY_INFO>
+</F03_2014>
+<F03_2014 CATEGORY="ORIGINAL" FORM="F03" LG="EN">
+<CONTRACTING_BODY>
+<ADDRESS_CONTRACTING_BODY>
+<OFFICIALNAME>Frontex</OFFICIALNAME>
+<ADDRESS>Plac Europejski 6</ADDRESS>
+<TOWN>Warsaw</TOWN>
+<POSTAL_CODE>00-844</POSTAL_CODE>
+<COUNTRY VALUE="PL"/>
+<PHONE>+48 222059500</PHONE>
+<E_MAIL>procurement@frontex.europa.eu</E_MAIL>
+<FAX>+48 222059501</FAX>
+<NUTS CODE="PL127"/>
+<URL_GENERAL>www.frontex.europa.eu</URL_GENERAL>
+</ADDRESS_CONTRACTING_BODY>
+<CA_TYPE VALUE="EU_INSTITUTION"/>
+<CA_ACTIVITY_OTHER>Management of operational cooperation at the external borders of the Member States of the EU.</CA_ACTIVITY_OTHER>
+</CONTRACTING_BODY>
+<OBJECT_CONTRACT>
+<TITLE>
+<P>MyFrontex digital workplace (COTS-based intranet).</P>
+</TITLE>
+<REFERENCE_NUMBER>Frontex/37/2016/JL.</REFERENCE_NUMBER>
+<CPV_MAIN>
+<CPV_CODE CODE="48000000"/>
+</CPV_MAIN>
+<TYPE_CONTRACT CTYPE="SERVICES"/>
+<SHORT_DESCR>
+<P>Frontex seeks an integrated solution that can take the role of a digital workplace addressing all common tasks of Frontex staff regardless if they work in the HQ or remotely.</P>
+</SHORT_DESCR>
+<VAL_TOTAL CURRENCY="EUR">1276694.00</VAL_TOTAL>
+<NO_LOT_DIVISION/>
+<OBJECT_DESCR ITEM="1">
+<NUTS CODE="PL127"/>
+<MAIN_SITE>
+<P>Frontex HQ, Warsaw, Poland.</P>
+</MAIN_SITE>
+<SHORT_DESCR>
+<P>Frontex seeks an integrated solution that can take the role of a digital workplace addressing all common tasks of Frontex staff regardless if they work in the HQ or remotely.</P>
+</SHORT_DESCR>
+<AC_QUALITY>
+<AC_CRITERION>Technical quality</AC_CRITERION>
+<AC_WEIGHTING>0.60</AC_WEIGHTING>
+</AC_QUALITY>
+<AC_PRICE>
+<AC_WEIGHTING>0.40</AC_WEIGHTING>
+</AC_PRICE>
+<NO_OPTIONS/>
+<NO_EU_PROGR_RELATED/>
+</OBJECT_DESCR>
+</OBJECT_CONTRACT>
+<PROCEDURE>
+<PT_OPEN/>
+<FRAMEWORK/>
+<NO_CONTRACT_COVERED_GPA/>
+<NOTICE_NUMBER_OJ>2016/S 049-080761</NOTICE_NUMBER_OJ>
+</PROCEDURE>
+<AWARD_CONTRACT ITEM="1">
+<CONTRACT_NO>Frontex/OP/37/2016/JL</CONTRACT_NO>
+<TITLE>
+<P>MyFrontex digital workplace (COTS-based intranet)</P>
+</TITLE>
+<AWARDED_CONTRACT>
+<DATE_CONCLUSION_CONTRACT>2016-09-02</DATE_CONCLUSION_CONTRACT>
+<NB_TENDERS_RECEIVED>4</NB_TENDERS_RECEIVED>
+<NO_AWARDED_TO_GROUP/>
+<CONTRACTOR>
+<ADDRESS_CONTRACTOR>
+<OFFICIALNAME>Netcompany IT and Business Consulting A/S</OFFICIALNAME>
+<ADDRESS>Gronningen 17</ADDRESS>
+<TOWN>Copenhagen</TOWN>
+<POSTAL_CODE>1270</POSTAL_CODE>
+<COUNTRY VALUE="DK"/>
+<NUTS CODE="DK011"/>
+</ADDRESS_CONTRACTOR>
+<NO_SME/>
+</CONTRACTOR>
+<VAL_ESTIMATED_TOTAL CURRENCY="EUR">850000.00</VAL_ESTIMATED_TOTAL>
+<VAL_TOTAL CURRENCY="EUR">1276694.00</VAL_TOTAL>
+<LIKELY_SUBCONTRACTED/>
+</AWARDED_CONTRACT>
+</AWARD_CONTRACT>
+<COMPLEMENTARY_INFO>
+<ADDRESS_REVIEW_BODY>
+<OFFICIALNAME>General Court</OFFICIALNAME>
+<ADDRESS>rue du Fort Niedergrünewald </ADDRESS>
+<TOWN>Luxembourg</TOWN>
+<POSTAL_CODE>2925</POSTAL_CODE>
+<COUNTRY VALUE="LU"/>
+<PHONE>+352 4303-1</PHONE>
+<E_MAIL>cfi.registry@curia.europa.eu</E_MAIL>
+<FAX>+352 4303-2100</FAX>
+<URL>http://curia.europa.eu</URL>
+</ADDRESS_REVIEW_BODY>
+<REVIEW_PROCEDURE>
+<P>Within 2 months of the notification to the plaintiff, or, in absence thereof, of the day on which it came to the knowledge.</P>
+</REVIEW_PROCEDURE>
+<DATE_DISPATCH_NOTICE>2016-09-06</DATE_DISPATCH_NOTICE>
+</COMPLEMENTARY_INFO>
+</F03_2014>
+<F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="ES">
+<CONTRACTING_BODY>
+<ADDRESS_CONTRACTING_BODY>
+<OFFICIALNAME>Frontex</OFFICIALNAME>
+<ADDRESS>Plac Europejski 6</ADDRESS>
+<TOWN>Warsaw</TOWN>
+<POSTAL_CODE>00-844</POSTAL_CODE>
+<COUNTRY VALUE="PL"/>
+<PHONE>+48 222059500</PHONE>
+<E_MAIL>procurement@frontex.europa.eu</E_MAIL>
+<FAX>+48 222059501</FAX>
+<NUTS CODE="PL127"/>
+<URL_GENERAL>www.frontex.europa.eu</URL_GENERAL>
+</ADDRESS_CONTRACTING_BODY>
+<CA_TYPE VALUE="EU_INSTITUTION"/>
+<CA_ACTIVITY_OTHER>gestión de la cooperación operativa en las fronteras exteriores de los Estados miembros de la Unión Europea.</CA_ACTIVITY_OTHER>
+</CONTRACTING_BODY>
+<OBJECT_CONTRACT>
+<TITLE>
+<P>Entorno laboral digital MyFrontex (intranet basada en programas que estén disponibles en el mercado).</P>
+</TITLE>
+<REFERENCE_NUMBER>Frontex/37/2016/JL.</REFERENCE_NUMBER>
+<CPV_MAIN>
+<CPV_CODE CODE="48000000"/>
+</CPV_MAIN>
+<TYPE_CONTRACT CTYPE="SERVICES"/>
+<SHORT_DESCR>
+<P>Frontex desea adquirir una solución integrada que pueda funcionar como un entorno laboral digital en el que se puedan realizar todas las tareas habituales que lleva a cabo el personal de Frontex, independientemente de si trabajan en la sede de Frontex o telemáticamente.</P>
+</SHORT_DESCR>
+<VAL_TOTAL CURRENCY="EUR">1276694.00</VAL_TOTAL>
+<NO_LOT_DIVISION/>
+<OBJECT_DESCR ITEM="1">
+<NUTS CODE="PL127"/>
+<MAIN_SITE>
+<P>La sede de Frontex, Varsovia, Polonia.</P>
+</MAIN_SITE>
+<SHORT_DESCR>
+<P>Frontex desea adquirir una solución integrada que pueda funcionar como un entorno laboral digital en el que se puedan realizar todas las tareas habituales que lleva a cabo el personal de Frontex, independientemente de si trabajan en la sede de Frontex o telemáticamente.</P>
+</SHORT_DESCR>
+<AC_QUALITY>
+<AC_CRITERION>calidad técnica</AC_CRITERION>
+<AC_WEIGHTING>0.60</AC_WEIGHTING>
+</AC_QUALITY>
+<AC_PRICE>
+<AC_WEIGHTING>0.40</AC_WEIGHTING>
+</AC_PRICE>
+<NO_OPTIONS/>
+<NO_EU_PROGR_RELATED/>
+</OBJECT_DESCR>
+</OBJECT_CONTRACT>
+<PROCEDURE>
+<PT_OPEN/>
+<FRAMEWORK/>
+<NO_CONTRACT_COVERED_GPA/>
+<NOTICE_NUMBER_OJ>2016/S 049-080761</NOTICE_NUMBER_OJ>
+</PROCEDURE>
+<AWARD_CONTRACT ITEM="1">
+<CONTRACT_NO>Frontex/OP/37/2016/JL</CONTRACT_NO>
+<TITLE>
+<P>Entorno laboral digital MyFrontex (intranet basada en programas que estén disponibles en el mercado)</P>
+</TITLE>
+<AWARDED_CONTRACT>
+<DATE_CONCLUSION_CONTRACT>2016-09-02</DATE_CONCLUSION_CONTRACT>
+<NB_TENDERS_RECEIVED>4</NB_TENDERS_RECEIVED>
+<NO_AWARDED_TO_GROUP/>
+<CONTRACTOR>
+<ADDRESS_CONTRACTOR>
+<OFFICIALNAME>Netcompany IT and Business Consulting A/S</OFFICIALNAME>
+<ADDRESS>Gronningen 17</ADDRESS>
+<TOWN>Copenhagen</TOWN>
+<POSTAL_CODE>1270</POSTAL_CODE>
+<COUNTRY VALUE="DK"/>
+<NUTS CODE="DK011"/>
+</ADDRESS_CONTRACTOR>
+<NO_SME/>
+</CONTRACTOR>
+<VAL_ESTIMATED_TOTAL CURRENCY="EUR">850000.00</VAL_ESTIMATED_TOTAL>
+<VAL_TOTAL CURRENCY="EUR">1276694.00</VAL_TOTAL>
+<LIKELY_SUBCONTRACTED/>
+</AWARDED_CONTRACT>
+</AWARD_CONTRACT>
+<COMPLEMENTARY_INFO>
+<ADDRESS_REVIEW_BODY>
+<OFFICIALNAME>Tribunal General</OFFICIALNAME>
+<ADDRESS>rue du Fort Niedergrünewald </ADDRESS>
+<TOWN>Luxembourg</TOWN>
+<POSTAL_CODE>2925</POSTAL_CODE>
+<COUNTRY VALUE="LU"/>
+<PHONE>+352 4303-1</PHONE>
+<E_MAIL>cfi.registry@curia.europa.eu</E_MAIL>
+<FAX>+352 4303-2100</FAX>
+<URL>http://curia.europa.eu</URL>
+</ADDRESS_REVIEW_BODY>
+<REVIEW_PROCEDURE>
+<P>En un plazo de 2 meses a partir de la notificación al recurrente o, en su defecto, del día en que este haya tenido conocimiento del acto en cuestión.</P>
+</REVIEW_PROCEDURE>
+<DATE_DISPATCH_NOTICE>2016-09-06</DATE_DISPATCH_NOTICE>
+</COMPLEMENTARY_INFO>
+</F03_2014>
+<F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="FI">
+<CONTRACTING_BODY>
+<ADDRESS_CONTRACTING_BODY>
+<OFFICIALNAME>Euroopan unionin jäsenvaltioiden operatiivisesta ulkorajayhteistyöstä huolehtiva virasto (Frontex)</OFFICIALNAME>
+<ADDRESS>Plac Europejski 6</ADDRESS>
+<TOWN>Warsaw</TOWN>
+<POSTAL_CODE>00-844</POSTAL_CODE>
+<COUNTRY VALUE="PL"/>
+<PHONE>+48 222059500</PHONE>
+<E_MAIL>procurement@frontex.europa.eu</E_MAIL>
+<FAX>+48 222059501</FAX>
+<NUTS CODE="PL127"/>
+<URL_GENERAL>www.frontex.europa.eu</URL_GENERAL>
+</ADDRESS_CONTRACTING_BODY>
+<CA_TYPE VALUE="EU_INSTITUTION"/>
+<CA_ACTIVITY_OTHER>operatiivisen yhteistyön hallinnointi EU:n jäsenvaltioiden ulkorajoilla.</CA_ACTIVITY_OTHER>
+</CONTRACTING_BODY>
+<OBJECT_CONTRACT>
+<TITLE>
+<P>Digitaalista työympäristöä koskeva MyFrontex-ratkaisu (kaupalliseen valmisohjelmistoon (COTS) perustuva intranet)</P>
+</TITLE>
+<REFERENCE_NUMBER>Frontex/37/2016/JL.</REFERENCE_NUMBER>
+<CPV_MAIN>
+<CPV_CODE CODE="48000000"/>
+</CPV_MAIN>
+<TYPE_CONTRACT CTYPE="SERVICES"/>
+<SHORT_DESCR>
+<P>Frontex etsii integroitua ratkaisua, joka voi toimia digitaalisena työympäristönä ja josta käsin voidaan käsitellä kaikkia Frontexin henkilöstön tavanomaisia tehtäviä riippumatta siitä, työskentelevätkö he päätoimipaikassa vai etänä.</P>
+</SHORT_DESCR>
+<VAL_TOTAL CURRENCY="EUR">1276694.00</VAL_TOTAL>
+<NO_LOT_DIVISION/>
+<OBJECT_DESCR ITEM="1">
+<NUTS CODE="PL127"/>
+<MAIN_SITE>
+<P>Frontexin päätoimipaikka, Varsova, Puola.</P>
+</MAIN_SITE>
+<SHORT_DESCR>
+<P>Frontex etsii integroitua ratkaisua, joka voi toimia digitaalisena työympäristönä ja josta käsin voidaan käsitellä kaikkia Frontexin henkilöstön tavanomaisia tehtäviä riippumatta siitä, työskentelevätkö he päätoimipaikassa vai etänä.</P>
+</SHORT_DESCR>
+<AC_QUALITY>
+<AC_CRITERION>tekninen laatu</AC_CRITERION>
+<AC_WEIGHTING>0.60</AC_WEIGHTING>
+</AC_QUALITY>
+<AC_PRICE>
+<AC_WEIGHTING>0.40</AC_WEIGHTING>
+</AC_PRICE>
+<NO_OPTIONS/>
+<NO_EU_PROGR_RELATED/>
+</OBJECT_DESCR>
+</OBJECT_CONTRACT>
+<PROCEDURE>
+<PT_OPEN/>
+<FRAMEWORK/>
+<NO_CONTRACT_COVERED_GPA/>
+<NOTICE_NUMBER_OJ>2016/S 049-080761</NOTICE_NUMBER_OJ>
+</PROCEDURE>
+<AWARD_CONTRACT ITEM="1">
+<CONTRACT_NO>Frontex/OP/37/2016/JL</CONTRACT_NO>
+<TITLE>
+<P>Digitaalista työympäristöä koskeva MyFrontex-ratkaisu (kaupalliseen valmisohjelmistoon (COTS) perustuva intranet)</P>
+</TITLE>
+<AWARDED_CONTRACT>
+<DATE_CONCLUSION_CONTRACT>2016-09-02</DATE_CONCLUSION_CONTRACT>
+<NB_TENDERS_RECEIVED>4</NB_TENDERS_RECEIVED>
+<NO_AWARDED_TO_GROUP/>
+<CONTRACTOR>
+<ADDRESS_CONTRACTOR>
+<OFFICIALNAME>Netcompany IT and Business Consulting A/S</OFFICIALNAME>
+<ADDRESS>Gronningen 17</ADDRESS>
+<TOWN>Copenhagen</TOWN>
+<POSTAL_CODE>1270</POSTAL_CODE>
+<COUNTRY VALUE="DK"/>
+<NUTS CODE="DK011"/>
+</ADDRESS_CONTRACTOR>
+<NO_SME/>
+</CONTRACTOR>
+<VAL_ESTIMATED_TOTAL CURRENCY="EUR">850000.00</VAL_ESTIMATED_TOTAL>
+<VAL_TOTAL CURRENCY="EUR">1276694.00</VAL_TOTAL>
+<LIKELY_SUBCONTRACTED/>
+</AWARDED_CONTRACT>
+</AWARD_CONTRACT>
+<COMPLEMENTARY_INFO>
+<ADDRESS_REVIEW_BODY>
+<OFFICIALNAME>Unionin yleinen tuomioistuin</OFFICIALNAME>
+<ADDRESS>rue du Fort Niedergrünewald </ADDRESS>
+<TOWN>Luxembourg</TOWN>
+<POSTAL_CODE>2925</POSTAL_CODE>
+<COUNTRY VALUE="LU"/>
+<PHONE>+352 4303-1</PHONE>
+<E_MAIL>cfi.registry@curia.europa.eu</E_MAIL>
+<FAX>+352 4303-2100</FAX>
+<URL>http://curia.europa.eu</URL>
+</ADDRESS_REVIEW_BODY>
+<REVIEW_PROCEDURE>
+<P>muutoksenhakupyynnöt on jätettävä 2 kuukauden kuluessa siitä, kun asianomistaja on saanut ilmoituksen asiasta tai, mikäli ilmoitusta ei ole tehty, 2 kuukauden kuluessa siitä päivästä, kun asia on saatu tiedoksi.</P>
+</REVIEW_PROCEDURE>
+<DATE_DISPATCH_NOTICE>2016-09-06</DATE_DISPATCH_NOTICE>
+</COMPLEMENTARY_INFO>
+</F03_2014>
+<F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="FR">
+<CONTRACTING_BODY>
+<ADDRESS_CONTRACTING_BODY>
+<OFFICIALNAME>Frontex</OFFICIALNAME>
+<ADDRESS>Plac Europejski 6</ADDRESS>
+<TOWN>Warsaw</TOWN>
+<POSTAL_CODE>00-844</POSTAL_CODE>
+<COUNTRY VALUE="PL"/>
+<PHONE>+48 222059500</PHONE>
+<E_MAIL>procurement@frontex.europa.eu</E_MAIL>
+<FAX>+48 222059501</FAX>
+<NUTS CODE="PL127"/>
+<URL_GENERAL>www.frontex.europa.eu</URL_GENERAL>
+</ADDRESS_CONTRACTING_BODY>
+<CA_TYPE VALUE="EU_INSTITUTION"/>
+<CA_ACTIVITY_OTHER>gestion de la coopération opérationnelle aux frontières extérieures des États membres de l'UE.</CA_ACTIVITY_OTHER>
+</CONTRACTING_BODY>
+<OBJECT_CONTRACT>
+<TITLE>
+<P>Espace de travail numérique MyFrontex (intranet reposant sur un logiciel commercial).</P>
+</TITLE>
+<REFERENCE_NUMBER>Frontex/37/2016/JL.</REFERENCE_NUMBER>
+<CPV_MAIN>
+<CPV_CODE CODE="48000000"/>
+</CPV_MAIN>
+<TYPE_CONTRACT CTYPE="SERVICES"/>
+<SHORT_DESCR>
+<P>Frontex recherche une solution intégrée qui puisse servir d'espace de travail numérique prenant en charge l'ensemble des tâches communes des membres du personnel de Frontex, qu'ils travaillent au siège ou à distance.</P>
+</SHORT_DESCR>
+<VAL_TOTAL CURRENCY="EUR">1276694.00</VAL_TOTAL>
+<NO_LOT_DIVISION/>
+<OBJECT_DESCR ITEM="1">
+<NUTS CODE="PL127"/>
+<MAIN_SITE>
+<P>siège de Frontex, Varsovie, Pologne.</P>
+</MAIN_SITE>
+<SHORT_DESCR>
+<P>Frontex recherche une solution intégrée qui puisse servir d'espace de travail numérique prenant en charge l'ensemble des tâches communes des membres du personnel de Frontex, qu'ils travaillent au siège ou à distance.</P>
+</SHORT_DESCR>
+<AC_QUALITY>
+<AC_CRITERION>qualité technique</AC_CRITERION>
+<AC_WEIGHTING>0.60</AC_WEIGHTING>
+</AC_QUALITY>
+<AC_PRICE>
+<AC_WEIGHTING>0.40</AC_WEIGHTING>
+</AC_PRICE>
+<NO_OPTIONS/>
+<NO_EU_PROGR_RELATED/>
+</OBJECT_DESCR>
+</OBJECT_CONTRACT>
+<PROCEDURE>
+<PT_OPEN/>
+<FRAMEWORK/>
+<NO_CONTRACT_COVERED_GPA/>
+<NOTICE_NUMBER_OJ>2016/S 049-080761</NOTICE_NUMBER_OJ>
+</PROCEDURE>
+<AWARD_CONTRACT ITEM="1">
+<CONTRACT_NO>Frontex/OP/37/2016/JL</CONTRACT_NO>
+<TITLE>
+<P>Espace de travail numérique MyFrontex (intranet reposant sur un logiciel commercial)</P>
+</TITLE>
+<AWARDED_CONTRACT>
+<DATE_CONCLUSION_CONTRACT>2016-09-02</DATE_CONCLUSION_CONTRACT>
+<NB_TENDERS_RECEIVED>4</NB_TENDERS_RECEIVED>
+<NO_AWARDED_TO_GROUP/>
+<CONTRACTOR>
+<ADDRESS_CONTRACTOR>
+<OFFICIALNAME>Netcompany IT and Business Consulting A/S</OFFICIALNAME>
+<ADDRESS>Gronningen 17</ADDRESS>
+<TOWN>Copenhagen</TOWN>
+<POSTAL_CODE>1270</POSTAL_CODE>
+<COUNTRY VALUE="DK"/>
+<NUTS CODE="DK011"/>
+</ADDRESS_CONTRACTOR>
+<NO_SME/>
+</CONTRACTOR>
+<VAL_ESTIMATED_TOTAL CURRENCY="EUR">850000.00</VAL_ESTIMATED_TOTAL>
+<VAL_TOTAL CURRENCY="EUR">1276694.00</VAL_TOTAL>
+<LIKELY_SUBCONTRACTED/>
+</AWARDED_CONTRACT>
+</AWARD_CONTRACT>
+<COMPLEMENTARY_INFO>
+<ADDRESS_REVIEW_BODY>
+<OFFICIALNAME>Tribunal</OFFICIALNAME>
+<ADDRESS>rue du Fort Niedergrünewald </ADDRESS>
+<TOWN>Luxembourg</TOWN>
+<POSTAL_CODE>2925</POSTAL_CODE>
+<COUNTRY VALUE="LU"/>
+<PHONE>+352 4303-1</PHONE>
+<E_MAIL>cfi.registry@curia.europa.eu</E_MAIL>
+<FAX>+352 4303-2100</FAX>
+<URL>http://curia.europa.eu</URL>
+</ADDRESS_REVIEW_BODY>
+<REVIEW_PROCEDURE>
+<P>dans les 2 mois à compter de la notification au requérant ou, à défaut, du jour où celui-ci en a eu connaissance.</P>
+</REVIEW_PROCEDURE>
+<DATE_DISPATCH_NOTICE>2016-09-06</DATE_DISPATCH_NOTICE>
+</COMPLEMENTARY_INFO>
+</F03_2014>
+<F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="EL">
+<CONTRACTING_BODY>
+<ADDRESS_CONTRACTING_BODY>
+<OFFICIALNAME>Frontex</OFFICIALNAME>
+<ADDRESS>Plac Europejski 6</ADDRESS>
+<TOWN>Warsaw</TOWN>
+<POSTAL_CODE>00-844</POSTAL_CODE>
+<COUNTRY VALUE="PL"/>
+<PHONE>+48 222059500</PHONE>
+<E_MAIL>procurement@frontex.europa.eu</E_MAIL>
+<FAX>+48 222059501</FAX>
+<NUTS CODE="PL127"/>
+<URL_GENERAL>www.frontex.europa.eu</URL_GENERAL>
+</ADDRESS_CONTRACTING_BODY>
+<CA_TYPE VALUE="EU_INSTITUTION"/>
+<CA_ACTIVITY_OTHER>Διαχείριση επιχειρησιακής συνεργασίας στα εξωτερικά σύνορα των κρατών μελών της ΕΕ.</CA_ACTIVITY_OTHER>
+</CONTRACTING_BODY>
+<OBJECT_CONTRACT>
+<TITLE>
+<P>Ψηφιακός χώρος εργασίας «MyFrontex» (ενδοδίκτυο βάσει COTS).</P>
+</TITLE>
+<REFERENCE_NUMBER>Frontex/37/2016/JL.</REFERENCE_NUMBER>
+<CPV_MAIN>
+<CPV_CODE CODE="48000000"/>
+</CPV_MAIN>
+<TYPE_CONTRACT CTYPE="SERVICES"/>
+<SHORT_DESCR>
+<P>Ο Frontex αναζητά μια ολοκληρωμένη λύση η οποία θα μπορέσει να αναλάβει τον ρόλο ψηφιακού χώρου εργασίας για την υλοποίηση όλων των κοινών καθηκόντων του προσωπικού του Frontex ανεξαρτήτως του εάν εργάζονται στις εγκαταστάσεις του Frontex ή εξ αποστάσεως.</P>
+</SHORT_DESCR>
+<VAL_TOTAL CURRENCY="EUR">1276694.00</VAL_TOTAL>
+<NO_LOT_DIVISION/>
+<OBJECT_DESCR ITEM="1">
+<NUTS CODE="PL127"/>
+<MAIN_SITE>
+<P>Κεντρικά γραφεία του Frontex, Βαρσοβία, Πολωνία.</P>
+</MAIN_SITE>
+<SHORT_DESCR>
+<P>Ο Frontex αναζητά μια ολοκληρωμένη λύση η οποία θα μπορέσει να αναλάβει τον ρόλο ψηφιακού χώρου εργασίας για την υλοποίηση όλων των κοινών καθηκόντων του προσωπικού του Frontex ανεξαρτήτως του εάν εργάζονται στις εγκαταστάσεις του Frontex ή εξ αποστάσεως.</P>
+</SHORT_DESCR>
+<AC_QUALITY>
+<AC_CRITERION>Τεχνική ποιότητα</AC_CRITERION>
+<AC_WEIGHTING>0.60</AC_WEIGHTING>
+</AC_QUALITY>
+<AC_PRICE>
+<AC_WEIGHTING>0.40</AC_WEIGHTING>
+</AC_PRICE>
+<NO_OPTIONS/>
+<NO_EU_PROGR_RELATED/>
+</OBJECT_DESCR>
+</OBJECT_CONTRACT>
+<PROCEDURE>
+<PT_OPEN/>
+<FRAMEWORK/>
+<NO_CONTRACT_COVERED_GPA/>
+<NOTICE_NUMBER_OJ>2016/S 049-080761</NOTICE_NUMBER_OJ>
+</PROCEDURE>
+<AWARD_CONTRACT ITEM="1">
+<CONTRACT_NO>Frontex/OP/37/2016/JL</CONTRACT_NO>
+<TITLE>
+<P>Ψηφιακός χώρος εργασίας «MyFrontex» (ενδοδίκτυο βάσει COTS)</P>
+</TITLE>
+<AWARDED_CONTRACT>
+<DATE_CONCLUSION_CONTRACT>2016-09-02</DATE_CONCLUSION_CONTRACT>
+<NB_TENDERS_RECEIVED>4</NB_TENDERS_RECEIVED>
+<NO_AWARDED_TO_GROUP/>
+<CONTRACTOR>
+<ADDRESS_CONTRACTOR>
+<OFFICIALNAME>Netcompany IT and Business Consulting A/S</OFFICIALNAME>
+<ADDRESS>Gronningen 17</ADDRESS>
+<TOWN>Copenhagen</TOWN>
+<POSTAL_CODE>1270</POSTAL_CODE>
+<COUNTRY VALUE="DK"/>
+<NUTS CODE="DK011"/>
+</ADDRESS_CONTRACTOR>
+<NO_SME/>
+</CONTRACTOR>
+<VAL_ESTIMATED_TOTAL CURRENCY="EUR">850000.00</VAL_ESTIMATED_TOTAL>
+<VAL_TOTAL CURRENCY="EUR">1276694.00</VAL_TOTAL>
+<LIKELY_SUBCONTRACTED/>
+</AWARDED_CONTRACT>
+</AWARD_CONTRACT>
+<COMPLEMENTARY_INFO>
+<ADDRESS_REVIEW_BODY>
+<OFFICIALNAME>Γενικό Δικαστήριο</OFFICIALNAME>
+<ADDRESS>rue du Fort Niedergrünewald </ADDRESS>
+<TOWN>Luxembourg</TOWN>
+<POSTAL_CODE>2925</POSTAL_CODE>
+<COUNTRY VALUE="LU"/>
+<PHONE>+352 4303-1</PHONE>
+<E_MAIL>cfi.registry@curia.europa.eu</E_MAIL>
+<FAX>+352 4303-2100</FAX>
+<URL>http://curia.europa.eu</URL>
+</ADDRESS_REVIEW_BODY>
+<REVIEW_PROCEDURE>
+<P>Εντός 2 μηνών από την κοινοποίηση στον προσφεύγοντα ή, ελλείψει τέτοιας, από την ημέρα που ο ίδιος έλαβε γνώση.</P>
+</REVIEW_PROCEDURE>
+<DATE_DISPATCH_NOTICE>2016-09-06</DATE_DISPATCH_NOTICE>
+</COMPLEMENTARY_INFO>
+</F03_2014>
+<F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="IT">
+<CONTRACTING_BODY>
+<ADDRESS_CONTRACTING_BODY>
+<OFFICIALNAME>Frontex</OFFICIALNAME>
+<ADDRESS>Plac Europejski 6</ADDRESS>
+<TOWN>Warsaw</TOWN>
+<POSTAL_CODE>00-844</POSTAL_CODE>
+<COUNTRY VALUE="PL"/>
+<PHONE>+48 222059500</PHONE>
+<E_MAIL>procurement@frontex.europa.eu</E_MAIL>
+<FAX>+48 222059501</FAX>
+<NUTS CODE="PL127"/>
+<URL_GENERAL>www.frontex.europa.eu</URL_GENERAL>
+</ADDRESS_CONTRACTING_BODY>
+<CA_TYPE VALUE="EU_INSTITUTION"/>
+<CA_ACTIVITY_OTHER>gestione della cooperazione operativa alle frontiere esterne degli Stati membri dell'Unione europea.</CA_ACTIVITY_OTHER>
+</CONTRACTING_BODY>
+<OBJECT_CONTRACT>
+<TITLE>
+<P>Postazione di lavoro digitale MyFrontex (intranet basato su hardware disponibile in commercio).</P>
+</TITLE>
+<REFERENCE_NUMBER>Frontex/37/2016/JL.</REFERENCE_NUMBER>
+<CPV_MAIN>
+<CPV_CODE CODE="48000000"/>
+</CPV_MAIN>
+<TYPE_CONTRACT CTYPE="SERVICES"/>
+<SHORT_DESCR>
+<P>Frontex è alla ricerca di una soluzione integrata che possa servire da postazione di lavoro digitale che affronti l'insieme degli incarichi comuni dei membri del personale di Frontex a prescindere se lavorano nella sede principale o a distanza.</P>
+</SHORT_DESCR>
+<VAL_TOTAL CURRENCY="EUR">1276694.00</VAL_TOTAL>
+<NO_LOT_DIVISION/>
+<OBJECT_DESCR ITEM="1">
+<NUTS CODE="PL127"/>
+<MAIN_SITE>
+<P>sede principale Frontex, Varsavia, Polonia.</P>
+</MAIN_SITE>
+<SHORT_DESCR>
+<P>Frontex è alla ricerca di una soluzione integrata che possa servire da postazione di lavoro digitale che affronti l'insieme degli incarichi comuni dei membri del personale di Frontex a prescindere se lavorano nella sede principale o a distanza.</P>
+</SHORT_DESCR>
+<AC_QUALITY>
+<AC_CRITERION>qualità tecnica</AC_CRITERION>
+<AC_WEIGHTING>0.60</AC_WEIGHTING>
+</AC_QUALITY>
+<AC_PRICE>
+<AC_WEIGHTING>0.40</AC_WEIGHTING>
+</AC_PRICE>
+<NO_OPTIONS/>
+<NO_EU_PROGR_RELATED/>
+</OBJECT_DESCR>
+</OBJECT_CONTRACT>
+<PROCEDURE>
+<PT_OPEN/>
+<FRAMEWORK/>
+<NO_CONTRACT_COVERED_GPA/>
+<NOTICE_NUMBER_OJ>2016/S 049-080761</NOTICE_NUMBER_OJ>
+</PROCEDURE>
+<AWARD_CONTRACT ITEM="1">
+<CONTRACT_NO>Frontex/OP/37/2016/JL</CONTRACT_NO>
+<TITLE>
+<P>Postazione di lavoro digitale MyFrontex (intranet basato su componenti hardware disponibili in commercio)</P>
+</TITLE>
+<AWARDED_CONTRACT>
+<DATE_CONCLUSION_CONTRACT>2016-09-02</DATE_CONCLUSION_CONTRACT>
+<NB_TENDERS_RECEIVED>4</NB_TENDERS_RECEIVED>
+<NO_AWARDED_TO_GROUP/>
+<CONTRACTOR>
+<ADDRESS_CONTRACTOR>
+<OFFICIALNAME>Netcompany IT and Business Consulting A/S</OFFICIALNAME>
+<ADDRESS>Gronningen 17</ADDRESS>
+<TOWN>Copenhagen</TOWN>
+<POSTAL_CODE>1270</POSTAL_CODE>
+<COUNTRY VALUE="DK"/>
+<NUTS CODE="DK011"/>
+</ADDRESS_CONTRACTOR>
+<NO_SME/>
+</CONTRACTOR>
+<VAL_ESTIMATED_TOTAL CURRENCY="EUR">850000.00</VAL_ESTIMATED_TOTAL>
+<VAL_TOTAL CURRENCY="EUR">1276694.00</VAL_TOTAL>
+<LIKELY_SUBCONTRACTED/>
+</AWARDED_CONTRACT>
+</AWARD_CONTRACT>
+<COMPLEMENTARY_INFO>
+<ADDRESS_REVIEW_BODY>
+<OFFICIALNAME>Tribunale</OFFICIALNAME>
+<ADDRESS>rue du Fort Niedergrünewald </ADDRESS>
+<TOWN>Luxembourg</TOWN>
+<POSTAL_CODE>2925</POSTAL_CODE>
+<COUNTRY VALUE="LU"/>
+<PHONE>+352 4303-1</PHONE>
+<E_MAIL>cfi.registry@curia.europa.eu</E_MAIL>
+<FAX>+352 4303-2100</FAX>
+<URL>http://curia.europa.eu</URL>
+</ADDRESS_REVIEW_BODY>
+<REVIEW_PROCEDURE>
+<P>entro 2 mesi dalla notifica al ricorrente o, in assenza, dal giorno in cui ne è venuto a conoscenza.</P>
+</REVIEW_PROCEDURE>
+<DATE_DISPATCH_NOTICE>2016-09-06</DATE_DISPATCH_NOTICE>
+</COMPLEMENTARY_INFO>
+</F03_2014>
+<F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="NL">
+<CONTRACTING_BODY>
+<ADDRESS_CONTRACTING_BODY>
+<OFFICIALNAME>Frontex</OFFICIALNAME>
+<ADDRESS>Plac Europejski 6</ADDRESS>
+<TOWN>Warsaw</TOWN>
+<POSTAL_CODE>00-844</POSTAL_CODE>
+<COUNTRY VALUE="PL"/>
+<PHONE>+48 222059500</PHONE>
+<E_MAIL>procurement@frontex.europa.eu</E_MAIL>
+<FAX>+48 222059501</FAX>
+<NUTS CODE="PL127"/>
+<URL_GENERAL>www.frontex.europa.eu</URL_GENERAL>
+</ADDRESS_CONTRACTING_BODY>
+<CA_TYPE VALUE="EU_INSTITUTION"/>
+<CA_ACTIVITY_OTHER>beheer van de operationele samenwerking aan de buitengrenzen van de lidstaten van de EU.</CA_ACTIVITY_OTHER>
+</CONTRACTING_BODY>
+<OBJECT_CONTRACT>
+<TITLE>
+<P>Digitale werkplek MyFrontex (intranet op basis van commerciële kant-en-klare software).</P>
+</TITLE>
+<REFERENCE_NUMBER>Frontex/37/2016/JL.</REFERENCE_NUMBER>
+<CPV_MAIN>
+<CPV_CODE CODE="48000000"/>
+</CPV_MAIN>
+<TYPE_CONTRACT CTYPE="SERVICES"/>
+<SHORT_DESCR>
+<P>Frontex is op zoek naar een geïntegreerde oplossing die de functie kan vervullen van een digitale werkplek waar alle gemeenschappelijke taken van het Frontex-personeel worden behandeld, ongeacht of deze personeelsleden in het hoofdkantoor of op afstand werken.</P>
+</SHORT_DESCR>
+<VAL_TOTAL CURRENCY="EUR">1276694.00</VAL_TOTAL>
+<NO_LOT_DIVISION/>
+<OBJECT_DESCR ITEM="1">
+<NUTS CODE="PL127"/>
+<MAIN_SITE>
+<P>hoofdkantoor van Frontex, Warschau, Polen.</P>
+</MAIN_SITE>
+<SHORT_DESCR>
+<P>Frontex is op zoek naar een geïntegreerde oplossing die de functie kan vervullen van een digitale werkplek waar alle gemeenschappelijke taken van het Frontex-personeel worden behandeld, ongeacht of deze personeelsleden in het hoofdkantoor of op afstand werken.</P>
+</SHORT_DESCR>
+<AC_QUALITY>
+<AC_CRITERION>Technische kwaliteit</AC_CRITERION>
+<AC_WEIGHTING>0.60</AC_WEIGHTING>
+</AC_QUALITY>
+<AC_PRICE>
+<AC_WEIGHTING>0.40</AC_WEIGHTING>
+</AC_PRICE>
+<NO_OPTIONS/>
+<NO_EU_PROGR_RELATED/>
+</OBJECT_DESCR>
+</OBJECT_CONTRACT>
+<PROCEDURE>
+<PT_OPEN/>
+<FRAMEWORK/>
+<NO_CONTRACT_COVERED_GPA/>
+<NOTICE_NUMBER_OJ>2016/S 049-080761</NOTICE_NUMBER_OJ>
+</PROCEDURE>
+<AWARD_CONTRACT ITEM="1">
+<CONTRACT_NO>Frontex/OP/37/2016/JL</CONTRACT_NO>
+<TITLE>
+<P>Digitale werkplek MyFrontex (intranet op basis van commerciële kant-en-klare software)</P>
+</TITLE>
+<AWARDED_CONTRACT>
+<DATE_CONCLUSION_CONTRACT>2016-09-02</DATE_CONCLUSION_CONTRACT>
+<NB_TENDERS_RECEIVED>4</NB_TENDERS_RECEIVED>
+<NO_AWARDED_TO_GROUP/>
+<CONTRACTOR>
+<ADDRESS_CONTRACTOR>
+<OFFICIALNAME>Netcompany IT and Business Consulting A/S</OFFICIALNAME>
+<ADDRESS>Gronningen 17</ADDRESS>
+<TOWN>Copenhagen</TOWN>
+<POSTAL_CODE>1270</POSTAL_CODE>
+<COUNTRY VALUE="DK"/>
+<NUTS CODE="DK011"/>
+</ADDRESS_CONTRACTOR>
+<NO_SME/>
+</CONTRACTOR>
+<VAL_ESTIMATED_TOTAL CURRENCY="EUR">850000.00</VAL_ESTIMATED_TOTAL>
+<VAL_TOTAL CURRENCY="EUR">1276694.00</VAL_TOTAL>
+<LIKELY_SUBCONTRACTED/>
+</AWARDED_CONTRACT>
+</AWARD_CONTRACT>
+<COMPLEMENTARY_INFO>
+<ADDRESS_REVIEW_BODY>
+<OFFICIALNAME>Gerecht</OFFICIALNAME>
+<ADDRESS>rue du Fort Niedergrünewald </ADDRESS>
+<TOWN>Luxembourg</TOWN>
+<POSTAL_CODE>2925</POSTAL_CODE>
+<COUNTRY VALUE="LU"/>
+<PHONE>+352 4303-1</PHONE>
+<E_MAIL>cfi.registry@curia.europa.eu</E_MAIL>
+<FAX>+352 4303-2100</FAX>
+<URL>http://curia.europa.eu</URL>
+</ADDRESS_REVIEW_BODY>
+<REVIEW_PROCEDURE>
+<P>binnen 2 maanden na de kennisgeving aan de klager of, bij ontbreken daarvan, binnen 2 maanden na de dag waarop het bekend werd.</P>
+</REVIEW_PROCEDURE>
+<DATE_DISPATCH_NOTICE>2016-09-06</DATE_DISPATCH_NOTICE>
+</COMPLEMENTARY_INFO>
+</F03_2014>
+<F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="PT">
+<CONTRACTING_BODY>
+<ADDRESS_CONTRACTING_BODY>
+<OFFICIALNAME>Frontex</OFFICIALNAME>
+<ADDRESS>Plac Europejski 6</ADDRESS>
+<TOWN>Warsaw</TOWN>
+<POSTAL_CODE>00-844</POSTAL_CODE>
+<COUNTRY VALUE="PL"/>
+<PHONE>+48 222059500</PHONE>
+<E_MAIL>procurement@frontex.europa.eu</E_MAIL>
+<FAX>+48 222059501</FAX>
+<NUTS CODE="PL127"/>
+<URL_GENERAL>www.frontex.europa.eu</URL_GENERAL>
+</ADDRESS_CONTRACTING_BODY>
+<CA_TYPE VALUE="EU_INSTITUTION"/>
+<CA_ACTIVITY_OTHER>gestão da cooperação operacional nas fronteiras externas dos Estados-Membros da UE.</CA_ACTIVITY_OTHER>
+</CONTRACTING_BODY>
+<OBJECT_CONTRACT>
+<TITLE>
+<P>Espaço de trabalho digital MyFrontex (Intranet baseada em software COTS).</P>
+</TITLE>
+<REFERENCE_NUMBER>Frontex/37/2016/JL.</REFERENCE_NUMBER>
+<CPV_MAIN>
+<CPV_CODE CODE="48000000"/>
+</CPV_MAIN>
+<TYPE_CONTRACT CTYPE="SERVICES"/>
+<SHORT_DESCR>
+<P>A Frontex procura uma solução integrada que possa servir de espaço de trabalho digital, abordando todas as tarefas comuns dos membros do pessoal da Frontex, independentemente de estes trabalharem na sede ou remotamente.</P>
+</SHORT_DESCR>
+<VAL_TOTAL CURRENCY="EUR">1276694.00</VAL_TOTAL>
+<NO_LOT_DIVISION/>
+<OBJECT_DESCR ITEM="1">
+<NUTS CODE="PL127"/>
+<MAIN_SITE>
+<P>Sede da Frontex, Varsóvia, Polónia.</P>
+</MAIN_SITE>
+<SHORT_DESCR>
+<P>A Frontex procura uma solução integrada que possa servir de espaço de trabalho digital, abordando todas as tarefas comuns dos membros do pessoal da Frontex, independentemente de estes trabalharem na sede ou remotamente.</P>
+</SHORT_DESCR>
+<AC_QUALITY>
+<AC_CRITERION>qualidade técnica</AC_CRITERION>
+<AC_WEIGHTING>0.60</AC_WEIGHTING>
+</AC_QUALITY>
+<AC_PRICE>
+<AC_WEIGHTING>0.40</AC_WEIGHTING>
+</AC_PRICE>
+<NO_OPTIONS/>
+<NO_EU_PROGR_RELATED/>
+</OBJECT_DESCR>
+</OBJECT_CONTRACT>
+<PROCEDURE>
+<PT_OPEN/>
+<FRAMEWORK/>
+<NO_CONTRACT_COVERED_GPA/>
+<NOTICE_NUMBER_OJ>2016/S 049-080761</NOTICE_NUMBER_OJ>
+</PROCEDURE>
+<AWARD_CONTRACT ITEM="1">
+<CONTRACT_NO>Frontex/OP/37/2016/JL</CONTRACT_NO>
+<TITLE>
+<P>Espaço de trabalho digital MyFrontex (Intranet baseada em software COTS)</P>
+</TITLE>
+<AWARDED_CONTRACT>
+<DATE_CONCLUSION_CONTRACT>2016-09-02</DATE_CONCLUSION_CONTRACT>
+<NB_TENDERS_RECEIVED>4</NB_TENDERS_RECEIVED>
+<NO_AWARDED_TO_GROUP/>
+<CONTRACTOR>
+<ADDRESS_CONTRACTOR>
+<OFFICIALNAME>Netcompany IT and Business Consulting A/S</OFFICIALNAME>
+<ADDRESS>Gronningen 17</ADDRESS>
+<TOWN>Copenhagen</TOWN>
+<POSTAL_CODE>1270</POSTAL_CODE>
+<COUNTRY VALUE="DK"/>
+<NUTS CODE="DK011"/>
+</ADDRESS_CONTRACTOR>
+<NO_SME/>
+</CONTRACTOR>
+<VAL_ESTIMATED_TOTAL CURRENCY="EUR">850000.00</VAL_ESTIMATED_TOTAL>
+<VAL_TOTAL CURRENCY="EUR">1276694.00</VAL_TOTAL>
+<LIKELY_SUBCONTRACTED/>
+</AWARDED_CONTRACT>
+</AWARD_CONTRACT>
+<COMPLEMENTARY_INFO>
+<ADDRESS_REVIEW_BODY>
+<OFFICIALNAME>Tribunal Geral</OFFICIALNAME>
+<ADDRESS>rue du Fort Niedergrünewald </ADDRESS>
+<TOWN>Luxembourg</TOWN>
+<POSTAL_CODE>2925</POSTAL_CODE>
+<COUNTRY VALUE="LU"/>
+<PHONE>+352 4303-1</PHONE>
+<E_MAIL>cfi.registry@curia.europa.eu</E_MAIL>
+<FAX>+352 4303-2100</FAX>
+<URL>http://curia.europa.eu</URL>
+</ADDRESS_REVIEW_BODY>
+<REVIEW_PROCEDURE>
+<P>Num prazo de 2 meses a contar da data de notificação ao requerente ou, na sua falta, a contar do dia em que o requerente tenha tomado conhecimento do ato.</P>
+</REVIEW_PROCEDURE>
+<DATE_DISPATCH_NOTICE>2016-09-06</DATE_DISPATCH_NOTICE>
+</COMPLEMENTARY_INFO>
+</F03_2014>
+<F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="SV">
+<CONTRACTING_BODY>
+<ADDRESS_CONTRACTING_BODY>
+<OFFICIALNAME>Frontex</OFFICIALNAME>
+<ADDRESS>Plac Europejski 6</ADDRESS>
+<TOWN>Warsaw</TOWN>
+<POSTAL_CODE>00-844</POSTAL_CODE>
+<COUNTRY VALUE="PL"/>
+<PHONE>+48 222059500</PHONE>
+<E_MAIL>procurement@frontex.europa.eu</E_MAIL>
+<FAX>+48 222059501</FAX>
+<NUTS CODE="PL127"/>
+<URL_GENERAL>www.frontex.europa.eu</URL_GENERAL>
+</ADDRESS_CONTRACTING_BODY>
+<CA_TYPE VALUE="EU_INSTITUTION"/>
+<CA_ACTIVITY_OTHER>förvaltning av det operativa samarbetet vid EU:s medlemsstaters yttre gränser.</CA_ACTIVITY_OTHER>
+</CONTRACTING_BODY>
+<OBJECT_CONTRACT>
+<TITLE>
+<P>Den digitala arbetsplatsen MyFrontex (intranät som baseras på en färdigköpt allmänt tillgänglig programvara)</P>
+</TITLE>
+<REFERENCE_NUMBER>Frontex/37/2016/JL.</REFERENCE_NUMBER>
+<CPV_MAIN>
+<CPV_CODE CODE="48000000"/>
+</CPV_MAIN>
+<TYPE_CONTRACT CTYPE="SERVICES"/>
+<SHORT_DESCR>
+<P>Frontex söker en integrerad lösning som kan anta rollen av en digital arbetsplats som kan hantera Frontex personals alla vanliga arbetsuppgifter oavsett om de arbetar på huvudkontoret (headquarters – HQ) eller på distans.</P>
+</SHORT_DESCR>
+<VAL_TOTAL CURRENCY="EUR">1276694.00</VAL_TOTAL>
+<NO_LOT_DIVISION/>
+<OBJECT_DESCR ITEM="1">
+<NUTS CODE="PL127"/>
+<MAIN_SITE>
+<P>Frontex huvudkontor, Warszawa, Polen.</P>
+</MAIN_SITE>
+<SHORT_DESCR>
+<P>Frontex söker en integrerad lösning som kan anta rollen av en digital arbetsplats som kan hantera Frontex personals alla vanliga arbetsuppgifter oavsett om de arbetar på huvudkontoret eller på distans.</P>
+</SHORT_DESCR>
+<AC_QUALITY>
+<AC_CRITERION>Teknisk kvalitet</AC_CRITERION>
+<AC_WEIGHTING>0.60</AC_WEIGHTING>
+</AC_QUALITY>
+<AC_PRICE>
+<AC_WEIGHTING>0.40</AC_WEIGHTING>
+</AC_PRICE>
+<NO_OPTIONS/>
+<NO_EU_PROGR_RELATED/>
+</OBJECT_DESCR>
+</OBJECT_CONTRACT>
+<PROCEDURE>
+<PT_OPEN/>
+<FRAMEWORK/>
+<NO_CONTRACT_COVERED_GPA/>
+<NOTICE_NUMBER_OJ>2016/S 049-080761</NOTICE_NUMBER_OJ>
+</PROCEDURE>
+<AWARD_CONTRACT ITEM="1">
+<CONTRACT_NO>Frontex/OP/37/2016/JL</CONTRACT_NO>
+<TITLE>
+<P>Den digitala arbetsplatsen MyFrontex (intranät som baseras på en färdigköpt allmänt tillgänglig programvara)</P>
+</TITLE>
+<AWARDED_CONTRACT>
+<DATE_CONCLUSION_CONTRACT>2016-09-02</DATE_CONCLUSION_CONTRACT>
+<NB_TENDERS_RECEIVED>4</NB_TENDERS_RECEIVED>
+<NO_AWARDED_TO_GROUP/>
+<CONTRACTOR>
+<ADDRESS_CONTRACTOR>
+<OFFICIALNAME>Netcompany IT and Business Consulting A/S</OFFICIALNAME>
+<ADDRESS>Gronningen 17</ADDRESS>
+<TOWN>Copenhagen</TOWN>
+<POSTAL_CODE>1270</POSTAL_CODE>
+<COUNTRY VALUE="DK"/>
+<NUTS CODE="DK011"/>
+</ADDRESS_CONTRACTOR>
+<NO_SME/>
+</CONTRACTOR>
+<VAL_ESTIMATED_TOTAL CURRENCY="EUR">850000.00</VAL_ESTIMATED_TOTAL>
+<VAL_TOTAL CURRENCY="EUR">1276694.00</VAL_TOTAL>
+<LIKELY_SUBCONTRACTED/>
+</AWARDED_CONTRACT>
+</AWARD_CONTRACT>
+<COMPLEMENTARY_INFO>
+<ADDRESS_REVIEW_BODY>
+<OFFICIALNAME>Tribunalen</OFFICIALNAME>
+<ADDRESS>rue du Fort Niedergrünewald </ADDRESS>
+<TOWN>Luxembourg</TOWN>
+<POSTAL_CODE>2925</POSTAL_CODE>
+<COUNTRY VALUE="LU"/>
+<PHONE>+352 4303-1</PHONE>
+<E_MAIL>cfi.registry@curia.europa.eu</E_MAIL>
+<FAX>+352 4303-2100</FAX>
+<URL>http://curia.europa.eu</URL>
+</ADDRESS_REVIEW_BODY>
+<REVIEW_PROCEDURE>
+<P>Inom 2 månader från den dag då den klagande delgavs eller, om så inte skett, från den dag då det blev känt.</P>
+</REVIEW_PROCEDURE>
+<DATE_DISPATCH_NOTICE>2016-09-06</DATE_DISPATCH_NOTICE>
+</COMPLEMENTARY_INFO>
+</F03_2014>
+<F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="CS">
+<CONTRACTING_BODY>
+<ADDRESS_CONTRACTING_BODY>
+<OFFICIALNAME>Frontex</OFFICIALNAME>
+<ADDRESS>Plac Europejski 6</ADDRESS>
+<TOWN>Warsaw</TOWN>
+<POSTAL_CODE>00-844</POSTAL_CODE>
+<COUNTRY VALUE="PL"/>
+<PHONE>+48 222059500</PHONE>
+<E_MAIL>procurement@frontex.europa.eu</E_MAIL>
+<FAX>+48 222059501</FAX>
+<NUTS CODE="PL127"/>
+<URL_GENERAL>www.frontex.europa.eu</URL_GENERAL>
+</ADDRESS_CONTRACTING_BODY>
+<CA_TYPE VALUE="EU_INSTITUTION"/>
+<CA_ACTIVITY_OTHER>Řízení operativní spolupráce na vnějších hranicích členských států EU.</CA_ACTIVITY_OTHER>
+</CONTRACTING_BODY>
+<OBJECT_CONTRACT>
+<TITLE>
+<P>Digitální pracoviště MyFrontex (intranet na bázi standardních komerčně dostupných technologií (COTS)).</P>
+</TITLE>
+<REFERENCE_NUMBER>Frontex/37/2016/JL.</REFERENCE_NUMBER>
+<CPV_MAIN>
+<CPV_CODE CODE="48000000"/>
+</CPV_MAIN>
+<TYPE_CONTRACT CTYPE="SERVICES"/>
+<SHORT_DESCR>
+<P>Frontex poptává integrované řešení, které bude moci fungovat jako digitální pracoviště řešící všechny společné úkoly zaměstnanců agentury Frontex nezávisle na tom, zda pracují na ústředí nebo na dálku.</P>
+</SHORT_DESCR>
+<VAL_TOTAL CURRENCY="EUR">1276694.00</VAL_TOTAL>
+<NO_LOT_DIVISION/>
+<OBJECT_DESCR ITEM="1">
+<NUTS CODE="PL127"/>
+<MAIN_SITE>
+<P>Ústředí agentury Frontex, Varšava, Polsko.</P>
+</MAIN_SITE>
+<SHORT_DESCR>
+<P>Frontex poptává integrované řešení, které bude moci fungovat jako digitální pracoviště řešící všechny společné úkoly zaměstnanců agentury Frontex nezávisle na tom, zda pracují na ústředí nebo na dálku.</P>
+</SHORT_DESCR>
+<AC_QUALITY>
+<AC_CRITERION>Technická kvalita</AC_CRITERION>
+<AC_WEIGHTING>0.60</AC_WEIGHTING>
+</AC_QUALITY>
+<AC_PRICE>
+<AC_WEIGHTING>0.40</AC_WEIGHTING>
+</AC_PRICE>
+<NO_OPTIONS/>
+<NO_EU_PROGR_RELATED/>
+</OBJECT_DESCR>
+</OBJECT_CONTRACT>
+<PROCEDURE>
+<PT_OPEN/>
+<FRAMEWORK/>
+<NO_CONTRACT_COVERED_GPA/>
+<NOTICE_NUMBER_OJ>2016/S 049-080761</NOTICE_NUMBER_OJ>
+</PROCEDURE>
+<AWARD_CONTRACT ITEM="1">
+<CONTRACT_NO>Frontex/OP/37/2016/JL</CONTRACT_NO>
+<TITLE>
+<P>Digitální pracoviště MyFrontex (intranet na bázi standardních komerčně dostupných technologií (COTS))</P>
+</TITLE>
+<AWARDED_CONTRACT>
+<DATE_CONCLUSION_CONTRACT>2016-09-02</DATE_CONCLUSION_CONTRACT>
+<NB_TENDERS_RECEIVED>4</NB_TENDERS_RECEIVED>
+<NO_AWARDED_TO_GROUP/>
+<CONTRACTOR>
+<ADDRESS_CONTRACTOR>
+<OFFICIALNAME>Netcompany IT and Business Consulting A/S</OFFICIALNAME>
+<ADDRESS>Gronningen 17</ADDRESS>
+<TOWN>Copenhagen</TOWN>
+<POSTAL_CODE>1270</POSTAL_CODE>
+<COUNTRY VALUE="DK"/>
+<NUTS CODE="DK011"/>
+</ADDRESS_CONTRACTOR>
+<NO_SME/>
+</CONTRACTOR>
+<VAL_ESTIMATED_TOTAL CURRENCY="EUR">850000.00</VAL_ESTIMATED_TOTAL>
+<VAL_TOTAL CURRENCY="EUR">1276694.00</VAL_TOTAL>
+<LIKELY_SUBCONTRACTED/>
+</AWARDED_CONTRACT>
+</AWARD_CONTRACT>
+<COMPLEMENTARY_INFO>
+<ADDRESS_REVIEW_BODY>
+<OFFICIALNAME>Tribunál</OFFICIALNAME>
+<ADDRESS>rue du Fort Niedergrünewald </ADDRESS>
+<TOWN>Luxembourg</TOWN>
+<POSTAL_CODE>2925</POSTAL_CODE>
+<COUNTRY VALUE="LU"/>
+<PHONE>+352 4303-1</PHONE>
+<E_MAIL>cfi.registry@curia.europa.eu</E_MAIL>
+<FAX>+352 4303-2100</FAX>
+<URL>http://curia.europa.eu</URL>
+</ADDRESS_REVIEW_BODY>
+<REVIEW_PROCEDURE>
+<P>Ve lhůtě 2 měsíců od oznámení žalobci nebo, není-li k dispozici, ode dne, kdy vstoupilo ve známost.</P>
+</REVIEW_PROCEDURE>
+<DATE_DISPATCH_NOTICE>2016-09-06</DATE_DISPATCH_NOTICE>
+</COMPLEMENTARY_INFO>
+</F03_2014>
+<F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="ET">
+<CONTRACTING_BODY>
+<ADDRESS_CONTRACTING_BODY>
+<OFFICIALNAME>Frontex</OFFICIALNAME>
+<ADDRESS>Plac Europejski 6</ADDRESS>
+<TOWN>Warsaw</TOWN>
+<POSTAL_CODE>00-844</POSTAL_CODE>
+<COUNTRY VALUE="PL"/>
+<PHONE>+48 222059500</PHONE>
+<E_MAIL>procurement@frontex.europa.eu</E_MAIL>
+<FAX>+48 222059501</FAX>
+<NUTS CODE="PL127"/>
+<URL_GENERAL>www.frontex.europa.eu</URL_GENERAL>
+</ADDRESS_CONTRACTING_BODY>
+<CA_TYPE VALUE="EU_INSTITUTION"/>
+<CA_ACTIVITY_OTHER>ELi liikmesriikide välispiiril tehtava operatiivkoostöö juhtimine.</CA_ACTIVITY_OTHER>
+</CONTRACTING_BODY>
+<OBJECT_CONTRACT>
+<TITLE>
+<P>MyFrontexi digitaalne töökoht (COTSi-põhine intranet)</P>
+</TITLE>
+<REFERENCE_NUMBER>Frontex/37/2016/JL.</REFERENCE_NUMBER>
+<CPV_MAIN>
+<CPV_CODE CODE="48000000"/>
+</CPV_MAIN>
+<TYPE_CONTRACT CTYPE="SERVICES"/>
+<SHORT_DESCR>
+<P>Frontex soovib digitaalse töökohana toimivat integreeritud lahendust, mis võimaldaks kõiki Frontexi töötajate jaoks tavapäraseid ülesandeid olenemata sellest, kas isikud töötavad peakorteris või teevad kaugtööd.</P>
+</SHORT_DESCR>
+<VAL_TOTAL CURRENCY="EUR">1276694.00</VAL_TOTAL>
+<NO_LOT_DIVISION/>
+<OBJECT_DESCR ITEM="1">
+<NUTS CODE="PL127"/>
+<MAIN_SITE>
+<P>Frontexi peakorter, Varssavi, Poola.</P>
+</MAIN_SITE>
+<SHORT_DESCR>
+<P>Frontex soovib digitaalse töökohana toimivat integreeritud lahendust, mis võimaldaks kõiki Frontexi töötajate jaoks tavapäraseid ülesandeid olenemata sellest, kas isikud töötavad peakorteris või teevad kaugtööd.</P>
+</SHORT_DESCR>
+<AC_QUALITY>
+<AC_CRITERION>tehniline kvaliteet</AC_CRITERION>
+<AC_WEIGHTING>0.60</AC_WEIGHTING>
+</AC_QUALITY>
+<AC_PRICE>
+<AC_WEIGHTING>0.40</AC_WEIGHTING>
+</AC_PRICE>
+<NO_OPTIONS/>
+<NO_EU_PROGR_RELATED/>
+</OBJECT_DESCR>
+</OBJECT_CONTRACT>
+<PROCEDURE>
+<PT_OPEN/>
+<FRAMEWORK/>
+<NO_CONTRACT_COVERED_GPA/>
+<NOTICE_NUMBER_OJ>2016/S 049-080761</NOTICE_NUMBER_OJ>
+</PROCEDURE>
+<AWARD_CONTRACT ITEM="1">
+<CONTRACT_NO>Frontex/OP/37/2016/JL</CONTRACT_NO>
+<TITLE>
+<P>MyFrontexi digitaalne töökoht (COTSi-põhine intranet)</P>
+</TITLE>
+<AWARDED_CONTRACT>
+<DATE_CONCLUSION_CONTRACT>2016-09-02</DATE_CONCLUSION_CONTRACT>
+<NB_TENDERS_RECEIVED>4</NB_TENDERS_RECEIVED>
+<NO_AWARDED_TO_GROUP/>
+<CONTRACTOR>
+<ADDRESS_CONTRACTOR>
+<OFFICIALNAME>Netcompany IT and Business Consulting A/S</OFFICIALNAME>
+<ADDRESS>Gronningen 17</ADDRESS>
+<TOWN>Copenhagen</TOWN>
+<POSTAL_CODE>1270</POSTAL_CODE>
+<COUNTRY VALUE="DK"/>
+<NUTS CODE="DK011"/>
+</ADDRESS_CONTRACTOR>
+<NO_SME/>
+</CONTRACTOR>
+<VAL_ESTIMATED_TOTAL CURRENCY="EUR">850000.00</VAL_ESTIMATED_TOTAL>
+<VAL_TOTAL CURRENCY="EUR">1276694.00</VAL_TOTAL>
+<LIKELY_SUBCONTRACTED/>
+</AWARDED_CONTRACT>
+</AWARD_CONTRACT>
+<COMPLEMENTARY_INFO>
+<ADDRESS_REVIEW_BODY>
+<OFFICIALNAME>Üldkohus</OFFICIALNAME>
+<ADDRESS>rue du Fort Niedergrünewald </ADDRESS>
+<TOWN>Luxembourg</TOWN>
+<POSTAL_CODE>2925</POSTAL_CODE>
+<COUNTRY VALUE="LU"/>
+<PHONE>+352 4303-1</PHONE>
+<E_MAIL>cfi.registry@curia.europa.eu</E_MAIL>
+<FAX>+352 4303-2100</FAX>
+<URL>http://curia.europa.eu</URL>
+</ADDRESS_REVIEW_BODY>
+<REVIEW_PROCEDURE>
+<P>2 kuu jooksul hageja teavitamisest või kui teavitamist ei toimu, 2 kuu jooksul päevast, mil asjast teada saadi.</P>
+</REVIEW_PROCEDURE>
+<DATE_DISPATCH_NOTICE>2016-09-06</DATE_DISPATCH_NOTICE>
+</COMPLEMENTARY_INFO>
+</F03_2014>
+<F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="HU">
+<CONTRACTING_BODY>
+<ADDRESS_CONTRACTING_BODY>
+<OFFICIALNAME>Frontex</OFFICIALNAME>
+<ADDRESS>Plac Europejski 6</ADDRESS>
+<TOWN>Warsaw</TOWN>
+<POSTAL_CODE>00-844</POSTAL_CODE>
+<COUNTRY VALUE="PL"/>
+<PHONE>+48 222059500</PHONE>
+<E_MAIL>procurement@frontex.europa.eu</E_MAIL>
+<FAX>+48 222059501</FAX>
+<NUTS CODE="PL127"/>
+<URL_GENERAL>www.frontex.europa.eu</URL_GENERAL>
+</ADDRESS_CONTRACTING_BODY>
+<CA_TYPE VALUE="EU_INSTITUTION"/>
+<CA_ACTIVITY_OTHER>Operatív együttműködési igazgatás az EU tagállamainak külső határain.</CA_ACTIVITY_OTHER>
+</CONTRACTING_BODY>
+<OBJECT_CONTRACT>
+<TITLE>
+<P>MyFrontex digitális munkahely (kereskedelmi forgalomba hozott készterméken [COTS] alapuló intranet).</P>
+</TITLE>
+<REFERENCE_NUMBER>Frontex/37/2016/JL.</REFERENCE_NUMBER>
+<CPV_MAIN>
+<CPV_CODE CODE="48000000"/>
+</CPV_MAIN>
+<TYPE_CONTRACT CTYPE="SERVICES"/>
+<SHORT_DESCR>
+<P>A Frontex olyan integrált megoldást kíván beszerezni, amely digitális munkahelyként lehetővé teszi a Frontex alkalmazottai valamennyi általános feladatának ellátását, függetlenül attól, hogy azok a székhelyen vagy távolról dolgoznak.</P>
+</SHORT_DESCR>
+<VAL_TOTAL CURRENCY="EUR">1276694.00</VAL_TOTAL>
+<NO_LOT_DIVISION/>
+<OBJECT_DESCR ITEM="1">
+<NUTS CODE="PL127"/>
+<MAIN_SITE>
+<P>Frontex-székház, Varsó, Lengyelország.</P>
+</MAIN_SITE>
+<SHORT_DESCR>
+<P>A Frontex olyan integrált megoldást kíván beszerezni, amely digitális munkahelyként lehetővé teszi a Frontex alkalmazottai valamennyi általános feladatának ellátását, függetlenül attól, hogy azok a székhelyen vagy távolról dolgoznak.</P>
+</SHORT_DESCR>
+<AC_QUALITY>
+<AC_CRITERION>Technikai minőség</AC_CRITERION>
+<AC_WEIGHTING>0.60</AC_WEIGHTING>
+</AC_QUALITY>
+<AC_PRICE>
+<AC_WEIGHTING>0.40</AC_WEIGHTING>
+</AC_PRICE>
+<NO_OPTIONS/>
+<NO_EU_PROGR_RELATED/>
+</OBJECT_DESCR>
+</OBJECT_CONTRACT>
+<PROCEDURE>
+<PT_OPEN/>
+<FRAMEWORK/>
+<NO_CONTRACT_COVERED_GPA/>
+<NOTICE_NUMBER_OJ>2016/S 049-080761</NOTICE_NUMBER_OJ>
+</PROCEDURE>
+<AWARD_CONTRACT ITEM="1">
+<CONTRACT_NO>Frontex/OP/37/2016/JL</CONTRACT_NO>
+<TITLE>
+<P>MyFrontex digitális munkahely (kereskedelmi forgalomba hozott készterméken [COTS] alapuló intranet)</P>
+</TITLE>
+<AWARDED_CONTRACT>
+<DATE_CONCLUSION_CONTRACT>2016-09-02</DATE_CONCLUSION_CONTRACT>
+<NB_TENDERS_RECEIVED>4</NB_TENDERS_RECEIVED>
+<NO_AWARDED_TO_GROUP/>
+<CONTRACTOR>
+<ADDRESS_CONTRACTOR>
+<OFFICIALNAME>Netcompany IT and Business Consulting A/S</OFFICIALNAME>
+<ADDRESS>Gronningen 17</ADDRESS>
+<TOWN>Copenhagen</TOWN>
+<POSTAL_CODE>1270</POSTAL_CODE>
+<COUNTRY VALUE="DK"/>
+<NUTS CODE="DK011"/>
+</ADDRESS_CONTRACTOR>
+<NO_SME/>
+</CONTRACTOR>
+<VAL_ESTIMATED_TOTAL CURRENCY="EUR">850000.00</VAL_ESTIMATED_TOTAL>
+<VAL_TOTAL CURRENCY="EUR">1276694.00</VAL_TOTAL>
+<LIKELY_SUBCONTRACTED/>
+</AWARDED_CONTRACT>
+</AWARD_CONTRACT>
+<COMPLEMENTARY_INFO>
+<ADDRESS_REVIEW_BODY>
+<OFFICIALNAME>Törvényszék</OFFICIALNAME>
+<ADDRESS>rue du Fort Niedergrünewald </ADDRESS>
+<TOWN>Luxembourg</TOWN>
+<POSTAL_CODE>2925</POSTAL_CODE>
+<COUNTRY VALUE="LU"/>
+<PHONE>+352 4303-1</PHONE>
+<E_MAIL>cfi.registry@curia.europa.eu</E_MAIL>
+<FAX>+352 4303-2100</FAX>
+<URL>http://curia.europa.eu</URL>
+</ADDRESS_REVIEW_BODY>
+<REVIEW_PROCEDURE>
+<P>A vesztes fél értesítésétől, illetve – ennek hiányában – az eredmény ismertté válásától számított 2 hónapon belül.</P>
+</REVIEW_PROCEDURE>
+<DATE_DISPATCH_NOTICE>2016-09-06</DATE_DISPATCH_NOTICE>
+</COMPLEMENTARY_INFO>
+</F03_2014>
+<F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="LT">
+<CONTRACTING_BODY>
+<ADDRESS_CONTRACTING_BODY>
+<OFFICIALNAME>Frontex</OFFICIALNAME>
+<ADDRESS>Plac Europejski 6</ADDRESS>
+<TOWN>Warsaw</TOWN>
+<POSTAL_CODE>00-844</POSTAL_CODE>
+<COUNTRY VALUE="PL"/>
+<PHONE>+48 222059500</PHONE>
+<E_MAIL>procurement@frontex.europa.eu</E_MAIL>
+<FAX>+48 222059501</FAX>
+<NUTS CODE="PL127"/>
+<URL_GENERAL>www.frontex.europa.eu</URL_GENERAL>
+</ADDRESS_CONTRACTING_BODY>
+<CA_TYPE VALUE="EU_INSTITUTION"/>
+<CA_ACTIVITY_OTHER>operatyvaus bendradarbiavimo prie ES valstybių narių išorės sienų valdymas.</CA_ACTIVITY_OTHER>
+</CONTRACTING_BODY>
+<OBJECT_CONTRACT>
+<TITLE>
+<P>„MyFrontex“ skaitmeninė darbo vieta (COTS pagrįstas intranetas).</P>
+</TITLE>
+<REFERENCE_NUMBER>Frontex/37/2016/JL.</REFERENCE_NUMBER>
+<CPV_MAIN>
+<CPV_CODE CODE="48000000"/>
+</CPV_MAIN>
+<TYPE_CONTRACT CTYPE="SERVICES"/>
+<SHORT_DESCR>
+<P>Frontex ieško integruoto sprendimo, kuriuo būtų galima vykdyti skaitmeninės darbo vietos vaidmenį, atkreipiant dėmesį į visas bendras Frontex personalo užduotis, nežiūrint į tai, ar jis dirba būstinėje, ar nuotoliniu būdu.</P>
+</SHORT_DESCR>
+<VAL_TOTAL CURRENCY="EUR">1276694.00</VAL_TOTAL>
+<NO_LOT_DIVISION/>
+<OBJECT_DESCR ITEM="1">
+<NUTS CODE="PL127"/>
+<MAIN_SITE>
+<P>Frontex būstinė, Varšuva, Lenkija.</P>
+</MAIN_SITE>
+<SHORT_DESCR>
+<P>Frontex ieško integruoto sprendimo, kuriuo būtų galima vykdyti skaitmeninės darbo vietos vaidmenį, atkreipiant dėmesį į visas bendras Frontex personalo užduotis, nežiūrint į tai, ar jis dirba būstinėje, ar nuotoliniu būdu.</P>
+</SHORT_DESCR>
+<AC_QUALITY>
+<AC_CRITERION>Techninė kokybė</AC_CRITERION>
+<AC_WEIGHTING>0.60</AC_WEIGHTING>
+</AC_QUALITY>
+<AC_PRICE>
+<AC_WEIGHTING>0.40</AC_WEIGHTING>
+</AC_PRICE>
+<NO_OPTIONS/>
+<NO_EU_PROGR_RELATED/>
+</OBJECT_DESCR>
+</OBJECT_CONTRACT>
+<PROCEDURE>
+<PT_OPEN/>
+<FRAMEWORK/>
+<NO_CONTRACT_COVERED_GPA/>
+<NOTICE_NUMBER_OJ>2016/S 049-080761</NOTICE_NUMBER_OJ>
+</PROCEDURE>
+<AWARD_CONTRACT ITEM="1">
+<CONTRACT_NO>Frontex/OP/37/2016/JL</CONTRACT_NO>
+<TITLE>
+<P>„MyFrontex“ skaitmeninė darbo vieta (COTS pagrįstas intranetas)</P>
+</TITLE>
+<AWARDED_CONTRACT>
+<DATE_CONCLUSION_CONTRACT>2016-09-02</DATE_CONCLUSION_CONTRACT>
+<NB_TENDERS_RECEIVED>4</NB_TENDERS_RECEIVED>
+<NO_AWARDED_TO_GROUP/>
+<CONTRACTOR>
+<ADDRESS_CONTRACTOR>
+<OFFICIALNAME>Netcompany IT and Business Consulting A/S</OFFICIALNAME>
+<ADDRESS>Gronningen 17</ADDRESS>
+<TOWN>Copenhagen</TOWN>
+<POSTAL_CODE>1270</POSTAL_CODE>
+<COUNTRY VALUE="DK"/>
+<NUTS CODE="DK011"/>
+</ADDRESS_CONTRACTOR>
+<NO_SME/>
+</CONTRACTOR>
+<VAL_ESTIMATED_TOTAL CURRENCY="EUR">850000.00</VAL_ESTIMATED_TOTAL>
+<VAL_TOTAL CURRENCY="EUR">1276694.00</VAL_TOTAL>
+<LIKELY_SUBCONTRACTED/>
+</AWARDED_CONTRACT>
+</AWARD_CONTRACT>
+<COMPLEMENTARY_INFO>
+<ADDRESS_REVIEW_BODY>
+<OFFICIALNAME>Bendrasis Teismas</OFFICIALNAME>
+<ADDRESS>rue du Fort Niedergrünewald </ADDRESS>
+<TOWN>Luxembourg</TOWN>
+<POSTAL_CODE>2925</POSTAL_CODE>
+<COUNTRY VALUE="LU"/>
+<PHONE>+352 4303-1</PHONE>
+<E_MAIL>cfi.registry@curia.europa.eu</E_MAIL>
+<FAX>+352 4303-2100</FAX>
+<URL>http://curia.europa.eu</URL>
+</ADDRESS_REVIEW_BODY>
+<REVIEW_PROCEDURE>
+<P>Per 2 mėnesius nuo dienos, kai apie tai pranešama ieškovui, arba, jei pranešimas neparengiamas, nuo dienos, kai apie tai tampa žinoma.</P>
+</REVIEW_PROCEDURE>
+<DATE_DISPATCH_NOTICE>2016-09-06</DATE_DISPATCH_NOTICE>
+</COMPLEMENTARY_INFO>
+</F03_2014>
+<F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="LV">
+<CONTRACTING_BODY>
+<ADDRESS_CONTRACTING_BODY>
+<OFFICIALNAME>Frontex</OFFICIALNAME>
+<ADDRESS>Plac Europejski 6</ADDRESS>
+<TOWN>Warsaw</TOWN>
+<POSTAL_CODE>00-844</POSTAL_CODE>
+<COUNTRY VALUE="PL"/>
+<PHONE>+48 222059500</PHONE>
+<E_MAIL>procurement@frontex.europa.eu</E_MAIL>
+<FAX>+48 222059501</FAX>
+<NUTS CODE="PL127"/>
+<URL_GENERAL>www.frontex.europa.eu</URL_GENERAL>
+</ADDRESS_CONTRACTING_BODY>
+<CA_TYPE VALUE="EU_INSTITUTION"/>
+<CA_ACTIVITY_OTHER>operatīvās sadarbības vadība pie Eiropas Savienības dalībvalstu ārējām robežām.</CA_ACTIVITY_OTHER>
+</CONTRACTING_BODY>
+<OBJECT_CONTRACT>
+<TITLE>
+<P>Digitālā darba vieta MyFrontex (COTS intranets).</P>
+</TITLE>
+<REFERENCE_NUMBER>Frontex/37/2016/JL.</REFERENCE_NUMBER>
+<CPV_MAIN>
+<CPV_CODE CODE="48000000"/>
+</CPV_MAIN>
+<TYPE_CONTRACT CTYPE="SERVICES"/>
+<SHORT_DESCR>
+<P>Frontex meklē integrētu risinājumu, kas varētu kalpot par digitālu darba vietu un kas vērsts uz Frontex darbinieku – gan to, kuri strādā galvenajā mītnē, gan to, kuri strādā attālināti – visu vispārējo uzdevumu izpildi.</P>
+</SHORT_DESCR>
+<VAL_TOTAL CURRENCY="EUR">1276694.00</VAL_TOTAL>
+<NO_LOT_DIVISION/>
+<OBJECT_DESCR ITEM="1">
+<NUTS CODE="PL127"/>
+<MAIN_SITE>
+<P>Frontex galvenā mītne, Varšava, Polija.</P>
+</MAIN_SITE>
+<SHORT_DESCR>
+<P>Frontex meklē integrētu risinājumu, kas varētu kalpot par digitālu darba vietu un kas vērsts uz Frontex darbinieku – gan to, kuri strādā galvenajā mītnē, gan to, kuri strādā attālināti – visu vispārējo uzdevumu izpildi.</P>
+</SHORT_DESCR>
+<AC_QUALITY>
+<AC_CRITERION>Tehniskā kvalitāte</AC_CRITERION>
+<AC_WEIGHTING>0.60</AC_WEIGHTING>
+</AC_QUALITY>
+<AC_PRICE>
+<AC_WEIGHTING>0.40</AC_WEIGHTING>
+</AC_PRICE>
+<NO_OPTIONS/>
+<NO_EU_PROGR_RELATED/>
+</OBJECT_DESCR>
+</OBJECT_CONTRACT>
+<PROCEDURE>
+<PT_OPEN/>
+<FRAMEWORK/>
+<NO_CONTRACT_COVERED_GPA/>
+<NOTICE_NUMBER_OJ>2016/S 049-080761</NOTICE_NUMBER_OJ>
+</PROCEDURE>
+<AWARD_CONTRACT ITEM="1">
+<CONTRACT_NO>Frontex/OP/37/2016/JL</CONTRACT_NO>
+<TITLE>
+<P>Digitālā darba vieta MyFrontex (COTS intranets)</P>
+</TITLE>
+<AWARDED_CONTRACT>
+<DATE_CONCLUSION_CONTRACT>2016-09-02</DATE_CONCLUSION_CONTRACT>
+<NB_TENDERS_RECEIVED>4</NB_TENDERS_RECEIVED>
+<NO_AWARDED_TO_GROUP/>
+<CONTRACTOR>
+<ADDRESS_CONTRACTOR>
+<OFFICIALNAME>Netcompany IT and Business Consulting A/S</OFFICIALNAME>
+<ADDRESS>Gronningen 17</ADDRESS>
+<TOWN>Copenhagen</TOWN>
+<POSTAL_CODE>1270</POSTAL_CODE>
+<COUNTRY VALUE="DK"/>
+<NUTS CODE="DK011"/>
+</ADDRESS_CONTRACTOR>
+<NO_SME/>
+</CONTRACTOR>
+<VAL_ESTIMATED_TOTAL CURRENCY="EUR">850000.00</VAL_ESTIMATED_TOTAL>
+<VAL_TOTAL CURRENCY="EUR">1276694.00</VAL_TOTAL>
+<LIKELY_SUBCONTRACTED/>
+</AWARDED_CONTRACT>
+</AWARD_CONTRACT>
+<COMPLEMENTARY_INFO>
+<ADDRESS_REVIEW_BODY>
+<OFFICIALNAME>Vispārējā tiesa</OFFICIALNAME>
+<ADDRESS>rue du Fort Niedergrünewald </ADDRESS>
+<TOWN>Luxembourg</TOWN>
+<POSTAL_CODE>2925</POSTAL_CODE>
+<COUNTRY VALUE="LU"/>
+<PHONE>+352 4303-1</PHONE>
+<E_MAIL>cfi.registry@curia.europa.eu</E_MAIL>
+<FAX>+352 4303-2100</FAX>
+<URL>http://curia.europa.eu</URL>
+</ADDRESS_REVIEW_BODY>
+<REVIEW_PROCEDURE>
+<P>2 mēnešu laikā no prasītāja informēšanas vai, ja tā nav notikusi, no dienas, kad viņš to uzzinājis.</P>
+</REVIEW_PROCEDURE>
+<DATE_DISPATCH_NOTICE>2016-09-06</DATE_DISPATCH_NOTICE>
+</COMPLEMENTARY_INFO>
+</F03_2014>
+<F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="MT">
+<CONTRACTING_BODY>
+<ADDRESS_CONTRACTING_BODY>
+<OFFICIALNAME>Frontex</OFFICIALNAME>
+<ADDRESS>Plac Europejski 6</ADDRESS>
+<TOWN>Varsavja</TOWN>
+<POSTAL_CODE>00-844</POSTAL_CODE>
+<COUNTRY VALUE="PL"/>
+<PHONE>+48 222059500</PHONE>
+<E_MAIL>procurement@frontex.europa.eu</E_MAIL>
+<FAX>+48 222059501</FAX>
+<NUTS CODE="PL127"/>
+<URL_GENERAL>www.frontex.europa.eu</URL_GENERAL>
+</ADDRESS_CONTRACTING_BODY>
+<CA_TYPE VALUE="EU_INSTITUTION"/>
+<CA_ACTIVITY_OTHER>L-immaniġġjar ta' kooperazzjoni operattiva fil-fruntieri barranin tal-Istati Membri tal-UE.</CA_ACTIVITY_OTHER>
+</CONTRACTING_BODY>
+<OBJECT_CONTRACT>
+<TITLE>
+<P>Il-post tax-xogħol diġitali MyFrontex (intranet ibbażat fuq il-COTS)</P>
+</TITLE>
+<REFERENCE_NUMBER>Frontex/37/2016/JL.</REFERENCE_NUMBER>
+<CPV_MAIN>
+<CPV_CODE CODE="48000000"/>
+</CPV_MAIN>
+<TYPE_CONTRACT CTYPE="SERVICES"/>
+<SHORT_DESCR>
+<P>Il-Frontex qed tfittex soluzzjoni integrata li tista' tieħu r-rowl ta' post tax-xogħol diġitali li jindirizza x-xogħlijiet komuni kollha tal-persunal tal-Frontex indipendentement minn jekk huma jaħdmux fil-KĠ (Kwartieri Ġenerali) jew mill-bogħod.</P>
+</SHORT_DESCR>
+<VAL_TOTAL CURRENCY="EUR">1276694.00</VAL_TOTAL>
+<NO_LOT_DIVISION/>
+<OBJECT_DESCR ITEM="1">
+<NUTS CODE="PL127"/>
+<MAIN_SITE>
+<P>Il-Kwartieri Ġenerali tal-Frontex, Warsaw, il-Polonja.</P>
+</MAIN_SITE>
+<SHORT_DESCR>
+<P>Il-Frontex qed tfittex soluzzjoni integrata li tista' tieħu r-rowl ta' post tax-xogħol diġitali li jindirizza x-xogħlijiet komuni kollha tal-persunal tal-Frontex indipendentement minn jekk huma jaħdmux fil-KĠ (Kwartieri Ġenerali) jew mill-bogħod.</P>
+</SHORT_DESCR>
+<AC_QUALITY>
+<AC_CRITERION>Il-kwalità teknika</AC_CRITERION>
+<AC_WEIGHTING>0.60</AC_WEIGHTING>
+</AC_QUALITY>
+<AC_PRICE>
+<AC_WEIGHTING>0.40</AC_WEIGHTING>
+</AC_PRICE>
+<NO_OPTIONS/>
+<NO_EU_PROGR_RELATED/>
+</OBJECT_DESCR>
+</OBJECT_CONTRACT>
+<PROCEDURE>
+<PT_OPEN/>
+<FRAMEWORK/>
+<NO_CONTRACT_COVERED_GPA/>
+<NOTICE_NUMBER_OJ>2016/S 049-080761</NOTICE_NUMBER_OJ>
+</PROCEDURE>
+<AWARD_CONTRACT ITEM="1">
+<CONTRACT_NO>Frontex/OP/37/2016/JL</CONTRACT_NO>
+<TITLE>
+<P>Il-post tax-xogħol diġitali MyFrontex (intranet ibbażat fuq il-COTS)</P>
+</TITLE>
+<AWARDED_CONTRACT>
+<DATE_CONCLUSION_CONTRACT>2016-09-02</DATE_CONCLUSION_CONTRACT>
+<NB_TENDERS_RECEIVED>4</NB_TENDERS_RECEIVED>
+<NO_AWARDED_TO_GROUP/>
+<CONTRACTOR>
+<ADDRESS_CONTRACTOR>
+<OFFICIALNAME>Netcompany IT and Business Consulting A/S</OFFICIALNAME>
+<ADDRESS>Gronningen 17</ADDRESS>
+<TOWN>Copenhagen</TOWN>
+<POSTAL_CODE>1270</POSTAL_CODE>
+<COUNTRY VALUE="DK"/>
+<NUTS CODE="DK011"/>
+</ADDRESS_CONTRACTOR>
+<NO_SME/>
+</CONTRACTOR>
+<VAL_ESTIMATED_TOTAL CURRENCY="EUR">850000.00</VAL_ESTIMATED_TOTAL>
+<VAL_TOTAL CURRENCY="EUR">1276694.00</VAL_TOTAL>
+<LIKELY_SUBCONTRACTED/>
+</AWARDED_CONTRACT>
+</AWARD_CONTRACT>
+<COMPLEMENTARY_INFO>
+<ADDRESS_REVIEW_BODY>
+<OFFICIALNAME>Il-Qorti Ġenerali</OFFICIALNAME>
+<ADDRESS>rue du Fort Niedergrünewald </ADDRESS>
+<TOWN>Lussemburgu</TOWN>
+<POSTAL_CODE>2925</POSTAL_CODE>
+<COUNTRY VALUE="LU"/>
+<PHONE>+352 4303-1</PHONE>
+<E_MAIL>cfi.registry@curia.europa.eu</E_MAIL>
+<FAX>+352 4303-2100</FAX>
+<URL>http://curia.europa.eu</URL>
+</ADDRESS_REVIEW_BODY>
+<REVIEW_PROCEDURE>
+<P>Fi żmien xahrejn (2) mill-avviż lil dak li jagħmel it-talba, jew, fin-nuqqas ta' dan, mill-jum li fih sar magħruf.</P>
+</REVIEW_PROCEDURE>
+<DATE_DISPATCH_NOTICE>2016-09-06</DATE_DISPATCH_NOTICE>
+</COMPLEMENTARY_INFO>
+</F03_2014>
+<F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="PL">
+<CONTRACTING_BODY>
+<ADDRESS_CONTRACTING_BODY>
+<OFFICIALNAME>Frontex</OFFICIALNAME>
+<ADDRESS>Plac Europejski 6</ADDRESS>
+<TOWN>Warsaw</TOWN>
+<POSTAL_CODE>00-844</POSTAL_CODE>
+<COUNTRY VALUE="PL"/>
+<PHONE>+48 222059500</PHONE>
+<E_MAIL>procurement@frontex.europa.eu</E_MAIL>
+<FAX>+48 222059501</FAX>
+<NUTS CODE="PL127"/>
+<URL_GENERAL>www.frontex.europa.eu</URL_GENERAL>
+</ADDRESS_CONTRACTING_BODY>
+<CA_TYPE VALUE="EU_INSTITUTION"/>
+<CA_ACTIVITY_OTHER>Zarządzanie współpracą operacyjną na granicach zewnętrznych państw członkowskich UE.</CA_ACTIVITY_OTHER>
+</CONTRACTING_BODY>
+<OBJECT_CONTRACT>
+<TITLE>
+<P>Cyfrowe środowisko pracy MyFrontex (intranet wykorzystujący rozwiązania dostępne w handlu)</P>
+</TITLE>
+<REFERENCE_NUMBER>Frontex/37/2016/JL.</REFERENCE_NUMBER>
+<CPV_MAIN>
+<CPV_CODE CODE="48000000"/>
+</CPV_MAIN>
+<TYPE_CONTRACT CTYPE="SERVICES"/>
+<SHORT_DESCR>
+<P>Frontex zamierza wdrożyć zintegrowane rozwiązanie funkcjonujące jako cyfrowe miejsce pracy o zakresie obejmującym wszystkie standardowe zadania realizowane przez personel agencji pracujący zarówno w siedzibie Frontexu, jak i zdalnie.</P>
+</SHORT_DESCR>
+<VAL_TOTAL CURRENCY="EUR">1276694.00</VAL_TOTAL>
+<NO_LOT_DIVISION/>
+<OBJECT_DESCR ITEM="1">
+<NUTS CODE="PL127"/>
+<MAIN_SITE>
+<P>siedziba Frontexu, Warszawa, Polska.</P>
+</MAIN_SITE>
+<SHORT_DESCR>
+<P>Frontex zamierza wdrożyć zintegrowane rozwiązanie funkcjonujące jako cyfrowe miejsce pracy o zakresie obejmującym wszystkie standardowe zadania realizowane przez personel agencji pracujący zarówno w siedzibie Frontexu, jak i zdalnie.</P>
+</SHORT_DESCR>
+<AC_QUALITY>
+<AC_CRITERION>jakość techniczna</AC_CRITERION>
+<AC_WEIGHTING>0.60</AC_WEIGHTING>
+</AC_QUALITY>
+<AC_PRICE>
+<AC_WEIGHTING>0.40</AC_WEIGHTING>
+</AC_PRICE>
+<NO_OPTIONS/>
+<NO_EU_PROGR_RELATED/>
+</OBJECT_DESCR>
+</OBJECT_CONTRACT>
+<PROCEDURE>
+<PT_OPEN/>
+<FRAMEWORK/>
+<NO_CONTRACT_COVERED_GPA/>
+<NOTICE_NUMBER_OJ>2016/S 049-080761</NOTICE_NUMBER_OJ>
+</PROCEDURE>
+<AWARD_CONTRACT ITEM="1">
+<CONTRACT_NO>Frontex/OP/37/2016/JL</CONTRACT_NO>
+<TITLE>
+<P>Cyfrowe środowisko pracy MyFrontex (intranet wykorzystujący rozwiązania dostępne w handlu)</P>
+</TITLE>
+<AWARDED_CONTRACT>
+<DATE_CONCLUSION_CONTRACT>2016-09-02</DATE_CONCLUSION_CONTRACT>
+<NB_TENDERS_RECEIVED>4</NB_TENDERS_RECEIVED>
+<NO_AWARDED_TO_GROUP/>
+<CONTRACTOR>
+<ADDRESS_CONTRACTOR>
+<OFFICIALNAME>Netcompany IT and Business Consulting A/S</OFFICIALNAME>
+<ADDRESS>Gronningen 17</ADDRESS>
+<TOWN>Copenhagen</TOWN>
+<POSTAL_CODE>1270</POSTAL_CODE>
+<COUNTRY VALUE="DK"/>
+<NUTS CODE="DK011"/>
+</ADDRESS_CONTRACTOR>
+<NO_SME/>
+</CONTRACTOR>
+<VAL_ESTIMATED_TOTAL CURRENCY="EUR">850000.00</VAL_ESTIMATED_TOTAL>
+<VAL_TOTAL CURRENCY="EUR">1276694.00</VAL_TOTAL>
+<LIKELY_SUBCONTRACTED/>
+</AWARDED_CONTRACT>
+</AWARD_CONTRACT>
+<COMPLEMENTARY_INFO>
+<ADDRESS_REVIEW_BODY>
+<OFFICIALNAME>Sąd</OFFICIALNAME>
+<ADDRESS>rue du Fort Niedergrünewald </ADDRESS>
+<TOWN>Luxembourg</TOWN>
+<POSTAL_CODE>2925</POSTAL_CODE>
+<COUNTRY VALUE="LU"/>
+<PHONE>+352 4303-1</PHONE>
+<E_MAIL>cfi.registry@curia.europa.eu</E_MAIL>
+<FAX>+352 4303-2100</FAX>
+<URL>http://curia.europa.eu</URL>
+</ADDRESS_REVIEW_BODY>
+<REVIEW_PROCEDURE>
+<P>w ciągu 2 miesięcy od zawiadomienia strony skarżącej lub, w przypadku braku zawiadomienia, od dnia podania do wiadomości.</P>
+</REVIEW_PROCEDURE>
+<DATE_DISPATCH_NOTICE>2016-09-06</DATE_DISPATCH_NOTICE>
+</COMPLEMENTARY_INFO>
+</F03_2014>
+<F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="SK">
+<CONTRACTING_BODY>
+<ADDRESS_CONTRACTING_BODY>
+<OFFICIALNAME>Frontex</OFFICIALNAME>
+<ADDRESS>Plac Europejski 6</ADDRESS>
+<TOWN>Warsaw</TOWN>
+<POSTAL_CODE>00-844</POSTAL_CODE>
+<COUNTRY VALUE="PL"/>
+<PHONE>+48 222059500</PHONE>
+<E_MAIL>procurement@frontex.europa.eu</E_MAIL>
+<FAX>+48 222059501</FAX>
+<NUTS CODE="PL127"/>
+<URL_GENERAL>www.frontex.europa.eu</URL_GENERAL>
+</ADDRESS_CONTRACTING_BODY>
+<CA_TYPE VALUE="EU_INSTITUTION"/>
+<CA_ACTIVITY_OTHER>Riadenie operačnej spolupráce na vonkajších hraniciach členských štátov Európskej únie.</CA_ACTIVITY_OTHER>
+</CONTRACTING_BODY>
+<OBJECT_CONTRACT>
+<TITLE>
+<P>Digitálne pracovisko MyFrontex (intranet na báze komerčne dostupného softvéru).</P>
+</TITLE>
+<REFERENCE_NUMBER>Frontex/37/2016/JL.</REFERENCE_NUMBER>
+<CPV_MAIN>
+<CPV_CODE CODE="48000000"/>
+</CPV_MAIN>
+<TYPE_CONTRACT CTYPE="SERVICES"/>
+<SHORT_DESCR>
+<P>Frontex hľadá integrované riešenie, ktoré by mohlo prevziať úlohu digitálneho pracoviska, v ktorom sa budú riešiť všetky spoločné úlohy pracovníkov Frontexu bez ohľadu na to, či pracujú v budove riaditeľstva alebo na diaľku.</P>
+</SHORT_DESCR>
+<VAL_TOTAL CURRENCY="EUR">1276694.00</VAL_TOTAL>
+<NO_LOT_DIVISION/>
+<OBJECT_DESCR ITEM="1">
+<NUTS CODE="PL127"/>
+<MAIN_SITE>
+<P>Riaditeľstvo Frontexu, Varšava, Poľsko.</P>
+</MAIN_SITE>
+<SHORT_DESCR>
+<P>Frontex hľadá integrované riešenie, ktoré by mohlo prevziať úlohu digitálneho pracoviska, v ktorom sa budú riešiť všetky spoločné úlohy pracovníkov Frontexu bez ohľadu na to, či pracujú v budove riaditeľstva alebo na diaľku.</P>
+</SHORT_DESCR>
+<AC_QUALITY>
+<AC_CRITERION>Technická kvalita</AC_CRITERION>
+<AC_WEIGHTING>0.60</AC_WEIGHTING>
+</AC_QUALITY>
+<AC_PRICE>
+<AC_WEIGHTING>0.40</AC_WEIGHTING>
+</AC_PRICE>
+<NO_OPTIONS/>
+<NO_EU_PROGR_RELATED/>
+</OBJECT_DESCR>
+</OBJECT_CONTRACT>
+<PROCEDURE>
+<PT_OPEN/>
+<FRAMEWORK/>
+<NO_CONTRACT_COVERED_GPA/>
+<NOTICE_NUMBER_OJ>2016/S 049-080761</NOTICE_NUMBER_OJ>
+</PROCEDURE>
+<AWARD_CONTRACT ITEM="1">
+<CONTRACT_NO>Frontex/OP/37/2016/JL</CONTRACT_NO>
+<TITLE>
+<P>Digitálne pracovisko MyFrontex (intranet na báze komerčne dostupného softvéru)</P>
+</TITLE>
+<AWARDED_CONTRACT>
+<DATE_CONCLUSION_CONTRACT>2016-09-02</DATE_CONCLUSION_CONTRACT>
+<NB_TENDERS_RECEIVED>4</NB_TENDERS_RECEIVED>
+<NO_AWARDED_TO_GROUP/>
+<CONTRACTOR>
+<ADDRESS_CONTRACTOR>
+<OFFICIALNAME>Netcompany IT and Business Consulting A/S</OFFICIALNAME>
+<ADDRESS>Gronningen 17</ADDRESS>
+<TOWN>Copenhagen</TOWN>
+<POSTAL_CODE>1270</POSTAL_CODE>
+<COUNTRY VALUE="DK"/>
+<NUTS CODE="DK011"/>
+</ADDRESS_CONTRACTOR>
+<NO_SME/>
+</CONTRACTOR>
+<VAL_ESTIMATED_TOTAL CURRENCY="EUR">850000.00</VAL_ESTIMATED_TOTAL>
+<VAL_TOTAL CURRENCY="EUR">1276694.00</VAL_TOTAL>
+<LIKELY_SUBCONTRACTED/>
+</AWARDED_CONTRACT>
+</AWARD_CONTRACT>
+<COMPLEMENTARY_INFO>
+<ADDRESS_REVIEW_BODY>
+<OFFICIALNAME>Všeobecný súd</OFFICIALNAME>
+<ADDRESS>rue du Fort Niedergrünewald </ADDRESS>
+<TOWN>Luxembourg</TOWN>
+<POSTAL_CODE>2925</POSTAL_CODE>
+<COUNTRY VALUE="LU"/>
+<PHONE>+352 4303-1</PHONE>
+<E_MAIL>cfi.registry@curia.europa.eu</E_MAIL>
+<FAX>+352 4303-2100</FAX>
+<URL>http://curia.europa.eu</URL>
+</ADDRESS_REVIEW_BODY>
+<REVIEW_PROCEDURE>
+<P>Do 2 mesiacov od vyrozumenia osoby podávajúcej odvolanie alebo, ak to nie je možné, odo dňa, keď túto skutočnosť zistila.</P>
+</REVIEW_PROCEDURE>
+<DATE_DISPATCH_NOTICE>2016-09-06</DATE_DISPATCH_NOTICE>
+</COMPLEMENTARY_INFO>
+</F03_2014>
+<F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="SL">
+<CONTRACTING_BODY>
+<ADDRESS_CONTRACTING_BODY>
+<OFFICIALNAME>Frontex</OFFICIALNAME>
+<ADDRESS>Plac Europejski 6</ADDRESS>
+<TOWN>Warsaw</TOWN>
+<POSTAL_CODE>00-844</POSTAL_CODE>
+<COUNTRY VALUE="PL"/>
+<PHONE>+48 222059500</PHONE>
+<E_MAIL>procurement@frontex.europa.eu</E_MAIL>
+<FAX>+48 222059501</FAX>
+<NUTS CODE="PL127"/>
+<URL_GENERAL>www.frontex.europa.eu</URL_GENERAL>
+</ADDRESS_CONTRACTING_BODY>
+<CA_TYPE VALUE="EU_INSTITUTION"/>
+<CA_ACTIVITY_OTHER>Upravljanje operativnega sodelovanja na zunanjih mejah držav članic EU.</CA_ACTIVITY_OTHER>
+</CONTRACTING_BODY>
+<OBJECT_CONTRACT>
+<TITLE>
+<P>Digitalno delovno mesto MyFrontex (intranet na podlagi COTS).</P>
+</TITLE>
+<REFERENCE_NUMBER>Frontex/37/2016/JL.</REFERENCE_NUMBER>
+<CPV_MAIN>
+<CPV_CODE CODE="48000000"/>
+</CPV_MAIN>
+<TYPE_CONTRACT CTYPE="SERVICES"/>
+<SHORT_DESCR>
+<P>Frontex išče celostno rešitev, ki lahko deluje kot digitalno delovno mesto in ki bo vključevala vse skupne naloge osebja Frontex, ne glede na to, ali dela na sedežu ali na daljavo.</P>
+</SHORT_DESCR>
+<VAL_TOTAL CURRENCY="EUR">1276694.00</VAL_TOTAL>
+<NO_LOT_DIVISION/>
+<OBJECT_DESCR ITEM="1">
+<NUTS CODE="PL127"/>
+<MAIN_SITE>
+<P>Pisarna Frontexa, Varšava, Poljska.</P>
+</MAIN_SITE>
+<SHORT_DESCR>
+<P>Frontex išče celostno rešitev, ki lahko deluje kot digitalno delovno mesto in ki bo vključevala vse skupne naloge osebja Frontex, ne glede na to, ali dela na sedežu ali na daljavo.</P>
+</SHORT_DESCR>
+<AC_QUALITY>
+<AC_CRITERION>Tehnična kakovost</AC_CRITERION>
+<AC_WEIGHTING>0.60</AC_WEIGHTING>
+</AC_QUALITY>
+<AC_PRICE>
+<AC_WEIGHTING>0.40</AC_WEIGHTING>
+</AC_PRICE>
+<NO_OPTIONS/>
+<NO_EU_PROGR_RELATED/>
+</OBJECT_DESCR>
+</OBJECT_CONTRACT>
+<PROCEDURE>
+<PT_OPEN/>
+<FRAMEWORK/>
+<NO_CONTRACT_COVERED_GPA/>
+<NOTICE_NUMBER_OJ>2016/S 049-080761</NOTICE_NUMBER_OJ>
+</PROCEDURE>
+<AWARD_CONTRACT ITEM="1">
+<CONTRACT_NO>Frontex/OP/37/2016/JL</CONTRACT_NO>
+<TITLE>
+<P>Digitalno delovno mesto MyFrontex (intranet na podlagi COTS)</P>
+</TITLE>
+<AWARDED_CONTRACT>
+<DATE_CONCLUSION_CONTRACT>2016-09-02</DATE_CONCLUSION_CONTRACT>
+<NB_TENDERS_RECEIVED>4</NB_TENDERS_RECEIVED>
+<NO_AWARDED_TO_GROUP/>
+<CONTRACTOR>
+<ADDRESS_CONTRACTOR>
+<OFFICIALNAME>Netcompany IT and Business Consulting A/S</OFFICIALNAME>
+<ADDRESS>Gronningen 17</ADDRESS>
+<TOWN>Copenhagen</TOWN>
+<POSTAL_CODE>1270</POSTAL_CODE>
+<COUNTRY VALUE="DK"/>
+<NUTS CODE="DK011"/>
+</ADDRESS_CONTRACTOR>
+<NO_SME/>
+</CONTRACTOR>
+<VAL_ESTIMATED_TOTAL CURRENCY="EUR">850000.00</VAL_ESTIMATED_TOTAL>
+<VAL_TOTAL CURRENCY="EUR">1276694.00</VAL_TOTAL>
+<LIKELY_SUBCONTRACTED/>
+</AWARDED_CONTRACT>
+</AWARD_CONTRACT>
+<COMPLEMENTARY_INFO>
+<ADDRESS_REVIEW_BODY>
+<OFFICIALNAME>Splošno sodišče</OFFICIALNAME>
+<ADDRESS>rue du Fort Niedergrünewald </ADDRESS>
+<TOWN>Luxembourg</TOWN>
+<POSTAL_CODE>2925</POSTAL_CODE>
+<COUNTRY VALUE="LU"/>
+<PHONE>+352 4303-1</PHONE>
+<E_MAIL>cfi.registry@curia.europa.eu</E_MAIL>
+<FAX>+352 4303-2100</FAX>
+<URL>http://curia.europa.eu</URL>
+</ADDRESS_REVIEW_BODY>
+<REVIEW_PROCEDURE>
+<P>v 2 mesecih od uradnega obvestila tožniku ali, če tega ni bilo, od dneva, ko je tožnik zanj izvedel.</P>
+</REVIEW_PROCEDURE>
+<DATE_DISPATCH_NOTICE>2016-09-06</DATE_DISPATCH_NOTICE>
+</COMPLEMENTARY_INFO>
+</F03_2014>
+<F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="GA">
+<CONTRACTING_BODY>
+<ADDRESS_CONTRACTING_BODY>
+<OFFICIALNAME>Frontex</OFFICIALNAME>
+<ADDRESS>Plac Europejski 6</ADDRESS>
+<TOWN>Warsaw</TOWN>
+<POSTAL_CODE>00-844</POSTAL_CODE>
+<COUNTRY VALUE="PL"/>
+<PHONE>+48 222059500</PHONE>
+<E_MAIL>procurement@frontex.europa.eu</E_MAIL>
+<FAX>+48 222059501</FAX>
+<NUTS CODE="PL127"/>
+<URL_GENERAL>www.frontex.europa.eu</URL_GENERAL>
+</ADDRESS_CONTRACTING_BODY>
+<CA_TYPE VALUE="EU_INSTITUTION"/>
+<CA_ACTIVITY_OTHER>Comhoibriú oibríochtúil ag teorainneacha seachtracha Bhallstáit an Aontais Eorpaigh a bhainistiú.</CA_ACTIVITY_OTHER>
+</CONTRACTING_BODY>
+<OBJECT_CONTRACT>
+<TITLE>
+<P>Láthair oibre dhigiteach MyFrontex (inlíon bunaithe ar COTS).</P>
+</TITLE>
+<REFERENCE_NUMBER>Frontex/37/2016/JL.</REFERENCE_NUMBER>
+<CPV_MAIN>
+<CPV_CODE CODE="48000000"/>
+</CPV_MAIN>
+<TYPE_CONTRACT CTYPE="SERVICES"/>
+<SHORT_DESCR>
+<P>Tá réiteach comhtháite ag teastáil ó Frontex ar féidir leis ról de láthair oibre dhigiteach a chomhlíonadh trína ndéanfar freastal ar thascanna coiteanna uile fhoireann Frontex beag beann ar láthair a n-oibre, sa cheanncheathrú nó go cianda.</P>
+</SHORT_DESCR>
+<VAL_TOTAL CURRENCY="EUR">1276694.00</VAL_TOTAL>
+<NO_LOT_DIVISION/>
+<OBJECT_DESCR ITEM="1">
+<NUTS CODE="PL127"/>
+<MAIN_SITE>
+<P>Ceanncheathrú Frontex, Vársá, an Pholainn.</P>
+</MAIN_SITE>
+<SHORT_DESCR>
+<P>Tá réiteach comhtháite ag teastáil ó Frontex ar féidir leis ról de láthair oibre dhigiteach a chomhlíonadh trína ndéanfar freastal ar thascanna coiteanna uile fhoireann Frontex beag beann ar láthair a n-oibre; sa cheanncheathrú nó go cianda.</P>
+</SHORT_DESCR>
+<AC_QUALITY>
+<AC_CRITERION>Cáilíocht theicniúil</AC_CRITERION>
+<AC_WEIGHTING>0.60</AC_WEIGHTING>
+</AC_QUALITY>
+<AC_PRICE>
+<AC_WEIGHTING>0.40</AC_WEIGHTING>
+</AC_PRICE>
+<NO_OPTIONS/>
+<NO_EU_PROGR_RELATED/>
+</OBJECT_DESCR>
+</OBJECT_CONTRACT>
+<PROCEDURE>
+<PT_OPEN/>
+<FRAMEWORK/>
+<NO_CONTRACT_COVERED_GPA/>
+<NOTICE_NUMBER_OJ>2016/S 049-080761</NOTICE_NUMBER_OJ>
+</PROCEDURE>
+<AWARD_CONTRACT ITEM="1">
+<CONTRACT_NO>Frontex/OP/37/2016/JL</CONTRACT_NO>
+<TITLE>
+<P>Láthair oibre dhigiteach MyFrontex (inlíon bunaithe ar COTS)</P>
+</TITLE>
+<AWARDED_CONTRACT>
+<DATE_CONCLUSION_CONTRACT>2016-09-02</DATE_CONCLUSION_CONTRACT>
+<NB_TENDERS_RECEIVED>4</NB_TENDERS_RECEIVED>
+<NO_AWARDED_TO_GROUP/>
+<CONTRACTOR>
+<ADDRESS_CONTRACTOR>
+<OFFICIALNAME>Netcompany IT and Business Consulting A/S</OFFICIALNAME>
+<ADDRESS>Gronningen 17</ADDRESS>
+<TOWN>Copenhagen</TOWN>
+<POSTAL_CODE>1270</POSTAL_CODE>
+<COUNTRY VALUE="DK"/>
+<NUTS CODE="DK011"/>
+</ADDRESS_CONTRACTOR>
+<NO_SME/>
+</CONTRACTOR>
+<VAL_ESTIMATED_TOTAL CURRENCY="EUR">850000.00</VAL_ESTIMATED_TOTAL>
+<VAL_TOTAL CURRENCY="EUR">1276694.00</VAL_TOTAL>
+<LIKELY_SUBCONTRACTED/>
+</AWARDED_CONTRACT>
+</AWARD_CONTRACT>
+<COMPLEMENTARY_INFO>
+<ADDRESS_REVIEW_BODY>
+<OFFICIALNAME>An Chúirt Ghinearálta</OFFICIALNAME>
+<ADDRESS>rue du Fort Niedergrünewald </ADDRESS>
+<TOWN>Luxembourg</TOWN>
+<POSTAL_CODE>2925</POSTAL_CODE>
+<COUNTRY VALUE="LU"/>
+<PHONE>+352 4303-1</PHONE>
+<E_MAIL>cfi.registry@curia.europa.eu</E_MAIL>
+<FAX>+352 4303-2100</FAX>
+<URL>http://curia.europa.eu</URL>
+</ADDRESS_REVIEW_BODY>
+<REVIEW_PROCEDURE>
+<P>Laistigh de 2 mhí ón bhfógra don ghearánaí, nó, dá éagmais sin, ón lá a fuarthas an t-eolas.</P>
+</REVIEW_PROCEDURE>
+<DATE_DISPATCH_NOTICE>2016-09-06</DATE_DISPATCH_NOTICE>
+</COMPLEMENTARY_INFO>
+</F03_2014>
+<F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="BG">
+<CONTRACTING_BODY>
+<ADDRESS_CONTRACTING_BODY>
+<OFFICIALNAME>Frontex</OFFICIALNAME>
+<ADDRESS>Plac Europejski 6</ADDRESS>
+<TOWN>Warsaw</TOWN>
+<POSTAL_CODE>00-844</POSTAL_CODE>
+<COUNTRY VALUE="PL"/>
+<PHONE>+48 222059500</PHONE>
+<E_MAIL>procurement@frontex.europa.eu</E_MAIL>
+<FAX>+48 222059501</FAX>
+<NUTS CODE="PL127"/>
+<URL_GENERAL>www.frontex.europa.eu</URL_GENERAL>
+</ADDRESS_CONTRACTING_BODY>
+<CA_TYPE VALUE="EU_INSTITUTION"/>
+<CA_ACTIVITY_OTHER>Управление на оперативното сътрудничество по външните граници на държавите-членки на ЕС.</CA_ACTIVITY_OTHER>
+</CONTRACTING_BODY>
+<OBJECT_CONTRACT>
+<TITLE>
+<P>Цифрово работно място MyFrontex (интранет, базиран на пазарно утвърден продукт (COTS)).</P>
+</TITLE>
+<REFERENCE_NUMBER>Frontex/37/2016/JL.</REFERENCE_NUMBER>
+<CPV_MAIN>
+<CPV_CODE CODE="48000000"/>
+</CPV_MAIN>
+<TYPE_CONTRACT CTYPE="SERVICES"/>
+<SHORT_DESCR>
+<P>Frontex търси интегрирано решение, което може да поеме ролята на цифрово работно място, което се занимава с всички общи задачи на персонала на Frontex, независимо дали те работят в седалището или дистанционно.</P>
+</SHORT_DESCR>
+<VAL_TOTAL CURRENCY="EUR">1276694.00</VAL_TOTAL>
+<NO_LOT_DIVISION/>
+<OBJECT_DESCR ITEM="1">
+<NUTS CODE="PL127"/>
+<MAIN_SITE>
+<P>седалището на Frontex, Варшава, Полша.</P>
+</MAIN_SITE>
+<SHORT_DESCR>
+<P>Frontex търси интегрирано решение, което може да поеме ролята на цифрово работно място, което се занимава с всички общи задачи на персонала на Frontex, независимо дали те работят в седалището или дистанционно.</P>
+</SHORT_DESCR>
+<AC_QUALITY>
+<AC_CRITERION>Техническо качество</AC_CRITERION>
+<AC_WEIGHTING>0.60</AC_WEIGHTING>
+</AC_QUALITY>
+<AC_PRICE>
+<AC_WEIGHTING>0.40</AC_WEIGHTING>
+</AC_PRICE>
+<NO_OPTIONS/>
+<NO_EU_PROGR_RELATED/>
+</OBJECT_DESCR>
+</OBJECT_CONTRACT>
+<PROCEDURE>
+<PT_OPEN/>
+<FRAMEWORK/>
+<NO_CONTRACT_COVERED_GPA/>
+<NOTICE_NUMBER_OJ>2016/S 049-080761</NOTICE_NUMBER_OJ>
+</PROCEDURE>
+<AWARD_CONTRACT ITEM="1">
+<CONTRACT_NO>Frontex/OP/37/2016/JL</CONTRACT_NO>
+<TITLE>
+<P>Цифрово работно място MyFrontex (интранет, базиран на пазарно утвърден продукт (COTS))</P>
+</TITLE>
+<AWARDED_CONTRACT>
+<DATE_CONCLUSION_CONTRACT>2016-09-02</DATE_CONCLUSION_CONTRACT>
+<NB_TENDERS_RECEIVED>4</NB_TENDERS_RECEIVED>
+<NO_AWARDED_TO_GROUP/>
+<CONTRACTOR>
+<ADDRESS_CONTRACTOR>
+<OFFICIALNAME>Netcompany IT and Business Consulting A/S</OFFICIALNAME>
+<ADDRESS>Gronningen 17</ADDRESS>
+<TOWN>Copenhagen</TOWN>
+<POSTAL_CODE>1270</POSTAL_CODE>
+<COUNTRY VALUE="DK"/>
+<NUTS CODE="DK011"/>
+</ADDRESS_CONTRACTOR>
+<NO_SME/>
+</CONTRACTOR>
+<VAL_ESTIMATED_TOTAL CURRENCY="EUR">850000.00</VAL_ESTIMATED_TOTAL>
+<VAL_TOTAL CURRENCY="EUR">1276694.00</VAL_TOTAL>
+<LIKELY_SUBCONTRACTED/>
+</AWARDED_CONTRACT>
+</AWARD_CONTRACT>
+<COMPLEMENTARY_INFO>
+<ADDRESS_REVIEW_BODY>
+<OFFICIALNAME>Общ съд</OFFICIALNAME>
+<ADDRESS>rue du Fort Niedergrünewald </ADDRESS>
+<TOWN>Luxembourg</TOWN>
+<POSTAL_CODE>2925</POSTAL_CODE>
+<COUNTRY VALUE="LU"/>
+<PHONE>+352 4303-1</PHONE>
+<E_MAIL>cfi.registry@curia.europa.eu</E_MAIL>
+<FAX>+352 4303-2100</FAX>
+<URL>http://curia.europa.eu</URL>
+</ADDRESS_REVIEW_BODY>
+<REVIEW_PROCEDURE>
+<P>В рамките на 2 месеца от получаването на известието от ищеца или, в случай че такова липсва, от деня, в който е станало известно.</P>
+</REVIEW_PROCEDURE>
+<DATE_DISPATCH_NOTICE>2016-09-06</DATE_DISPATCH_NOTICE>
+</COMPLEMENTARY_INFO>
+</F03_2014>
+<F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="RO">
+<CONTRACTING_BODY>
+<ADDRESS_CONTRACTING_BODY>
+<OFFICIALNAME>Frontex</OFFICIALNAME>
+<ADDRESS>Plac Europejski 6</ADDRESS>
+<TOWN>Warsaw</TOWN>
+<POSTAL_CODE>00-844</POSTAL_CODE>
+<COUNTRY VALUE="PL"/>
+<PHONE>+48 222059500</PHONE>
+<E_MAIL>procurement@frontex.europa.eu</E_MAIL>
+<FAX>+48 222059501</FAX>
+<NUTS CODE="PL127"/>
+<URL_GENERAL>www.frontex.europa.eu</URL_GENERAL>
+</ADDRESS_CONTRACTING_BODY>
+<CA_TYPE VALUE="EU_INSTITUTION"/>
+<CA_ACTIVITY_OTHER>gestionarea cooperării operative la frontierele externe ale statelor membre ale UE.</CA_ACTIVITY_OTHER>
+</CONTRACTING_BODY>
+<OBJECT_CONTRACT>
+<TITLE>
+<P>Spațiu de lucru digital MyFrontex (intranet bazat pe COTS).</P>
+</TITLE>
+<REFERENCE_NUMBER>Frontex/37/2016/JL.</REFERENCE_NUMBER>
+<CPV_MAIN>
+<CPV_CODE CODE="48000000"/>
+</CPV_MAIN>
+<TYPE_CONTRACT CTYPE="SERVICES"/>
+<SHORT_DESCR>
+<P>Frontex caută o soluție integrată care să poată prelua rolul de spațiu de lucru digital în care să se desfășoare toate sarcinile comune ale membrilor personalului Frontex, indiferent dacă aceștia lucrează la sediu sau de la distanță.</P>
+</SHORT_DESCR>
+<VAL_TOTAL CURRENCY="EUR">1276694.00</VAL_TOTAL>
+<NO_LOT_DIVISION/>
+<OBJECT_DESCR ITEM="1">
+<NUTS CODE="PL127"/>
+<MAIN_SITE>
+<P>Sediul Frontex, Varșovia, Polonia.</P>
+</MAIN_SITE>
+<SHORT_DESCR>
+<P>Frontex caută o soluție integrată care să poată prelua rolul de spațiu de lucru digital în care să se desfășoare toate sarcinile comune ale membrilor personalului Frontex, indiferent dacă aceștia lucrează la sediu sau de la distanță.</P>
+</SHORT_DESCR>
+<AC_QUALITY>
+<AC_CRITERION>Calitatea tehnică</AC_CRITERION>
+<AC_WEIGHTING>0.60</AC_WEIGHTING>
+</AC_QUALITY>
+<AC_PRICE>
+<AC_WEIGHTING>0.40</AC_WEIGHTING>
+</AC_PRICE>
+<NO_OPTIONS/>
+<NO_EU_PROGR_RELATED/>
+</OBJECT_DESCR>
+</OBJECT_CONTRACT>
+<PROCEDURE>
+<PT_OPEN/>
+<FRAMEWORK/>
+<NO_CONTRACT_COVERED_GPA/>
+<NOTICE_NUMBER_OJ>2016/S 049-080761</NOTICE_NUMBER_OJ>
+</PROCEDURE>
+<AWARD_CONTRACT ITEM="1">
+<CONTRACT_NO>Frontex/OP/37/2016/JL</CONTRACT_NO>
+<TITLE>
+<P>Spațiu de lucru digital MyFrontex (intranet bazat pe COTS)</P>
+</TITLE>
+<AWARDED_CONTRACT>
+<DATE_CONCLUSION_CONTRACT>2016-09-02</DATE_CONCLUSION_CONTRACT>
+<NB_TENDERS_RECEIVED>4</NB_TENDERS_RECEIVED>
+<NO_AWARDED_TO_GROUP/>
+<CONTRACTOR>
+<ADDRESS_CONTRACTOR>
+<OFFICIALNAME>Netcompany IT and Business Consulting A/S</OFFICIALNAME>
+<ADDRESS>Gronningen 17</ADDRESS>
+<TOWN>Copenhagen</TOWN>
+<POSTAL_CODE>1270</POSTAL_CODE>
+<COUNTRY VALUE="DK"/>
+<NUTS CODE="DK011"/>
+</ADDRESS_CONTRACTOR>
+<NO_SME/>
+</CONTRACTOR>
+<VAL_ESTIMATED_TOTAL CURRENCY="EUR">850000.00</VAL_ESTIMATED_TOTAL>
+<VAL_TOTAL CURRENCY="EUR">1276694.00</VAL_TOTAL>
+<LIKELY_SUBCONTRACTED/>
+</AWARDED_CONTRACT>
+</AWARD_CONTRACT>
+<COMPLEMENTARY_INFO>
+<ADDRESS_REVIEW_BODY>
+<OFFICIALNAME>Tribunalul</OFFICIALNAME>
+<ADDRESS>rue du Fort Niedergrünewald </ADDRESS>
+<TOWN>Luxembourg</TOWN>
+<POSTAL_CODE>2925</POSTAL_CODE>
+<COUNTRY VALUE="LU"/>
+<PHONE>+352 4303-1</PHONE>
+<E_MAIL>cfi.registry@curia.europa.eu</E_MAIL>
+<FAX>+352 4303-2100</FAX>
+<URL>http://curia.europa.eu</URL>
+</ADDRESS_REVIEW_BODY>
+<REVIEW_PROCEDURE>
+<P>În termen de 2 luni de la notificarea reclamantului sau, în lipsa acesteia, de la ziua în care acesta a luat cunoștință de actul respectiv.</P>
+</REVIEW_PROCEDURE>
+<DATE_DISPATCH_NOTICE>2016-09-06</DATE_DISPATCH_NOTICE>
+</COMPLEMENTARY_INFO>
+</F03_2014>
+<F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="HR">
+<CONTRACTING_BODY>
+<ADDRESS_CONTRACTING_BODY>
+<OFFICIALNAME>Frontex</OFFICIALNAME>
+<ADDRESS>Plac Europejski 6</ADDRESS>
+<TOWN>Warsaw</TOWN>
+<POSTAL_CODE>00-844</POSTAL_CODE>
+<COUNTRY VALUE="PL"/>
+<PHONE>+48 222059500</PHONE>
+<E_MAIL>procurement@frontex.europa.eu</E_MAIL>
+<FAX>+48 222059501</FAX>
+<NUTS CODE="PL127"/>
+<URL_GENERAL>www.frontex.europa.eu</URL_GENERAL>
+</ADDRESS_CONTRACTING_BODY>
+<CA_TYPE VALUE="EU_INSTITUTION"/>
+<CA_ACTIVITY_OTHER>Upravljanje operativnom suradnjom na vanjskim granicama država članica EU-a.</CA_ACTIVITY_OTHER>
+</CONTRACTING_BODY>
+<OBJECT_CONTRACT>
+<TITLE>
+<P>Digitalno radno mjesto MyFrontex (intranet koji se temelji na COTS-u)</P>
+</TITLE>
+<REFERENCE_NUMBER>Frontex/37/2016/JL.</REFERENCE_NUMBER>
+<CPV_MAIN>
+<CPV_CODE CODE="48000000"/>
+</CPV_MAIN>
+<TYPE_CONTRACT CTYPE="SERVICES"/>
+<SHORT_DESCR>
+<P>Frontex traži integrirano rješenje koje može preuzeti ulogu digitalnog radnog mjesta kojim se rješavaju svi uobičajeni zadaci osoblja Frontexa bez obzira rade li u sjedištu ili na daljinu.</P>
+</SHORT_DESCR>
+<VAL_TOTAL CURRENCY="EUR">1276694.00</VAL_TOTAL>
+<NO_LOT_DIVISION/>
+<OBJECT_DESCR ITEM="1">
+<NUTS CODE="PL127"/>
+<MAIN_SITE>
+<P>Sjedište Frontexa, Varšava, Poljska.</P>
+</MAIN_SITE>
+<SHORT_DESCR>
+<P>Frontex traži integrirano rješenje koje može preuzeti ulogu digitalnog radnog mjesta kojim se rješavaju svi uobičajeni zadaci osoblja Frontexa bez obzira rade li u sjedištu ili na daljinu.</P>
+</SHORT_DESCR>
+<AC_QUALITY>
+<AC_CRITERION>Tehnička kvaliteta</AC_CRITERION>
+<AC_WEIGHTING>0.60</AC_WEIGHTING>
+</AC_QUALITY>
+<AC_PRICE>
+<AC_WEIGHTING>0.40</AC_WEIGHTING>
+</AC_PRICE>
+<NO_OPTIONS/>
+<NO_EU_PROGR_RELATED/>
+</OBJECT_DESCR>
+</OBJECT_CONTRACT>
+<PROCEDURE>
+<PT_OPEN/>
+<FRAMEWORK/>
+<NO_CONTRACT_COVERED_GPA/>
+<NOTICE_NUMBER_OJ>2016/S 049-080761</NOTICE_NUMBER_OJ>
+</PROCEDURE>
+<AWARD_CONTRACT ITEM="1">
+<CONTRACT_NO>Frontex/OP/37/2016/JL</CONTRACT_NO>
+<TITLE>
+<P>Digitalno radno mjesto MyFrontex (intranet koji se temelji na COTS-u)</P>
+</TITLE>
+<AWARDED_CONTRACT>
+<DATE_CONCLUSION_CONTRACT>2016-09-02</DATE_CONCLUSION_CONTRACT>
+<NB_TENDERS_RECEIVED>4</NB_TENDERS_RECEIVED>
+<NO_AWARDED_TO_GROUP/>
+<CONTRACTOR>
+<ADDRESS_CONTRACTOR>
+<OFFICIALNAME>Netcompany IT and Business Consulting A/S</OFFICIALNAME>
+<ADDRESS>Gronningen 17</ADDRESS>
+<TOWN>Copenhagen</TOWN>
+<POSTAL_CODE>1270</POSTAL_CODE>
+<COUNTRY VALUE="DK"/>
+<NUTS CODE="DK011"/>
+</ADDRESS_CONTRACTOR>
+<NO_SME/>
+</CONTRACTOR>
+<VAL_ESTIMATED_TOTAL CURRENCY="EUR">850000.00</VAL_ESTIMATED_TOTAL>
+<VAL_TOTAL CURRENCY="EUR">1276694.00</VAL_TOTAL>
+<LIKELY_SUBCONTRACTED/>
+</AWARDED_CONTRACT>
+</AWARD_CONTRACT>
+<COMPLEMENTARY_INFO>
+<ADDRESS_REVIEW_BODY>
+<OFFICIALNAME>Opći sud</OFFICIALNAME>
+<ADDRESS>rue du Fort Niedergrünewald </ADDRESS>
+<TOWN>Luxembourg</TOWN>
+<POSTAL_CODE>2925</POSTAL_CODE>
+<COUNTRY VALUE="LU"/>
+<PHONE>+352 4303-1</PHONE>
+<E_MAIL>cfi.registry@curia.europa.eu</E_MAIL>
+<FAX>+352 4303-2100</FAX>
+<URL>http://curia.europa.eu</URL>
+</ADDRESS_REVIEW_BODY>
+<REVIEW_PROCEDURE>
+<P>U roku od 2 mjeseca od slanja obavijesti podnositelju žalbe ili, u slučaju izostanka obavijesti, od dana primanja dotičnih okolnosti na znanje.</P>
+</REVIEW_PROCEDURE>
+<DATE_DISPATCH_NOTICE>2016-09-06</DATE_DISPATCH_NOTICE>
+</COMPLEMENTARY_INFO>
+</F03_2014>
+</FORM_SECTION>
+</TED_EXPORT>

@@ -1,0 +1,3899 @@
+<?xml version="1.0" encoding="UTF-8"?><TED_EXPORT xmlns="http://formex.publications.europa.eu/ted/schema/export/R2.0.9.S01.E01" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" VERSION="R2.0.9.S01.E01" xsi:schemaLocation="http://formex.publications.europa.eu/ted/schema/export/R2.0.9.S01.E01 TED_EXPORT.xsd" DOC_ID="409502-2016" EDITION="2016225">
+<TECHNICAL_SECTION>
+<RECEPTION_ID>16-426196-001</RECEPTION_ID>
+<DELETION_DATE>20170218</DELETION_DATE>
+<FORM_LG_LIST>DA DE EN ES FI FR EL IT NL PT SV CS ET HU LT LV MT PL SK SL GA BG RO HR </FORM_LG_LIST>
+<COMMENTS>From Convertor</COMMENTS>
+</TECHNICAL_SECTION>
+<LINKS_SECTION>
+<XML_SCHEMA_DEFINITION_LINK xlink:title="TED WEBSITE" xlink:href="http://ted.europa.eu" xlink:type="simple"/>
+<OFFICIAL_FORMS_LINK xlink:href="http://ted.europa.eu" xlink:type="simple"/>
+<FORMS_LABELS_LINK xlink:href="http://ted.europa.eu" xlink:type="simple"/>
+<ORIGINAL_CPV_LINK xlink:href="http://ted.europa.eu" xlink:type="simple"/>
+<ORIGINAL_NUTS_LINK xlink:href="http://ted.europa.eu" xlink:type="simple"/>
+</LINKS_SECTION>
+<CODED_DATA_SECTION>
+<REF_OJS>
+<COLL_OJ>S</COLL_OJ>
+<NO_OJ>225</NO_OJ>
+<DATE_PUB>20161122</DATE_PUB>
+</REF_OJS>
+<NOTICE_DATA>
+<NO_DOC_OJS>2016/S 225-409502</NO_DOC_OJS>
+<URI_LIST>
+<URI_DOC LG="DA">http://ted.europa.eu/udl?uri=TED:NOTICE:409502-2016:TEXT:DA:HTML</URI_DOC>
+<URI_DOC LG="DE">http://ted.europa.eu/udl?uri=TED:NOTICE:409502-2016:TEXT:DE:HTML</URI_DOC>
+<URI_DOC LG="EN">http://ted.europa.eu/udl?uri=TED:NOTICE:409502-2016:TEXT:EN:HTML</URI_DOC>
+<URI_DOC LG="ES">http://ted.europa.eu/udl?uri=TED:NOTICE:409502-2016:TEXT:ES:HTML</URI_DOC>
+<URI_DOC LG="FI">http://ted.europa.eu/udl?uri=TED:NOTICE:409502-2016:TEXT:FI:HTML</URI_DOC>
+<URI_DOC LG="FR">http://ted.europa.eu/udl?uri=TED:NOTICE:409502-2016:TEXT:FR:HTML</URI_DOC>
+<URI_DOC LG="EL">http://ted.europa.eu/udl?uri=TED:NOTICE:409502-2016:TEXT:EL:HTML</URI_DOC>
+<URI_DOC LG="IT">http://ted.europa.eu/udl?uri=TED:NOTICE:409502-2016:TEXT:IT:HTML</URI_DOC>
+<URI_DOC LG="NL">http://ted.europa.eu/udl?uri=TED:NOTICE:409502-2016:TEXT:NL:HTML</URI_DOC>
+<URI_DOC LG="PT">http://ted.europa.eu/udl?uri=TED:NOTICE:409502-2016:TEXT:PT:HTML</URI_DOC>
+<URI_DOC LG="SV">http://ted.europa.eu/udl?uri=TED:NOTICE:409502-2016:TEXT:SV:HTML</URI_DOC>
+<URI_DOC LG="CS">http://ted.europa.eu/udl?uri=TED:NOTICE:409502-2016:TEXT:CS:HTML</URI_DOC>
+<URI_DOC LG="ET">http://ted.europa.eu/udl?uri=TED:NOTICE:409502-2016:TEXT:ET:HTML</URI_DOC>
+<URI_DOC LG="HU">http://ted.europa.eu/udl?uri=TED:NOTICE:409502-2016:TEXT:HU:HTML</URI_DOC>
+<URI_DOC LG="LT">http://ted.europa.eu/udl?uri=TED:NOTICE:409502-2016:TEXT:LT:HTML</URI_DOC>
+<URI_DOC LG="LV">http://ted.europa.eu/udl?uri=TED:NOTICE:409502-2016:TEXT:LV:HTML</URI_DOC>
+<URI_DOC LG="MT">http://ted.europa.eu/udl?uri=TED:NOTICE:409502-2016:TEXT:MT:HTML</URI_DOC>
+<URI_DOC LG="PL">http://ted.europa.eu/udl?uri=TED:NOTICE:409502-2016:TEXT:PL:HTML</URI_DOC>
+<URI_DOC LG="SK">http://ted.europa.eu/udl?uri=TED:NOTICE:409502-2016:TEXT:SK:HTML</URI_DOC>
+<URI_DOC LG="SL">http://ted.europa.eu/udl?uri=TED:NOTICE:409502-2016:TEXT:SL:HTML</URI_DOC>
+<URI_DOC LG="GA">http://ted.europa.eu/udl?uri=TED:NOTICE:409502-2016:TEXT:GA:HTML</URI_DOC>
+<URI_DOC LG="BG">http://ted.europa.eu/udl?uri=TED:NOTICE:409502-2016:TEXT:BG:HTML</URI_DOC>
+<URI_DOC LG="RO">http://ted.europa.eu/udl?uri=TED:NOTICE:409502-2016:TEXT:RO:HTML</URI_DOC>
+<URI_DOC LG="HR">http://ted.europa.eu/udl?uri=TED:NOTICE:409502-2016:TEXT:HR:HTML</URI_DOC>
+</URI_LIST>
+<LG_ORIG>EN</LG_ORIG>
+<ISO_COUNTRY VALUE="PL"/>
+<IA_URL_GENERAL>http://www.frontex.europa.eu</IA_URL_GENERAL>
+<ORIGINAL_CPV CODE="60610000">Ferry transport services</ORIGINAL_CPV>
+<ORIGINAL_NUTS CODE="GR">ELLADA</ORIGINAL_NUTS>
+<ORIGINAL_NUTS CODE="TR">TURKIYE</ORIGINAL_NUTS>
+<CA_CE_NUTS CODE="PL127">Miasto Warszawa</CA_CE_NUTS>
+<REF_NOTICE>
+<NO_DOC_OJS>2016/S 173-310489</NO_DOC_OJS>
+</REF_NOTICE>
+</NOTICE_DATA>
+<CODIF_DATA>
+<DS_DATE_DISPATCH>20161110</DS_DATE_DISPATCH>
+<AA_AUTHORITY_TYPE CODE="5">European Institution/Agency or International Organisation</AA_AUTHORITY_TYPE>
+<TD_DOCUMENT_TYPE CODE="7">Contract award notice</TD_DOCUMENT_TYPE>
+<NC_CONTRACT_NATURE CODE="4">Services</NC_CONTRACT_NATURE>
+<PR_PROC CODE="1">Open procedure</PR_PROC>
+<RP_REGULATION CODE="3">European Institution/Agency or International Organisation</RP_REGULATION>
+<TY_TYPE_BID CODE="9">Not applicable</TY_TYPE_BID>
+<AC_AWARD_CRIT CODE="2">The most economic tender</AC_AWARD_CRIT>
+<MA_MAIN_ACTIVITIES CODE="S">General public services</MA_MAIN_ACTIVITIES>
+<HEADING>AGC03</HEADING>
+<INITIATOR>AG</INITIATOR>
+<DIRECTIVE VALUE="2014/24/EU"/>
+</CODIF_DATA>
+</CODED_DATA_SECTION>
+<TRANSLATION_SECTION>
+<ML_TITLES>
+<ML_TI_DOC LG="DA">
+<TI_CY>Polen</TI_CY>
+<TI_TOWN>Warszawa</TI_TOWN>
+<TI_TEXT>
+<P>Rammekontrakt om udførelse af passagertransport ad søvejen</P>
+</TI_TEXT>
+</ML_TI_DOC>
+<ML_TI_DOC LG="DE">
+<TI_CY>Polen</TI_CY>
+<TI_TOWN>Warschau</TI_TOWN>
+<TI_TEXT>
+<P>Rahmenvertrag über Personentransferdienstleistungen auf dem Seeweg</P>
+</TI_TEXT>
+</ML_TI_DOC>
+<ML_TI_DOC LG="EN">
+<TI_CY>Poland</TI_CY>
+<TI_TOWN>Warsaw</TI_TOWN>
+<TI_TEXT>
+<P>Framework contract for the provision of passenger transfer services by sea</P>
+</TI_TEXT>
+</ML_TI_DOC>
+<ML_TI_DOC LG="ES">
+<TI_CY>Polonia</TI_CY>
+<TI_TOWN>Varsovia</TI_TOWN>
+<TI_TEXT>
+<P>Contrato marco para la prestación de servicios de transporte de pasajeros por mar</P>
+</TI_TEXT>
+</ML_TI_DOC>
+<ML_TI_DOC LG="FI">
+<TI_CY>Puola</TI_CY>
+<TI_TOWN>Varsova</TI_TOWN>
+<TI_TEXT>
+<P>Puitesopimus matkustajille tarkoitettujen merikuljetuspalveluiden toimittamisesta</P>
+</TI_TEXT>
+</ML_TI_DOC>
+<ML_TI_DOC LG="FR">
+<TI_CY>Pologne</TI_CY>
+<TI_TOWN>Varsovie</TI_TOWN>
+<TI_TEXT>
+<P>Contrat-cadre relatif à la prestation de services de transport maritime de passagers</P>
+</TI_TEXT>
+</ML_TI_DOC>
+<ML_TI_DOC LG="EL">
+<TI_CY>Πολωνία</TI_CY>
+<TI_TOWN>Βαρσοβία</TI_TOWN>
+<TI_TEXT>
+<P>Σύμβαση-πλαίσιο για την παροχή υπηρεσιών θαλάσσιας μεταφοράς επιβατών</P>
+</TI_TEXT>
+</ML_TI_DOC>
+<ML_TI_DOC LG="IT">
+<TI_CY>Polonia</TI_CY>
+<TI_TOWN>Varsavia</TI_TOWN>
+<TI_TEXT>
+<P>Contratto quadro per la prestazione di servizi di trasferimento passeggeri via mare</P>
+</TI_TEXT>
+</ML_TI_DOC>
+<ML_TI_DOC LG="NL">
+<TI_CY>Polen</TI_CY>
+<TI_TOWN>Warschau</TI_TOWN>
+<TI_TEXT>
+<P>Raamovereenkomst voor het verlenen van diensten inzake passagiersvervoer over zee</P>
+</TI_TEXT>
+</ML_TI_DOC>
+<ML_TI_DOC LG="PT">
+<TI_CY>Polónia</TI_CY>
+<TI_TOWN>Varsóvia</TI_TOWN>
+<TI_TEXT>
+<P>Contrato-quadro relativo à prestação de serviços de transporte marítimo de passageiros</P>
+</TI_TEXT>
+</ML_TI_DOC>
+<ML_TI_DOC LG="SV">
+<TI_CY>Polen</TI_CY>
+<TI_TOWN>Warszawa</TI_TOWN>
+<TI_TEXT>
+<P>Ramavtal för tillhandahållande av tjänster för passagerartransport till havs</P>
+</TI_TEXT>
+</ML_TI_DOC>
+<ML_TI_DOC LG="CS">
+<TI_CY>Polsko</TI_CY>
+<TI_TOWN>Varšava</TI_TOWN>
+<TI_TEXT>
+<P>Rámcová smlouva o poskytování služeb přepravy cestujících po moři</P>
+</TI_TEXT>
+</ML_TI_DOC>
+<ML_TI_DOC LG="ET">
+<TI_CY>Poola</TI_CY>
+<TI_TOWN>Varssavi</TI_TOWN>
+<TI_TEXT>
+<P>Reisijate mereveo teenuste osutamise raamleping</P>
+</TI_TEXT>
+</ML_TI_DOC>
+<ML_TI_DOC LG="HU">
+<TI_CY>Lengyelország</TI_CY>
+<TI_TOWN>Varsó</TI_TOWN>
+<TI_TEXT>
+<P>Tengeri személyszállítási szolgáltatások nyújtására irányuló keretszerződés</P>
+</TI_TEXT>
+</ML_TI_DOC>
+<ML_TI_DOC LG="LT">
+<TI_CY>Lenkija</TI_CY>
+<TI_TOWN>Varšuva</TI_TOWN>
+<TI_TEXT>
+<P>Preliminarioji sutartis dėl keleivių vežimo jūra paslaugų teikimo</P>
+</TI_TEXT>
+</ML_TI_DOC>
+<ML_TI_DOC LG="LV">
+<TI_CY>Polija</TI_CY>
+<TI_TOWN>Varšava</TI_TOWN>
+<TI_TEXT>
+<P>Pamatnolīgums par pasažieru pārvadājumu pakalpojumu pa jūru nodrošināšanu</P>
+</TI_TEXT>
+</ML_TI_DOC>
+<ML_TI_DOC LG="MT">
+<TI_CY>il-Polonja</TI_CY>
+<TI_TOWN>Varsavja</TI_TOWN>
+<TI_TEXT>
+<P>Qafas ta' kuntratt għall-provvista ta' servizzi għat-trasferiment tal-passiġġieri bil-baħar</P>
+</TI_TEXT>
+</ML_TI_DOC>
+<ML_TI_DOC LG="PL">
+<TI_CY>Polska</TI_CY>
+<TI_TOWN>Warszawa</TI_TOWN>
+<TI_TEXT>
+<P>Umowa ramowa o świadczenie usług morskich przewozów pasażerskich</P>
+</TI_TEXT>
+</ML_TI_DOC>
+<ML_TI_DOC LG="SK">
+<TI_CY>Poľsko</TI_CY>
+<TI_TOWN>Varšava</TI_TOWN>
+<TI_TEXT>
+<P>Rámcová zmluva na poskytovanie služieb prepravy cestujúcich po mori</P>
+</TI_TEXT>
+</ML_TI_DOC>
+<ML_TI_DOC LG="SL">
+<TI_CY>Poljska</TI_CY>
+<TI_TOWN>Varšava</TI_TOWN>
+<TI_TEXT>
+<P>Okvirno naročilo za zagotavljanje storitev potniškega prometa po morju</P>
+</TI_TEXT>
+</ML_TI_DOC>
+<ML_TI_DOC LG="GA">
+<TI_CY>Pholainn, an</TI_CY>
+<TI_TOWN>Vársá</TI_TOWN>
+<TI_TEXT>
+<P>Conradh creatlaí le haghaidh seirbhísí aistrithe paisinéirí ar muir a sholáthar</P>
+</TI_TEXT>
+</ML_TI_DOC>
+<ML_TI_DOC LG="BG">
+<TI_CY>Полша</TI_CY>
+<TI_TOWN>Варшава</TI_TOWN>
+<TI_TEXT>
+<P>Рамков договор за осигуряване на услуги по трансфер на пътници по море</P>
+</TI_TEXT>
+</ML_TI_DOC>
+<ML_TI_DOC LG="RO">
+<TI_CY>Polonia</TI_CY>
+<TI_TOWN>Varșovia</TI_TOWN>
+<TI_TEXT>
+<P>Contract-cadru pentru prestarea de servicii de transport maritim de pasageri</P>
+</TI_TEXT>
+</ML_TI_DOC>
+<ML_TI_DOC LG="HR">
+<TI_CY>Poljska</TI_CY>
+<TI_TOWN>Varšava</TI_TOWN>
+<TI_TEXT>
+<P>Okvirni ugovor za pružanje usluge prijevoza putnika morem</P>
+</TI_TEXT>
+</ML_TI_DOC>
+</ML_TITLES>
+<ML_AA_NAMES>
+<AA_NAME LG="DA">Frontex</AA_NAME>
+<AA_NAME LG="DE">Frontex</AA_NAME>
+<AA_NAME LG="EN">Frontex</AA_NAME>
+<AA_NAME LG="ES">Frontex</AA_NAME>
+<AA_NAME LG="FI">Frontex</AA_NAME>
+<AA_NAME LG="FR">Frontex</AA_NAME>
+<AA_NAME LG="EL">Frontex</AA_NAME>
+<AA_NAME LG="IT">Frontex</AA_NAME>
+<AA_NAME LG="NL">Frontex</AA_NAME>
+<AA_NAME LG="PT">Frontex</AA_NAME>
+<AA_NAME LG="SV">Frontex</AA_NAME>
+<AA_NAME LG="CS">Frontex</AA_NAME>
+<AA_NAME LG="ET">Frontex</AA_NAME>
+<AA_NAME LG="HU">Frontex</AA_NAME>
+<AA_NAME LG="LT">Frontex</AA_NAME>
+<AA_NAME LG="LV">Frontex</AA_NAME>
+<AA_NAME LG="MT">Frontex</AA_NAME>
+<AA_NAME LG="PL">Frontex</AA_NAME>
+<AA_NAME LG="SK">Frontex</AA_NAME>
+<AA_NAME LG="SL">Frontex</AA_NAME>
+<AA_NAME LG="GA">Frontex</AA_NAME>
+<AA_NAME LG="BG">Frontex</AA_NAME>
+<AA_NAME LG="RO">Frontex</AA_NAME>
+<AA_NAME LG="HR">Frontex</AA_NAME>
+</ML_AA_NAMES>
+</TRANSLATION_SECTION>
+<FORM_SECTION>
+<F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="DA">
+<CONTRACTING_BODY>
+<ADDRESS_CONTRACTING_BODY>
+<OFFICIALNAME>Frontex</OFFICIALNAME>
+<ADDRESS>Plac Europejski 6</ADDRESS>
+<TOWN>Warsaw</TOWN>
+<POSTAL_CODE>00-844</POSTAL_CODE>
+<COUNTRY VALUE="PL"/>
+<PHONE>+48 222059500</PHONE>
+<E_MAIL>procurement@frontex.europa.eu</E_MAIL>
+<FAX>+48 222059501</FAX>
+<NUTS CODE="PL127"/>
+<URL_GENERAL>http://www.frontex.europa.eu</URL_GENERAL>
+</ADDRESS_CONTRACTING_BODY>
+<CA_TYPE VALUE="EU_INSTITUTION"/>
+<CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+</CONTRACTING_BODY>
+<OBJECT_CONTRACT>
+<TITLE>
+<P>Rammekontrakt om udførelse af passagertransport ad søvejen.</P>
+</TITLE>
+<REFERENCE_NUMBER>OP/580/2016/RS.</REFERENCE_NUMBER>
+<CPV_MAIN>
+<CPV_CODE CODE="60610000"/>
+</CPV_MAIN>
+<TYPE_CONTRACT CTYPE="SERVICES"/>
+<SHORT_DESCR>
+<P>Udførelse af passagertransport ad søvejen.</P>
+</SHORT_DESCR>
+<LOT_DIVISION/>
+<OBJECT_DESCR ITEM="1">
+<TITLE>
+<P>Transport af passagerer ad søvejen — et eller flere fuldt reserverede skibe til Frontex uanset antallet af ledige pladser</P>
+</TITLE>
+<LOT_NO>1</LOT_NO>
+<CPV_ADDITIONAL>
+<CPV_CODE CODE="60610000"/>
+</CPV_ADDITIONAL>
+<NUTS CODE="GR"/>
+<NUTS CODE="TR"/>
+<MAIN_SITE>
+<P>Transport af passagerer mellem udpegede havne i Grækenland og Tyrkiet.</P>
+</MAIN_SITE>
+<SHORT_DESCR>
+<P>Transport af passagerer mellem udpegede havne i Grækenland og Tyrkiet i overensstemmelse med bestemmelserne i udbudsmaterialet.</P>
+</SHORT_DESCR>
+<AC_QUALITY>
+<AC_CRITERION>Antal siddepladser</AC_CRITERION>
+<AC_WEIGHTING>20</AC_WEIGHTING>
+</AC_QUALITY>
+<AC_QUALITY>
+<AC_CRITERION>Dækplaner</AC_CRITERION>
+<AC_WEIGHTING>20</AC_WEIGHTING>
+</AC_QUALITY>
+<AC_QUALITY>
+<AC_CRITERION>Hastighed</AC_CRITERION>
+<AC_WEIGHTING>20</AC_WEIGHTING>
+</AC_QUALITY>
+<AC_QUALITY>
+<AC_CRITERION>Havne som er i drift</AC_CRITERION>
+<AC_WEIGHTING>30</AC_WEIGHTING>
+</AC_QUALITY>
+<AC_QUALITY>
+<AC_CRITERION>Antal af foreslåede skibe</AC_CRITERION>
+<AC_WEIGHTING>10</AC_WEIGHTING>
+</AC_QUALITY>
+<AC_PRICE>
+<AC_WEIGHTING>60/40</AC_WEIGHTING>
+</AC_PRICE>
+<NO_OPTIONS/>
+<NO_EU_PROGR_RELATED/>
+</OBJECT_DESCR>
+<OBJECT_DESCR ITEM="2">
+<TITLE>
+<P>Transport af passagerer ad søvejen — et eller flere fuldt reserverede skibe til Frontex uanset antallet af ledige pladser</P>
+</TITLE>
+<LOT_NO>2</LOT_NO>
+<CPV_ADDITIONAL>
+<CPV_CODE CODE="60610000"/>
+</CPV_ADDITIONAL>
+<NUTS CODE="GR"/>
+<NUTS CODE="TR"/>
+<MAIN_SITE>
+<P>Transport af passagerer mellem udpegede havne i Grækenland og Tyrkiet.</P>
+</MAIN_SITE>
+<SHORT_DESCR>
+<P>Transport af passagerer mellem udpegede havne i Grækenland og Tyrkiet i overensstemmelse med bestemmelserne i udbudsmaterialet.</P>
+</SHORT_DESCR>
+<AC_QUALITY>
+<AC_CRITERION>Antal siddepladser</AC_CRITERION>
+<AC_WEIGHTING>20</AC_WEIGHTING>
+</AC_QUALITY>
+<AC_QUALITY>
+<AC_CRITERION>Dækplaner</AC_CRITERION>
+<AC_WEIGHTING>20</AC_WEIGHTING>
+</AC_QUALITY>
+<AC_QUALITY>
+<AC_CRITERION>Hastighed</AC_CRITERION>
+<AC_WEIGHTING>20</AC_WEIGHTING>
+</AC_QUALITY>
+<AC_QUALITY>
+<AC_CRITERION>Havne som er i drift</AC_CRITERION>
+<AC_WEIGHTING>30</AC_WEIGHTING>
+</AC_QUALITY>
+<AC_QUALITY>
+<AC_CRITERION>Antal af foreslåede skibe</AC_CRITERION>
+<AC_WEIGHTING>10</AC_WEIGHTING>
+</AC_QUALITY>
+<AC_PRICE>
+<AC_WEIGHTING>60/40</AC_WEIGHTING>
+</AC_PRICE>
+<NO_OPTIONS/>
+<NO_EU_PROGR_RELATED/>
+</OBJECT_DESCR>
+</OBJECT_CONTRACT>
+<PROCEDURE>
+<PT_OPEN/>
+<ACCELERATED_PROC>
+<P>I betragtning af det store antal ventende tilbagetagelser på medlemsstatsplan må Frontex træffe alle nødvendige foranstaltninger til at sikre, at der øjeblikkeligt ydes medlemsstaterne støtte til at opfylde deres forpligtelser.</P>
+</ACCELERATED_PROC>
+<FRAMEWORK/>
+<NO_CONTRACT_COVERED_GPA/>
+<NOTICE_NUMBER_OJ>2016/S 173-310489</NOTICE_NUMBER_OJ>
+</PROCEDURE>
+<AWARD_CONTRACT ITEM="1">
+<NO_AWARDED_CONTRACT>
+<PROCUREMENT_DISCONTINUED/>
+</NO_AWARDED_CONTRACT>
+</AWARD_CONTRACT>
+<AWARD_CONTRACT ITEM="2">
+<NO_AWARDED_CONTRACT>
+<PROCUREMENT_DISCONTINUED/>
+</NO_AWARDED_CONTRACT>
+</AWARD_CONTRACT>
+<COMPLEMENTARY_INFO>
+<INFO_ADD>
+<P>Annullering af udbudsprocedure på grund af et utilstrækkeligt antal valgbare bud med henblik på at afslutte den multiple rammekontrakt med genåbning af konkurrence.</P>
+</INFO_ADD>
+<ADDRESS_REVIEW_BODY>
+<OFFICIALNAME>Retten</OFFICIALNAME>
+<ADDRESS>rue du Fort Niedergrünewald </ADDRESS>
+<TOWN>Luxembourg</TOWN>
+<POSTAL_CODE>2925</POSTAL_CODE>
+<COUNTRY VALUE="LU"/>
+<PHONE>+352 4303-1</PHONE>
+<FAX>+352 4303-2100</FAX>
+<URL>http://curia.europa.eu</URL>
+</ADDRESS_REVIEW_BODY>
+<DATE_DISPATCH_NOTICE>2016-11-10</DATE_DISPATCH_NOTICE>
+</COMPLEMENTARY_INFO>
+</F03_2014>
+<F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="DE">
+<CONTRACTING_BODY>
+<ADDRESS_CONTRACTING_BODY>
+<OFFICIALNAME>Frontex</OFFICIALNAME>
+<ADDRESS>Plac Europejski 6</ADDRESS>
+<TOWN>Warsaw</TOWN>
+<POSTAL_CODE>00-844</POSTAL_CODE>
+<COUNTRY VALUE="PL"/>
+<PHONE>+48 222059500</PHONE>
+<E_MAIL>procurement@frontex.europa.eu</E_MAIL>
+<FAX>+48 222059501</FAX>
+<NUTS CODE="PL127"/>
+<URL_GENERAL>http://www.frontex.europa.eu</URL_GENERAL>
+</ADDRESS_CONTRACTING_BODY>
+<CA_TYPE VALUE="EU_INSTITUTION"/>
+<CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+</CONTRACTING_BODY>
+<OBJECT_CONTRACT>
+<TITLE>
+<P>Rahmenvertrag über Personentransferdienstleistungen auf dem Seeweg.</P>
+</TITLE>
+<REFERENCE_NUMBER>OP/580/2016/RS.</REFERENCE_NUMBER>
+<CPV_MAIN>
+<CPV_CODE CODE="60610000"/>
+</CPV_MAIN>
+<TYPE_CONTRACT CTYPE="SERVICES"/>
+<SHORT_DESCR>
+<P>Erbringung von Personentransferdienstleistungen auf dem Seeweg.</P>
+</SHORT_DESCR>
+<LOT_DIVISION/>
+<OBJECT_DESCR ITEM="1">
+<TITLE>
+<P>Personentransferdienstleistungen auf dem Seeweg — ungeachtet der Anzahl verfügbarer Sitzplätze für Frontex reservierte(s) einzelnes Schiff/einzelne Schiffe</P>
+</TITLE>
+<LOT_NO>1</LOT_NO>
+<CPV_ADDITIONAL>
+<CPV_CODE CODE="60610000"/>
+</CPV_ADDITIONAL>
+<NUTS CODE="GR"/>
+<NUTS CODE="TR"/>
+<MAIN_SITE>
+<P>Beförderung von Passagieren zwischen bestimmten Häfen in Griechenland und der Türkei.</P>
+</MAIN_SITE>
+<SHORT_DESCR>
+<P>Beförderung von Passagieren zwischen bestimmten Häfen in Griechenland und der Türkei gemäß den in der Leistungsbeschreibung aufgeführten Bestimmungen.</P>
+</SHORT_DESCR>
+<AC_QUALITY>
+<AC_CRITERION>Sitzplätze</AC_CRITERION>
+<AC_WEIGHTING>20</AC_WEIGHTING>
+</AC_QUALITY>
+<AC_QUALITY>
+<AC_CRITERION>Deckspläne</AC_CRITERION>
+<AC_WEIGHTING>20</AC_WEIGHTING>
+</AC_QUALITY>
+<AC_QUALITY>
+<AC_CRITERION>Geschwindigkeit</AC_CRITERION>
+<AC_WEIGHTING>20</AC_WEIGHTING>
+</AC_QUALITY>
+<AC_QUALITY>
+<AC_CRITERION>angelaufene Häfen</AC_CRITERION>
+<AC_WEIGHTING>30</AC_WEIGHTING>
+</AC_QUALITY>
+<AC_QUALITY>
+<AC_CRITERION>vorgeschlagene Anzahl der Schiffe</AC_CRITERION>
+<AC_WEIGHTING>10</AC_WEIGHTING>
+</AC_QUALITY>
+<AC_PRICE>
+<AC_WEIGHTING>60/40</AC_WEIGHTING>
+</AC_PRICE>
+<NO_OPTIONS/>
+<NO_EU_PROGR_RELATED/>
+</OBJECT_DESCR>
+<OBJECT_DESCR ITEM="2">
+<TITLE>
+<P>Personentransferdienstleistungen auf dem Seeweg — ungeachtet der Anzahl verfügbarer Sitzplätze für Frontex reservierte(s) einzelnes Schiff/einzelne Schiffe</P>
+</TITLE>
+<LOT_NO>2</LOT_NO>
+<CPV_ADDITIONAL>
+<CPV_CODE CODE="60610000"/>
+</CPV_ADDITIONAL>
+<NUTS CODE="GR"/>
+<NUTS CODE="TR"/>
+<MAIN_SITE>
+<P>Beförderung von Passagieren zwischen bestimmten Häfen in Griechenland und der Türkei.</P>
+</MAIN_SITE>
+<SHORT_DESCR>
+<P>Beförderung von Passagieren zwischen bestimmten Häfen in Griechenland und der Türkei gemäß den in der Leistungsbeschreibung aufgeführten Bestimmungen.</P>
+</SHORT_DESCR>
+<AC_QUALITY>
+<AC_CRITERION>Sitzplätze</AC_CRITERION>
+<AC_WEIGHTING>20</AC_WEIGHTING>
+</AC_QUALITY>
+<AC_QUALITY>
+<AC_CRITERION>Deckspläne</AC_CRITERION>
+<AC_WEIGHTING>20</AC_WEIGHTING>
+</AC_QUALITY>
+<AC_QUALITY>
+<AC_CRITERION>Geschwindigkeit</AC_CRITERION>
+<AC_WEIGHTING>20</AC_WEIGHTING>
+</AC_QUALITY>
+<AC_QUALITY>
+<AC_CRITERION>angelaufene Häfen</AC_CRITERION>
+<AC_WEIGHTING>30</AC_WEIGHTING>
+</AC_QUALITY>
+<AC_QUALITY>
+<AC_CRITERION>vorgeschlagene Anzahl der Schiffe</AC_CRITERION>
+<AC_WEIGHTING>10</AC_WEIGHTING>
+</AC_QUALITY>
+<AC_PRICE>
+<AC_WEIGHTING>60/40</AC_WEIGHTING>
+</AC_PRICE>
+<NO_OPTIONS/>
+<NO_EU_PROGR_RELATED/>
+</OBJECT_DESCR>
+</OBJECT_CONTRACT>
+<PROCEDURE>
+<PT_OPEN/>
+<ACCELERATED_PROC>
+<P>In Anbetracht der hohen Anzahl noch durchzuführender Rückübernahmen auf Ebene der Mitgliedstaaten muss Frontex alle notwendigen Schritte tätigen, um die sofortige Unterstützung der Mitgliedstaaten zur Erfüllung ihrer Pflichten zu gewährleisten.</P>
+</ACCELERATED_PROC>
+<FRAMEWORK/>
+<NO_CONTRACT_COVERED_GPA/>
+<NOTICE_NUMBER_OJ>2016/S 173-310489</NOTICE_NUMBER_OJ>
+</PROCEDURE>
+<AWARD_CONTRACT ITEM="1">
+<NO_AWARDED_CONTRACT>
+<PROCUREMENT_DISCONTINUED/>
+</NO_AWARDED_CONTRACT>
+</AWARD_CONTRACT>
+<AWARD_CONTRACT ITEM="2">
+<NO_AWARDED_CONTRACT>
+<PROCUREMENT_DISCONTINUED/>
+</NO_AWARDED_CONTRACT>
+</AWARD_CONTRACT>
+<COMPLEMENTARY_INFO>
+<INFO_ADD>
+<P>Annullierung des Ausschreibungsverfahrens, da die Anzahl der zulässigen Angebote nicht ausreichte, um den Mehrfachrahmenvertrag mit erneutem Aufruf zum Wettbewerb zustande kommen zu lassen.</P>
+</INFO_ADD>
+<ADDRESS_REVIEW_BODY>
+<OFFICIALNAME>Gericht der Europäischen Union</OFFICIALNAME>
+<ADDRESS>rue du Fort Niedergrünewald </ADDRESS>
+<TOWN>Luxembourg</TOWN>
+<POSTAL_CODE>2925</POSTAL_CODE>
+<COUNTRY VALUE="LU"/>
+<PHONE>+352 4303-1</PHONE>
+<FAX>+352 4303-2100</FAX>
+<URL>http://curia.europa.eu</URL>
+</ADDRESS_REVIEW_BODY>
+<DATE_DISPATCH_NOTICE>2016-11-10</DATE_DISPATCH_NOTICE>
+</COMPLEMENTARY_INFO>
+</F03_2014>
+<F03_2014 CATEGORY="ORIGINAL" FORM="F03" LG="EN">
+<CONTRACTING_BODY>
+<ADDRESS_CONTRACTING_BODY>
+<OFFICIALNAME>Frontex</OFFICIALNAME>
+<ADDRESS>Plac Europejski 6</ADDRESS>
+<TOWN>Warsaw</TOWN>
+<POSTAL_CODE>00-844</POSTAL_CODE>
+<COUNTRY VALUE="PL"/>
+<PHONE>+48 222059500</PHONE>
+<E_MAIL>procurement@frontex.europa.eu</E_MAIL>
+<FAX>+48 222059501</FAX>
+<NUTS CODE="PL127"/>
+<URL_GENERAL>http://www.frontex.europa.eu</URL_GENERAL>
+</ADDRESS_CONTRACTING_BODY>
+<CA_TYPE VALUE="EU_INSTITUTION"/>
+<CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+</CONTRACTING_BODY>
+<OBJECT_CONTRACT>
+<TITLE>
+<P>Framework contract for the provision of passenger transfer services by sea.</P>
+</TITLE>
+<REFERENCE_NUMBER>OP/580/2016/RS.</REFERENCE_NUMBER>
+<CPV_MAIN>
+<CPV_CODE CODE="60610000"/>
+</CPV_MAIN>
+<TYPE_CONTRACT CTYPE="SERVICES"/>
+<SHORT_DESCR>
+<P>The provision of passenger transfer services by sea.</P>
+</SHORT_DESCR>
+<LOT_DIVISION/>
+<OBJECT_DESCR ITEM="1">
+<TITLE>
+<P>Transfer services by sea for passengers — individual ship(s) fully reserved for Frontex irrespective of the number of available seats</P>
+</TITLE>
+<LOT_NO>1</LOT_NO>
+<CPV_ADDITIONAL>
+<CPV_CODE CODE="60610000"/>
+</CPV_ADDITIONAL>
+<NUTS CODE="GR"/>
+<NUTS CODE="TR"/>
+<MAIN_SITE>
+<P>Transportation of passengers between designated ports in Greece and Turkey.</P>
+</MAIN_SITE>
+<SHORT_DESCR>
+<P>Transportation of passengers between designated ports in Greece and Turkey in line with the provision of terms of reference.</P>
+</SHORT_DESCR>
+<AC_QUALITY>
+<AC_CRITERION>Seating capacity</AC_CRITERION>
+<AC_WEIGHTING>20</AC_WEIGHTING>
+</AC_QUALITY>
+<AC_QUALITY>
+<AC_CRITERION>Deck plans</AC_CRITERION>
+<AC_WEIGHTING>20</AC_WEIGHTING>
+</AC_QUALITY>
+<AC_QUALITY>
+<AC_CRITERION>Speed</AC_CRITERION>
+<AC_WEIGHTING>20</AC_WEIGHTING>
+</AC_QUALITY>
+<AC_QUALITY>
+<AC_CRITERION>Ports operated</AC_CRITERION>
+<AC_WEIGHTING>30</AC_WEIGHTING>
+</AC_QUALITY>
+<AC_QUALITY>
+<AC_CRITERION>Number of ships proposed</AC_CRITERION>
+<AC_WEIGHTING>10</AC_WEIGHTING>
+</AC_QUALITY>
+<AC_PRICE>
+<AC_WEIGHTING>60/40</AC_WEIGHTING>
+</AC_PRICE>
+<NO_OPTIONS/>
+<NO_EU_PROGR_RELATED/>
+</OBJECT_DESCR>
+<OBJECT_DESCR ITEM="2">
+<TITLE>
+<P>Transfer services by sea for passengers — individual ship(s) fully reserved for Frontex irrespective of the number of available seats</P>
+</TITLE>
+<LOT_NO>2</LOT_NO>
+<CPV_ADDITIONAL>
+<CPV_CODE CODE="60610000"/>
+</CPV_ADDITIONAL>
+<NUTS CODE="GR"/>
+<NUTS CODE="TR"/>
+<MAIN_SITE>
+<P>Transportation of passengers between designated ports in Greece and Turkey.</P>
+</MAIN_SITE>
+<SHORT_DESCR>
+<P>Transportation of passengers between designated ports in Greece and Turkey in line with the provision of terms of reference.</P>
+</SHORT_DESCR>
+<AC_QUALITY>
+<AC_CRITERION>Seating capacity</AC_CRITERION>
+<AC_WEIGHTING>20</AC_WEIGHTING>
+</AC_QUALITY>
+<AC_QUALITY>
+<AC_CRITERION>Deck plans</AC_CRITERION>
+<AC_WEIGHTING>20</AC_WEIGHTING>
+</AC_QUALITY>
+<AC_QUALITY>
+<AC_CRITERION>Speed</AC_CRITERION>
+<AC_WEIGHTING>20</AC_WEIGHTING>
+</AC_QUALITY>
+<AC_QUALITY>
+<AC_CRITERION>Ports operated</AC_CRITERION>
+<AC_WEIGHTING>30</AC_WEIGHTING>
+</AC_QUALITY>
+<AC_QUALITY>
+<AC_CRITERION>Number of ships proposed</AC_CRITERION>
+<AC_WEIGHTING>10</AC_WEIGHTING>
+</AC_QUALITY>
+<AC_PRICE>
+<AC_WEIGHTING>60/40</AC_WEIGHTING>
+</AC_PRICE>
+<NO_OPTIONS/>
+<NO_EU_PROGR_RELATED/>
+</OBJECT_DESCR>
+</OBJECT_CONTRACT>
+<PROCEDURE>
+<PT_OPEN/>
+<ACCELERATED_PROC>
+<P>In the consideration of the high number of readmissions pending at the level of Member States Frontex needs to take all the necessary steps to ensure that immediate support is provided to the Member States to fulfil their obligations.</P>
+</ACCELERATED_PROC>
+<FRAMEWORK/>
+<NO_CONTRACT_COVERED_GPA/>
+<NOTICE_NUMBER_OJ>2016/S 173-310489</NOTICE_NUMBER_OJ>
+</PROCEDURE>
+<AWARD_CONTRACT ITEM="1">
+<NO_AWARDED_CONTRACT>
+<PROCUREMENT_DISCONTINUED/>
+</NO_AWARDED_CONTRACT>
+</AWARD_CONTRACT>
+<AWARD_CONTRACT ITEM="2">
+<NO_AWARDED_CONTRACT>
+<PROCUREMENT_DISCONTINUED/>
+</NO_AWARDED_CONTRACT>
+</AWARD_CONTRACT>
+<COMPLEMENTARY_INFO>
+<INFO_ADD>
+<P>Cancellation of tendering procedure due to insufficient number of eligible tenders to finalise the multiple framework contract with reopening of competition.</P>
+</INFO_ADD>
+<ADDRESS_REVIEW_BODY>
+<OFFICIALNAME>General Court</OFFICIALNAME>
+<ADDRESS>rue du Fort Niedergrünewald </ADDRESS>
+<TOWN>Luxembourg</TOWN>
+<POSTAL_CODE>2925</POSTAL_CODE>
+<COUNTRY VALUE="LU"/>
+<PHONE>+352 4303-1</PHONE>
+<FAX>+352 4303-2100</FAX>
+<URL>http://curia.europa.eu</URL>
+</ADDRESS_REVIEW_BODY>
+<DATE_DISPATCH_NOTICE>2016-11-10</DATE_DISPATCH_NOTICE>
+</COMPLEMENTARY_INFO>
+</F03_2014>
+<F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="ES">
+<CONTRACTING_BODY>
+<ADDRESS_CONTRACTING_BODY>
+<OFFICIALNAME>Frontex</OFFICIALNAME>
+<ADDRESS>Plac Europejski 6</ADDRESS>
+<TOWN>Warsaw</TOWN>
+<POSTAL_CODE>00-844</POSTAL_CODE>
+<COUNTRY VALUE="PL"/>
+<PHONE>+48 222059500</PHONE>
+<E_MAIL>procurement@frontex.europa.eu</E_MAIL>
+<FAX>+48 222059501</FAX>
+<NUTS CODE="PL127"/>
+<URL_GENERAL>http://www.frontex.europa.eu</URL_GENERAL>
+</ADDRESS_CONTRACTING_BODY>
+<CA_TYPE VALUE="EU_INSTITUTION"/>
+<CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+</CONTRACTING_BODY>
+<OBJECT_CONTRACT>
+<TITLE>
+<P>Contrato marco para la prestación de servicios de transporte de pasajeros por mar.</P>
+</TITLE>
+<REFERENCE_NUMBER>OP/580/2016/RS.</REFERENCE_NUMBER>
+<CPV_MAIN>
+<CPV_CODE CODE="60610000"/>
+</CPV_MAIN>
+<TYPE_CONTRACT CTYPE="SERVICES"/>
+<SHORT_DESCR>
+<P>Prestación de servicios de transporte de pasajeros por mar.</P>
+</SHORT_DESCR>
+<LOT_DIVISION/>
+<OBJECT_DESCR ITEM="1">
+<TITLE>
+<P>Servicios de transporte marítimo para pasajeros; buque(s) individual(es) reservado(s) en su totalidad para Frontex, independientemente del número de plazas disponibles</P>
+</TITLE>
+<LOT_NO>1</LOT_NO>
+<CPV_ADDITIONAL>
+<CPV_CODE CODE="60610000"/>
+</CPV_ADDITIONAL>
+<NUTS CODE="GR"/>
+<NUTS CODE="TR"/>
+<MAIN_SITE>
+<P>Transporte de pasajeros entre puertos designados en Grecia y Turquía.</P>
+</MAIN_SITE>
+<SHORT_DESCR>
+<P>Transporte de pasajeros entre puertos designados en Grecia y Turquía, conforme a lo dispuesto en los términos de referencia.</P>
+</SHORT_DESCR>
+<AC_QUALITY>
+<AC_CRITERION>número de asientos</AC_CRITERION>
+<AC_WEIGHTING>20</AC_WEIGHTING>
+</AC_QUALITY>
+<AC_QUALITY>
+<AC_CRITERION>planos de la cubierta</AC_CRITERION>
+<AC_WEIGHTING>20</AC_WEIGHTING>
+</AC_QUALITY>
+<AC_QUALITY>
+<AC_CRITERION>velocidad</AC_CRITERION>
+<AC_WEIGHTING>20</AC_WEIGHTING>
+</AC_QUALITY>
+<AC_QUALITY>
+<AC_CRITERION>puertos en los que se opera</AC_CRITERION>
+<AC_WEIGHTING>30</AC_WEIGHTING>
+</AC_QUALITY>
+<AC_QUALITY>
+<AC_CRITERION>número de buques propuestos</AC_CRITERION>
+<AC_WEIGHTING>10</AC_WEIGHTING>
+</AC_QUALITY>
+<AC_PRICE>
+<AC_WEIGHTING>60/40</AC_WEIGHTING>
+</AC_PRICE>
+<NO_OPTIONS/>
+<NO_EU_PROGR_RELATED/>
+</OBJECT_DESCR>
+<OBJECT_DESCR ITEM="2">
+<TITLE>
+<P>Servicios de transporte marítimo para pasajeros; buque(s) individual(es) reservado(s) en su totalidad para Frontex, independientemente del número de plazas disponibles</P>
+</TITLE>
+<LOT_NO>2</LOT_NO>
+<CPV_ADDITIONAL>
+<CPV_CODE CODE="60610000"/>
+</CPV_ADDITIONAL>
+<NUTS CODE="GR"/>
+<NUTS CODE="TR"/>
+<MAIN_SITE>
+<P>Transporte de pasajeros entre puertos designados en Grecia y Turquía.</P>
+</MAIN_SITE>
+<SHORT_DESCR>
+<P>Transporte de pasajeros entre puertos designados en Grecia y Turquía, conforme a lo dispuesto en los términos de referencia.</P>
+</SHORT_DESCR>
+<AC_QUALITY>
+<AC_CRITERION>número de asientos</AC_CRITERION>
+<AC_WEIGHTING>20</AC_WEIGHTING>
+</AC_QUALITY>
+<AC_QUALITY>
+<AC_CRITERION>planos de la cubierta</AC_CRITERION>
+<AC_WEIGHTING>20</AC_WEIGHTING>
+</AC_QUALITY>
+<AC_QUALITY>
+<AC_CRITERION>velocidad</AC_CRITERION>
+<AC_WEIGHTING>20</AC_WEIGHTING>
+</AC_QUALITY>
+<AC_QUALITY>
+<AC_CRITERION>puertos en los que se opera</AC_CRITERION>
+<AC_WEIGHTING>30</AC_WEIGHTING>
+</AC_QUALITY>
+<AC_QUALITY>
+<AC_CRITERION>número de buques propuestos</AC_CRITERION>
+<AC_WEIGHTING>10</AC_WEIGHTING>
+</AC_QUALITY>
+<AC_PRICE>
+<AC_WEIGHTING>60/40</AC_WEIGHTING>
+</AC_PRICE>
+<NO_OPTIONS/>
+<NO_EU_PROGR_RELATED/>
+</OBJECT_DESCR>
+</OBJECT_CONTRACT>
+<PROCEDURE>
+<PT_OPEN/>
+<ACCELERATED_PROC>
+<P>Teniendo en cuenta la gran cantidad de readmisiones pendientes a escala de los Estados miembros, Frontex deberá tomar todas las medidas necesarias para garantizar que se prestará un apoyo inmediato a los Estados Miembros para que cumplan sus obligaciones.</P>
+</ACCELERATED_PROC>
+<FRAMEWORK/>
+<NO_CONTRACT_COVERED_GPA/>
+<NOTICE_NUMBER_OJ>2016/S 173-310489</NOTICE_NUMBER_OJ>
+</PROCEDURE>
+<AWARD_CONTRACT ITEM="1">
+<NO_AWARDED_CONTRACT>
+<PROCUREMENT_DISCONTINUED/>
+</NO_AWARDED_CONTRACT>
+</AWARD_CONTRACT>
+<AWARD_CONTRACT ITEM="2">
+<NO_AWARDED_CONTRACT>
+<PROCUREMENT_DISCONTINUED/>
+</NO_AWARDED_CONTRACT>
+</AWARD_CONTRACT>
+<COMPLEMENTARY_INFO>
+<INFO_ADD>
+<P>Anulación del procedimiento de licitación debido al número insuficiente de ofertas elegibles para finalizar el contrato marco múltiple con reapertura de concurso.</P>
+</INFO_ADD>
+<ADDRESS_REVIEW_BODY>
+<OFFICIALNAME>Tribunal General</OFFICIALNAME>
+<ADDRESS>rue du Fort Niedergrünewald </ADDRESS>
+<TOWN>Luxembourg</TOWN>
+<POSTAL_CODE>2925</POSTAL_CODE>
+<COUNTRY VALUE="LU"/>
+<PHONE>+352 4303-1</PHONE>
+<FAX>+352 4303-2100</FAX>
+<URL>http://curia.europa.eu</URL>
+</ADDRESS_REVIEW_BODY>
+<DATE_DISPATCH_NOTICE>2016-11-10</DATE_DISPATCH_NOTICE>
+</COMPLEMENTARY_INFO>
+</F03_2014>
+<F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="FI">
+<CONTRACTING_BODY>
+<ADDRESS_CONTRACTING_BODY>
+<OFFICIALNAME>Frontex</OFFICIALNAME>
+<ADDRESS>Plac Europejski 6</ADDRESS>
+<TOWN>Warsaw</TOWN>
+<POSTAL_CODE>00-844</POSTAL_CODE>
+<COUNTRY VALUE="PL"/>
+<PHONE>+48 222059500</PHONE>
+<E_MAIL>procurement@frontex.europa.eu</E_MAIL>
+<FAX>+48 222059501</FAX>
+<NUTS CODE="PL127"/>
+<URL_GENERAL>http://www.frontex.europa.eu</URL_GENERAL>
+</ADDRESS_CONTRACTING_BODY>
+<CA_TYPE VALUE="EU_INSTITUTION"/>
+<CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+</CONTRACTING_BODY>
+<OBJECT_CONTRACT>
+<TITLE>
+<P>Puitesopimus matkustajille tarkoitettujen merikuljetuspalveluiden toimittamisesta</P>
+</TITLE>
+<REFERENCE_NUMBER>OP/580/2016/RS.</REFERENCE_NUMBER>
+<CPV_MAIN>
+<CPV_CODE CODE="60610000"/>
+</CPV_MAIN>
+<TYPE_CONTRACT CTYPE="SERVICES"/>
+<SHORT_DESCR>
+<P>Sopimuksen kohteena on matkustajille tarkoitettujen merikuljetuspalveluiden toimittaminen.</P>
+</SHORT_DESCR>
+<LOT_DIVISION/>
+<OBJECT_DESCR ITEM="1">
+<TITLE>
+<P>Matkustajille tarkoitetut merikuljetuspalvelut – kokonaan Frontexin käyttöön varattu yksittäinen laiva (yksittäiset laivat) saatavilla olevien istumapaikkojen määrästä riippumatta</P>
+</TITLE>
+<LOT_NO>1</LOT_NO>
+<CPV_ADDITIONAL>
+<CPV_CODE CODE="60610000"/>
+</CPV_ADDITIONAL>
+<NUTS CODE="GR"/>
+<NUTS CODE="TR"/>
+<MAIN_SITE>
+<P>matkustajien kuljettaminen suoritetaan Kreikassa ja Turkissa sijaitsevien nimettyjen satamien välillä.</P>
+</MAIN_SITE>
+<SHORT_DESCR>
+<P>Sopimuksen kohteena on matkustajien kuljettaminen Kreikassa ja Turkissa sijaitsevien nimettyjen satamien välillä tehtävänkuvauksen ehtojen mukaisesti.</P>
+</SHORT_DESCR>
+<AC_QUALITY>
+<AC_CRITERION>istumapaikkojen määrä</AC_CRITERION>
+<AC_WEIGHTING>20</AC_WEIGHTING>
+</AC_QUALITY>
+<AC_QUALITY>
+<AC_CRITERION>kansikartat</AC_CRITERION>
+<AC_WEIGHTING>20</AC_WEIGHTING>
+</AC_QUALITY>
+<AC_QUALITY>
+<AC_CRITERION>nopeus</AC_CRITERION>
+<AC_WEIGHTING>20</AC_WEIGHTING>
+</AC_QUALITY>
+<AC_QUALITY>
+<AC_CRITERION>liikennöidyt satamat</AC_CRITERION>
+<AC_WEIGHTING>30</AC_WEIGHTING>
+</AC_QUALITY>
+<AC_QUALITY>
+<AC_CRITERION>ehdotettujen alusten määrä</AC_CRITERION>
+<AC_WEIGHTING>10</AC_WEIGHTING>
+</AC_QUALITY>
+<AC_PRICE>
+<AC_WEIGHTING>60/40</AC_WEIGHTING>
+</AC_PRICE>
+<NO_OPTIONS/>
+<NO_EU_PROGR_RELATED/>
+</OBJECT_DESCR>
+<OBJECT_DESCR ITEM="2">
+<TITLE>
+<P>Matkustajille tarkoitetut merikuljetuspalvelut – kokonaan Frontexin käyttöön varattu yksittäinen laiva (yksittäiset laivat) saatavilla olevien istumapaikkojen määrästä riippumatta</P>
+</TITLE>
+<LOT_NO>2</LOT_NO>
+<CPV_ADDITIONAL>
+<CPV_CODE CODE="60610000"/>
+</CPV_ADDITIONAL>
+<NUTS CODE="GR"/>
+<NUTS CODE="TR"/>
+<MAIN_SITE>
+<P>matkustajien kuljettaminen suoritetaan Kreikassa ja Turkissa sijaitsevien nimettyjen satamien välillä.</P>
+</MAIN_SITE>
+<SHORT_DESCR>
+<P>Sopimuksen kohteena on matkustajien kuljettaminen Kreikassa ja Turkissa sijaitsevien nimettyjen satamien välillä tehtävänkuvauksen ehtojen mukaisesti.</P>
+</SHORT_DESCR>
+<AC_QUALITY>
+<AC_CRITERION>istumapaikkojen määrä</AC_CRITERION>
+<AC_WEIGHTING>20</AC_WEIGHTING>
+</AC_QUALITY>
+<AC_QUALITY>
+<AC_CRITERION>kansikartat</AC_CRITERION>
+<AC_WEIGHTING>20</AC_WEIGHTING>
+</AC_QUALITY>
+<AC_QUALITY>
+<AC_CRITERION>nopeus</AC_CRITERION>
+<AC_WEIGHTING>20</AC_WEIGHTING>
+</AC_QUALITY>
+<AC_QUALITY>
+<AC_CRITERION>liikennöidyt satamat</AC_CRITERION>
+<AC_WEIGHTING>30</AC_WEIGHTING>
+</AC_QUALITY>
+<AC_QUALITY>
+<AC_CRITERION>ehdotettujen alusten määrä</AC_CRITERION>
+<AC_WEIGHTING>10</AC_WEIGHTING>
+</AC_QUALITY>
+<AC_PRICE>
+<AC_WEIGHTING>60/40</AC_WEIGHTING>
+</AC_PRICE>
+<NO_OPTIONS/>
+<NO_EU_PROGR_RELATED/>
+</OBJECT_DESCR>
+</OBJECT_CONTRACT>
+<PROCEDURE>
+<PT_OPEN/>
+<ACCELERATED_PROC>
+<P>jäsenvaltioiden tasolla käsiteltävinä olevien takaisinottojen suuren määrän vuoksi Frontexin on tehtävä kaikki tarvittavat toimenpiteet sen varmistamiseksi, että jäsenvaltioille toimitetaan välitöntä tukea jäsenvaltioiden velvoitteiden täyttämiseksi.</P>
+</ACCELERATED_PROC>
+<FRAMEWORK/>
+<NO_CONTRACT_COVERED_GPA/>
+<NOTICE_NUMBER_OJ>2016/S 173-310489</NOTICE_NUMBER_OJ>
+</PROCEDURE>
+<AWARD_CONTRACT ITEM="1">
+<NO_AWARDED_CONTRACT>
+<PROCUREMENT_DISCONTINUED/>
+</NO_AWARDED_CONTRACT>
+</AWARD_CONTRACT>
+<AWARD_CONTRACT ITEM="2">
+<NO_AWARDED_CONTRACT>
+<PROCUREMENT_DISCONTINUED/>
+</NO_AWARDED_CONTRACT>
+</AWARD_CONTRACT>
+<COMPLEMENTARY_INFO>
+<INFO_ADD>
+<P>Tarjousmenettely on peruutettu, koska valintakelpoisia tarjouksia ei ollut riittävästi rinnakkaisen puitesopimuksen loppuun saattamiseksi kilpailun uudelleenkäynnistämisen avulla.</P>
+</INFO_ADD>
+<ADDRESS_REVIEW_BODY>
+<OFFICIALNAME>Unionin yleinen tuomioistuin</OFFICIALNAME>
+<ADDRESS>rue du Fort Niedergrünewald </ADDRESS>
+<TOWN>Luxembourg</TOWN>
+<POSTAL_CODE>2925</POSTAL_CODE>
+<COUNTRY VALUE="LU"/>
+<PHONE>+352 4303-1</PHONE>
+<FAX>+352 4303-2100</FAX>
+<URL>http://curia.europa.eu</URL>
+</ADDRESS_REVIEW_BODY>
+<DATE_DISPATCH_NOTICE>2016-11-10</DATE_DISPATCH_NOTICE>
+</COMPLEMENTARY_INFO>
+</F03_2014>
+<F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="FR">
+<CONTRACTING_BODY>
+<ADDRESS_CONTRACTING_BODY>
+<OFFICIALNAME>Frontex</OFFICIALNAME>
+<ADDRESS>Plac Europejski 6</ADDRESS>
+<TOWN>Warsaw</TOWN>
+<POSTAL_CODE>00-844</POSTAL_CODE>
+<COUNTRY VALUE="PL"/>
+<PHONE>+48 222059500</PHONE>
+<E_MAIL>procurement@frontex.europa.eu</E_MAIL>
+<FAX>+48 222059501</FAX>
+<NUTS CODE="PL127"/>
+<URL_GENERAL>http://www.frontex.europa.eu</URL_GENERAL>
+</ADDRESS_CONTRACTING_BODY>
+<CA_TYPE VALUE="EU_INSTITUTION"/>
+<CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+</CONTRACTING_BODY>
+<OBJECT_CONTRACT>
+<TITLE>
+<P>Contrat-cadre relatif à la prestation de services de transport maritime de passagers.</P>
+</TITLE>
+<REFERENCE_NUMBER>OP/580/2016/RS.</REFERENCE_NUMBER>
+<CPV_MAIN>
+<CPV_CODE CODE="60610000"/>
+</CPV_MAIN>
+<TYPE_CONTRACT CTYPE="SERVICES"/>
+<SHORT_DESCR>
+<P>Prestation de services de transport maritime de passagers.</P>
+</SHORT_DESCR>
+<LOT_DIVISION/>
+<OBJECT_DESCR ITEM="1">
+<TITLE>
+<P>Services de transport maritime de passagers — navire(s) individuel(s) entièrement réservé(s) pour Frontex, indépendamment du nombre de sièges disponibles</P>
+</TITLE>
+<LOT_NO>1</LOT_NO>
+<CPV_ADDITIONAL>
+<CPV_CODE CODE="60610000"/>
+</CPV_ADDITIONAL>
+<NUTS CODE="GR"/>
+<NUTS CODE="TR"/>
+<MAIN_SITE>
+<P>transport de passagers entre des ports désignés en Grèce et en Turquie.</P>
+</MAIN_SITE>
+<SHORT_DESCR>
+<P>Transport de passagers entre des ports désignés en Grèce et en Turquie conformément aux dispositions du cahier des charges.</P>
+</SHORT_DESCR>
+<AC_QUALITY>
+<AC_CRITERION>nombre de sièges</AC_CRITERION>
+<AC_WEIGHTING>20</AC_WEIGHTING>
+</AC_QUALITY>
+<AC_QUALITY>
+<AC_CRITERION>plans de ponts</AC_CRITERION>
+<AC_WEIGHTING>20</AC_WEIGHTING>
+</AC_QUALITY>
+<AC_QUALITY>
+<AC_CRITERION>vitesse</AC_CRITERION>
+<AC_WEIGHTING>20</AC_WEIGHTING>
+</AC_QUALITY>
+<AC_QUALITY>
+<AC_CRITERION>ports desservis</AC_CRITERION>
+<AC_WEIGHTING>30</AC_WEIGHTING>
+</AC_QUALITY>
+<AC_QUALITY>
+<AC_CRITERION>nombre de navires proposés</AC_CRITERION>
+<AC_WEIGHTING>10</AC_WEIGHTING>
+</AC_QUALITY>
+<AC_PRICE>
+<AC_WEIGHTING>60/40</AC_WEIGHTING>
+</AC_PRICE>
+<NO_OPTIONS/>
+<NO_EU_PROGR_RELATED/>
+</OBJECT_DESCR>
+<OBJECT_DESCR ITEM="2">
+<TITLE>
+<P>Services de transport maritime de passagers — navire(s) individuel(s) entièrement réservé(s) pour Frontex, indépendamment du nombre de sièges disponibles</P>
+</TITLE>
+<LOT_NO>2</LOT_NO>
+<CPV_ADDITIONAL>
+<CPV_CODE CODE="60610000"/>
+</CPV_ADDITIONAL>
+<NUTS CODE="GR"/>
+<NUTS CODE="TR"/>
+<MAIN_SITE>
+<P>transport de passagers entre des ports désignés en Grèce et en Turquie.</P>
+</MAIN_SITE>
+<SHORT_DESCR>
+<P>Transport de passagers entre des ports désignés en Grèce et en Turquie conformément aux dispositions du cahier des charges.</P>
+</SHORT_DESCR>
+<AC_QUALITY>
+<AC_CRITERION>nombre de sièges</AC_CRITERION>
+<AC_WEIGHTING>20</AC_WEIGHTING>
+</AC_QUALITY>
+<AC_QUALITY>
+<AC_CRITERION>plans de ponts</AC_CRITERION>
+<AC_WEIGHTING>20</AC_WEIGHTING>
+</AC_QUALITY>
+<AC_QUALITY>
+<AC_CRITERION>vitesse</AC_CRITERION>
+<AC_WEIGHTING>20</AC_WEIGHTING>
+</AC_QUALITY>
+<AC_QUALITY>
+<AC_CRITERION>ports desservis</AC_CRITERION>
+<AC_WEIGHTING>30</AC_WEIGHTING>
+</AC_QUALITY>
+<AC_QUALITY>
+<AC_CRITERION>nombre de navires proposés</AC_CRITERION>
+<AC_WEIGHTING>10</AC_WEIGHTING>
+</AC_QUALITY>
+<AC_PRICE>
+<AC_WEIGHTING>60/40</AC_WEIGHTING>
+</AC_PRICE>
+<NO_OPTIONS/>
+<NO_EU_PROGR_RELATED/>
+</OBJECT_DESCR>
+</OBJECT_CONTRACT>
+<PROCEDURE>
+<PT_OPEN/>
+<ACCELERATED_PROC>
+<P>au vu du nombre élevé de réadmissions en attente au niveau des États membres, Frontex doit prendre toutes les mesures nécessaires pour garantir qu'une aide immédiate est apportée aux États membres afin qu'ils remplissent leurs obligations.</P>
+</ACCELERATED_PROC>
+<FRAMEWORK/>
+<NO_CONTRACT_COVERED_GPA/>
+<NOTICE_NUMBER_OJ>2016/S 173-310489</NOTICE_NUMBER_OJ>
+</PROCEDURE>
+<AWARD_CONTRACT ITEM="1">
+<NO_AWARDED_CONTRACT>
+<PROCUREMENT_DISCONTINUED/>
+</NO_AWARDED_CONTRACT>
+</AWARD_CONTRACT>
+<AWARD_CONTRACT ITEM="2">
+<NO_AWARDED_CONTRACT>
+<PROCUREMENT_DISCONTINUED/>
+</NO_AWARDED_CONTRACT>
+</AWARD_CONTRACT>
+<COMPLEMENTARY_INFO>
+<INFO_ADD>
+<P>Annulation de la procédure de passation en raison d'un nombre insuffisant d'offres recevables pour finaliser le contrat-cadre multiple avec remise en concurrence.</P>
+</INFO_ADD>
+<ADDRESS_REVIEW_BODY>
+<OFFICIALNAME>Tribunal</OFFICIALNAME>
+<ADDRESS>rue du Fort Niedergrünewald </ADDRESS>
+<TOWN>Luxembourg</TOWN>
+<POSTAL_CODE>2925</POSTAL_CODE>
+<COUNTRY VALUE="LU"/>
+<PHONE>+352 4303-1</PHONE>
+<FAX>+352 4303-2100</FAX>
+<URL>http://curia.europa.eu</URL>
+</ADDRESS_REVIEW_BODY>
+<DATE_DISPATCH_NOTICE>2016-11-10</DATE_DISPATCH_NOTICE>
+</COMPLEMENTARY_INFO>
+</F03_2014>
+<F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="EL">
+<CONTRACTING_BODY>
+<ADDRESS_CONTRACTING_BODY>
+<OFFICIALNAME>Frontex</OFFICIALNAME>
+<ADDRESS>Plac Europejski 6</ADDRESS>
+<TOWN>Warsaw</TOWN>
+<POSTAL_CODE>00-844</POSTAL_CODE>
+<COUNTRY VALUE="PL"/>
+<PHONE>+48 222059500</PHONE>
+<E_MAIL>procurement@frontex.europa.eu</E_MAIL>
+<FAX>+48 222059501</FAX>
+<NUTS CODE="PL127"/>
+<URL_GENERAL>http://www.frontex.europa.eu</URL_GENERAL>
+</ADDRESS_CONTRACTING_BODY>
+<CA_TYPE VALUE="EU_INSTITUTION"/>
+<CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+</CONTRACTING_BODY>
+<OBJECT_CONTRACT>
+<TITLE>
+<P>Σύμβαση-πλαίσιο για την παροχή υπηρεσιών θαλάσσιας μεταφοράς επιβατών.</P>
+</TITLE>
+<REFERENCE_NUMBER>OP/580/2016/RS.</REFERENCE_NUMBER>
+<CPV_MAIN>
+<CPV_CODE CODE="60610000"/>
+</CPV_MAIN>
+<TYPE_CONTRACT CTYPE="SERVICES"/>
+<SHORT_DESCR>
+<P>Παροχή υπηρεσιών θαλάσσιας μεταφοράς επιβατών.</P>
+</SHORT_DESCR>
+<LOT_DIVISION/>
+<OBJECT_DESCR ITEM="1">
+<TITLE>
+<P>Υπηρεσίες θαλάσσιας μεταφοράς επιβατών — μεμονωμένο(α) πλοίο(α) που προορίζεται(ονται) αποκλειστικά για τον Frontex ανεξαρτήτως του αριθμού των διαθέσιμων καθισμάτων</P>
+</TITLE>
+<LOT_NO>1</LOT_NO>
+<CPV_ADDITIONAL>
+<CPV_CODE CODE="60610000"/>
+</CPV_ADDITIONAL>
+<NUTS CODE="GR"/>
+<NUTS CODE="TR"/>
+<MAIN_SITE>
+<P>Μεταφορά επιβατών μεταξύ καθορισμένων λιμένων στην Ελλάδα και την Τουρκία.</P>
+</MAIN_SITE>
+<SHORT_DESCR>
+<P>Μεταφορά επιβατών μεταξύ καθορισμένων λιμένων στην Ελλάδα και την Τουρκία, σύμφωνα με τις διατάξεις των όρων αναφοράς.</P>
+</SHORT_DESCR>
+<AC_QUALITY>
+<AC_CRITERION>Χωρητικότητα θέσεων</AC_CRITERION>
+<AC_WEIGHTING>20</AC_WEIGHTING>
+</AC_QUALITY>
+<AC_QUALITY>
+<AC_CRITERION>Σχέδια καταστρώματος</AC_CRITERION>
+<AC_WEIGHTING>20</AC_WEIGHTING>
+</AC_QUALITY>
+<AC_QUALITY>
+<AC_CRITERION>Ταχύτητα</AC_CRITERION>
+<AC_WEIGHTING>20</AC_WEIGHTING>
+</AC_QUALITY>
+<AC_QUALITY>
+<AC_CRITERION>Λιμένες λειτουργίας</AC_CRITERION>
+<AC_WEIGHTING>30</AC_WEIGHTING>
+</AC_QUALITY>
+<AC_QUALITY>
+<AC_CRITERION>Αριθμός προτεινόμενων πλοίων</AC_CRITERION>
+<AC_WEIGHTING>10</AC_WEIGHTING>
+</AC_QUALITY>
+<AC_PRICE>
+<AC_WEIGHTING>60/40</AC_WEIGHTING>
+</AC_PRICE>
+<NO_OPTIONS/>
+<NO_EU_PROGR_RELATED/>
+</OBJECT_DESCR>
+<OBJECT_DESCR ITEM="2">
+<TITLE>
+<P>Υπηρεσίες θαλάσσιας μεταφοράς επιβατών — μεμονωμένο(α) πλοίο(α) που προορίζεται(ονται) αποκλειστικά για τον Frontex ανεξαρτήτως του αριθμού των διαθέσιμων καθισμάτων</P>
+</TITLE>
+<LOT_NO>2</LOT_NO>
+<CPV_ADDITIONAL>
+<CPV_CODE CODE="60610000"/>
+</CPV_ADDITIONAL>
+<NUTS CODE="GR"/>
+<NUTS CODE="TR"/>
+<MAIN_SITE>
+<P>Μεταφορά επιβατών μεταξύ καθορισμένων λιμένων στην Ελλάδα και την Τουρκία.</P>
+</MAIN_SITE>
+<SHORT_DESCR>
+<P>Μεταφορά επιβατών μεταξύ καθορισμένων λιμένων στην Ελλάδα και την Τουρκία, σύμφωνα με τις διατάξεις των όρων αναφοράς.</P>
+</SHORT_DESCR>
+<AC_QUALITY>
+<AC_CRITERION>Χωρητικότητα θέσεων</AC_CRITERION>
+<AC_WEIGHTING>20</AC_WEIGHTING>
+</AC_QUALITY>
+<AC_QUALITY>
+<AC_CRITERION>Σχέδια καταστρώματος</AC_CRITERION>
+<AC_WEIGHTING>20</AC_WEIGHTING>
+</AC_QUALITY>
+<AC_QUALITY>
+<AC_CRITERION>Ταχύτητα</AC_CRITERION>
+<AC_WEIGHTING>20</AC_WEIGHTING>
+</AC_QUALITY>
+<AC_QUALITY>
+<AC_CRITERION>Λιμένες λειτουργίας</AC_CRITERION>
+<AC_WEIGHTING>30</AC_WEIGHTING>
+</AC_QUALITY>
+<AC_QUALITY>
+<AC_CRITERION>Αριθμός προτεινόμενων πλοίων</AC_CRITERION>
+<AC_WEIGHTING>10</AC_WEIGHTING>
+</AC_QUALITY>
+<AC_PRICE>
+<AC_WEIGHTING>60/40</AC_WEIGHTING>
+</AC_PRICE>
+<NO_OPTIONS/>
+<NO_EU_PROGR_RELATED/>
+</OBJECT_DESCR>
+</OBJECT_CONTRACT>
+<PROCEDURE>
+<PT_OPEN/>
+<ACCELERATED_PROC>
+<P>Λαμβάνοντας υπόψη τον υψηλό αριθμό των εκκρεμουσών επανεισδοχών σε επίπεδο κρατών μελών, ο Frontex χρειάζεται να λάβει όλα τα απαραίτητα μέτρα για να διασφαλίσει την παροχή άμεσης υποστήριξης προς τα κράτη μέλη, έτσι ώστε να εκπληρώσουν τις υποχρεώσεις τους.</P>
+</ACCELERATED_PROC>
+<FRAMEWORK/>
+<NO_CONTRACT_COVERED_GPA/>
+<NOTICE_NUMBER_OJ>2016/S 173-310489</NOTICE_NUMBER_OJ>
+</PROCEDURE>
+<AWARD_CONTRACT ITEM="1">
+<NO_AWARDED_CONTRACT>
+<PROCUREMENT_DISCONTINUED/>
+</NO_AWARDED_CONTRACT>
+</AWARD_CONTRACT>
+<AWARD_CONTRACT ITEM="2">
+<NO_AWARDED_CONTRACT>
+<PROCUREMENT_DISCONTINUED/>
+</NO_AWARDED_CONTRACT>
+</AWARD_CONTRACT>
+<COMPLEMENTARY_INFO>
+<INFO_ADD>
+<P>Ακύρωση της διαδικασίας υποβολής προσφορών λόγω ανεπαρκούς αριθμού επιλέξιμων προσφορών για την ολοκλήρωση της πολλαπλής σύμβασης-πλαισίου με επανέναρξη διαγωνισμού.</P>
+</INFO_ADD>
+<ADDRESS_REVIEW_BODY>
+<OFFICIALNAME>Γενικό Δικαστήριο</OFFICIALNAME>
+<ADDRESS>rue du Fort Niedergrünewald </ADDRESS>
+<TOWN>Luxembourg</TOWN>
+<POSTAL_CODE>2925</POSTAL_CODE>
+<COUNTRY VALUE="LU"/>
+<PHONE>+352 4303-1</PHONE>
+<FAX>+352 4303-2100</FAX>
+<URL>http://curia.europa.eu</URL>
+</ADDRESS_REVIEW_BODY>
+<DATE_DISPATCH_NOTICE>2016-11-10</DATE_DISPATCH_NOTICE>
+</COMPLEMENTARY_INFO>
+</F03_2014>
+<F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="IT">
+<CONTRACTING_BODY>
+<ADDRESS_CONTRACTING_BODY>
+<OFFICIALNAME>Frontex</OFFICIALNAME>
+<ADDRESS>Plac Europejski 6</ADDRESS>
+<TOWN>Warsaw</TOWN>
+<POSTAL_CODE>00-844</POSTAL_CODE>
+<COUNTRY VALUE="PL"/>
+<PHONE>+48 222059500</PHONE>
+<E_MAIL>procurement@frontex.europa.eu</E_MAIL>
+<FAX>+48 222059501</FAX>
+<NUTS CODE="PL127"/>
+<URL_GENERAL>http://www.frontex.europa.eu</URL_GENERAL>
+</ADDRESS_CONTRACTING_BODY>
+<CA_TYPE VALUE="EU_INSTITUTION"/>
+<CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+</CONTRACTING_BODY>
+<OBJECT_CONTRACT>
+<TITLE>
+<P>Contratto quadro per la prestazione di servizi di trasferimento passeggeri via mare.</P>
+</TITLE>
+<REFERENCE_NUMBER>OP/580/2016/RS.</REFERENCE_NUMBER>
+<CPV_MAIN>
+<CPV_CODE CODE="60610000"/>
+</CPV_MAIN>
+<TYPE_CONTRACT CTYPE="SERVICES"/>
+<SHORT_DESCR>
+<P>Prestazione di servizi di trasferimento passeggeri via mare.</P>
+</SHORT_DESCR>
+<LOT_DIVISION/>
+<OBJECT_DESCR ITEM="1">
+<TITLE>
+<P>Servizi di trasferimento via mare di passeggeri — navi private totalmente riservate per Frontex a prescindere dal numero di posti disponibili</P>
+</TITLE>
+<LOT_NO>1</LOT_NO>
+<CPV_ADDITIONAL>
+<CPV_CODE CODE="60610000"/>
+</CPV_ADDITIONAL>
+<NUTS CODE="GR"/>
+<NUTS CODE="TR"/>
+<MAIN_SITE>
+<P>trasporto di passeggeri tra porti designati in Grecia e in Turchia.</P>
+</MAIN_SITE>
+<SHORT_DESCR>
+<P>Trasporto di passeggeri tra porti designati in Grecia e in Turchia conformemente alle disposizioni del capitolato d'oneri.</P>
+</SHORT_DESCR>
+<AC_QUALITY>
+<AC_CRITERION>capacità di posti a sedere</AC_CRITERION>
+<AC_WEIGHTING>20</AC_WEIGHTING>
+</AC_QUALITY>
+<AC_QUALITY>
+<AC_CRITERION>piani di coperta</AC_CRITERION>
+<AC_WEIGHTING>20</AC_WEIGHTING>
+</AC_QUALITY>
+<AC_QUALITY>
+<AC_CRITERION>velocità</AC_CRITERION>
+<AC_WEIGHTING>20</AC_WEIGHTING>
+</AC_QUALITY>
+<AC_QUALITY>
+<AC_CRITERION>porti gestiti</AC_CRITERION>
+<AC_WEIGHTING>30</AC_WEIGHTING>
+</AC_QUALITY>
+<AC_QUALITY>
+<AC_CRITERION>numero di navi proposto</AC_CRITERION>
+<AC_WEIGHTING>10</AC_WEIGHTING>
+</AC_QUALITY>
+<AC_PRICE>
+<AC_WEIGHTING>60/40</AC_WEIGHTING>
+</AC_PRICE>
+<NO_OPTIONS/>
+<NO_EU_PROGR_RELATED/>
+</OBJECT_DESCR>
+<OBJECT_DESCR ITEM="2">
+<TITLE>
+<P>Servizi di trasferimento via mare di passeggeri — navi private totalmente riservate per Frontex a prescindere dal numero di posti disponibili</P>
+</TITLE>
+<LOT_NO>2</LOT_NO>
+<CPV_ADDITIONAL>
+<CPV_CODE CODE="60610000"/>
+</CPV_ADDITIONAL>
+<NUTS CODE="GR"/>
+<NUTS CODE="TR"/>
+<MAIN_SITE>
+<P>trasporto di passeggeri tra porti designati in Grecia e in Turchia.</P>
+</MAIN_SITE>
+<SHORT_DESCR>
+<P>Trasporto di passeggeri tra porti designati in Grecia e in Turchia conformemente alle disposizioni del capitolato d'oneri.</P>
+</SHORT_DESCR>
+<AC_QUALITY>
+<AC_CRITERION>capacità di posti a sedere</AC_CRITERION>
+<AC_WEIGHTING>20</AC_WEIGHTING>
+</AC_QUALITY>
+<AC_QUALITY>
+<AC_CRITERION>piani di coperta</AC_CRITERION>
+<AC_WEIGHTING>20</AC_WEIGHTING>
+</AC_QUALITY>
+<AC_QUALITY>
+<AC_CRITERION>velocità</AC_CRITERION>
+<AC_WEIGHTING>20</AC_WEIGHTING>
+</AC_QUALITY>
+<AC_QUALITY>
+<AC_CRITERION>porti gestiti</AC_CRITERION>
+<AC_WEIGHTING>30</AC_WEIGHTING>
+</AC_QUALITY>
+<AC_QUALITY>
+<AC_CRITERION>numero di navi proposto</AC_CRITERION>
+<AC_WEIGHTING>10</AC_WEIGHTING>
+</AC_QUALITY>
+<AC_PRICE>
+<AC_WEIGHTING>60/40</AC_WEIGHTING>
+</AC_PRICE>
+<NO_OPTIONS/>
+<NO_EU_PROGR_RELATED/>
+</OBJECT_DESCR>
+</OBJECT_CONTRACT>
+<PROCEDURE>
+<PT_OPEN/>
+<ACCELERATED_PROC>
+<P>in considerazione del numero elevato di riammissioni in sospeso a livello degli Stati membri, Frontex deve prendere tutte le misure necessarie per garantire che sia fornito un sostegno immediato agli Stati membri nell'adempimento dei loro obblighi.</P>
+</ACCELERATED_PROC>
+<FRAMEWORK/>
+<NO_CONTRACT_COVERED_GPA/>
+<NOTICE_NUMBER_OJ>2016/S 173-310489</NOTICE_NUMBER_OJ>
+</PROCEDURE>
+<AWARD_CONTRACT ITEM="1">
+<NO_AWARDED_CONTRACT>
+<PROCUREMENT_DISCONTINUED/>
+</NO_AWARDED_CONTRACT>
+</AWARD_CONTRACT>
+<AWARD_CONTRACT ITEM="2">
+<NO_AWARDED_CONTRACT>
+<PROCUREMENT_DISCONTINUED/>
+</NO_AWARDED_CONTRACT>
+</AWARD_CONTRACT>
+<COMPLEMENTARY_INFO>
+<INFO_ADD>
+<P>Annullamento della procedura di gara a causa di un numero insufficiente di offerte ammissibili per portare a termine il contratto quadro multiplo con riapertura della gara.</P>
+</INFO_ADD>
+<ADDRESS_REVIEW_BODY>
+<OFFICIALNAME>Tribunale</OFFICIALNAME>
+<ADDRESS>rue du Fort Niedergrünewald </ADDRESS>
+<TOWN>Luxembourg</TOWN>
+<POSTAL_CODE>2925</POSTAL_CODE>
+<COUNTRY VALUE="LU"/>
+<PHONE>+352 4303-1</PHONE>
+<FAX>+352 4303-2100</FAX>
+<URL>http://curia.europa.eu</URL>
+</ADDRESS_REVIEW_BODY>
+<DATE_DISPATCH_NOTICE>2016-11-10</DATE_DISPATCH_NOTICE>
+</COMPLEMENTARY_INFO>
+</F03_2014>
+<F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="NL">
+<CONTRACTING_BODY>
+<ADDRESS_CONTRACTING_BODY>
+<OFFICIALNAME>Frontex</OFFICIALNAME>
+<ADDRESS>Plac Europejski 6</ADDRESS>
+<TOWN>Warsaw</TOWN>
+<POSTAL_CODE>00-844</POSTAL_CODE>
+<COUNTRY VALUE="PL"/>
+<PHONE>+48 222059500</PHONE>
+<E_MAIL>procurement@frontex.europa.eu</E_MAIL>
+<FAX>+48 222059501</FAX>
+<NUTS CODE="PL127"/>
+<URL_GENERAL>http://www.frontex.europa.eu</URL_GENERAL>
+</ADDRESS_CONTRACTING_BODY>
+<CA_TYPE VALUE="EU_INSTITUTION"/>
+<CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+</CONTRACTING_BODY>
+<OBJECT_CONTRACT>
+<TITLE>
+<P>Raamovereenkomst voor het verlenen van diensten inzake passagiersvervoer over zee.</P>
+</TITLE>
+<REFERENCE_NUMBER>OP/580/2016/RS.</REFERENCE_NUMBER>
+<CPV_MAIN>
+<CPV_CODE CODE="60610000"/>
+</CPV_MAIN>
+<TYPE_CONTRACT CTYPE="SERVICES"/>
+<SHORT_DESCR>
+<P>De verlening van diensten inzake passagiersvervoer over zee.</P>
+</SHORT_DESCR>
+<LOT_DIVISION/>
+<OBJECT_DESCR ITEM="1">
+<TITLE>
+<P>Transferdiensten over zee voor passagiers — individuele schepen die volledig zijn gereserveerd voor Frontex, ongeacht het aantal beschikbare stoelen</P>
+</TITLE>
+<LOT_NO>1</LOT_NO>
+<CPV_ADDITIONAL>
+<CPV_CODE CODE="60610000"/>
+</CPV_ADDITIONAL>
+<NUTS CODE="GR"/>
+<NUTS CODE="TR"/>
+<MAIN_SITE>
+<P>vervoer van passagiers tussen aangewezen havens in Griekenland en Turkije.</P>
+</MAIN_SITE>
+<SHORT_DESCR>
+<P>Vervoer van passagiers tussen aangewezen havens in Griekenland en Turkije in overeenstemming met de bepalingen van de aanbestedingsstukken.</P>
+</SHORT_DESCR>
+<AC_QUALITY>
+<AC_CRITERION>zitcapaciteit</AC_CRITERION>
+<AC_WEIGHTING>20</AC_WEIGHTING>
+</AC_QUALITY>
+<AC_QUALITY>
+<AC_CRITERION>dekplannen</AC_CRITERION>
+<AC_WEIGHTING>20</AC_WEIGHTING>
+</AC_QUALITY>
+<AC_QUALITY>
+<AC_CRITERION>snelheid</AC_CRITERION>
+<AC_WEIGHTING>20</AC_WEIGHTING>
+</AC_QUALITY>
+<AC_QUALITY>
+<AC_CRITERION>havens die worden aangedaan</AC_CRITERION>
+<AC_WEIGHTING>30</AC_WEIGHTING>
+</AC_QUALITY>
+<AC_QUALITY>
+<AC_CRITERION>voorgesteld aantal schepen</AC_CRITERION>
+<AC_WEIGHTING>10</AC_WEIGHTING>
+</AC_QUALITY>
+<AC_PRICE>
+<AC_WEIGHTING>60/40</AC_WEIGHTING>
+</AC_PRICE>
+<NO_OPTIONS/>
+<NO_EU_PROGR_RELATED/>
+</OBJECT_DESCR>
+<OBJECT_DESCR ITEM="2">
+<TITLE>
+<P>Transferdiensten over zee voor passagiers — individuele schepen die volledig zijn gereserveerd voor Frontex, ongeacht het aantal beschikbare stoelen</P>
+</TITLE>
+<LOT_NO>2</LOT_NO>
+<CPV_ADDITIONAL>
+<CPV_CODE CODE="60610000"/>
+</CPV_ADDITIONAL>
+<NUTS CODE="GR"/>
+<NUTS CODE="TR"/>
+<MAIN_SITE>
+<P>vervoer van passagiers tussen aangewezen havens in Griekenland en Turkije.</P>
+</MAIN_SITE>
+<SHORT_DESCR>
+<P>Vervoer van passagiers tussen aangewezen havens in Griekenland en Turkije in overeenstemming met de bepalingen van de aanbestedingsstukken.</P>
+</SHORT_DESCR>
+<AC_QUALITY>
+<AC_CRITERION>zitcapaciteit</AC_CRITERION>
+<AC_WEIGHTING>20</AC_WEIGHTING>
+</AC_QUALITY>
+<AC_QUALITY>
+<AC_CRITERION>dekplannen</AC_CRITERION>
+<AC_WEIGHTING>20</AC_WEIGHTING>
+</AC_QUALITY>
+<AC_QUALITY>
+<AC_CRITERION>snelheid</AC_CRITERION>
+<AC_WEIGHTING>20</AC_WEIGHTING>
+</AC_QUALITY>
+<AC_QUALITY>
+<AC_CRITERION>havens die worden aangedaan</AC_CRITERION>
+<AC_WEIGHTING>30</AC_WEIGHTING>
+</AC_QUALITY>
+<AC_QUALITY>
+<AC_CRITERION>voorgesteld aantal schepen</AC_CRITERION>
+<AC_WEIGHTING>10</AC_WEIGHTING>
+</AC_QUALITY>
+<AC_PRICE>
+<AC_WEIGHTING>60/40</AC_WEIGHTING>
+</AC_PRICE>
+<NO_OPTIONS/>
+<NO_EU_PROGR_RELATED/>
+</OBJECT_DESCR>
+</OBJECT_CONTRACT>
+<PROCEDURE>
+<PT_OPEN/>
+<ACCELERATED_PROC>
+<P>Met het oog op het hoge aantal overnames op het niveau van de lidstaten, moet Frontex alle nodig stappen ondernemen om ervoor te zorgen dat onmiddellijk steun wordt verleend aan de lidstaten, zodat zij aan hun verplichtingen kunnen voldoen.</P>
+</ACCELERATED_PROC>
+<FRAMEWORK/>
+<NO_CONTRACT_COVERED_GPA/>
+<NOTICE_NUMBER_OJ>2016/S 173-310489</NOTICE_NUMBER_OJ>
+</PROCEDURE>
+<AWARD_CONTRACT ITEM="1">
+<NO_AWARDED_CONTRACT>
+<PROCUREMENT_DISCONTINUED/>
+</NO_AWARDED_CONTRACT>
+</AWARD_CONTRACT>
+<AWARD_CONTRACT ITEM="2">
+<NO_AWARDED_CONTRACT>
+<PROCUREMENT_DISCONTINUED/>
+</NO_AWARDED_CONTRACT>
+</AWARD_CONTRACT>
+<COMPLEMENTARY_INFO>
+<INFO_ADD>
+<P>Annulering van de aanbestedingsprocedure wegens onvoldoende geschikte inschrijvingen voor het sluiten van de meervoudige raamovereenkomst met heropening van mededinging.</P>
+</INFO_ADD>
+<ADDRESS_REVIEW_BODY>
+<OFFICIALNAME>Gerecht</OFFICIALNAME>
+<ADDRESS>rue du Fort Niedergrünewald </ADDRESS>
+<TOWN>Luxembourg</TOWN>
+<POSTAL_CODE>2925</POSTAL_CODE>
+<COUNTRY VALUE="LU"/>
+<PHONE>+352 4303-1</PHONE>
+<FAX>+352 4303-2100</FAX>
+<URL>http://curia.europa.eu</URL>
+</ADDRESS_REVIEW_BODY>
+<DATE_DISPATCH_NOTICE>2016-11-10</DATE_DISPATCH_NOTICE>
+</COMPLEMENTARY_INFO>
+</F03_2014>
+<F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="PT">
+<CONTRACTING_BODY>
+<ADDRESS_CONTRACTING_BODY>
+<OFFICIALNAME>Frontex</OFFICIALNAME>
+<ADDRESS>Plac Europejski 6</ADDRESS>
+<TOWN>Warsaw</TOWN>
+<POSTAL_CODE>00-844</POSTAL_CODE>
+<COUNTRY VALUE="PL"/>
+<PHONE>+48 222059500</PHONE>
+<E_MAIL>procurement@frontex.europa.eu</E_MAIL>
+<FAX>+48 222059501</FAX>
+<NUTS CODE="PL127"/>
+<URL_GENERAL>http://www.frontex.europa.eu</URL_GENERAL>
+</ADDRESS_CONTRACTING_BODY>
+<CA_TYPE VALUE="EU_INSTITUTION"/>
+<CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+</CONTRACTING_BODY>
+<OBJECT_CONTRACT>
+<TITLE>
+<P>Contrato-quadro relativo à prestação de serviços de transporte marítimo de passageiros.</P>
+</TITLE>
+<REFERENCE_NUMBER>OP/580/2016/RS.</REFERENCE_NUMBER>
+<CPV_MAIN>
+<CPV_CODE CODE="60610000"/>
+</CPV_MAIN>
+<TYPE_CONTRACT CTYPE="SERVICES"/>
+<SHORT_DESCR>
+<P>A prestação de serviços de transporte marítimo de passageiros.</P>
+</SHORT_DESCR>
+<LOT_DIVISION/>
+<OBJECT_DESCR ITEM="1">
+<TITLE>
+<P>Serviços de transporte marítimo de passageiros — Navio(s) individual(ais) reservado(s) na totalidade para a Frontex independentemente do número de lugares disponíveis</P>
+</TITLE>
+<LOT_NO>1</LOT_NO>
+<CPV_ADDITIONAL>
+<CPV_CODE CODE="60610000"/>
+</CPV_ADDITIONAL>
+<NUTS CODE="GR"/>
+<NUTS CODE="TR"/>
+<MAIN_SITE>
+<P>Transporte de passageiros entre os portos designados na Grécia e na Turquia.</P>
+</MAIN_SITE>
+<SHORT_DESCR>
+<P>Transporte de passageiros entre os portos designados na Grécia e na Turquia em linha com as disposições dos termos de referência.</P>
+</SHORT_DESCR>
+<AC_QUALITY>
+<AC_CRITERION>número de lugares</AC_CRITERION>
+<AC_WEIGHTING>20</AC_WEIGHTING>
+</AC_QUALITY>
+<AC_QUALITY>
+<AC_CRITERION>planos de convés</AC_CRITERION>
+<AC_WEIGHTING>20</AC_WEIGHTING>
+</AC_QUALITY>
+<AC_QUALITY>
+<AC_CRITERION>velocidade</AC_CRITERION>
+<AC_WEIGHTING>20</AC_WEIGHTING>
+</AC_QUALITY>
+<AC_QUALITY>
+<AC_CRITERION>portos operados</AC_CRITERION>
+<AC_WEIGHTING>30</AC_WEIGHTING>
+</AC_QUALITY>
+<AC_QUALITY>
+<AC_CRITERION>número de navios proposto</AC_CRITERION>
+<AC_WEIGHTING>10</AC_WEIGHTING>
+</AC_QUALITY>
+<AC_PRICE>
+<AC_WEIGHTING>60/40</AC_WEIGHTING>
+</AC_PRICE>
+<NO_OPTIONS/>
+<NO_EU_PROGR_RELATED/>
+</OBJECT_DESCR>
+<OBJECT_DESCR ITEM="2">
+<TITLE>
+<P>Serviços de transporte marítimo de passageiros — Navio(s) individual(ais) reservado(s) na totalidade para a Frontex independentemente do número de lugares disponíveis</P>
+</TITLE>
+<LOT_NO>2</LOT_NO>
+<CPV_ADDITIONAL>
+<CPV_CODE CODE="60610000"/>
+</CPV_ADDITIONAL>
+<NUTS CODE="GR"/>
+<NUTS CODE="TR"/>
+<MAIN_SITE>
+<P>Transporte de passageiros entre os portos designados na Grécia e na Turquia.</P>
+</MAIN_SITE>
+<SHORT_DESCR>
+<P>Transporte de passageiros entre os portos designados na Grécia e na Turquia em linha com as disposições dos termos de referência.</P>
+</SHORT_DESCR>
+<AC_QUALITY>
+<AC_CRITERION>número de lugares</AC_CRITERION>
+<AC_WEIGHTING>20</AC_WEIGHTING>
+</AC_QUALITY>
+<AC_QUALITY>
+<AC_CRITERION>planos de convés</AC_CRITERION>
+<AC_WEIGHTING>20</AC_WEIGHTING>
+</AC_QUALITY>
+<AC_QUALITY>
+<AC_CRITERION>velocidade</AC_CRITERION>
+<AC_WEIGHTING>20</AC_WEIGHTING>
+</AC_QUALITY>
+<AC_QUALITY>
+<AC_CRITERION>portos operados</AC_CRITERION>
+<AC_WEIGHTING>30</AC_WEIGHTING>
+</AC_QUALITY>
+<AC_QUALITY>
+<AC_CRITERION>número de navios proposto</AC_CRITERION>
+<AC_WEIGHTING>10</AC_WEIGHTING>
+</AC_QUALITY>
+<AC_PRICE>
+<AC_WEIGHTING>60/40</AC_WEIGHTING>
+</AC_PRICE>
+<NO_OPTIONS/>
+<NO_EU_PROGR_RELATED/>
+</OBJECT_DESCR>
+</OBJECT_CONTRACT>
+<PROCEDURE>
+<PT_OPEN/>
+<ACCELERATED_PROC>
+<P>Considerando o número elevado de readmissões pendentes ao nível dos Estados-Membros, a Frontex deve tomar todas as medidas necessárias para garantir a prestação de apoio imediato aos Estados-Membros para cumprir as respetivas obrigações.</P>
+</ACCELERATED_PROC>
+<FRAMEWORK/>
+<NO_CONTRACT_COVERED_GPA/>
+<NOTICE_NUMBER_OJ>2016/S 173-310489</NOTICE_NUMBER_OJ>
+</PROCEDURE>
+<AWARD_CONTRACT ITEM="1">
+<NO_AWARDED_CONTRACT>
+<PROCUREMENT_DISCONTINUED/>
+</NO_AWARDED_CONTRACT>
+</AWARD_CONTRACT>
+<AWARD_CONTRACT ITEM="2">
+<NO_AWARDED_CONTRACT>
+<PROCUREMENT_DISCONTINUED/>
+</NO_AWARDED_CONTRACT>
+</AWARD_CONTRACT>
+<COMPLEMENTARY_INFO>
+<INFO_ADD>
+<P>Anulação do concurso devido a um número insuficiente de propostas elegíveis para finalizar o contrato-quadro múltiplo com reabertura de concurso.</P>
+</INFO_ADD>
+<ADDRESS_REVIEW_BODY>
+<OFFICIALNAME>Tribunal Geral</OFFICIALNAME>
+<ADDRESS>rue du Fort Niedergrünewald </ADDRESS>
+<TOWN>Luxembourg</TOWN>
+<POSTAL_CODE>2925</POSTAL_CODE>
+<COUNTRY VALUE="LU"/>
+<PHONE>+352 4303-1</PHONE>
+<FAX>+352 4303-2100</FAX>
+<URL>http://curia.europa.eu</URL>
+</ADDRESS_REVIEW_BODY>
+<DATE_DISPATCH_NOTICE>2016-11-10</DATE_DISPATCH_NOTICE>
+</COMPLEMENTARY_INFO>
+</F03_2014>
+<F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="SV">
+<CONTRACTING_BODY>
+<ADDRESS_CONTRACTING_BODY>
+<OFFICIALNAME>Frontex</OFFICIALNAME>
+<ADDRESS>Plac Europejski 6</ADDRESS>
+<TOWN>Warsaw</TOWN>
+<POSTAL_CODE>00-844</POSTAL_CODE>
+<COUNTRY VALUE="PL"/>
+<PHONE>+48 222059500</PHONE>
+<E_MAIL>procurement@frontex.europa.eu</E_MAIL>
+<FAX>+48 222059501</FAX>
+<NUTS CODE="PL127"/>
+<URL_GENERAL>http://www.frontex.europa.eu</URL_GENERAL>
+</ADDRESS_CONTRACTING_BODY>
+<CA_TYPE VALUE="EU_INSTITUTION"/>
+<CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+</CONTRACTING_BODY>
+<OBJECT_CONTRACT>
+<TITLE>
+<P>Ramavtal för tillhandahållande av tjänster för passagerartransport till havs</P>
+</TITLE>
+<REFERENCE_NUMBER>OP/580/2016/RS.</REFERENCE_NUMBER>
+<CPV_MAIN>
+<CPV_CODE CODE="60610000"/>
+</CPV_MAIN>
+<TYPE_CONTRACT CTYPE="SERVICES"/>
+<SHORT_DESCR>
+<P>Tillhandahållande av tjänster för passagerartransport till havs.</P>
+</SHORT_DESCR>
+<LOT_DIVISION/>
+<OBJECT_DESCR ITEM="1">
+<TITLE>
+<P>Transporttjänster till havs för passagerare – enskilt/enskilda fartyg som helt reserveras för Frontex oavsett antalet tillgängliga platser</P>
+</TITLE>
+<LOT_NO>1</LOT_NO>
+<CPV_ADDITIONAL>
+<CPV_CODE CODE="60610000"/>
+</CPV_ADDITIONAL>
+<NUTS CODE="GR"/>
+<NUTS CODE="TR"/>
+<MAIN_SITE>
+<P>Transport av passagerare mellan utsedda hamnar i Grekland och Turkiet.</P>
+</MAIN_SITE>
+<SHORT_DESCR>
+<P>Transport av passagerare mellan utsedda hamnar i Grekland och Turkiet i enlighet med bestämmelserna i förfrågningsunderlaget.</P>
+</SHORT_DESCR>
+<AC_QUALITY>
+<AC_CRITERION>Sittplatskapacitet</AC_CRITERION>
+<AC_WEIGHTING>20</AC_WEIGHTING>
+</AC_QUALITY>
+<AC_QUALITY>
+<AC_CRITERION>Däckplaner</AC_CRITERION>
+<AC_WEIGHTING>20</AC_WEIGHTING>
+</AC_QUALITY>
+<AC_QUALITY>
+<AC_CRITERION>Hastighet</AC_CRITERION>
+<AC_WEIGHTING>20</AC_WEIGHTING>
+</AC_QUALITY>
+<AC_QUALITY>
+<AC_CRITERION>Hamnar som används</AC_CRITERION>
+<AC_WEIGHTING>30</AC_WEIGHTING>
+</AC_QUALITY>
+<AC_QUALITY>
+<AC_CRITERION>Antal föreslagna fartyg</AC_CRITERION>
+<AC_WEIGHTING>10</AC_WEIGHTING>
+</AC_QUALITY>
+<AC_PRICE>
+<AC_WEIGHTING>60/40</AC_WEIGHTING>
+</AC_PRICE>
+<NO_OPTIONS/>
+<NO_EU_PROGR_RELATED/>
+</OBJECT_DESCR>
+<OBJECT_DESCR ITEM="2">
+<TITLE>
+<P>Transporttjänster till havs för passagerare – enskilt/enskilda fartyg som helt reserveras för Frontex oavsett antalet tillgängliga platser</P>
+</TITLE>
+<LOT_NO>2</LOT_NO>
+<CPV_ADDITIONAL>
+<CPV_CODE CODE="60610000"/>
+</CPV_ADDITIONAL>
+<NUTS CODE="GR"/>
+<NUTS CODE="TR"/>
+<MAIN_SITE>
+<P>Transport av passagerare mellan utsedda hamnar i Grekland och Turkiet.</P>
+</MAIN_SITE>
+<SHORT_DESCR>
+<P>Transport av passagerare mellan utsedda hamnar i Grekland och Turkiet i enlighet med bestämmelserna i förfrågningsunderlaget.</P>
+</SHORT_DESCR>
+<AC_QUALITY>
+<AC_CRITERION>Sittplatskapacitet</AC_CRITERION>
+<AC_WEIGHTING>20</AC_WEIGHTING>
+</AC_QUALITY>
+<AC_QUALITY>
+<AC_CRITERION>Däckplaner</AC_CRITERION>
+<AC_WEIGHTING>20</AC_WEIGHTING>
+</AC_QUALITY>
+<AC_QUALITY>
+<AC_CRITERION>Hastighet</AC_CRITERION>
+<AC_WEIGHTING>20</AC_WEIGHTING>
+</AC_QUALITY>
+<AC_QUALITY>
+<AC_CRITERION>Hamnar som används</AC_CRITERION>
+<AC_WEIGHTING>30</AC_WEIGHTING>
+</AC_QUALITY>
+<AC_QUALITY>
+<AC_CRITERION>Antal föreslagna fartyg</AC_CRITERION>
+<AC_WEIGHTING>10</AC_WEIGHTING>
+</AC_QUALITY>
+<AC_PRICE>
+<AC_WEIGHTING>60/40</AC_WEIGHTING>
+</AC_PRICE>
+<NO_OPTIONS/>
+<NO_EU_PROGR_RELATED/>
+</OBJECT_DESCR>
+</OBJECT_CONTRACT>
+<PROCEDURE>
+<PT_OPEN/>
+<ACCELERATED_PROC>
+<P>Med beaktande av det stora antal återtaganden som är under behandling på medlemsstatsnivå måste Frontex vidta alla nödvändiga åtgärder för att säkerställa att omedelbart stöd ges till medlemsstaterna för uppfyllandet av deras skyldigheter.</P>
+</ACCELERATED_PROC>
+<FRAMEWORK/>
+<NO_CONTRACT_COVERED_GPA/>
+<NOTICE_NUMBER_OJ>2016/S 173-310489</NOTICE_NUMBER_OJ>
+</PROCEDURE>
+<AWARD_CONTRACT ITEM="1">
+<NO_AWARDED_CONTRACT>
+<PROCUREMENT_DISCONTINUED/>
+</NO_AWARDED_CONTRACT>
+</AWARD_CONTRACT>
+<AWARD_CONTRACT ITEM="2">
+<NO_AWARDED_CONTRACT>
+<PROCUREMENT_DISCONTINUED/>
+</NO_AWARDED_CONTRACT>
+</AWARD_CONTRACT>
+<COMPLEMENTARY_INFO>
+<INFO_ADD>
+<P>Annullering av anbudsförfarande på grund av otillräckligt antal giltiga anbud för att slutföra det multipla ramavtalet med förnyad anbudsinfordran.</P>
+</INFO_ADD>
+<ADDRESS_REVIEW_BODY>
+<OFFICIALNAME>Tribunalen</OFFICIALNAME>
+<ADDRESS>rue du Fort Niedergrünewald </ADDRESS>
+<TOWN>Luxembourg</TOWN>
+<POSTAL_CODE>2925</POSTAL_CODE>
+<COUNTRY VALUE="LU"/>
+<PHONE>+352 4303-1</PHONE>
+<FAX>+352 4303-2100</FAX>
+<URL>http://curia.europa.eu</URL>
+</ADDRESS_REVIEW_BODY>
+<DATE_DISPATCH_NOTICE>2016-11-10</DATE_DISPATCH_NOTICE>
+</COMPLEMENTARY_INFO>
+</F03_2014>
+<F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="CS">
+<CONTRACTING_BODY>
+<ADDRESS_CONTRACTING_BODY>
+<OFFICIALNAME>Frontex</OFFICIALNAME>
+<ADDRESS>Plac Europejski 6</ADDRESS>
+<TOWN>Warsaw</TOWN>
+<POSTAL_CODE>00-844</POSTAL_CODE>
+<COUNTRY VALUE="PL"/>
+<PHONE>+48 222059500</PHONE>
+<E_MAIL>procurement@frontex.europa.eu</E_MAIL>
+<FAX>+48 222059501</FAX>
+<NUTS CODE="PL127"/>
+<URL_GENERAL>http://www.frontex.europa.eu</URL_GENERAL>
+</ADDRESS_CONTRACTING_BODY>
+<CA_TYPE VALUE="EU_INSTITUTION"/>
+<CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+</CONTRACTING_BODY>
+<OBJECT_CONTRACT>
+<TITLE>
+<P>Rámcová smlouva o poskytování služeb přepravy cestujících po moři.</P>
+</TITLE>
+<REFERENCE_NUMBER>OP/580/2016/RS.</REFERENCE_NUMBER>
+<CPV_MAIN>
+<CPV_CODE CODE="60610000"/>
+</CPV_MAIN>
+<TYPE_CONTRACT CTYPE="SERVICES"/>
+<SHORT_DESCR>
+<P>Poskytování služeb přepravy cestujících po moři.</P>
+</SHORT_DESCR>
+<LOT_DIVISION/>
+<OBJECT_DESCR ITEM="1">
+<TITLE>
+<P>Služby přepravy cestujících po moři – osobní loď (lodě) plně vyhrazená (vyhrazené) pro Frontex bez ohledu na počet dostupných sedadel</P>
+</TITLE>
+<LOT_NO>1</LOT_NO>
+<CPV_ADDITIONAL>
+<CPV_CODE CODE="60610000"/>
+</CPV_ADDITIONAL>
+<NUTS CODE="GR"/>
+<NUTS CODE="TR"/>
+<MAIN_SITE>
+<P>Přeprava cestujících v určených přístavech mezi Řeckem a Tureckem.</P>
+</MAIN_SITE>
+<SHORT_DESCR>
+<P>Přeprava cestujících mezi určenými přístavy v Řecku a Turecku v souladu s ustanoveními referenčních podmínek.</P>
+</SHORT_DESCR>
+<AC_QUALITY>
+<AC_CRITERION>Počet míst k sezení</AC_CRITERION>
+<AC_WEIGHTING>20</AC_WEIGHTING>
+</AC_QUALITY>
+<AC_QUALITY>
+<AC_CRITERION>Plány paluby</AC_CRITERION>
+<AC_WEIGHTING>20</AC_WEIGHTING>
+</AC_QUALITY>
+<AC_QUALITY>
+<AC_CRITERION>Rychlost</AC_CRITERION>
+<AC_WEIGHTING>20</AC_WEIGHTING>
+</AC_QUALITY>
+<AC_QUALITY>
+<AC_CRITERION>Obsluhované přístavy</AC_CRITERION>
+<AC_WEIGHTING>30</AC_WEIGHTING>
+</AC_QUALITY>
+<AC_QUALITY>
+<AC_CRITERION>Navrhovaný počet lodí</AC_CRITERION>
+<AC_WEIGHTING>10</AC_WEIGHTING>
+</AC_QUALITY>
+<AC_PRICE>
+<AC_WEIGHTING>60/40</AC_WEIGHTING>
+</AC_PRICE>
+<NO_OPTIONS/>
+<NO_EU_PROGR_RELATED/>
+</OBJECT_DESCR>
+<OBJECT_DESCR ITEM="2">
+<TITLE>
+<P>Služby přepravy cestujících po moři – osobní loď (lodě) plně vyhrazená (vyhrazené) pro Frontex bez ohledu na počet dostupných sedadel</P>
+</TITLE>
+<LOT_NO>2</LOT_NO>
+<CPV_ADDITIONAL>
+<CPV_CODE CODE="60610000"/>
+</CPV_ADDITIONAL>
+<NUTS CODE="GR"/>
+<NUTS CODE="TR"/>
+<MAIN_SITE>
+<P>Přeprava cestujících v určených přístavech mezi Řeckem a Tureckem.</P>
+</MAIN_SITE>
+<SHORT_DESCR>
+<P>Přeprava cestujících mezi určenými přístavy v Řecku a Turecku v souladu s ustanoveními referenčních podmínek.</P>
+</SHORT_DESCR>
+<AC_QUALITY>
+<AC_CRITERION>Počet míst k sezení</AC_CRITERION>
+<AC_WEIGHTING>20</AC_WEIGHTING>
+</AC_QUALITY>
+<AC_QUALITY>
+<AC_CRITERION>Plány paluby</AC_CRITERION>
+<AC_WEIGHTING>20</AC_WEIGHTING>
+</AC_QUALITY>
+<AC_QUALITY>
+<AC_CRITERION>Rychlost</AC_CRITERION>
+<AC_WEIGHTING>20</AC_WEIGHTING>
+</AC_QUALITY>
+<AC_QUALITY>
+<AC_CRITERION>Obsluhované přístavy</AC_CRITERION>
+<AC_WEIGHTING>30</AC_WEIGHTING>
+</AC_QUALITY>
+<AC_QUALITY>
+<AC_CRITERION>Navrhovaný počet lodí</AC_CRITERION>
+<AC_WEIGHTING>10</AC_WEIGHTING>
+</AC_QUALITY>
+<AC_PRICE>
+<AC_WEIGHTING>60/40</AC_WEIGHTING>
+</AC_PRICE>
+<NO_OPTIONS/>
+<NO_EU_PROGR_RELATED/>
+</OBJECT_DESCR>
+</OBJECT_CONTRACT>
+<PROCEDURE>
+<PT_OPEN/>
+<ACCELERATED_PROC>
+<P>Při zvažování vysokého otevřeného počtu zpětně přebíraných osob na úrovni členských států musí Frontex podniknout všechny kroky potřebné k zajištění toho, aby byla členským státům zajištěna okamžitá podpora při plnění jejich závazků.</P>
+</ACCELERATED_PROC>
+<FRAMEWORK/>
+<NO_CONTRACT_COVERED_GPA/>
+<NOTICE_NUMBER_OJ>2016/S 173-310489</NOTICE_NUMBER_OJ>
+</PROCEDURE>
+<AWARD_CONTRACT ITEM="1">
+<NO_AWARDED_CONTRACT>
+<PROCUREMENT_DISCONTINUED/>
+</NO_AWARDED_CONTRACT>
+</AWARD_CONTRACT>
+<AWARD_CONTRACT ITEM="2">
+<NO_AWARDED_CONTRACT>
+<PROCUREMENT_DISCONTINUED/>
+</NO_AWARDED_CONTRACT>
+</AWARD_CONTRACT>
+<COMPLEMENTARY_INFO>
+<INFO_ADD>
+<P>Zrušení nabídkového řízení vzhledem k nedostatečnému počtu kvalifikovaných nabídek pro dotažení vícestranné rámcové smlouvy s opětným otevřením soutěže.</P>
+</INFO_ADD>
+<ADDRESS_REVIEW_BODY>
+<OFFICIALNAME>Tribunál</OFFICIALNAME>
+<ADDRESS>rue du Fort Niedergrünewald </ADDRESS>
+<TOWN>Luxembourg</TOWN>
+<POSTAL_CODE>2925</POSTAL_CODE>
+<COUNTRY VALUE="LU"/>
+<PHONE>+352 4303-1</PHONE>
+<FAX>+352 4303-2100</FAX>
+<URL>http://curia.europa.eu</URL>
+</ADDRESS_REVIEW_BODY>
+<DATE_DISPATCH_NOTICE>2016-11-10</DATE_DISPATCH_NOTICE>
+</COMPLEMENTARY_INFO>
+</F03_2014>
+<F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="ET">
+<CONTRACTING_BODY>
+<ADDRESS_CONTRACTING_BODY>
+<OFFICIALNAME>Frontex</OFFICIALNAME>
+<ADDRESS>Plac Europejski 6</ADDRESS>
+<TOWN>Warsaw</TOWN>
+<POSTAL_CODE>00-844</POSTAL_CODE>
+<COUNTRY VALUE="PL"/>
+<PHONE>+48 222059500</PHONE>
+<E_MAIL>procurement@frontex.europa.eu</E_MAIL>
+<FAX>+48 222059501</FAX>
+<NUTS CODE="PL127"/>
+<URL_GENERAL>http://www.frontex.europa.eu</URL_GENERAL>
+</ADDRESS_CONTRACTING_BODY>
+<CA_TYPE VALUE="EU_INSTITUTION"/>
+<CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+</CONTRACTING_BODY>
+<OBJECT_CONTRACT>
+<TITLE>
+<P>Reisijate mereveo teenuste osutamise raamleping</P>
+</TITLE>
+<REFERENCE_NUMBER>OP/580/2016/RS.</REFERENCE_NUMBER>
+<CPV_MAIN>
+<CPV_CODE CODE="60610000"/>
+</CPV_MAIN>
+<TYPE_CONTRACT CTYPE="SERVICES"/>
+<SHORT_DESCR>
+<P>Reisijate mereveo teenuste osutamine.</P>
+</SHORT_DESCR>
+<LOT_DIVISION/>
+<OBJECT_DESCR ITEM="1">
+<TITLE>
+<P>Reisijate mereveo teenused – täies ulatuses Frontexi jaoks kinni pandud üksik(ud) laev(ad), olenemata saadaval olevate istekohtade arvust</P>
+</TITLE>
+<LOT_NO>1</LOT_NO>
+<CPV_ADDITIONAL>
+<CPV_CODE CODE="60610000"/>
+</CPV_ADDITIONAL>
+<NUTS CODE="GR"/>
+<NUTS CODE="TR"/>
+<MAIN_SITE>
+<P>reisijate merevedu Türgi ja Kreeka määratud sadamate vahel.</P>
+</MAIN_SITE>
+<SHORT_DESCR>
+<P>Reisijate merevedu Türgi ja Kreeka määratud sadamate vahel kooskõlas pädevuskriteeriumide sättega.</P>
+</SHORT_DESCR>
+<AC_QUALITY>
+<AC_CRITERION>istekohtade arv</AC_CRITERION>
+<AC_WEIGHTING>20</AC_WEIGHTING>
+</AC_QUALITY>
+<AC_QUALITY>
+<AC_CRITERION>tekiplaanid</AC_CRITERION>
+<AC_WEIGHTING>20</AC_WEIGHTING>
+</AC_QUALITY>
+<AC_QUALITY>
+<AC_CRITERION>kiirus</AC_CRITERION>
+<AC_WEIGHTING>20</AC_WEIGHTING>
+</AC_QUALITY>
+<AC_QUALITY>
+<AC_CRITERION>käitatavad sadamad</AC_CRITERION>
+<AC_WEIGHTING>30</AC_WEIGHTING>
+</AC_QUALITY>
+<AC_QUALITY>
+<AC_CRITERION>pakutud laevade arv</AC_CRITERION>
+<AC_WEIGHTING>10</AC_WEIGHTING>
+</AC_QUALITY>
+<AC_PRICE>
+<AC_WEIGHTING>60/40</AC_WEIGHTING>
+</AC_PRICE>
+<NO_OPTIONS/>
+<NO_EU_PROGR_RELATED/>
+</OBJECT_DESCR>
+<OBJECT_DESCR ITEM="2">
+<TITLE>
+<P>Reisijate mereveo teenused – täies ulatuses Frontexi jaoks kinni pandud üksik(ud) laev(ad), olenemata saadaval olevate istekohtade arvust</P>
+</TITLE>
+<LOT_NO>2</LOT_NO>
+<CPV_ADDITIONAL>
+<CPV_CODE CODE="60610000"/>
+</CPV_ADDITIONAL>
+<NUTS CODE="GR"/>
+<NUTS CODE="TR"/>
+<MAIN_SITE>
+<P>reisijate merevedu Türgi ja Kreeka määratud sadamate vahel.</P>
+</MAIN_SITE>
+<SHORT_DESCR>
+<P>Reisijate merevedu Türgi ja Kreeka määratud sadamate vahel kooskõlas pädevuskriteeriumide sättega.</P>
+</SHORT_DESCR>
+<AC_QUALITY>
+<AC_CRITERION>istekohtade arv</AC_CRITERION>
+<AC_WEIGHTING>20</AC_WEIGHTING>
+</AC_QUALITY>
+<AC_QUALITY>
+<AC_CRITERION>tekiplaanid</AC_CRITERION>
+<AC_WEIGHTING>20</AC_WEIGHTING>
+</AC_QUALITY>
+<AC_QUALITY>
+<AC_CRITERION>kiirus</AC_CRITERION>
+<AC_WEIGHTING>20</AC_WEIGHTING>
+</AC_QUALITY>
+<AC_QUALITY>
+<AC_CRITERION>käitatavad sadamad</AC_CRITERION>
+<AC_WEIGHTING>30</AC_WEIGHTING>
+</AC_QUALITY>
+<AC_QUALITY>
+<AC_CRITERION>pakutud laevade arv</AC_CRITERION>
+<AC_WEIGHTING>10</AC_WEIGHTING>
+</AC_QUALITY>
+<AC_PRICE>
+<AC_WEIGHTING>60/40</AC_WEIGHTING>
+</AC_PRICE>
+<NO_OPTIONS/>
+<NO_EU_PROGR_RELATED/>
+</OBJECT_DESCR>
+</OBJECT_CONTRACT>
+<PROCEDURE>
+<PT_OPEN/>
+<ACCELERATED_PROC>
+<P>kuna liikmesriikide tasandil on ootel suur hulk tagasivõtte, on Frontexil vaja võtta kõik vajalikud meetmed, millega tagada, et liikmesriikidele antakse viivitamata nende kohustuste täitmiseks tuge.</P>
+</ACCELERATED_PROC>
+<FRAMEWORK/>
+<NO_CONTRACT_COVERED_GPA/>
+<NOTICE_NUMBER_OJ>2016/S 173-310489</NOTICE_NUMBER_OJ>
+</PROCEDURE>
+<AWARD_CONTRACT ITEM="1">
+<NO_AWARDED_CONTRACT>
+<PROCUREMENT_DISCONTINUED/>
+</NO_AWARDED_CONTRACT>
+</AWARD_CONTRACT>
+<AWARD_CONTRACT ITEM="2">
+<NO_AWARDED_CONTRACT>
+<PROCUREMENT_DISCONTINUED/>
+</NO_AWARDED_CONTRACT>
+</AWARD_CONTRACT>
+<COMPLEMENTARY_INFO>
+<INFO_ADD>
+<P>Pakkumismenetlus tühistati, kuna ei laekunud piisaval arvul sobivaid pakkumisi, et sõlmida mitmekordne raamleping konkursi taasalgatamisega.</P>
+</INFO_ADD>
+<ADDRESS_REVIEW_BODY>
+<OFFICIALNAME>Üldkohus</OFFICIALNAME>
+<ADDRESS>rue du Fort Niedergrünewald </ADDRESS>
+<TOWN>Luxembourg</TOWN>
+<POSTAL_CODE>2925</POSTAL_CODE>
+<COUNTRY VALUE="LU"/>
+<PHONE>+352 4303-1</PHONE>
+<FAX>+352 4303-2100</FAX>
+<URL>http://curia.europa.eu</URL>
+</ADDRESS_REVIEW_BODY>
+<DATE_DISPATCH_NOTICE>2016-11-10</DATE_DISPATCH_NOTICE>
+</COMPLEMENTARY_INFO>
+</F03_2014>
+<F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="HU">
+<CONTRACTING_BODY>
+<ADDRESS_CONTRACTING_BODY>
+<OFFICIALNAME>Frontex</OFFICIALNAME>
+<ADDRESS>Plac Europejski 6</ADDRESS>
+<TOWN>Warsaw</TOWN>
+<POSTAL_CODE>00-844</POSTAL_CODE>
+<COUNTRY VALUE="PL"/>
+<PHONE>+48 222059500</PHONE>
+<E_MAIL>procurement@frontex.europa.eu</E_MAIL>
+<FAX>+48 222059501</FAX>
+<NUTS CODE="PL127"/>
+<URL_GENERAL>http://www.frontex.europa.eu</URL_GENERAL>
+</ADDRESS_CONTRACTING_BODY>
+<CA_TYPE VALUE="EU_INSTITUTION"/>
+<CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+</CONTRACTING_BODY>
+<OBJECT_CONTRACT>
+<TITLE>
+<P>Tengeri személyszállítási szolgáltatások nyújtására irányuló keretszerződés.</P>
+</TITLE>
+<REFERENCE_NUMBER>OP/580/2016/RS.</REFERENCE_NUMBER>
+<CPV_MAIN>
+<CPV_CODE CODE="60610000"/>
+</CPV_MAIN>
+<TYPE_CONTRACT CTYPE="SERVICES"/>
+<SHORT_DESCR>
+<P>Tengeri személyszállítási szolgáltatások biztosítása.</P>
+</SHORT_DESCR>
+<LOT_DIVISION/>
+<OBJECT_DESCR ITEM="1">
+<TITLE>
+<P>Tengeri személyszállítási szolgáltatások – teljes körűen a Frontex számára fenntartott egyedi hajó(k) a rendelkezésre álló ülőhelyek számától függetlenül</P>
+</TITLE>
+<LOT_NO>1</LOT_NO>
+<CPV_ADDITIONAL>
+<CPV_CODE CODE="60610000"/>
+</CPV_ADDITIONAL>
+<NUTS CODE="GR"/>
+<NUTS CODE="TR"/>
+<MAIN_SITE>
+<P>Utasok szállítása Görögország és Törökország kijelölt kikötői között.</P>
+</MAIN_SITE>
+<SHORT_DESCR>
+<P>Utasok szállítása Görögország és Törökország kijelölt kikötői között a feladatmeghatározás rendelkezéseivel összhangban.</P>
+</SHORT_DESCR>
+<AC_QUALITY>
+<AC_CRITERION>Ülőhelyek száma</AC_CRITERION>
+<AC_WEIGHTING>20</AC_WEIGHTING>
+</AC_QUALITY>
+<AC_QUALITY>
+<AC_CRITERION>Fedélzeti térképek</AC_CRITERION>
+<AC_WEIGHTING>20</AC_WEIGHTING>
+</AC_QUALITY>
+<AC_QUALITY>
+<AC_CRITERION>Sebesség</AC_CRITERION>
+<AC_WEIGHTING>20</AC_WEIGHTING>
+</AC_QUALITY>
+<AC_QUALITY>
+<AC_CRITERION>Üzemeltetett kikötők</AC_CRITERION>
+<AC_WEIGHTING>30</AC_WEIGHTING>
+</AC_QUALITY>
+<AC_QUALITY>
+<AC_CRITERION>A javasolt hajók száma</AC_CRITERION>
+<AC_WEIGHTING>10</AC_WEIGHTING>
+</AC_QUALITY>
+<AC_PRICE>
+<AC_WEIGHTING>60/40</AC_WEIGHTING>
+</AC_PRICE>
+<NO_OPTIONS/>
+<NO_EU_PROGR_RELATED/>
+</OBJECT_DESCR>
+<OBJECT_DESCR ITEM="2">
+<TITLE>
+<P>Tengeri személyszállítási szolgáltatások – teljes körűen a Frontex számára fenntartott egyedi hajó(k) a rendelkezésre álló ülőhelyek számától függetlenül</P>
+</TITLE>
+<LOT_NO>2</LOT_NO>
+<CPV_ADDITIONAL>
+<CPV_CODE CODE="60610000"/>
+</CPV_ADDITIONAL>
+<NUTS CODE="GR"/>
+<NUTS CODE="TR"/>
+<MAIN_SITE>
+<P>Utasok szállítása Görögország és Törökország kijelölt kikötői között.</P>
+</MAIN_SITE>
+<SHORT_DESCR>
+<P>Utasok szállítása Görögország és Törökország kijelölt kikötői között a feladatmeghatározás rendelkezéseivel összhangban.</P>
+</SHORT_DESCR>
+<AC_QUALITY>
+<AC_CRITERION>Ülőhelyek száma</AC_CRITERION>
+<AC_WEIGHTING>20</AC_WEIGHTING>
+</AC_QUALITY>
+<AC_QUALITY>
+<AC_CRITERION>Fedélzeti térképek</AC_CRITERION>
+<AC_WEIGHTING>20</AC_WEIGHTING>
+</AC_QUALITY>
+<AC_QUALITY>
+<AC_CRITERION>Sebesség</AC_CRITERION>
+<AC_WEIGHTING>20</AC_WEIGHTING>
+</AC_QUALITY>
+<AC_QUALITY>
+<AC_CRITERION>Üzemeltetett kikötők</AC_CRITERION>
+<AC_WEIGHTING>30</AC_WEIGHTING>
+</AC_QUALITY>
+<AC_QUALITY>
+<AC_CRITERION>A javasolt hajók száma</AC_CRITERION>
+<AC_WEIGHTING>10</AC_WEIGHTING>
+</AC_QUALITY>
+<AC_PRICE>
+<AC_WEIGHTING>60/40</AC_WEIGHTING>
+</AC_PRICE>
+<NO_OPTIONS/>
+<NO_EU_PROGR_RELATED/>
+</OBJECT_DESCR>
+</OBJECT_CONTRACT>
+<PROCEDURE>
+<PT_OPEN/>
+<ACCELERATED_PROC>
+<P>A tagállamok szintjén függőben lévő visszafogadások magas számának figyelembevételével a Frontexnek meg kell tennie a szükséges lépéseket annak biztosítása érdekében, hogy a tagállamok azonnali támogatásban részesülnek a kötelezettségeik teljesítéséhez.</P>
+</ACCELERATED_PROC>
+<FRAMEWORK/>
+<NO_CONTRACT_COVERED_GPA/>
+<NOTICE_NUMBER_OJ>2016/S 173-310489</NOTICE_NUMBER_OJ>
+</PROCEDURE>
+<AWARD_CONTRACT ITEM="1">
+<NO_AWARDED_CONTRACT>
+<PROCUREMENT_DISCONTINUED/>
+</NO_AWARDED_CONTRACT>
+</AWARD_CONTRACT>
+<AWARD_CONTRACT ITEM="2">
+<NO_AWARDED_CONTRACT>
+<PROCUREMENT_DISCONTINUED/>
+</NO_AWARDED_CONTRACT>
+</AWARD_CONTRACT>
+<COMPLEMENTARY_INFO>
+<INFO_ADD>
+<P>A pályázati eljárás érvénytelenítésre került, mivel a jogosult pályázatok száma elégtelen volt ahhoz, hogy a verseny ismételt megnyitásával több féllel keretszerződést lehessen kötni.</P>
+</INFO_ADD>
+<ADDRESS_REVIEW_BODY>
+<OFFICIALNAME>Törvényszék</OFFICIALNAME>
+<ADDRESS>rue du Fort Niedergrünewald </ADDRESS>
+<TOWN>Luxembourg</TOWN>
+<POSTAL_CODE>2925</POSTAL_CODE>
+<COUNTRY VALUE="LU"/>
+<PHONE>+352 4303-1</PHONE>
+<FAX>+352 4303-2100</FAX>
+<URL>http://curia.europa.eu</URL>
+</ADDRESS_REVIEW_BODY>
+<DATE_DISPATCH_NOTICE>2016-11-10</DATE_DISPATCH_NOTICE>
+</COMPLEMENTARY_INFO>
+</F03_2014>
+<F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="LT">
+<CONTRACTING_BODY>
+<ADDRESS_CONTRACTING_BODY>
+<OFFICIALNAME>Frontex</OFFICIALNAME>
+<ADDRESS>Plac Europejski 6</ADDRESS>
+<TOWN>Warsaw</TOWN>
+<POSTAL_CODE>00-844</POSTAL_CODE>
+<COUNTRY VALUE="PL"/>
+<PHONE>+48 222059500</PHONE>
+<E_MAIL>procurement@frontex.europa.eu</E_MAIL>
+<FAX>+48 222059501</FAX>
+<NUTS CODE="PL127"/>
+<URL_GENERAL>http://www.frontex.europa.eu</URL_GENERAL>
+</ADDRESS_CONTRACTING_BODY>
+<CA_TYPE VALUE="EU_INSTITUTION"/>
+<CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+</CONTRACTING_BODY>
+<OBJECT_CONTRACT>
+<TITLE>
+<P>Preliminarioji sutartis dėl keleivių vežimo jūra paslaugų teikimo.</P>
+</TITLE>
+<REFERENCE_NUMBER>OP/580/2016/RS.</REFERENCE_NUMBER>
+<CPV_MAIN>
+<CPV_CODE CODE="60610000"/>
+</CPV_MAIN>
+<TYPE_CONTRACT CTYPE="SERVICES"/>
+<SHORT_DESCR>
+<P>Keleivių vežimo jūra paslaugų teikimas.</P>
+</SHORT_DESCR>
+<LOT_DIVISION/>
+<OBJECT_DESCR ITEM="1">
+<TITLE>
+<P>Keleivių vežimo jūra paslaugos – atskiras (-i) laivas (-ai), kuris (-ie) visiškai užsakytas (-i)i Frontex, nepriklausomai nuo galimų vietų skaičiaus</P>
+</TITLE>
+<LOT_NO>1</LOT_NO>
+<CPV_ADDITIONAL>
+<CPV_CODE CODE="60610000"/>
+</CPV_ADDITIONAL>
+<NUTS CODE="GR"/>
+<NUTS CODE="TR"/>
+<MAIN_SITE>
+<P>Keleivių vežimas tarp nustatytų uostų Graikijoje ir Turkijoje.</P>
+</MAIN_SITE>
+<SHORT_DESCR>
+<P>Keleivių vežimas tarp nustatytų uostų Graikijoje ir Turkijoje, vadovaujantis įgaliojimų nuostata.</P>
+</SHORT_DESCR>
+<AC_QUALITY>
+<AC_CRITERION>Sėdimųjų vietų skaičius</AC_CRITERION>
+<AC_WEIGHTING>20</AC_WEIGHTING>
+</AC_QUALITY>
+<AC_QUALITY>
+<AC_CRITERION>Denio planai</AC_CRITERION>
+<AC_WEIGHTING>20</AC_WEIGHTING>
+</AC_QUALITY>
+<AC_QUALITY>
+<AC_CRITERION>Greitis</AC_CRITERION>
+<AC_WEIGHTING>20</AC_WEIGHTING>
+</AC_QUALITY>
+<AC_QUALITY>
+<AC_CRITERION>Eksploatuojami uostai</AC_CRITERION>
+<AC_WEIGHTING>30</AC_WEIGHTING>
+</AC_QUALITY>
+<AC_QUALITY>
+<AC_CRITERION>Pasiūlytų laivų skaičius</AC_CRITERION>
+<AC_WEIGHTING>10</AC_WEIGHTING>
+</AC_QUALITY>
+<AC_PRICE>
+<AC_WEIGHTING>60/40</AC_WEIGHTING>
+</AC_PRICE>
+<NO_OPTIONS/>
+<NO_EU_PROGR_RELATED/>
+</OBJECT_DESCR>
+<OBJECT_DESCR ITEM="2">
+<TITLE>
+<P>Keleivių vežimo jūra paslaugos – atskiras (-i) laivas (-ai), kuris (-ie) visiškai užsakytas (-i)i Frontex, nepriklausomai nuo galimų vietų skaičiaus</P>
+</TITLE>
+<LOT_NO>2</LOT_NO>
+<CPV_ADDITIONAL>
+<CPV_CODE CODE="60610000"/>
+</CPV_ADDITIONAL>
+<NUTS CODE="GR"/>
+<NUTS CODE="TR"/>
+<MAIN_SITE>
+<P>Keleivių vežimas tarp nustatytų uostų Graikijoje ir Turkijoje.</P>
+</MAIN_SITE>
+<SHORT_DESCR>
+<P>Keleivių vežimas tarp nustatytų uostų Graikijoje ir Turkijoje, vadovaujantis įgaliojimų nuostata.</P>
+</SHORT_DESCR>
+<AC_QUALITY>
+<AC_CRITERION>Sėdimųjų vietų skaičius</AC_CRITERION>
+<AC_WEIGHTING>20</AC_WEIGHTING>
+</AC_QUALITY>
+<AC_QUALITY>
+<AC_CRITERION>Denio planai</AC_CRITERION>
+<AC_WEIGHTING>20</AC_WEIGHTING>
+</AC_QUALITY>
+<AC_QUALITY>
+<AC_CRITERION>Greitis</AC_CRITERION>
+<AC_WEIGHTING>20</AC_WEIGHTING>
+</AC_QUALITY>
+<AC_QUALITY>
+<AC_CRITERION>Eksploatuojami uostai</AC_CRITERION>
+<AC_WEIGHTING>30</AC_WEIGHTING>
+</AC_QUALITY>
+<AC_QUALITY>
+<AC_CRITERION>Pasiūlytų laivų skaičius</AC_CRITERION>
+<AC_WEIGHTING>10</AC_WEIGHTING>
+</AC_QUALITY>
+<AC_PRICE>
+<AC_WEIGHTING>60/40</AC_WEIGHTING>
+</AC_PRICE>
+<NO_OPTIONS/>
+<NO_EU_PROGR_RELATED/>
+</OBJECT_DESCR>
+</OBJECT_CONTRACT>
+<PROCEDURE>
+<PT_OPEN/>
+<ACCELERATED_PROC>
+<P>Atsižvelgiant į didelį readmisijų, kurios nebaigtos nagrinėti valstybėse narėse, skaičių, Frontex turi imtis visų būtinų žingsnių, kad užtikrintų, jog valstybėms narėms būtų teikiama skubi parama, kad jos galėtų vykdyti savo įsipareigojimus.</P>
+</ACCELERATED_PROC>
+<FRAMEWORK/>
+<NO_CONTRACT_COVERED_GPA/>
+<NOTICE_NUMBER_OJ>2016/S 173-310489</NOTICE_NUMBER_OJ>
+</PROCEDURE>
+<AWARD_CONTRACT ITEM="1">
+<NO_AWARDED_CONTRACT>
+<PROCUREMENT_DISCONTINUED/>
+</NO_AWARDED_CONTRACT>
+</AWARD_CONTRACT>
+<AWARD_CONTRACT ITEM="2">
+<NO_AWARDED_CONTRACT>
+<PROCUREMENT_DISCONTINUED/>
+</NO_AWARDED_CONTRACT>
+</AWARD_CONTRACT>
+<COMPLEMENTARY_INFO>
+<INFO_ADD>
+<P>Pirkimo procedūros anuliavimas dėl nepakankamo tinkamų pasiūlymų skaičiaus siekiant užbaigti preliminariąją sutartį su keliais tiekėjais su pakartotinu konkurso skelbimu.</P>
+</INFO_ADD>
+<ADDRESS_REVIEW_BODY>
+<OFFICIALNAME>Bendrasis Teismas</OFFICIALNAME>
+<ADDRESS>rue du Fort Niedergrünewald </ADDRESS>
+<TOWN>Luxembourg</TOWN>
+<POSTAL_CODE>2925</POSTAL_CODE>
+<COUNTRY VALUE="LU"/>
+<PHONE>+352 4303-1</PHONE>
+<FAX>+352 4303-2100</FAX>
+<URL>http://curia.europa.eu</URL>
+</ADDRESS_REVIEW_BODY>
+<DATE_DISPATCH_NOTICE>2016-11-10</DATE_DISPATCH_NOTICE>
+</COMPLEMENTARY_INFO>
+</F03_2014>
+<F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="LV">
+<CONTRACTING_BODY>
+<ADDRESS_CONTRACTING_BODY>
+<OFFICIALNAME>Frontex</OFFICIALNAME>
+<ADDRESS>Plac Europejski 6</ADDRESS>
+<TOWN>Warsaw</TOWN>
+<POSTAL_CODE>00-844</POSTAL_CODE>
+<COUNTRY VALUE="PL"/>
+<PHONE>+48 222059500</PHONE>
+<E_MAIL>procurement@frontex.europa.eu</E_MAIL>
+<FAX>+48 222059501</FAX>
+<NUTS CODE="PL127"/>
+<URL_GENERAL>http://www.frontex.europa.eu</URL_GENERAL>
+</ADDRESS_CONTRACTING_BODY>
+<CA_TYPE VALUE="EU_INSTITUTION"/>
+<CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+</CONTRACTING_BODY>
+<OBJECT_CONTRACT>
+<TITLE>
+<P>Pamatnolīgums par pasažieru pārvadājumu pakalpojumu pa jūru nodrošināšanu.</P>
+</TITLE>
+<REFERENCE_NUMBER>OP/580/2016/RS.</REFERENCE_NUMBER>
+<CPV_MAIN>
+<CPV_CODE CODE="60610000"/>
+</CPV_MAIN>
+<TYPE_CONTRACT CTYPE="SERVICES"/>
+<SHORT_DESCR>
+<P>Pasažieru pārvadājumu pakalpojumu pa jūru nodrošināšana.</P>
+</SHORT_DESCR>
+<LOT_DIVISION/>
+<OBJECT_DESCR ITEM="1">
+<TITLE>
+<P>Pasažieru pārvadājumu pakalpojumi pa jūru – atsevišķs(-i) kuģis(-i), kas pilnībā rezervēts(-i) Frontex neatkarīgi no pieejamo vietu skaita</P>
+</TITLE>
+<LOT_NO>1</LOT_NO>
+<CPV_ADDITIONAL>
+<CPV_CODE CODE="60610000"/>
+</CPV_ADDITIONAL>
+<NUTS CODE="GR"/>
+<NUTS CODE="TR"/>
+<MAIN_SITE>
+<P>pasažieru pārvadāšana starp noteiktajām ostām Grieķijā un Turcijā.</P>
+</MAIN_SITE>
+<SHORT_DESCR>
+<P>Pasažieru pārvadāšana starp noteiktajām ostām Grieķijā un Turcijā saskaņā ar darba uzdevuma noteikumiem.</P>
+</SHORT_DESCR>
+<AC_QUALITY>
+<AC_CRITERION>Sēdvietu skaits</AC_CRITERION>
+<AC_WEIGHTING>20</AC_WEIGHTING>
+</AC_QUALITY>
+<AC_QUALITY>
+<AC_CRITERION>Klāju plāni</AC_CRITERION>
+<AC_WEIGHTING>20</AC_WEIGHTING>
+</AC_QUALITY>
+<AC_QUALITY>
+<AC_CRITERION>Ātrums</AC_CRITERION>
+<AC_WEIGHTING>20</AC_WEIGHTING>
+</AC_QUALITY>
+<AC_QUALITY>
+<AC_CRITERION>Ostas, uz kurām veic pārvadājumus</AC_CRITERION>
+<AC_WEIGHTING>30</AC_WEIGHTING>
+</AC_QUALITY>
+<AC_QUALITY>
+<AC_CRITERION>Piedāvāto kuģu skaits</AC_CRITERION>
+<AC_WEIGHTING>10</AC_WEIGHTING>
+</AC_QUALITY>
+<AC_PRICE>
+<AC_WEIGHTING>60/40</AC_WEIGHTING>
+</AC_PRICE>
+<NO_OPTIONS/>
+<NO_EU_PROGR_RELATED/>
+</OBJECT_DESCR>
+<OBJECT_DESCR ITEM="2">
+<TITLE>
+<P>Pasažieru pārvadājumu pakalpojumi pa jūru – atsevišķs(-i) kuģis(-i), kas pilnībā rezervēts(-i) Frontex neatkarīgi no pieejamo vietu skaita</P>
+</TITLE>
+<LOT_NO>2</LOT_NO>
+<CPV_ADDITIONAL>
+<CPV_CODE CODE="60610000"/>
+</CPV_ADDITIONAL>
+<NUTS CODE="GR"/>
+<NUTS CODE="TR"/>
+<MAIN_SITE>
+<P>pasažieru pārvadāšana starp noteiktajām ostām Grieķijā un Turcijā.</P>
+</MAIN_SITE>
+<SHORT_DESCR>
+<P>Pasažieru pārvadāšana starp noteiktajām ostām Grieķijā un Turcijā saskaņā ar darba uzdevuma noteikumiem.</P>
+</SHORT_DESCR>
+<AC_QUALITY>
+<AC_CRITERION>Sēdvietu skaits</AC_CRITERION>
+<AC_WEIGHTING>20</AC_WEIGHTING>
+</AC_QUALITY>
+<AC_QUALITY>
+<AC_CRITERION>Klāju plāni</AC_CRITERION>
+<AC_WEIGHTING>20</AC_WEIGHTING>
+</AC_QUALITY>
+<AC_QUALITY>
+<AC_CRITERION>Ātrums</AC_CRITERION>
+<AC_WEIGHTING>20</AC_WEIGHTING>
+</AC_QUALITY>
+<AC_QUALITY>
+<AC_CRITERION>Ostas, uz kurām veic pārvadājumus</AC_CRITERION>
+<AC_WEIGHTING>30</AC_WEIGHTING>
+</AC_QUALITY>
+<AC_QUALITY>
+<AC_CRITERION>Piedāvāto kuģu skaits</AC_CRITERION>
+<AC_WEIGHTING>10</AC_WEIGHTING>
+</AC_QUALITY>
+<AC_PRICE>
+<AC_WEIGHTING>60/40</AC_WEIGHTING>
+</AC_PRICE>
+<NO_OPTIONS/>
+<NO_EU_PROGR_RELATED/>
+</OBJECT_DESCR>
+</OBJECT_CONTRACT>
+<PROCEDURE>
+<PT_OPEN/>
+<ACCELERATED_PROC>
+<P>ņemot vērā to, ka dalībvalstu līmenī liels skaits atpakaļuzņemšanas gadījumu nav īstenoti, Frontex jāveic visi nepieciešamie pasākumi, lai nodrošinātu dalībvalstīm tūlītēja atbalsta sniegšanu to pienākumu izpildē.</P>
+</ACCELERATED_PROC>
+<FRAMEWORK/>
+<NO_CONTRACT_COVERED_GPA/>
+<NOTICE_NUMBER_OJ>2016/S 173-310489</NOTICE_NUMBER_OJ>
+</PROCEDURE>
+<AWARD_CONTRACT ITEM="1">
+<NO_AWARDED_CONTRACT>
+<PROCUREMENT_DISCONTINUED/>
+</NO_AWARDED_CONTRACT>
+</AWARD_CONTRACT>
+<AWARD_CONTRACT ITEM="2">
+<NO_AWARDED_CONTRACT>
+<PROCUREMENT_DISCONTINUED/>
+</NO_AWARDED_CONTRACT>
+</AWARD_CONTRACT>
+<COMPLEMENTARY_INFO>
+<INFO_ADD>
+<P>Konkursa procedūras atcelšana nepietiekama atbilstošu piedāvājumu skaita dēļ, lai noslēgtu vairākkārtēju pamatnolīgumu ar atkārtotu konkursa izsludināšanu.</P>
+</INFO_ADD>
+<ADDRESS_REVIEW_BODY>
+<OFFICIALNAME>Vispārējā tiesa</OFFICIALNAME>
+<ADDRESS>rue du Fort Niedergrünewald </ADDRESS>
+<TOWN>Luxembourg</TOWN>
+<POSTAL_CODE>2925</POSTAL_CODE>
+<COUNTRY VALUE="LU"/>
+<PHONE>+352 4303-1</PHONE>
+<FAX>+352 4303-2100</FAX>
+<URL>http://curia.europa.eu</URL>
+</ADDRESS_REVIEW_BODY>
+<DATE_DISPATCH_NOTICE>2016-11-10</DATE_DISPATCH_NOTICE>
+</COMPLEMENTARY_INFO>
+</F03_2014>
+<F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="MT">
+<CONTRACTING_BODY>
+<ADDRESS_CONTRACTING_BODY>
+<OFFICIALNAME>Frontex</OFFICIALNAME>
+<ADDRESS>Plac Europejski 6</ADDRESS>
+<TOWN>Varsavja</TOWN>
+<POSTAL_CODE>00-844</POSTAL_CODE>
+<COUNTRY VALUE="PL"/>
+<PHONE>+48 222059500</PHONE>
+<E_MAIL>procurement@frontex.europa.eu</E_MAIL>
+<FAX>+48 222059501</FAX>
+<NUTS CODE="PL127"/>
+<URL_GENERAL>http://www.frontex.europa.eu</URL_GENERAL>
+</ADDRESS_CONTRACTING_BODY>
+<CA_TYPE VALUE="EU_INSTITUTION"/>
+<CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+</CONTRACTING_BODY>
+<OBJECT_CONTRACT>
+<TITLE>
+<P>Qafas ta' kuntratt għall-provvista ta' servizzi għat-trasferiment tal-passiġġieri bil-baħar.</P>
+</TITLE>
+<REFERENCE_NUMBER>OP/580/2016/RS.</REFERENCE_NUMBER>
+<CPV_MAIN>
+<CPV_CODE CODE="60610000"/>
+</CPV_MAIN>
+<TYPE_CONTRACT CTYPE="SERVICES"/>
+<SHORT_DESCR>
+<P>Il-provvista ta' servizzi għat-trasferiment tal-passiġġieri bil-baħar.</P>
+</SHORT_DESCR>
+<LOT_DIVISION/>
+<OBJECT_DESCR ITEM="1">
+<TITLE>
+<P>Servizzi ta' trasferiment bil-baħar għall-passiġġieri — vapur(i) individwali rriżervati kompletament għall-Frontex irrispettivament min-numru ta' postijiet disponibbli</P>
+</TITLE>
+<LOT_NO>1</LOT_NO>
+<CPV_ADDITIONAL>
+<CPV_CODE CODE="60610000"/>
+</CPV_ADDITIONAL>
+<NUTS CODE="GR"/>
+<NUTS CODE="TR"/>
+<MAIN_SITE>
+<P>It-trasport ta' passiġġieri bejn portijiet magħżulin fil-Greċja u t-Turkija.</P>
+</MAIN_SITE>
+<SHORT_DESCR>
+<P>It-trasport ta' passiġġieri bejn portijiet magħżulin fil-Greċja u t-Turkija bi qbil mal-provvista tat-termini ta' referenza.</P>
+</SHORT_DESCR>
+<AC_QUALITY>
+<AC_CRITERION>Kemm jesgħu postijiet</AC_CRITERION>
+<AC_WEIGHTING>20</AC_WEIGHTING>
+</AC_QUALITY>
+<AC_QUALITY>
+<AC_CRITERION>Pjanijiet għall-gverta</AC_CRITERION>
+<AC_WEIGHTING>20</AC_WEIGHTING>
+</AC_QUALITY>
+<AC_QUALITY>
+<AC_CRITERION>Veloċità</AC_CRITERION>
+<AC_WEIGHTING>20</AC_WEIGHTING>
+</AC_QUALITY>
+<AC_QUALITY>
+<AC_CRITERION>Il-portijiet li joperaw fihom</AC_CRITERION>
+<AC_WEIGHTING>30</AC_WEIGHTING>
+</AC_QUALITY>
+<AC_QUALITY>
+<AC_CRITERION>In-numru ta' vapuri proposti</AC_CRITERION>
+<AC_WEIGHTING>10</AC_WEIGHTING>
+</AC_QUALITY>
+<AC_PRICE>
+<AC_WEIGHTING>60/40</AC_WEIGHTING>
+</AC_PRICE>
+<NO_OPTIONS/>
+<NO_EU_PROGR_RELATED/>
+</OBJECT_DESCR>
+<OBJECT_DESCR ITEM="2">
+<TITLE>
+<P>Servizzi ta' trasferiment bil-baħar għall-passiġġieri — vapur(i) individwali rriżervati kompletament għall-Frontex irrispettivament min-numru ta' postijiet disponibbli</P>
+</TITLE>
+<LOT_NO>2</LOT_NO>
+<CPV_ADDITIONAL>
+<CPV_CODE CODE="60610000"/>
+</CPV_ADDITIONAL>
+<NUTS CODE="GR"/>
+<NUTS CODE="TR"/>
+<MAIN_SITE>
+<P>It-trasport ta' passiġġieri bejn portijiet magħżulin fil-Greċja u t-Turkija.</P>
+</MAIN_SITE>
+<SHORT_DESCR>
+<P>It-trasport ta' passiġġieri bejn portijiet magħżulin fil-Greċja u t-Turkija bi qbil mal-provvista tat-termini ta' referenza.</P>
+</SHORT_DESCR>
+<AC_QUALITY>
+<AC_CRITERION>Kemm jesgħu postijiet</AC_CRITERION>
+<AC_WEIGHTING>20</AC_WEIGHTING>
+</AC_QUALITY>
+<AC_QUALITY>
+<AC_CRITERION>Pjanijiet għall-gverta</AC_CRITERION>
+<AC_WEIGHTING>20</AC_WEIGHTING>
+</AC_QUALITY>
+<AC_QUALITY>
+<AC_CRITERION>Veloċità</AC_CRITERION>
+<AC_WEIGHTING>20</AC_WEIGHTING>
+</AC_QUALITY>
+<AC_QUALITY>
+<AC_CRITERION>Il-portijiet li joperaw fihom</AC_CRITERION>
+<AC_WEIGHTING>30</AC_WEIGHTING>
+</AC_QUALITY>
+<AC_QUALITY>
+<AC_CRITERION>In-numru ta' vapuri proposti</AC_CRITERION>
+<AC_WEIGHTING>10</AC_WEIGHTING>
+</AC_QUALITY>
+<AC_PRICE>
+<AC_WEIGHTING>60/40</AC_WEIGHTING>
+</AC_PRICE>
+<NO_OPTIONS/>
+<NO_EU_PROGR_RELATED/>
+</OBJECT_DESCR>
+</OBJECT_CONTRACT>
+<PROCEDURE>
+<PT_OPEN/>
+<ACCELERATED_PROC>
+<P>Fil-konsiderazzjoni tan-numru għoli ta' ammissjonijiet mill-ġdid pendenti fuq il-livell tal-Istati Membri, il-Frontex jeħtieġ li tieħu l-passi kollha neċessarji biex tassigura li l-appoġġ immedjat ikun ipprovdut lill-Istati Membri biex jissodisfaw l-obbligi tagħhom.</P>
+</ACCELERATED_PROC>
+<FRAMEWORK/>
+<NO_CONTRACT_COVERED_GPA/>
+<NOTICE_NUMBER_OJ>2016/S 173-310489</NOTICE_NUMBER_OJ>
+</PROCEDURE>
+<AWARD_CONTRACT ITEM="1">
+<NO_AWARDED_CONTRACT>
+<PROCUREMENT_DISCONTINUED/>
+</NO_AWARDED_CONTRACT>
+</AWARD_CONTRACT>
+<AWARD_CONTRACT ITEM="2">
+<NO_AWARDED_CONTRACT>
+<PROCUREMENT_DISCONTINUED/>
+</NO_AWARDED_CONTRACT>
+</AWARD_CONTRACT>
+<COMPLEMENTARY_INFO>
+<INFO_ADD>
+<P>It-tħassir tal-proċedura għat-tfigħ tal-offerti minħabba numru mhux suffiċjenti ta' teffiegħa eliġibbli tal-offerti biex ikun iffinalizzat il-qafas ta' kuntratt multiplu bil-ftuħ mill-ġdid tal-kompetizzjoni.</P>
+</INFO_ADD>
+<ADDRESS_REVIEW_BODY>
+<OFFICIALNAME>Il-Qorti Ġenerali</OFFICIALNAME>
+<ADDRESS>rue du Fort Niedergrünewald </ADDRESS>
+<TOWN>Lussemburgu</TOWN>
+<POSTAL_CODE>2925</POSTAL_CODE>
+<COUNTRY VALUE="LU"/>
+<PHONE>+352 4303-1</PHONE>
+<FAX>+352 4303-2100</FAX>
+<URL>http://curia.europa.eu</URL>
+</ADDRESS_REVIEW_BODY>
+<DATE_DISPATCH_NOTICE>2016-11-10</DATE_DISPATCH_NOTICE>
+</COMPLEMENTARY_INFO>
+</F03_2014>
+<F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="PL">
+<CONTRACTING_BODY>
+<ADDRESS_CONTRACTING_BODY>
+<OFFICIALNAME>Frontex</OFFICIALNAME>
+<ADDRESS>Plac Europejski 6</ADDRESS>
+<TOWN>Warsaw</TOWN>
+<POSTAL_CODE>00-844</POSTAL_CODE>
+<COUNTRY VALUE="PL"/>
+<PHONE>+48 222059500</PHONE>
+<E_MAIL>procurement@frontex.europa.eu</E_MAIL>
+<FAX>+48 222059501</FAX>
+<NUTS CODE="PL127"/>
+<URL_GENERAL>http://www.frontex.europa.eu</URL_GENERAL>
+</ADDRESS_CONTRACTING_BODY>
+<CA_TYPE VALUE="EU_INSTITUTION"/>
+<CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+</CONTRACTING_BODY>
+<OBJECT_CONTRACT>
+<TITLE>
+<P>Umowa ramowa o świadczenie usług morskich przewozów pasażerskich</P>
+</TITLE>
+<REFERENCE_NUMBER>OP/580/2016/RS.</REFERENCE_NUMBER>
+<CPV_MAIN>
+<CPV_CODE CODE="60610000"/>
+</CPV_MAIN>
+<TYPE_CONTRACT CTYPE="SERVICES"/>
+<SHORT_DESCR>
+<P>Świadczenie usług morskich przewozów pasażerskich.</P>
+</SHORT_DESCR>
+<LOT_DIVISION/>
+<OBJECT_DESCR ITEM="1">
+<TITLE>
+<P>Przewozy morskie dla pasażerów – pojedynczy statek lub statki w pełni zarezerwowane dla Fronteksu niezależnie od liczby dostępnych miejsc siedzących</P>
+</TITLE>
+<LOT_NO>1</LOT_NO>
+<CPV_ADDITIONAL>
+<CPV_CODE CODE="60610000"/>
+</CPV_ADDITIONAL>
+<NUTS CODE="GR"/>
+<NUTS CODE="TR"/>
+<MAIN_SITE>
+<P>Transport pasażerów między wyznaczonymi portami w Grecji i Turcji.</P>
+</MAIN_SITE>
+<SHORT_DESCR>
+<P>Transport pasażerów między wyznaczonymi portami w Grecji i Turcji zgodnie z postanowieniami specyfikacji istotnych warunków zamówienia.</P>
+</SHORT_DESCR>
+<AC_QUALITY>
+<AC_CRITERION>liczba miejsc siedzących</AC_CRITERION>
+<AC_WEIGHTING>20</AC_WEIGHTING>
+</AC_QUALITY>
+<AC_QUALITY>
+<AC_CRITERION>plany pokładów</AC_CRITERION>
+<AC_WEIGHTING>20</AC_WEIGHTING>
+</AC_QUALITY>
+<AC_QUALITY>
+<AC_CRITERION>prędkość</AC_CRITERION>
+<AC_WEIGHTING>20</AC_WEIGHTING>
+</AC_QUALITY>
+<AC_QUALITY>
+<AC_CRITERION>obsługiwane porty</AC_CRITERION>
+<AC_WEIGHTING>30</AC_WEIGHTING>
+</AC_QUALITY>
+<AC_QUALITY>
+<AC_CRITERION>liczba proponowanych statków</AC_CRITERION>
+<AC_WEIGHTING>10</AC_WEIGHTING>
+</AC_QUALITY>
+<AC_PRICE>
+<AC_WEIGHTING>60/40</AC_WEIGHTING>
+</AC_PRICE>
+<NO_OPTIONS/>
+<NO_EU_PROGR_RELATED/>
+</OBJECT_DESCR>
+<OBJECT_DESCR ITEM="2">
+<TITLE>
+<P>Przewozy morskie dla pasażerów – pojedynczy statek lub statki w pełni zarezerwowane dla Fronteksu niezależnie od liczby dostępnych miejsc siedzących</P>
+</TITLE>
+<LOT_NO>2</LOT_NO>
+<CPV_ADDITIONAL>
+<CPV_CODE CODE="60610000"/>
+</CPV_ADDITIONAL>
+<NUTS CODE="GR"/>
+<NUTS CODE="TR"/>
+<MAIN_SITE>
+<P>Transport pasażerów między wyznaczonymi portami w Grecji i Turcji.</P>
+</MAIN_SITE>
+<SHORT_DESCR>
+<P>Transport pasażerów między wyznaczonymi portami w Grecji i Turcji zgodnie z postanowieniami specyfikacji istotnych warunków zamówienia.</P>
+</SHORT_DESCR>
+<AC_QUALITY>
+<AC_CRITERION>liczba miejsc siedzących</AC_CRITERION>
+<AC_WEIGHTING>20</AC_WEIGHTING>
+</AC_QUALITY>
+<AC_QUALITY>
+<AC_CRITERION>plany pokładów</AC_CRITERION>
+<AC_WEIGHTING>20</AC_WEIGHTING>
+</AC_QUALITY>
+<AC_QUALITY>
+<AC_CRITERION>prędkość</AC_CRITERION>
+<AC_WEIGHTING>20</AC_WEIGHTING>
+</AC_QUALITY>
+<AC_QUALITY>
+<AC_CRITERION>obsługiwane porty</AC_CRITERION>
+<AC_WEIGHTING>30</AC_WEIGHTING>
+</AC_QUALITY>
+<AC_QUALITY>
+<AC_CRITERION>liczba proponowanych statków</AC_CRITERION>
+<AC_WEIGHTING>10</AC_WEIGHTING>
+</AC_QUALITY>
+<AC_PRICE>
+<AC_WEIGHTING>60/40</AC_WEIGHTING>
+</AC_PRICE>
+<NO_OPTIONS/>
+<NO_EU_PROGR_RELATED/>
+</OBJECT_DESCR>
+</OBJECT_CONTRACT>
+<PROCEDURE>
+<PT_OPEN/>
+<ACCELERATED_PROC>
+<P>mając na uwadze dużą liczbę readmisji oczekujących na poziomie państw członkowskich, Frontex musi podjąć wszelkie konieczne kroki w celu zapewnienia państwom członkowskim bezpośredniego wsparcia w wypełnianiu ich obowiązków.</P>
+</ACCELERATED_PROC>
+<FRAMEWORK/>
+<NO_CONTRACT_COVERED_GPA/>
+<NOTICE_NUMBER_OJ>2016/S 173-310489</NOTICE_NUMBER_OJ>
+</PROCEDURE>
+<AWARD_CONTRACT ITEM="1">
+<NO_AWARDED_CONTRACT>
+<PROCUREMENT_DISCONTINUED/>
+</NO_AWARDED_CONTRACT>
+</AWARD_CONTRACT>
+<AWARD_CONTRACT ITEM="2">
+<NO_AWARDED_CONTRACT>
+<PROCUREMENT_DISCONTINUED/>
+</NO_AWARDED_CONTRACT>
+</AWARD_CONTRACT>
+<COMPLEMENTARY_INFO>
+<INFO_ADD>
+<P>Unieważnienie procedury przetargowej z powodu niewystarczającej liczby ofert kwalifikujących się do zawarcia wielokrotnej umowy ramowej z odnowieniem konkurencji.</P>
+</INFO_ADD>
+<ADDRESS_REVIEW_BODY>
+<OFFICIALNAME>Sąd</OFFICIALNAME>
+<ADDRESS>rue du Fort Niedergrünewald </ADDRESS>
+<TOWN>Luxembourg</TOWN>
+<POSTAL_CODE>2925</POSTAL_CODE>
+<COUNTRY VALUE="LU"/>
+<PHONE>+352 4303-1</PHONE>
+<FAX>+352 4303-2100</FAX>
+<URL>http://curia.europa.eu</URL>
+</ADDRESS_REVIEW_BODY>
+<DATE_DISPATCH_NOTICE>2016-11-10</DATE_DISPATCH_NOTICE>
+</COMPLEMENTARY_INFO>
+</F03_2014>
+<F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="SK">
+<CONTRACTING_BODY>
+<ADDRESS_CONTRACTING_BODY>
+<OFFICIALNAME>Frontex</OFFICIALNAME>
+<ADDRESS>Plac Europejski 6</ADDRESS>
+<TOWN>Warsaw</TOWN>
+<POSTAL_CODE>00-844</POSTAL_CODE>
+<COUNTRY VALUE="PL"/>
+<PHONE>+48 222059500</PHONE>
+<E_MAIL>procurement@frontex.europa.eu</E_MAIL>
+<FAX>+48 222059501</FAX>
+<NUTS CODE="PL127"/>
+<URL_GENERAL>http://www.frontex.europa.eu</URL_GENERAL>
+</ADDRESS_CONTRACTING_BODY>
+<CA_TYPE VALUE="EU_INSTITUTION"/>
+<CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+</CONTRACTING_BODY>
+<OBJECT_CONTRACT>
+<TITLE>
+<P>Rámcová zmluva na poskytovanie služieb prepravy cestujúcich po mori.</P>
+</TITLE>
+<REFERENCE_NUMBER>OP/580/2016/RS.</REFERENCE_NUMBER>
+<CPV_MAIN>
+<CPV_CODE CODE="60610000"/>
+</CPV_MAIN>
+<TYPE_CONTRACT CTYPE="SERVICES"/>
+<SHORT_DESCR>
+<P>Poskytovanie služieb prepravy cestujúcich po mori.</P>
+</SHORT_DESCR>
+<LOT_DIVISION/>
+<OBJECT_DESCR ITEM="1">
+<TITLE>
+<P>Služby prepravy cestujúcich po mori – jednotlivé lode plne rezervované pre Frontex bez ohľadu na počet dostupných miest</P>
+</TITLE>
+<LOT_NO>1</LOT_NO>
+<CPV_ADDITIONAL>
+<CPV_CODE CODE="60610000"/>
+</CPV_ADDITIONAL>
+<NUTS CODE="GR"/>
+<NUTS CODE="TR"/>
+<MAIN_SITE>
+<P>Preprava cestujúcich medzi určenými prístavmi v Grécku a Turecku.</P>
+</MAIN_SITE>
+<SHORT_DESCR>
+<P>Preprava cestujúcich medzi určenými prístavmi v Grécku a Turecku v zmysle ustanovení súťažných podmienok.</P>
+</SHORT_DESCR>
+<AC_QUALITY>
+<AC_CRITERION>Kapacita sedadiel</AC_CRITERION>
+<AC_WEIGHTING>20</AC_WEIGHTING>
+</AC_QUALITY>
+<AC_QUALITY>
+<AC_CRITERION>Plány podlaží</AC_CRITERION>
+<AC_WEIGHTING>20</AC_WEIGHTING>
+</AC_QUALITY>
+<AC_QUALITY>
+<AC_CRITERION>Rýchlosť</AC_CRITERION>
+<AC_WEIGHTING>20</AC_WEIGHTING>
+</AC_QUALITY>
+<AC_QUALITY>
+<AC_CRITERION>Obsluhované prístavy</AC_CRITERION>
+<AC_WEIGHTING>30</AC_WEIGHTING>
+</AC_QUALITY>
+<AC_QUALITY>
+<AC_CRITERION>Navrhovaný počet lodí</AC_CRITERION>
+<AC_WEIGHTING>10</AC_WEIGHTING>
+</AC_QUALITY>
+<AC_PRICE>
+<AC_WEIGHTING>60/40</AC_WEIGHTING>
+</AC_PRICE>
+<NO_OPTIONS/>
+<NO_EU_PROGR_RELATED/>
+</OBJECT_DESCR>
+<OBJECT_DESCR ITEM="2">
+<TITLE>
+<P>Služby prepravy cestujúcich po mori – jednotlivé lode plne rezervované pre Frontex bez ohľadu na počet dostupných miest</P>
+</TITLE>
+<LOT_NO>2</LOT_NO>
+<CPV_ADDITIONAL>
+<CPV_CODE CODE="60610000"/>
+</CPV_ADDITIONAL>
+<NUTS CODE="GR"/>
+<NUTS CODE="TR"/>
+<MAIN_SITE>
+<P>Preprava cestujúcich medzi určenými prístavmi v Grécku a Turecku.</P>
+</MAIN_SITE>
+<SHORT_DESCR>
+<P>Preprava cestujúcich medzi určenými prístavmi v Grécku a Turecku v zmysle ustanovení súťažných podmienok.</P>
+</SHORT_DESCR>
+<AC_QUALITY>
+<AC_CRITERION>Kapacita sedadiel</AC_CRITERION>
+<AC_WEIGHTING>20</AC_WEIGHTING>
+</AC_QUALITY>
+<AC_QUALITY>
+<AC_CRITERION>Plány podlaží</AC_CRITERION>
+<AC_WEIGHTING>20</AC_WEIGHTING>
+</AC_QUALITY>
+<AC_QUALITY>
+<AC_CRITERION>Rýchlosť</AC_CRITERION>
+<AC_WEIGHTING>20</AC_WEIGHTING>
+</AC_QUALITY>
+<AC_QUALITY>
+<AC_CRITERION>Obsluhované prístavy</AC_CRITERION>
+<AC_WEIGHTING>30</AC_WEIGHTING>
+</AC_QUALITY>
+<AC_QUALITY>
+<AC_CRITERION>Navrhovaný počet lodí</AC_CRITERION>
+<AC_WEIGHTING>10</AC_WEIGHTING>
+</AC_QUALITY>
+<AC_PRICE>
+<AC_WEIGHTING>60/40</AC_WEIGHTING>
+</AC_PRICE>
+<NO_OPTIONS/>
+<NO_EU_PROGR_RELATED/>
+</OBJECT_DESCR>
+</OBJECT_CONTRACT>
+<PROCEDURE>
+<PT_OPEN/>
+<ACCELERATED_PROC>
+<P>Frontex pri zvážení vysokého počtu readmisií, ktoré čakajú na vybavenie na úrovni členských štátov, musí prijať všetky potrebné kroky, ktorými sa zaistí, že členským štátom sa poskytne bezodkladná podpora v záujme splnenia ich povinností.</P>
+</ACCELERATED_PROC>
+<FRAMEWORK/>
+<NO_CONTRACT_COVERED_GPA/>
+<NOTICE_NUMBER_OJ>2016/S 173-310489</NOTICE_NUMBER_OJ>
+</PROCEDURE>
+<AWARD_CONTRACT ITEM="1">
+<NO_AWARDED_CONTRACT>
+<PROCUREMENT_DISCONTINUED/>
+</NO_AWARDED_CONTRACT>
+</AWARD_CONTRACT>
+<AWARD_CONTRACT ITEM="2">
+<NO_AWARDED_CONTRACT>
+<PROCUREMENT_DISCONTINUED/>
+</NO_AWARDED_CONTRACT>
+</AWARD_CONTRACT>
+<COMPLEMENTARY_INFO>
+<INFO_ADD>
+<P>Zrušenie výberového konania z dôvodu nedostatočného počtu spôsobilých ponúk na uzavretie viacnásobnej rámcovej zmluvy s obnovením súťaže.</P>
+</INFO_ADD>
+<ADDRESS_REVIEW_BODY>
+<OFFICIALNAME>Všeobecný súd</OFFICIALNAME>
+<ADDRESS>rue du Fort Niedergrünewald </ADDRESS>
+<TOWN>Luxembourg</TOWN>
+<POSTAL_CODE>2925</POSTAL_CODE>
+<COUNTRY VALUE="LU"/>
+<PHONE>+352 4303-1</PHONE>
+<FAX>+352 4303-2100</FAX>
+<URL>http://curia.europa.eu</URL>
+</ADDRESS_REVIEW_BODY>
+<DATE_DISPATCH_NOTICE>2016-11-10</DATE_DISPATCH_NOTICE>
+</COMPLEMENTARY_INFO>
+</F03_2014>
+<F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="SL">
+<CONTRACTING_BODY>
+<ADDRESS_CONTRACTING_BODY>
+<OFFICIALNAME>Frontex</OFFICIALNAME>
+<ADDRESS>Plac Europejski 6</ADDRESS>
+<TOWN>Warsaw</TOWN>
+<POSTAL_CODE>00-844</POSTAL_CODE>
+<COUNTRY VALUE="PL"/>
+<PHONE>+48 222059500</PHONE>
+<E_MAIL>procurement@frontex.europa.eu</E_MAIL>
+<FAX>+48 222059501</FAX>
+<NUTS CODE="PL127"/>
+<URL_GENERAL>http://www.frontex.europa.eu</URL_GENERAL>
+</ADDRESS_CONTRACTING_BODY>
+<CA_TYPE VALUE="EU_INSTITUTION"/>
+<CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+</CONTRACTING_BODY>
+<OBJECT_CONTRACT>
+<TITLE>
+<P>Okvirno naročilo za zagotavljanje storitev potniškega prometa po morju</P>
+</TITLE>
+<REFERENCE_NUMBER>OP/580/2016/RS.</REFERENCE_NUMBER>
+<CPV_MAIN>
+<CPV_CODE CODE="60610000"/>
+</CPV_MAIN>
+<TYPE_CONTRACT CTYPE="SERVICES"/>
+<SHORT_DESCR>
+<P>Zagotavljanje storitev potniškega prometa po morju.</P>
+</SHORT_DESCR>
+<LOT_DIVISION/>
+<OBJECT_DESCR ITEM="1">
+<TITLE>
+<P>Storitve potniškega prometa po morju – posamezna(-e) ladja(-e), v celoti rezervirana(-e) za Frontex ne glede na število razpoložljivih sedežev</P>
+</TITLE>
+<LOT_NO>1</LOT_NO>
+<CPV_ADDITIONAL>
+<CPV_CODE CODE="60610000"/>
+</CPV_ADDITIONAL>
+<NUTS CODE="GR"/>
+<NUTS CODE="TR"/>
+<MAIN_SITE>
+<P>Potniški promet med določenimi pristanišči v Grčiji in Turčiji.</P>
+</MAIN_SITE>
+<SHORT_DESCR>
+<P>Potniški promet med določenimi pristanišči v Grčiji in Turčiji v skladu z določbami formalnih pogojev.</P>
+</SHORT_DESCR>
+<AC_QUALITY>
+<AC_CRITERION>Število sedišč</AC_CRITERION>
+<AC_WEIGHTING>20</AC_WEIGHTING>
+</AC_QUALITY>
+<AC_QUALITY>
+<AC_CRITERION>Načrti za palubo</AC_CRITERION>
+<AC_WEIGHTING>20</AC_WEIGHTING>
+</AC_QUALITY>
+<AC_QUALITY>
+<AC_CRITERION>Hitrost</AC_CRITERION>
+<AC_WEIGHTING>20</AC_WEIGHTING>
+</AC_QUALITY>
+<AC_QUALITY>
+<AC_CRITERION>Upravljana pristanišča</AC_CRITERION>
+<AC_WEIGHTING>30</AC_WEIGHTING>
+</AC_QUALITY>
+<AC_QUALITY>
+<AC_CRITERION>Število predlaganih ladij</AC_CRITERION>
+<AC_WEIGHTING>10</AC_WEIGHTING>
+</AC_QUALITY>
+<AC_PRICE>
+<AC_WEIGHTING>60/40</AC_WEIGHTING>
+</AC_PRICE>
+<NO_OPTIONS/>
+<NO_EU_PROGR_RELATED/>
+</OBJECT_DESCR>
+<OBJECT_DESCR ITEM="2">
+<TITLE>
+<P>Storitve potniškega prometa po morju – posamezna(-e) ladja(-e), v celoti rezervirana(-e) za Frontex ne glede na število razpoložljivih sedežev</P>
+</TITLE>
+<LOT_NO>2</LOT_NO>
+<CPV_ADDITIONAL>
+<CPV_CODE CODE="60610000"/>
+</CPV_ADDITIONAL>
+<NUTS CODE="GR"/>
+<NUTS CODE="TR"/>
+<MAIN_SITE>
+<P>Potniški promet med določenimi pristanišči v Grčiji in Turčiji.</P>
+</MAIN_SITE>
+<SHORT_DESCR>
+<P>Potniški promet med določenimi pristanišči v Grčiji in Turčiji v skladu z določbami formalnih pogojev.</P>
+</SHORT_DESCR>
+<AC_QUALITY>
+<AC_CRITERION>Število sedišč</AC_CRITERION>
+<AC_WEIGHTING>20</AC_WEIGHTING>
+</AC_QUALITY>
+<AC_QUALITY>
+<AC_CRITERION>Načrti za palubo</AC_CRITERION>
+<AC_WEIGHTING>20</AC_WEIGHTING>
+</AC_QUALITY>
+<AC_QUALITY>
+<AC_CRITERION>Hitrost</AC_CRITERION>
+<AC_WEIGHTING>20</AC_WEIGHTING>
+</AC_QUALITY>
+<AC_QUALITY>
+<AC_CRITERION>Upravljana pristanišča</AC_CRITERION>
+<AC_WEIGHTING>30</AC_WEIGHTING>
+</AC_QUALITY>
+<AC_QUALITY>
+<AC_CRITERION>Število predlaganih ladij</AC_CRITERION>
+<AC_WEIGHTING>10</AC_WEIGHTING>
+</AC_QUALITY>
+<AC_PRICE>
+<AC_WEIGHTING>60/40</AC_WEIGHTING>
+</AC_PRICE>
+<NO_OPTIONS/>
+<NO_EU_PROGR_RELATED/>
+</OBJECT_DESCR>
+</OBJECT_CONTRACT>
+<PROCEDURE>
+<PT_OPEN/>
+<ACCELERATED_PROC>
+<P>Glede na veliko število nedokončanih ponovnih sprejemov na ravni držav članic mora Frontex sprejeti vse potrebne ukrepe za zagotovitev takojšnje podpore za države članice pri izpolnjevanju njihovih obveznosti.</P>
+</ACCELERATED_PROC>
+<FRAMEWORK/>
+<NO_CONTRACT_COVERED_GPA/>
+<NOTICE_NUMBER_OJ>2016/S 173-310489</NOTICE_NUMBER_OJ>
+</PROCEDURE>
+<AWARD_CONTRACT ITEM="1">
+<NO_AWARDED_CONTRACT>
+<PROCUREMENT_DISCONTINUED/>
+</NO_AWARDED_CONTRACT>
+</AWARD_CONTRACT>
+<AWARD_CONTRACT ITEM="2">
+<NO_AWARDED_CONTRACT>
+<PROCUREMENT_DISCONTINUED/>
+</NO_AWARDED_CONTRACT>
+</AWARD_CONTRACT>
+<COMPLEMENTARY_INFO>
+<INFO_ADD>
+<P>Preklic razpisnega postopka zaradi nezadostnega števila upravičenih ponudb za zaključek večkratnega okvirnega naročila s ponovnim odpiranjem konkurence.</P>
+</INFO_ADD>
+<ADDRESS_REVIEW_BODY>
+<OFFICIALNAME>Splošno sodišče</OFFICIALNAME>
+<ADDRESS>rue du Fort Niedergrünewald </ADDRESS>
+<TOWN>Luxembourg</TOWN>
+<POSTAL_CODE>2925</POSTAL_CODE>
+<COUNTRY VALUE="LU"/>
+<PHONE>+352 4303-1</PHONE>
+<FAX>+352 4303-2100</FAX>
+<URL>http://curia.europa.eu</URL>
+</ADDRESS_REVIEW_BODY>
+<DATE_DISPATCH_NOTICE>2016-11-10</DATE_DISPATCH_NOTICE>
+</COMPLEMENTARY_INFO>
+</F03_2014>
+<F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="GA">
+<CONTRACTING_BODY>
+<ADDRESS_CONTRACTING_BODY>
+<OFFICIALNAME>Frontex</OFFICIALNAME>
+<ADDRESS>Plac Europejski 6</ADDRESS>
+<TOWN>Warsaw</TOWN>
+<POSTAL_CODE>00-844</POSTAL_CODE>
+<COUNTRY VALUE="PL"/>
+<PHONE>+48 222059500</PHONE>
+<E_MAIL>procurement@frontex.europa.eu</E_MAIL>
+<FAX>+48 222059501</FAX>
+<NUTS CODE="PL127"/>
+<URL_GENERAL>http://www.frontex.europa.eu</URL_GENERAL>
+</ADDRESS_CONTRACTING_BODY>
+<CA_TYPE VALUE="EU_INSTITUTION"/>
+<CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+</CONTRACTING_BODY>
+<OBJECT_CONTRACT>
+<TITLE>
+<P>Conradh creatlaí le haghaidh seirbhísí aistrithe paisinéirí ar muir a sholáthar.</P>
+</TITLE>
+<REFERENCE_NUMBER>OP/580/2016/RS.</REFERENCE_NUMBER>
+<CPV_MAIN>
+<CPV_CODE CODE="60610000"/>
+</CPV_MAIN>
+<TYPE_CONTRACT CTYPE="SERVICES"/>
+<SHORT_DESCR>
+<P>Seirbhísí aistrithe paisinéirí ar muir a sholáthar.</P>
+</SHORT_DESCR>
+<LOT_DIVISION/>
+<OBJECT_DESCR ITEM="1">
+<TITLE>
+<P>Seirbhísí aistrithe ar muir do phaisinéirí — long(a) aonair arna chur (gcur) in áirithe go hiomlán do Frontex gan aird ar líon na suíochán atá ar fáil</P>
+</TITLE>
+<LOT_NO>1</LOT_NO>
+<CPV_ADDITIONAL>
+<CPV_CODE CODE="60610000"/>
+</CPV_ADDITIONAL>
+<NUTS CODE="GR"/>
+<NUTS CODE="TR"/>
+<MAIN_SITE>
+<P>Paisinéirí a iompar idir calaí ainmnithe sa Ghréig agus sa Tuirc.</P>
+</MAIN_SITE>
+<SHORT_DESCR>
+<P>Paisinéirí a iompar idir calaí ainmnithe sa Ghréig agus sa Tuirc ar aon dul le foráil na dtéarmaí tagartha.</P>
+</SHORT_DESCR>
+<AC_QUALITY>
+<AC_CRITERION>Cumas suíochánra</AC_CRITERION>
+<AC_WEIGHTING>20</AC_WEIGHTING>
+</AC_QUALITY>
+<AC_QUALITY>
+<AC_CRITERION>Pleananna deice</AC_CRITERION>
+<AC_WEIGHTING>20</AC_WEIGHTING>
+</AC_QUALITY>
+<AC_QUALITY>
+<AC_CRITERION>Luas</AC_CRITERION>
+<AC_WEIGHTING>20</AC_WEIGHTING>
+</AC_QUALITY>
+<AC_QUALITY>
+<AC_CRITERION>Calafoirt arna n-oibriú</AC_CRITERION>
+<AC_WEIGHTING>30</AC_WEIGHTING>
+</AC_QUALITY>
+<AC_QUALITY>
+<AC_CRITERION>Líon na long atá molta</AC_CRITERION>
+<AC_WEIGHTING>10</AC_WEIGHTING>
+</AC_QUALITY>
+<AC_PRICE>
+<AC_WEIGHTING>60/40</AC_WEIGHTING>
+</AC_PRICE>
+<NO_OPTIONS/>
+<NO_EU_PROGR_RELATED/>
+</OBJECT_DESCR>
+<OBJECT_DESCR ITEM="2">
+<TITLE>
+<P>Seirbhísí aistrithe ar muir do phaisinéirí — long(a) aonair arna chur (gcur) in áirithe go hiomlán do Frontex gan aird ar líon na suíochán atá ar fáil</P>
+</TITLE>
+<LOT_NO>2</LOT_NO>
+<CPV_ADDITIONAL>
+<CPV_CODE CODE="60610000"/>
+</CPV_ADDITIONAL>
+<NUTS CODE="GR"/>
+<NUTS CODE="TR"/>
+<MAIN_SITE>
+<P>Paisinéirí a iompar idir calaí ainmnithe sa Ghréig agus sa Tuirc.</P>
+</MAIN_SITE>
+<SHORT_DESCR>
+<P>Paisinéirí a iompar idir calaí ainmnithe sa Ghréig agus sa Tuirc ar aon dul le foráil na dtéarmaí tagartha.</P>
+</SHORT_DESCR>
+<AC_QUALITY>
+<AC_CRITERION>Cumas suíochánra</AC_CRITERION>
+<AC_WEIGHTING>20</AC_WEIGHTING>
+</AC_QUALITY>
+<AC_QUALITY>
+<AC_CRITERION>Pleananna deice</AC_CRITERION>
+<AC_WEIGHTING>20</AC_WEIGHTING>
+</AC_QUALITY>
+<AC_QUALITY>
+<AC_CRITERION>Luas</AC_CRITERION>
+<AC_WEIGHTING>20</AC_WEIGHTING>
+</AC_QUALITY>
+<AC_QUALITY>
+<AC_CRITERION>Calafoirt arna n-oibriú</AC_CRITERION>
+<AC_WEIGHTING>30</AC_WEIGHTING>
+</AC_QUALITY>
+<AC_QUALITY>
+<AC_CRITERION>Líon na long atá molta</AC_CRITERION>
+<AC_WEIGHTING>10</AC_WEIGHTING>
+</AC_QUALITY>
+<AC_PRICE>
+<AC_WEIGHTING>60/40</AC_WEIGHTING>
+</AC_PRICE>
+<NO_OPTIONS/>
+<NO_EU_PROGR_RELATED/>
+</OBJECT_DESCR>
+</OBJECT_CONTRACT>
+<PROCEDURE>
+<PT_OPEN/>
+<ACCELERATED_PROC>
+<P>Ag féachaint do líon mór na n-athcheaduithe isteach ar leibhéal na mBallstát teastaíonn ó Frontex na céimeanna riachtanacha uile a ghlacadh chun a chinntiú go soláthraítear tacaíocht láithreach do na Ballstáit chun a gcuid oibleagáidí a chomhlíonadh.</P>
+</ACCELERATED_PROC>
+<FRAMEWORK/>
+<NO_CONTRACT_COVERED_GPA/>
+<NOTICE_NUMBER_OJ>2016/S 173-310489</NOTICE_NUMBER_OJ>
+</PROCEDURE>
+<AWARD_CONTRACT ITEM="1">
+<NO_AWARDED_CONTRACT>
+<PROCUREMENT_DISCONTINUED/>
+</NO_AWARDED_CONTRACT>
+</AWARD_CONTRACT>
+<AWARD_CONTRACT ITEM="2">
+<NO_AWARDED_CONTRACT>
+<PROCUREMENT_DISCONTINUED/>
+</NO_AWARDED_CONTRACT>
+</AWARD_CONTRACT>
+<COMPLEMENTARY_INFO>
+<INFO_ADD>
+<P>Cuireadh an nós imeachta tairisceana ar ceal mar gheall ar líon neamhimleor tairiscintí incháilithe chun bailchríoch a chur ar an gconradh ilchreatlaí lena mbaineann athoscailt comórtais.</P>
+</INFO_ADD>
+<ADDRESS_REVIEW_BODY>
+<OFFICIALNAME>An Chúirt Ghinearálta</OFFICIALNAME>
+<ADDRESS>rue du Fort Niedergrünewald </ADDRESS>
+<TOWN>Luxembourg</TOWN>
+<POSTAL_CODE>2925</POSTAL_CODE>
+<COUNTRY VALUE="LU"/>
+<PHONE>+352 4303-1</PHONE>
+<FAX>+352 4303-2100</FAX>
+<URL>http://curia.europa.eu</URL>
+</ADDRESS_REVIEW_BODY>
+<DATE_DISPATCH_NOTICE>2016-11-10</DATE_DISPATCH_NOTICE>
+</COMPLEMENTARY_INFO>
+</F03_2014>
+<F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="BG">
+<CONTRACTING_BODY>
+<ADDRESS_CONTRACTING_BODY>
+<OFFICIALNAME>Frontex</OFFICIALNAME>
+<ADDRESS>Plac Europejski 6</ADDRESS>
+<TOWN>Warsaw</TOWN>
+<POSTAL_CODE>00-844</POSTAL_CODE>
+<COUNTRY VALUE="PL"/>
+<PHONE>+48 222059500</PHONE>
+<E_MAIL>procurement@frontex.europa.eu</E_MAIL>
+<FAX>+48 222059501</FAX>
+<NUTS CODE="PL127"/>
+<URL_GENERAL>http://www.frontex.europa.eu</URL_GENERAL>
+</ADDRESS_CONTRACTING_BODY>
+<CA_TYPE VALUE="EU_INSTITUTION"/>
+<CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+</CONTRACTING_BODY>
+<OBJECT_CONTRACT>
+<TITLE>
+<P>Рамков договор за осигуряване на услуги по трансфер на пътници по море.</P>
+</TITLE>
+<REFERENCE_NUMBER>OP/580/2016/RS.</REFERENCE_NUMBER>
+<CPV_MAIN>
+<CPV_CODE CODE="60610000"/>
+</CPV_MAIN>
+<TYPE_CONTRACT CTYPE="SERVICES"/>
+<SHORT_DESCR>
+<P>Осигуряване на услуги по трансфер на пътници по море.</P>
+</SHORT_DESCR>
+<LOT_DIVISION/>
+<OBJECT_DESCR ITEM="1">
+<TITLE>
+<P>Трансферни услуги по море за пътници – индивидуален/и кораб/и, изцяло запазен/и за Frontex, независимо от броя на наличните места</P>
+</TITLE>
+<LOT_NO>1</LOT_NO>
+<CPV_ADDITIONAL>
+<CPV_CODE CODE="60610000"/>
+</CPV_ADDITIONAL>
+<NUTS CODE="GR"/>
+<NUTS CODE="TR"/>
+<MAIN_SITE>
+<P>Превоз на пътници между определени пристанища в Гърция и Турция.</P>
+</MAIN_SITE>
+<SHORT_DESCR>
+<P>Превоз на пътници между определени пристанища в Гърция и Турция в съответствие с предвиденото в референтните условия.</P>
+</SHORT_DESCR>
+<AC_QUALITY>
+<AC_CRITERION>Капацитет на седящите места</AC_CRITERION>
+<AC_WEIGHTING>20</AC_WEIGHTING>
+</AC_QUALITY>
+<AC_QUALITY>
+<AC_CRITERION>Планове на палубата</AC_CRITERION>
+<AC_WEIGHTING>20</AC_WEIGHTING>
+</AC_QUALITY>
+<AC_QUALITY>
+<AC_CRITERION>Скорост</AC_CRITERION>
+<AC_WEIGHTING>20</AC_WEIGHTING>
+</AC_QUALITY>
+<AC_QUALITY>
+<AC_CRITERION>Управлявани пристанища</AC_CRITERION>
+<AC_WEIGHTING>30</AC_WEIGHTING>
+</AC_QUALITY>
+<AC_QUALITY>
+<AC_CRITERION>Предложен брой кораби</AC_CRITERION>
+<AC_WEIGHTING>10</AC_WEIGHTING>
+</AC_QUALITY>
+<AC_PRICE>
+<AC_WEIGHTING>60/40</AC_WEIGHTING>
+</AC_PRICE>
+<NO_OPTIONS/>
+<NO_EU_PROGR_RELATED/>
+</OBJECT_DESCR>
+<OBJECT_DESCR ITEM="2">
+<TITLE>
+<P>Трансферни услуги по море за пътници – индивидуален/и кораб/и, изцяло запазен/и за Frontex, независимо от броя на наличните места</P>
+</TITLE>
+<LOT_NO>2</LOT_NO>
+<CPV_ADDITIONAL>
+<CPV_CODE CODE="60610000"/>
+</CPV_ADDITIONAL>
+<NUTS CODE="GR"/>
+<NUTS CODE="TR"/>
+<MAIN_SITE>
+<P>Превоз на пътници между определени пристанища в Гърция и Турция.</P>
+</MAIN_SITE>
+<SHORT_DESCR>
+<P>Превоз на пътници между определени пристанища в Гърция и Турция в съответствие с предвиденото в референтните условия.</P>
+</SHORT_DESCR>
+<AC_QUALITY>
+<AC_CRITERION>Капацитет на седящите места</AC_CRITERION>
+<AC_WEIGHTING>20</AC_WEIGHTING>
+</AC_QUALITY>
+<AC_QUALITY>
+<AC_CRITERION>Планове на палубата</AC_CRITERION>
+<AC_WEIGHTING>20</AC_WEIGHTING>
+</AC_QUALITY>
+<AC_QUALITY>
+<AC_CRITERION>Скорост</AC_CRITERION>
+<AC_WEIGHTING>20</AC_WEIGHTING>
+</AC_QUALITY>
+<AC_QUALITY>
+<AC_CRITERION>Управлявани пристанища</AC_CRITERION>
+<AC_WEIGHTING>30</AC_WEIGHTING>
+</AC_QUALITY>
+<AC_QUALITY>
+<AC_CRITERION>Предложен брой кораби</AC_CRITERION>
+<AC_WEIGHTING>10</AC_WEIGHTING>
+</AC_QUALITY>
+<AC_PRICE>
+<AC_WEIGHTING>60/40</AC_WEIGHTING>
+</AC_PRICE>
+<NO_OPTIONS/>
+<NO_EU_PROGR_RELATED/>
+</OBJECT_DESCR>
+</OBJECT_CONTRACT>
+<PROCEDURE>
+<PT_OPEN/>
+<ACCELERATED_PROC>
+<P>Като се отчита големият брой обратни приемания в процес на разглеждане на ниво държави-членки, Frontex трябва да предприеме всички необходими стъпки, за да гарантира, че е предоставена незабавна подкрепа на държавите-членки, за да изпълнят техните задължения.</P>
+</ACCELERATED_PROC>
+<FRAMEWORK/>
+<NO_CONTRACT_COVERED_GPA/>
+<NOTICE_NUMBER_OJ>2016/S 173-310489</NOTICE_NUMBER_OJ>
+</PROCEDURE>
+<AWARD_CONTRACT ITEM="1">
+<NO_AWARDED_CONTRACT>
+<PROCUREMENT_DISCONTINUED/>
+</NO_AWARDED_CONTRACT>
+</AWARD_CONTRACT>
+<AWARD_CONTRACT ITEM="2">
+<NO_AWARDED_CONTRACT>
+<PROCUREMENT_DISCONTINUED/>
+</NO_AWARDED_CONTRACT>
+</AWARD_CONTRACT>
+<COMPLEMENTARY_INFO>
+<INFO_ADD>
+<P>Анулиране на тръжната процедура поради недостатъчен брой подходящи оферти за финализиране на многостранен рамков договор с повторно откриване на конкурс.</P>
+</INFO_ADD>
+<ADDRESS_REVIEW_BODY>
+<OFFICIALNAME>Общ съд</OFFICIALNAME>
+<ADDRESS>rue du Fort Niedergrünewald </ADDRESS>
+<TOWN>Luxembourg</TOWN>
+<POSTAL_CODE>2925</POSTAL_CODE>
+<COUNTRY VALUE="LU"/>
+<PHONE>+352 4303-1</PHONE>
+<FAX>+352 4303-2100</FAX>
+<URL>http://curia.europa.eu</URL>
+</ADDRESS_REVIEW_BODY>
+<DATE_DISPATCH_NOTICE>2016-11-10</DATE_DISPATCH_NOTICE>
+</COMPLEMENTARY_INFO>
+</F03_2014>
+<F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="RO">
+<CONTRACTING_BODY>
+<ADDRESS_CONTRACTING_BODY>
+<OFFICIALNAME>Frontex</OFFICIALNAME>
+<ADDRESS>Plac Europejski 6</ADDRESS>
+<TOWN>Warsaw</TOWN>
+<POSTAL_CODE>00-844</POSTAL_CODE>
+<COUNTRY VALUE="PL"/>
+<PHONE>+48 222059500</PHONE>
+<E_MAIL>procurement@frontex.europa.eu</E_MAIL>
+<FAX>+48 222059501</FAX>
+<NUTS CODE="PL127"/>
+<URL_GENERAL>http://www.frontex.europa.eu</URL_GENERAL>
+</ADDRESS_CONTRACTING_BODY>
+<CA_TYPE VALUE="EU_INSTITUTION"/>
+<CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+</CONTRACTING_BODY>
+<OBJECT_CONTRACT>
+<TITLE>
+<P>Contract-cadru pentru prestarea de servicii de transport maritim de pasageri.</P>
+</TITLE>
+<REFERENCE_NUMBER>OP/580/2016/RS.</REFERENCE_NUMBER>
+<CPV_MAIN>
+<CPV_CODE CODE="60610000"/>
+</CPV_MAIN>
+<TYPE_CONTRACT CTYPE="SERVICES"/>
+<SHORT_DESCR>
+<P>Prestarea de servicii de transport maritim de pasageri.</P>
+</SHORT_DESCR>
+<LOT_DIVISION/>
+<OBJECT_DESCR ITEM="1">
+<TITLE>
+<P>Servicii de transport maritim de pasageri – navă (nave) individuală (individuale) rezervată (rezervate) în totalitate pentru Frontex, indiferent de numărul de locuri disponibile</P>
+</TITLE>
+<LOT_NO>1</LOT_NO>
+<CPV_ADDITIONAL>
+<CPV_CODE CODE="60610000"/>
+</CPV_ADDITIONAL>
+<NUTS CODE="GR"/>
+<NUTS CODE="TR"/>
+<MAIN_SITE>
+<P>Transport de pasageri între porturile specificate din Grecia și Turcia.</P>
+</MAIN_SITE>
+<SHORT_DESCR>
+<P>Transport de pasageri între porturile specificate din Grecia și Turcia, în conformitate cu dispozițiile din caietul de sarcini.</P>
+</SHORT_DESCR>
+<AC_QUALITY>
+<AC_CRITERION>numărul de locuri</AC_CRITERION>
+<AC_WEIGHTING>20</AC_WEIGHTING>
+</AC_QUALITY>
+<AC_QUALITY>
+<AC_CRITERION>planurile punților</AC_CRITERION>
+<AC_WEIGHTING>20</AC_WEIGHTING>
+</AC_QUALITY>
+<AC_QUALITY>
+<AC_CRITERION>viteza</AC_CRITERION>
+<AC_WEIGHTING>20</AC_WEIGHTING>
+</AC_QUALITY>
+<AC_QUALITY>
+<AC_CRITERION>porturile deservite</AC_CRITERION>
+<AC_WEIGHTING>30</AC_WEIGHTING>
+</AC_QUALITY>
+<AC_QUALITY>
+<AC_CRITERION>numărul de nave propuse</AC_CRITERION>
+<AC_WEIGHTING>10</AC_WEIGHTING>
+</AC_QUALITY>
+<AC_PRICE>
+<AC_WEIGHTING>60/40</AC_WEIGHTING>
+</AC_PRICE>
+<NO_OPTIONS/>
+<NO_EU_PROGR_RELATED/>
+</OBJECT_DESCR>
+<OBJECT_DESCR ITEM="2">
+<TITLE>
+<P>Servicii de transport maritim de pasageri – navă (nave) individuală (individuale) rezervată (rezervate) în totalitate pentru Frontex, indiferent de numărul de locuri disponibile</P>
+</TITLE>
+<LOT_NO>2</LOT_NO>
+<CPV_ADDITIONAL>
+<CPV_CODE CODE="60610000"/>
+</CPV_ADDITIONAL>
+<NUTS CODE="GR"/>
+<NUTS CODE="TR"/>
+<MAIN_SITE>
+<P>Transport de pasageri între porturile specificate din Grecia și Turcia.</P>
+</MAIN_SITE>
+<SHORT_DESCR>
+<P>Transport de pasageri între porturile specificate din Grecia și Turcia, în conformitate cu dispozițiile din caietul de sarcini.</P>
+</SHORT_DESCR>
+<AC_QUALITY>
+<AC_CRITERION>numărul de locuri</AC_CRITERION>
+<AC_WEIGHTING>20</AC_WEIGHTING>
+</AC_QUALITY>
+<AC_QUALITY>
+<AC_CRITERION>planurile punților</AC_CRITERION>
+<AC_WEIGHTING>20</AC_WEIGHTING>
+</AC_QUALITY>
+<AC_QUALITY>
+<AC_CRITERION>viteza</AC_CRITERION>
+<AC_WEIGHTING>20</AC_WEIGHTING>
+</AC_QUALITY>
+<AC_QUALITY>
+<AC_CRITERION>porturile deservite</AC_CRITERION>
+<AC_WEIGHTING>30</AC_WEIGHTING>
+</AC_QUALITY>
+<AC_QUALITY>
+<AC_CRITERION>numărul de nave propuse</AC_CRITERION>
+<AC_WEIGHTING>10</AC_WEIGHTING>
+</AC_QUALITY>
+<AC_PRICE>
+<AC_WEIGHTING>60/40</AC_WEIGHTING>
+</AC_PRICE>
+<NO_OPTIONS/>
+<NO_EU_PROGR_RELATED/>
+</OBJECT_DESCR>
+</OBJECT_CONTRACT>
+<PROCEDURE>
+<PT_OPEN/>
+<ACCELERATED_PROC>
+<P>Având în vedere numărul ridicat de readmisii în așteptare la nivelul statelor membre, Frontex trebuie să ia toate măsurile necesare pentru a asigura că se acordă sprijin imediat statelor membre pentru îndeplinirea obligațiilor acestora.</P>
+</ACCELERATED_PROC>
+<FRAMEWORK/>
+<NO_CONTRACT_COVERED_GPA/>
+<NOTICE_NUMBER_OJ>2016/S 173-310489</NOTICE_NUMBER_OJ>
+</PROCEDURE>
+<AWARD_CONTRACT ITEM="1">
+<NO_AWARDED_CONTRACT>
+<PROCUREMENT_DISCONTINUED/>
+</NO_AWARDED_CONTRACT>
+</AWARD_CONTRACT>
+<AWARD_CONTRACT ITEM="2">
+<NO_AWARDED_CONTRACT>
+<PROCUREMENT_DISCONTINUED/>
+</NO_AWARDED_CONTRACT>
+</AWARD_CONTRACT>
+<COMPLEMENTARY_INFO>
+<INFO_ADD>
+<P>Anularea procedurii de licitație din cauza numărului insuficient de oferte eligibile pentru finalizarea contractului-cadru multiplu cu reluarea procedurii concurențiale.</P>
+</INFO_ADD>
+<ADDRESS_REVIEW_BODY>
+<OFFICIALNAME>Tribunalul</OFFICIALNAME>
+<ADDRESS>rue du Fort Niedergrünewald </ADDRESS>
+<TOWN>Luxembourg</TOWN>
+<POSTAL_CODE>2925</POSTAL_CODE>
+<COUNTRY VALUE="LU"/>
+<PHONE>+352 4303-1</PHONE>
+<FAX>+352 4303-2100</FAX>
+<URL>http://curia.europa.eu</URL>
+</ADDRESS_REVIEW_BODY>
+<DATE_DISPATCH_NOTICE>2016-11-10</DATE_DISPATCH_NOTICE>
+</COMPLEMENTARY_INFO>
+</F03_2014>
+<F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="HR">
+<CONTRACTING_BODY>
+<ADDRESS_CONTRACTING_BODY>
+<OFFICIALNAME>Frontex</OFFICIALNAME>
+<ADDRESS>Plac Europejski 6</ADDRESS>
+<TOWN>Warsaw</TOWN>
+<POSTAL_CODE>00-844</POSTAL_CODE>
+<COUNTRY VALUE="PL"/>
+<PHONE>+48 222059500</PHONE>
+<E_MAIL>procurement@frontex.europa.eu</E_MAIL>
+<FAX>+48 222059501</FAX>
+<NUTS CODE="PL127"/>
+<URL_GENERAL>http://www.frontex.europa.eu</URL_GENERAL>
+</ADDRESS_CONTRACTING_BODY>
+<CA_TYPE VALUE="EU_INSTITUTION"/>
+<CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+</CONTRACTING_BODY>
+<OBJECT_CONTRACT>
+<TITLE>
+<P>Okvirni ugovor za pružanje usluge prijevoza putnika morem</P>
+</TITLE>
+<REFERENCE_NUMBER>OP/580/2016/RS.</REFERENCE_NUMBER>
+<CPV_MAIN>
+<CPV_CODE CODE="60610000"/>
+</CPV_MAIN>
+<TYPE_CONTRACT CTYPE="SERVICES"/>
+<SHORT_DESCR>
+<P>Pružanje usluga prijevoza putnika morem.</P>
+</SHORT_DESCR>
+<LOT_DIVISION/>
+<OBJECT_DESCR ITEM="1">
+<TITLE>
+<P>Usluge prijevoza putnika morem — zasebni brod(ovi) u potpunosti rezerviran(i) za Frontex neovisno o broju dostupnih sjedala</P>
+</TITLE>
+<LOT_NO>1</LOT_NO>
+<CPV_ADDITIONAL>
+<CPV_CODE CODE="60610000"/>
+</CPV_ADDITIONAL>
+<NUTS CODE="GR"/>
+<NUTS CODE="TR"/>
+<MAIN_SITE>
+<P>Prijevoz putnika između određenih luka u Grčkoj i Turskoj.</P>
+</MAIN_SITE>
+<SHORT_DESCR>
+<P>Prijevoz putnika između određenih luka u Grčkoj i Turskoj u skladu s odredbama iz opisa projekta.</P>
+</SHORT_DESCR>
+<AC_QUALITY>
+<AC_CRITERION>Broj sjedećih mjesta</AC_CRITERION>
+<AC_WEIGHTING>20</AC_WEIGHTING>
+</AC_QUALITY>
+<AC_QUALITY>
+<AC_CRITERION>Nacrti palube</AC_CRITERION>
+<AC_WEIGHTING>20</AC_WEIGHTING>
+</AC_QUALITY>
+<AC_QUALITY>
+<AC_CRITERION>Brzina</AC_CRITERION>
+<AC_WEIGHTING>20</AC_WEIGHTING>
+</AC_QUALITY>
+<AC_QUALITY>
+<AC_CRITERION>Upravljane luke</AC_CRITERION>
+<AC_WEIGHTING>30</AC_WEIGHTING>
+</AC_QUALITY>
+<AC_QUALITY>
+<AC_CRITERION>Broj predloženih brodova</AC_CRITERION>
+<AC_WEIGHTING>10</AC_WEIGHTING>
+</AC_QUALITY>
+<AC_PRICE>
+<AC_WEIGHTING>60/40</AC_WEIGHTING>
+</AC_PRICE>
+<NO_OPTIONS/>
+<NO_EU_PROGR_RELATED/>
+</OBJECT_DESCR>
+<OBJECT_DESCR ITEM="2">
+<TITLE>
+<P>Usluge prijevoza putnika morem — zasebni brod(ovi) u potpunosti rezerviran(i) za Frontex neovisno o broju dostupnih sjedala</P>
+</TITLE>
+<LOT_NO>2</LOT_NO>
+<CPV_ADDITIONAL>
+<CPV_CODE CODE="60610000"/>
+</CPV_ADDITIONAL>
+<NUTS CODE="GR"/>
+<NUTS CODE="TR"/>
+<MAIN_SITE>
+<P>Prijevoz putnika između određenih luka u Grčkoj i Turskoj.</P>
+</MAIN_SITE>
+<SHORT_DESCR>
+<P>Prijevoz putnika između određenih luka u Grčkoj i Turskoj u skladu s odredbama iz opisa projekta.</P>
+</SHORT_DESCR>
+<AC_QUALITY>
+<AC_CRITERION>Broj sjedećih mjesta</AC_CRITERION>
+<AC_WEIGHTING>20</AC_WEIGHTING>
+</AC_QUALITY>
+<AC_QUALITY>
+<AC_CRITERION>Nacrti palube</AC_CRITERION>
+<AC_WEIGHTING>20</AC_WEIGHTING>
+</AC_QUALITY>
+<AC_QUALITY>
+<AC_CRITERION>Brzina</AC_CRITERION>
+<AC_WEIGHTING>20</AC_WEIGHTING>
+</AC_QUALITY>
+<AC_QUALITY>
+<AC_CRITERION>Upravljane luke</AC_CRITERION>
+<AC_WEIGHTING>30</AC_WEIGHTING>
+</AC_QUALITY>
+<AC_QUALITY>
+<AC_CRITERION>Broj predloženih brodova</AC_CRITERION>
+<AC_WEIGHTING>10</AC_WEIGHTING>
+</AC_QUALITY>
+<AC_PRICE>
+<AC_WEIGHTING>60/40</AC_WEIGHTING>
+</AC_PRICE>
+<NO_OPTIONS/>
+<NO_EU_PROGR_RELATED/>
+</OBJECT_DESCR>
+</OBJECT_CONTRACT>
+<PROCEDURE>
+<PT_OPEN/>
+<ACCELERATED_PROC>
+<P>U razmatranju velikog broja ponovnih prihvata u tijeku na razini država članica, Frontex treba poduzeti sve potrebne korake kako bi osigurao trenutnu podršku državama članicama kako bi ispunile svoje obveze.</P>
+</ACCELERATED_PROC>
+<FRAMEWORK/>
+<NO_CONTRACT_COVERED_GPA/>
+<NOTICE_NUMBER_OJ>2016/S 173-310489</NOTICE_NUMBER_OJ>
+</PROCEDURE>
+<AWARD_CONTRACT ITEM="1">
+<NO_AWARDED_CONTRACT>
+<PROCUREMENT_DISCONTINUED/>
+</NO_AWARDED_CONTRACT>
+</AWARD_CONTRACT>
+<AWARD_CONTRACT ITEM="2">
+<NO_AWARDED_CONTRACT>
+<PROCUREMENT_DISCONTINUED/>
+</NO_AWARDED_CONTRACT>
+</AWARD_CONTRACT>
+<COMPLEMENTARY_INFO>
+<INFO_ADD>
+<P>Poništenje postupka nadmetanja zbog nedovoljnog broja prihvatljivih ponuda za zaključenje višestrukog okvirnog ugovora s ponovnim otvaranjem nadmetanja.</P>
+</INFO_ADD>
+<ADDRESS_REVIEW_BODY>
+<OFFICIALNAME>Opći sud</OFFICIALNAME>
+<ADDRESS>rue du Fort Niedergrünewald </ADDRESS>
+<TOWN>Luxembourg</TOWN>
+<POSTAL_CODE>2925</POSTAL_CODE>
+<COUNTRY VALUE="LU"/>
+<PHONE>+352 4303-1</PHONE>
+<FAX>+352 4303-2100</FAX>
+<URL>http://curia.europa.eu</URL>
+</ADDRESS_REVIEW_BODY>
+<DATE_DISPATCH_NOTICE>2016-11-10</DATE_DISPATCH_NOTICE>
+</COMPLEMENTARY_INFO>
+</F03_2014>
+</FORM_SECTION>
+</TED_EXPORT>

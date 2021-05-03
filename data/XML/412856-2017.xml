@@ -1,0 +1,3840 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TED_EXPORT xmlns:xlink="http://www.w3.org/1999/xlink"
+            xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+            xmlns="ted/R2.0.9.S02/publication"
+            xmlns:n2016="ted/2016/nuts"
+            xsi:schemaLocation="ted/R2.0.9.S02/publication TED_EXPORT.xsd"
+            VERSION="R2.0.9.S02.E01"
+            DOC_ID="412856-2017"
+            EDITION="2017201">
+   <TECHNICAL_SECTION>
+      <RECEPTION_ID>17-422309-001</RECEPTION_ID>
+      <DELETION_DATE>20180117</DELETION_DATE>
+      <FORM_LG_LIST>DA DE EN ES FI FR EL IT NL PT SV CS ET HU LT LV MT PL SK SL GA BG RO HR </FORM_LG_LIST>
+      <COMMENTS>From Convertor</COMMENTS>
+   </TECHNICAL_SECTION>
+   <LINKS_SECTION>
+      <XML_SCHEMA_DEFINITION_LINK xlink:type="simple"
+                                  xlink:href="http://ted.europa.eu"
+                                  xlink:title="TED WEBSITE"/>
+      <OFFICIAL_FORMS_LINK xlink:type="simple" xlink:href="http://ted.europa.eu"/>
+      <FORMS_LABELS_LINK xlink:type="simple" xlink:href="http://ted.europa.eu"/>
+      <ORIGINAL_CPV_LINK xlink:type="simple" xlink:href="http://ted.europa.eu"/>
+      <ORIGINAL_NUTS_LINK xlink:type="simple" xlink:href="http://ted.europa.eu"/>
+   </LINKS_SECTION>
+   <CODED_DATA_SECTION>
+      <REF_OJS>
+         <COLL_OJ>S</COLL_OJ>
+         <NO_OJ>201</NO_OJ>
+         <DATE_PUB>20171019</DATE_PUB>
+      </REF_OJS>
+      <NOTICE_DATA>
+         <NO_DOC_OJS>2017/S 201-412856</NO_DOC_OJS>
+         <URI_LIST>
+            <URI_DOC LG="DA">http://ted.europa.eu/udl?uri=TED:NOTICE:412856-2017:TEXT:DA:HTML</URI_DOC>
+            <URI_DOC LG="DE">http://ted.europa.eu/udl?uri=TED:NOTICE:412856-2017:TEXT:DE:HTML</URI_DOC>
+            <URI_DOC LG="EN">http://ted.europa.eu/udl?uri=TED:NOTICE:412856-2017:TEXT:EN:HTML</URI_DOC>
+            <URI_DOC LG="ES">http://ted.europa.eu/udl?uri=TED:NOTICE:412856-2017:TEXT:ES:HTML</URI_DOC>
+            <URI_DOC LG="FI">http://ted.europa.eu/udl?uri=TED:NOTICE:412856-2017:TEXT:FI:HTML</URI_DOC>
+            <URI_DOC LG="FR">http://ted.europa.eu/udl?uri=TED:NOTICE:412856-2017:TEXT:FR:HTML</URI_DOC>
+            <URI_DOC LG="EL">http://ted.europa.eu/udl?uri=TED:NOTICE:412856-2017:TEXT:EL:HTML</URI_DOC>
+            <URI_DOC LG="IT">http://ted.europa.eu/udl?uri=TED:NOTICE:412856-2017:TEXT:IT:HTML</URI_DOC>
+            <URI_DOC LG="NL">http://ted.europa.eu/udl?uri=TED:NOTICE:412856-2017:TEXT:NL:HTML</URI_DOC>
+            <URI_DOC LG="PT">http://ted.europa.eu/udl?uri=TED:NOTICE:412856-2017:TEXT:PT:HTML</URI_DOC>
+            <URI_DOC LG="SV">http://ted.europa.eu/udl?uri=TED:NOTICE:412856-2017:TEXT:SV:HTML</URI_DOC>
+            <URI_DOC LG="CS">http://ted.europa.eu/udl?uri=TED:NOTICE:412856-2017:TEXT:CS:HTML</URI_DOC>
+            <URI_DOC LG="ET">http://ted.europa.eu/udl?uri=TED:NOTICE:412856-2017:TEXT:ET:HTML</URI_DOC>
+            <URI_DOC LG="HU">http://ted.europa.eu/udl?uri=TED:NOTICE:412856-2017:TEXT:HU:HTML</URI_DOC>
+            <URI_DOC LG="LT">http://ted.europa.eu/udl?uri=TED:NOTICE:412856-2017:TEXT:LT:HTML</URI_DOC>
+            <URI_DOC LG="LV">http://ted.europa.eu/udl?uri=TED:NOTICE:412856-2017:TEXT:LV:HTML</URI_DOC>
+            <URI_DOC LG="MT">http://ted.europa.eu/udl?uri=TED:NOTICE:412856-2017:TEXT:MT:HTML</URI_DOC>
+            <URI_DOC LG="PL">http://ted.europa.eu/udl?uri=TED:NOTICE:412856-2017:TEXT:PL:HTML</URI_DOC>
+            <URI_DOC LG="SK">http://ted.europa.eu/udl?uri=TED:NOTICE:412856-2017:TEXT:SK:HTML</URI_DOC>
+            <URI_DOC LG="SL">http://ted.europa.eu/udl?uri=TED:NOTICE:412856-2017:TEXT:SL:HTML</URI_DOC>
+            <URI_DOC LG="GA">http://ted.europa.eu/udl?uri=TED:NOTICE:412856-2017:TEXT:GA:HTML</URI_DOC>
+            <URI_DOC LG="BG">http://ted.europa.eu/udl?uri=TED:NOTICE:412856-2017:TEXT:BG:HTML</URI_DOC>
+            <URI_DOC LG="RO">http://ted.europa.eu/udl?uri=TED:NOTICE:412856-2017:TEXT:RO:HTML</URI_DOC>
+            <URI_DOC LG="HR">http://ted.europa.eu/udl?uri=TED:NOTICE:412856-2017:TEXT:HR:HTML</URI_DOC>
+         </URI_LIST>
+         <LG_ORIG>EN</LG_ORIG>
+         <ISO_COUNTRY VALUE="PL"/>
+         <IA_URL_GENERAL>http://www.frontex.europa.eu</IA_URL_GENERAL>
+         <ORIGINAL_CPV CODE="18100000">Occupational clothing, special workwear and accessories</ORIGINAL_CPV>
+         <n2016:PERFORMANCE_NUTS CODE="PL911">Miasto Warszawa</n2016:PERFORMANCE_NUTS>
+         <n2016:CA_CE_NUTS CODE="PL911">Miasto Warszawa</n2016:CA_CE_NUTS>
+         <n2016:TENDERER_NUTS CODE="DED2">Dresden</n2016:TENDERER_NUTS>
+         <VALUES>
+            <VALUE TYPE="PROCUREMENT_TOTAL" CURRENCY="EUR">1120000</VALUE>
+         </VALUES>
+         <REF_NOTICE>
+            <NO_DOC_OJS>2017/S 071-133849</NO_DOC_OJS>
+         </REF_NOTICE>
+      </NOTICE_DATA>
+      <CODIF_DATA>
+         <DS_DATE_DISPATCH>20171009</DS_DATE_DISPATCH>
+         <AA_AUTHORITY_TYPE CODE="5">European Institution/Agency or International Organisation</AA_AUTHORITY_TYPE>
+         <TD_DOCUMENT_TYPE CODE="7">Contract award notice</TD_DOCUMENT_TYPE>
+         <NC_CONTRACT_NATURE CODE="2">Supplies</NC_CONTRACT_NATURE>
+         <PR_PROC CODE="1">Open procedure</PR_PROC>
+         <RP_REGULATION CODE="3">European Institution/Agency or International Organisation</RP_REGULATION>
+         <TY_TYPE_BID CODE="9">Not applicable</TY_TYPE_BID>
+         <AC_AWARD_CRIT CODE="2">The most economic tender</AC_AWARD_CRIT>
+         <MA_MAIN_ACTIVITIES CODE="S">General public services</MA_MAIN_ACTIVITIES>
+         <HEADING>AGB03</HEADING>
+         <INITIATOR>AG</INITIATOR>
+         <DIRECTIVE VALUE="2014/24/EU"/>
+      </CODIF_DATA>
+   </CODED_DATA_SECTION>
+   <TRANSLATION_SECTION>
+      <ML_TITLES>
+         <ML_TI_DOC LG="DA">
+            <TI_CY>Polen</TI_CY>
+            <TI_TOWN>Warszawa</TI_TOWN>
+            <TI_TEXT>
+               <P>Rammekontrakt vedrørende levering af reflekterende Frontex-mærkede veste</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="DE">
+            <TI_CY>Polen</TI_CY>
+            <TI_TOWN>Warschau</TI_TOWN>
+            <TI_TEXT>
+               <P>Rahmenvertrag über die Bereitstellung reflektierender Westen mit Frontex-Kennzeichnung</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="EN">
+            <TI_CY>Poland</TI_CY>
+            <TI_TOWN>Warsaw</TI_TOWN>
+            <TI_TEXT>
+               <P>Framework contract for the provision of reflective Frontex labelled vests</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="ES">
+            <TI_CY>Polonia</TI_CY>
+            <TI_TOWN>Varsovia</TI_TOWN>
+            <TI_TEXT>
+               <P>Contrato marco para el suministro de chalecos reflectantes con etiqueta de Frontex</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="FI">
+            <TI_CY>Puola</TI_CY>
+            <TI_TOWN>Varsova</TI_TOWN>
+            <TI_TEXT>
+               <P>Frontexin tunnuksella varustettujen heijastinliivien toimittamista koskeva puitesopimus</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="FR">
+            <TI_CY>Pologne</TI_CY>
+            <TI_TOWN>Varsovie</TI_TOWN>
+            <TI_TEXT>
+               <P>Contrat-cadre relatif à la fourniture de gilets réfléchissants personnalisés avec le nom Frontex</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="EL">
+            <TI_CY>Πολωνία</TI_CY>
+            <TI_TOWN>Βαρσοβία</TI_TOWN>
+            <TI_TEXT>
+               <P>Σύμβαση-πλαίσιο για την παροχή ανακλαστικών γιλέκων που φέρουν το σήμα του Frontex</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="IT">
+            <TI_CY>Polonia</TI_CY>
+            <TI_TOWN>Varsavia</TI_TOWN>
+            <TI_TEXT>
+               <P>Contratto quadro per la fornitura di giubbotti riflettenti marcati Frontex</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="NL">
+            <TI_CY>Polen</TI_CY>
+            <TI_TOWN>Warschau</TI_TOWN>
+            <TI_TEXT>
+               <P>Raamovereenkomst voor de levering van reflecterende hesjes met Frontex-label</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="PT">
+            <TI_CY>Polónia</TI_CY>
+            <TI_TOWN>Varsóvia</TI_TOWN>
+            <TI_TEXT>
+               <P>Contrato-quadro para o fornecimento de coletes refletores com o nome da Frontex</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="SV">
+            <TI_CY>Polen</TI_CY>
+            <TI_TOWN>Warszawa</TI_TOWN>
+            <TI_TEXT>
+               <P>Ramavtal för tillhandahållande av Frontexmärkta reflexvästar</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="CS">
+            <TI_CY>Polsko</TI_CY>
+            <TI_TOWN>Varšava</TI_TOWN>
+            <TI_TEXT>
+               <P>Rámcová smlouva na poskytnutí reflexních vest s označením Frontex</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="ET">
+            <TI_CY>Poola</TI_CY>
+            <TI_TOWN>Varssavi</TI_TOWN>
+            <TI_TEXT>
+               <P>Frontexi tähistusega helkurvestide hankimise raamleping</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="HU">
+            <TI_CY>Lengyelország</TI_CY>
+            <TI_TOWN>Varsó</TI_TOWN>
+            <TI_TEXT>
+               <P>Keretszerződés fényvisszaverő Frontex feliratú mellények biztosítására</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="LT">
+            <TI_CY>Lenkija</TI_CY>
+            <TI_TOWN>Varšuva</TI_TOWN>
+            <TI_TEXT>
+               <P>Preliminarioji sutartis dėl Frontex ženklintų liemenių su atšvaitais tiekimo</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="LV">
+            <TI_CY>Polija</TI_CY>
+            <TI_TOWN>Varšava</TI_TOWN>
+            <TI_TEXT>
+               <P>Pamatnolīgums par atstarojošu vestu ar Frontex apdruku nodrošināšanu</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="MT">
+            <TI_CY>il-Polonja</TI_CY>
+            <TI_TOWN>Varsavja</TI_TOWN>
+            <TI_TEXT>
+               <P>Qafas ta' kuntratt għall-provvista ta' ġgieget li jirriflettu bil-kitba Frontex</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="PL">
+            <TI_CY>Polska</TI_CY>
+            <TI_TOWN>Warszawa</TI_TOWN>
+            <TI_TEXT>
+               <P>Umowa ramowa o dostawę kamizelek odblaskowych z nadrukami Frontexu</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="SK">
+            <TI_CY>Poľsko</TI_CY>
+            <TI_TOWN>Varšava</TI_TOWN>
+            <TI_TEXT>
+               <P>Rámcová zmluva na poskytnutie reflexných viest s označením Frontex</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="SL">
+            <TI_CY>Poljska</TI_CY>
+            <TI_TOWN>Varšava</TI_TOWN>
+            <TI_TEXT>
+               <P>Okvirno naročilo za zagotovitev odsevnih telovnikov z oznako Frontexa</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="GA">
+            <TI_CY>Pholainn, an</TI_CY>
+            <TI_TOWN>Vársá</TI_TOWN>
+            <TI_TEXT>
+               <P>Conradh creatlaí le haghaidh veisteanna frithchaiteacha lipéadaithe Frontex a sholáthar</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="BG">
+            <TI_CY>Полша</TI_CY>
+            <TI_TOWN>Варшава</TI_TOWN>
+            <TI_TEXT>
+               <P>Рамков договор за предоставяне на светлоотразителни жилетки с етикет на Frontex</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="RO">
+            <TI_CY>Polonia</TI_CY>
+            <TI_TOWN>Varșovia</TI_TOWN>
+            <TI_TEXT>
+               <P>Contract-cadru pentru furnizarea de veste reflectorizante cu etichetă Frontex</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+         <ML_TI_DOC LG="HR">
+            <TI_CY>Poljska</TI_CY>
+            <TI_TOWN>Varšava</TI_TOWN>
+            <TI_TEXT>
+               <P>Okvirni ugovor za pružanje reflektirajućih prsluka s oznakom Frontexa</P>
+            </TI_TEXT>
+         </ML_TI_DOC>
+      </ML_TITLES>
+      <ML_AA_NAMES>
+         <AA_NAME LG="DA">Det Europæiske Agentur for Grænse- og Kystbevogtning — Frontex</AA_NAME>
+         <AA_NAME LG="DE">Europäische Agentur für die Grenz- und Küstenwache — Frontex</AA_NAME>
+         <AA_NAME LG="EN">European Border and Coast Guard Agency — Frontex</AA_NAME>
+         <AA_NAME LG="ES">Agencia Europea de la Guardia de Fronteras y Costas (Frontex)</AA_NAME>
+         <AA_NAME LG="FI">Euroopan raja- ja merivartiovirasto – Frontex</AA_NAME>
+         <AA_NAME LG="FR">Agence européenne de garde-frontières et de garde-côtes (Frontex)</AA_NAME>
+         <AA_NAME LG="EL">Οργανισμός Ευρωπαϊκής Συνοριοφυλακής και Ακτοφυλακής — Frontex</AA_NAME>
+         <AA_NAME LG="IT">Agenzia europea della guardia di frontiera e costiera — Frontex</AA_NAME>
+         <AA_NAME LG="NL">Europees Grens- en kustwachtagentschap — Frontex</AA_NAME>
+         <AA_NAME LG="PT">Agência Europeia da Guarda de Fronteiras e Costeira — Frontex</AA_NAME>
+         <AA_NAME LG="SV">Europeiska gräns- och kustbevakningsbyrån – Frontex</AA_NAME>
+         <AA_NAME LG="CS">Evropská agentura pro pohraniční a pobřežní stráž – Frontex</AA_NAME>
+         <AA_NAME LG="ET">Euroopa Piiri- ja Rannikuvalve Amet – Frontex</AA_NAME>
+         <AA_NAME LG="HU">Európai Határ– és Partvédelmi Ügynökség – Frontex</AA_NAME>
+         <AA_NAME LG="LT">Europos sienų ir pakrančių apsaugos agentūra – Frontex</AA_NAME>
+         <AA_NAME LG="LV">Eiropas Robežu un krasta apsardzes aģentūra – Frontex</AA_NAME>
+         <AA_NAME LG="MT">L-Aġenzija Ewropea tal-Fruntieri u l-Għassa tal-Kosta — Frontex</AA_NAME>
+         <AA_NAME LG="PL">Europejska Agencja Straży Granicznej i Przybrzeżnej – Frontex</AA_NAME>
+         <AA_NAME LG="SK">Európska agentúra pre pohraničnú a pobrežnú stráž – Frontex</AA_NAME>
+         <AA_NAME LG="SL">Evropska agencija za mejno in obalno stražo – Frontex</AA_NAME>
+         <AA_NAME LG="GA">An Ghníomhaireacht Eorpach um an nGarda Teorann agus Cósta  — Frontex</AA_NAME>
+         <AA_NAME LG="BG">Европейска агенция за гранична и брегова охрана – Frontex</AA_NAME>
+         <AA_NAME LG="RO">Agenția Europeană pentru Poliția de Frontieră și Garda de Coastă – Frontex</AA_NAME>
+         <AA_NAME LG="HR">Agencija za europsku graničnu i obalnu stražu — Frontex</AA_NAME>
+      </ML_AA_NAMES>
+   </TRANSLATION_SECTION>
+   <FORM_SECTION>
+      <F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="DA">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Det Europæiske Agentur for Grænse- og Kystbevogtning — Frontex</OFFICIALNAME>
+               <ADDRESS>Plac Europejski 6</ADDRESS>
+               <TOWN>Warsaw</TOWN>
+               <POSTAL_CODE>00-844</POSTAL_CODE>
+               <COUNTRY VALUE="PL"/>
+               <CONTACT_POINT>Frontex Procurement Team</CONTACT_POINT>
+               <PHONE>+48 222059500</PHONE>
+               <E_MAIL>procurement@frontex.europa.eu</E_MAIL>
+               <FAX>+48 222059501</FAX>
+               <n2016:NUTS CODE="PL911"/>
+               <URL_GENERAL>http://www.frontex.europa.eu</URL_GENERAL>
+            </ADDRESS_CONTRACTING_BODY>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Rammekontrakt vedrørende levering af reflekterende Frontex-mærkede veste.</P>
+            </TITLE>
+            <REFERENCE_NUMBER>Frontex/OP/250/2017/AH.</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="18100000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SUPPLIES"/>
+            <SHORT_DESCR>
+               <P>Kontraktens omfang er opdelt i 3 partier efter vestetype: 1 — standardveste, 2 — specialveste, 3 — kundetilpassede veste.</P>
+            </SHORT_DESCR>
+            <VAL_TOTAL CURRENCY="EUR">1120000</VAL_TOTAL>
+            <LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <TITLE>
+                  <P>Standardveste</P>
+               </TITLE>
+               <LOT_NO>1</LOT_NO>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="18100000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="PL911"/>
+               <MAIN_SITE>
+                  <P>Frontex' lokaler, Warszawa, Polen.</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>Levering af standardveste med Frontex-logo.</P>
+               </SHORT_DESCR>
+               <AC_QUALITY>
+                  <AC_CRITERION>Teknisk værdi</AC_CRITERION>
+                  <AC_WEIGHTING>60</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_PRICE>
+                  <AC_WEIGHTING>40</AC_WEIGHTING>
+               </AC_PRICE>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+            <OBJECT_DESCR ITEM="2">
+               <TITLE>
+                  <P>Specialveste</P>
+               </TITLE>
+               <LOT_NO>2</LOT_NO>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="18100000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="PL911"/>
+               <SHORT_DESCR>
+                  <P>Levering af specialtyper af reflekterende veste med 10 forskellige slags design.</P>
+               </SHORT_DESCR>
+               <AC_QUALITY>
+                  <AC_CRITERION>Teknisk værdi</AC_CRITERION>
+                  <AC_WEIGHTING>60</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_PRICE>
+                  <AC_WEIGHTING>40</AC_WEIGHTING>
+               </AC_PRICE>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+            <OBJECT_DESCR ITEM="3">
+               <TITLE>
+                  <P>Tilpasning af eksisterende veste</P>
+               </TITLE>
+               <LOT_NO>3</LOT_NO>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="18100000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="PL911"/>
+               <SHORT_DESCR>
+                  <P>Tilpasning af eksisterende veste til rådighed ved Frontex: tilføjelse af tryk med agenturets fulde navn.</P>
+               </SHORT_DESCR>
+               <AC_QUALITY>
+                  <AC_CRITERION>Teknisk værdi</AC_CRITERION>
+                  <AC_WEIGHTING>60</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_PRICE>
+                  <AC_WEIGHTING>40</AC_WEIGHTING>
+               </AC_PRICE>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <NO_CONTRACT_COVERED_GPA/>
+            <NOTICE_NUMBER_OJ>2017/S 071-133849</NOTICE_NUMBER_OJ>
+         </PROCEDURE>
+         <AWARD_CONTRACT ITEM="1">
+            <CONTRACT_NO>Frontex/OP/250/2017/AH</CONTRACT_NO>
+            <LOT_NO>1, 2, 3</LOT_NO>
+            <TITLE>
+               <P>Levering af reflekterende Frontex-mærkede veste</P>
+            </TITLE>
+            <AWARDED_CONTRACT>
+               <DATE_CONCLUSION_CONTRACT>2017-09-11</DATE_CONCLUSION_CONTRACT>
+               <NB_TENDERS_RECEIVED>2</NB_TENDERS_RECEIVED>
+               <NO_AWARDED_TO_GROUP/>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>BATEX Technische Textilien GmbH</OFFICIALNAME>
+                     <ADDRESS>OT Bretnig</ADDRESS>
+                     <TOWN>Großröhrsdorf</TOWN>
+                     <COUNTRY VALUE="DE"/>
+                     <n2016:NUTS CODE="DED2"/>
+                  </ADDRESS_CONTRACTOR>
+                  <NO_SME/>
+               </CONTRACTOR>
+               <VAL_TOTAL CURRENCY="EUR">1120000</VAL_TOTAL>
+            </AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <COMPLEMENTARY_INFO>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Retten</OFFICIALNAME>
+               <ADDRESS>rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <E_MAIL>cfi.registry@curia.europa.eu</E_MAIL>
+               <FAX>+352 4303-2100</FAX>
+               <URL>http://www.curia.europa.eu</URL>
+            </ADDRESS_REVIEW_BODY>
+            <REVIEW_PROCEDURE>
+               <P>senest 2 måneder efter underrettelsen af klageren eller, i tilfælde af udeblivelse deraf, efter den dag, sagen er taget til efterretning.</P>
+            </REVIEW_PROCEDURE>
+            <DATE_DISPATCH_NOTICE>2017-10-09</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F03_2014>
+      <F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="DE">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Europäische Agentur für die Grenz- und Küstenwache — Frontex</OFFICIALNAME>
+               <ADDRESS>Plac Europejski 6</ADDRESS>
+               <TOWN>Warsaw</TOWN>
+               <POSTAL_CODE>00-844</POSTAL_CODE>
+               <COUNTRY VALUE="PL"/>
+               <CONTACT_POINT>Frontex Procurement Team</CONTACT_POINT>
+               <PHONE>+48 222059500</PHONE>
+               <E_MAIL>procurement@frontex.europa.eu</E_MAIL>
+               <FAX>+48 222059501</FAX>
+               <n2016:NUTS CODE="PL911"/>
+               <URL_GENERAL>http://www.frontex.europa.eu</URL_GENERAL>
+            </ADDRESS_CONTRACTING_BODY>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Rahmenvertrag über die Bereitstellung reflektierender Westen mit Frontex-Kennzeichnung.</P>
+            </TITLE>
+            <REFERENCE_NUMBER>Frontex/OP/250/2017/AH.</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="18100000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SUPPLIES"/>
+            <SHORT_DESCR>
+               <P>Der Umfang des Auftrags ist entsprechend der Westenart in 3 Lose unterteilt: 1 — Standardwesten, 2 — Spezialwesten, 3 — kundenspezifisch angepasste Westen.</P>
+            </SHORT_DESCR>
+            <VAL_TOTAL CURRENCY="EUR">1120000</VAL_TOTAL>
+            <LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <TITLE>
+                  <P>Standardwesten</P>
+               </TITLE>
+               <LOT_NO>1</LOT_NO>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="18100000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="PL911"/>
+               <MAIN_SITE>
+                  <P>Räumlichkeiten von Frontex, Warschau, Polen.</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>Lieferung von Standardwesten mit Frontex-Logo.</P>
+               </SHORT_DESCR>
+               <AC_QUALITY>
+                  <AC_CRITERION>technischer Wert</AC_CRITERION>
+                  <AC_WEIGHTING>60</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_PRICE>
+                  <AC_WEIGHTING>40</AC_WEIGHTING>
+               </AC_PRICE>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+            <OBJECT_DESCR ITEM="2">
+               <TITLE>
+                  <P>Spezialwesten</P>
+               </TITLE>
+               <LOT_NO>2</LOT_NO>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="18100000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="PL911"/>
+               <SHORT_DESCR>
+                  <P>Lieferung von speziellen Arten reflektierender Westen in 10 verschiedenen Ausführungen.</P>
+               </SHORT_DESCR>
+               <AC_QUALITY>
+                  <AC_CRITERION>technischer Wert</AC_CRITERION>
+                  <AC_WEIGHTING>60</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_PRICE>
+                  <AC_WEIGHTING>40</AC_WEIGHTING>
+               </AC_PRICE>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+            <OBJECT_DESCR ITEM="3">
+               <TITLE>
+                  <P>kundenspezifische Anpassung vorhandener Westen</P>
+               </TITLE>
+               <LOT_NO>3</LOT_NO>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="18100000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="PL911"/>
+               <SHORT_DESCR>
+                  <P>kundenspezifische Anpassung von bei Frontex vorhandenen Westen: Hinzufügung eines Aufdrucks mit dem vollständigen Namen der Agentur.</P>
+               </SHORT_DESCR>
+               <AC_QUALITY>
+                  <AC_CRITERION>technischer Wert</AC_CRITERION>
+                  <AC_WEIGHTING>60</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_PRICE>
+                  <AC_WEIGHTING>40</AC_WEIGHTING>
+               </AC_PRICE>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <NO_CONTRACT_COVERED_GPA/>
+            <NOTICE_NUMBER_OJ>2017/S 071-133849</NOTICE_NUMBER_OJ>
+         </PROCEDURE>
+         <AWARD_CONTRACT ITEM="1">
+            <CONTRACT_NO>Frontex/OP/250/2017/AH</CONTRACT_NO>
+            <LOT_NO>1, 2, 3</LOT_NO>
+            <TITLE>
+               <P>Lieferung von reflektierenden Westen mit Frontex-Kennzeichnung</P>
+            </TITLE>
+            <AWARDED_CONTRACT>
+               <DATE_CONCLUSION_CONTRACT>2017-09-11</DATE_CONCLUSION_CONTRACT>
+               <NB_TENDERS_RECEIVED>2</NB_TENDERS_RECEIVED>
+               <NO_AWARDED_TO_GROUP/>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>BATEX Technische Textilien GmbH</OFFICIALNAME>
+                     <ADDRESS>OT Bretnig</ADDRESS>
+                     <TOWN>Großröhrsdorf</TOWN>
+                     <COUNTRY VALUE="DE"/>
+                     <n2016:NUTS CODE="DED2"/>
+                  </ADDRESS_CONTRACTOR>
+                  <NO_SME/>
+               </CONTRACTOR>
+               <VAL_TOTAL CURRENCY="EUR">1120000</VAL_TOTAL>
+            </AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <COMPLEMENTARY_INFO>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Gericht der Europäischen Union</OFFICIALNAME>
+               <ADDRESS>rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <E_MAIL>cfi.registry@curia.europa.eu</E_MAIL>
+               <FAX>+352 4303-2100</FAX>
+               <URL>http://www.curia.europa.eu</URL>
+            </ADDRESS_REVIEW_BODY>
+            <REVIEW_PROCEDURE>
+               <P>binnen 2 Monaten ab Mitteilung an den Kläger oder, in Ermangelung dessen, ab dem Zeitpunkt der Kenntnisnahme.</P>
+            </REVIEW_PROCEDURE>
+            <DATE_DISPATCH_NOTICE>2017-10-09</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F03_2014>
+      <F03_2014 CATEGORY="ORIGINAL" FORM="F03" LG="EN">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>European Border and Coast Guard Agency — Frontex</OFFICIALNAME>
+               <ADDRESS>Plac Europejski 6</ADDRESS>
+               <TOWN>Warsaw</TOWN>
+               <POSTAL_CODE>00-844</POSTAL_CODE>
+               <COUNTRY VALUE="PL"/>
+               <CONTACT_POINT>Frontex Procurement Team</CONTACT_POINT>
+               <PHONE>+48 222059500</PHONE>
+               <E_MAIL>procurement@frontex.europa.eu</E_MAIL>
+               <FAX>+48 222059501</FAX>
+               <n2016:NUTS CODE="PL911"/>
+               <URL_GENERAL>http://www.frontex.europa.eu</URL_GENERAL>
+            </ADDRESS_CONTRACTING_BODY>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Framework contract for the provision of reflective Frontex labelled vests.</P>
+            </TITLE>
+            <REFERENCE_NUMBER>Frontex/OP/250/2017/AH.</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="18100000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SUPPLIES"/>
+            <SHORT_DESCR>
+               <P>The scope of the contract is divided into 3 lots per type of vests: 1 — standard vests, 2 — special vests, 3 — customised vests.</P>
+            </SHORT_DESCR>
+            <VAL_TOTAL CURRENCY="EUR">1120000</VAL_TOTAL>
+            <LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <TITLE>
+                  <P>Standard vests</P>
+               </TITLE>
+               <LOT_NO>1</LOT_NO>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="18100000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="PL911"/>
+               <MAIN_SITE>
+                  <P>Frontex premises, Warsaw, Poland.</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>Supply of standard vests with Frontex logo.</P>
+               </SHORT_DESCR>
+               <AC_QUALITY>
+                  <AC_CRITERION>Technical merit</AC_CRITERION>
+                  <AC_WEIGHTING>60</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_PRICE>
+                  <AC_WEIGHTING>40</AC_WEIGHTING>
+               </AC_PRICE>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+            <OBJECT_DESCR ITEM="2">
+               <TITLE>
+                  <P>Special vests</P>
+               </TITLE>
+               <LOT_NO>2</LOT_NO>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="18100000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="PL911"/>
+               <SHORT_DESCR>
+                  <P>Supply of special types of reflective vests with 10 design varieties.</P>
+               </SHORT_DESCR>
+               <AC_QUALITY>
+                  <AC_CRITERION>Technical merit</AC_CRITERION>
+                  <AC_WEIGHTING>60</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_PRICE>
+                  <AC_WEIGHTING>40</AC_WEIGHTING>
+               </AC_PRICE>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+            <OBJECT_DESCR ITEM="3">
+               <TITLE>
+                  <P>Customisation of existing vests</P>
+               </TITLE>
+               <LOT_NO>3</LOT_NO>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="18100000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="PL911"/>
+               <SHORT_DESCR>
+                  <P>Customisation of existing vests available at Frontex: adding a print with full agency name.</P>
+               </SHORT_DESCR>
+               <AC_QUALITY>
+                  <AC_CRITERION>Technical merit</AC_CRITERION>
+                  <AC_WEIGHTING>60</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_PRICE>
+                  <AC_WEIGHTING>40</AC_WEIGHTING>
+               </AC_PRICE>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <NO_CONTRACT_COVERED_GPA/>
+            <NOTICE_NUMBER_OJ>2017/S 071-133849</NOTICE_NUMBER_OJ>
+         </PROCEDURE>
+         <AWARD_CONTRACT ITEM="1">
+            <CONTRACT_NO>Frontex/OP/250/2017/AH</CONTRACT_NO>
+            <LOT_NO>1, 2, 3</LOT_NO>
+            <TITLE>
+               <P>Supply of reflective Frontex labelled vests</P>
+            </TITLE>
+            <AWARDED_CONTRACT>
+               <DATE_CONCLUSION_CONTRACT>2017-09-11</DATE_CONCLUSION_CONTRACT>
+               <NB_TENDERS_RECEIVED>2</NB_TENDERS_RECEIVED>
+               <NO_AWARDED_TO_GROUP/>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>BATEX Technische Textilien GmbH</OFFICIALNAME>
+                     <ADDRESS>OT Bretnig</ADDRESS>
+                     <TOWN>Großröhrsdorf</TOWN>
+                     <COUNTRY VALUE="DE"/>
+                     <n2016:NUTS CODE="DED2"/>
+                  </ADDRESS_CONTRACTOR>
+                  <NO_SME/>
+               </CONTRACTOR>
+               <VAL_TOTAL CURRENCY="EUR">1120000</VAL_TOTAL>
+            </AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <COMPLEMENTARY_INFO>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>General Court</OFFICIALNAME>
+               <ADDRESS>rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <E_MAIL>cfi.registry@curia.europa.eu</E_MAIL>
+               <FAX>+352 4303-2100</FAX>
+               <URL>http://www.curia.europa.eu</URL>
+            </ADDRESS_REVIEW_BODY>
+            <REVIEW_PROCEDURE>
+               <P>Within 2 months of the notification to the plaintiff, or, in absence thereof, of the day on which it came to the knowledge.</P>
+            </REVIEW_PROCEDURE>
+            <DATE_DISPATCH_NOTICE>2017-10-09</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F03_2014>
+      <F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="ES">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Agencia Europea de la Guardia de Fronteras y Costas (Frontex)</OFFICIALNAME>
+               <ADDRESS>Plac Europejski 6</ADDRESS>
+               <TOWN>Warsaw</TOWN>
+               <POSTAL_CODE>00-844</POSTAL_CODE>
+               <COUNTRY VALUE="PL"/>
+               <CONTACT_POINT>Frontex Procurement Team</CONTACT_POINT>
+               <PHONE>+48 222059500</PHONE>
+               <E_MAIL>procurement@frontex.europa.eu</E_MAIL>
+               <FAX>+48 222059501</FAX>
+               <n2016:NUTS CODE="PL911"/>
+               <URL_GENERAL>http://www.frontex.europa.eu</URL_GENERAL>
+            </ADDRESS_CONTRACTING_BODY>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Contrato marco para el suministro de chalecos reflectantes con etiqueta de Frontex.</P>
+            </TITLE>
+            <REFERENCE_NUMBER>Frontex/OP/250/2017/AH.</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="18100000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SUPPLIES"/>
+            <SHORT_DESCR>
+               <P>El objeto del contrato está dividido en 3 lotes en función del tipo de chalecos: 1 — chalecos normales, 2 — chalecos especiales, 3 — chalecos personalizados.</P>
+            </SHORT_DESCR>
+            <VAL_TOTAL CURRENCY="EUR">1120000</VAL_TOTAL>
+            <LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <TITLE>
+                  <P>Chalecos normales</P>
+               </TITLE>
+               <LOT_NO>1</LOT_NO>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="18100000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="PL911"/>
+               <MAIN_SITE>
+                  <P>Instalaciones de Frontex, Varsovia, Polonia.</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>Suministro de chalecos normales con el logotipo de Frontex.</P>
+               </SHORT_DESCR>
+               <AC_QUALITY>
+                  <AC_CRITERION>valor técnico</AC_CRITERION>
+                  <AC_WEIGHTING>60</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_PRICE>
+                  <AC_WEIGHTING>40</AC_WEIGHTING>
+               </AC_PRICE>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+            <OBJECT_DESCR ITEM="2">
+               <TITLE>
+                  <P>Chalecos especiales</P>
+               </TITLE>
+               <LOT_NO>2</LOT_NO>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="18100000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="PL911"/>
+               <SHORT_DESCR>
+                  <P>Suministro de tipos especiales de chalecos reflectantes con 10 variedades de diseño.</P>
+               </SHORT_DESCR>
+               <AC_QUALITY>
+                  <AC_CRITERION>valor técnico</AC_CRITERION>
+                  <AC_WEIGHTING>60</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_PRICE>
+                  <AC_WEIGHTING>40</AC_WEIGHTING>
+               </AC_PRICE>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+            <OBJECT_DESCR ITEM="3">
+               <TITLE>
+                  <P>Personalización de chalecos existentes</P>
+               </TITLE>
+               <LOT_NO>3</LOT_NO>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="18100000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="PL911"/>
+               <SHORT_DESCR>
+                  <P>Personalización de los chalecos existentes disponibles en Frontex: incorporación de un impreso con el nombre completo de la agencia.</P>
+               </SHORT_DESCR>
+               <AC_QUALITY>
+                  <AC_CRITERION>valor técnico</AC_CRITERION>
+                  <AC_WEIGHTING>60</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_PRICE>
+                  <AC_WEIGHTING>40</AC_WEIGHTING>
+               </AC_PRICE>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <NO_CONTRACT_COVERED_GPA/>
+            <NOTICE_NUMBER_OJ>2017/S 071-133849</NOTICE_NUMBER_OJ>
+         </PROCEDURE>
+         <AWARD_CONTRACT ITEM="1">
+            <CONTRACT_NO>Frontex/OP/250/2017/AH</CONTRACT_NO>
+            <LOT_NO>1, 2, 3</LOT_NO>
+            <TITLE>
+               <P>Suministro de chalecos reflectantes con etiqueta de Frontex</P>
+            </TITLE>
+            <AWARDED_CONTRACT>
+               <DATE_CONCLUSION_CONTRACT>2017-09-11</DATE_CONCLUSION_CONTRACT>
+               <NB_TENDERS_RECEIVED>2</NB_TENDERS_RECEIVED>
+               <NO_AWARDED_TO_GROUP/>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>BATEX Technische Textilien GmbH</OFFICIALNAME>
+                     <ADDRESS>OT Bretnig</ADDRESS>
+                     <TOWN>Großröhrsdorf</TOWN>
+                     <COUNTRY VALUE="DE"/>
+                     <n2016:NUTS CODE="DED2"/>
+                  </ADDRESS_CONTRACTOR>
+                  <NO_SME/>
+               </CONTRACTOR>
+               <VAL_TOTAL CURRENCY="EUR">1120000</VAL_TOTAL>
+            </AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <COMPLEMENTARY_INFO>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Tribunal General</OFFICIALNAME>
+               <ADDRESS>rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <E_MAIL>cfi.registry@curia.europa.eu</E_MAIL>
+               <FAX>+352 4303-2100</FAX>
+               <URL>http://www.curia.europa.eu</URL>
+            </ADDRESS_REVIEW_BODY>
+            <REVIEW_PROCEDURE>
+               <P>En un plazo de 2 meses a partir de la notificación al recurrente o, en su defecto, del día en que este haya tenido conocimiento del acto en cuestión.</P>
+            </REVIEW_PROCEDURE>
+            <DATE_DISPATCH_NOTICE>2017-10-09</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F03_2014>
+      <F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="FI">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Euroopan raja- ja merivartiovirasto – Frontex</OFFICIALNAME>
+               <ADDRESS>Plac Europejski 6</ADDRESS>
+               <TOWN>Warsaw</TOWN>
+               <POSTAL_CODE>00-844</POSTAL_CODE>
+               <COUNTRY VALUE="PL"/>
+               <CONTACT_POINT>Frontex Procurement Team</CONTACT_POINT>
+               <PHONE>+48 222059500</PHONE>
+               <E_MAIL>procurement@frontex.europa.eu</E_MAIL>
+               <FAX>+48 222059501</FAX>
+               <n2016:NUTS CODE="PL911"/>
+               <URL_GENERAL>http://www.frontex.europa.eu</URL_GENERAL>
+            </ADDRESS_CONTRACTING_BODY>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Frontexin tunnuksella varustettujen heijastinliivien toimittamista koskeva puitesopimus</P>
+            </TITLE>
+            <REFERENCE_NUMBER>Frontex/OP/250/2017/AH.</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="18100000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SUPPLIES"/>
+            <SHORT_DESCR>
+               <P>Sopimuksen kohde on jaettu 3 erään liivityyppien mukaisesti: 1 – perusmallin mukaiset liivit, 2 – erikoisliivit, 3 – mukautetut liivit.</P>
+            </SHORT_DESCR>
+            <VAL_TOTAL CURRENCY="EUR">1120000</VAL_TOTAL>
+            <LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <TITLE>
+                  <P>Perusmallin mukaiset liivit</P>
+               </TITLE>
+               <LOT_NO>1</LOT_NO>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="18100000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="PL911"/>
+               <MAIN_SITE>
+                  <P>Frontexin toimitilat, Varsova, Puola.</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>Erän kohteena on Frontexin logolla varustettujen perusmallin mukaisten liivien toimittaminen.</P>
+               </SHORT_DESCR>
+               <AC_QUALITY>
+                  <AC_CRITERION>tekniset ansiot</AC_CRITERION>
+                  <AC_WEIGHTING>60</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_PRICE>
+                  <AC_WEIGHTING>40</AC_WEIGHTING>
+               </AC_PRICE>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+            <OBJECT_DESCR ITEM="2">
+               <TITLE>
+                  <P>Erikoisliivit</P>
+               </TITLE>
+               <LOT_NO>2</LOT_NO>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="18100000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="PL911"/>
+               <SHORT_DESCR>
+                  <P>Erän kohteena on heijastinliivien erikoismallien (10 mallityyppiä) toimittaminen.</P>
+               </SHORT_DESCR>
+               <AC_QUALITY>
+                  <AC_CRITERION>tekniset ansiot</AC_CRITERION>
+                  <AC_WEIGHTING>60</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_PRICE>
+                  <AC_WEIGHTING>40</AC_WEIGHTING>
+               </AC_PRICE>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+            <OBJECT_DESCR ITEM="3">
+               <TITLE>
+                  <P>Nykyisten liivien mukauttaminen</P>
+               </TITLE>
+               <LOT_NO>3</LOT_NO>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="18100000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="PL911"/>
+               <SHORT_DESCR>
+                  <P>Erän kohteena on Frontexissa saatavilla olevien nykyisten liivien mukauttaminen lisäämällä painokuva, jossa on viraston koko nimi.</P>
+               </SHORT_DESCR>
+               <AC_QUALITY>
+                  <AC_CRITERION>tekniset ansiot</AC_CRITERION>
+                  <AC_WEIGHTING>60</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_PRICE>
+                  <AC_WEIGHTING>40</AC_WEIGHTING>
+               </AC_PRICE>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <NO_CONTRACT_COVERED_GPA/>
+            <NOTICE_NUMBER_OJ>2017/S 071-133849</NOTICE_NUMBER_OJ>
+         </PROCEDURE>
+         <AWARD_CONTRACT ITEM="1">
+            <CONTRACT_NO>Frontex/OP/250/2017/AH</CONTRACT_NO>
+            <LOT_NO>1, 2, 3</LOT_NO>
+            <TITLE>
+               <P>Frontexin tunnuksella varustettujen heijastinliivien toimittaminen</P>
+            </TITLE>
+            <AWARDED_CONTRACT>
+               <DATE_CONCLUSION_CONTRACT>2017-09-11</DATE_CONCLUSION_CONTRACT>
+               <NB_TENDERS_RECEIVED>2</NB_TENDERS_RECEIVED>
+               <NO_AWARDED_TO_GROUP/>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>BATEX Technische Textilien GmbH</OFFICIALNAME>
+                     <ADDRESS>OT Bretnig</ADDRESS>
+                     <TOWN>Großröhrsdorf</TOWN>
+                     <COUNTRY VALUE="DE"/>
+                     <n2016:NUTS CODE="DED2"/>
+                  </ADDRESS_CONTRACTOR>
+                  <NO_SME/>
+               </CONTRACTOR>
+               <VAL_TOTAL CURRENCY="EUR">1120000</VAL_TOTAL>
+            </AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <COMPLEMENTARY_INFO>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Unionin yleinen tuomioistuin</OFFICIALNAME>
+               <ADDRESS>rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <E_MAIL>cfi.registry@curia.europa.eu</E_MAIL>
+               <FAX>+352 4303-2100</FAX>
+               <URL>http://www.curia.europa.eu</URL>
+            </ADDRESS_REVIEW_BODY>
+            <REVIEW_PROCEDURE>
+               <P>muutoksenhakupyynnöt on jätettävä 2 kuukauden kuluessa siitä, kun asianomistaja on saanut ilmoituksen asiasta tai, mikäli ilmoitusta ei ole tehty, 2 kuukauden kuluessa siitä päivästä, kun asia on saatu tiedoksi.</P>
+            </REVIEW_PROCEDURE>
+            <DATE_DISPATCH_NOTICE>2017-10-09</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F03_2014>
+      <F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="FR">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Agence européenne de garde-frontières et de garde-côtes (Frontex)</OFFICIALNAME>
+               <ADDRESS>Plac Europejski 6</ADDRESS>
+               <TOWN>Warsaw</TOWN>
+               <POSTAL_CODE>00-844</POSTAL_CODE>
+               <COUNTRY VALUE="PL"/>
+               <CONTACT_POINT>Frontex Procurement Team</CONTACT_POINT>
+               <PHONE>+48 222059500</PHONE>
+               <E_MAIL>procurement@frontex.europa.eu</E_MAIL>
+               <FAX>+48 222059501</FAX>
+               <n2016:NUTS CODE="PL911"/>
+               <URL_GENERAL>http://www.frontex.europa.eu</URL_GENERAL>
+            </ADDRESS_CONTRACTING_BODY>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Contrat-cadre relatif à la fourniture de gilets réfléchissants personnalisés avec le nom Frontex.</P>
+            </TITLE>
+            <REFERENCE_NUMBER>Frontex/OP/250/2017/AH.</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="18100000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SUPPLIES"/>
+            <SHORT_DESCR>
+               <P>Le contrat est divisé en 3 lots par type de gilets: 1 — gilets standard, 2 — gilets spéciaux, 3 — gilets personnalisés.</P>
+            </SHORT_DESCR>
+            <VAL_TOTAL CURRENCY="EUR">1120000</VAL_TOTAL>
+            <LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <TITLE>
+                  <P>Gilets standard</P>
+               </TITLE>
+               <LOT_NO>1</LOT_NO>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="18100000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="PL911"/>
+               <MAIN_SITE>
+                  <P>locaux de Frontex, Varsovie, Pologne.</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>Fourniture de gilets standard portant le logo de Frontex.</P>
+               </SHORT_DESCR>
+               <AC_QUALITY>
+                  <AC_CRITERION>valeur technique</AC_CRITERION>
+                  <AC_WEIGHTING>60</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_PRICE>
+                  <AC_WEIGHTING>40</AC_WEIGHTING>
+               </AC_PRICE>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+            <OBJECT_DESCR ITEM="2">
+               <TITLE>
+                  <P>Gilets spéciaux</P>
+               </TITLE>
+               <LOT_NO>2</LOT_NO>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="18100000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="PL911"/>
+               <SHORT_DESCR>
+                  <P>Fourniture de types spéciaux de gilets réfléchissants de 10 modèles différents.</P>
+               </SHORT_DESCR>
+               <AC_QUALITY>
+                  <AC_CRITERION>valeur technique</AC_CRITERION>
+                  <AC_WEIGHTING>60</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_PRICE>
+                  <AC_WEIGHTING>40</AC_WEIGHTING>
+               </AC_PRICE>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+            <OBJECT_DESCR ITEM="3">
+               <TITLE>
+                  <P>Personnalisation des gilets existants</P>
+               </TITLE>
+               <LOT_NO>3</LOT_NO>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="18100000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="PL911"/>
+               <SHORT_DESCR>
+                  <P>Personnalisation des gilets existants disponibles au sein de Frontex: ajout du nom complet imprimé de l'Agence.</P>
+               </SHORT_DESCR>
+               <AC_QUALITY>
+                  <AC_CRITERION>valeur technique</AC_CRITERION>
+                  <AC_WEIGHTING>60</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_PRICE>
+                  <AC_WEIGHTING>40</AC_WEIGHTING>
+               </AC_PRICE>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <NO_CONTRACT_COVERED_GPA/>
+            <NOTICE_NUMBER_OJ>2017/S 071-133849</NOTICE_NUMBER_OJ>
+         </PROCEDURE>
+         <AWARD_CONTRACT ITEM="1">
+            <CONTRACT_NO>Frontex/OP/250/2017/AH</CONTRACT_NO>
+            <LOT_NO>1, 2, 3</LOT_NO>
+            <TITLE>
+               <P>Fourniture de gilets réfléchissants personnalisés avec le nom Frontex</P>
+            </TITLE>
+            <AWARDED_CONTRACT>
+               <DATE_CONCLUSION_CONTRACT>2017-09-11</DATE_CONCLUSION_CONTRACT>
+               <NB_TENDERS_RECEIVED>2</NB_TENDERS_RECEIVED>
+               <NO_AWARDED_TO_GROUP/>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>BATEX Technische Textilien GmbH</OFFICIALNAME>
+                     <ADDRESS>OT Bretnig</ADDRESS>
+                     <TOWN>Großröhrsdorf</TOWN>
+                     <COUNTRY VALUE="DE"/>
+                     <n2016:NUTS CODE="DED2"/>
+                  </ADDRESS_CONTRACTOR>
+                  <NO_SME/>
+               </CONTRACTOR>
+               <VAL_TOTAL CURRENCY="EUR">1120000</VAL_TOTAL>
+            </AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <COMPLEMENTARY_INFO>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Tribunal</OFFICIALNAME>
+               <ADDRESS>rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <E_MAIL>cfi.registry@curia.europa.eu</E_MAIL>
+               <FAX>+352 4303-2100</FAX>
+               <URL>http://www.curia.europa.eu</URL>
+            </ADDRESS_REVIEW_BODY>
+            <REVIEW_PROCEDURE>
+               <P>dans les 2 mois à compter de la notification au requérant ou, à défaut, du jour où celui-ci en a eu connaissance.</P>
+            </REVIEW_PROCEDURE>
+            <DATE_DISPATCH_NOTICE>2017-10-09</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F03_2014>
+      <F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="EL">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Οργανισμός Ευρωπαϊκής Συνοριοφυλακής και Ακτοφυλακής — Frontex</OFFICIALNAME>
+               <ADDRESS>Plac Europejski 6</ADDRESS>
+               <TOWN>Warsaw</TOWN>
+               <POSTAL_CODE>00-844</POSTAL_CODE>
+               <COUNTRY VALUE="PL"/>
+               <CONTACT_POINT>Frontex Procurement Team</CONTACT_POINT>
+               <PHONE>+48 222059500</PHONE>
+               <E_MAIL>procurement@frontex.europa.eu</E_MAIL>
+               <FAX>+48 222059501</FAX>
+               <n2016:NUTS CODE="PL911"/>
+               <URL_GENERAL>http://www.frontex.europa.eu</URL_GENERAL>
+            </ADDRESS_CONTRACTING_BODY>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Σύμβαση-πλαίσιο για την παροχή ανακλαστικών γιλέκων που φέρουν το σήμα του Frontex.</P>
+            </TITLE>
+            <REFERENCE_NUMBER>Frontex/OP/250/2017/AH.</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="18100000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SUPPLIES"/>
+            <SHORT_DESCR>
+               <P>Το πεδίο εφαρμογής της σύμβασης διαιρείται σε 3 παρτίδες ανά είδος γιλέκων: 1 — κοινά γιλέκα, 2 — ειδικά γιλέκα, 3 — προσαρμοσμένα γιλέκα.</P>
+            </SHORT_DESCR>
+            <VAL_TOTAL CURRENCY="EUR">1120000</VAL_TOTAL>
+            <LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <TITLE>
+                  <P>Τυπικά γιλέκα</P>
+               </TITLE>
+               <LOT_NO>1</LOT_NO>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="18100000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="PL911"/>
+               <MAIN_SITE>
+                  <P>εγκαταστάσεις του Frontex, Βαρσοβία, Πολωνία.</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>Προμήθεια κοινών γιλέκων με λογότυπο του Frontex.</P>
+               </SHORT_DESCR>
+               <AC_QUALITY>
+                  <AC_CRITERION>Τεχνική αξία</AC_CRITERION>
+                  <AC_WEIGHTING>60</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_PRICE>
+                  <AC_WEIGHTING>40</AC_WEIGHTING>
+               </AC_PRICE>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+            <OBJECT_DESCR ITEM="2">
+               <TITLE>
+                  <P>Ειδικά γιλέκα</P>
+               </TITLE>
+               <LOT_NO>2</LOT_NO>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="18100000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="PL911"/>
+               <SHORT_DESCR>
+                  <P>Προμήθεια ειδικών τύπων ανακλαστικών γιλέκων με 10 ποικιλίες σχεδιασμού.</P>
+               </SHORT_DESCR>
+               <AC_QUALITY>
+                  <AC_CRITERION>Τεχνική αξία</AC_CRITERION>
+                  <AC_WEIGHTING>60</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_PRICE>
+                  <AC_WEIGHTING>40</AC_WEIGHTING>
+               </AC_PRICE>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+            <OBJECT_DESCR ITEM="3">
+               <TITLE>
+                  <P>Προσαρμογή των υφιστάμενων γιλέκων</P>
+               </TITLE>
+               <LOT_NO>3</LOT_NO>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="18100000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="PL911"/>
+               <SHORT_DESCR>
+                  <P>Προσαρμογή των υφιστάμενων γιλέκων που είναι διαθέσιμα στον Frontex: προσθήκη στάμπας με το πλήρες όνομα του οργανισμού.</P>
+               </SHORT_DESCR>
+               <AC_QUALITY>
+                  <AC_CRITERION>Τεχνική αξία</AC_CRITERION>
+                  <AC_WEIGHTING>60</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_PRICE>
+                  <AC_WEIGHTING>40</AC_WEIGHTING>
+               </AC_PRICE>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <NO_CONTRACT_COVERED_GPA/>
+            <NOTICE_NUMBER_OJ>2017/S 071-133849</NOTICE_NUMBER_OJ>
+         </PROCEDURE>
+         <AWARD_CONTRACT ITEM="1">
+            <CONTRACT_NO>Frontex/OP/250/2017/AH</CONTRACT_NO>
+            <LOT_NO>1, 2, 3</LOT_NO>
+            <TITLE>
+               <P>Προμήθεια ανακλαστικών γιλέκων που φέρουν το σήμα του Frontex</P>
+            </TITLE>
+            <AWARDED_CONTRACT>
+               <DATE_CONCLUSION_CONTRACT>2017-09-11</DATE_CONCLUSION_CONTRACT>
+               <NB_TENDERS_RECEIVED>2</NB_TENDERS_RECEIVED>
+               <NO_AWARDED_TO_GROUP/>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>BATEX Technische Textilien GmbH</OFFICIALNAME>
+                     <ADDRESS>OT Bretnig</ADDRESS>
+                     <TOWN>Großröhrsdorf</TOWN>
+                     <COUNTRY VALUE="DE"/>
+                     <n2016:NUTS CODE="DED2"/>
+                  </ADDRESS_CONTRACTOR>
+                  <NO_SME/>
+               </CONTRACTOR>
+               <VAL_TOTAL CURRENCY="EUR">1120000</VAL_TOTAL>
+            </AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <COMPLEMENTARY_INFO>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Γενικό Δικαστήριο</OFFICIALNAME>
+               <ADDRESS>rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <E_MAIL>cfi.registry@curia.europa.eu</E_MAIL>
+               <FAX>+352 4303-2100</FAX>
+               <URL>http://www.curia.europa.eu</URL>
+            </ADDRESS_REVIEW_BODY>
+            <REVIEW_PROCEDURE>
+               <P>Εντός 2 μηνών από την κοινοποίηση στον προσφεύγοντα ή, ελλείψει τέτοιας, από την ημέρα που ο ίδιος έλαβε γνώση.</P>
+            </REVIEW_PROCEDURE>
+            <DATE_DISPATCH_NOTICE>2017-10-09</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F03_2014>
+      <F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="IT">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Agenzia europea della guardia di frontiera e costiera — Frontex</OFFICIALNAME>
+               <ADDRESS>Plac Europejski 6</ADDRESS>
+               <TOWN>Warsaw</TOWN>
+               <POSTAL_CODE>00-844</POSTAL_CODE>
+               <COUNTRY VALUE="PL"/>
+               <CONTACT_POINT>Frontex Procurement Team</CONTACT_POINT>
+               <PHONE>+48 222059500</PHONE>
+               <E_MAIL>procurement@frontex.europa.eu</E_MAIL>
+               <FAX>+48 222059501</FAX>
+               <n2016:NUTS CODE="PL911"/>
+               <URL_GENERAL>http://www.frontex.europa.eu</URL_GENERAL>
+            </ADDRESS_CONTRACTING_BODY>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Contratto quadro per la fornitura di giubbotti riflettenti marcati Frontex.</P>
+            </TITLE>
+            <REFERENCE_NUMBER>Frontex/OP/250/2017/AH.</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="18100000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SUPPLIES"/>
+            <SHORT_DESCR>
+               <P>L'appalto è suddiviso in 3 lotti per tipo di giubbotti: 1 — giubbotti standard, 2 — giubbotti speciali, 3 — giubbotti personalizzati.</P>
+            </SHORT_DESCR>
+            <VAL_TOTAL CURRENCY="EUR">1120000</VAL_TOTAL>
+            <LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <TITLE>
+                  <P>Giubbotti standard</P>
+               </TITLE>
+               <LOT_NO>1</LOT_NO>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="18100000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="PL911"/>
+               <MAIN_SITE>
+                  <P>locali di Frontex, Varsavia, Polonia.</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>Fornitura di giubbotti standard con il marchio di Frontex.</P>
+               </SHORT_DESCR>
+               <AC_QUALITY>
+                  <AC_CRITERION>merito tecnico</AC_CRITERION>
+                  <AC_WEIGHTING>60</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_PRICE>
+                  <AC_WEIGHTING>40</AC_WEIGHTING>
+               </AC_PRICE>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+            <OBJECT_DESCR ITEM="2">
+               <TITLE>
+                  <P>Giubbotti speciali</P>
+               </TITLE>
+               <LOT_NO>2</LOT_NO>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="18100000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="PL911"/>
+               <SHORT_DESCR>
+                  <P>Fornitura di tipi speciali di giubbotti riflettenti con 10 varietà di modelli.</P>
+               </SHORT_DESCR>
+               <AC_QUALITY>
+                  <AC_CRITERION>merito tecnico</AC_CRITERION>
+                  <AC_WEIGHTING>60</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_PRICE>
+                  <AC_WEIGHTING>40</AC_WEIGHTING>
+               </AC_PRICE>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+            <OBJECT_DESCR ITEM="3">
+               <TITLE>
+                  <P>Personalizzazione di giubbotti esistenti</P>
+               </TITLE>
+               <LOT_NO>3</LOT_NO>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="18100000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="PL911"/>
+               <SHORT_DESCR>
+                  <P>Personalizzazione di giubbotti esistenti disponibili presso Frontex: aggiunta di una stampa con il nome completo dell'agenzia.</P>
+               </SHORT_DESCR>
+               <AC_QUALITY>
+                  <AC_CRITERION>merito tecnico</AC_CRITERION>
+                  <AC_WEIGHTING>60</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_PRICE>
+                  <AC_WEIGHTING>40</AC_WEIGHTING>
+               </AC_PRICE>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <NO_CONTRACT_COVERED_GPA/>
+            <NOTICE_NUMBER_OJ>2017/S 071-133849</NOTICE_NUMBER_OJ>
+         </PROCEDURE>
+         <AWARD_CONTRACT ITEM="1">
+            <CONTRACT_NO>Frontex/OP/250/2017/AH</CONTRACT_NO>
+            <LOT_NO>1, 2, 3</LOT_NO>
+            <TITLE>
+               <P>Fornitura di giubbotti riflettenti marcati Frontex</P>
+            </TITLE>
+            <AWARDED_CONTRACT>
+               <DATE_CONCLUSION_CONTRACT>2017-09-11</DATE_CONCLUSION_CONTRACT>
+               <NB_TENDERS_RECEIVED>2</NB_TENDERS_RECEIVED>
+               <NO_AWARDED_TO_GROUP/>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>BATEX Technische Textilien GmbH</OFFICIALNAME>
+                     <ADDRESS>OT Bretnig</ADDRESS>
+                     <TOWN>Großröhrsdorf</TOWN>
+                     <COUNTRY VALUE="DE"/>
+                     <n2016:NUTS CODE="DED2"/>
+                  </ADDRESS_CONTRACTOR>
+                  <NO_SME/>
+               </CONTRACTOR>
+               <VAL_TOTAL CURRENCY="EUR">1120000</VAL_TOTAL>
+            </AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <COMPLEMENTARY_INFO>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Tribunale</OFFICIALNAME>
+               <ADDRESS>rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <E_MAIL>cfi.registry@curia.europa.eu</E_MAIL>
+               <FAX>+352 4303-2100</FAX>
+               <URL>http://www.curia.europa.eu</URL>
+            </ADDRESS_REVIEW_BODY>
+            <REVIEW_PROCEDURE>
+               <P>entro 2 mesi dalla notifica al ricorrente o, in assenza, dal giorno in cui ne è venuto a conoscenza.</P>
+            </REVIEW_PROCEDURE>
+            <DATE_DISPATCH_NOTICE>2017-10-09</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F03_2014>
+      <F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="NL">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Europees Grens- en kustwachtagentschap — Frontex</OFFICIALNAME>
+               <ADDRESS>Plac Europejski 6</ADDRESS>
+               <TOWN>Warsaw</TOWN>
+               <POSTAL_CODE>00-844</POSTAL_CODE>
+               <COUNTRY VALUE="PL"/>
+               <CONTACT_POINT>Frontex Procurement Team</CONTACT_POINT>
+               <PHONE>+48 222059500</PHONE>
+               <E_MAIL>procurement@frontex.europa.eu</E_MAIL>
+               <FAX>+48 222059501</FAX>
+               <n2016:NUTS CODE="PL911"/>
+               <URL_GENERAL>http://www.frontex.europa.eu</URL_GENERAL>
+            </ADDRESS_CONTRACTING_BODY>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Raamovereenkomst voor de levering van reflecterende hesjes met Frontex-label.</P>
+            </TITLE>
+            <REFERENCE_NUMBER>Frontex/OP/250/2017/AH.</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="18100000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SUPPLIES"/>
+            <SHORT_DESCR>
+               <P>De opdracht is verdeeld in 3 percelen, uitgesplitst naar het soort hesje: 1 — standaardhesjes, 2 — speciale hesjes, 3 — gepersonaliseerde hesjes.</P>
+            </SHORT_DESCR>
+            <VAL_TOTAL CURRENCY="EUR">1120000</VAL_TOTAL>
+            <LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <TITLE>
+                  <P>Standaardhesjes</P>
+               </TITLE>
+               <LOT_NO>1</LOT_NO>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="18100000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="PL911"/>
+               <MAIN_SITE>
+                  <P>kantoor van Frontex, Warschau, Polen.</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>Levering van standaardhesjes met Frontex-logo.</P>
+               </SHORT_DESCR>
+               <AC_QUALITY>
+                  <AC_CRITERION>technische waarde</AC_CRITERION>
+                  <AC_WEIGHTING>60</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_PRICE>
+                  <AC_WEIGHTING>40</AC_WEIGHTING>
+               </AC_PRICE>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+            <OBJECT_DESCR ITEM="2">
+               <TITLE>
+                  <P>Speciale hesjes</P>
+               </TITLE>
+               <LOT_NO>2</LOT_NO>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="18100000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="PL911"/>
+               <SHORT_DESCR>
+                  <P>Levering van speciale types reflecterende hesjes (10 verschillende modellen).</P>
+               </SHORT_DESCR>
+               <AC_QUALITY>
+                  <AC_CRITERION>technische waarde</AC_CRITERION>
+                  <AC_WEIGHTING>60</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_PRICE>
+                  <AC_WEIGHTING>40</AC_WEIGHTING>
+               </AC_PRICE>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+            <OBJECT_DESCR ITEM="3">
+               <TITLE>
+                  <P>Personalisering van bestaande hesjes</P>
+               </TITLE>
+               <LOT_NO>3</LOT_NO>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="18100000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="PL911"/>
+               <SHORT_DESCR>
+                  <P>Personalisering van bestaande hesjes beschikbaar bij Frontex: toevoegen van een print met de volledige naam van het Agentschap.</P>
+               </SHORT_DESCR>
+               <AC_QUALITY>
+                  <AC_CRITERION>technische waarde</AC_CRITERION>
+                  <AC_WEIGHTING>60</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_PRICE>
+                  <AC_WEIGHTING>40</AC_WEIGHTING>
+               </AC_PRICE>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <NO_CONTRACT_COVERED_GPA/>
+            <NOTICE_NUMBER_OJ>2017/S 071-133849</NOTICE_NUMBER_OJ>
+         </PROCEDURE>
+         <AWARD_CONTRACT ITEM="1">
+            <CONTRACT_NO>Frontex/OP/250/2017/AH</CONTRACT_NO>
+            <LOT_NO>1, 2, 3</LOT_NO>
+            <TITLE>
+               <P>Levering van reflecterende hesjes met Frontex-label</P>
+            </TITLE>
+            <AWARDED_CONTRACT>
+               <DATE_CONCLUSION_CONTRACT>2017-09-11</DATE_CONCLUSION_CONTRACT>
+               <NB_TENDERS_RECEIVED>2</NB_TENDERS_RECEIVED>
+               <NO_AWARDED_TO_GROUP/>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>BATEX Technische Textilien GmbH</OFFICIALNAME>
+                     <ADDRESS>OT Bretnig</ADDRESS>
+                     <TOWN>Großröhrsdorf</TOWN>
+                     <COUNTRY VALUE="DE"/>
+                     <n2016:NUTS CODE="DED2"/>
+                  </ADDRESS_CONTRACTOR>
+                  <NO_SME/>
+               </CONTRACTOR>
+               <VAL_TOTAL CURRENCY="EUR">1120000</VAL_TOTAL>
+            </AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <COMPLEMENTARY_INFO>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Gerecht</OFFICIALNAME>
+               <ADDRESS>rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <E_MAIL>cfi.registry@curia.europa.eu</E_MAIL>
+               <FAX>+352 4303-2100</FAX>
+               <URL>http://www.curia.europa.eu</URL>
+            </ADDRESS_REVIEW_BODY>
+            <REVIEW_PROCEDURE>
+               <P>binnen 2 maanden na de kennisgeving aan de klager of, bij ontbreken daarvan, binnen 2 maanden na de dag waarop het bekend werd.</P>
+            </REVIEW_PROCEDURE>
+            <DATE_DISPATCH_NOTICE>2017-10-09</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F03_2014>
+      <F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="PT">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Agência Europeia da Guarda de Fronteiras e Costeira — Frontex</OFFICIALNAME>
+               <ADDRESS>Plac Europejski 6</ADDRESS>
+               <TOWN>Warsaw</TOWN>
+               <POSTAL_CODE>00-844</POSTAL_CODE>
+               <COUNTRY VALUE="PL"/>
+               <CONTACT_POINT>Frontex Procurement Team</CONTACT_POINT>
+               <PHONE>+48 222059500</PHONE>
+               <E_MAIL>procurement@frontex.europa.eu</E_MAIL>
+               <FAX>+48 222059501</FAX>
+               <n2016:NUTS CODE="PL911"/>
+               <URL_GENERAL>http://www.frontex.europa.eu</URL_GENERAL>
+            </ADDRESS_CONTRACTING_BODY>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Contrato-quadro para o fornecimento de coletes refletores com o nome da Frontex.</P>
+            </TITLE>
+            <REFERENCE_NUMBER>Frontex/OP/250/2017/AH.</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="18100000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SUPPLIES"/>
+            <SHORT_DESCR>
+               <P>O âmbito do contrato está dividido em 3 lotes por tipo de coletes: 1 — coletes normalizados; 2 — coletes especiais; 3 — coletes personalizados.</P>
+            </SHORT_DESCR>
+            <VAL_TOTAL CURRENCY="EUR">1120000</VAL_TOTAL>
+            <LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <TITLE>
+                  <P>Coletes normalizados</P>
+               </TITLE>
+               <LOT_NO>1</LOT_NO>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="18100000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="PL911"/>
+               <MAIN_SITE>
+                  <P>Instalações da Frontex, Varsóvia, Polónia.</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>Fornecimento de coletes normalizados com o logótipo da Frontex.</P>
+               </SHORT_DESCR>
+               <AC_QUALITY>
+                  <AC_CRITERION>mérito técnico</AC_CRITERION>
+                  <AC_WEIGHTING>60</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_PRICE>
+                  <AC_WEIGHTING>40</AC_WEIGHTING>
+               </AC_PRICE>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+            <OBJECT_DESCR ITEM="2">
+               <TITLE>
+                  <P>Coletes especiais</P>
+               </TITLE>
+               <LOT_NO>2</LOT_NO>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="18100000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="PL911"/>
+               <SHORT_DESCR>
+                  <P>Fornecimento de tipos especiais de coletes refletores com 10 desenhos diferentes.</P>
+               </SHORT_DESCR>
+               <AC_QUALITY>
+                  <AC_CRITERION>mérito técnico</AC_CRITERION>
+                  <AC_WEIGHTING>60</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_PRICE>
+                  <AC_WEIGHTING>40</AC_WEIGHTING>
+               </AC_PRICE>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+            <OBJECT_DESCR ITEM="3">
+               <TITLE>
+                  <P>Personalização de coletes existentes</P>
+               </TITLE>
+               <LOT_NO>3</LOT_NO>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="18100000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="PL911"/>
+               <SHORT_DESCR>
+                  <P>Personalização de coletes existentes disponíveis na Frontex: acrescentando uma estampa com o nome completo da agência.</P>
+               </SHORT_DESCR>
+               <AC_QUALITY>
+                  <AC_CRITERION>mérito técnico</AC_CRITERION>
+                  <AC_WEIGHTING>60</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_PRICE>
+                  <AC_WEIGHTING>40</AC_WEIGHTING>
+               </AC_PRICE>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <NO_CONTRACT_COVERED_GPA/>
+            <NOTICE_NUMBER_OJ>2017/S 071-133849</NOTICE_NUMBER_OJ>
+         </PROCEDURE>
+         <AWARD_CONTRACT ITEM="1">
+            <CONTRACT_NO>Frontex/OP/250/2017/AH</CONTRACT_NO>
+            <LOT_NO>1, 2, 3</LOT_NO>
+            <TITLE>
+               <P>Fornecimento de coletes refletores com o nome da Frontex</P>
+            </TITLE>
+            <AWARDED_CONTRACT>
+               <DATE_CONCLUSION_CONTRACT>2017-09-11</DATE_CONCLUSION_CONTRACT>
+               <NB_TENDERS_RECEIVED>2</NB_TENDERS_RECEIVED>
+               <NO_AWARDED_TO_GROUP/>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>BATEX Technische Textilien GmbH</OFFICIALNAME>
+                     <ADDRESS>OT Bretnig</ADDRESS>
+                     <TOWN>Großröhrsdorf</TOWN>
+                     <COUNTRY VALUE="DE"/>
+                     <n2016:NUTS CODE="DED2"/>
+                  </ADDRESS_CONTRACTOR>
+                  <NO_SME/>
+               </CONTRACTOR>
+               <VAL_TOTAL CURRENCY="EUR">1120000</VAL_TOTAL>
+            </AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <COMPLEMENTARY_INFO>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Tribunal Geral</OFFICIALNAME>
+               <ADDRESS>rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <E_MAIL>cfi.registry@curia.europa.eu</E_MAIL>
+               <FAX>+352 4303-2100</FAX>
+               <URL>http://www.curia.europa.eu</URL>
+            </ADDRESS_REVIEW_BODY>
+            <REVIEW_PROCEDURE>
+               <P>Num prazo de 2 meses a contar da data de notificação ao requerente ou, na sua falta, a contar do dia em que o requerente tenha tomado conhecimento do ato.</P>
+            </REVIEW_PROCEDURE>
+            <DATE_DISPATCH_NOTICE>2017-10-09</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F03_2014>
+      <F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="SV">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Europeiska gräns- och kustbevakningsbyrån – Frontex</OFFICIALNAME>
+               <ADDRESS>Plac Europejski 6</ADDRESS>
+               <TOWN>Warsaw</TOWN>
+               <POSTAL_CODE>00-844</POSTAL_CODE>
+               <COUNTRY VALUE="PL"/>
+               <CONTACT_POINT>Frontex Procurement Team</CONTACT_POINT>
+               <PHONE>+48 222059500</PHONE>
+               <E_MAIL>procurement@frontex.europa.eu</E_MAIL>
+               <FAX>+48 222059501</FAX>
+               <n2016:NUTS CODE="PL911"/>
+               <URL_GENERAL>http://www.frontex.europa.eu</URL_GENERAL>
+            </ADDRESS_CONTRACTING_BODY>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Ramavtal för tillhandahållande av Frontexmärkta reflexvästar</P>
+            </TITLE>
+            <REFERENCE_NUMBER>Frontex/OP/250/2017/AH.</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="18100000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SUPPLIES"/>
+            <SHORT_DESCR>
+               <P>Kontraktets tillämpningsområde är uppdelat i 3 delar per typ av västar: 1 – standardvästar, 2 – särskilda västar, 3 – specialanpassade västar.</P>
+            </SHORT_DESCR>
+            <VAL_TOTAL CURRENCY="EUR">1120000</VAL_TOTAL>
+            <LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <TITLE>
+                  <P>Standardvästar</P>
+               </TITLE>
+               <LOT_NO>1</LOT_NO>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="18100000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="PL911"/>
+               <MAIN_SITE>
+                  <P>Frontex lokaler, Warszawa, Polen.</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>Leverans av standardvästar med Frontex logotyp.</P>
+               </SHORT_DESCR>
+               <AC_QUALITY>
+                  <AC_CRITERION>Tekniska fördelar</AC_CRITERION>
+                  <AC_WEIGHTING>60</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_PRICE>
+                  <AC_WEIGHTING>40</AC_WEIGHTING>
+               </AC_PRICE>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+            <OBJECT_DESCR ITEM="2">
+               <TITLE>
+                  <P>Särskilda västar</P>
+               </TITLE>
+               <LOT_NO>2</LOT_NO>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="18100000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="PL911"/>
+               <SHORT_DESCR>
+                  <P>Leverans av särskilda typer av reflexvästar med 10 designvarianter.</P>
+               </SHORT_DESCR>
+               <AC_QUALITY>
+                  <AC_CRITERION>Tekniska fördelar</AC_CRITERION>
+                  <AC_WEIGHTING>60</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_PRICE>
+                  <AC_WEIGHTING>40</AC_WEIGHTING>
+               </AC_PRICE>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+            <OBJECT_DESCR ITEM="3">
+               <TITLE>
+                  <P>Specialanpassning av befintliga västar</P>
+               </TITLE>
+               <LOT_NO>3</LOT_NO>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="18100000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="PL911"/>
+               <SHORT_DESCR>
+                  <P>Specialanpassning av befintliga västar som finns tillgängliga vid Frontex: tillägg av ett tryck med byråns fullständiga namn.</P>
+               </SHORT_DESCR>
+               <AC_QUALITY>
+                  <AC_CRITERION>Tekniska fördelar</AC_CRITERION>
+                  <AC_WEIGHTING>60</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_PRICE>
+                  <AC_WEIGHTING>40</AC_WEIGHTING>
+               </AC_PRICE>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <NO_CONTRACT_COVERED_GPA/>
+            <NOTICE_NUMBER_OJ>2017/S 071-133849</NOTICE_NUMBER_OJ>
+         </PROCEDURE>
+         <AWARD_CONTRACT ITEM="1">
+            <CONTRACT_NO>Frontex/OP/250/2017/AH</CONTRACT_NO>
+            <LOT_NO>1, 2, 3</LOT_NO>
+            <TITLE>
+               <P>Leverans av Frontexmärkta reflexvästar</P>
+            </TITLE>
+            <AWARDED_CONTRACT>
+               <DATE_CONCLUSION_CONTRACT>2017-09-11</DATE_CONCLUSION_CONTRACT>
+               <NB_TENDERS_RECEIVED>2</NB_TENDERS_RECEIVED>
+               <NO_AWARDED_TO_GROUP/>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>BATEX Technische Textilien GmbH</OFFICIALNAME>
+                     <ADDRESS>OT Bretnig</ADDRESS>
+                     <TOWN>Großröhrsdorf</TOWN>
+                     <COUNTRY VALUE="DE"/>
+                     <n2016:NUTS CODE="DED2"/>
+                  </ADDRESS_CONTRACTOR>
+                  <NO_SME/>
+               </CONTRACTOR>
+               <VAL_TOTAL CURRENCY="EUR">1120000</VAL_TOTAL>
+            </AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <COMPLEMENTARY_INFO>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Tribunalen</OFFICIALNAME>
+               <ADDRESS>rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <E_MAIL>cfi.registry@curia.europa.eu</E_MAIL>
+               <FAX>+352 4303-2100</FAX>
+               <URL>http://www.curia.europa.eu</URL>
+            </ADDRESS_REVIEW_BODY>
+            <REVIEW_PROCEDURE>
+               <P>Inom 2 månader från den dag då den klagande delgavs eller, om så inte skett, från den dag då det blev känt.</P>
+            </REVIEW_PROCEDURE>
+            <DATE_DISPATCH_NOTICE>2017-10-09</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F03_2014>
+      <F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="CS">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Evropská agentura pro pohraniční a pobřežní stráž – Frontex</OFFICIALNAME>
+               <ADDRESS>Plac Europejski 6</ADDRESS>
+               <TOWN>Warsaw</TOWN>
+               <POSTAL_CODE>00-844</POSTAL_CODE>
+               <COUNTRY VALUE="PL"/>
+               <CONTACT_POINT>Frontex Procurement Team</CONTACT_POINT>
+               <PHONE>+48 222059500</PHONE>
+               <E_MAIL>procurement@frontex.europa.eu</E_MAIL>
+               <FAX>+48 222059501</FAX>
+               <n2016:NUTS CODE="PL911"/>
+               <URL_GENERAL>http://www.frontex.europa.eu</URL_GENERAL>
+            </ADDRESS_CONTRACTING_BODY>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Rámcová smlouva na poskytnutí reflexních vest s označením Frontex.</P>
+            </TITLE>
+            <REFERENCE_NUMBER>Frontex/OP/250/2017/AH.</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="18100000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SUPPLIES"/>
+            <SHORT_DESCR>
+               <P>Rozsah zakázky je rozdělen do 3 položek podle typu vesty: 1 – standardní vesty, 2 – speciální vesty, 3 – přizpůsobené vesty.</P>
+            </SHORT_DESCR>
+            <VAL_TOTAL CURRENCY="EUR">1120000</VAL_TOTAL>
+            <LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <TITLE>
+                  <P>Standardní vesty</P>
+               </TITLE>
+               <LOT_NO>1</LOT_NO>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="18100000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="PL911"/>
+               <MAIN_SITE>
+                  <P>Prostory Frontex, Varšava, Polsko.</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>Dodávka standardních vest s logem agentury Frontex.</P>
+               </SHORT_DESCR>
+               <AC_QUALITY>
+                  <AC_CRITERION>Technický přínos</AC_CRITERION>
+                  <AC_WEIGHTING>60</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_PRICE>
+                  <AC_WEIGHTING>40</AC_WEIGHTING>
+               </AC_PRICE>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+            <OBJECT_DESCR ITEM="2">
+               <TITLE>
+                  <P>Speciální vesty</P>
+               </TITLE>
+               <LOT_NO>2</LOT_NO>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="18100000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="PL911"/>
+               <SHORT_DESCR>
+                  <P>Dodání speciálních typů reflexních vest s 10 různými designy.</P>
+               </SHORT_DESCR>
+               <AC_QUALITY>
+                  <AC_CRITERION>Technický přínos</AC_CRITERION>
+                  <AC_WEIGHTING>60</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_PRICE>
+                  <AC_WEIGHTING>40</AC_WEIGHTING>
+               </AC_PRICE>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+            <OBJECT_DESCR ITEM="3">
+               <TITLE>
+                  <P>Přizpůsobení stávajících vest</P>
+               </TITLE>
+               <LOT_NO>3</LOT_NO>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="18100000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="PL911"/>
+               <SHORT_DESCR>
+                  <P>Přizpůsobení stávajících vest dostupných ve Frontexu: přidání potisku s celým názvem agentury.</P>
+               </SHORT_DESCR>
+               <AC_QUALITY>
+                  <AC_CRITERION>Technický přínos</AC_CRITERION>
+                  <AC_WEIGHTING>60</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_PRICE>
+                  <AC_WEIGHTING>40</AC_WEIGHTING>
+               </AC_PRICE>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <NO_CONTRACT_COVERED_GPA/>
+            <NOTICE_NUMBER_OJ>2017/S 071-133849</NOTICE_NUMBER_OJ>
+         </PROCEDURE>
+         <AWARD_CONTRACT ITEM="1">
+            <CONTRACT_NO>Frontex/OP/250/2017/AH</CONTRACT_NO>
+            <LOT_NO>1, 2, 3</LOT_NO>
+            <TITLE>
+               <P>Dodávka reflexních vest s označením Frontexu</P>
+            </TITLE>
+            <AWARDED_CONTRACT>
+               <DATE_CONCLUSION_CONTRACT>2017-09-11</DATE_CONCLUSION_CONTRACT>
+               <NB_TENDERS_RECEIVED>2</NB_TENDERS_RECEIVED>
+               <NO_AWARDED_TO_GROUP/>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>BATEX Technische Textilien GmbH</OFFICIALNAME>
+                     <ADDRESS>OT Bretnig</ADDRESS>
+                     <TOWN>Großröhrsdorf</TOWN>
+                     <COUNTRY VALUE="DE"/>
+                     <n2016:NUTS CODE="DED2"/>
+                  </ADDRESS_CONTRACTOR>
+                  <NO_SME/>
+               </CONTRACTOR>
+               <VAL_TOTAL CURRENCY="EUR">1120000</VAL_TOTAL>
+            </AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <COMPLEMENTARY_INFO>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Tribunál</OFFICIALNAME>
+               <ADDRESS>rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <E_MAIL>cfi.registry@curia.europa.eu</E_MAIL>
+               <FAX>+352 4303-2100</FAX>
+               <URL>http://www.curia.europa.eu</URL>
+            </ADDRESS_REVIEW_BODY>
+            <REVIEW_PROCEDURE>
+               <P>Ve lhůtě 2 měsíců od oznámení žalobci nebo, není-li k dispozici, ode dne, kdy vstoupilo ve známost.</P>
+            </REVIEW_PROCEDURE>
+            <DATE_DISPATCH_NOTICE>2017-10-09</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F03_2014>
+      <F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="ET">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Euroopa Piiri- ja Rannikuvalve Amet – Frontex</OFFICIALNAME>
+               <ADDRESS>Plac Europejski 6</ADDRESS>
+               <TOWN>Warsaw</TOWN>
+               <POSTAL_CODE>00-844</POSTAL_CODE>
+               <COUNTRY VALUE="PL"/>
+               <CONTACT_POINT>Frontex Procurement Team</CONTACT_POINT>
+               <PHONE>+48 222059500</PHONE>
+               <E_MAIL>procurement@frontex.europa.eu</E_MAIL>
+               <FAX>+48 222059501</FAX>
+               <n2016:NUTS CODE="PL911"/>
+               <URL_GENERAL>http://www.frontex.europa.eu</URL_GENERAL>
+            </ADDRESS_CONTRACTING_BODY>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Frontexi tähistusega helkurvestide hankimise raamleping</P>
+            </TITLE>
+            <REFERENCE_NUMBER>Frontex/OP/250/2017/AH.</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="18100000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SUPPLIES"/>
+            <SHORT_DESCR>
+               <P>Lepingu ulatus on jaotatud vestide tüübi alusel 3 ossa: 1 – standardvestid, 2 – eriotstarbelised vestid, 3 – kohandatud vestid.</P>
+            </SHORT_DESCR>
+            <VAL_TOTAL CURRENCY="EUR">1120000</VAL_TOTAL>
+            <LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <TITLE>
+                  <P>Standardvestid</P>
+               </TITLE>
+               <LOT_NO>1</LOT_NO>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="18100000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="PL911"/>
+               <MAIN_SITE>
+                  <P>Frontexi hoone, Varssavi, Poola.</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>Frontexi logoga standardvestide tarne.</P>
+               </SHORT_DESCR>
+               <AC_QUALITY>
+                  <AC_CRITERION>tehniline väärtus</AC_CRITERION>
+                  <AC_WEIGHTING>60</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_PRICE>
+                  <AC_WEIGHTING>40</AC_WEIGHTING>
+               </AC_PRICE>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+            <OBJECT_DESCR ITEM="2">
+               <TITLE>
+                  <P>Eriotstarbelised vestid</P>
+               </TITLE>
+               <LOT_NO>2</LOT_NO>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="18100000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="PL911"/>
+               <SHORT_DESCR>
+                  <P>10 erineva kujundusega eritüüpi helkurvestide tarne.</P>
+               </SHORT_DESCR>
+               <AC_QUALITY>
+                  <AC_CRITERION>tehniline väärtus</AC_CRITERION>
+                  <AC_WEIGHTING>60</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_PRICE>
+                  <AC_WEIGHTING>40</AC_WEIGHTING>
+               </AC_PRICE>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+            <OBJECT_DESCR ITEM="3">
+               <TITLE>
+                  <P>Olemasolevate vestide kohandamine</P>
+               </TITLE>
+               <LOT_NO>3</LOT_NO>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="18100000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="PL911"/>
+               <SHORT_DESCR>
+                  <P>Frontexis olemasolevate vestide kohandamine: ameti täisnimega trükise lisamine.</P>
+               </SHORT_DESCR>
+               <AC_QUALITY>
+                  <AC_CRITERION>tehniline väärtus</AC_CRITERION>
+                  <AC_WEIGHTING>60</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_PRICE>
+                  <AC_WEIGHTING>40</AC_WEIGHTING>
+               </AC_PRICE>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <NO_CONTRACT_COVERED_GPA/>
+            <NOTICE_NUMBER_OJ>2017/S 071-133849</NOTICE_NUMBER_OJ>
+         </PROCEDURE>
+         <AWARD_CONTRACT ITEM="1">
+            <CONTRACT_NO>Frontex/OP/250/2017/AH</CONTRACT_NO>
+            <LOT_NO>1, 2, 3</LOT_NO>
+            <TITLE>
+               <P>Frontexi tähistusega helkurvestide tarne</P>
+            </TITLE>
+            <AWARDED_CONTRACT>
+               <DATE_CONCLUSION_CONTRACT>2017-09-11</DATE_CONCLUSION_CONTRACT>
+               <NB_TENDERS_RECEIVED>2</NB_TENDERS_RECEIVED>
+               <NO_AWARDED_TO_GROUP/>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>BATEX Technische Textilien GmbH</OFFICIALNAME>
+                     <ADDRESS>OT Bretnig</ADDRESS>
+                     <TOWN>Großröhrsdorf</TOWN>
+                     <COUNTRY VALUE="DE"/>
+                     <n2016:NUTS CODE="DED2"/>
+                  </ADDRESS_CONTRACTOR>
+                  <NO_SME/>
+               </CONTRACTOR>
+               <VAL_TOTAL CURRENCY="EUR">1120000</VAL_TOTAL>
+            </AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <COMPLEMENTARY_INFO>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Üldkohus</OFFICIALNAME>
+               <ADDRESS>rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <E_MAIL>cfi.registry@curia.europa.eu</E_MAIL>
+               <FAX>+352 4303-2100</FAX>
+               <URL>http://www.curia.europa.eu</URL>
+            </ADDRESS_REVIEW_BODY>
+            <REVIEW_PROCEDURE>
+               <P>2 kuu jooksul hageja teavitamisest või kui teavitamist ei toimu, 2 kuu jooksul päevast, mil asjast teada saadi.</P>
+            </REVIEW_PROCEDURE>
+            <DATE_DISPATCH_NOTICE>2017-10-09</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F03_2014>
+      <F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="HU">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Európai Határ– és Partvédelmi Ügynökség – Frontex</OFFICIALNAME>
+               <ADDRESS>Plac Europejski 6</ADDRESS>
+               <TOWN>Warsaw</TOWN>
+               <POSTAL_CODE>00-844</POSTAL_CODE>
+               <COUNTRY VALUE="PL"/>
+               <CONTACT_POINT>Frontex Procurement Team</CONTACT_POINT>
+               <PHONE>+48 222059500</PHONE>
+               <E_MAIL>procurement@frontex.europa.eu</E_MAIL>
+               <FAX>+48 222059501</FAX>
+               <n2016:NUTS CODE="PL911"/>
+               <URL_GENERAL>http://www.frontex.europa.eu</URL_GENERAL>
+            </ADDRESS_CONTRACTING_BODY>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Keretszerződés fényvisszaverő Frontex feliratú mellények biztosítására.</P>
+            </TITLE>
+            <REFERENCE_NUMBER>Frontex/OP/250/2017/AH.</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="18100000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SUPPLIES"/>
+            <SHORT_DESCR>
+               <P>A szerződés tárgya a mellények típusa szerint 3 tételre van osztva: 1 – normál mellények, 2 – különleges mellények, 3 – testreszabott mellények.</P>
+            </SHORT_DESCR>
+            <VAL_TOTAL CURRENCY="EUR">1120000</VAL_TOTAL>
+            <LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <TITLE>
+                  <P>Normál mellények</P>
+               </TITLE>
+               <LOT_NO>1</LOT_NO>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="18100000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="PL911"/>
+               <MAIN_SITE>
+                  <P>Frontex-iroda, Varsó, Lengyelország.</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>Frontex logóval ellátott normál mellények beszerzése.</P>
+               </SHORT_DESCR>
+               <AC_QUALITY>
+                  <AC_CRITERION>Műszaki megfelelés</AC_CRITERION>
+                  <AC_WEIGHTING>60</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_PRICE>
+                  <AC_WEIGHTING>40</AC_WEIGHTING>
+               </AC_PRICE>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+            <OBJECT_DESCR ITEM="2">
+               <TITLE>
+                  <P>Speciális mellények</P>
+               </TITLE>
+               <LOT_NO>2</LOT_NO>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="18100000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="PL911"/>
+               <SHORT_DESCR>
+                  <P>10 féle formatervezésű, különleges típusú fényvisszaverő mellények beszerzése.</P>
+               </SHORT_DESCR>
+               <AC_QUALITY>
+                  <AC_CRITERION>Műszaki megfelelés</AC_CRITERION>
+                  <AC_WEIGHTING>60</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_PRICE>
+                  <AC_WEIGHTING>40</AC_WEIGHTING>
+               </AC_PRICE>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+            <OBJECT_DESCR ITEM="3">
+               <TITLE>
+                  <P>Meglévő mellények egyedi kialakítása</P>
+               </TITLE>
+               <LOT_NO>3</LOT_NO>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="18100000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="PL911"/>
+               <SHORT_DESCR>
+                  <P>A Frontexnél rendelkezésre álló mellények testreszabása: az ügynökség teljes nevét tartalmazó lenyomat elhelyezése.</P>
+               </SHORT_DESCR>
+               <AC_QUALITY>
+                  <AC_CRITERION>Műszaki megfelelés</AC_CRITERION>
+                  <AC_WEIGHTING>60</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_PRICE>
+                  <AC_WEIGHTING>40</AC_WEIGHTING>
+               </AC_PRICE>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <NO_CONTRACT_COVERED_GPA/>
+            <NOTICE_NUMBER_OJ>2017/S 071-133849</NOTICE_NUMBER_OJ>
+         </PROCEDURE>
+         <AWARD_CONTRACT ITEM="1">
+            <CONTRACT_NO>Frontex/OP/250/2017/AH</CONTRACT_NO>
+            <LOT_NO>1, 2, 3</LOT_NO>
+            <TITLE>
+               <P>Frontex felirattal ellátott fényvisszaverő mellények beszerzése</P>
+            </TITLE>
+            <AWARDED_CONTRACT>
+               <DATE_CONCLUSION_CONTRACT>2017-09-11</DATE_CONCLUSION_CONTRACT>
+               <NB_TENDERS_RECEIVED>2</NB_TENDERS_RECEIVED>
+               <NO_AWARDED_TO_GROUP/>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>BATEX Technische Textilien GmbH</OFFICIALNAME>
+                     <ADDRESS>OT Bretnig</ADDRESS>
+                     <TOWN>Großröhrsdorf</TOWN>
+                     <COUNTRY VALUE="DE"/>
+                     <n2016:NUTS CODE="DED2"/>
+                  </ADDRESS_CONTRACTOR>
+                  <NO_SME/>
+               </CONTRACTOR>
+               <VAL_TOTAL CURRENCY="EUR">1120000</VAL_TOTAL>
+            </AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <COMPLEMENTARY_INFO>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Törvényszék</OFFICIALNAME>
+               <ADDRESS>rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <E_MAIL>cfi.registry@curia.europa.eu</E_MAIL>
+               <FAX>+352 4303-2100</FAX>
+               <URL>http://www.curia.europa.eu</URL>
+            </ADDRESS_REVIEW_BODY>
+            <REVIEW_PROCEDURE>
+               <P>A vesztes fél értesítésétől, illetve – ennek hiányában – az eredmény ismertté válásától számított 2 hónapon belül.</P>
+            </REVIEW_PROCEDURE>
+            <DATE_DISPATCH_NOTICE>2017-10-09</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F03_2014>
+      <F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="LT">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Europos sienų ir pakrančių apsaugos agentūra – Frontex</OFFICIALNAME>
+               <ADDRESS>Plac Europejski 6</ADDRESS>
+               <TOWN>Warsaw</TOWN>
+               <POSTAL_CODE>00-844</POSTAL_CODE>
+               <COUNTRY VALUE="PL"/>
+               <CONTACT_POINT>Frontex Procurement Team</CONTACT_POINT>
+               <PHONE>+48 222059500</PHONE>
+               <E_MAIL>procurement@frontex.europa.eu</E_MAIL>
+               <FAX>+48 222059501</FAX>
+               <n2016:NUTS CODE="PL911"/>
+               <URL_GENERAL>http://www.frontex.europa.eu</URL_GENERAL>
+            </ADDRESS_CONTRACTING_BODY>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Preliminarioji sutartis dėl Frontex ženklintų liemenių su atšvaitais tiekimo.</P>
+            </TITLE>
+            <REFERENCE_NUMBER>Frontex/OP/250/2017/AH.</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="18100000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SUPPLIES"/>
+            <SHORT_DESCR>
+               <P>Sutarties apimtis yra padalyta į 3 dalis atsižvelgiant į liemenių tipą: 1 – standartinės liemenės, 2 – specialios liemenės, 3 – pritaikytos liemenės.</P>
+            </SHORT_DESCR>
+            <VAL_TOTAL CURRENCY="EUR">1120000</VAL_TOTAL>
+            <LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <TITLE>
+                  <P>Standartinės liemenės</P>
+               </TITLE>
+               <LOT_NO>1</LOT_NO>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="18100000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="PL911"/>
+               <MAIN_SITE>
+                  <P>Frontex patalpos, Varšuva, Lenkija.</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>Standartinių liemenių su Frontex logotipu tiekimas .</P>
+               </SHORT_DESCR>
+               <AC_QUALITY>
+                  <AC_CRITERION>Techninis privalumas</AC_CRITERION>
+                  <AC_WEIGHTING>60</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_PRICE>
+                  <AC_WEIGHTING>40</AC_WEIGHTING>
+               </AC_PRICE>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+            <OBJECT_DESCR ITEM="2">
+               <TITLE>
+                  <P>Specialios liemenės</P>
+               </TITLE>
+               <LOT_NO>2</LOT_NO>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="18100000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="PL911"/>
+               <SHORT_DESCR>
+                  <P>Specialių tipų liemenių su atšvaitais (10 skirtingų modelių) tiekimas.</P>
+               </SHORT_DESCR>
+               <AC_QUALITY>
+                  <AC_CRITERION>Techninis privalumas</AC_CRITERION>
+                  <AC_WEIGHTING>60</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_PRICE>
+                  <AC_WEIGHTING>40</AC_WEIGHTING>
+               </AC_PRICE>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+            <OBJECT_DESCR ITEM="3">
+               <TITLE>
+                  <P>Esamų liemenių pritaikymas</P>
+               </TITLE>
+               <LOT_NO>3</LOT_NO>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="18100000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="PL911"/>
+               <SHORT_DESCR>
+                  <P>Esamų liemenių, esančių Frontex, pritaikymas: priklijuojant lipduką su visu agentūros pavadinimu.</P>
+               </SHORT_DESCR>
+               <AC_QUALITY>
+                  <AC_CRITERION>Techninis privalumas</AC_CRITERION>
+                  <AC_WEIGHTING>60</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_PRICE>
+                  <AC_WEIGHTING>40</AC_WEIGHTING>
+               </AC_PRICE>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <NO_CONTRACT_COVERED_GPA/>
+            <NOTICE_NUMBER_OJ>2017/S 071-133849</NOTICE_NUMBER_OJ>
+         </PROCEDURE>
+         <AWARD_CONTRACT ITEM="1">
+            <CONTRACT_NO>Frontex/OP/250/2017/AH</CONTRACT_NO>
+            <LOT_NO>1, 2, 3</LOT_NO>
+            <TITLE>
+               <P>Frontex ženklintų liemenių su atšvaitais tiekimas</P>
+            </TITLE>
+            <AWARDED_CONTRACT>
+               <DATE_CONCLUSION_CONTRACT>2017-09-11</DATE_CONCLUSION_CONTRACT>
+               <NB_TENDERS_RECEIVED>2</NB_TENDERS_RECEIVED>
+               <NO_AWARDED_TO_GROUP/>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>BATEX Technische Textilien GmbH</OFFICIALNAME>
+                     <ADDRESS>OT Bretnig</ADDRESS>
+                     <TOWN>Großröhrsdorf</TOWN>
+                     <COUNTRY VALUE="DE"/>
+                     <n2016:NUTS CODE="DED2"/>
+                  </ADDRESS_CONTRACTOR>
+                  <NO_SME/>
+               </CONTRACTOR>
+               <VAL_TOTAL CURRENCY="EUR">1120000</VAL_TOTAL>
+            </AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <COMPLEMENTARY_INFO>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Bendrasis Teismas</OFFICIALNAME>
+               <ADDRESS>rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <E_MAIL>cfi.registry@curia.europa.eu</E_MAIL>
+               <FAX>+352 4303-2100</FAX>
+               <URL>http://www.curia.europa.eu</URL>
+            </ADDRESS_REVIEW_BODY>
+            <REVIEW_PROCEDURE>
+               <P>per 2 mėnesius nuo dienos, kai apie tai pranešama ieškovui, arba, jei pranešimas neparengiamas, nuo dienos, kai apie tai tampa žinoma.</P>
+            </REVIEW_PROCEDURE>
+            <DATE_DISPATCH_NOTICE>2017-10-09</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F03_2014>
+      <F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="LV">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Eiropas Robežu un krasta apsardzes aģentūra – Frontex</OFFICIALNAME>
+               <ADDRESS>Plac Europejski 6</ADDRESS>
+               <TOWN>Warsaw</TOWN>
+               <POSTAL_CODE>00-844</POSTAL_CODE>
+               <COUNTRY VALUE="PL"/>
+               <CONTACT_POINT>Frontex Procurement Team</CONTACT_POINT>
+               <PHONE>+48 222059500</PHONE>
+               <E_MAIL>procurement@frontex.europa.eu</E_MAIL>
+               <FAX>+48 222059501</FAX>
+               <n2016:NUTS CODE="PL911"/>
+               <URL_GENERAL>http://www.frontex.europa.eu</URL_GENERAL>
+            </ADDRESS_CONTRACTING_BODY>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Pamatnolīgums par atstarojošu vestu ar Frontex apdruku nodrošināšanu.</P>
+            </TITLE>
+            <REFERENCE_NUMBER>Frontex/OP/250/2017/AH.</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="18100000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SUPPLIES"/>
+            <SHORT_DESCR>
+               <P>Līguma joma ir sadalīta 3 daļās atbilstoši vestu veidiem: 1. daļa – standarta vestes, 2. daļa – īpašas vestes, 3. daļa – pielāgotas vestes.</P>
+            </SHORT_DESCR>
+            <VAL_TOTAL CURRENCY="EUR">1120000</VAL_TOTAL>
+            <LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <TITLE>
+                  <P>Standarta vestes</P>
+               </TITLE>
+               <LOT_NO>1</LOT_NO>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="18100000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="PL911"/>
+               <MAIN_SITE>
+                  <P>Frontex telpas, Varšava, Polija.</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>Standarta vestu ar Frontex logotipu piegāde.</P>
+               </SHORT_DESCR>
+               <AC_QUALITY>
+                  <AC_CRITERION>Tehniskā kvalitāte</AC_CRITERION>
+                  <AC_WEIGHTING>60</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_PRICE>
+                  <AC_WEIGHTING>40</AC_WEIGHTING>
+               </AC_PRICE>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+            <OBJECT_DESCR ITEM="2">
+               <TITLE>
+                  <P>Īpašas vestes</P>
+               </TITLE>
+               <LOT_NO>2</LOT_NO>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="18100000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="PL911"/>
+               <SHORT_DESCR>
+                  <P>Īpašu veidu atstarojošu vestu (10 dažādi modeļi) piegāde.</P>
+               </SHORT_DESCR>
+               <AC_QUALITY>
+                  <AC_CRITERION>Tehniskā kvalitāte</AC_CRITERION>
+                  <AC_WEIGHTING>60</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_PRICE>
+                  <AC_WEIGHTING>40</AC_WEIGHTING>
+               </AC_PRICE>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+            <OBJECT_DESCR ITEM="3">
+               <TITLE>
+                  <P>Gatavu vestu pielāgošana</P>
+               </TITLE>
+               <LOT_NO>3</LOT_NO>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="18100000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="PL911"/>
+               <SHORT_DESCR>
+                  <P>Frontex pieejamo gatavo vestu pielāgošana: apdrukas, kurā ir pilns aģentūras nosaukums, pievienošana.</P>
+               </SHORT_DESCR>
+               <AC_QUALITY>
+                  <AC_CRITERION>Tehniskā kvalitāte</AC_CRITERION>
+                  <AC_WEIGHTING>60</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_PRICE>
+                  <AC_WEIGHTING>40</AC_WEIGHTING>
+               </AC_PRICE>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <NO_CONTRACT_COVERED_GPA/>
+            <NOTICE_NUMBER_OJ>2017/S 071-133849</NOTICE_NUMBER_OJ>
+         </PROCEDURE>
+         <AWARD_CONTRACT ITEM="1">
+            <CONTRACT_NO>Frontex/OP/250/2017/AH</CONTRACT_NO>
+            <LOT_NO>1, 2, 3</LOT_NO>
+            <TITLE>
+               <P>Atstarojošu vestu ar Frontex apdruku nodrošināšana</P>
+            </TITLE>
+            <AWARDED_CONTRACT>
+               <DATE_CONCLUSION_CONTRACT>2017-09-11</DATE_CONCLUSION_CONTRACT>
+               <NB_TENDERS_RECEIVED>2</NB_TENDERS_RECEIVED>
+               <NO_AWARDED_TO_GROUP/>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>BATEX Technische Textilien GmbH</OFFICIALNAME>
+                     <ADDRESS>OT Bretnig</ADDRESS>
+                     <TOWN>Großröhrsdorf</TOWN>
+                     <COUNTRY VALUE="DE"/>
+                     <n2016:NUTS CODE="DED2"/>
+                  </ADDRESS_CONTRACTOR>
+                  <NO_SME/>
+               </CONTRACTOR>
+               <VAL_TOTAL CURRENCY="EUR">1120000</VAL_TOTAL>
+            </AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <COMPLEMENTARY_INFO>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Vispārējā tiesa</OFFICIALNAME>
+               <ADDRESS>rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <E_MAIL>cfi.registry@curia.europa.eu</E_MAIL>
+               <FAX>+352 4303-2100</FAX>
+               <URL>http://www.curia.europa.eu</URL>
+            </ADDRESS_REVIEW_BODY>
+            <REVIEW_PROCEDURE>
+               <P>2 mēnešu laikā no prasītāja informēšanas vai, ja tā nav notikusi, no dienas, kad viņš to uzzinājis.</P>
+            </REVIEW_PROCEDURE>
+            <DATE_DISPATCH_NOTICE>2017-10-09</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F03_2014>
+      <F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="MT">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>L-Aġenzija Ewropea tal-Fruntieri u l-Għassa tal-Kosta — Frontex</OFFICIALNAME>
+               <ADDRESS>Plac Europejski 6</ADDRESS>
+               <TOWN>Varsavja</TOWN>
+               <POSTAL_CODE>00-844</POSTAL_CODE>
+               <COUNTRY VALUE="PL"/>
+               <CONTACT_POINT>It-Tim tal-Ksib tal-Frontex</CONTACT_POINT>
+               <PHONE>+48 222059500</PHONE>
+               <E_MAIL>procurement@frontex.europa.eu</E_MAIL>
+               <FAX>+48 222059501</FAX>
+               <n2016:NUTS CODE="PL911"/>
+               <URL_GENERAL>http://www.frontex.europa.eu</URL_GENERAL>
+            </ADDRESS_CONTRACTING_BODY>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Qafas ta' kuntratt għall-provvista ta' ġgieget li jirriflettu bil-kitba Frontex.</P>
+            </TITLE>
+            <REFERENCE_NUMBER>Frontex/OP/250/2017/AH.</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="18100000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SUPPLIES"/>
+            <SHORT_DESCR>
+               <P>L-iskop tal-kuntratt hu maqsum fi 3 lottijiet għal kull tip ta' ġakketta: 1 — ġgieget standard, 2 — ġgieget speċjali, 3 — ġgieget apposta.</P>
+            </SHORT_DESCR>
+            <VAL_TOTAL CURRENCY="EUR">1120000</VAL_TOTAL>
+            <LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <TITLE>
+                  <P>Ġgieget standard</P>
+               </TITLE>
+               <LOT_NO>1</LOT_NO>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="18100000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="PL911"/>
+               <MAIN_SITE>
+                  <P>Il-bini tal-Frontex, Warsaw, il-Polonja.</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>Il-provvista ta' ġgieget standard bil-lowgo tal-Frontex.</P>
+               </SHORT_DESCR>
+               <AC_QUALITY>
+                  <AC_CRITERION>Il-mertu tekniku</AC_CRITERION>
+                  <AC_WEIGHTING>60</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_PRICE>
+                  <AC_WEIGHTING>40</AC_WEIGHTING>
+               </AC_PRICE>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+            <OBJECT_DESCR ITEM="2">
+               <TITLE>
+                  <P>Ġgieget speċjali</P>
+               </TITLE>
+               <LOT_NO>2</LOT_NO>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="18100000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="PL911"/>
+               <SHORT_DESCR>
+                  <P>Il-provvista ta' tipi speċjali ta' ġgieget li jirriflettu b'10 varjetajiet ta' disinji.</P>
+               </SHORT_DESCR>
+               <AC_QUALITY>
+                  <AC_CRITERION>Il-mertu tekniku</AC_CRITERION>
+                  <AC_WEIGHTING>60</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_PRICE>
+                  <AC_WEIGHTING>40</AC_WEIGHTING>
+               </AC_PRICE>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+            <OBJECT_DESCR ITEM="3">
+               <TITLE>
+                  <P>It-tfassil skond il-ħtieġa ta' ġgieget eżistenti</P>
+               </TITLE>
+               <LOT_NO>3</LOT_NO>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="18100000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="PL911"/>
+               <SHORT_DESCR>
+                  <P>It-tfassil skond il-ħtieġa ta' ġgieget eżistenti disponibbli għand il-Frontex: iż-żieda ta' stampa bl-isem sħiħ tal-aġenzija.</P>
+               </SHORT_DESCR>
+               <AC_QUALITY>
+                  <AC_CRITERION>Il-mertu tekniku</AC_CRITERION>
+                  <AC_WEIGHTING>60</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_PRICE>
+                  <AC_WEIGHTING>40</AC_WEIGHTING>
+               </AC_PRICE>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <NO_CONTRACT_COVERED_GPA/>
+            <NOTICE_NUMBER_OJ>2017/S 071-133849</NOTICE_NUMBER_OJ>
+         </PROCEDURE>
+         <AWARD_CONTRACT ITEM="1">
+            <CONTRACT_NO>Frontex/OP/250/2017/AH</CONTRACT_NO>
+            <LOT_NO>1, 2, 3</LOT_NO>
+            <TITLE>
+               <P>Il-provvista ta' ġgieget li jirriflettu bit-tabella tal-Frontex</P>
+            </TITLE>
+            <AWARDED_CONTRACT>
+               <DATE_CONCLUSION_CONTRACT>2017-09-11</DATE_CONCLUSION_CONTRACT>
+               <NB_TENDERS_RECEIVED>2</NB_TENDERS_RECEIVED>
+               <NO_AWARDED_TO_GROUP/>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>BATEX Technische Textilien GmbH</OFFICIALNAME>
+                     <ADDRESS>OT Bretnig</ADDRESS>
+                     <TOWN>Großröhrsdorf</TOWN>
+                     <COUNTRY VALUE="DE"/>
+                     <n2016:NUTS CODE="DED2"/>
+                  </ADDRESS_CONTRACTOR>
+                  <NO_SME/>
+               </CONTRACTOR>
+               <VAL_TOTAL CURRENCY="EUR">1120000</VAL_TOTAL>
+            </AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <COMPLEMENTARY_INFO>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Il-Qorti Ġenerali</OFFICIALNAME>
+               <ADDRESS>rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Lussemburgu</TOWN>
+               <POSTAL_CODE>2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <E_MAIL>cfi.registry@curia.europa.eu</E_MAIL>
+               <FAX>+352 4303-2100</FAX>
+               <URL>http://www.curia.europa.eu</URL>
+            </ADDRESS_REVIEW_BODY>
+            <REVIEW_PROCEDURE>
+               <P>Fi żmien xahrejn (2) min-notifika lil dak li qiegħed iressaq it-talba, jew, fl-assenza ta' din, tal-jum li fih ikun sar magħruf.</P>
+            </REVIEW_PROCEDURE>
+            <DATE_DISPATCH_NOTICE>2017-10-09</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F03_2014>
+      <F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="PL">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Europejska Agencja Straży Granicznej i Przybrzeżnej – Frontex</OFFICIALNAME>
+               <ADDRESS>Plac Europejski 6</ADDRESS>
+               <TOWN>Warsaw</TOWN>
+               <POSTAL_CODE>00-844</POSTAL_CODE>
+               <COUNTRY VALUE="PL"/>
+               <CONTACT_POINT>Frontex Procurement Team</CONTACT_POINT>
+               <PHONE>+48 222059500</PHONE>
+               <E_MAIL>procurement@frontex.europa.eu</E_MAIL>
+               <FAX>+48 222059501</FAX>
+               <n2016:NUTS CODE="PL911"/>
+               <URL_GENERAL>http://www.frontex.europa.eu</URL_GENERAL>
+            </ADDRESS_CONTRACTING_BODY>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Umowa ramowa o dostawę kamizelek odblaskowych z nadrukami Frontexu</P>
+            </TITLE>
+            <REFERENCE_NUMBER>Frontex/OP/250/2017/AH.</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="18100000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SUPPLIES"/>
+            <SHORT_DESCR>
+               <P>Zamówienie zostało podzielone na 3 części według typów kamizelek: 1 – kamizelki standardowe, 2 – kamizelki specjalne, 3 – kamizelki dostosowane.</P>
+            </SHORT_DESCR>
+            <VAL_TOTAL CURRENCY="EUR">1120000</VAL_TOTAL>
+            <LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <TITLE>
+                  <P>Kamizelki standardowe</P>
+               </TITLE>
+               <LOT_NO>1</LOT_NO>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="18100000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="PL911"/>
+               <MAIN_SITE>
+                  <P>siedziba Frontexu, Warszawa, Polska.</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>Dostawa standardowych kamizelek z logo Frontexu.</P>
+               </SHORT_DESCR>
+               <AC_QUALITY>
+                  <AC_CRITERION>zalety techniczne</AC_CRITERION>
+                  <AC_WEIGHTING>60</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_PRICE>
+                  <AC_WEIGHTING>40</AC_WEIGHTING>
+               </AC_PRICE>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+            <OBJECT_DESCR ITEM="2">
+               <TITLE>
+                  <P>Kamizelki specjalne</P>
+               </TITLE>
+               <LOT_NO>2</LOT_NO>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="18100000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="PL911"/>
+               <SHORT_DESCR>
+                  <P>Dostawa specjalnych rodzajów kamizelek odblaskowych w 10 różnych modelach.</P>
+               </SHORT_DESCR>
+               <AC_QUALITY>
+                  <AC_CRITERION>zalety techniczne</AC_CRITERION>
+                  <AC_WEIGHTING>60</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_PRICE>
+                  <AC_WEIGHTING>40</AC_WEIGHTING>
+               </AC_PRICE>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+            <OBJECT_DESCR ITEM="3">
+               <TITLE>
+                  <P>Dostosowanie dotychczasowych kamizelek</P>
+               </TITLE>
+               <LOT_NO>3</LOT_NO>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="18100000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="PL911"/>
+               <SHORT_DESCR>
+                  <P>Dostosowanie kamizelek będących w dotychczasowym posiadaniu Frontexu: dodanie nadruku z pełną nazwą agencji.</P>
+               </SHORT_DESCR>
+               <AC_QUALITY>
+                  <AC_CRITERION>zalety techniczne</AC_CRITERION>
+                  <AC_WEIGHTING>60</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_PRICE>
+                  <AC_WEIGHTING>40</AC_WEIGHTING>
+               </AC_PRICE>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <NO_CONTRACT_COVERED_GPA/>
+            <NOTICE_NUMBER_OJ>2017/S 071-133849</NOTICE_NUMBER_OJ>
+         </PROCEDURE>
+         <AWARD_CONTRACT ITEM="1">
+            <CONTRACT_NO>Frontex/OP/250/2017/AH</CONTRACT_NO>
+            <LOT_NO>1, 2, 3</LOT_NO>
+            <TITLE>
+               <P>Dostawa kamizelek odblaskowych z nadrukami Frontexu</P>
+            </TITLE>
+            <AWARDED_CONTRACT>
+               <DATE_CONCLUSION_CONTRACT>2017-09-11</DATE_CONCLUSION_CONTRACT>
+               <NB_TENDERS_RECEIVED>2</NB_TENDERS_RECEIVED>
+               <NO_AWARDED_TO_GROUP/>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>BATEX Technische Textilien GmbH</OFFICIALNAME>
+                     <ADDRESS>OT Bretnig</ADDRESS>
+                     <TOWN>Großröhrsdorf</TOWN>
+                     <COUNTRY VALUE="DE"/>
+                     <n2016:NUTS CODE="DED2"/>
+                  </ADDRESS_CONTRACTOR>
+                  <NO_SME/>
+               </CONTRACTOR>
+               <VAL_TOTAL CURRENCY="EUR">1120000</VAL_TOTAL>
+            </AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <COMPLEMENTARY_INFO>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Sąd</OFFICIALNAME>
+               <ADDRESS>rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <E_MAIL>cfi.registry@curia.europa.eu</E_MAIL>
+               <FAX>+352 4303-2100</FAX>
+               <URL>http://www.curia.europa.eu</URL>
+            </ADDRESS_REVIEW_BODY>
+            <REVIEW_PROCEDURE>
+               <P>w ciągu 2 miesięcy od zawiadomienia strony skarżącej lub, w przypadku braku zawiadomienia, od dnia podania do wiadomości.</P>
+            </REVIEW_PROCEDURE>
+            <DATE_DISPATCH_NOTICE>2017-10-09</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F03_2014>
+      <F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="SK">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Európska agentúra pre pohraničnú a pobrežnú stráž – Frontex</OFFICIALNAME>
+               <ADDRESS>Plac Europejski 6</ADDRESS>
+               <TOWN>Warsaw</TOWN>
+               <POSTAL_CODE>00-844</POSTAL_CODE>
+               <COUNTRY VALUE="PL"/>
+               <CONTACT_POINT>Frontex Procurement Team</CONTACT_POINT>
+               <PHONE>+48 222059500</PHONE>
+               <E_MAIL>procurement@frontex.europa.eu</E_MAIL>
+               <FAX>+48 222059501</FAX>
+               <n2016:NUTS CODE="PL911"/>
+               <URL_GENERAL>http://www.frontex.europa.eu</URL_GENERAL>
+            </ADDRESS_CONTRACTING_BODY>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Rámcová zmluva na poskytnutie reflexných viest s označením Frontex.</P>
+            </TITLE>
+            <REFERENCE_NUMBER>Frontex/OP/250/2017/AH.</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="18100000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SUPPLIES"/>
+            <SHORT_DESCR>
+               <P>Rozsah obstarávania je rozdelený do 3 častí oodľa typu viest: 1 – štandardné vesty, 2 – špeciálne vesty, 3 – prispôsobené vesty.</P>
+            </SHORT_DESCR>
+            <VAL_TOTAL CURRENCY="EUR">1120000</VAL_TOTAL>
+            <LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <TITLE>
+                  <P>Štandardné vesty</P>
+               </TITLE>
+               <LOT_NO>1</LOT_NO>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="18100000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="PL911"/>
+               <MAIN_SITE>
+                  <P>priestory Frontex, Varšava, Poľsko.</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>Dodávka štandardných viest s logom agentúry Frontex.</P>
+               </SHORT_DESCR>
+               <AC_QUALITY>
+                  <AC_CRITERION>Technická hodnota</AC_CRITERION>
+                  <AC_WEIGHTING>60</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_PRICE>
+                  <AC_WEIGHTING>40</AC_WEIGHTING>
+               </AC_PRICE>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+            <OBJECT_DESCR ITEM="2">
+               <TITLE>
+                  <P>Špeciálne vesty</P>
+               </TITLE>
+               <LOT_NO>2</LOT_NO>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="18100000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="PL911"/>
+               <SHORT_DESCR>
+                  <P>Dodávka špeciálnych typov reflexných viest s 10 rôznymi dizajnami.</P>
+               </SHORT_DESCR>
+               <AC_QUALITY>
+                  <AC_CRITERION>Technická hodnota</AC_CRITERION>
+                  <AC_WEIGHTING>60</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_PRICE>
+                  <AC_WEIGHTING>40</AC_WEIGHTING>
+               </AC_PRICE>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+            <OBJECT_DESCR ITEM="3">
+               <TITLE>
+                  <P>Prispôsobenie existujúcich viest</P>
+               </TITLE>
+               <LOT_NO>3</LOT_NO>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="18100000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="PL911"/>
+               <SHORT_DESCR>
+                  <P>Prispôsobenie existujúcich viest dostupných vo Frontexe: pridanie tlače s celým názvom agentúry.</P>
+               </SHORT_DESCR>
+               <AC_QUALITY>
+                  <AC_CRITERION>Technická hodnota</AC_CRITERION>
+                  <AC_WEIGHTING>60</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_PRICE>
+                  <AC_WEIGHTING>40</AC_WEIGHTING>
+               </AC_PRICE>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <NO_CONTRACT_COVERED_GPA/>
+            <NOTICE_NUMBER_OJ>2017/S 071-133849</NOTICE_NUMBER_OJ>
+         </PROCEDURE>
+         <AWARD_CONTRACT ITEM="1">
+            <CONTRACT_NO>Frontex/OP/250/2017/AH</CONTRACT_NO>
+            <LOT_NO>1, 2, 3</LOT_NO>
+            <TITLE>
+               <P>Dodávka reflexných viest s označením Frontexu</P>
+            </TITLE>
+            <AWARDED_CONTRACT>
+               <DATE_CONCLUSION_CONTRACT>2017-09-11</DATE_CONCLUSION_CONTRACT>
+               <NB_TENDERS_RECEIVED>2</NB_TENDERS_RECEIVED>
+               <NO_AWARDED_TO_GROUP/>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>BATEX Technische Textilien GmbH</OFFICIALNAME>
+                     <ADDRESS>OT Bretnig</ADDRESS>
+                     <TOWN>Großröhrsdorf</TOWN>
+                     <COUNTRY VALUE="DE"/>
+                     <n2016:NUTS CODE="DED2"/>
+                  </ADDRESS_CONTRACTOR>
+                  <NO_SME/>
+               </CONTRACTOR>
+               <VAL_TOTAL CURRENCY="EUR">1120000</VAL_TOTAL>
+            </AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <COMPLEMENTARY_INFO>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Všeobecný súd</OFFICIALNAME>
+               <ADDRESS>rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <E_MAIL>cfi.registry@curia.europa.eu</E_MAIL>
+               <FAX>+352 4303-2100</FAX>
+               <URL>http://www.curia.europa.eu</URL>
+            </ADDRESS_REVIEW_BODY>
+            <REVIEW_PROCEDURE>
+               <P>Do 2 mesiacov od vyrozumenia žalobcu alebo v prípade, že nie je k dispozícii, odo dňa, keď túto skutočnosť zistil.</P>
+            </REVIEW_PROCEDURE>
+            <DATE_DISPATCH_NOTICE>2017-10-09</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F03_2014>
+      <F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="SL">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Evropska agencija za mejno in obalno stražo – Frontex</OFFICIALNAME>
+               <ADDRESS>Plac Europejski 6</ADDRESS>
+               <TOWN>Warsaw</TOWN>
+               <POSTAL_CODE>00-844</POSTAL_CODE>
+               <COUNTRY VALUE="PL"/>
+               <CONTACT_POINT>Frontex Procurement Team</CONTACT_POINT>
+               <PHONE>+48 222059500</PHONE>
+               <E_MAIL>procurement@frontex.europa.eu</E_MAIL>
+               <FAX>+48 222059501</FAX>
+               <n2016:NUTS CODE="PL911"/>
+               <URL_GENERAL>http://www.frontex.europa.eu</URL_GENERAL>
+            </ADDRESS_CONTRACTING_BODY>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Okvirno naročilo za zagotovitev odsevnih telovnikov z oznako Frontexa</P>
+            </TITLE>
+            <REFERENCE_NUMBER>Frontex/OP/250/2017/AH.</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="18100000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SUPPLIES"/>
+            <SHORT_DESCR>
+               <P>Obseg naročila je razdeljen na 3 sklope glede na vrsto telovnikov: 1 – standardni telovniki, 2 – posebni telovniki, 3 – prilagojeni telovniki.</P>
+            </SHORT_DESCR>
+            <VAL_TOTAL CURRENCY="EUR">1120000</VAL_TOTAL>
+            <LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <TITLE>
+                  <P>Standardni telovniki</P>
+               </TITLE>
+               <LOT_NO>1</LOT_NO>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="18100000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="PL911"/>
+               <MAIN_SITE>
+                  <P>prostori Frontexa, Varšava, Poljska.</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>Dobava standardnih telovnikov z logotipom Frontexa.</P>
+               </SHORT_DESCR>
+               <AC_QUALITY>
+                  <AC_CRITERION>Tehnična ustreznost</AC_CRITERION>
+                  <AC_WEIGHTING>60</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_PRICE>
+                  <AC_WEIGHTING>40</AC_WEIGHTING>
+               </AC_PRICE>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+            <OBJECT_DESCR ITEM="2">
+               <TITLE>
+                  <P>Posebni telovniki</P>
+               </TITLE>
+               <LOT_NO>2</LOT_NO>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="18100000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="PL911"/>
+               <SHORT_DESCR>
+                  <P>Dobava posebnih vrst odsevnih telovnikov z 10 vrstami krojev.</P>
+               </SHORT_DESCR>
+               <AC_QUALITY>
+                  <AC_CRITERION>Tehnična ustreznost</AC_CRITERION>
+                  <AC_WEIGHTING>60</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_PRICE>
+                  <AC_WEIGHTING>40</AC_WEIGHTING>
+               </AC_PRICE>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+            <OBJECT_DESCR ITEM="3">
+               <TITLE>
+                  <P>Prilagoditev obstoječih telovnikov</P>
+               </TITLE>
+               <LOT_NO>3</LOT_NO>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="18100000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="PL911"/>
+               <SHORT_DESCR>
+                  <P>Prilagoditev obstoječih telovnikov, ki so na voljo na Frontexu: dodatek tiska s polnim imenom agencije.</P>
+               </SHORT_DESCR>
+               <AC_QUALITY>
+                  <AC_CRITERION>Tehnična ustreznost</AC_CRITERION>
+                  <AC_WEIGHTING>60</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_PRICE>
+                  <AC_WEIGHTING>40</AC_WEIGHTING>
+               </AC_PRICE>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <NO_CONTRACT_COVERED_GPA/>
+            <NOTICE_NUMBER_OJ>2017/S 071-133849</NOTICE_NUMBER_OJ>
+         </PROCEDURE>
+         <AWARD_CONTRACT ITEM="1">
+            <CONTRACT_NO>Frontex/OP/250/2017/AH</CONTRACT_NO>
+            <LOT_NO>1, 2, 3</LOT_NO>
+            <TITLE>
+               <P>Dobava odsevnih telovnikov z oznako Frontex</P>
+            </TITLE>
+            <AWARDED_CONTRACT>
+               <DATE_CONCLUSION_CONTRACT>2017-09-11</DATE_CONCLUSION_CONTRACT>
+               <NB_TENDERS_RECEIVED>2</NB_TENDERS_RECEIVED>
+               <NO_AWARDED_TO_GROUP/>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>BATEX Technische Textilien GmbH</OFFICIALNAME>
+                     <ADDRESS>OT Bretnig</ADDRESS>
+                     <TOWN>Großröhrsdorf</TOWN>
+                     <COUNTRY VALUE="DE"/>
+                     <n2016:NUTS CODE="DED2"/>
+                  </ADDRESS_CONTRACTOR>
+                  <NO_SME/>
+               </CONTRACTOR>
+               <VAL_TOTAL CURRENCY="EUR">1120000</VAL_TOTAL>
+            </AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <COMPLEMENTARY_INFO>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Splošno sodišče</OFFICIALNAME>
+               <ADDRESS>rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <E_MAIL>cfi.registry@curia.europa.eu</E_MAIL>
+               <FAX>+352 4303-2100</FAX>
+               <URL>http://www.curia.europa.eu</URL>
+            </ADDRESS_REVIEW_BODY>
+            <REVIEW_PROCEDURE>
+               <P>v 2 mesecih od uradnega obvestila tožniku ali, če tega ni bilo, od dneva, ko je tožnik zanj izvedel.</P>
+            </REVIEW_PROCEDURE>
+            <DATE_DISPATCH_NOTICE>2017-10-09</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F03_2014>
+      <F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="GA">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>An Ghníomhaireacht Eorpach um an nGarda Teorann agus Cósta  — Frontex</OFFICIALNAME>
+               <ADDRESS>Plac Europejski 6</ADDRESS>
+               <TOWN>Warsaw</TOWN>
+               <POSTAL_CODE>00-844</POSTAL_CODE>
+               <COUNTRY VALUE="PL"/>
+               <CONTACT_POINT>Frontex Procurement Team</CONTACT_POINT>
+               <PHONE>+48 222059500</PHONE>
+               <E_MAIL>procurement@frontex.europa.eu</E_MAIL>
+               <FAX>+48 222059501</FAX>
+               <n2016:NUTS CODE="PL911"/>
+               <URL_GENERAL>http://www.frontex.europa.eu</URL_GENERAL>
+            </ADDRESS_CONTRACTING_BODY>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Conradh creatlaí le haghaidh veisteanna frithchaiteacha lipéadaithe Frontex a sholáthar.</P>
+            </TITLE>
+            <REFERENCE_NUMBER>Frontex/OP/250/2017/AH.</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="18100000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SUPPLIES"/>
+            <SHORT_DESCR>
+               <P>Tá raon feidhme na tairisceana roinnte ina 3 bheart in aghaidh chineál na veiste: 1 — veisteanna caighdeánacha, 2 — veisteanna speisialaithe, 3 — veisteanna saincheaptha.</P>
+            </SHORT_DESCR>
+            <VAL_TOTAL CURRENCY="EUR">1120000</VAL_TOTAL>
+            <LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <TITLE>
+                  <P>Veisteanna caighdeánacha</P>
+               </TITLE>
+               <LOT_NO>1</LOT_NO>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="18100000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="PL911"/>
+               <MAIN_SITE>
+                  <P>Áitreabh Frontex, Vársá, an Pholainn.</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>Veisteanna caighdeánacha ar a bhfuil lógó Frontex a sholáthar</P>
+               </SHORT_DESCR>
+               <AC_QUALITY>
+                  <AC_CRITERION>Fiúntas teicniúil</AC_CRITERION>
+                  <AC_WEIGHTING>60</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_PRICE>
+                  <AC_WEIGHTING>40</AC_WEIGHTING>
+               </AC_PRICE>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+            <OBJECT_DESCR ITEM="2">
+               <TITLE>
+                  <P>Veisteanna speisialta</P>
+               </TITLE>
+               <LOT_NO>2</LOT_NO>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="18100000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="PL911"/>
+               <SHORT_DESCR>
+                  <P>Cineálacha speisialaithe de veisteanna frithchaiteacha a sholáthar lena mbaineann 10 n-éagsúlacht de dhearadh.</P>
+               </SHORT_DESCR>
+               <AC_QUALITY>
+                  <AC_CRITERION>Fiúntas teicniúil</AC_CRITERION>
+                  <AC_WEIGHTING>60</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_PRICE>
+                  <AC_WEIGHTING>40</AC_WEIGHTING>
+               </AC_PRICE>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+            <OBJECT_DESCR ITEM="3">
+               <TITLE>
+                  <P>Veisteanna reatha a shaincheapadh</P>
+               </TITLE>
+               <LOT_NO>3</LOT_NO>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="18100000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="PL911"/>
+               <SHORT_DESCR>
+                  <P>Veisteanna reatha atá ar fáil ag Frontex a shaincheapadh: prionta a chur leo ar a bhfuil ainm iomlán na gníomhaireachta.</P>
+               </SHORT_DESCR>
+               <AC_QUALITY>
+                  <AC_CRITERION>Fiúntas teicniúil</AC_CRITERION>
+                  <AC_WEIGHTING>60</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_PRICE>
+                  <AC_WEIGHTING>40</AC_WEIGHTING>
+               </AC_PRICE>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <NO_CONTRACT_COVERED_GPA/>
+            <NOTICE_NUMBER_OJ>2017/S 071-133849</NOTICE_NUMBER_OJ>
+         </PROCEDURE>
+         <AWARD_CONTRACT ITEM="1">
+            <CONTRACT_NO>Frontex/OP/250/2017/AH</CONTRACT_NO>
+            <LOT_NO>1, 2, 3</LOT_NO>
+            <TITLE>
+               <P>Veisteanna frithchaiteacha lipéadaithe Frontex a sholáthar</P>
+            </TITLE>
+            <AWARDED_CONTRACT>
+               <DATE_CONCLUSION_CONTRACT>2017-09-11</DATE_CONCLUSION_CONTRACT>
+               <NB_TENDERS_RECEIVED>2</NB_TENDERS_RECEIVED>
+               <NO_AWARDED_TO_GROUP/>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>BATEX Technische Textilien GmbH</OFFICIALNAME>
+                     <ADDRESS>OT Bretnig</ADDRESS>
+                     <TOWN>Großröhrsdorf</TOWN>
+                     <COUNTRY VALUE="DE"/>
+                     <n2016:NUTS CODE="DED2"/>
+                  </ADDRESS_CONTRACTOR>
+                  <NO_SME/>
+               </CONTRACTOR>
+               <VAL_TOTAL CURRENCY="EUR">1120000</VAL_TOTAL>
+            </AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <COMPLEMENTARY_INFO>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>An Chúirt Ghinearálta</OFFICIALNAME>
+               <ADDRESS>rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <E_MAIL>cfi.registry@curia.europa.eu</E_MAIL>
+               <FAX>+352 4303-2100</FAX>
+               <URL>http://www.curia.europa.eu</URL>
+            </ADDRESS_REVIEW_BODY>
+            <REVIEW_PROCEDURE>
+               <P>Laistigh de 2 mhí ón bhfógra don ghearánaí, nó, dá éagmais sin, ón lá a fuarthas an t-eolas.</P>
+            </REVIEW_PROCEDURE>
+            <DATE_DISPATCH_NOTICE>2017-10-09</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F03_2014>
+      <F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="BG">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Европейска агенция за гранична и брегова охрана – Frontex</OFFICIALNAME>
+               <ADDRESS>Plac Europejski 6</ADDRESS>
+               <TOWN>Warsaw</TOWN>
+               <POSTAL_CODE>00-844</POSTAL_CODE>
+               <COUNTRY VALUE="PL"/>
+               <CONTACT_POINT>Frontex Procurement Team</CONTACT_POINT>
+               <PHONE>+48 222059500</PHONE>
+               <E_MAIL>procurement@frontex.europa.eu</E_MAIL>
+               <FAX>+48 222059501</FAX>
+               <n2016:NUTS CODE="PL911"/>
+               <URL_GENERAL>http://www.frontex.europa.eu</URL_GENERAL>
+            </ADDRESS_CONTRACTING_BODY>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Рамков договор за предоставяне на светлоотразителни жилетки с етикет на Frontex.</P>
+            </TITLE>
+            <REFERENCE_NUMBER>Frontex/OP/250/2017/AH.</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="18100000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SUPPLIES"/>
+            <SHORT_DESCR>
+               <P>Обхватът на поръчката е разделен на 3 партиди за всеки тип жилетки: 1 – стандартни жилетки, 2 – специални жилетки, 3 – персонализирани жилетки.</P>
+            </SHORT_DESCR>
+            <VAL_TOTAL CURRENCY="EUR">1120000</VAL_TOTAL>
+            <LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <TITLE>
+                  <P>Стандартни жилетки</P>
+               </TITLE>
+               <LOT_NO>1</LOT_NO>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="18100000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="PL911"/>
+               <MAIN_SITE>
+                  <P>помещения на Frontex, Варшава, Полша.</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>Доставка на стандартни жилетки с логото на Frontex.</P>
+               </SHORT_DESCR>
+               <AC_QUALITY>
+                  <AC_CRITERION>Техническо качество</AC_CRITERION>
+                  <AC_WEIGHTING>60</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_PRICE>
+                  <AC_WEIGHTING>40</AC_WEIGHTING>
+               </AC_PRICE>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+            <OBJECT_DESCR ITEM="2">
+               <TITLE>
+                  <P>Специални жилетки</P>
+               </TITLE>
+               <LOT_NO>2</LOT_NO>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="18100000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="PL911"/>
+               <SHORT_DESCR>
+                  <P>Доставка на специални типове светлоотразителни жилетки с 10 разновидности на дизайна.</P>
+               </SHORT_DESCR>
+               <AC_QUALITY>
+                  <AC_CRITERION>Техническо качество</AC_CRITERION>
+                  <AC_WEIGHTING>60</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_PRICE>
+                  <AC_WEIGHTING>40</AC_WEIGHTING>
+               </AC_PRICE>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+            <OBJECT_DESCR ITEM="3">
+               <TITLE>
+                  <P>Персонализиране на съществуващите жилетки</P>
+               </TITLE>
+               <LOT_NO>3</LOT_NO>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="18100000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="PL911"/>
+               <SHORT_DESCR>
+                  <P>Персонализиране на съществуващите жилетки, достъпни в Frontex: добавяне на щампа с пълното наименование на агенцията.</P>
+               </SHORT_DESCR>
+               <AC_QUALITY>
+                  <AC_CRITERION>Техническо качество</AC_CRITERION>
+                  <AC_WEIGHTING>60</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_PRICE>
+                  <AC_WEIGHTING>40</AC_WEIGHTING>
+               </AC_PRICE>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <NO_CONTRACT_COVERED_GPA/>
+            <NOTICE_NUMBER_OJ>2017/S 071-133849</NOTICE_NUMBER_OJ>
+         </PROCEDURE>
+         <AWARD_CONTRACT ITEM="1">
+            <CONTRACT_NO>Frontex/OP/250/2017/AH</CONTRACT_NO>
+            <LOT_NO>1, 2, 3</LOT_NO>
+            <TITLE>
+               <P>Доставка на светлоотразителни жилетки с етикет на Frontex</P>
+            </TITLE>
+            <AWARDED_CONTRACT>
+               <DATE_CONCLUSION_CONTRACT>2017-09-11</DATE_CONCLUSION_CONTRACT>
+               <NB_TENDERS_RECEIVED>2</NB_TENDERS_RECEIVED>
+               <NO_AWARDED_TO_GROUP/>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>BATEX Technische Textilien GmbH</OFFICIALNAME>
+                     <ADDRESS>OT Bretnig</ADDRESS>
+                     <TOWN>Großröhrsdorf</TOWN>
+                     <COUNTRY VALUE="DE"/>
+                     <n2016:NUTS CODE="DED2"/>
+                  </ADDRESS_CONTRACTOR>
+                  <NO_SME/>
+               </CONTRACTOR>
+               <VAL_TOTAL CURRENCY="EUR">1120000</VAL_TOTAL>
+            </AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <COMPLEMENTARY_INFO>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Общ съд</OFFICIALNAME>
+               <ADDRESS>rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <E_MAIL>cfi.registry@curia.europa.eu</E_MAIL>
+               <FAX>+352 4303-2100</FAX>
+               <URL>http://www.curia.europa.eu</URL>
+            </ADDRESS_REVIEW_BODY>
+            <REVIEW_PROCEDURE>
+               <P>В рамките на 2 месеца от получаването на известието от ищеца или, в случай че такова липсва, от деня, в който е станало известно.</P>
+            </REVIEW_PROCEDURE>
+            <DATE_DISPATCH_NOTICE>2017-10-09</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F03_2014>
+      <F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="RO">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Agenția Europeană pentru Poliția de Frontieră și Garda de Coastă – Frontex</OFFICIALNAME>
+               <ADDRESS>Plac Europejski 6</ADDRESS>
+               <TOWN>Warsaw</TOWN>
+               <POSTAL_CODE>00-844</POSTAL_CODE>
+               <COUNTRY VALUE="PL"/>
+               <CONTACT_POINT>Frontex Procurement Team</CONTACT_POINT>
+               <PHONE>+48 222059500</PHONE>
+               <E_MAIL>procurement@frontex.europa.eu</E_MAIL>
+               <FAX>+48 222059501</FAX>
+               <n2016:NUTS CODE="PL911"/>
+               <URL_GENERAL>http://www.frontex.europa.eu</URL_GENERAL>
+            </ADDRESS_CONTRACTING_BODY>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Contract-cadru pentru furnizarea de veste reflectorizante cu etichetă Frontex.</P>
+            </TITLE>
+            <REFERENCE_NUMBER>Frontex/OP/250/2017/AH.</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="18100000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SUPPLIES"/>
+            <SHORT_DESCR>
+               <P>Obiectul contractului este împărțit în 3 loturi pentru fiecare tip de vestă: lotul 1 – veste standard; lotul 2 – veste speciale; lotul 3 – veste personalizate.</P>
+            </SHORT_DESCR>
+            <VAL_TOTAL CURRENCY="EUR">1120000</VAL_TOTAL>
+            <LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <TITLE>
+                  <P>Veste standard</P>
+               </TITLE>
+               <LOT_NO>1</LOT_NO>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="18100000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="PL911"/>
+               <MAIN_SITE>
+                  <P>Sediul Frontex, Varșovia, Polonia.</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>Furnizare de veste standard cu logoul Frontex.</P>
+               </SHORT_DESCR>
+               <AC_QUALITY>
+                  <AC_CRITERION>valoarea tehnică</AC_CRITERION>
+                  <AC_WEIGHTING>60</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_PRICE>
+                  <AC_WEIGHTING>40</AC_WEIGHTING>
+               </AC_PRICE>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+            <OBJECT_DESCR ITEM="2">
+               <TITLE>
+                  <P>Veste speciale</P>
+               </TITLE>
+               <LOT_NO>2</LOT_NO>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="18100000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="PL911"/>
+               <SHORT_DESCR>
+                  <P>Furnizare de tipuri speciale de veste reflectorizante cu 10 modele diferite.</P>
+               </SHORT_DESCR>
+               <AC_QUALITY>
+                  <AC_CRITERION>valoarea tehnică</AC_CRITERION>
+                  <AC_WEIGHTING>60</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_PRICE>
+                  <AC_WEIGHTING>40</AC_WEIGHTING>
+               </AC_PRICE>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+            <OBJECT_DESCR ITEM="3">
+               <TITLE>
+                  <P>Personalizarea vestelor existente</P>
+               </TITLE>
+               <LOT_NO>3</LOT_NO>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="18100000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="PL911"/>
+               <SHORT_DESCR>
+                  <P>Personalizarea vestelor existente, disponibile în cadrul Frontex: adăugarea unui imprimeu cu numele complet al agenției.</P>
+               </SHORT_DESCR>
+               <AC_QUALITY>
+                  <AC_CRITERION>valoarea tehnică</AC_CRITERION>
+                  <AC_WEIGHTING>60</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_PRICE>
+                  <AC_WEIGHTING>40</AC_WEIGHTING>
+               </AC_PRICE>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <NO_CONTRACT_COVERED_GPA/>
+            <NOTICE_NUMBER_OJ>2017/S 071-133849</NOTICE_NUMBER_OJ>
+         </PROCEDURE>
+         <AWARD_CONTRACT ITEM="1">
+            <CONTRACT_NO>Frontex/OP/250/2017/AH</CONTRACT_NO>
+            <LOT_NO>1, 2, 3</LOT_NO>
+            <TITLE>
+               <P>Furnizarea de veste reflectorizante cu etichetă Frontex</P>
+            </TITLE>
+            <AWARDED_CONTRACT>
+               <DATE_CONCLUSION_CONTRACT>2017-09-11</DATE_CONCLUSION_CONTRACT>
+               <NB_TENDERS_RECEIVED>2</NB_TENDERS_RECEIVED>
+               <NO_AWARDED_TO_GROUP/>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>BATEX Technische Textilien GmbH</OFFICIALNAME>
+                     <ADDRESS>OT Bretnig</ADDRESS>
+                     <TOWN>Großröhrsdorf</TOWN>
+                     <COUNTRY VALUE="DE"/>
+                     <n2016:NUTS CODE="DED2"/>
+                  </ADDRESS_CONTRACTOR>
+                  <NO_SME/>
+               </CONTRACTOR>
+               <VAL_TOTAL CURRENCY="EUR">1120000</VAL_TOTAL>
+            </AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <COMPLEMENTARY_INFO>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Tribunalul</OFFICIALNAME>
+               <ADDRESS>rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <E_MAIL>cfi.registry@curia.europa.eu</E_MAIL>
+               <FAX>+352 4303-2100</FAX>
+               <URL>http://www.curia.europa.eu</URL>
+            </ADDRESS_REVIEW_BODY>
+            <REVIEW_PROCEDURE>
+               <P>În termen de 2 luni de la notificarea reclamantului sau, în lipsa acesteia, de la ziua în care acesta a luat cunoștință de actul respectiv.</P>
+            </REVIEW_PROCEDURE>
+            <DATE_DISPATCH_NOTICE>2017-10-09</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F03_2014>
+      <F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="HR">
+         <CONTRACTING_BODY>
+            <ADDRESS_CONTRACTING_BODY>
+               <OFFICIALNAME>Agencija za europsku graničnu i obalnu stražu — Frontex</OFFICIALNAME>
+               <ADDRESS>Plac Europejski 6</ADDRESS>
+               <TOWN>Warsaw</TOWN>
+               <POSTAL_CODE>00-844</POSTAL_CODE>
+               <COUNTRY VALUE="PL"/>
+               <CONTACT_POINT>Frontex Procurement Team</CONTACT_POINT>
+               <PHONE>+48 222059500</PHONE>
+               <E_MAIL>procurement@frontex.europa.eu</E_MAIL>
+               <FAX>+48 222059501</FAX>
+               <n2016:NUTS CODE="PL911"/>
+               <URL_GENERAL>http://www.frontex.europa.eu</URL_GENERAL>
+            </ADDRESS_CONTRACTING_BODY>
+            <CA_TYPE VALUE="EU_INSTITUTION"/>
+            <CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+         </CONTRACTING_BODY>
+         <OBJECT_CONTRACT>
+            <TITLE>
+               <P>Okvirni ugovor za pružanje reflektirajućih prsluka s oznakom Frontexa</P>
+            </TITLE>
+            <REFERENCE_NUMBER>Frontex/OP/250/2017/AH.</REFERENCE_NUMBER>
+            <CPV_MAIN>
+               <CPV_CODE CODE="18100000"/>
+            </CPV_MAIN>
+            <TYPE_CONTRACT CTYPE="SUPPLIES"/>
+            <SHORT_DESCR>
+               <P>Opseg ugovora je podijeljen u 3 grupe po vrsti prsluka: 1 — standardni prsluci, 2 — posebni prsluci, 3 — prilagođeni prsluci.</P>
+            </SHORT_DESCR>
+            <VAL_TOTAL CURRENCY="EUR">1120000</VAL_TOTAL>
+            <LOT_DIVISION/>
+            <OBJECT_DESCR ITEM="1">
+               <TITLE>
+                  <P>Standardni prsluci</P>
+               </TITLE>
+               <LOT_NO>1</LOT_NO>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="18100000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="PL911"/>
+               <MAIN_SITE>
+                  <P>Prostori Frontexa, Varšava, Poljska.</P>
+               </MAIN_SITE>
+               <SHORT_DESCR>
+                  <P>Nabava standardnih prsluka s logotipom Frontexa.</P>
+               </SHORT_DESCR>
+               <AC_QUALITY>
+                  <AC_CRITERION>Tehnička kvaliteta</AC_CRITERION>
+                  <AC_WEIGHTING>60</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_PRICE>
+                  <AC_WEIGHTING>40</AC_WEIGHTING>
+               </AC_PRICE>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+            <OBJECT_DESCR ITEM="2">
+               <TITLE>
+                  <P>Posebni prsluci</P>
+               </TITLE>
+               <LOT_NO>2</LOT_NO>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="18100000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="PL911"/>
+               <SHORT_DESCR>
+                  <P>Nabava posebnih vrsta reflektirajućih prsluka s 10 varijanti dizajna.</P>
+               </SHORT_DESCR>
+               <AC_QUALITY>
+                  <AC_CRITERION>Tehnička kvaliteta</AC_CRITERION>
+                  <AC_WEIGHTING>60</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_PRICE>
+                  <AC_WEIGHTING>40</AC_WEIGHTING>
+               </AC_PRICE>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+            <OBJECT_DESCR ITEM="3">
+               <TITLE>
+                  <P>Prilagodba postojećih prsluka</P>
+               </TITLE>
+               <LOT_NO>3</LOT_NO>
+               <CPV_ADDITIONAL>
+                  <CPV_CODE CODE="18100000"/>
+               </CPV_ADDITIONAL>
+               <n2016:NUTS CODE="PL911"/>
+               <SHORT_DESCR>
+                  <P>Prilagodba postojećih prsluka dostupnih u Frontexu: dodavanje ispisane oznake s punim nazivom agencije.</P>
+               </SHORT_DESCR>
+               <AC_QUALITY>
+                  <AC_CRITERION>Tehnička kvaliteta</AC_CRITERION>
+                  <AC_WEIGHTING>60</AC_WEIGHTING>
+               </AC_QUALITY>
+               <AC_PRICE>
+                  <AC_WEIGHTING>40</AC_WEIGHTING>
+               </AC_PRICE>
+               <NO_OPTIONS/>
+               <NO_EU_PROGR_RELATED/>
+            </OBJECT_DESCR>
+         </OBJECT_CONTRACT>
+         <PROCEDURE>
+            <PT_OPEN/>
+            <NO_CONTRACT_COVERED_GPA/>
+            <NOTICE_NUMBER_OJ>2017/S 071-133849</NOTICE_NUMBER_OJ>
+         </PROCEDURE>
+         <AWARD_CONTRACT ITEM="1">
+            <CONTRACT_NO>Frontex/OP/250/2017/AH</CONTRACT_NO>
+            <LOT_NO>1, 2, 3</LOT_NO>
+            <TITLE>
+               <P>Nabava reflektirajućih prsluka s oznakom Frontexa</P>
+            </TITLE>
+            <AWARDED_CONTRACT>
+               <DATE_CONCLUSION_CONTRACT>2017-09-11</DATE_CONCLUSION_CONTRACT>
+               <NB_TENDERS_RECEIVED>2</NB_TENDERS_RECEIVED>
+               <NO_AWARDED_TO_GROUP/>
+               <CONTRACTOR>
+                  <ADDRESS_CONTRACTOR>
+                     <OFFICIALNAME>BATEX Technische Textilien GmbH</OFFICIALNAME>
+                     <ADDRESS>OT Bretnig</ADDRESS>
+                     <TOWN>Großröhrsdorf</TOWN>
+                     <COUNTRY VALUE="DE"/>
+                     <n2016:NUTS CODE="DED2"/>
+                  </ADDRESS_CONTRACTOR>
+                  <NO_SME/>
+               </CONTRACTOR>
+               <VAL_TOTAL CURRENCY="EUR">1120000</VAL_TOTAL>
+            </AWARDED_CONTRACT>
+         </AWARD_CONTRACT>
+         <COMPLEMENTARY_INFO>
+            <ADDRESS_REVIEW_BODY>
+               <OFFICIALNAME>Opći sud</OFFICIALNAME>
+               <ADDRESS>rue du Fort Niedergrünewald</ADDRESS>
+               <TOWN>Luxembourg</TOWN>
+               <POSTAL_CODE>2925</POSTAL_CODE>
+               <COUNTRY VALUE="LU"/>
+               <PHONE>+352 4303-1</PHONE>
+               <E_MAIL>cfi.registry@curia.europa.eu</E_MAIL>
+               <FAX>+352 4303-2100</FAX>
+               <URL>http://www.curia.europa.eu</URL>
+            </ADDRESS_REVIEW_BODY>
+            <REVIEW_PROCEDURE>
+               <P>U roku od 2 mjeseca od slanja obavijesti podnositelju žalbe ili, u slučaju izostanka obavijesti, od dana primanja dotičnih okolnosti na znanje.</P>
+            </REVIEW_PROCEDURE>
+            <DATE_DISPATCH_NOTICE>2017-10-09</DATE_DISPATCH_NOTICE>
+         </COMPLEMENTARY_INFO>
+      </F03_2014>
+   </FORM_SECTION>
+</TED_EXPORT>

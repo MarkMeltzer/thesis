@@ -1,0 +1,2726 @@
+<?xml version="1.0" encoding="UTF-8"?><TED_EXPORT xmlns="http://formex.publications.europa.eu/ted/schema/export/R2.0.9.S01.E01" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" VERSION="R2.0.9.S01.E01" xsi:schemaLocation="http://formex.publications.europa.eu/ted/schema/export/R2.0.9.S01.E01 TED_EXPORT.xsd" DOC_ID="025283-2017" EDITION="2017016">
+<TECHNICAL_SECTION>
+<RECEPTION_ID>17-014622-001</RECEPTION_ID>
+<DELETION_DATE>20170422</DELETION_DATE>
+<FORM_LG_LIST>DA DE EN ES FI FR EL IT NL PT SV CS ET HU LT LV MT PL SK SL GA BG RO HR </FORM_LG_LIST>
+<COMMENTS>From Convertor</COMMENTS>
+</TECHNICAL_SECTION>
+<LINKS_SECTION>
+<XML_SCHEMA_DEFINITION_LINK xlink:title="TED WEBSITE" xlink:href="http://ted.europa.eu" xlink:type="simple"/>
+<OFFICIAL_FORMS_LINK xlink:href="http://ted.europa.eu" xlink:type="simple"/>
+<FORMS_LABELS_LINK xlink:href="http://ted.europa.eu" xlink:type="simple"/>
+<ORIGINAL_CPV_LINK xlink:href="http://ted.europa.eu" xlink:type="simple"/>
+<ORIGINAL_NUTS_LINK xlink:href="http://ted.europa.eu" xlink:type="simple"/>
+</LINKS_SECTION>
+<CODED_DATA_SECTION>
+<REF_OJS>
+<COLL_OJ>S</COLL_OJ>
+<NO_OJ>16</NO_OJ>
+<DATE_PUB>20170124</DATE_PUB>
+</REF_OJS>
+<NOTICE_DATA>
+<NO_DOC_OJS>2017/S 016-025283</NO_DOC_OJS>
+<URI_LIST>
+<URI_DOC LG="DA">http://ted.europa.eu/udl?uri=TED:NOTICE:025283-2017:TEXT:DA:HTML</URI_DOC>
+<URI_DOC LG="DE">http://ted.europa.eu/udl?uri=TED:NOTICE:025283-2017:TEXT:DE:HTML</URI_DOC>
+<URI_DOC LG="EN">http://ted.europa.eu/udl?uri=TED:NOTICE:025283-2017:TEXT:EN:HTML</URI_DOC>
+<URI_DOC LG="ES">http://ted.europa.eu/udl?uri=TED:NOTICE:025283-2017:TEXT:ES:HTML</URI_DOC>
+<URI_DOC LG="FI">http://ted.europa.eu/udl?uri=TED:NOTICE:025283-2017:TEXT:FI:HTML</URI_DOC>
+<URI_DOC LG="FR">http://ted.europa.eu/udl?uri=TED:NOTICE:025283-2017:TEXT:FR:HTML</URI_DOC>
+<URI_DOC LG="EL">http://ted.europa.eu/udl?uri=TED:NOTICE:025283-2017:TEXT:EL:HTML</URI_DOC>
+<URI_DOC LG="IT">http://ted.europa.eu/udl?uri=TED:NOTICE:025283-2017:TEXT:IT:HTML</URI_DOC>
+<URI_DOC LG="NL">http://ted.europa.eu/udl?uri=TED:NOTICE:025283-2017:TEXT:NL:HTML</URI_DOC>
+<URI_DOC LG="PT">http://ted.europa.eu/udl?uri=TED:NOTICE:025283-2017:TEXT:PT:HTML</URI_DOC>
+<URI_DOC LG="SV">http://ted.europa.eu/udl?uri=TED:NOTICE:025283-2017:TEXT:SV:HTML</URI_DOC>
+<URI_DOC LG="CS">http://ted.europa.eu/udl?uri=TED:NOTICE:025283-2017:TEXT:CS:HTML</URI_DOC>
+<URI_DOC LG="ET">http://ted.europa.eu/udl?uri=TED:NOTICE:025283-2017:TEXT:ET:HTML</URI_DOC>
+<URI_DOC LG="HU">http://ted.europa.eu/udl?uri=TED:NOTICE:025283-2017:TEXT:HU:HTML</URI_DOC>
+<URI_DOC LG="LT">http://ted.europa.eu/udl?uri=TED:NOTICE:025283-2017:TEXT:LT:HTML</URI_DOC>
+<URI_DOC LG="LV">http://ted.europa.eu/udl?uri=TED:NOTICE:025283-2017:TEXT:LV:HTML</URI_DOC>
+<URI_DOC LG="MT">http://ted.europa.eu/udl?uri=TED:NOTICE:025283-2017:TEXT:MT:HTML</URI_DOC>
+<URI_DOC LG="PL">http://ted.europa.eu/udl?uri=TED:NOTICE:025283-2017:TEXT:PL:HTML</URI_DOC>
+<URI_DOC LG="SK">http://ted.europa.eu/udl?uri=TED:NOTICE:025283-2017:TEXT:SK:HTML</URI_DOC>
+<URI_DOC LG="SL">http://ted.europa.eu/udl?uri=TED:NOTICE:025283-2017:TEXT:SL:HTML</URI_DOC>
+<URI_DOC LG="GA">http://ted.europa.eu/udl?uri=TED:NOTICE:025283-2017:TEXT:GA:HTML</URI_DOC>
+<URI_DOC LG="BG">http://ted.europa.eu/udl?uri=TED:NOTICE:025283-2017:TEXT:BG:HTML</URI_DOC>
+<URI_DOC LG="RO">http://ted.europa.eu/udl?uri=TED:NOTICE:025283-2017:TEXT:RO:HTML</URI_DOC>
+<URI_DOC LG="HR">http://ted.europa.eu/udl?uri=TED:NOTICE:025283-2017:TEXT:HR:HTML</URI_DOC>
+</URI_LIST>
+<LG_ORIG>EN</LG_ORIG>
+<ISO_COUNTRY VALUE="PL"/>
+<IA_URL_GENERAL>http://www.frontex.europa.eu</IA_URL_GENERAL>
+<ORIGINAL_CPV CODE="72319000">Data supply services</ORIGINAL_CPV>
+<ORIGINAL_NUTS CODE="PL127">Miasto Warszawa</ORIGINAL_NUTS>
+<CA_CE_NUTS CODE="PL127">Miasto Warszawa</CA_CE_NUTS>
+<TENDERER_NUTS CODE="DE">DEUTSCHLAND</TENDERER_NUTS>
+<VALUES>
+<VALUE TYPE="PROCUREMENT_TOTAL" CURRENCY="EUR">250000</VALUE>
+</VALUES>
+<REF_NOTICE>
+<NO_DOC_OJS>2016/S 190-339985</NO_DOC_OJS>
+</REF_NOTICE>
+</NOTICE_DATA>
+<CODIF_DATA>
+<DS_DATE_DISPATCH>20170112</DS_DATE_DISPATCH>
+<AA_AUTHORITY_TYPE CODE="5">European Institution/Agency or International Organisation</AA_AUTHORITY_TYPE>
+<TD_DOCUMENT_TYPE CODE="7">Contract award notice</TD_DOCUMENT_TYPE>
+<NC_CONTRACT_NATURE CODE="4">Services</NC_CONTRACT_NATURE>
+<PR_PROC CODE="1">Open procedure</PR_PROC>
+<RP_REGULATION CODE="3">European Institution/Agency or International Organisation</RP_REGULATION>
+<TY_TYPE_BID CODE="9">Not applicable</TY_TYPE_BID>
+<AC_AWARD_CRIT CODE="2">The most economic tender</AC_AWARD_CRIT>
+<MA_MAIN_ACTIVITIES CODE="S">General public services</MA_MAIN_ACTIVITIES>
+<HEADING>AGC03</HEADING>
+<INITIATOR>AG</INITIATOR>
+<DIRECTIVE VALUE="2014/24/EU"/>
+</CODIF_DATA>
+</CODED_DATA_SECTION>
+<TRANSLATION_SECTION>
+<ML_TITLES>
+<ML_TI_DOC LG="DA">
+<TI_CY>Polen</TI_CY>
+<TI_TOWN>Warszawa</TI_TOWN>
+<TI_TEXT>
+<P>Indkøb af den digitale overflademodel langs EU's grænser</P>
+</TI_TEXT>
+</ML_TI_DOC>
+<ML_TI_DOC LG="DE">
+<TI_CY>Polen</TI_CY>
+<TI_TOWN>Warschau</TI_TOWN>
+<TI_TEXT>
+<P>Beschaffung des digitalen Oberflächenmodells entlang der EU-Grenzen</P>
+</TI_TEXT>
+</ML_TI_DOC>
+<ML_TI_DOC LG="EN">
+<TI_CY>Poland</TI_CY>
+<TI_TOWN>Warsaw</TI_TOWN>
+<TI_TEXT>
+<P>Purchase of the digital surface model along the EU borders</P>
+</TI_TEXT>
+</ML_TI_DOC>
+<ML_TI_DOC LG="ES">
+<TI_CY>Polonia</TI_CY>
+<TI_TOWN>Varsovia</TI_TOWN>
+<TI_TEXT>
+<P>Adquisición del modelo digital de superficies a lo largo de las fronteras de la Unión Europea</P>
+</TI_TEXT>
+</ML_TI_DOC>
+<ML_TI_DOC LG="FI">
+<TI_CY>Puola</TI_CY>
+<TI_TOWN>Varsova</TI_TOWN>
+<TI_TEXT>
+<P>EU:n rajojen digitaalisen pintamallin hankinta</P>
+</TI_TEXT>
+</ML_TI_DOC>
+<ML_TI_DOC LG="FR">
+<TI_CY>Pologne</TI_CY>
+<TI_TOWN>Varsovie</TI_TOWN>
+<TI_TEXT>
+<P>Acquisition du modèle numérique de surface des zones situées le long des frontières de l'UE</P>
+</TI_TEXT>
+</ML_TI_DOC>
+<ML_TI_DOC LG="EL">
+<TI_CY>Πολωνία</TI_CY>
+<TI_TOWN>Βαρσοβία</TI_TOWN>
+<TI_TEXT>
+<P>Αγορά του ψηφιακού μοντέλου επιφάνειας κατά μήκος των συνόρων της ΕΕ</P>
+</TI_TEXT>
+</ML_TI_DOC>
+<ML_TI_DOC LG="IT">
+<TI_CY>Polonia</TI_CY>
+<TI_TOWN>Varsavia</TI_TOWN>
+<TI_TEXT>
+<P>Acquisto del modello digitale di superficie lungo le frontiere dell'UE</P>
+</TI_TEXT>
+</ML_TI_DOC>
+<ML_TI_DOC LG="NL">
+<TI_CY>Polen</TI_CY>
+<TI_TOWN>Warschau</TI_TOWN>
+<TI_TEXT>
+<P>Aankoop van het digitale oppervlaktemodel langs de grenzen van de EU</P>
+</TI_TEXT>
+</ML_TI_DOC>
+<ML_TI_DOC LG="PT">
+<TI_CY>Polónia</TI_CY>
+<TI_TOWN>Varsóvia</TI_TOWN>
+<TI_TEXT>
+<P>Aquisição do modelo digital de superfície ao longo das fronteiras da UE</P>
+</TI_TEXT>
+</ML_TI_DOC>
+<ML_TI_DOC LG="SV">
+<TI_CY>Polen</TI_CY>
+<TI_TOWN>Warszawa</TI_TOWN>
+<TI_TEXT>
+<P>Inköp av en digital ytmodell för EU:s gränser</P>
+</TI_TEXT>
+</ML_TI_DOC>
+<ML_TI_DOC LG="CS">
+<TI_CY>Polsko</TI_CY>
+<TI_TOWN>Varšava</TI_TOWN>
+<TI_TEXT>
+<P>Nákup digitálního modelu povrchu podél hranic EU</P>
+</TI_TEXT>
+</ML_TI_DOC>
+<ML_TI_DOC LG="ET">
+<TI_CY>Poola</TI_CY>
+<TI_TOWN>Varssavi</TI_TOWN>
+<TI_TEXT>
+<P>ELi piiri maapinna digitaalse mudeli ost</P>
+</TI_TEXT>
+</ML_TI_DOC>
+<ML_TI_DOC LG="HU">
+<TI_CY>Lengyelország</TI_CY>
+<TI_TOWN>Varsó</TI_TOWN>
+<TI_TEXT>
+<P>Az Európai Unió határai digitális felszíni modelljének beszerzése</P>
+</TI_TEXT>
+</ML_TI_DOC>
+<ML_TI_DOC LG="LT">
+<TI_CY>Lenkija</TI_CY>
+<TI_TOWN>Varšuva</TI_TOWN>
+<TI_TEXT>
+<P>Skaitmeninio paviršiaus modelio pirkimas ties ES sienomis</P>
+</TI_TEXT>
+</ML_TI_DOC>
+<ML_TI_DOC LG="LV">
+<TI_CY>Polija</TI_CY>
+<TI_TOWN>Varšava</TI_TOWN>
+<TI_TEXT>
+<P>ES pierobežas digitālā virsmas modeļa iegāde</P>
+</TI_TEXT>
+</ML_TI_DOC>
+<ML_TI_DOC LG="MT">
+<TI_CY>il-Polonja</TI_CY>
+<TI_TOWN>Varsavja</TI_TOWN>
+<TI_TEXT>
+<P>Xiri tal-mudell diġitali tal-elevazzjoni tat-terren tul il-fruntieri tal-UE</P>
+</TI_TEXT>
+</ML_TI_DOC>
+<ML_TI_DOC LG="PL">
+<TI_CY>Polska</TI_CY>
+<TI_TOWN>Warszawa</TI_TOWN>
+<TI_TEXT>
+<P>Zakup numerycznego modelu powierzchni terenu wzdłuż granic UE</P>
+</TI_TEXT>
+</ML_TI_DOC>
+<ML_TI_DOC LG="SK">
+<TI_CY>Poľsko</TI_CY>
+<TI_TOWN>Varšava</TI_TOWN>
+<TI_TEXT>
+<P>Nákup digitálneho modelu povrchu na hraniciach EÚ</P>
+</TI_TEXT>
+</ML_TI_DOC>
+<ML_TI_DOC LG="SL">
+<TI_CY>Poljska</TI_CY>
+<TI_TOWN>Varšava</TI_TOWN>
+<TI_TEXT>
+<P>Nakup digitalnega modela površja vzdolž meja EU</P>
+</TI_TEXT>
+</ML_TI_DOC>
+<ML_TI_DOC LG="GA">
+<TI_CY>Pholainn, an</TI_CY>
+<TI_TOWN>Vársá</TI_TOWN>
+<TI_TEXT>
+<P>Samhail dhigiteach den dromchla ar feadh theorainneacha an AE a cheannach</P>
+</TI_TEXT>
+</ML_TI_DOC>
+<ML_TI_DOC LG="BG">
+<TI_CY>Полша</TI_CY>
+<TI_TOWN>Варшава</TI_TOWN>
+<TI_TEXT>
+<P>Закупуване на цифров модел на повърхността по границите на ЕС</P>
+</TI_TEXT>
+</ML_TI_DOC>
+<ML_TI_DOC LG="RO">
+<TI_CY>Polonia</TI_CY>
+<TI_TOWN>Varșovia</TI_TOWN>
+<TI_TEXT>
+<P>Achiziționarea modelului digital de suprafață pentru zonele aflate de-a lungul frontierelor UE</P>
+</TI_TEXT>
+</ML_TI_DOC>
+<ML_TI_DOC LG="HR">
+<TI_CY>Poljska</TI_CY>
+<TI_TOWN>Varšava</TI_TOWN>
+<TI_TEXT>
+<P>Kupovina digitalnog modela površine duž granica EU-a</P>
+</TI_TEXT>
+</ML_TI_DOC>
+</ML_TITLES>
+<ML_AA_NAMES>
+<AA_NAME LG="DA">Frontex</AA_NAME>
+<AA_NAME LG="DE">Frontex</AA_NAME>
+<AA_NAME LG="EN">Frontex</AA_NAME>
+<AA_NAME LG="ES">Frontex</AA_NAME>
+<AA_NAME LG="FI">Frontex</AA_NAME>
+<AA_NAME LG="FR">Frontex</AA_NAME>
+<AA_NAME LG="EL">Frontex</AA_NAME>
+<AA_NAME LG="IT">Frontex</AA_NAME>
+<AA_NAME LG="NL">Frontex</AA_NAME>
+<AA_NAME LG="PT">Frontex</AA_NAME>
+<AA_NAME LG="SV">Frontex</AA_NAME>
+<AA_NAME LG="CS">Frontex</AA_NAME>
+<AA_NAME LG="ET">Frontex</AA_NAME>
+<AA_NAME LG="HU">Frontex</AA_NAME>
+<AA_NAME LG="LT">Frontex</AA_NAME>
+<AA_NAME LG="LV">Frontex</AA_NAME>
+<AA_NAME LG="MT">Frontex</AA_NAME>
+<AA_NAME LG="PL">Frontex</AA_NAME>
+<AA_NAME LG="SK">Frontex</AA_NAME>
+<AA_NAME LG="SL">Frontex</AA_NAME>
+<AA_NAME LG="GA">Frontex</AA_NAME>
+<AA_NAME LG="BG">Frontex</AA_NAME>
+<AA_NAME LG="RO">Frontex</AA_NAME>
+<AA_NAME LG="HR">Frontex</AA_NAME>
+</ML_AA_NAMES>
+</TRANSLATION_SECTION>
+<FORM_SECTION>
+<F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="DA">
+<CONTRACTING_BODY>
+<ADDRESS_CONTRACTING_BODY>
+<OFFICIALNAME>Frontex</OFFICIALNAME>
+<ADDRESS>Plac Europejski 6</ADDRESS>
+<TOWN>Warsaw</TOWN>
+<POSTAL_CODE>00-844</POSTAL_CODE>
+<COUNTRY VALUE="PL"/>
+<PHONE>+48 222059500</PHONE>
+<E_MAIL>procurement@frontex.europa.eu</E_MAIL>
+<FAX>+48 222059501</FAX>
+<NUTS CODE="PL127"/>
+<URL_GENERAL>http://www.frontex.europa.eu</URL_GENERAL>
+</ADDRESS_CONTRACTING_BODY>
+<CA_TYPE VALUE="EU_INSTITUTION"/>
+<CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+</CONTRACTING_BODY>
+<OBJECT_CONTRACT>
+<TITLE>
+<P>Indkøb af den digitale overflademodel langs EU's grænser.</P>
+</TITLE>
+<REFERENCE_NUMBER>Frontex OP/625/2016/RS.</REFERENCE_NUMBER>
+<CPV_MAIN>
+<CPV_CODE CODE="72319000"/>
+</CPV_MAIN>
+<TYPE_CONTRACT CTYPE="SERVICES"/>
+<SHORT_DESCR>
+<P>Indkøb af en række geodata fra digitale overflademodeller, som kan anvendes til analyser og visualiseringer. Den digitale overflademodel forstås som en digital højdemodel, som omfatter »første overflade«-højder (f.eks. vegetation og menneskeskabte strukturer).</P>
+</SHORT_DESCR>
+<VAL_TOTAL CURRENCY="EUR">250000</VAL_TOTAL>
+<NO_LOT_DIVISION/>
+<OBJECT_DESCR ITEM="1">
+<NUTS CODE="PL127"/>
+<MAIN_SITE>
+<P>fjernarbejde og Frontex' hovedkvarter.</P>
+</MAIN_SITE>
+<SHORT_DESCR>
+<P>Indkøb af en række geodata fra digitale overflademodeller, som kan anvendes til analyser og visualiseringer.</P>
+</SHORT_DESCR>
+<AC_QUALITY>
+<AC_CRITERION>Den digitale overflademodels opløsning</AC_CRITERION>
+<AC_WEIGHTING>20</AC_WEIGHTING>
+</AC_QUALITY>
+<AC_QUALITY>
+<AC_CRITERION>Den digitale overflademodels alder</AC_CRITERION>
+<AC_WEIGHTING>20</AC_WEIGHTING>
+</AC_QUALITY>
+<AC_PRICE>
+<AC_WEIGHTING>40/60</AC_WEIGHTING>
+</AC_PRICE>
+<NO_OPTIONS/>
+<NO_EU_PROGR_RELATED/>
+</OBJECT_DESCR>
+</OBJECT_CONTRACT>
+<PROCEDURE>
+<PT_OPEN/>
+<ACCELERATED_PROC>
+<P>Den resultatløse udbudsprocedure for det pågældende emne og det øgede migrationspres har ført til et behov for en hasteprocedure, så Frontex kan stille de mest avancerede værktøjer til rådighed til de medlemsstater, som ligger i frontlinjen, for at støtte deres overvågningsaktiviteter.</P>
+</ACCELERATED_PROC>
+<NO_CONTRACT_COVERED_GPA/>
+<NOTICE_NUMBER_OJ>2016/S 190-339985</NOTICE_NUMBER_OJ>
+</PROCEDURE>
+<AWARD_CONTRACT ITEM="1">
+<CONTRACT_NO>Frontex OP/625/2016/RS</CONTRACT_NO>
+<TITLE>
+<P>Indkøb af den digitale overflademodel langs EU's grænser</P>
+</TITLE>
+<AWARDED_CONTRACT>
+<DATE_CONCLUSION_CONTRACT>2016-12-30</DATE_CONCLUSION_CONTRACT>
+<NB_TENDERS_RECEIVED>3</NB_TENDERS_RECEIVED>
+<NB_TENDERS_RECEIVED_OTHER_EU>2</NB_TENDERS_RECEIVED_OTHER_EU>
+<NO_AWARDED_TO_GROUP/>
+<CONTRACTOR>
+<ADDRESS_CONTRACTOR>
+<OFFICIALNAME>GAF AG</OFFICIALNAME>
+<NATIONALID>DE 129 357 5612</NATIONALID>
+<ADDRESS>Arnulfstraße 199</ADDRESS>
+<TOWN>München</TOWN>
+<POSTAL_CODE>80634</POSTAL_CODE>
+<COUNTRY VALUE="DE"/>
+<NUTS CODE="DE"/>
+</ADDRESS_CONTRACTOR>
+<NO_SME/>
+</CONTRACTOR>
+<VAL_ESTIMATED_TOTAL CURRENCY="EUR">250000</VAL_ESTIMATED_TOTAL>
+<VAL_TOTAL CURRENCY="EUR">228600</VAL_TOTAL>
+</AWARDED_CONTRACT>
+</AWARD_CONTRACT>
+<COMPLEMENTARY_INFO>
+<ADDRESS_REVIEW_BODY>
+<OFFICIALNAME>Retten</OFFICIALNAME>
+<ADDRESS>rue du Fort Niedergrünewald</ADDRESS>
+<TOWN>Luxembourg</TOWN>
+<POSTAL_CODE>2925</POSTAL_CODE>
+<COUNTRY VALUE="LU"/>
+<PHONE>+352 4303-1</PHONE>
+<FAX>+352 4303-2100</FAX>
+<URL>http://curia.europa.eu</URL>
+</ADDRESS_REVIEW_BODY>
+<DATE_DISPATCH_NOTICE>2017-01-12</DATE_DISPATCH_NOTICE>
+</COMPLEMENTARY_INFO>
+</F03_2014>
+<F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="DE">
+<CONTRACTING_BODY>
+<ADDRESS_CONTRACTING_BODY>
+<OFFICIALNAME>Frontex</OFFICIALNAME>
+<ADDRESS>Plac Europejski 6</ADDRESS>
+<TOWN>Warsaw</TOWN>
+<POSTAL_CODE>00-844</POSTAL_CODE>
+<COUNTRY VALUE="PL"/>
+<PHONE>+48 222059500</PHONE>
+<E_MAIL>procurement@frontex.europa.eu</E_MAIL>
+<FAX>+48 222059501</FAX>
+<NUTS CODE="PL127"/>
+<URL_GENERAL>http://www.frontex.europa.eu</URL_GENERAL>
+</ADDRESS_CONTRACTING_BODY>
+<CA_TYPE VALUE="EU_INSTITUTION"/>
+<CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+</CONTRACTING_BODY>
+<OBJECT_CONTRACT>
+<TITLE>
+<P>Beschaffung des digitalen Oberflächenmodells entlang der EU-Grenzen.</P>
+</TITLE>
+<REFERENCE_NUMBER>Frontex OP/625/2016/RS.</REFERENCE_NUMBER>
+<CPV_MAIN>
+<CPV_CODE CODE="72319000"/>
+</CPV_MAIN>
+<TYPE_CONTRACT CTYPE="SERVICES"/>
+<SHORT_DESCR>
+<P>Beschaffung einer Reihe von Raumdaten zum digitalen Oberflächenmodell (Digital Surface Model — DSM), die zu Analysezwecken und für Visualisierungen verwendet werden können. Das digitale Oberflächenmodell (DSM) ist als digitales Höhenmodell zu verstehen, das Höhenpunkte der „primären Oberfläche“ (z. B. Vegetation und vom Menschen geschaffene Bauwerke) umfasst.</P>
+</SHORT_DESCR>
+<VAL_TOTAL CURRENCY="EUR">250000</VAL_TOTAL>
+<NO_LOT_DIVISION/>
+<OBJECT_DESCR ITEM="1">
+<NUTS CODE="PL127"/>
+<MAIN_SITE>
+<P>externe Dienstleistungen und Hauptsitz von Frontex.</P>
+</MAIN_SITE>
+<SHORT_DESCR>
+<P>Beschaffung einer Reihe von Raumdaten zum digitalen Oberflächenmodell (Digital Surface Model — DSM), die zu Analysezwecken und für Visualisierungen verwendet werden können.</P>
+</SHORT_DESCR>
+<AC_QUALITY>
+<AC_CRITERION>DSM-Auflösung</AC_CRITERION>
+<AC_WEIGHTING>20</AC_WEIGHTING>
+</AC_QUALITY>
+<AC_QUALITY>
+<AC_CRITERION>DSM-Alter</AC_CRITERION>
+<AC_WEIGHTING>20</AC_WEIGHTING>
+</AC_QUALITY>
+<AC_PRICE>
+<AC_WEIGHTING>40/60</AC_WEIGHTING>
+</AC_PRICE>
+<NO_OPTIONS/>
+<NO_EU_PROGR_RELATED/>
+</OBJECT_DESCR>
+</OBJECT_CONTRACT>
+<PROCEDURE>
+<PT_OPEN/>
+<ACCELERATED_PROC>
+<P>Das ergebnislose Ausschreibungsverfahren für den betreffenden Auftragsgegenstand und der zunehmende Migrationsdruck haben dazu geführt, dass ein beschleunigtes Verfahren erforderlich wurde, damit Frontex den Mitgliedstaaten an den Außengrenzen moderne Instrumente zur Unterstützung der Überwachungsmaßnahmen zur Verfügung stellen kann.</P>
+</ACCELERATED_PROC>
+<NO_CONTRACT_COVERED_GPA/>
+<NOTICE_NUMBER_OJ>2016/S 190-339985</NOTICE_NUMBER_OJ>
+</PROCEDURE>
+<AWARD_CONTRACT ITEM="1">
+<CONTRACT_NO>Frontex OP/625/2016/RS</CONTRACT_NO>
+<TITLE>
+<P>Beschaffung des digitalen Oberflächenmodells entlang der EU-Grenzen</P>
+</TITLE>
+<AWARDED_CONTRACT>
+<DATE_CONCLUSION_CONTRACT>2016-12-30</DATE_CONCLUSION_CONTRACT>
+<NB_TENDERS_RECEIVED>3</NB_TENDERS_RECEIVED>
+<NB_TENDERS_RECEIVED_OTHER_EU>2</NB_TENDERS_RECEIVED_OTHER_EU>
+<NO_AWARDED_TO_GROUP/>
+<CONTRACTOR>
+<ADDRESS_CONTRACTOR>
+<OFFICIALNAME>GAF AG</OFFICIALNAME>
+<NATIONALID>DE 129 357 5612</NATIONALID>
+<ADDRESS>Arnulfstraße 199</ADDRESS>
+<TOWN>München</TOWN>
+<POSTAL_CODE>80634</POSTAL_CODE>
+<COUNTRY VALUE="DE"/>
+<NUTS CODE="DE"/>
+</ADDRESS_CONTRACTOR>
+<NO_SME/>
+</CONTRACTOR>
+<VAL_ESTIMATED_TOTAL CURRENCY="EUR">250000</VAL_ESTIMATED_TOTAL>
+<VAL_TOTAL CURRENCY="EUR">228600</VAL_TOTAL>
+</AWARDED_CONTRACT>
+</AWARD_CONTRACT>
+<COMPLEMENTARY_INFO>
+<ADDRESS_REVIEW_BODY>
+<OFFICIALNAME>Gericht der Europäischen Union</OFFICIALNAME>
+<ADDRESS>rue du Fort Niedergrünewald</ADDRESS>
+<TOWN>Luxembourg</TOWN>
+<POSTAL_CODE>2925</POSTAL_CODE>
+<COUNTRY VALUE="LU"/>
+<PHONE>+352 4303-1</PHONE>
+<FAX>+352 4303-2100</FAX>
+<URL>http://curia.europa.eu</URL>
+</ADDRESS_REVIEW_BODY>
+<DATE_DISPATCH_NOTICE>2017-01-12</DATE_DISPATCH_NOTICE>
+</COMPLEMENTARY_INFO>
+</F03_2014>
+<F03_2014 CATEGORY="ORIGINAL" FORM="F03" LG="EN">
+<CONTRACTING_BODY>
+<ADDRESS_CONTRACTING_BODY>
+<OFFICIALNAME>Frontex</OFFICIALNAME>
+<ADDRESS>Plac Europejski 6</ADDRESS>
+<TOWN>Warsaw</TOWN>
+<POSTAL_CODE>00-844</POSTAL_CODE>
+<COUNTRY VALUE="PL"/>
+<PHONE>+48 222059500</PHONE>
+<E_MAIL>procurement@frontex.europa.eu</E_MAIL>
+<FAX>+48 222059501</FAX>
+<NUTS CODE="PL127"/>
+<URL_GENERAL>http://www.frontex.europa.eu</URL_GENERAL>
+</ADDRESS_CONTRACTING_BODY>
+<CA_TYPE VALUE="EU_INSTITUTION"/>
+<CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+</CONTRACTING_BODY>
+<OBJECT_CONTRACT>
+<TITLE>
+<P>Purchase of the digital surface model along the EU borders.</P>
+</TITLE>
+<REFERENCE_NUMBER>Frontex OP/625/2016/RS.</REFERENCE_NUMBER>
+<CPV_MAIN>
+<CPV_CODE CODE="72319000"/>
+</CPV_MAIN>
+<TYPE_CONTRACT CTYPE="SERVICES"/>
+<SHORT_DESCR>
+<P>Purchase of a set of digital surface model (DSM) spatial data which can be used for analyses and visualisations. The digital surface model (DSM) is understood as a digital elevation model which includes ‘first surface’ elevations (e.g. vegetation and man-made structures).</P>
+</SHORT_DESCR>
+<VAL_TOTAL CURRENCY="EUR">250000</VAL_TOTAL>
+<NO_LOT_DIVISION/>
+<OBJECT_DESCR ITEM="1">
+<NUTS CODE="PL127"/>
+<MAIN_SITE>
+<P>Remote services and Frontex HQ.</P>
+</MAIN_SITE>
+<SHORT_DESCR>
+<P>Purchase of a set of digital surface model (DSM) spatial data which can be used for analyses and visualisations.</P>
+</SHORT_DESCR>
+<AC_QUALITY>
+<AC_CRITERION>DSM resolution</AC_CRITERION>
+<AC_WEIGHTING>20</AC_WEIGHTING>
+</AC_QUALITY>
+<AC_QUALITY>
+<AC_CRITERION>DSM age</AC_CRITERION>
+<AC_WEIGHTING>20</AC_WEIGHTING>
+</AC_QUALITY>
+<AC_PRICE>
+<AC_WEIGHTING>40/60</AC_WEIGHTING>
+</AC_PRICE>
+<NO_OPTIONS/>
+<NO_EU_PROGR_RELATED/>
+</OBJECT_DESCR>
+</OBJECT_CONTRACT>
+<PROCEDURE>
+<PT_OPEN/>
+<ACCELERATED_PROC>
+<P>Unsuccessful tendering procedure for the subject in question and the increased migratory pressure led to the need for the accelerated procedure so that Frontex could provide to the frontline Member States state-of-the-art tools to support their monitoring activities.</P>
+</ACCELERATED_PROC>
+<NO_CONTRACT_COVERED_GPA/>
+<NOTICE_NUMBER_OJ>2016/S 190-339985</NOTICE_NUMBER_OJ>
+</PROCEDURE>
+<AWARD_CONTRACT ITEM="1">
+<CONTRACT_NO>Frontex OP/625/2016/RS</CONTRACT_NO>
+<TITLE>
+<P>Purchase of the digital surface model along the EU borders</P>
+</TITLE>
+<AWARDED_CONTRACT>
+<DATE_CONCLUSION_CONTRACT>2016-12-30</DATE_CONCLUSION_CONTRACT>
+<NB_TENDERS_RECEIVED>3</NB_TENDERS_RECEIVED>
+<NB_TENDERS_RECEIVED_OTHER_EU>2</NB_TENDERS_RECEIVED_OTHER_EU>
+<NO_AWARDED_TO_GROUP/>
+<CONTRACTOR>
+<ADDRESS_CONTRACTOR>
+<OFFICIALNAME>GAF AG</OFFICIALNAME>
+<NATIONALID>DE 129 357 5612</NATIONALID>
+<ADDRESS>Arnulfstraße 199</ADDRESS>
+<TOWN>München</TOWN>
+<POSTAL_CODE>80634</POSTAL_CODE>
+<COUNTRY VALUE="DE"/>
+<NUTS CODE="DE"/>
+</ADDRESS_CONTRACTOR>
+<NO_SME/>
+</CONTRACTOR>
+<VAL_ESTIMATED_TOTAL CURRENCY="EUR">250000</VAL_ESTIMATED_TOTAL>
+<VAL_TOTAL CURRENCY="EUR">228600</VAL_TOTAL>
+</AWARDED_CONTRACT>
+</AWARD_CONTRACT>
+<COMPLEMENTARY_INFO>
+<ADDRESS_REVIEW_BODY>
+<OFFICIALNAME>General Court</OFFICIALNAME>
+<ADDRESS>rue du Fort Niedergrünewald</ADDRESS>
+<TOWN>Luxembourg</TOWN>
+<POSTAL_CODE>2925</POSTAL_CODE>
+<COUNTRY VALUE="LU"/>
+<PHONE>+352 4303-1</PHONE>
+<FAX>+352 4303-2100</FAX>
+<URL>http://curia.europa.eu</URL>
+</ADDRESS_REVIEW_BODY>
+<DATE_DISPATCH_NOTICE>2017-01-12</DATE_DISPATCH_NOTICE>
+</COMPLEMENTARY_INFO>
+</F03_2014>
+<F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="ES">
+<CONTRACTING_BODY>
+<ADDRESS_CONTRACTING_BODY>
+<OFFICIALNAME>Frontex</OFFICIALNAME>
+<ADDRESS>Plac Europejski 6</ADDRESS>
+<TOWN>Warsaw</TOWN>
+<POSTAL_CODE>00-844</POSTAL_CODE>
+<COUNTRY VALUE="PL"/>
+<PHONE>+48 222059500</PHONE>
+<E_MAIL>procurement@frontex.europa.eu</E_MAIL>
+<FAX>+48 222059501</FAX>
+<NUTS CODE="PL127"/>
+<URL_GENERAL>http://www.frontex.europa.eu</URL_GENERAL>
+</ADDRESS_CONTRACTING_BODY>
+<CA_TYPE VALUE="EU_INSTITUTION"/>
+<CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+</CONTRACTING_BODY>
+<OBJECT_CONTRACT>
+<TITLE>
+<P>Adquisición del modelo digital de superficies a lo largo de las fronteras de la Unión Europea.</P>
+</TITLE>
+<REFERENCE_NUMBER>Frontex OP/625/2016/RS.</REFERENCE_NUMBER>
+<CPV_MAIN>
+<CPV_CODE CODE="72319000"/>
+</CPV_MAIN>
+<TYPE_CONTRACT CTYPE="SERVICES"/>
+<SHORT_DESCR>
+<P>Adquisición de un conjunto de datos espaciales del modelo digital de superficies que podrá utilizarse para los análisis y las visualizaciones. El modelo digital de superficies se entiende como un modelo digital de elevaciones que incluye elevaciones «de primera superficie» (por ejemplo, vegetación y estructuras artificiales).</P>
+</SHORT_DESCR>
+<VAL_TOTAL CURRENCY="EUR">250000</VAL_TOTAL>
+<NO_LOT_DIVISION/>
+<OBJECT_DESCR ITEM="1">
+<NUTS CODE="PL127"/>
+<MAIN_SITE>
+<P>Servicios remotos y sede de Frontex.</P>
+</MAIN_SITE>
+<SHORT_DESCR>
+<P>Adquisición de un conjunto de datos espaciales del modelo digital de superficies que podrá utilizarse para los análisis y las visualizaciones.</P>
+</SHORT_DESCR>
+<AC_QUALITY>
+<AC_CRITERION>resolución del MDS</AC_CRITERION>
+<AC_WEIGHTING>20</AC_WEIGHTING>
+</AC_QUALITY>
+<AC_QUALITY>
+<AC_CRITERION>antigüedad del MDS</AC_CRITERION>
+<AC_WEIGHTING>20</AC_WEIGHTING>
+</AC_QUALITY>
+<AC_PRICE>
+<AC_WEIGHTING>40/60</AC_WEIGHTING>
+</AC_PRICE>
+<NO_OPTIONS/>
+<NO_EU_PROGR_RELATED/>
+</OBJECT_DESCR>
+</OBJECT_CONTRACT>
+<PROCEDURE>
+<PT_OPEN/>
+<ACCELERATED_PROC>
+<P>Un procedimiento de licitación infructuoso para el tema en cuestión y el aumento de la presión migratoria han llevado a la necesidad de acelerar el procedimiento, a fin de que Frontex pudiera proporcionar a los Estados miembros de primera línea los instrumentos más actuales en apoyo a sus actividades de vigilancia.</P>
+</ACCELERATED_PROC>
+<NO_CONTRACT_COVERED_GPA/>
+<NOTICE_NUMBER_OJ>2016/S 190-339985</NOTICE_NUMBER_OJ>
+</PROCEDURE>
+<AWARD_CONTRACT ITEM="1">
+<CONTRACT_NO>Frontex OP/625/2016/RS</CONTRACT_NO>
+<TITLE>
+<P>Adquisición del modelo digital de superficies a lo largo de las fronteras de la Unión Europea</P>
+</TITLE>
+<AWARDED_CONTRACT>
+<DATE_CONCLUSION_CONTRACT>2016-12-30</DATE_CONCLUSION_CONTRACT>
+<NB_TENDERS_RECEIVED>3</NB_TENDERS_RECEIVED>
+<NB_TENDERS_RECEIVED_OTHER_EU>2</NB_TENDERS_RECEIVED_OTHER_EU>
+<NO_AWARDED_TO_GROUP/>
+<CONTRACTOR>
+<ADDRESS_CONTRACTOR>
+<OFFICIALNAME>GAF AG</OFFICIALNAME>
+<NATIONALID>DE 129 357 5612</NATIONALID>
+<ADDRESS>Arnulfstraße 199</ADDRESS>
+<TOWN>München</TOWN>
+<POSTAL_CODE>80634</POSTAL_CODE>
+<COUNTRY VALUE="DE"/>
+<NUTS CODE="DE"/>
+</ADDRESS_CONTRACTOR>
+<NO_SME/>
+</CONTRACTOR>
+<VAL_ESTIMATED_TOTAL CURRENCY="EUR">250000</VAL_ESTIMATED_TOTAL>
+<VAL_TOTAL CURRENCY="EUR">228600</VAL_TOTAL>
+</AWARDED_CONTRACT>
+</AWARD_CONTRACT>
+<COMPLEMENTARY_INFO>
+<ADDRESS_REVIEW_BODY>
+<OFFICIALNAME>Tribunal General</OFFICIALNAME>
+<ADDRESS>rue du Fort Niedergrünewald</ADDRESS>
+<TOWN>Luxembourg</TOWN>
+<POSTAL_CODE>2925</POSTAL_CODE>
+<COUNTRY VALUE="LU"/>
+<PHONE>+352 4303-1</PHONE>
+<FAX>+352 4303-2100</FAX>
+<URL>http://curia.europa.eu</URL>
+</ADDRESS_REVIEW_BODY>
+<DATE_DISPATCH_NOTICE>2017-01-12</DATE_DISPATCH_NOTICE>
+</COMPLEMENTARY_INFO>
+</F03_2014>
+<F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="FI">
+<CONTRACTING_BODY>
+<ADDRESS_CONTRACTING_BODY>
+<OFFICIALNAME>Frontex</OFFICIALNAME>
+<ADDRESS>Plac Europejski 6</ADDRESS>
+<TOWN>Warsaw</TOWN>
+<POSTAL_CODE>00-844</POSTAL_CODE>
+<COUNTRY VALUE="PL"/>
+<PHONE>+48 222059500</PHONE>
+<E_MAIL>procurement@frontex.europa.eu</E_MAIL>
+<FAX>+48 222059501</FAX>
+<NUTS CODE="PL127"/>
+<URL_GENERAL>http://www.frontex.europa.eu</URL_GENERAL>
+</ADDRESS_CONTRACTING_BODY>
+<CA_TYPE VALUE="EU_INSTITUTION"/>
+<CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+</CONTRACTING_BODY>
+<OBJECT_CONTRACT>
+<TITLE>
+<P>EU:n rajojen digitaalisen pintamallin hankinta</P>
+</TITLE>
+<REFERENCE_NUMBER>Frontex OP/625/2016/RS.</REFERENCE_NUMBER>
+<CPV_MAIN>
+<CPV_CODE CODE="72319000"/>
+</CPV_MAIN>
+<TYPE_CONTRACT CTYPE="SERVICES"/>
+<SHORT_DESCR>
+<P>Hankinnan kohteena on joukko digitaalisia pintamalleja (digital surface model – DSM) koskevia paikkatietoja, joita voidaan käyttää analyyseihin ja visualisointeihin. Digitaalisella pintamallilla (DSM) tarkoitetaan digitaalista maastomallia, johon sisältyvät ensisijaiset pinnankorkeudet (esimerkiksi kasvillisuus ja ihmisen tekemät rakenteet).</P>
+</SHORT_DESCR>
+<VAL_TOTAL CURRENCY="EUR">250000</VAL_TOTAL>
+<NO_LOT_DIVISION/>
+<OBJECT_DESCR ITEM="1">
+<NUTS CODE="PL127"/>
+<MAIN_SITE>
+<P>etäpalvelut ja Frontexin päätoimipaikka.</P>
+</MAIN_SITE>
+<SHORT_DESCR>
+<P>Hankinnan kohteena on joukko digitaalisia pintamalleja (DSM) koskevia paikkatietoja, joita voidaan käyttää analyyseihin ja visualisointeihin.</P>
+</SHORT_DESCR>
+<AC_QUALITY>
+<AC_CRITERION>digitaalisen pintamallin resoluutio</AC_CRITERION>
+<AC_WEIGHTING>20</AC_WEIGHTING>
+</AC_QUALITY>
+<AC_QUALITY>
+<AC_CRITERION>digitaalisen pintamallin ikä</AC_CRITERION>
+<AC_WEIGHTING>20</AC_WEIGHTING>
+</AC_QUALITY>
+<AC_PRICE>
+<AC_WEIGHTING>40/60</AC_WEIGHTING>
+</AC_PRICE>
+<NO_OPTIONS/>
+<NO_EU_PROGR_RELATED/>
+</OBJECT_DESCR>
+</OBJECT_CONTRACT>
+<PROCEDURE>
+<PT_OPEN/>
+<ACCELERATED_PROC>
+<P>Tulokseton tarjousmenettely tämän kohteen osalta ja kasvanut muuttopaine johtivat nopeutetun menettelyn tarpeeseen. Nopeutetun menettelyn avulla Frontex voi tarjota etulinjan jäsenvaltioille viimeisimmän kehityksen mukaiset välineet, joilla tuetaan niiden seurantatoimia.</P>
+</ACCELERATED_PROC>
+<NO_CONTRACT_COVERED_GPA/>
+<NOTICE_NUMBER_OJ>2016/S 190-339985</NOTICE_NUMBER_OJ>
+</PROCEDURE>
+<AWARD_CONTRACT ITEM="1">
+<CONTRACT_NO>Frontex OP/625/2016/RS</CONTRACT_NO>
+<TITLE>
+<P>EU:n rajojen digitaalisen pintamallin hankinta</P>
+</TITLE>
+<AWARDED_CONTRACT>
+<DATE_CONCLUSION_CONTRACT>2016-12-30</DATE_CONCLUSION_CONTRACT>
+<NB_TENDERS_RECEIVED>3</NB_TENDERS_RECEIVED>
+<NB_TENDERS_RECEIVED_OTHER_EU>2</NB_TENDERS_RECEIVED_OTHER_EU>
+<NO_AWARDED_TO_GROUP/>
+<CONTRACTOR>
+<ADDRESS_CONTRACTOR>
+<OFFICIALNAME>GAF AG</OFFICIALNAME>
+<NATIONALID>DE 129 357 5612</NATIONALID>
+<ADDRESS>Arnulfstraße 199</ADDRESS>
+<TOWN>München</TOWN>
+<POSTAL_CODE>80634</POSTAL_CODE>
+<COUNTRY VALUE="DE"/>
+<NUTS CODE="DE"/>
+</ADDRESS_CONTRACTOR>
+<NO_SME/>
+</CONTRACTOR>
+<VAL_ESTIMATED_TOTAL CURRENCY="EUR">250000</VAL_ESTIMATED_TOTAL>
+<VAL_TOTAL CURRENCY="EUR">228600</VAL_TOTAL>
+</AWARDED_CONTRACT>
+</AWARD_CONTRACT>
+<COMPLEMENTARY_INFO>
+<ADDRESS_REVIEW_BODY>
+<OFFICIALNAME>Unionin yleinen tuomioistuin</OFFICIALNAME>
+<ADDRESS>rue du Fort Niedergrünewald</ADDRESS>
+<TOWN>Luxembourg</TOWN>
+<POSTAL_CODE>2925</POSTAL_CODE>
+<COUNTRY VALUE="LU"/>
+<PHONE>+352 4303-1</PHONE>
+<FAX>+352 4303-2100</FAX>
+<URL>http://curia.europa.eu</URL>
+</ADDRESS_REVIEW_BODY>
+<DATE_DISPATCH_NOTICE>2017-01-12</DATE_DISPATCH_NOTICE>
+</COMPLEMENTARY_INFO>
+</F03_2014>
+<F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="FR">
+<CONTRACTING_BODY>
+<ADDRESS_CONTRACTING_BODY>
+<OFFICIALNAME>Frontex</OFFICIALNAME>
+<ADDRESS>Plac Europejski 6</ADDRESS>
+<TOWN>Warsaw</TOWN>
+<POSTAL_CODE>00-844</POSTAL_CODE>
+<COUNTRY VALUE="PL"/>
+<PHONE>+48 222059500</PHONE>
+<E_MAIL>procurement@frontex.europa.eu</E_MAIL>
+<FAX>+48 222059501</FAX>
+<NUTS CODE="PL127"/>
+<URL_GENERAL>http://www.frontex.europa.eu</URL_GENERAL>
+</ADDRESS_CONTRACTING_BODY>
+<CA_TYPE VALUE="EU_INSTITUTION"/>
+<CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+</CONTRACTING_BODY>
+<OBJECT_CONTRACT>
+<TITLE>
+<P>Acquisition du modèle numérique de surface des zones situées le long des frontières de l'UE.</P>
+</TITLE>
+<REFERENCE_NUMBER>Frontex OP/625/2016/RS.</REFERENCE_NUMBER>
+<CPV_MAIN>
+<CPV_CODE CODE="72319000"/>
+</CPV_MAIN>
+<TYPE_CONTRACT CTYPE="SERVICES"/>
+<SHORT_DESCR>
+<P>Acquisition d'un ensemble de données spatiales (modèle numérique de surface) pouvant être utilisé pour des analyses et des représentations. Le modèle numérique de surface est un modèle numérique de terrain qui comprend les élévations de la surface visible (par exemple la végétation et les structures artificielles).</P>
+</SHORT_DESCR>
+<VAL_TOTAL CURRENCY="EUR">250000</VAL_TOTAL>
+<NO_LOT_DIVISION/>
+<OBJECT_DESCR ITEM="1">
+<NUTS CODE="PL127"/>
+<MAIN_SITE>
+<P>services à distance et siège de Frontex.</P>
+</MAIN_SITE>
+<SHORT_DESCR>
+<P>Acquisition d'un ensemble de données spatiales (modèle numérique de surface) pouvant être utilisé pour des analyses et des représentations.</P>
+</SHORT_DESCR>
+<AC_QUALITY>
+<AC_CRITERION>résolution du modèle numérique de surface</AC_CRITERION>
+<AC_WEIGHTING>20</AC_WEIGHTING>
+</AC_QUALITY>
+<AC_QUALITY>
+<AC_CRITERION>âge du modèle numérique de surface</AC_CRITERION>
+<AC_WEIGHTING>20</AC_WEIGHTING>
+</AC_QUALITY>
+<AC_PRICE>
+<AC_WEIGHTING>40/60</AC_WEIGHTING>
+</AC_PRICE>
+<NO_OPTIONS/>
+<NO_EU_PROGR_RELATED/>
+</OBJECT_DESCR>
+</OBJECT_CONTRACT>
+<PROCEDURE>
+<PT_OPEN/>
+<ACCELERATED_PROC>
+<P>Une procédure d'appel d'offres relative au marché en objet a été infructueuse, et l'augmentation de la pression migratoire a rendu nécessaire le recours à la procédure accélérée afin que Frontex puisse fournir aux États membres situés le long des frontières de l'UE des outils de pointe permettant de soutenir leurs activités de surveillance.</P>
+</ACCELERATED_PROC>
+<NO_CONTRACT_COVERED_GPA/>
+<NOTICE_NUMBER_OJ>2016/S 190-339985</NOTICE_NUMBER_OJ>
+</PROCEDURE>
+<AWARD_CONTRACT ITEM="1">
+<CONTRACT_NO>Frontex OP/625/2016/RS</CONTRACT_NO>
+<TITLE>
+<P>Acquisition du modèle numérique de surface des zones situées le long des frontières de l'UE</P>
+</TITLE>
+<AWARDED_CONTRACT>
+<DATE_CONCLUSION_CONTRACT>2016-12-30</DATE_CONCLUSION_CONTRACT>
+<NB_TENDERS_RECEIVED>3</NB_TENDERS_RECEIVED>
+<NB_TENDERS_RECEIVED_OTHER_EU>2</NB_TENDERS_RECEIVED_OTHER_EU>
+<NO_AWARDED_TO_GROUP/>
+<CONTRACTOR>
+<ADDRESS_CONTRACTOR>
+<OFFICIALNAME>GAF AG</OFFICIALNAME>
+<NATIONALID>DE 129 357 5612</NATIONALID>
+<ADDRESS>Arnulfstraße 199</ADDRESS>
+<TOWN>München</TOWN>
+<POSTAL_CODE>80634</POSTAL_CODE>
+<COUNTRY VALUE="DE"/>
+<NUTS CODE="DE"/>
+</ADDRESS_CONTRACTOR>
+<NO_SME/>
+</CONTRACTOR>
+<VAL_ESTIMATED_TOTAL CURRENCY="EUR">250000</VAL_ESTIMATED_TOTAL>
+<VAL_TOTAL CURRENCY="EUR">228600</VAL_TOTAL>
+</AWARDED_CONTRACT>
+</AWARD_CONTRACT>
+<COMPLEMENTARY_INFO>
+<ADDRESS_REVIEW_BODY>
+<OFFICIALNAME>Tribunal</OFFICIALNAME>
+<ADDRESS>rue du Fort Niedergrünewald</ADDRESS>
+<TOWN>Luxembourg</TOWN>
+<POSTAL_CODE>2925</POSTAL_CODE>
+<COUNTRY VALUE="LU"/>
+<PHONE>+352 4303-1</PHONE>
+<FAX>+352 4303-2100</FAX>
+<URL>http://curia.europa.eu</URL>
+</ADDRESS_REVIEW_BODY>
+<DATE_DISPATCH_NOTICE>2017-01-12</DATE_DISPATCH_NOTICE>
+</COMPLEMENTARY_INFO>
+</F03_2014>
+<F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="EL">
+<CONTRACTING_BODY>
+<ADDRESS_CONTRACTING_BODY>
+<OFFICIALNAME>Frontex</OFFICIALNAME>
+<ADDRESS>Plac Europejski 6</ADDRESS>
+<TOWN>Warsaw</TOWN>
+<POSTAL_CODE>00-844</POSTAL_CODE>
+<COUNTRY VALUE="PL"/>
+<PHONE>+48 222059500</PHONE>
+<E_MAIL>procurement@frontex.europa.eu</E_MAIL>
+<FAX>+48 222059501</FAX>
+<NUTS CODE="PL127"/>
+<URL_GENERAL>http://www.frontex.europa.eu</URL_GENERAL>
+</ADDRESS_CONTRACTING_BODY>
+<CA_TYPE VALUE="EU_INSTITUTION"/>
+<CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+</CONTRACTING_BODY>
+<OBJECT_CONTRACT>
+<TITLE>
+<P>Αγορά του ψηφιακού μοντέλου επιφάνειας κατά μήκος των συνόρων της ΕΕ.</P>
+</TITLE>
+<REFERENCE_NUMBER>Frontex OP/625/2016/RS.</REFERENCE_NUMBER>
+<CPV_MAIN>
+<CPV_CODE CODE="72319000"/>
+</CPV_MAIN>
+<TYPE_CONTRACT CTYPE="SERVICES"/>
+<SHORT_DESCR>
+<P>Αγορά ενός συνόλου χωρικών δεδομένων ψηφιακού μοντέλου επιφάνειας (DSM) που μπορούν να χρησιμοποιηθούν για αναλύσεις και οπτικοποιήσεις. Ως ψηφιακό μοντέλο επιφάνειας (DSM) νοείται ένα ψηφιακό υψομετρικό μοντέλο το οποίο περιλαμβάνει υπερυψώσεις «πρώτης επιφάνειας» (π.χ. βλάστηση και ανθρωπογενείς δομές).</P>
+</SHORT_DESCR>
+<VAL_TOTAL CURRENCY="EUR">250000</VAL_TOTAL>
+<NO_LOT_DIVISION/>
+<OBJECT_DESCR ITEM="1">
+<NUTS CODE="PL127"/>
+<MAIN_SITE>
+<P>Υπηρεσίες εξ αποστάσεως και στα κεντρικά γραφεία του Frontex.</P>
+</MAIN_SITE>
+<SHORT_DESCR>
+<P>Αγορά ενός συνόλου χωρικών δεδομένων ψηφιακού μοντέλου επιφάνειας (DSM) που μπορούν να χρησιμοποιηθούν για αναλύσεις και οπτικοποιήσεις.</P>
+</SHORT_DESCR>
+<AC_QUALITY>
+<AC_CRITERION>Ανάλυση του ψηφιακού μοντέλου επιφάνειας (DSM)</AC_CRITERION>
+<AC_WEIGHTING>20</AC_WEIGHTING>
+</AC_QUALITY>
+<AC_QUALITY>
+<AC_CRITERION>Ηλικία του ψηφιακού μοντέλου επιφάνειας (DSM)</AC_CRITERION>
+<AC_WEIGHTING>20</AC_WEIGHTING>
+</AC_QUALITY>
+<AC_PRICE>
+<AC_WEIGHTING>40/60</AC_WEIGHTING>
+</AC_PRICE>
+<NO_OPTIONS/>
+<NO_EU_PROGR_RELATED/>
+</OBJECT_DESCR>
+</OBJECT_CONTRACT>
+<PROCEDURE>
+<PT_OPEN/>
+<ACCELERATED_PROC>
+<P>Η ανεπιτυχής διαδικασία υποβολής προσφορών για το εν λόγω αντικείμενο και η αύξηση της μεταναστευτικής έντασης οδήγησαν στην αναγκαιότητα επισπευσμένης διαδικασίας έτσι ώστε ο Frontex να είναι σε θέση να παράσχει μέσα τελευταίας τεχνολογίας στα κράτη μέλη που βρίσκονται στην πρώτη γραμμή προς υποστήριξη των οικείων δραστηριοτήτων παρακολούθησης.</P>
+</ACCELERATED_PROC>
+<NO_CONTRACT_COVERED_GPA/>
+<NOTICE_NUMBER_OJ>2016/S 190-339985</NOTICE_NUMBER_OJ>
+</PROCEDURE>
+<AWARD_CONTRACT ITEM="1">
+<CONTRACT_NO>Frontex OP/625/2016/RS</CONTRACT_NO>
+<TITLE>
+<P>Αγορά του ψηφιακού μοντέλου επιφάνειας κατά μήκος των συνόρων της ΕΕ</P>
+</TITLE>
+<AWARDED_CONTRACT>
+<DATE_CONCLUSION_CONTRACT>2016-12-30</DATE_CONCLUSION_CONTRACT>
+<NB_TENDERS_RECEIVED>3</NB_TENDERS_RECEIVED>
+<NB_TENDERS_RECEIVED_OTHER_EU>2</NB_TENDERS_RECEIVED_OTHER_EU>
+<NO_AWARDED_TO_GROUP/>
+<CONTRACTOR>
+<ADDRESS_CONTRACTOR>
+<OFFICIALNAME>GAF AG</OFFICIALNAME>
+<NATIONALID>DE 129 357 5612</NATIONALID>
+<ADDRESS>Arnulfstraße 199</ADDRESS>
+<TOWN>München</TOWN>
+<POSTAL_CODE>80634</POSTAL_CODE>
+<COUNTRY VALUE="DE"/>
+<NUTS CODE="DE"/>
+</ADDRESS_CONTRACTOR>
+<NO_SME/>
+</CONTRACTOR>
+<VAL_ESTIMATED_TOTAL CURRENCY="EUR">250000</VAL_ESTIMATED_TOTAL>
+<VAL_TOTAL CURRENCY="EUR">228600</VAL_TOTAL>
+</AWARDED_CONTRACT>
+</AWARD_CONTRACT>
+<COMPLEMENTARY_INFO>
+<ADDRESS_REVIEW_BODY>
+<OFFICIALNAME>Γενικό Δικαστήριο</OFFICIALNAME>
+<ADDRESS>rue du Fort Niedergrünewald</ADDRESS>
+<TOWN>Luxembourg</TOWN>
+<POSTAL_CODE>2925</POSTAL_CODE>
+<COUNTRY VALUE="LU"/>
+<PHONE>+352 4303-1</PHONE>
+<FAX>+352 4303-2100</FAX>
+<URL>http://curia.europa.eu</URL>
+</ADDRESS_REVIEW_BODY>
+<DATE_DISPATCH_NOTICE>2017-01-12</DATE_DISPATCH_NOTICE>
+</COMPLEMENTARY_INFO>
+</F03_2014>
+<F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="IT">
+<CONTRACTING_BODY>
+<ADDRESS_CONTRACTING_BODY>
+<OFFICIALNAME>Frontex</OFFICIALNAME>
+<ADDRESS>Plac Europejski 6</ADDRESS>
+<TOWN>Warsaw</TOWN>
+<POSTAL_CODE>00-844</POSTAL_CODE>
+<COUNTRY VALUE="PL"/>
+<PHONE>+48 222059500</PHONE>
+<E_MAIL>procurement@frontex.europa.eu</E_MAIL>
+<FAX>+48 222059501</FAX>
+<NUTS CODE="PL127"/>
+<URL_GENERAL>http://www.frontex.europa.eu</URL_GENERAL>
+</ADDRESS_CONTRACTING_BODY>
+<CA_TYPE VALUE="EU_INSTITUTION"/>
+<CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+</CONTRACTING_BODY>
+<OBJECT_CONTRACT>
+<TITLE>
+<P>Acquisto del modello digitale di superficie lungo le frontiere dell'UE.</P>
+</TITLE>
+<REFERENCE_NUMBER>Frontex OP/625/2016/RS.</REFERENCE_NUMBER>
+<CPV_MAIN>
+<CPV_CODE CODE="72319000"/>
+</CPV_MAIN>
+<TYPE_CONTRACT CTYPE="SERVICES"/>
+<SHORT_DESCR>
+<P>Acquisto di un set di dati territoriali relativi al modello digitale di superficie (digital surface model, DSM) che può essere utilizzato per analisi e visualizzazioni. Per modello digitale di superficie (DSM) si intende un modello digitale di elevazione che comprende le elevazioni della «prima superficie» (ad es. vegetazione e strutture artificiali).</P>
+</SHORT_DESCR>
+<VAL_TOTAL CURRENCY="EUR">250000</VAL_TOTAL>
+<NO_LOT_DIVISION/>
+<OBJECT_DESCR ITEM="1">
+<NUTS CODE="PL127"/>
+<MAIN_SITE>
+<P>servizi a distanza e sede principale di Frontex.</P>
+</MAIN_SITE>
+<SHORT_DESCR>
+<P>Acquisto di un set di dati territoriali relativi al modello digitale di superficie (digital surface model, DSM) che può essere utilizzato per analisi e visualizzazioni.</P>
+</SHORT_DESCR>
+<AC_QUALITY>
+<AC_CRITERION>risoluzione DSM</AC_CRITERION>
+<AC_WEIGHTING>20</AC_WEIGHTING>
+</AC_QUALITY>
+<AC_QUALITY>
+<AC_CRITERION>età DSM</AC_CRITERION>
+<AC_WEIGHTING>20</AC_WEIGHTING>
+</AC_QUALITY>
+<AC_PRICE>
+<AC_WEIGHTING>40/60</AC_WEIGHTING>
+</AC_PRICE>
+<NO_OPTIONS/>
+<NO_EU_PROGR_RELATED/>
+</OBJECT_DESCR>
+</OBJECT_CONTRACT>
+<PROCEDURE>
+<PT_OPEN/>
+<ACCELERATED_PROC>
+<P>procedura di gara infruttuosa per il tema in discussione; inoltre l'aumento della pressione migratoria ha comportato la necessità della procedura accelerata in modo che Frontex possa fornire agli Stati membri in prima linea strumenti all'avanguardia a sostegno delle loro attività di controllo.</P>
+</ACCELERATED_PROC>
+<NO_CONTRACT_COVERED_GPA/>
+<NOTICE_NUMBER_OJ>2016/S 190-339985</NOTICE_NUMBER_OJ>
+</PROCEDURE>
+<AWARD_CONTRACT ITEM="1">
+<CONTRACT_NO>Frontex OP/625/2016/RS</CONTRACT_NO>
+<TITLE>
+<P>Acquisto del modello digitale di superficie lungo le frontiere dell'UE</P>
+</TITLE>
+<AWARDED_CONTRACT>
+<DATE_CONCLUSION_CONTRACT>2016-12-30</DATE_CONCLUSION_CONTRACT>
+<NB_TENDERS_RECEIVED>3</NB_TENDERS_RECEIVED>
+<NB_TENDERS_RECEIVED_OTHER_EU>2</NB_TENDERS_RECEIVED_OTHER_EU>
+<NO_AWARDED_TO_GROUP/>
+<CONTRACTOR>
+<ADDRESS_CONTRACTOR>
+<OFFICIALNAME>GAF AG</OFFICIALNAME>
+<NATIONALID>DE 129 357 5612</NATIONALID>
+<ADDRESS>Arnulfstraße 199</ADDRESS>
+<TOWN>München</TOWN>
+<POSTAL_CODE>80634</POSTAL_CODE>
+<COUNTRY VALUE="DE"/>
+<NUTS CODE="DE"/>
+</ADDRESS_CONTRACTOR>
+<NO_SME/>
+</CONTRACTOR>
+<VAL_ESTIMATED_TOTAL CURRENCY="EUR">250000</VAL_ESTIMATED_TOTAL>
+<VAL_TOTAL CURRENCY="EUR">228600</VAL_TOTAL>
+</AWARDED_CONTRACT>
+</AWARD_CONTRACT>
+<COMPLEMENTARY_INFO>
+<ADDRESS_REVIEW_BODY>
+<OFFICIALNAME>Tribunale</OFFICIALNAME>
+<ADDRESS>rue du Fort Niedergrünewald</ADDRESS>
+<TOWN>Luxembourg</TOWN>
+<POSTAL_CODE>2925</POSTAL_CODE>
+<COUNTRY VALUE="LU"/>
+<PHONE>+352 4303-1</PHONE>
+<FAX>+352 4303-2100</FAX>
+<URL>http://curia.europa.eu</URL>
+</ADDRESS_REVIEW_BODY>
+<DATE_DISPATCH_NOTICE>2017-01-12</DATE_DISPATCH_NOTICE>
+</COMPLEMENTARY_INFO>
+</F03_2014>
+<F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="NL">
+<CONTRACTING_BODY>
+<ADDRESS_CONTRACTING_BODY>
+<OFFICIALNAME>Frontex</OFFICIALNAME>
+<ADDRESS>Plac Europejski 6</ADDRESS>
+<TOWN>Warsaw</TOWN>
+<POSTAL_CODE>00-844</POSTAL_CODE>
+<COUNTRY VALUE="PL"/>
+<PHONE>+48 222059500</PHONE>
+<E_MAIL>procurement@frontex.europa.eu</E_MAIL>
+<FAX>+48 222059501</FAX>
+<NUTS CODE="PL127"/>
+<URL_GENERAL>http://www.frontex.europa.eu</URL_GENERAL>
+</ADDRESS_CONTRACTING_BODY>
+<CA_TYPE VALUE="EU_INSTITUTION"/>
+<CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+</CONTRACTING_BODY>
+<OBJECT_CONTRACT>
+<TITLE>
+<P>Aankoop van het digitale oppervlaktemodel langs de grenzen van de EU.</P>
+</TITLE>
+<REFERENCE_NUMBER>Frontex OP/625/2016/RS.</REFERENCE_NUMBER>
+<CPV_MAIN>
+<CPV_CODE CODE="72319000"/>
+</CPV_MAIN>
+<TYPE_CONTRACT CTYPE="SERVICES"/>
+<SHORT_DESCR>
+<P>Aankoop van een reeks ruimtelijke gegevens van digitale oppervlaktemodellen (DSM – digital surface models) die kunnen worden gebruikt voor analyses en visualisaties. Het digitale oppervlaktemodel moet worden gezien als een digitaal hoogtemodel dat alle hoogteverschillen op het aardoppervlak omvat (bijv. vegetatie en bouwwerken).</P>
+</SHORT_DESCR>
+<VAL_TOTAL CURRENCY="EUR">250000</VAL_TOTAL>
+<NO_LOT_DIVISION/>
+<OBJECT_DESCR ITEM="1">
+<NUTS CODE="PL127"/>
+<MAIN_SITE>
+<P>Diensten op afstand en het hoofdkantoor van Frontex.</P>
+</MAIN_SITE>
+<SHORT_DESCR>
+<P>Aankoop van een reeks ruimtelijke gegevens van digitale oppervlaktemodellen (DSM – digital surface models) die kunnen worden gebruikt voor analyses en visualisaties.</P>
+</SHORT_DESCR>
+<AC_QUALITY>
+<AC_CRITERION>DSM-resolutie</AC_CRITERION>
+<AC_WEIGHTING>20</AC_WEIGHTING>
+</AC_QUALITY>
+<AC_QUALITY>
+<AC_CRITERION>DSM-leeftijd</AC_CRITERION>
+<AC_WEIGHTING>20</AC_WEIGHTING>
+</AC_QUALITY>
+<AC_PRICE>
+<AC_WEIGHTING>40/60</AC_WEIGHTING>
+</AC_PRICE>
+<NO_OPTIONS/>
+<NO_EU_PROGR_RELATED/>
+</OBJECT_DESCR>
+</OBJECT_CONTRACT>
+<PROCEDURE>
+<PT_OPEN/>
+<ACCELERATED_PROC>
+<P>een aanbestedingsprocedure zonder resultaat voor het voorwerp in kwestie alsook toegenomen migratiedruk hebben geleid tot de behoefte aan een versnelde procedure, zodat Frontex de lidstaten in de voorhoede kon voorzien van de allernieuwste instrumenten ter ondersteuning van hun controleactiviteiten.</P>
+</ACCELERATED_PROC>
+<NO_CONTRACT_COVERED_GPA/>
+<NOTICE_NUMBER_OJ>2016/S 190-339985</NOTICE_NUMBER_OJ>
+</PROCEDURE>
+<AWARD_CONTRACT ITEM="1">
+<CONTRACT_NO>Frontex OP/625/2016/RS</CONTRACT_NO>
+<TITLE>
+<P>Aankoop van het digitale oppervlaktemodel langs de grenzen van de EU</P>
+</TITLE>
+<AWARDED_CONTRACT>
+<DATE_CONCLUSION_CONTRACT>2016-12-30</DATE_CONCLUSION_CONTRACT>
+<NB_TENDERS_RECEIVED>3</NB_TENDERS_RECEIVED>
+<NB_TENDERS_RECEIVED_OTHER_EU>2</NB_TENDERS_RECEIVED_OTHER_EU>
+<NO_AWARDED_TO_GROUP/>
+<CONTRACTOR>
+<ADDRESS_CONTRACTOR>
+<OFFICIALNAME>GAF AG</OFFICIALNAME>
+<NATIONALID>DE 129 357 5612</NATIONALID>
+<ADDRESS>Arnulfstraße 199</ADDRESS>
+<TOWN>München</TOWN>
+<POSTAL_CODE>80634</POSTAL_CODE>
+<COUNTRY VALUE="DE"/>
+<NUTS CODE="DE"/>
+</ADDRESS_CONTRACTOR>
+<NO_SME/>
+</CONTRACTOR>
+<VAL_ESTIMATED_TOTAL CURRENCY="EUR">250000</VAL_ESTIMATED_TOTAL>
+<VAL_TOTAL CURRENCY="EUR">228600</VAL_TOTAL>
+</AWARDED_CONTRACT>
+</AWARD_CONTRACT>
+<COMPLEMENTARY_INFO>
+<ADDRESS_REVIEW_BODY>
+<OFFICIALNAME>Gerecht</OFFICIALNAME>
+<ADDRESS>rue du Fort Niedergrünewald</ADDRESS>
+<TOWN>Luxembourg</TOWN>
+<POSTAL_CODE>2925</POSTAL_CODE>
+<COUNTRY VALUE="LU"/>
+<PHONE>+352 4303-1</PHONE>
+<FAX>+352 4303-2100</FAX>
+<URL>http://curia.europa.eu</URL>
+</ADDRESS_REVIEW_BODY>
+<DATE_DISPATCH_NOTICE>2017-01-12</DATE_DISPATCH_NOTICE>
+</COMPLEMENTARY_INFO>
+</F03_2014>
+<F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="PT">
+<CONTRACTING_BODY>
+<ADDRESS_CONTRACTING_BODY>
+<OFFICIALNAME>Frontex</OFFICIALNAME>
+<ADDRESS>Plac Europejski 6</ADDRESS>
+<TOWN>Warsaw</TOWN>
+<POSTAL_CODE>00-844</POSTAL_CODE>
+<COUNTRY VALUE="PL"/>
+<PHONE>+48 222059500</PHONE>
+<E_MAIL>procurement@frontex.europa.eu</E_MAIL>
+<FAX>+48 222059501</FAX>
+<NUTS CODE="PL127"/>
+<URL_GENERAL>http://www.frontex.europa.eu</URL_GENERAL>
+</ADDRESS_CONTRACTING_BODY>
+<CA_TYPE VALUE="EU_INSTITUTION"/>
+<CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+</CONTRACTING_BODY>
+<OBJECT_CONTRACT>
+<TITLE>
+<P>Aquisição do modelo digital de superfície ao longo das fronteiras da UE.</P>
+</TITLE>
+<REFERENCE_NUMBER>Frontex OP/625/2016/RS.</REFERENCE_NUMBER>
+<CPV_MAIN>
+<CPV_CODE CODE="72319000"/>
+</CPV_MAIN>
+<TYPE_CONTRACT CTYPE="SERVICES"/>
+<SHORT_DESCR>
+<P>Aquisição de um conjunto de dados geográficos do modelo digital de superfície que pode ser utilizado para análises e visualizações. O modelo digital de superfície é considerado como um modelo de elevação digital que inclui elevações de «primeira superfície» (por exemplo, vegetação e estruturas artificiais).</P>
+</SHORT_DESCR>
+<VAL_TOTAL CURRENCY="EUR">250000</VAL_TOTAL>
+<NO_LOT_DIVISION/>
+<OBJECT_DESCR ITEM="1">
+<NUTS CODE="PL127"/>
+<MAIN_SITE>
+<P>Serviços remotos e sede da Frontex.</P>
+</MAIN_SITE>
+<SHORT_DESCR>
+<P>Aquisição de um conjunto de dados geográficos do modelo digital de superfície que pode ser utilizado para análises e visualizações.</P>
+</SHORT_DESCR>
+<AC_QUALITY>
+<AC_CRITERION>resolução do modelo digital de superfície</AC_CRITERION>
+<AC_WEIGHTING>20</AC_WEIGHTING>
+</AC_QUALITY>
+<AC_QUALITY>
+<AC_CRITERION>idade do modelo digital de superfície</AC_CRITERION>
+<AC_WEIGHTING>20</AC_WEIGHTING>
+</AC_QUALITY>
+<AC_PRICE>
+<AC_WEIGHTING>40/60</AC_WEIGHTING>
+</AC_PRICE>
+<NO_OPTIONS/>
+<NO_EU_PROGR_RELATED/>
+</OBJECT_DESCR>
+</OBJECT_CONTRACT>
+<PROCEDURE>
+<PT_OPEN/>
+<ACCELERATED_PROC>
+<P>Concurso infrutífero para o objeto em questão e o aumento da pressão migratória resultou na necessidade do procedimento acelerado para que a Frontex pudesse fornecer ferramentas avançadas aos Estados-Membros da linha da frente com vista a apoiar as respetivas atividades de monitorização.</P>
+</ACCELERATED_PROC>
+<NO_CONTRACT_COVERED_GPA/>
+<NOTICE_NUMBER_OJ>2016/S 190-339985</NOTICE_NUMBER_OJ>
+</PROCEDURE>
+<AWARD_CONTRACT ITEM="1">
+<CONTRACT_NO>Frontex OP/625/2016/RS</CONTRACT_NO>
+<TITLE>
+<P>Aquisição do modelo digital de superfície ao longo das fronteiras da UE</P>
+</TITLE>
+<AWARDED_CONTRACT>
+<DATE_CONCLUSION_CONTRACT>2016-12-30</DATE_CONCLUSION_CONTRACT>
+<NB_TENDERS_RECEIVED>3</NB_TENDERS_RECEIVED>
+<NB_TENDERS_RECEIVED_OTHER_EU>2</NB_TENDERS_RECEIVED_OTHER_EU>
+<NO_AWARDED_TO_GROUP/>
+<CONTRACTOR>
+<ADDRESS_CONTRACTOR>
+<OFFICIALNAME>GAF AG</OFFICIALNAME>
+<NATIONALID>DE 129 357 5612</NATIONALID>
+<ADDRESS>Arnulfstraße 199</ADDRESS>
+<TOWN>München</TOWN>
+<POSTAL_CODE>80634</POSTAL_CODE>
+<COUNTRY VALUE="DE"/>
+<NUTS CODE="DE"/>
+</ADDRESS_CONTRACTOR>
+<NO_SME/>
+</CONTRACTOR>
+<VAL_ESTIMATED_TOTAL CURRENCY="EUR">250000</VAL_ESTIMATED_TOTAL>
+<VAL_TOTAL CURRENCY="EUR">228600</VAL_TOTAL>
+</AWARDED_CONTRACT>
+</AWARD_CONTRACT>
+<COMPLEMENTARY_INFO>
+<ADDRESS_REVIEW_BODY>
+<OFFICIALNAME>Tribunal Geral</OFFICIALNAME>
+<ADDRESS>rue du Fort Niedergrünewald</ADDRESS>
+<TOWN>Luxembourg</TOWN>
+<POSTAL_CODE>2925</POSTAL_CODE>
+<COUNTRY VALUE="LU"/>
+<PHONE>+352 4303-1</PHONE>
+<FAX>+352 4303-2100</FAX>
+<URL>http://curia.europa.eu</URL>
+</ADDRESS_REVIEW_BODY>
+<DATE_DISPATCH_NOTICE>2017-01-12</DATE_DISPATCH_NOTICE>
+</COMPLEMENTARY_INFO>
+</F03_2014>
+<F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="SV">
+<CONTRACTING_BODY>
+<ADDRESS_CONTRACTING_BODY>
+<OFFICIALNAME>Frontex</OFFICIALNAME>
+<ADDRESS>Plac Europejski 6</ADDRESS>
+<TOWN>Warsaw</TOWN>
+<POSTAL_CODE>00-844</POSTAL_CODE>
+<COUNTRY VALUE="PL"/>
+<PHONE>+48 222059500</PHONE>
+<E_MAIL>procurement@frontex.europa.eu</E_MAIL>
+<FAX>+48 222059501</FAX>
+<NUTS CODE="PL127"/>
+<URL_GENERAL>http://www.frontex.europa.eu</URL_GENERAL>
+</ADDRESS_CONTRACTING_BODY>
+<CA_TYPE VALUE="EU_INSTITUTION"/>
+<CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+</CONTRACTING_BODY>
+<OBJECT_CONTRACT>
+<TITLE>
+<P>Inköp av en digital ytmodell för EU:s gränser</P>
+</TITLE>
+<REFERENCE_NUMBER>Frontex OP/625/2016/RS.</REFERENCE_NUMBER>
+<CPV_MAIN>
+<CPV_CODE CODE="72319000"/>
+</CPV_MAIN>
+<TYPE_CONTRACT CTYPE="SERVICES"/>
+<SHORT_DESCR>
+<P>Inköp av en uppsättning rumsliga data avseende en digital ytmodell (digital surface model – DSM) som kan användas för analyser och visualiseringar. Med en digital ytmodell (DSM) avses en digital höjdmodell som inbegriper upphöjningar vid den första avlästa ytan (t.ex. växtlighet och strukturer som skapats av människor).</P>
+</SHORT_DESCR>
+<VAL_TOTAL CURRENCY="EUR">250000</VAL_TOTAL>
+<NO_LOT_DIVISION/>
+<OBJECT_DESCR ITEM="1">
+<NUTS CODE="PL127"/>
+<MAIN_SITE>
+<P>Distanstjänster och Frontex huvudkontor (headquarters – HQ).</P>
+</MAIN_SITE>
+<SHORT_DESCR>
+<P>Inköp av en uppsättning rumsliga data avseende en digital ytmodell (DSM) som kan användas för analyser och visualiseringar.</P>
+</SHORT_DESCR>
+<AC_QUALITY>
+<AC_CRITERION>Den digitala ytmodellens upplösning</AC_CRITERION>
+<AC_WEIGHTING>20</AC_WEIGHTING>
+</AC_QUALITY>
+<AC_QUALITY>
+<AC_CRITERION>Den digitala ytmodellens ålder</AC_CRITERION>
+<AC_WEIGHTING>20</AC_WEIGHTING>
+</AC_QUALITY>
+<AC_PRICE>
+<AC_WEIGHTING>40/60</AC_WEIGHTING>
+</AC_PRICE>
+<NO_OPTIONS/>
+<NO_EU_PROGR_RELATED/>
+</OBJECT_DESCR>
+</OBJECT_CONTRACT>
+<PROCEDURE>
+<PT_OPEN/>
+<ACCELERATED_PROC>
+<P>Resultatlöst anbudsförfarande för föremålet i fråga och ökat migrationstryck har föranlett behovet av ett påskyndat förfarande så att Frontex kan förse de medlemsstater som ligger i frontlinjen med de bästa och modernaste verktygen för att stödja deras övervakningsverksamhet.</P>
+</ACCELERATED_PROC>
+<NO_CONTRACT_COVERED_GPA/>
+<NOTICE_NUMBER_OJ>2016/S 190-339985</NOTICE_NUMBER_OJ>
+</PROCEDURE>
+<AWARD_CONTRACT ITEM="1">
+<CONTRACT_NO>Frontex OP/625/2016/RS</CONTRACT_NO>
+<TITLE>
+<P>Inköp av en digital ytmodell för EU:s gränser</P>
+</TITLE>
+<AWARDED_CONTRACT>
+<DATE_CONCLUSION_CONTRACT>2016-12-30</DATE_CONCLUSION_CONTRACT>
+<NB_TENDERS_RECEIVED>3</NB_TENDERS_RECEIVED>
+<NB_TENDERS_RECEIVED_OTHER_EU>2</NB_TENDERS_RECEIVED_OTHER_EU>
+<NO_AWARDED_TO_GROUP/>
+<CONTRACTOR>
+<ADDRESS_CONTRACTOR>
+<OFFICIALNAME>GAF AG</OFFICIALNAME>
+<NATIONALID>DE 129 357 5612</NATIONALID>
+<ADDRESS>Arnulfstraße 199</ADDRESS>
+<TOWN>München</TOWN>
+<POSTAL_CODE>80634</POSTAL_CODE>
+<COUNTRY VALUE="DE"/>
+<NUTS CODE="DE"/>
+</ADDRESS_CONTRACTOR>
+<NO_SME/>
+</CONTRACTOR>
+<VAL_ESTIMATED_TOTAL CURRENCY="EUR">250000</VAL_ESTIMATED_TOTAL>
+<VAL_TOTAL CURRENCY="EUR">228600</VAL_TOTAL>
+</AWARDED_CONTRACT>
+</AWARD_CONTRACT>
+<COMPLEMENTARY_INFO>
+<ADDRESS_REVIEW_BODY>
+<OFFICIALNAME>Tribunalen</OFFICIALNAME>
+<ADDRESS>rue du Fort Niedergrünewald</ADDRESS>
+<TOWN>Luxembourg</TOWN>
+<POSTAL_CODE>2925</POSTAL_CODE>
+<COUNTRY VALUE="LU"/>
+<PHONE>+352 4303-1</PHONE>
+<FAX>+352 4303-2100</FAX>
+<URL>http://curia.europa.eu</URL>
+</ADDRESS_REVIEW_BODY>
+<DATE_DISPATCH_NOTICE>2017-01-12</DATE_DISPATCH_NOTICE>
+</COMPLEMENTARY_INFO>
+</F03_2014>
+<F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="CS">
+<CONTRACTING_BODY>
+<ADDRESS_CONTRACTING_BODY>
+<OFFICIALNAME>Frontex</OFFICIALNAME>
+<ADDRESS>Plac Europejski 6</ADDRESS>
+<TOWN>Warsaw</TOWN>
+<POSTAL_CODE>00-844</POSTAL_CODE>
+<COUNTRY VALUE="PL"/>
+<PHONE>+48 222059500</PHONE>
+<E_MAIL>procurement@frontex.europa.eu</E_MAIL>
+<FAX>+48 222059501</FAX>
+<NUTS CODE="PL127"/>
+<URL_GENERAL>http://www.frontex.europa.eu</URL_GENERAL>
+</ADDRESS_CONTRACTING_BODY>
+<CA_TYPE VALUE="EU_INSTITUTION"/>
+<CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+</CONTRACTING_BODY>
+<OBJECT_CONTRACT>
+<TITLE>
+<P>Nákup digitálního modelu povrchu podél hranic EU.</P>
+</TITLE>
+<REFERENCE_NUMBER>Frontex OP/625/2016/RS.</REFERENCE_NUMBER>
+<CPV_MAIN>
+<CPV_CODE CODE="72319000"/>
+</CPV_MAIN>
+<TYPE_CONTRACT CTYPE="SERVICES"/>
+<SHORT_DESCR>
+<P>Nákup sady prostorových dat z digitálního modelu povrchu (DSM), která lze použít pro analýzy a vizualizace. Digitálním modelem povrchu (DSM) se rozumí digitální výškový model, který zahrnuje vyvýšení „prvního povrchu“ (např. vegetace a člověkem vytvořené struktury).</P>
+</SHORT_DESCR>
+<VAL_TOTAL CURRENCY="EUR">250000</VAL_TOTAL>
+<NO_LOT_DIVISION/>
+<OBJECT_DESCR ITEM="1">
+<NUTS CODE="PL127"/>
+<MAIN_SITE>
+<P>Dálkové poskytování služeb a ústředí agentury Frontex.</P>
+</MAIN_SITE>
+<SHORT_DESCR>
+<P>Nákup sady prostorových dat z digitálního modelu povrchu (DSM), která lze použít pro analýzy a vizualizace.</P>
+</SHORT_DESCR>
+<AC_QUALITY>
+<AC_CRITERION>rozlišení DSM</AC_CRITERION>
+<AC_WEIGHTING>20</AC_WEIGHTING>
+</AC_QUALITY>
+<AC_QUALITY>
+<AC_CRITERION>stáří DSM</AC_CRITERION>
+<AC_WEIGHTING>20</AC_WEIGHTING>
+</AC_QUALITY>
+<AC_PRICE>
+<AC_WEIGHTING>40/60</AC_WEIGHTING>
+</AC_PRICE>
+<NO_OPTIONS/>
+<NO_EU_PROGR_RELATED/>
+</OBJECT_DESCR>
+</OBJECT_CONTRACT>
+<PROCEDURE>
+<PT_OPEN/>
+<ACCELERATED_PROC>
+<P>Neúspěšné výběrové řízení pro daný předmět zakázky a zvýšený migrační tlak vedly k potřebě urychleného řízení, aby agentura Frontex mohla poskytnout členským státům v první lini nejmodernější nástroje na podporu jejich monitorovacích činností.</P>
+</ACCELERATED_PROC>
+<NO_CONTRACT_COVERED_GPA/>
+<NOTICE_NUMBER_OJ>2016/S 190-339985</NOTICE_NUMBER_OJ>
+</PROCEDURE>
+<AWARD_CONTRACT ITEM="1">
+<CONTRACT_NO>Frontex OP/625/2016/RS</CONTRACT_NO>
+<TITLE>
+<P>Nákup digitálního modelu povrchu podél hranic EU</P>
+</TITLE>
+<AWARDED_CONTRACT>
+<DATE_CONCLUSION_CONTRACT>2016-12-30</DATE_CONCLUSION_CONTRACT>
+<NB_TENDERS_RECEIVED>3</NB_TENDERS_RECEIVED>
+<NB_TENDERS_RECEIVED_OTHER_EU>2</NB_TENDERS_RECEIVED_OTHER_EU>
+<NO_AWARDED_TO_GROUP/>
+<CONTRACTOR>
+<ADDRESS_CONTRACTOR>
+<OFFICIALNAME>GAF AG</OFFICIALNAME>
+<NATIONALID>DE 129 357 5612</NATIONALID>
+<ADDRESS>Arnulfstraße 199</ADDRESS>
+<TOWN>München</TOWN>
+<POSTAL_CODE>80634</POSTAL_CODE>
+<COUNTRY VALUE="DE"/>
+<NUTS CODE="DE"/>
+</ADDRESS_CONTRACTOR>
+<NO_SME/>
+</CONTRACTOR>
+<VAL_ESTIMATED_TOTAL CURRENCY="EUR">250000</VAL_ESTIMATED_TOTAL>
+<VAL_TOTAL CURRENCY="EUR">228600</VAL_TOTAL>
+</AWARDED_CONTRACT>
+</AWARD_CONTRACT>
+<COMPLEMENTARY_INFO>
+<ADDRESS_REVIEW_BODY>
+<OFFICIALNAME>Tribunál</OFFICIALNAME>
+<ADDRESS>rue du Fort Niedergrünewald</ADDRESS>
+<TOWN>Luxembourg</TOWN>
+<POSTAL_CODE>2925</POSTAL_CODE>
+<COUNTRY VALUE="LU"/>
+<PHONE>+352 4303-1</PHONE>
+<FAX>+352 4303-2100</FAX>
+<URL>http://curia.europa.eu</URL>
+</ADDRESS_REVIEW_BODY>
+<DATE_DISPATCH_NOTICE>2017-01-12</DATE_DISPATCH_NOTICE>
+</COMPLEMENTARY_INFO>
+</F03_2014>
+<F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="ET">
+<CONTRACTING_BODY>
+<ADDRESS_CONTRACTING_BODY>
+<OFFICIALNAME>Frontex</OFFICIALNAME>
+<ADDRESS>Plac Europejski 6</ADDRESS>
+<TOWN>Warsaw</TOWN>
+<POSTAL_CODE>00-844</POSTAL_CODE>
+<COUNTRY VALUE="PL"/>
+<PHONE>+48 222059500</PHONE>
+<E_MAIL>procurement@frontex.europa.eu</E_MAIL>
+<FAX>+48 222059501</FAX>
+<NUTS CODE="PL127"/>
+<URL_GENERAL>http://www.frontex.europa.eu</URL_GENERAL>
+</ADDRESS_CONTRACTING_BODY>
+<CA_TYPE VALUE="EU_INSTITUTION"/>
+<CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+</CONTRACTING_BODY>
+<OBJECT_CONTRACT>
+<TITLE>
+<P>ELi piiri maapinna digitaalse mudeli ost</P>
+</TITLE>
+<REFERENCE_NUMBER>Frontex OP/625/2016/RS.</REFERENCE_NUMBER>
+<CPV_MAIN>
+<CPV_CODE CODE="72319000"/>
+</CPV_MAIN>
+<TYPE_CONTRACT CTYPE="SERVICES"/>
+<SHORT_DESCR>
+<P>Selliste digitaalse pinnamudeli (digital surface model (DSM)) ruumiandmete komplekti ost, mida saab kasutada analüüsideks ja visualiseerimisteks. Digitaalne pinnamudel tähendab digitaalset kõrgusjoonte mudelit, mis sisaldab esmapinna kõrgusjooni (nt taimkatet ja inimtekkelisi konstruktsioone).</P>
+</SHORT_DESCR>
+<VAL_TOTAL CURRENCY="EUR">250000</VAL_TOTAL>
+<NO_LOT_DIVISION/>
+<OBJECT_DESCR ITEM="1">
+<NUTS CODE="PL127"/>
+<MAIN_SITE>
+<P>kaugtööteenused ja Frontexi peakorter.</P>
+</MAIN_SITE>
+<SHORT_DESCR>
+<P>Selliste digitaalse pinnamudeli ruumiandmete komplekti ost, mida saab kasutada analüüsideks ja visualiseerimisteks.</P>
+</SHORT_DESCR>
+<AC_QUALITY>
+<AC_CRITERION>digitaalse pinnamudeli resolutsioon</AC_CRITERION>
+<AC_WEIGHTING>20</AC_WEIGHTING>
+</AC_QUALITY>
+<AC_QUALITY>
+<AC_CRITERION>digitaalse pinnamudeli vanus</AC_CRITERION>
+<AC_WEIGHTING>20</AC_WEIGHTING>
+</AC_QUALITY>
+<AC_PRICE>
+<AC_WEIGHTING>40/60</AC_WEIGHTING>
+</AC_PRICE>
+<NO_OPTIONS/>
+<NO_EU_PROGR_RELATED/>
+</OBJECT_DESCR>
+</OBJECT_CONTRACT>
+<PROCEDURE>
+<PT_OPEN/>
+<ACCELERATED_PROC>
+<P>kõnealuse teenuse luhtunud pakkumismenetlus ning suurenenud migratsiooniga seotud surve tõttu tekkis vajadus kiirendatud menetluse järele, et Frontex saaks tagada piiriäärsetele liikmesriikidele seiretegevustes tipptasemel tuge.</P>
+</ACCELERATED_PROC>
+<NO_CONTRACT_COVERED_GPA/>
+<NOTICE_NUMBER_OJ>2016/S 190-339985</NOTICE_NUMBER_OJ>
+</PROCEDURE>
+<AWARD_CONTRACT ITEM="1">
+<CONTRACT_NO>Frontex OP/625/2016/RS</CONTRACT_NO>
+<TITLE>
+<P>ELi piiri maapinna digitaalse mudeli ost</P>
+</TITLE>
+<AWARDED_CONTRACT>
+<DATE_CONCLUSION_CONTRACT>2016-12-30</DATE_CONCLUSION_CONTRACT>
+<NB_TENDERS_RECEIVED>3</NB_TENDERS_RECEIVED>
+<NB_TENDERS_RECEIVED_OTHER_EU>2</NB_TENDERS_RECEIVED_OTHER_EU>
+<NO_AWARDED_TO_GROUP/>
+<CONTRACTOR>
+<ADDRESS_CONTRACTOR>
+<OFFICIALNAME>GAF AG</OFFICIALNAME>
+<NATIONALID>DE 129 357 5612</NATIONALID>
+<ADDRESS>Arnulfstraße 199</ADDRESS>
+<TOWN>München</TOWN>
+<POSTAL_CODE>80634</POSTAL_CODE>
+<COUNTRY VALUE="DE"/>
+<NUTS CODE="DE"/>
+</ADDRESS_CONTRACTOR>
+<NO_SME/>
+</CONTRACTOR>
+<VAL_ESTIMATED_TOTAL CURRENCY="EUR">250000</VAL_ESTIMATED_TOTAL>
+<VAL_TOTAL CURRENCY="EUR">228600</VAL_TOTAL>
+</AWARDED_CONTRACT>
+</AWARD_CONTRACT>
+<COMPLEMENTARY_INFO>
+<ADDRESS_REVIEW_BODY>
+<OFFICIALNAME>Üldkohus</OFFICIALNAME>
+<ADDRESS>rue du Fort Niedergrünewald</ADDRESS>
+<TOWN>Luxembourg</TOWN>
+<POSTAL_CODE>2925</POSTAL_CODE>
+<COUNTRY VALUE="LU"/>
+<PHONE>+352 4303-1</PHONE>
+<FAX>+352 4303-2100</FAX>
+<URL>http://curia.europa.eu</URL>
+</ADDRESS_REVIEW_BODY>
+<DATE_DISPATCH_NOTICE>2017-01-12</DATE_DISPATCH_NOTICE>
+</COMPLEMENTARY_INFO>
+</F03_2014>
+<F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="HU">
+<CONTRACTING_BODY>
+<ADDRESS_CONTRACTING_BODY>
+<OFFICIALNAME>Frontex</OFFICIALNAME>
+<ADDRESS>Plac Europejski 6</ADDRESS>
+<TOWN>Warsaw</TOWN>
+<POSTAL_CODE>00-844</POSTAL_CODE>
+<COUNTRY VALUE="PL"/>
+<PHONE>+48 222059500</PHONE>
+<E_MAIL>procurement@frontex.europa.eu</E_MAIL>
+<FAX>+48 222059501</FAX>
+<NUTS CODE="PL127"/>
+<URL_GENERAL>http://www.frontex.europa.eu</URL_GENERAL>
+</ADDRESS_CONTRACTING_BODY>
+<CA_TYPE VALUE="EU_INSTITUTION"/>
+<CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+</CONTRACTING_BODY>
+<OBJECT_CONTRACT>
+<TITLE>
+<P>Az Európai Unió határai digitális felszíni modelljének beszerzése.</P>
+</TITLE>
+<REFERENCE_NUMBER>Frontex OP/625/2016/RS.</REFERENCE_NUMBER>
+<CPV_MAIN>
+<CPV_CODE CODE="72319000"/>
+</CPV_MAIN>
+<TYPE_CONTRACT CTYPE="SERVICES"/>
+<SHORT_DESCR>
+<P>Digitális felszíni modell (DSM) térbeli adatkészletének beszerzése, amely felhasználható elemzések és megjelenítések céljára. A digitális felszíni modell (DSM) olyan digitális domborzatmodell, amely az „elsődleges felszíni” domborzati elemeket (pl. növényzet és ember építette struktúrák) foglalja magában.</P>
+</SHORT_DESCR>
+<VAL_TOTAL CURRENCY="EUR">250000</VAL_TOTAL>
+<NO_LOT_DIVISION/>
+<OBJECT_DESCR ITEM="1">
+<NUTS CODE="PL127"/>
+<MAIN_SITE>
+<P>Távszolgáltatások és a Frontex székhelye.</P>
+</MAIN_SITE>
+<SHORT_DESCR>
+<P>Digitális felszíni modell (DSM) térbeli adatkészletének beszerzése, amely felhasználható elemzések és megjelenítések céljára.</P>
+</SHORT_DESCR>
+<AC_QUALITY>
+<AC_CRITERION>A DSM felbontása</AC_CRITERION>
+<AC_WEIGHTING>20</AC_WEIGHTING>
+</AC_QUALITY>
+<AC_QUALITY>
+<AC_CRITERION>A DSM kora</AC_CRITERION>
+<AC_WEIGHTING>20</AC_WEIGHTING>
+</AC_QUALITY>
+<AC_PRICE>
+<AC_WEIGHTING>40/60</AC_WEIGHTING>
+</AC_PRICE>
+<NO_OPTIONS/>
+<NO_EU_PROGR_RELATED/>
+</OBJECT_DESCR>
+</OBJECT_CONTRACT>
+<PROCEDURE>
+<PT_OPEN/>
+<ACCELERATED_PROC>
+<P>A szóban forgó tárgyban lebonyolított pályázati eljárás eredménytelensége és a fokozódó migrációs nyomás szükségessé tette a gyorsított eljárás alkalmazását avégett, hogy a Frontex a leginkább érintett tagállamok számára modern eszközöket tudjon biztosítani ellenőrzési tevékenységeik támogatásához.</P>
+</ACCELERATED_PROC>
+<NO_CONTRACT_COVERED_GPA/>
+<NOTICE_NUMBER_OJ>2016/S 190-339985</NOTICE_NUMBER_OJ>
+</PROCEDURE>
+<AWARD_CONTRACT ITEM="1">
+<CONTRACT_NO>Frontex OP/625/2016/RS</CONTRACT_NO>
+<TITLE>
+<P>Az Európai Unió határai digitális felszíni modelljének beszerzése</P>
+</TITLE>
+<AWARDED_CONTRACT>
+<DATE_CONCLUSION_CONTRACT>2016-12-30</DATE_CONCLUSION_CONTRACT>
+<NB_TENDERS_RECEIVED>3</NB_TENDERS_RECEIVED>
+<NB_TENDERS_RECEIVED_OTHER_EU>2</NB_TENDERS_RECEIVED_OTHER_EU>
+<NO_AWARDED_TO_GROUP/>
+<CONTRACTOR>
+<ADDRESS_CONTRACTOR>
+<OFFICIALNAME>GAF AG</OFFICIALNAME>
+<NATIONALID>DE 129 357 5612</NATIONALID>
+<ADDRESS>Arnulfstraße 199</ADDRESS>
+<TOWN>München</TOWN>
+<POSTAL_CODE>80634</POSTAL_CODE>
+<COUNTRY VALUE="DE"/>
+<NUTS CODE="DE"/>
+</ADDRESS_CONTRACTOR>
+<NO_SME/>
+</CONTRACTOR>
+<VAL_ESTIMATED_TOTAL CURRENCY="EUR">250000</VAL_ESTIMATED_TOTAL>
+<VAL_TOTAL CURRENCY="EUR">228600</VAL_TOTAL>
+</AWARDED_CONTRACT>
+</AWARD_CONTRACT>
+<COMPLEMENTARY_INFO>
+<ADDRESS_REVIEW_BODY>
+<OFFICIALNAME>Törvényszék</OFFICIALNAME>
+<ADDRESS>rue du Fort Niedergrünewald</ADDRESS>
+<TOWN>Luxembourg</TOWN>
+<POSTAL_CODE>2925</POSTAL_CODE>
+<COUNTRY VALUE="LU"/>
+<PHONE>+352 4303-1</PHONE>
+<FAX>+352 4303-2100</FAX>
+<URL>http://curia.europa.eu</URL>
+</ADDRESS_REVIEW_BODY>
+<DATE_DISPATCH_NOTICE>2017-01-12</DATE_DISPATCH_NOTICE>
+</COMPLEMENTARY_INFO>
+</F03_2014>
+<F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="LT">
+<CONTRACTING_BODY>
+<ADDRESS_CONTRACTING_BODY>
+<OFFICIALNAME>Frontex</OFFICIALNAME>
+<ADDRESS>Plac Europejski 6</ADDRESS>
+<TOWN>Warsaw</TOWN>
+<POSTAL_CODE>00-844</POSTAL_CODE>
+<COUNTRY VALUE="PL"/>
+<PHONE>+48 222059500</PHONE>
+<E_MAIL>procurement@frontex.europa.eu</E_MAIL>
+<FAX>+48 222059501</FAX>
+<NUTS CODE="PL127"/>
+<URL_GENERAL>http://www.frontex.europa.eu</URL_GENERAL>
+</ADDRESS_CONTRACTING_BODY>
+<CA_TYPE VALUE="EU_INSTITUTION"/>
+<CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+</CONTRACTING_BODY>
+<OBJECT_CONTRACT>
+<TITLE>
+<P>Skaitmeninio paviršiaus modelio pirkimas ties ES sienomis.</P>
+</TITLE>
+<REFERENCE_NUMBER>Frontex OP/625/2016/RS.</REFERENCE_NUMBER>
+<CPV_MAIN>
+<CPV_CODE CODE="72319000"/>
+</CPV_MAIN>
+<TYPE_CONTRACT CTYPE="SERVICES"/>
+<SHORT_DESCR>
+<P>Skaitmeninio paviršiaus modelio (digital surface model – DSM) erdvinių duomenų, kurie gali būti naudojami analizėse ir vizualizacijose, pirkimas. Skaitmeninis paviršiaus modelis yra suprantamas kaip skaitmeninis aukščių modelis, kuris apima „pirmojo paviršiaus“ aukščius (pvz., augalija ir žmogaus sukurtos struktūros).</P>
+</SHORT_DESCR>
+<VAL_TOTAL CURRENCY="EUR">250000</VAL_TOTAL>
+<NO_LOT_DIVISION/>
+<OBJECT_DESCR ITEM="1">
+<NUTS CODE="PL127"/>
+<MAIN_SITE>
+<P>Nuotolinės paslaugos ir Frontex būstinė.</P>
+</MAIN_SITE>
+<SHORT_DESCR>
+<P>Skaitmeninio paviršiaus modelio (digital surface model – DSM) erdvinių duomenų, kurie gali būti naudojami analizėse ir vizualizacijose, pirkimas.</P>
+</SHORT_DESCR>
+<AC_QUALITY>
+<AC_CRITERION>Skaitmeninio paviršiaus modelio skiriamoji geba</AC_CRITERION>
+<AC_WEIGHTING>20</AC_WEIGHTING>
+</AC_QUALITY>
+<AC_QUALITY>
+<AC_CRITERION>Skaitmeninio paviršiaus modelio amžius</AC_CRITERION>
+<AC_WEIGHTING>20</AC_WEIGHTING>
+</AC_QUALITY>
+<AC_PRICE>
+<AC_WEIGHTING>40/60</AC_WEIGHTING>
+</AC_PRICE>
+<NO_OPTIONS/>
+<NO_EU_PROGR_RELATED/>
+</OBJECT_DESCR>
+</OBJECT_CONTRACT>
+<PROCEDURE>
+<PT_OPEN/>
+<ACCELERATED_PROC>
+<P>Nesėkminga konkurso procedūra dėl susijusios temos ir padidėjęs migracijos spaudimo lėmė supaprastintos procedūros poreikį, kad Frontex galėtų aprūpinti pirmąsias su migrantų antplūdžiu susiduriančias valstybes nares naujausiomis priemonėmis, kurios skirtos jų stebėjimo veiklai remti.</P>
+</ACCELERATED_PROC>
+<NO_CONTRACT_COVERED_GPA/>
+<NOTICE_NUMBER_OJ>2016/S 190-339985</NOTICE_NUMBER_OJ>
+</PROCEDURE>
+<AWARD_CONTRACT ITEM="1">
+<CONTRACT_NO>Frontex OP/625/2016/RS</CONTRACT_NO>
+<TITLE>
+<P>Skaitmeninio paviršiaus modelio pirkimas ties ES sienomis</P>
+</TITLE>
+<AWARDED_CONTRACT>
+<DATE_CONCLUSION_CONTRACT>2016-12-30</DATE_CONCLUSION_CONTRACT>
+<NB_TENDERS_RECEIVED>3</NB_TENDERS_RECEIVED>
+<NB_TENDERS_RECEIVED_OTHER_EU>2</NB_TENDERS_RECEIVED_OTHER_EU>
+<NO_AWARDED_TO_GROUP/>
+<CONTRACTOR>
+<ADDRESS_CONTRACTOR>
+<OFFICIALNAME>GAF AG</OFFICIALNAME>
+<NATIONALID>DE 129 357 5612</NATIONALID>
+<ADDRESS>Arnulfstraße 199</ADDRESS>
+<TOWN>München</TOWN>
+<POSTAL_CODE>80634</POSTAL_CODE>
+<COUNTRY VALUE="DE"/>
+<NUTS CODE="DE"/>
+</ADDRESS_CONTRACTOR>
+<NO_SME/>
+</CONTRACTOR>
+<VAL_ESTIMATED_TOTAL CURRENCY="EUR">250000</VAL_ESTIMATED_TOTAL>
+<VAL_TOTAL CURRENCY="EUR">228600</VAL_TOTAL>
+</AWARDED_CONTRACT>
+</AWARD_CONTRACT>
+<COMPLEMENTARY_INFO>
+<ADDRESS_REVIEW_BODY>
+<OFFICIALNAME>Bendrasis Teismas</OFFICIALNAME>
+<ADDRESS>rue du Fort Niedergrünewald</ADDRESS>
+<TOWN>Luxembourg</TOWN>
+<POSTAL_CODE>2925</POSTAL_CODE>
+<COUNTRY VALUE="LU"/>
+<PHONE>+352 4303-1</PHONE>
+<FAX>+352 4303-2100</FAX>
+<URL>http://curia.europa.eu</URL>
+</ADDRESS_REVIEW_BODY>
+<DATE_DISPATCH_NOTICE>2017-01-12</DATE_DISPATCH_NOTICE>
+</COMPLEMENTARY_INFO>
+</F03_2014>
+<F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="LV">
+<CONTRACTING_BODY>
+<ADDRESS_CONTRACTING_BODY>
+<OFFICIALNAME>Frontex</OFFICIALNAME>
+<ADDRESS>Plac Europejski 6</ADDRESS>
+<TOWN>Warsaw</TOWN>
+<POSTAL_CODE>00-844</POSTAL_CODE>
+<COUNTRY VALUE="PL"/>
+<PHONE>+48 222059500</PHONE>
+<E_MAIL>procurement@frontex.europa.eu</E_MAIL>
+<FAX>+48 222059501</FAX>
+<NUTS CODE="PL127"/>
+<URL_GENERAL>http://www.frontex.europa.eu</URL_GENERAL>
+</ADDRESS_CONTRACTING_BODY>
+<CA_TYPE VALUE="EU_INSTITUTION"/>
+<CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+</CONTRACTING_BODY>
+<OBJECT_CONTRACT>
+<TITLE>
+<P>ES pierobežas digitālā virsmas modeļa iegāde.</P>
+</TITLE>
+<REFERENCE_NUMBER>Frontex OP/625/2016/RS.</REFERENCE_NUMBER>
+<CPV_MAIN>
+<CPV_CODE CODE="72319000"/>
+</CPV_MAIN>
+<TYPE_CONTRACT CTYPE="SERVICES"/>
+<SHORT_DESCR>
+<P>Tādas digitālā virsmas modeļa (digital surface model – DSM) telpisko datu kopas iegāde, ko var izmantot analīzei un vizualizācijām. Digitālais virsmas modelis (DSM) ir digitāls augstuma modelis, kas ietver augšējās virsmas pacēlumus (piem., veģetāciju un cilvēku veidotas struktūras).</P>
+</SHORT_DESCR>
+<VAL_TOTAL CURRENCY="EUR">250000</VAL_TOTAL>
+<NO_LOT_DIVISION/>
+<OBJECT_DESCR ITEM="1">
+<NUTS CODE="PL127"/>
+<MAIN_SITE>
+<P>attālināti pakalpojumi un Frontex galvenā mītne.</P>
+</MAIN_SITE>
+<SHORT_DESCR>
+<P>Tādas digitālā virsmas modeļa (DSM) telpisko datu kopas iegāde, ko var izmantot analīzei un vizualizācijām.</P>
+</SHORT_DESCR>
+<AC_QUALITY>
+<AC_CRITERION>DSM izšķirtspēja</AC_CRITERION>
+<AC_WEIGHTING>20</AC_WEIGHTING>
+</AC_QUALITY>
+<AC_QUALITY>
+<AC_CRITERION>DSM vecums</AC_CRITERION>
+<AC_WEIGHTING>20</AC_WEIGHTING>
+</AC_QUALITY>
+<AC_PRICE>
+<AC_WEIGHTING>40/60</AC_WEIGHTING>
+</AC_PRICE>
+<NO_OPTIONS/>
+<NO_EU_PROGR_RELATED/>
+</OBJECT_DESCR>
+</OBJECT_CONTRACT>
+<PROCEDURE>
+<PT_OPEN/>
+<ACCELERATED_PROC>
+<P>tā kā konkursa procedūra par attiecīgo konkursa priekšmetu bija nesekmīga un ir palielinājusies migrācija, radās nepieciešamība pēc paātrinātas procedūras, lai Frontex varētu nodrošināt pierobežas dalībvalstīm mūsdienīgus rīkus, ko tās varētu izmantot uzraudzības pasākumos.</P>
+</ACCELERATED_PROC>
+<NO_CONTRACT_COVERED_GPA/>
+<NOTICE_NUMBER_OJ>2016/S 190-339985</NOTICE_NUMBER_OJ>
+</PROCEDURE>
+<AWARD_CONTRACT ITEM="1">
+<CONTRACT_NO>Frontex OP/625/2016/RS</CONTRACT_NO>
+<TITLE>
+<P>ES pierobežas digitālā virsmas modeļa iegāde</P>
+</TITLE>
+<AWARDED_CONTRACT>
+<DATE_CONCLUSION_CONTRACT>2016-12-30</DATE_CONCLUSION_CONTRACT>
+<NB_TENDERS_RECEIVED>3</NB_TENDERS_RECEIVED>
+<NB_TENDERS_RECEIVED_OTHER_EU>2</NB_TENDERS_RECEIVED_OTHER_EU>
+<NO_AWARDED_TO_GROUP/>
+<CONTRACTOR>
+<ADDRESS_CONTRACTOR>
+<OFFICIALNAME>GAF AG</OFFICIALNAME>
+<NATIONALID>DE 129 357 5612</NATIONALID>
+<ADDRESS>Arnulfstraße 199</ADDRESS>
+<TOWN>München</TOWN>
+<POSTAL_CODE>80634</POSTAL_CODE>
+<COUNTRY VALUE="DE"/>
+<NUTS CODE="DE"/>
+</ADDRESS_CONTRACTOR>
+<NO_SME/>
+</CONTRACTOR>
+<VAL_ESTIMATED_TOTAL CURRENCY="EUR">250000</VAL_ESTIMATED_TOTAL>
+<VAL_TOTAL CURRENCY="EUR">228600</VAL_TOTAL>
+</AWARDED_CONTRACT>
+</AWARD_CONTRACT>
+<COMPLEMENTARY_INFO>
+<ADDRESS_REVIEW_BODY>
+<OFFICIALNAME>Vispārējā tiesa</OFFICIALNAME>
+<ADDRESS>rue du Fort Niedergrünewald</ADDRESS>
+<TOWN>Luxembourg</TOWN>
+<POSTAL_CODE>2925</POSTAL_CODE>
+<COUNTRY VALUE="LU"/>
+<PHONE>+352 4303-1</PHONE>
+<FAX>+352 4303-2100</FAX>
+<URL>http://curia.europa.eu</URL>
+</ADDRESS_REVIEW_BODY>
+<DATE_DISPATCH_NOTICE>2017-01-12</DATE_DISPATCH_NOTICE>
+</COMPLEMENTARY_INFO>
+</F03_2014>
+<F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="MT">
+<CONTRACTING_BODY>
+<ADDRESS_CONTRACTING_BODY>
+<OFFICIALNAME>Frontex</OFFICIALNAME>
+<ADDRESS>Plac Europejski 6</ADDRESS>
+<TOWN>Varsavja</TOWN>
+<POSTAL_CODE>00-844</POSTAL_CODE>
+<COUNTRY VALUE="PL"/>
+<PHONE>+48 222059500</PHONE>
+<E_MAIL>procurement@frontex.europa.eu</E_MAIL>
+<FAX>+48 222059501</FAX>
+<NUTS CODE="PL127"/>
+<URL_GENERAL>http://www.frontex.europa.eu</URL_GENERAL>
+</ADDRESS_CONTRACTING_BODY>
+<CA_TYPE VALUE="EU_INSTITUTION"/>
+<CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+</CONTRACTING_BODY>
+<OBJECT_CONTRACT>
+<TITLE>
+<P>Xiri tal-mudell diġitali tal-elevazzjoni tat-terren tul il-fruntieri tal-UE.</P>
+</TITLE>
+<REFERENCE_NUMBER>Frontex OP/625/2016/RS.</REFERENCE_NUMBER>
+<CPV_MAIN>
+<CPV_CODE CODE="72319000"/>
+</CPV_MAIN>
+<TYPE_CONTRACT CTYPE="SERVICES"/>
+<SHORT_DESCR>
+<P>Xiri ta' sett ta' dejta spazjali tal-mudell diġitali tat-terren (DSM) li jista' jintuża għal analiżijiet u viżwalizzazzjonijiet. Il-mudell diġitali tat-terren (DSM) hu mifhum bħala mudell ta' elevazzjoni diġitali li jinkludi l-elevazzjonijiet tal-'ewwel terren' (p.e. il-veġetazzjoni u strutturi magħmulin mill-bniedem).</P>
+</SHORT_DESCR>
+<VAL_TOTAL CURRENCY="EUR">250000</VAL_TOTAL>
+<NO_LOT_DIVISION/>
+<OBJECT_DESCR ITEM="1">
+<NUTS CODE="PL127"/>
+<MAIN_SITE>
+<P>Servizzi mbiegħda u l-KĠ tal-Frontex.</P>
+</MAIN_SITE>
+<SHORT_DESCR>
+<P>Xiri ta' sett ta' dejta spazjali tal-mudell diġitali tat-terren (DSM) li jista' jintuża għal analiżijiet u viżwalizzazzjonijiet.</P>
+</SHORT_DESCR>
+<AC_QUALITY>
+<AC_CRITERION>Ir-reżoluzzjoni tad-DSM</AC_CRITERION>
+<AC_WEIGHTING>20</AC_WEIGHTING>
+</AC_QUALITY>
+<AC_QUALITY>
+<AC_CRITERION>Kemm għandu żmien id-DSM (mudell diġitali tat-terren)</AC_CRITERION>
+<AC_WEIGHTING>20</AC_WEIGHTING>
+</AC_QUALITY>
+<AC_PRICE>
+<AC_WEIGHTING>40/60</AC_WEIGHTING>
+</AC_PRICE>
+<NO_OPTIONS/>
+<NO_EU_PROGR_RELATED/>
+</OBJECT_DESCR>
+</OBJECT_CONTRACT>
+<PROCEDURE>
+<PT_OPEN/>
+<ACCELERATED_PROC>
+<P>Proċedura ta' sejħa għall-offerti li ma rnexxitx għas-suġġett imsemmi u żieda fil-pressjoni migratorja wasslu għall-ħtieġa ta' proċedura aċċellerata sabiex il-Frontex tkun tista' tipprovdi għodod avanzati lill-Istati Membri li jinsabu fuq ta' quddiem sabiex isibu appoġġ fl-attivitajiet ta' monitoraġġ tagħhom.</P>
+</ACCELERATED_PROC>
+<NO_CONTRACT_COVERED_GPA/>
+<NOTICE_NUMBER_OJ>2016/S 190-339985</NOTICE_NUMBER_OJ>
+</PROCEDURE>
+<AWARD_CONTRACT ITEM="1">
+<CONTRACT_NO>Frontex OP/625/2016/RS</CONTRACT_NO>
+<TITLE>
+<P>Xiri tal-mudell diġitali tal-elevazzjoni tat-terren tul il-fruntieri tal-UE</P>
+</TITLE>
+<AWARDED_CONTRACT>
+<DATE_CONCLUSION_CONTRACT>2016-12-30</DATE_CONCLUSION_CONTRACT>
+<NB_TENDERS_RECEIVED>3</NB_TENDERS_RECEIVED>
+<NB_TENDERS_RECEIVED_OTHER_EU>2</NB_TENDERS_RECEIVED_OTHER_EU>
+<NO_AWARDED_TO_GROUP/>
+<CONTRACTOR>
+<ADDRESS_CONTRACTOR>
+<OFFICIALNAME>GAF AG</OFFICIALNAME>
+<NATIONALID>DE 129 357 5612</NATIONALID>
+<ADDRESS>Arnulfstraße 199</ADDRESS>
+<TOWN>München</TOWN>
+<POSTAL_CODE>80634</POSTAL_CODE>
+<COUNTRY VALUE="DE"/>
+<NUTS CODE="DE"/>
+</ADDRESS_CONTRACTOR>
+<NO_SME/>
+</CONTRACTOR>
+<VAL_ESTIMATED_TOTAL CURRENCY="EUR">250000</VAL_ESTIMATED_TOTAL>
+<VAL_TOTAL CURRENCY="EUR">228600</VAL_TOTAL>
+</AWARDED_CONTRACT>
+</AWARD_CONTRACT>
+<COMPLEMENTARY_INFO>
+<ADDRESS_REVIEW_BODY>
+<OFFICIALNAME>Il-Qorti Ġenerali</OFFICIALNAME>
+<ADDRESS>rue du Fort Niedergrünewald</ADDRESS>
+<TOWN>Lussemburgu</TOWN>
+<POSTAL_CODE>2925</POSTAL_CODE>
+<COUNTRY VALUE="LU"/>
+<PHONE>+352 4303-1</PHONE>
+<FAX>+352 4303-2100</FAX>
+<URL>http://curia.europa.eu</URL>
+</ADDRESS_REVIEW_BODY>
+<DATE_DISPATCH_NOTICE>2017-01-12</DATE_DISPATCH_NOTICE>
+</COMPLEMENTARY_INFO>
+</F03_2014>
+<F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="PL">
+<CONTRACTING_BODY>
+<ADDRESS_CONTRACTING_BODY>
+<OFFICIALNAME>Frontex</OFFICIALNAME>
+<ADDRESS>Plac Europejski 6</ADDRESS>
+<TOWN>Warsaw</TOWN>
+<POSTAL_CODE>00-844</POSTAL_CODE>
+<COUNTRY VALUE="PL"/>
+<PHONE>+48 222059500</PHONE>
+<E_MAIL>procurement@frontex.europa.eu</E_MAIL>
+<FAX>+48 222059501</FAX>
+<NUTS CODE="PL127"/>
+<URL_GENERAL>http://www.frontex.europa.eu</URL_GENERAL>
+</ADDRESS_CONTRACTING_BODY>
+<CA_TYPE VALUE="EU_INSTITUTION"/>
+<CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+</CONTRACTING_BODY>
+<OBJECT_CONTRACT>
+<TITLE>
+<P>Zakup numerycznego modelu powierzchni terenu wzdłuż granic UE</P>
+</TITLE>
+<REFERENCE_NUMBER>Frontex OP/625/2016/RS.</REFERENCE_NUMBER>
+<CPV_MAIN>
+<CPV_CODE CODE="72319000"/>
+</CPV_MAIN>
+<TYPE_CONTRACT CTYPE="SERVICES"/>
+<SHORT_DESCR>
+<P>Zakup zbioru danych przestrzennych numerycznego modelu powierzchni terenu (digital surface model – DSM), który może być wykorzystywany do przeprowadzania analiz i wizualizacji. Numeryczny model powierzchni terenu (DSM) rozumie się jako numeryczny model ukształtowania terenu obejmujący przedmioty terenowe (takie jak roślinność i konstrukcje wykonane przez człowieka).</P>
+</SHORT_DESCR>
+<VAL_TOTAL CURRENCY="EUR">250000</VAL_TOTAL>
+<NO_LOT_DIVISION/>
+<OBJECT_DESCR ITEM="1">
+<NUTS CODE="PL127"/>
+<MAIN_SITE>
+<P>usługi będą świadczone zdalnie oraz w siedzibie Fronteksu.</P>
+</MAIN_SITE>
+<SHORT_DESCR>
+<P>Zakup zbioru danych przestrzennych numerycznego modelu powierzchni terenu (digital surface model, DSM), który może być wykorzystywany do przeprowadzania analiz i wizualizacji.</P>
+</SHORT_DESCR>
+<AC_QUALITY>
+<AC_CRITERION>rozdzielczość numerycznego modelu powierzchni terenu</AC_CRITERION>
+<AC_WEIGHTING>20</AC_WEIGHTING>
+</AC_QUALITY>
+<AC_QUALITY>
+<AC_CRITERION>wiek numerycznego modelu powierzchni terenu </AC_CRITERION>
+<AC_WEIGHTING>20</AC_WEIGHTING>
+</AC_QUALITY>
+<AC_PRICE>
+<AC_WEIGHTING>40/60</AC_WEIGHTING>
+</AC_PRICE>
+<NO_OPTIONS/>
+<NO_EU_PROGR_RELATED/>
+</OBJECT_DESCR>
+</OBJECT_CONTRACT>
+<PROCEDURE>
+<PT_OPEN/>
+<ACCELERATED_PROC>
+<P>wskutek zakończonego niepowodzeniem postępowania o udzielenie zamówienia dotyczącego odnośnego przedmiotu oraz zwiększonej presji migracyjnej zaistniała potrzeba zastosowania przyspieszonej procedury pozwalającej Frontexowi zapewnić państwom członkowskim pierwszej linii najnowocześniejsze narzędzia służące wsparciu ich działań związanych z monitorowaniem.</P>
+</ACCELERATED_PROC>
+<NO_CONTRACT_COVERED_GPA/>
+<NOTICE_NUMBER_OJ>2016/S 190-339985</NOTICE_NUMBER_OJ>
+</PROCEDURE>
+<AWARD_CONTRACT ITEM="1">
+<CONTRACT_NO>Frontex OP/625/2016/RS</CONTRACT_NO>
+<TITLE>
+<P>Zakup numerycznego modelu powierzchni terenu wzdłuż granic UE</P>
+</TITLE>
+<AWARDED_CONTRACT>
+<DATE_CONCLUSION_CONTRACT>2016-12-30</DATE_CONCLUSION_CONTRACT>
+<NB_TENDERS_RECEIVED>3</NB_TENDERS_RECEIVED>
+<NB_TENDERS_RECEIVED_OTHER_EU>2</NB_TENDERS_RECEIVED_OTHER_EU>
+<NO_AWARDED_TO_GROUP/>
+<CONTRACTOR>
+<ADDRESS_CONTRACTOR>
+<OFFICIALNAME>GAF AG</OFFICIALNAME>
+<NATIONALID>DE 129 357 5612</NATIONALID>
+<ADDRESS>Arnulfstraße 199</ADDRESS>
+<TOWN>München</TOWN>
+<POSTAL_CODE>80634</POSTAL_CODE>
+<COUNTRY VALUE="DE"/>
+<NUTS CODE="DE"/>
+</ADDRESS_CONTRACTOR>
+<NO_SME/>
+</CONTRACTOR>
+<VAL_ESTIMATED_TOTAL CURRENCY="EUR">250000</VAL_ESTIMATED_TOTAL>
+<VAL_TOTAL CURRENCY="EUR">228600</VAL_TOTAL>
+</AWARDED_CONTRACT>
+</AWARD_CONTRACT>
+<COMPLEMENTARY_INFO>
+<ADDRESS_REVIEW_BODY>
+<OFFICIALNAME>Sąd</OFFICIALNAME>
+<ADDRESS>rue du Fort Niedergrünewald</ADDRESS>
+<TOWN>Luxembourg</TOWN>
+<POSTAL_CODE>2925</POSTAL_CODE>
+<COUNTRY VALUE="LU"/>
+<PHONE>+352 4303-1</PHONE>
+<FAX>+352 4303-2100</FAX>
+<URL>http://curia.europa.eu</URL>
+</ADDRESS_REVIEW_BODY>
+<DATE_DISPATCH_NOTICE>2017-01-12</DATE_DISPATCH_NOTICE>
+</COMPLEMENTARY_INFO>
+</F03_2014>
+<F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="SK">
+<CONTRACTING_BODY>
+<ADDRESS_CONTRACTING_BODY>
+<OFFICIALNAME>Frontex</OFFICIALNAME>
+<ADDRESS>Plac Europejski 6</ADDRESS>
+<TOWN>Warsaw</TOWN>
+<POSTAL_CODE>00-844</POSTAL_CODE>
+<COUNTRY VALUE="PL"/>
+<PHONE>+48 222059500</PHONE>
+<E_MAIL>procurement@frontex.europa.eu</E_MAIL>
+<FAX>+48 222059501</FAX>
+<NUTS CODE="PL127"/>
+<URL_GENERAL>http://www.frontex.europa.eu</URL_GENERAL>
+</ADDRESS_CONTRACTING_BODY>
+<CA_TYPE VALUE="EU_INSTITUTION"/>
+<CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+</CONTRACTING_BODY>
+<OBJECT_CONTRACT>
+<TITLE>
+<P>Nákup digitálneho modelu povrchu na hraniciach EÚ.</P>
+</TITLE>
+<REFERENCE_NUMBER>Frontex OP/625/2016/RS.</REFERENCE_NUMBER>
+<CPV_MAIN>
+<CPV_CODE CODE="72319000"/>
+</CPV_MAIN>
+<TYPE_CONTRACT CTYPE="SERVICES"/>
+<SHORT_DESCR>
+<P>Nákup súpravy priestorových údajov digitálneho modelu povrchu (DSM), ktorý sa môže použiť na analýzy a vizualizácie. Digitálnym modelom povrchu (DSM) sa rozumie digitálny výškový model, ktorý zahŕňa projekciu „prvého povrchu“ (napr. vegetácia a umelo vytvorené stavby).</P>
+</SHORT_DESCR>
+<VAL_TOTAL CURRENCY="EUR">250000</VAL_TOTAL>
+<NO_LOT_DIVISION/>
+<OBJECT_DESCR ITEM="1">
+<NUTS CODE="PL127"/>
+<MAIN_SITE>
+<P>Diaľkové služby a sídlo Frontexu.</P>
+</MAIN_SITE>
+<SHORT_DESCR>
+<P>Nákup súpravy priestorových údajov digitálneho modelu povrchu (DSM), ktorý sa môže použiť na analýzy a vizualizácie.</P>
+</SHORT_DESCR>
+<AC_QUALITY>
+<AC_CRITERION>Rozlíšenie DSM</AC_CRITERION>
+<AC_WEIGHTING>20</AC_WEIGHTING>
+</AC_QUALITY>
+<AC_QUALITY>
+<AC_CRITERION>Vek DSM</AC_CRITERION>
+<AC_WEIGHTING>20</AC_WEIGHTING>
+</AC_QUALITY>
+<AC_PRICE>
+<AC_WEIGHTING>40/60</AC_WEIGHTING>
+</AC_PRICE>
+<NO_OPTIONS/>
+<NO_EU_PROGR_RELATED/>
+</OBJECT_DESCR>
+</OBJECT_CONTRACT>
+<PROCEDURE>
+<PT_OPEN/>
+<ACCELERATED_PROC>
+<P>Neúspešné súťažné konanie pre daný predmet zákazky a zvýšený migračný tlak viedli k potrebe zrýchleného postupu, aby agentúra Frontex mohla poskytnúť členským štátom v prvej línii najmodernejšie nástroje na podporu ich monitorovacích činností.</P>
+</ACCELERATED_PROC>
+<NO_CONTRACT_COVERED_GPA/>
+<NOTICE_NUMBER_OJ>2016/S 190-339985</NOTICE_NUMBER_OJ>
+</PROCEDURE>
+<AWARD_CONTRACT ITEM="1">
+<CONTRACT_NO>Frontex OP/625/2016/RS</CONTRACT_NO>
+<TITLE>
+<P>Nákup digitálneho modelu povrchu na hraniciach EÚ</P>
+</TITLE>
+<AWARDED_CONTRACT>
+<DATE_CONCLUSION_CONTRACT>2016-12-30</DATE_CONCLUSION_CONTRACT>
+<NB_TENDERS_RECEIVED>3</NB_TENDERS_RECEIVED>
+<NB_TENDERS_RECEIVED_OTHER_EU>2</NB_TENDERS_RECEIVED_OTHER_EU>
+<NO_AWARDED_TO_GROUP/>
+<CONTRACTOR>
+<ADDRESS_CONTRACTOR>
+<OFFICIALNAME>GAF AG</OFFICIALNAME>
+<NATIONALID>DE 129 357 5612</NATIONALID>
+<ADDRESS>Arnulfstraße 199</ADDRESS>
+<TOWN>München</TOWN>
+<POSTAL_CODE>80634</POSTAL_CODE>
+<COUNTRY VALUE="DE"/>
+<NUTS CODE="DE"/>
+</ADDRESS_CONTRACTOR>
+<NO_SME/>
+</CONTRACTOR>
+<VAL_ESTIMATED_TOTAL CURRENCY="EUR">250000</VAL_ESTIMATED_TOTAL>
+<VAL_TOTAL CURRENCY="EUR">228600</VAL_TOTAL>
+</AWARDED_CONTRACT>
+</AWARD_CONTRACT>
+<COMPLEMENTARY_INFO>
+<ADDRESS_REVIEW_BODY>
+<OFFICIALNAME>Všeobecný súd</OFFICIALNAME>
+<ADDRESS>rue du Fort Niedergrünewald</ADDRESS>
+<TOWN>Luxembourg</TOWN>
+<POSTAL_CODE>2925</POSTAL_CODE>
+<COUNTRY VALUE="LU"/>
+<PHONE>+352 4303-1</PHONE>
+<FAX>+352 4303-2100</FAX>
+<URL>http://curia.europa.eu</URL>
+</ADDRESS_REVIEW_BODY>
+<DATE_DISPATCH_NOTICE>2017-01-12</DATE_DISPATCH_NOTICE>
+</COMPLEMENTARY_INFO>
+</F03_2014>
+<F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="SL">
+<CONTRACTING_BODY>
+<ADDRESS_CONTRACTING_BODY>
+<OFFICIALNAME>Frontex</OFFICIALNAME>
+<ADDRESS>Plac Europejski 6</ADDRESS>
+<TOWN>Warsaw</TOWN>
+<POSTAL_CODE>00-844</POSTAL_CODE>
+<COUNTRY VALUE="PL"/>
+<PHONE>+48 222059500</PHONE>
+<E_MAIL>procurement@frontex.europa.eu</E_MAIL>
+<FAX>+48 222059501</FAX>
+<NUTS CODE="PL127"/>
+<URL_GENERAL>http://www.frontex.europa.eu</URL_GENERAL>
+</ADDRESS_CONTRACTING_BODY>
+<CA_TYPE VALUE="EU_INSTITUTION"/>
+<CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+</CONTRACTING_BODY>
+<OBJECT_CONTRACT>
+<TITLE>
+<P>Nakup digitalnega modela površja vzdolž meja EU.</P>
+</TITLE>
+<REFERENCE_NUMBER>Frontex OP/625/2016/RS.</REFERENCE_NUMBER>
+<CPV_MAIN>
+<CPV_CODE CODE="72319000"/>
+</CPV_MAIN>
+<TYPE_CONTRACT CTYPE="SERVICES"/>
+<SHORT_DESCR>
+<P>Nakup niza prostorskih podatkov digitalnega modela površja (digital surface model – DSM), ki se lahko uporabljajo za analize in vizualizacije. Digitalni model površja (DSM) se razume kot digitalni elevacijski model, ki vključuje elevacije „prve površine“ (npr. rastje in objekti, ki jih je postavil človek).</P>
+</SHORT_DESCR>
+<VAL_TOTAL CURRENCY="EUR">250000</VAL_TOTAL>
+<NO_LOT_DIVISION/>
+<OBJECT_DESCR ITEM="1">
+<NUTS CODE="PL127"/>
+<MAIN_SITE>
+<P>Storitve na daljavo in sedež Frontexa.</P>
+</MAIN_SITE>
+<SHORT_DESCR>
+<P>Nakup niza prostorskih podatkov digitalnega modela površja (DSM), ki se lahko uporabljajo za analize in vizualizacije.</P>
+</SHORT_DESCR>
+<AC_QUALITY>
+<AC_CRITERION>Ločljivost DSM</AC_CRITERION>
+<AC_WEIGHTING>20</AC_WEIGHTING>
+</AC_QUALITY>
+<AC_QUALITY>
+<AC_CRITERION>Starost DSM </AC_CRITERION>
+<AC_WEIGHTING>20</AC_WEIGHTING>
+</AC_QUALITY>
+<AC_PRICE>
+<AC_WEIGHTING>40/60</AC_WEIGHTING>
+</AC_PRICE>
+<NO_OPTIONS/>
+<NO_EU_PROGR_RELATED/>
+</OBJECT_DESCR>
+</OBJECT_CONTRACT>
+<PROCEDURE>
+<PT_OPEN/>
+<ACCELERATED_PROC>
+<P>Neuspešen razpisni postopek za zadevni predmet in povečan migracijski pritisk sta povzročila potrebo po pospešenem postopku, da bi lahko Frontex najbolj prizadetim državam ponudil vrhunska orodja za podporo njihovih dejavnosti spremljanja.</P>
+</ACCELERATED_PROC>
+<NO_CONTRACT_COVERED_GPA/>
+<NOTICE_NUMBER_OJ>2016/S 190-339985</NOTICE_NUMBER_OJ>
+</PROCEDURE>
+<AWARD_CONTRACT ITEM="1">
+<CONTRACT_NO>Frontex OP/625/2016/RS</CONTRACT_NO>
+<TITLE>
+<P>Nakup digitalnega modela površja vzdolž meja EU</P>
+</TITLE>
+<AWARDED_CONTRACT>
+<DATE_CONCLUSION_CONTRACT>2016-12-30</DATE_CONCLUSION_CONTRACT>
+<NB_TENDERS_RECEIVED>3</NB_TENDERS_RECEIVED>
+<NB_TENDERS_RECEIVED_OTHER_EU>2</NB_TENDERS_RECEIVED_OTHER_EU>
+<NO_AWARDED_TO_GROUP/>
+<CONTRACTOR>
+<ADDRESS_CONTRACTOR>
+<OFFICIALNAME>GAF AG</OFFICIALNAME>
+<NATIONALID>DE 129 357 5612</NATIONALID>
+<ADDRESS>Arnulfstraße 199</ADDRESS>
+<TOWN>München</TOWN>
+<POSTAL_CODE>80634</POSTAL_CODE>
+<COUNTRY VALUE="DE"/>
+<NUTS CODE="DE"/>
+</ADDRESS_CONTRACTOR>
+<NO_SME/>
+</CONTRACTOR>
+<VAL_ESTIMATED_TOTAL CURRENCY="EUR">250000</VAL_ESTIMATED_TOTAL>
+<VAL_TOTAL CURRENCY="EUR">228600</VAL_TOTAL>
+</AWARDED_CONTRACT>
+</AWARD_CONTRACT>
+<COMPLEMENTARY_INFO>
+<ADDRESS_REVIEW_BODY>
+<OFFICIALNAME>Splošno sodišče</OFFICIALNAME>
+<ADDRESS>rue du Fort Niedergrünewald</ADDRESS>
+<TOWN>Luxembourg</TOWN>
+<POSTAL_CODE>2925</POSTAL_CODE>
+<COUNTRY VALUE="LU"/>
+<PHONE>+352 4303-1</PHONE>
+<FAX>+352 4303-2100</FAX>
+<URL>http://curia.europa.eu</URL>
+</ADDRESS_REVIEW_BODY>
+<DATE_DISPATCH_NOTICE>2017-01-12</DATE_DISPATCH_NOTICE>
+</COMPLEMENTARY_INFO>
+</F03_2014>
+<F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="GA">
+<CONTRACTING_BODY>
+<ADDRESS_CONTRACTING_BODY>
+<OFFICIALNAME>Frontex</OFFICIALNAME>
+<ADDRESS>Plac Europejski 6</ADDRESS>
+<TOWN>Warsaw</TOWN>
+<POSTAL_CODE>00-844</POSTAL_CODE>
+<COUNTRY VALUE="PL"/>
+<PHONE>+48 222059500</PHONE>
+<E_MAIL>procurement@frontex.europa.eu</E_MAIL>
+<FAX>+48 222059501</FAX>
+<NUTS CODE="PL127"/>
+<URL_GENERAL>http://www.frontex.europa.eu</URL_GENERAL>
+</ADDRESS_CONTRACTING_BODY>
+<CA_TYPE VALUE="EU_INSTITUTION"/>
+<CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+</CONTRACTING_BODY>
+<OBJECT_CONTRACT>
+<TITLE>
+<P>Samhail dhigiteach den dromchla ar feadh theorainneacha an AE a cheannach.</P>
+</TITLE>
+<REFERENCE_NUMBER>Frontex OP/625/2016/RS.</REFERENCE_NUMBER>
+<CPV_MAIN>
+<CPV_CODE CODE="72319000"/>
+</CPV_MAIN>
+<TYPE_CONTRACT CTYPE="SERVICES"/>
+<SHORT_DESCR>
+<P>Tacar sonraí spásúla shamhail dromchla dhigiteach (DSM) a cheannach ar féidir é a úsáid le haghaidh anailísí agus léirshamhlaithe. Tuigtear gur ionann an tsamhail dhigiteach den dromchla (DSM) agus samhail dhigiteach den airde lena n-áirítear airdí 'dromchla tosaigh' (m.sh. fásra agus struchtúir shaorga).</P>
+</SHORT_DESCR>
+<VAL_TOTAL CURRENCY="EUR">250000</VAL_TOTAL>
+<NO_LOT_DIVISION/>
+<OBJECT_DESCR ITEM="1">
+<NUTS CODE="PL127"/>
+<MAIN_SITE>
+<P>Seirbhísí cianda agus ceanncheathrú Frontex.</P>
+</MAIN_SITE>
+<SHORT_DESCR>
+<P>Tacar sonraí spásúla shamhail dromchla dhigiteach (DSM) a cheannach ar féidir é a úsáid le haghaidh anailísí agus léirshamhlaithe.</P>
+</SHORT_DESCR>
+<AC_QUALITY>
+<AC_CRITERION>DSM resolution</AC_CRITERION>
+<AC_WEIGHTING>20</AC_WEIGHTING>
+</AC_QUALITY>
+<AC_QUALITY>
+<AC_CRITERION>DSM age</AC_CRITERION>
+<AC_WEIGHTING>20</AC_WEIGHTING>
+</AC_QUALITY>
+<AC_PRICE>
+<AC_WEIGHTING>40/60</AC_WEIGHTING>
+</AC_PRICE>
+<NO_OPTIONS/>
+<NO_EU_PROGR_RELATED/>
+</OBJECT_DESCR>
+</OBJECT_CONTRACT>
+<PROCEDURE>
+<PT_OPEN/>
+<ACCELERATED_PROC>
+<P>De dheasca nós imeachta tairisceana nár éirigh leis maidir leis an ábhar atá i gceist agus brú méadaithe na himirce bhí gá le nós imeachta luathaithe ionas gur féidir le Frontex uirlisí úrscothacha a chur ar fáil do na Ballstáit ar an líne tosaigh chun tacú lena ngníomhaíochtaí monatóireachta.</P>
+</ACCELERATED_PROC>
+<NO_CONTRACT_COVERED_GPA/>
+<NOTICE_NUMBER_OJ>2016/S 190-339985</NOTICE_NUMBER_OJ>
+</PROCEDURE>
+<AWARD_CONTRACT ITEM="1">
+<CONTRACT_NO>Frontex OP/625/2016/RS</CONTRACT_NO>
+<TITLE>
+<P>Samhail dhigiteach den dromchla ar feadh theorainneacha an AE a cheannach</P>
+</TITLE>
+<AWARDED_CONTRACT>
+<DATE_CONCLUSION_CONTRACT>2016-12-30</DATE_CONCLUSION_CONTRACT>
+<NB_TENDERS_RECEIVED>3</NB_TENDERS_RECEIVED>
+<NB_TENDERS_RECEIVED_OTHER_EU>2</NB_TENDERS_RECEIVED_OTHER_EU>
+<NO_AWARDED_TO_GROUP/>
+<CONTRACTOR>
+<ADDRESS_CONTRACTOR>
+<OFFICIALNAME>GAF AG</OFFICIALNAME>
+<NATIONALID>DE 129 357 5612</NATIONALID>
+<ADDRESS>Arnulfstraße 199</ADDRESS>
+<TOWN>München</TOWN>
+<POSTAL_CODE>80634</POSTAL_CODE>
+<COUNTRY VALUE="DE"/>
+<NUTS CODE="DE"/>
+</ADDRESS_CONTRACTOR>
+<NO_SME/>
+</CONTRACTOR>
+<VAL_ESTIMATED_TOTAL CURRENCY="EUR">250000</VAL_ESTIMATED_TOTAL>
+<VAL_TOTAL CURRENCY="EUR">228600</VAL_TOTAL>
+</AWARDED_CONTRACT>
+</AWARD_CONTRACT>
+<COMPLEMENTARY_INFO>
+<ADDRESS_REVIEW_BODY>
+<OFFICIALNAME>An Chúirt Ghinearálta</OFFICIALNAME>
+<ADDRESS>rue du Fort Niedergrünewald</ADDRESS>
+<TOWN>Luxembourg</TOWN>
+<POSTAL_CODE>2925</POSTAL_CODE>
+<COUNTRY VALUE="LU"/>
+<PHONE>+352 4303-1</PHONE>
+<FAX>+352 4303-2100</FAX>
+<URL>http://curia.europa.eu</URL>
+</ADDRESS_REVIEW_BODY>
+<DATE_DISPATCH_NOTICE>2017-01-12</DATE_DISPATCH_NOTICE>
+</COMPLEMENTARY_INFO>
+</F03_2014>
+<F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="BG">
+<CONTRACTING_BODY>
+<ADDRESS_CONTRACTING_BODY>
+<OFFICIALNAME>Frontex</OFFICIALNAME>
+<ADDRESS>Plac Europejski 6</ADDRESS>
+<TOWN>Warsaw</TOWN>
+<POSTAL_CODE>00-844</POSTAL_CODE>
+<COUNTRY VALUE="PL"/>
+<PHONE>+48 222059500</PHONE>
+<E_MAIL>procurement@frontex.europa.eu</E_MAIL>
+<FAX>+48 222059501</FAX>
+<NUTS CODE="PL127"/>
+<URL_GENERAL>http://www.frontex.europa.eu</URL_GENERAL>
+</ADDRESS_CONTRACTING_BODY>
+<CA_TYPE VALUE="EU_INSTITUTION"/>
+<CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+</CONTRACTING_BODY>
+<OBJECT_CONTRACT>
+<TITLE>
+<P>Закупуване на цифров модел на повърхността по границите на ЕС.</P>
+</TITLE>
+<REFERENCE_NUMBER>Frontex OP/625/2016/RS.</REFERENCE_NUMBER>
+<CPV_MAIN>
+<CPV_CODE CODE="72319000"/>
+</CPV_MAIN>
+<TYPE_CONTRACT CTYPE="SERVICES"/>
+<SHORT_DESCR>
+<P>Закупуване на набор от пространствени данни на цифров модел на повърхността (DSM), който може да бъде използван за анализи и визуализации. Под цифров модел на повърхността (DSM) се разбира цифров модел на релеф, който включва оценки на „първа повърхност“ (напр. растителност и направени от човека структури).</P>
+</SHORT_DESCR>
+<VAL_TOTAL CURRENCY="EUR">250000</VAL_TOTAL>
+<NO_LOT_DIVISION/>
+<OBJECT_DESCR ITEM="1">
+<NUTS CODE="PL127"/>
+<MAIN_SITE>
+<P>Дистанционни услуги и седалището на Frontex.</P>
+</MAIN_SITE>
+<SHORT_DESCR>
+<P>Закупуване на набор от пространствени данни на цифров модел на повърхността (DSM), който може да бъде използван за анализи и визуализации.</P>
+</SHORT_DESCR>
+<AC_QUALITY>
+<AC_CRITERION>Резолюция на DSM</AC_CRITERION>
+<AC_WEIGHTING>20</AC_WEIGHTING>
+</AC_QUALITY>
+<AC_QUALITY>
+<AC_CRITERION>Възраст на DSM</AC_CRITERION>
+<AC_WEIGHTING>20</AC_WEIGHTING>
+</AC_QUALITY>
+<AC_PRICE>
+<AC_WEIGHTING>40/60</AC_WEIGHTING>
+</AC_PRICE>
+<NO_OPTIONS/>
+<NO_EU_PROGR_RELATED/>
+</OBJECT_DESCR>
+</OBJECT_CONTRACT>
+<PROCEDURE>
+<PT_OPEN/>
+<ACCELERATED_PROC>
+<P>Безрезултатната тръжна процедура за въпросния предмет, както и повишеният миграционен натиск доведоха до необходимостта за ускорена процедура, така че Frontex да може да предостави на държавите-членки от първа линия най-новите инструменти за подкрепа на техните дейности по мониторинг.</P>
+</ACCELERATED_PROC>
+<NO_CONTRACT_COVERED_GPA/>
+<NOTICE_NUMBER_OJ>2016/S 190-339985</NOTICE_NUMBER_OJ>
+</PROCEDURE>
+<AWARD_CONTRACT ITEM="1">
+<CONTRACT_NO>Frontex OP/625/2016/RS</CONTRACT_NO>
+<TITLE>
+<P>Закупуване на цифров модел на повърхността по границите на ЕС</P>
+</TITLE>
+<AWARDED_CONTRACT>
+<DATE_CONCLUSION_CONTRACT>2016-12-30</DATE_CONCLUSION_CONTRACT>
+<NB_TENDERS_RECEIVED>3</NB_TENDERS_RECEIVED>
+<NB_TENDERS_RECEIVED_OTHER_EU>2</NB_TENDERS_RECEIVED_OTHER_EU>
+<NO_AWARDED_TO_GROUP/>
+<CONTRACTOR>
+<ADDRESS_CONTRACTOR>
+<OFFICIALNAME>GAF AG</OFFICIALNAME>
+<NATIONALID>DE 129 357 5612</NATIONALID>
+<ADDRESS>Arnulfstraße 199</ADDRESS>
+<TOWN>München</TOWN>
+<POSTAL_CODE>80634</POSTAL_CODE>
+<COUNTRY VALUE="DE"/>
+<NUTS CODE="DE"/>
+</ADDRESS_CONTRACTOR>
+<NO_SME/>
+</CONTRACTOR>
+<VAL_ESTIMATED_TOTAL CURRENCY="EUR">250000</VAL_ESTIMATED_TOTAL>
+<VAL_TOTAL CURRENCY="EUR">228600</VAL_TOTAL>
+</AWARDED_CONTRACT>
+</AWARD_CONTRACT>
+<COMPLEMENTARY_INFO>
+<ADDRESS_REVIEW_BODY>
+<OFFICIALNAME>Общ съд</OFFICIALNAME>
+<ADDRESS>rue du Fort Niedergrünewald</ADDRESS>
+<TOWN>Luxembourg</TOWN>
+<POSTAL_CODE>2925</POSTAL_CODE>
+<COUNTRY VALUE="LU"/>
+<PHONE>+352 4303-1</PHONE>
+<FAX>+352 4303-2100</FAX>
+<URL>http://curia.europa.eu</URL>
+</ADDRESS_REVIEW_BODY>
+<DATE_DISPATCH_NOTICE>2017-01-12</DATE_DISPATCH_NOTICE>
+</COMPLEMENTARY_INFO>
+</F03_2014>
+<F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="RO">
+<CONTRACTING_BODY>
+<ADDRESS_CONTRACTING_BODY>
+<OFFICIALNAME>Frontex</OFFICIALNAME>
+<ADDRESS>Plac Europejski 6</ADDRESS>
+<TOWN>Warsaw</TOWN>
+<POSTAL_CODE>00-844</POSTAL_CODE>
+<COUNTRY VALUE="PL"/>
+<PHONE>+48 222059500</PHONE>
+<E_MAIL>procurement@frontex.europa.eu</E_MAIL>
+<FAX>+48 222059501</FAX>
+<NUTS CODE="PL127"/>
+<URL_GENERAL>http://www.frontex.europa.eu</URL_GENERAL>
+</ADDRESS_CONTRACTING_BODY>
+<CA_TYPE VALUE="EU_INSTITUTION"/>
+<CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+</CONTRACTING_BODY>
+<OBJECT_CONTRACT>
+<TITLE>
+<P>Achiziționarea modelului digital de suprafață pentru zonele aflate de-a lungul frontierelor UE.</P>
+</TITLE>
+<REFERENCE_NUMBER>Frontex OP/625/2016/RS.</REFERENCE_NUMBER>
+<CPV_MAIN>
+<CPV_CODE CODE="72319000"/>
+</CPV_MAIN>
+<TYPE_CONTRACT CTYPE="SERVICES"/>
+<SHORT_DESCR>
+<P>Achiziționarea unui set de date spațiale legate de modelul digital de suprafață (digital surface model – DSM), care să poată fi utilizat pentru analize și vizualizări. Prin model digital de suprafață (DSM) se înțelege un model digital de elevație care include elevațiile de „primă suprafață” (de exemplu, vegetația și structurile antropogene).</P>
+</SHORT_DESCR>
+<VAL_TOTAL CURRENCY="EUR">250000</VAL_TOTAL>
+<NO_LOT_DIVISION/>
+<OBJECT_DESCR ITEM="1">
+<NUTS CODE="PL127"/>
+<MAIN_SITE>
+<P>Servicii de la distanță și sediul Frontex.</P>
+</MAIN_SITE>
+<SHORT_DESCR>
+<P>Achiziționarea unui set de date spațiale legate de modelul digital de suprafață (digital surface model – DSM), care să poată fi utilizat pentru analize și vizualizări.</P>
+</SHORT_DESCR>
+<AC_QUALITY>
+<AC_CRITERION>Rezoluția DSM</AC_CRITERION>
+<AC_WEIGHTING>20</AC_WEIGHTING>
+</AC_QUALITY>
+<AC_QUALITY>
+<AC_CRITERION>Vechimea DSM</AC_CRITERION>
+<AC_WEIGHTING>20</AC_WEIGHTING>
+</AC_QUALITY>
+<AC_PRICE>
+<AC_WEIGHTING>40/60</AC_WEIGHTING>
+</AC_PRICE>
+<NO_OPTIONS/>
+<NO_EU_PROGR_RELATED/>
+</OBJECT_DESCR>
+</OBJECT_CONTRACT>
+<PROCEDURE>
+<PT_OPEN/>
+<ACCELERATED_PROC>
+<P>Procedura de licitație nereușită privind subiectul în cauză și presiunea tot mai mare impusă de migrație a determinat nevoia de a accelera procedura astfel încât Frontex să poată furniza statelor membre din prima linie instrumente de ultimă generație în scopul susținerii activităților lor de monitorizare.</P>
+</ACCELERATED_PROC>
+<NO_CONTRACT_COVERED_GPA/>
+<NOTICE_NUMBER_OJ>2016/S 190-339985</NOTICE_NUMBER_OJ>
+</PROCEDURE>
+<AWARD_CONTRACT ITEM="1">
+<CONTRACT_NO>Frontex OP/625/2016/RS</CONTRACT_NO>
+<TITLE>
+<P>Achiziționarea modelului digital de suprafață pentru zonele aflate de-a lungul frontierelor UE</P>
+</TITLE>
+<AWARDED_CONTRACT>
+<DATE_CONCLUSION_CONTRACT>2016-12-30</DATE_CONCLUSION_CONTRACT>
+<NB_TENDERS_RECEIVED>3</NB_TENDERS_RECEIVED>
+<NB_TENDERS_RECEIVED_OTHER_EU>2</NB_TENDERS_RECEIVED_OTHER_EU>
+<NO_AWARDED_TO_GROUP/>
+<CONTRACTOR>
+<ADDRESS_CONTRACTOR>
+<OFFICIALNAME>GAF AG</OFFICIALNAME>
+<NATIONALID>DE 129 357 5612</NATIONALID>
+<ADDRESS>Arnulfstraße 199</ADDRESS>
+<TOWN>München</TOWN>
+<POSTAL_CODE>80634</POSTAL_CODE>
+<COUNTRY VALUE="DE"/>
+<NUTS CODE="DE"/>
+</ADDRESS_CONTRACTOR>
+<NO_SME/>
+</CONTRACTOR>
+<VAL_ESTIMATED_TOTAL CURRENCY="EUR">250000</VAL_ESTIMATED_TOTAL>
+<VAL_TOTAL CURRENCY="EUR">228600</VAL_TOTAL>
+</AWARDED_CONTRACT>
+</AWARD_CONTRACT>
+<COMPLEMENTARY_INFO>
+<ADDRESS_REVIEW_BODY>
+<OFFICIALNAME>Tribunalul</OFFICIALNAME>
+<ADDRESS>rue du Fort Niedergrünewald</ADDRESS>
+<TOWN>Luxembourg</TOWN>
+<POSTAL_CODE>2925</POSTAL_CODE>
+<COUNTRY VALUE="LU"/>
+<PHONE>+352 4303-1</PHONE>
+<FAX>+352 4303-2100</FAX>
+<URL>http://curia.europa.eu</URL>
+</ADDRESS_REVIEW_BODY>
+<DATE_DISPATCH_NOTICE>2017-01-12</DATE_DISPATCH_NOTICE>
+</COMPLEMENTARY_INFO>
+</F03_2014>
+<F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="HR">
+<CONTRACTING_BODY>
+<ADDRESS_CONTRACTING_BODY>
+<OFFICIALNAME>Frontex</OFFICIALNAME>
+<ADDRESS>Plac Europejski 6</ADDRESS>
+<TOWN>Warsaw</TOWN>
+<POSTAL_CODE>00-844</POSTAL_CODE>
+<COUNTRY VALUE="PL"/>
+<PHONE>+48 222059500</PHONE>
+<E_MAIL>procurement@frontex.europa.eu</E_MAIL>
+<FAX>+48 222059501</FAX>
+<NUTS CODE="PL127"/>
+<URL_GENERAL>http://www.frontex.europa.eu</URL_GENERAL>
+</ADDRESS_CONTRACTING_BODY>
+<CA_TYPE VALUE="EU_INSTITUTION"/>
+<CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+</CONTRACTING_BODY>
+<OBJECT_CONTRACT>
+<TITLE>
+<P>Kupovina digitalnog modela površine duž granica EU-a</P>
+</TITLE>
+<REFERENCE_NUMBER>Frontex OP/625/2016/RS.</REFERENCE_NUMBER>
+<CPV_MAIN>
+<CPV_CODE CODE="72319000"/>
+</CPV_MAIN>
+<TYPE_CONTRACT CTYPE="SERVICES"/>
+<SHORT_DESCR>
+<P>Kupovina niza prostornih podataka digitalnog modela površine (digital surface model – DSM) koji se mogu koristiti za analize i vizualizacije. Digitalni model površine (DSM) smatra se digitalnim modelom elevacije koji obuhvaća elevacije „prve površine” (primjerice, vegetacija i objekti koje je izradio čovjek).</P>
+</SHORT_DESCR>
+<VAL_TOTAL CURRENCY="EUR">250000</VAL_TOTAL>
+<NO_LOT_DIVISION/>
+<OBJECT_DESCR ITEM="1">
+<NUTS CODE="PL127"/>
+<MAIN_SITE>
+<P>Usluge na daljinu i sjedište Frontexa.</P>
+</MAIN_SITE>
+<SHORT_DESCR>
+<P>Kupovina niza prostornih podataka digitalnog modela površine (digital surface model – DSM) koji se mogu koristiti za analize i vizualizacije.</P>
+</SHORT_DESCR>
+<AC_QUALITY>
+<AC_CRITERION>Rezolucija DSM-a</AC_CRITERION>
+<AC_WEIGHTING>20</AC_WEIGHTING>
+</AC_QUALITY>
+<AC_QUALITY>
+<AC_CRITERION>Starost DSM-a</AC_CRITERION>
+<AC_WEIGHTING>20</AC_WEIGHTING>
+</AC_QUALITY>
+<AC_PRICE>
+<AC_WEIGHTING>40/60</AC_WEIGHTING>
+</AC_PRICE>
+<NO_OPTIONS/>
+<NO_EU_PROGR_RELATED/>
+</OBJECT_DESCR>
+</OBJECT_CONTRACT>
+<PROCEDURE>
+<PT_OPEN/>
+<ACCELERATED_PROC>
+<P>Neuspješan postupak nadmetanja za predmet u pitanju te povećan migracijski pritisak stvorili su potrebu za ubrzanim postupkom tako da Frontex može pružiti rubnim državama članicama najsuvremenije alate u svrhu podrške njihovim aktivnostima nadzora.</P>
+</ACCELERATED_PROC>
+<NO_CONTRACT_COVERED_GPA/>
+<NOTICE_NUMBER_OJ>2016/S 190-339985</NOTICE_NUMBER_OJ>
+</PROCEDURE>
+<AWARD_CONTRACT ITEM="1">
+<CONTRACT_NO>Frontex OP/625/2016/RS</CONTRACT_NO>
+<TITLE>
+<P>Kupovina digitalnog modela površine duž granica EU-a</P>
+</TITLE>
+<AWARDED_CONTRACT>
+<DATE_CONCLUSION_CONTRACT>2016-12-30</DATE_CONCLUSION_CONTRACT>
+<NB_TENDERS_RECEIVED>3</NB_TENDERS_RECEIVED>
+<NB_TENDERS_RECEIVED_OTHER_EU>2</NB_TENDERS_RECEIVED_OTHER_EU>
+<NO_AWARDED_TO_GROUP/>
+<CONTRACTOR>
+<ADDRESS_CONTRACTOR>
+<OFFICIALNAME>GAF AG</OFFICIALNAME>
+<NATIONALID>DE 129 357 5612</NATIONALID>
+<ADDRESS>Arnulfstraße 199</ADDRESS>
+<TOWN>München</TOWN>
+<POSTAL_CODE>80634</POSTAL_CODE>
+<COUNTRY VALUE="DE"/>
+<NUTS CODE="DE"/>
+</ADDRESS_CONTRACTOR>
+<NO_SME/>
+</CONTRACTOR>
+<VAL_ESTIMATED_TOTAL CURRENCY="EUR">250000</VAL_ESTIMATED_TOTAL>
+<VAL_TOTAL CURRENCY="EUR">228600</VAL_TOTAL>
+</AWARDED_CONTRACT>
+</AWARD_CONTRACT>
+<COMPLEMENTARY_INFO>
+<ADDRESS_REVIEW_BODY>
+<OFFICIALNAME>Opći sud</OFFICIALNAME>
+<ADDRESS>rue du Fort Niedergrünewald</ADDRESS>
+<TOWN>Luxembourg</TOWN>
+<POSTAL_CODE>2925</POSTAL_CODE>
+<COUNTRY VALUE="LU"/>
+<PHONE>+352 4303-1</PHONE>
+<FAX>+352 4303-2100</FAX>
+<URL>http://curia.europa.eu</URL>
+</ADDRESS_REVIEW_BODY>
+<DATE_DISPATCH_NOTICE>2017-01-12</DATE_DISPATCH_NOTICE>
+</COMPLEMENTARY_INFO>
+</F03_2014>
+</FORM_SECTION>
+</TED_EXPORT>

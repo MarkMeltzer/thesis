@@ -1,0 +1,2098 @@
+<?xml version="1.0" encoding="UTF-8"?><TED_EXPORT xmlns="http://formex.publications.europa.eu/ted/schema/export/R2.0.9.S01.E01" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" VERSION="R2.0.9.S01.E01" xsi:schemaLocation="http://formex.publications.europa.eu/ted/schema/export/R2.0.9.S01.E01 TED_EXPORT.xsd" DOC_ID="312020-2016" EDITION="2016174">
+<TECHNICAL_SECTION>
+<RECEPTION_ID>16-322735-001</RECEPTION_ID>
+<DELETION_DATE>20161208</DELETION_DATE>
+<FORM_LG_LIST>DA DE EN ES FI FR EL IT NL PT SV CS ET HU LT LV MT PL SK SL GA BG RO HR </FORM_LG_LIST>
+<COMMENTS>From Convertor</COMMENTS>
+</TECHNICAL_SECTION>
+<LINKS_SECTION>
+<XML_SCHEMA_DEFINITION_LINK xlink:title="TED WEBSITE" xlink:href="http://ted.europa.eu" xlink:type="simple"/>
+<OFFICIAL_FORMS_LINK xlink:href="http://ted.europa.eu" xlink:type="simple"/>
+<FORMS_LABELS_LINK xlink:href="http://ted.europa.eu" xlink:type="simple"/>
+<ORIGINAL_CPV_LINK xlink:href="http://ted.europa.eu" xlink:type="simple"/>
+<ORIGINAL_NUTS_LINK xlink:href="http://ted.europa.eu" xlink:type="simple"/>
+</LINKS_SECTION>
+<CODED_DATA_SECTION>
+<REF_OJS>
+<COLL_OJ>S</COLL_OJ>
+<NO_OJ>174</NO_OJ>
+<DATE_PUB>20160909</DATE_PUB>
+</REF_OJS>
+<NOTICE_DATA>
+<NO_DOC_OJS>2016/S 174-312020</NO_DOC_OJS>
+<URI_LIST>
+<URI_DOC LG="DA">http://ted.europa.eu/udl?uri=TED:NOTICE:312020-2016:TEXT:DA:HTML</URI_DOC>
+<URI_DOC LG="DE">http://ted.europa.eu/udl?uri=TED:NOTICE:312020-2016:TEXT:DE:HTML</URI_DOC>
+<URI_DOC LG="EN">http://ted.europa.eu/udl?uri=TED:NOTICE:312020-2016:TEXT:EN:HTML</URI_DOC>
+<URI_DOC LG="ES">http://ted.europa.eu/udl?uri=TED:NOTICE:312020-2016:TEXT:ES:HTML</URI_DOC>
+<URI_DOC LG="FI">http://ted.europa.eu/udl?uri=TED:NOTICE:312020-2016:TEXT:FI:HTML</URI_DOC>
+<URI_DOC LG="FR">http://ted.europa.eu/udl?uri=TED:NOTICE:312020-2016:TEXT:FR:HTML</URI_DOC>
+<URI_DOC LG="EL">http://ted.europa.eu/udl?uri=TED:NOTICE:312020-2016:TEXT:EL:HTML</URI_DOC>
+<URI_DOC LG="IT">http://ted.europa.eu/udl?uri=TED:NOTICE:312020-2016:TEXT:IT:HTML</URI_DOC>
+<URI_DOC LG="NL">http://ted.europa.eu/udl?uri=TED:NOTICE:312020-2016:TEXT:NL:HTML</URI_DOC>
+<URI_DOC LG="PT">http://ted.europa.eu/udl?uri=TED:NOTICE:312020-2016:TEXT:PT:HTML</URI_DOC>
+<URI_DOC LG="SV">http://ted.europa.eu/udl?uri=TED:NOTICE:312020-2016:TEXT:SV:HTML</URI_DOC>
+<URI_DOC LG="CS">http://ted.europa.eu/udl?uri=TED:NOTICE:312020-2016:TEXT:CS:HTML</URI_DOC>
+<URI_DOC LG="ET">http://ted.europa.eu/udl?uri=TED:NOTICE:312020-2016:TEXT:ET:HTML</URI_DOC>
+<URI_DOC LG="HU">http://ted.europa.eu/udl?uri=TED:NOTICE:312020-2016:TEXT:HU:HTML</URI_DOC>
+<URI_DOC LG="LT">http://ted.europa.eu/udl?uri=TED:NOTICE:312020-2016:TEXT:LT:HTML</URI_DOC>
+<URI_DOC LG="LV">http://ted.europa.eu/udl?uri=TED:NOTICE:312020-2016:TEXT:LV:HTML</URI_DOC>
+<URI_DOC LG="MT">http://ted.europa.eu/udl?uri=TED:NOTICE:312020-2016:TEXT:MT:HTML</URI_DOC>
+<URI_DOC LG="PL">http://ted.europa.eu/udl?uri=TED:NOTICE:312020-2016:TEXT:PL:HTML</URI_DOC>
+<URI_DOC LG="SK">http://ted.europa.eu/udl?uri=TED:NOTICE:312020-2016:TEXT:SK:HTML</URI_DOC>
+<URI_DOC LG="SL">http://ted.europa.eu/udl?uri=TED:NOTICE:312020-2016:TEXT:SL:HTML</URI_DOC>
+<URI_DOC LG="GA">http://ted.europa.eu/udl?uri=TED:NOTICE:312020-2016:TEXT:GA:HTML</URI_DOC>
+<URI_DOC LG="BG">http://ted.europa.eu/udl?uri=TED:NOTICE:312020-2016:TEXT:BG:HTML</URI_DOC>
+<URI_DOC LG="RO">http://ted.europa.eu/udl?uri=TED:NOTICE:312020-2016:TEXT:RO:HTML</URI_DOC>
+<URI_DOC LG="HR">http://ted.europa.eu/udl?uri=TED:NOTICE:312020-2016:TEXT:HR:HTML</URI_DOC>
+</URI_LIST>
+<LG_ORIG>EN</LG_ORIG>
+<ISO_COUNTRY VALUE="PL"/>
+<IA_URL_GENERAL>http://www.frontex.europa.eu</IA_URL_GENERAL>
+<ORIGINAL_CPV CODE="72319000">Data supply services</ORIGINAL_CPV>
+<ORIGINAL_NUTS CODE="PL127">Miasto Warszawa</ORIGINAL_NUTS>
+<CA_CE_NUTS CODE="PL127">Miasto Warszawa</CA_CE_NUTS>
+<REF_NOTICE>
+<NO_DOC_OJS>2016/S 101-179691</NO_DOC_OJS>
+</REF_NOTICE>
+</NOTICE_DATA>
+<CODIF_DATA>
+<DS_DATE_DISPATCH>20160830</DS_DATE_DISPATCH>
+<AA_AUTHORITY_TYPE CODE="5">European Institution/Agency or International Organisation</AA_AUTHORITY_TYPE>
+<TD_DOCUMENT_TYPE CODE="7">Contract award notice</TD_DOCUMENT_TYPE>
+<NC_CONTRACT_NATURE CODE="4">Services</NC_CONTRACT_NATURE>
+<PR_PROC CODE="1">Open procedure</PR_PROC>
+<RP_REGULATION CODE="3">European Institution/Agency or International Organisation</RP_REGULATION>
+<TY_TYPE_BID CODE="9">Not applicable</TY_TYPE_BID>
+<AC_AWARD_CRIT CODE="1">Lowest price</AC_AWARD_CRIT>
+<MA_MAIN_ACTIVITIES CODE="S">General public services</MA_MAIN_ACTIVITIES>
+<HEADING>AGC03</HEADING>
+<INITIATOR>AG</INITIATOR>
+<DIRECTIVE VALUE="2014/24/EU"/>
+</CODIF_DATA>
+</CODED_DATA_SECTION>
+<TRANSLATION_SECTION>
+<ML_TITLES>
+<ML_TI_DOC LG="DA">
+<TI_CY>Polen</TI_CY>
+<TI_TOWN>Warszawa</TI_TOWN>
+<TI_TEXT>
+<P>Indkøb af den digitale overflademodel langs EU's ydre grænser</P>
+</TI_TEXT>
+</ML_TI_DOC>
+<ML_TI_DOC LG="DE">
+<TI_CY>Polen</TI_CY>
+<TI_TOWN>Warschau</TI_TOWN>
+<TI_TEXT>
+<P>Beschaffung des digitalen Oberflächenmodells entlang der Außengrenzen der EU</P>
+</TI_TEXT>
+</ML_TI_DOC>
+<ML_TI_DOC LG="EN">
+<TI_CY>Poland</TI_CY>
+<TI_TOWN>Warsaw</TI_TOWN>
+<TI_TEXT>
+<P>Purchase of the digital surface model along external EU borders</P>
+</TI_TEXT>
+</ML_TI_DOC>
+<ML_TI_DOC LG="ES">
+<TI_CY>Polonia</TI_CY>
+<TI_TOWN>Varsovia</TI_TOWN>
+<TI_TEXT>
+<P>Adquisición del modelo digital de superficies a lo largo de las fronteras externas de la Unión Europea</P>
+</TI_TEXT>
+</ML_TI_DOC>
+<ML_TI_DOC LG="FI">
+<TI_CY>Puola</TI_CY>
+<TI_TOWN>Varsova</TI_TOWN>
+<TI_TEXT>
+<P>EU:n ulkorajojen digitaalisen pintamallin hankinta</P>
+</TI_TEXT>
+</ML_TI_DOC>
+<ML_TI_DOC LG="FR">
+<TI_CY>Pologne</TI_CY>
+<TI_TOWN>Varsovie</TI_TOWN>
+<TI_TEXT>
+<P>Acquisition du modèle numérique de surface des zones situées le long des frontières externes de l'UE</P>
+</TI_TEXT>
+</ML_TI_DOC>
+<ML_TI_DOC LG="EL">
+<TI_CY>Πολωνία</TI_CY>
+<TI_TOWN>Βαρσοβία</TI_TOWN>
+<TI_TEXT>
+<P>Αγορά του ψηφιακού μοντέλου επιφάνειας κατά μήκος των εξωτερικών συνόρων της ΕΕ</P>
+</TI_TEXT>
+</ML_TI_DOC>
+<ML_TI_DOC LG="IT">
+<TI_CY>Polonia</TI_CY>
+<TI_TOWN>Varsavia</TI_TOWN>
+<TI_TEXT>
+<P>Acquisto del modello digitale di superficie lungo le frontiere esterne dell'UE</P>
+</TI_TEXT>
+</ML_TI_DOC>
+<ML_TI_DOC LG="NL">
+<TI_CY>Polen</TI_CY>
+<TI_TOWN>Warschau</TI_TOWN>
+<TI_TEXT>
+<P>Aankoop van het digitale oppervlaktemodel langs de buitengrenzen van de EU</P>
+</TI_TEXT>
+</ML_TI_DOC>
+<ML_TI_DOC LG="PT">
+<TI_CY>Polónia</TI_CY>
+<TI_TOWN>Varsóvia</TI_TOWN>
+<TI_TEXT>
+<P>Aquisição do modelo digital de superfície ao longo das fronteiras externas da UE</P>
+</TI_TEXT>
+</ML_TI_DOC>
+<ML_TI_DOC LG="SV">
+<TI_CY>Polen</TI_CY>
+<TI_TOWN>Warszawa</TI_TOWN>
+<TI_TEXT>
+<P>Inköp av den digitala ytmodellen längs EU:s yttre gränser</P>
+</TI_TEXT>
+</ML_TI_DOC>
+<ML_TI_DOC LG="CS">
+<TI_CY>Polsko</TI_CY>
+<TI_TOWN>Varšava</TI_TOWN>
+<TI_TEXT>
+<P>Nákup digitálního modelu povrchu na vnějších hranicích EU</P>
+</TI_TEXT>
+</ML_TI_DOC>
+<ML_TI_DOC LG="ET">
+<TI_CY>Poola</TI_CY>
+<TI_TOWN>Varssavi</TI_TOWN>
+<TI_TEXT>
+<P>ELi välispiiri maapinna digitaalse mudeli ost</P>
+</TI_TEXT>
+</ML_TI_DOC>
+<ML_TI_DOC LG="HU">
+<TI_CY>Lengyelország</TI_CY>
+<TI_TOWN>Varsó</TI_TOWN>
+<TI_TEXT>
+<P>Az Európai Unió külső határai digitális felszíni modelljének beszerzése</P>
+</TI_TEXT>
+</ML_TI_DOC>
+<ML_TI_DOC LG="LT">
+<TI_CY>Lenkija</TI_CY>
+<TI_TOWN>Varšuva</TI_TOWN>
+<TI_TEXT>
+<P>Skaitmeninio paviršiaus modelio pirkimas ties išorinėmis ES sienomis</P>
+</TI_TEXT>
+</ML_TI_DOC>
+<ML_TI_DOC LG="LV">
+<TI_CY>Polija</TI_CY>
+<TI_TOWN>Varšava</TI_TOWN>
+<TI_TEXT>
+<P>Pie ES ārējām robežām esošo apgabalu digitālā virsmas modeļa iegāde</P>
+</TI_TEXT>
+</ML_TI_DOC>
+<ML_TI_DOC LG="MT">
+<TI_CY>il-Polonja</TI_CY>
+<TI_TOWN>Varsavja</TI_TOWN>
+<TI_TEXT>
+<P>Xiri tal-mudell diġitali tat-terren tul fruntieri esterni tal-UE</P>
+</TI_TEXT>
+</ML_TI_DOC>
+<ML_TI_DOC LG="PL">
+<TI_CY>Polska</TI_CY>
+<TI_TOWN>Warszawa</TI_TOWN>
+<TI_TEXT>
+<P>Zakup numerycznego modelu powierzchni terenu wzdłuż granic zewnętrznych UE</P>
+</TI_TEXT>
+</ML_TI_DOC>
+<ML_TI_DOC LG="SK">
+<TI_CY>Poľsko</TI_CY>
+<TI_TOWN>Varšava</TI_TOWN>
+<TI_TEXT>
+<P>Nákup digitálneho modelu povrchu na vonkajších hraniciach EÚ</P>
+</TI_TEXT>
+</ML_TI_DOC>
+<ML_TI_DOC LG="SL">
+<TI_CY>Poljska</TI_CY>
+<TI_TOWN>Varšava</TI_TOWN>
+<TI_TEXT>
+<P>Nakup digitalnega modela površja vzdolž zunanjih meja EU</P>
+</TI_TEXT>
+</ML_TI_DOC>
+<ML_TI_DOC LG="GA">
+<TI_CY>Pholainn, an</TI_CY>
+<TI_TOWN>Vársá</TI_TOWN>
+<TI_TEXT>
+<P>Samhail dhigiteach den dromchla ar feadh theorainneacha seachtracha an AE a cheannach</P>
+</TI_TEXT>
+</ML_TI_DOC>
+<ML_TI_DOC LG="BG">
+<TI_CY>Полша</TI_CY>
+<TI_TOWN>Варшава</TI_TOWN>
+<TI_TEXT>
+<P>Закупуване на цифров модел на повърхността по външните граници на ЕС</P>
+</TI_TEXT>
+</ML_TI_DOC>
+<ML_TI_DOC LG="RO">
+<TI_CY>Polonia</TI_CY>
+<TI_TOWN>Varșovia</TI_TOWN>
+<TI_TEXT>
+<P>Achiziționarea modelului digital al suprafeței de-a lungul frontierelor externe ale UE</P>
+</TI_TEXT>
+</ML_TI_DOC>
+<ML_TI_DOC LG="HR">
+<TI_CY>Poljska</TI_CY>
+<TI_TOWN>Varšava</TI_TOWN>
+<TI_TEXT>
+<P>Kupovina digitalnog modela površine duž vanjskih granica EU-a</P>
+</TI_TEXT>
+</ML_TI_DOC>
+</ML_TITLES>
+<ML_AA_NAMES>
+<AA_NAME LG="DA">Frontex</AA_NAME>
+<AA_NAME LG="DE">Frontex</AA_NAME>
+<AA_NAME LG="EN">Frontex</AA_NAME>
+<AA_NAME LG="ES">Frontex</AA_NAME>
+<AA_NAME LG="FI">Euroopan unionin jäsenvaltioiden ulkorajayhteistyöstä huolehtiva virasto (Frontex)</AA_NAME>
+<AA_NAME LG="FR">Frontex</AA_NAME>
+<AA_NAME LG="EL">Frontex</AA_NAME>
+<AA_NAME LG="IT">Frontex</AA_NAME>
+<AA_NAME LG="NL">Frontex</AA_NAME>
+<AA_NAME LG="PT">Frontex</AA_NAME>
+<AA_NAME LG="SV">Frontex</AA_NAME>
+<AA_NAME LG="CS">Frontex</AA_NAME>
+<AA_NAME LG="ET">Frontex</AA_NAME>
+<AA_NAME LG="HU">Frontex</AA_NAME>
+<AA_NAME LG="LT">Frontex</AA_NAME>
+<AA_NAME LG="LV">Frontex</AA_NAME>
+<AA_NAME LG="MT">Frontex</AA_NAME>
+<AA_NAME LG="PL">Frontex</AA_NAME>
+<AA_NAME LG="SK">Frontex</AA_NAME>
+<AA_NAME LG="SL">Frontex</AA_NAME>
+<AA_NAME LG="GA">Frontex</AA_NAME>
+<AA_NAME LG="BG">Frontex</AA_NAME>
+<AA_NAME LG="RO">Frontex</AA_NAME>
+<AA_NAME LG="HR">Frontex</AA_NAME>
+</ML_AA_NAMES>
+</TRANSLATION_SECTION>
+<FORM_SECTION>
+<F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="DA">
+<CONTRACTING_BODY>
+<ADDRESS_CONTRACTING_BODY>
+<OFFICIALNAME>Frontex</OFFICIALNAME>
+<ADDRESS>Plac Europejski 6</ADDRESS>
+<TOWN>Warsaw</TOWN>
+<POSTAL_CODE>00-844</POSTAL_CODE>
+<COUNTRY VALUE="PL"/>
+<PHONE>+48 222059500</PHONE>
+<E_MAIL>procurement@frontex.europa.eu</E_MAIL>
+<FAX>+48 222059501</FAX>
+<NUTS CODE="PL127"/>
+<URL_GENERAL>http://www.frontex.europa.eu</URL_GENERAL>
+</ADDRESS_CONTRACTING_BODY>
+<CA_TYPE VALUE="EU_INSTITUTION"/>
+<CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+</CONTRACTING_BODY>
+<OBJECT_CONTRACT>
+<TITLE>
+<P>Indkøb af den digitale overflademodel langs EU's ydre grænser.</P>
+</TITLE>
+<REFERENCE_NUMBER>Frontex/OP/286/RS.</REFERENCE_NUMBER>
+<CPV_MAIN>
+<CPV_CODE CODE="72319000"/>
+</CPV_MAIN>
+<TYPE_CONTRACT CTYPE="SERVICES"/>
+<SHORT_DESCR>
+<P>Indkøb af en række geodata fra digitale overflademodeller, som kan anvendes til analyser og visualiseringer. Den digitale overflademodel forstås som en digital højdemodel, som omfatter »første overflade«-højder (f.eks. vegetation og menneskeskabte strukturer).</P>
+</SHORT_DESCR>
+<NO_LOT_DIVISION/>
+<OBJECT_DESCR ITEM="1">
+<NUTS CODE="PL127"/>
+<MAIN_SITE>
+<P>fjernarbejde og Frontex' hovedkvarter.</P>
+</MAIN_SITE>
+<SHORT_DESCR>
+<P>Indkøb af en række geodata fra digitale overflademodeller, som kan anvendes til analyser og visualiseringer.</P>
+</SHORT_DESCR>
+<AC_PRICE/>
+<NO_OPTIONS/>
+<NO_EU_PROGR_RELATED/>
+</OBJECT_DESCR>
+</OBJECT_CONTRACT>
+<PROCEDURE>
+<PT_OPEN/>
+<NO_CONTRACT_COVERED_GPA/>
+<NOTICE_NUMBER_OJ>2016/S 101-179691</NOTICE_NUMBER_OJ>
+</PROCEDURE>
+<AWARD_CONTRACT ITEM="1">
+<TITLE>
+<P>Indkøb af den digitale overflademodel langs EU's ydre grænser</P>
+</TITLE>
+<NO_AWARDED_CONTRACT>
+<PROCUREMENT_DISCONTINUED/>
+</NO_AWARDED_CONTRACT>
+</AWARD_CONTRACT>
+<COMPLEMENTARY_INFO>
+<INFO_ADD>
+<P>Finansforordningerne (Europa-Parlamentets og Rådets forordning (EU, Euratom) nr. 966/2012 af 25.10.2012 om de finansielle regler vedrørende Unionens almindelige budget og om ophævelse af Rådets forordning (EF, Euratom) nr. 1605/2002, som ændret, og Kommissionens delegerede forordning (EU) nr. 1268/2012 af 29.10.2012 om gennemførelsesbestemmelser til Europa-Parlamentets og Rådets forordning (EU, Euratom) nr. 966/2012 om de finansielle regler vedrørende Unionens almindelige budget, som ændret) forudser ikke en situation, hvor 2 tilbudsgivere indgiver samme billigste pris i situationer, hvor prisen er det eneste tildelingskriterium, og derfor kan udbudsproceduren ikke afsluttes.</P>
+</INFO_ADD>
+<ADDRESS_REVIEW_BODY>
+<OFFICIALNAME>Retten</OFFICIALNAME>
+<ADDRESS>rue du Fort Niedergrünewald </ADDRESS>
+<TOWN>Luxembourg</TOWN>
+<POSTAL_CODE>2925</POSTAL_CODE>
+<COUNTRY VALUE="LU"/>
+<PHONE>+352 4303-1</PHONE>
+<FAX>+352 4303-2100</FAX>
+<URL>http://curia.europa.eu</URL>
+</ADDRESS_REVIEW_BODY>
+<REVIEW_PROCEDURE>
+<P>senest 2 måneder efter underrettelsen af klageren eller, i tilfælde af udeblivelse deraf, efter den dag, sagen er taget til efterretning.</P>
+</REVIEW_PROCEDURE>
+<DATE_DISPATCH_NOTICE>2016-08-30</DATE_DISPATCH_NOTICE>
+</COMPLEMENTARY_INFO>
+</F03_2014>
+<F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="DE">
+<CONTRACTING_BODY>
+<ADDRESS_CONTRACTING_BODY>
+<OFFICIALNAME>Frontex</OFFICIALNAME>
+<ADDRESS>Plac Europejski 6</ADDRESS>
+<TOWN>Warsaw</TOWN>
+<POSTAL_CODE>00-844</POSTAL_CODE>
+<COUNTRY VALUE="PL"/>
+<PHONE>+48 222059500</PHONE>
+<E_MAIL>procurement@frontex.europa.eu</E_MAIL>
+<FAX>+48 222059501</FAX>
+<NUTS CODE="PL127"/>
+<URL_GENERAL>http://www.frontex.europa.eu</URL_GENERAL>
+</ADDRESS_CONTRACTING_BODY>
+<CA_TYPE VALUE="EU_INSTITUTION"/>
+<CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+</CONTRACTING_BODY>
+<OBJECT_CONTRACT>
+<TITLE>
+<P>Beschaffung des digitalen Oberflächenmodells entlang der Außengrenzen der EU.</P>
+</TITLE>
+<REFERENCE_NUMBER>Frontex/OP/286/RS.</REFERENCE_NUMBER>
+<CPV_MAIN>
+<CPV_CODE CODE="72319000"/>
+</CPV_MAIN>
+<TYPE_CONTRACT CTYPE="SERVICES"/>
+<SHORT_DESCR>
+<P>Beschaffung einer Reihe von Raumdaten zu einem digitalen Oberflächenmodell (Digital Surface Model — DSM), die zu Analysezwecken und für Visualisierungen verwendet werden können. Das digitale Oberflächenmodell (DSM) ist als digitales Höhenmodell zu verstehen, das Höhenpunkte der „primären Oberfläche“ (z. B. Vegetation und vom Menschen geschaffene Bauwerke) umfasst.</P>
+</SHORT_DESCR>
+<NO_LOT_DIVISION/>
+<OBJECT_DESCR ITEM="1">
+<NUTS CODE="PL127"/>
+<MAIN_SITE>
+<P>externe Dienstleistungen und Hauptsitz von Frontex.</P>
+</MAIN_SITE>
+<SHORT_DESCR>
+<P>Beschaffung einer Reihe von Raumdaten zu einem digitalen Oberflächenmodell (DSM), die zu Analysezwecken und für Visualisierungen verwendet werden können.</P>
+</SHORT_DESCR>
+<AC_PRICE/>
+<NO_OPTIONS/>
+<NO_EU_PROGR_RELATED/>
+</OBJECT_DESCR>
+</OBJECT_CONTRACT>
+<PROCEDURE>
+<PT_OPEN/>
+<NO_CONTRACT_COVERED_GPA/>
+<NOTICE_NUMBER_OJ>2016/S 101-179691</NOTICE_NUMBER_OJ>
+</PROCEDURE>
+<AWARD_CONTRACT ITEM="1">
+<TITLE>
+<P>Beschaffung des digitalen Oberflächenmodells entlang der Außengrenzen der EU</P>
+</TITLE>
+<NO_AWARDED_CONTRACT>
+<PROCUREMENT_DISCONTINUED/>
+</NO_AWARDED_CONTRACT>
+</AWARD_CONTRACT>
+<COMPLEMENTARY_INFO>
+<INFO_ADD>
+<P>Die Haushaltsordnung (Verordnung (EU, Euratom) Nr. 966/2012 des Europäischen Parlaments und des Rates vom 25.10.2012 über die Haushaltsordnung für den Gesamthaushaltsplan der Union und zur Aufhebung der Verordnung (EG, Euratom) Nr. 1605/2002 des Rates, in geänderter Fassung, und delegierte Verordnung (EU) Nr. 1268/2012 der Kommission vom 29.10.2012 über die Anwendungsbestimmungen für die Verordnung (EU, Euratom) Nr. 966/2012 des Europäischen Parlaments und des Rates über die Haushaltsordnung für den Gesamthaushaltsplan der Union, in geänderter Fassung) sieht die Situation nicht vor, dass 2 Bieter ein Angebot zum gleichen niedrigsten Preis einreichen, wenn der Preis das einzige Vergabekriterium darstellt, weshalb das Vergabeverfahren nicht abgeschlossen werden kann.</P>
+</INFO_ADD>
+<ADDRESS_REVIEW_BODY>
+<OFFICIALNAME>Gericht der Europäischen Union</OFFICIALNAME>
+<ADDRESS>rue du Fort Niedergrünewald </ADDRESS>
+<TOWN>Luxembourg</TOWN>
+<POSTAL_CODE>2925</POSTAL_CODE>
+<COUNTRY VALUE="LU"/>
+<PHONE>+352 4303-1</PHONE>
+<FAX>+352 4303-2100</FAX>
+<URL>http://curia.europa.eu</URL>
+</ADDRESS_REVIEW_BODY>
+<REVIEW_PROCEDURE>
+<P>binnen 2 Monaten ab Mitteilung an den Kläger oder, in Ermangelung dessen, vom Zeitpunkt der Kenntnisnahme an.</P>
+</REVIEW_PROCEDURE>
+<DATE_DISPATCH_NOTICE>2016-08-30</DATE_DISPATCH_NOTICE>
+</COMPLEMENTARY_INFO>
+</F03_2014>
+<F03_2014 CATEGORY="ORIGINAL" FORM="F03" LG="EN">
+<CONTRACTING_BODY>
+<ADDRESS_CONTRACTING_BODY>
+<OFFICIALNAME>Frontex</OFFICIALNAME>
+<ADDRESS>Plac Europejski 6</ADDRESS>
+<TOWN>Warsaw</TOWN>
+<POSTAL_CODE>00-844</POSTAL_CODE>
+<COUNTRY VALUE="PL"/>
+<PHONE>+48 222059500</PHONE>
+<E_MAIL>procurement@frontex.europa.eu</E_MAIL>
+<FAX>+48 222059501</FAX>
+<NUTS CODE="PL127"/>
+<URL_GENERAL>http://www.frontex.europa.eu</URL_GENERAL>
+</ADDRESS_CONTRACTING_BODY>
+<CA_TYPE VALUE="EU_INSTITUTION"/>
+<CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+</CONTRACTING_BODY>
+<OBJECT_CONTRACT>
+<TITLE>
+<P>Purchase of the digital surface model along external EU borders.</P>
+</TITLE>
+<REFERENCE_NUMBER>Frontex/OP/286/RS.</REFERENCE_NUMBER>
+<CPV_MAIN>
+<CPV_CODE CODE="72319000"/>
+</CPV_MAIN>
+<TYPE_CONTRACT CTYPE="SERVICES"/>
+<SHORT_DESCR>
+<P>Purchase of a set of a digital surface model (DSM) spatial data which can be used for analyses and visualisations. The digital surface model (DSM) is understood as a digital elevation model which includes ‘first surface’ elevations (e.g. vegetation and man-made structures).</P>
+</SHORT_DESCR>
+<NO_LOT_DIVISION/>
+<OBJECT_DESCR ITEM="1">
+<NUTS CODE="PL127"/>
+<MAIN_SITE>
+<P>Remote services and Frontex HQ.</P>
+</MAIN_SITE>
+<SHORT_DESCR>
+<P>Purchase of a set of a digital surface model (DSM) spatial data which can be used for analyses and visualisations.</P>
+</SHORT_DESCR>
+<AC_PRICE/>
+<NO_OPTIONS/>
+<NO_EU_PROGR_RELATED/>
+</OBJECT_DESCR>
+</OBJECT_CONTRACT>
+<PROCEDURE>
+<PT_OPEN/>
+<NO_CONTRACT_COVERED_GPA/>
+<NOTICE_NUMBER_OJ>2016/S 101-179691</NOTICE_NUMBER_OJ>
+</PROCEDURE>
+<AWARD_CONTRACT ITEM="1">
+<TITLE>
+<P>Purchase of the digital surface model along external EU borders</P>
+</TITLE>
+<NO_AWARDED_CONTRACT>
+<PROCUREMENT_DISCONTINUED/>
+</NO_AWARDED_CONTRACT>
+</AWARD_CONTRACT>
+<COMPLEMENTARY_INFO>
+<INFO_ADD>
+<P>The Financial Regulations (Regulation (EU, Euratom) No 966/2012 of the European Parliament and of the Council of 25.10.2012 on the financial rules applicable to the general budget of the Union and repealing Council Regulation (EC, Euratom) No 1605/2002 as amended and Commission Delegated Regulation (EU) No 1268/2012 of 29.10.2012 on the rules of application of Regulation (EU, Euratom) No 966/2012 of the European Parliament and of the Council on the financial rules applicable to the general budget of the Union as amended) do not foresee the situation when 2 offerers present the same cheapest price offer in situations when the price is the only award criterion therefore the procurement procedure cannot be concluded.</P>
+</INFO_ADD>
+<ADDRESS_REVIEW_BODY>
+<OFFICIALNAME>General Court</OFFICIALNAME>
+<ADDRESS>rue du Fort Niedergrünewald </ADDRESS>
+<TOWN>Luxembourg</TOWN>
+<POSTAL_CODE>2925</POSTAL_CODE>
+<COUNTRY VALUE="LU"/>
+<PHONE>+352 4303-1</PHONE>
+<FAX>+352 4303-2100</FAX>
+<URL>http://curia.europa.eu</URL>
+</ADDRESS_REVIEW_BODY>
+<REVIEW_PROCEDURE>
+<P>Within 2 months of the notification to the plaintiff, or, in absence thereof, of the day on which it came to the knowledge.</P>
+</REVIEW_PROCEDURE>
+<DATE_DISPATCH_NOTICE>2016-08-30</DATE_DISPATCH_NOTICE>
+</COMPLEMENTARY_INFO>
+</F03_2014>
+<F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="ES">
+<CONTRACTING_BODY>
+<ADDRESS_CONTRACTING_BODY>
+<OFFICIALNAME>Frontex</OFFICIALNAME>
+<ADDRESS>Plac Europejski 6</ADDRESS>
+<TOWN>Warsaw</TOWN>
+<POSTAL_CODE>00-844</POSTAL_CODE>
+<COUNTRY VALUE="PL"/>
+<PHONE>+48 222059500</PHONE>
+<E_MAIL>procurement@frontex.europa.eu</E_MAIL>
+<FAX>+48 222059501</FAX>
+<NUTS CODE="PL127"/>
+<URL_GENERAL>http://www.frontex.europa.eu</URL_GENERAL>
+</ADDRESS_CONTRACTING_BODY>
+<CA_TYPE VALUE="EU_INSTITUTION"/>
+<CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+</CONTRACTING_BODY>
+<OBJECT_CONTRACT>
+<TITLE>
+<P>Adquisición del modelo digital de superficies a lo largo de las fronteras externas de la Unión Europea.</P>
+</TITLE>
+<REFERENCE_NUMBER>Frontex/OP/286/RS.</REFERENCE_NUMBER>
+<CPV_MAIN>
+<CPV_CODE CODE="72319000"/>
+</CPV_MAIN>
+<TYPE_CONTRACT CTYPE="SERVICES"/>
+<SHORT_DESCR>
+<P>Adquisición de un conjunto de datos espaciales del modelo digital de superficies que podrá utilizarse para los análisis y las visualizaciones. El modelo digital de superficies se entiende como un modelo digital de elevaciones que incluye elevaciones «de primera superficie» (por ejemplo, vegetación y estructuras artificiales).</P>
+</SHORT_DESCR>
+<NO_LOT_DIVISION/>
+<OBJECT_DESCR ITEM="1">
+<NUTS CODE="PL127"/>
+<MAIN_SITE>
+<P>Servicios remotos y sede de Frontex.</P>
+</MAIN_SITE>
+<SHORT_DESCR>
+<P>Adquisición de un conjunto de datos espaciales del modelo digital de superficies que podrá utilizarse para los análisis y las visualizaciones.</P>
+</SHORT_DESCR>
+<AC_PRICE/>
+<NO_OPTIONS/>
+<NO_EU_PROGR_RELATED/>
+</OBJECT_DESCR>
+</OBJECT_CONTRACT>
+<PROCEDURE>
+<PT_OPEN/>
+<NO_CONTRACT_COVERED_GPA/>
+<NOTICE_NUMBER_OJ>2016/S 101-179691</NOTICE_NUMBER_OJ>
+</PROCEDURE>
+<AWARD_CONTRACT ITEM="1">
+<TITLE>
+<P>Adquisición del modelo digital de superficies a lo largo de las fronteras externas de la Unión Europea</P>
+</TITLE>
+<NO_AWARDED_CONTRACT>
+<PROCUREMENT_DISCONTINUED/>
+</NO_AWARDED_CONTRACT>
+</AWARD_CONTRACT>
+<COMPLEMENTARY_INFO>
+<INFO_ADD>
+<P>El Reglamento financiero [Reglamento (UE, Euratom) n.<FT TYPE="SUP">o</FT> 966/2012 del Parlamento Europeo y del Consejo, de 25.10.2012, sobre las normas financieras aplicables al presupuesto general de la Unión y por el que se deroga el Reglamento (CE, Euratom) n.<FT TYPE="SUP">o</FT> 1605/2002 del Consejo, en su versión modificada, y Reglamento Delegado (UE) n.<FT TYPE="SUP">o</FT> 1268/2012 de la Comisión, de 29.10.2012, sobre las normas de desarrollo del Reglamento (UE, Euratom) n.<FT TYPE="SUP">o</FT> 966/2012 del Parlamento Europeo y del Consejo, sobre las normas financieras aplicables al presupuesto general de la Unión, en su versión modificada] no prevé la situación en la que 2 solicitantes presentan la oferta con el mismo precio más bajo en situaciones en las que el precio es el único criterio de adjudicación, por lo tanto, no puede concluirse el procedimiento de licitación.</P>
+</INFO_ADD>
+<ADDRESS_REVIEW_BODY>
+<OFFICIALNAME>Tribunal General</OFFICIALNAME>
+<ADDRESS>rue du Fort Niedergrünewald </ADDRESS>
+<TOWN>Luxembourg</TOWN>
+<POSTAL_CODE>2925</POSTAL_CODE>
+<COUNTRY VALUE="LU"/>
+<PHONE>+352 4303-1</PHONE>
+<FAX>+352 4303-2100</FAX>
+<URL>http://curia.europa.eu</URL>
+</ADDRESS_REVIEW_BODY>
+<REVIEW_PROCEDURE>
+<P>En un plazo de 2 meses a partir de la notificación al recurrente o, en su defecto, del día en que este haya tenido conocimiento del acto en cuestión.</P>
+</REVIEW_PROCEDURE>
+<DATE_DISPATCH_NOTICE>2016-08-30</DATE_DISPATCH_NOTICE>
+</COMPLEMENTARY_INFO>
+</F03_2014>
+<F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="FI">
+<CONTRACTING_BODY>
+<ADDRESS_CONTRACTING_BODY>
+<OFFICIALNAME>Euroopan unionin jäsenvaltioiden ulkorajayhteistyöstä huolehtiva virasto (Frontex)</OFFICIALNAME>
+<ADDRESS>Plac Europejski 6</ADDRESS>
+<TOWN>Warsaw</TOWN>
+<POSTAL_CODE>00-844</POSTAL_CODE>
+<COUNTRY VALUE="PL"/>
+<PHONE>+48 222059500</PHONE>
+<E_MAIL>procurement@frontex.europa.eu</E_MAIL>
+<FAX>+48 222059501</FAX>
+<NUTS CODE="PL127"/>
+<URL_GENERAL>http://www.frontex.europa.eu</URL_GENERAL>
+</ADDRESS_CONTRACTING_BODY>
+<CA_TYPE VALUE="EU_INSTITUTION"/>
+<CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+</CONTRACTING_BODY>
+<OBJECT_CONTRACT>
+<TITLE>
+<P>EU:n ulkorajojen digitaalisen pintamallin hankinta</P>
+</TITLE>
+<REFERENCE_NUMBER>Frontex/OP/286/RS.</REFERENCE_NUMBER>
+<CPV_MAIN>
+<CPV_CODE CODE="72319000"/>
+</CPV_MAIN>
+<TYPE_CONTRACT CTYPE="SERVICES"/>
+<SHORT_DESCR>
+<P>Hankinnan kohteena on joukko digitaalisia pintamalleja (digital surface model – DSM) koskevia paikkatietoja, joita voidaan käyttää analyyseihin ja visualisointeihin. Digitaalisella pintamallilla tarkoitetaan digitaalista maastomallia, johon sisältyvät ensisijaiset pinnankorkeudet (esimerkiksi kasvillisuus ja ihmisen tekemät rakenteet).</P>
+</SHORT_DESCR>
+<NO_LOT_DIVISION/>
+<OBJECT_DESCR ITEM="1">
+<NUTS CODE="PL127"/>
+<MAIN_SITE>
+<P>etäpalvelut ja Frontexin päätoimipaikka.</P>
+</MAIN_SITE>
+<SHORT_DESCR>
+<P>Hankinnan kohteena on joukko digitaalisia pintamalleja koskevia paikkatietoja, joita voidaan käyttää analyyseihin ja visualisointeihin.</P>
+</SHORT_DESCR>
+<AC_PRICE/>
+<NO_OPTIONS/>
+<NO_EU_PROGR_RELATED/>
+</OBJECT_DESCR>
+</OBJECT_CONTRACT>
+<PROCEDURE>
+<PT_OPEN/>
+<NO_CONTRACT_COVERED_GPA/>
+<NOTICE_NUMBER_OJ>2016/S 101-179691</NOTICE_NUMBER_OJ>
+</PROCEDURE>
+<AWARD_CONTRACT ITEM="1">
+<TITLE>
+<P>EU:n ulkorajojen digitaalisen pintamallin hankinta</P>
+</TITLE>
+<NO_AWARDED_CONTRACT>
+<PROCUREMENT_DISCONTINUED/>
+</NO_AWARDED_CONTRACT>
+</AWARD_CONTRACT>
+<COMPLEMENTARY_INFO>
+<INFO_ADD>
+<P>Varainhoitoasetuksissa (Euroopan parlamentin ja neuvoston asetus (EU, Euratom) N:o 966/2012, annettu 25.10.2012, unionin yleiseen talousarvioon sovellettavista varainhoitosäännöistä ja neuvoston asetuksen (EY, Euratom) N:o 1605/2002 kumoamisesta, sellaisena kuin se on muutettuna, ja komission delegoitu asetus (EU) N:o 1268/2012, annettu 29.10.2012, unionin yleiseen talousarvioon sovellettavista varainhoitosäännöistä annetun Euroopan parlamentin ja neuvoston asetuksen (EU, Euratom) N:o 966/2012 soveltamissäännöistä, sellaisena kuin se on muutettuna) ei huomioida tilannetta, jossa 2 tarjoajaa esittää saman edullisimman hintatarjouksen tilanteissa, joissa hinta on ainoa ratkaisuperuste. Näin ollen hankintamenettelyä ei voida saattaa loppuun.</P>
+</INFO_ADD>
+<ADDRESS_REVIEW_BODY>
+<OFFICIALNAME>Unionin yleinen tuomioistuin</OFFICIALNAME>
+<ADDRESS>rue du Fort Niedergrünewald </ADDRESS>
+<TOWN>Luxembourg</TOWN>
+<POSTAL_CODE>2925</POSTAL_CODE>
+<COUNTRY VALUE="LU"/>
+<PHONE>+352 4303-1</PHONE>
+<FAX>+352 4303-2100</FAX>
+<URL>http://curia.europa.eu</URL>
+</ADDRESS_REVIEW_BODY>
+<REVIEW_PROCEDURE>
+<P>muutoksenhakupyynnöt on jätettävä 2 kuukauden kuluessa siitä, kun asianomistaja on saanut ilmoituksen asiasta tai, mikäli ilmoitusta ei ole tehty, 2 kuukauden kuluessa siitä päivästä, kun asia on saatu tiedoksi.</P>
+</REVIEW_PROCEDURE>
+<DATE_DISPATCH_NOTICE>2016-08-30</DATE_DISPATCH_NOTICE>
+</COMPLEMENTARY_INFO>
+</F03_2014>
+<F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="FR">
+<CONTRACTING_BODY>
+<ADDRESS_CONTRACTING_BODY>
+<OFFICIALNAME>Frontex</OFFICIALNAME>
+<ADDRESS>Plac Europejski 6</ADDRESS>
+<TOWN>Warsaw</TOWN>
+<POSTAL_CODE>00-844</POSTAL_CODE>
+<COUNTRY VALUE="PL"/>
+<PHONE>+48 222059500</PHONE>
+<E_MAIL>procurement@frontex.europa.eu</E_MAIL>
+<FAX>+48 222059501</FAX>
+<NUTS CODE="PL127"/>
+<URL_GENERAL>http://www.frontex.europa.eu</URL_GENERAL>
+</ADDRESS_CONTRACTING_BODY>
+<CA_TYPE VALUE="EU_INSTITUTION"/>
+<CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+</CONTRACTING_BODY>
+<OBJECT_CONTRACT>
+<TITLE>
+<P>Acquisition du modèle numérique de surface des zones situées le long des frontières externes de l'UE.</P>
+</TITLE>
+<REFERENCE_NUMBER>Frontex/OP/286/RS.</REFERENCE_NUMBER>
+<CPV_MAIN>
+<CPV_CODE CODE="72319000"/>
+</CPV_MAIN>
+<TYPE_CONTRACT CTYPE="SERVICES"/>
+<SHORT_DESCR>
+<P>Acquisition d'un ensemble de données spatiales (modèle numérique de surface) pouvant être utilisé pour des analyses et des représentations. Le modèle numérique de surface est un modèle numérique de terrain qui comprend les élévations de la surface visible (par exemple la végétation et les structures artificielles).</P>
+</SHORT_DESCR>
+<NO_LOT_DIVISION/>
+<OBJECT_DESCR ITEM="1">
+<NUTS CODE="PL127"/>
+<MAIN_SITE>
+<P>services à distance et siège de Frontex.</P>
+</MAIN_SITE>
+<SHORT_DESCR>
+<P>Acquisition d'un ensemble de données spatiales (modèle numérique de surface) pouvant être utilisé pour des analyses et des représentations.</P>
+</SHORT_DESCR>
+<AC_PRICE/>
+<NO_OPTIONS/>
+<NO_EU_PROGR_RELATED/>
+</OBJECT_DESCR>
+</OBJECT_CONTRACT>
+<PROCEDURE>
+<PT_OPEN/>
+<NO_CONTRACT_COVERED_GPA/>
+<NOTICE_NUMBER_OJ>2016/S 101-179691</NOTICE_NUMBER_OJ>
+</PROCEDURE>
+<AWARD_CONTRACT ITEM="1">
+<TITLE>
+<P>Acquisition du modèle numérique de surface des zones situées le long des frontières externes de l'UE</P>
+</TITLE>
+<NO_AWARDED_CONTRACT>
+<PROCUREMENT_DISCONTINUED/>
+</NO_AWARDED_CONTRACT>
+</AWARD_CONTRACT>
+<COMPLEMENTARY_INFO>
+<INFO_ADD>
+<P>Les règlements financiers [règlement (UE, Euratom) n<FT TYPE="SUP">o</FT> 966/2012 du Parlement européen et du Conseil du 25.10.2012 relatif aux règles financières applicables au budget général de l'Union et abrogeant le règlement (CE, Euratom) n<FT TYPE="SUP">o</FT> 1605/2002 du Conseil, tel que modifié et le règlement délégué (UE) n<FT TYPE="SUP">o</FT> 1268/2012 de la Commission du 29.10.2012 relatif aux règles d’application du règlement (UE, Euratom) n<FT TYPE="SUP">o</FT> 966/2012 du Parlement européen et du Conseil relatif aux règles financières applicables au budget général de l’Union, tel que modifié] n'envisagent pas l'éventualité que 2 soumissionnaires puissent présenter une proposition de prix le plus bas identique dans le cadre d'une procédure pour laquelle le prix est le seul critère d'attribution, par conséquent la procédure de passation ne peut pas être conclue.</P>
+</INFO_ADD>
+<ADDRESS_REVIEW_BODY>
+<OFFICIALNAME>Tribunal</OFFICIALNAME>
+<ADDRESS>rue du Fort Niedergrünewald </ADDRESS>
+<TOWN>Luxembourg</TOWN>
+<POSTAL_CODE>2925</POSTAL_CODE>
+<COUNTRY VALUE="LU"/>
+<PHONE>+352 4303-1</PHONE>
+<FAX>+352 4303-2100</FAX>
+<URL>http://curia.europa.eu</URL>
+</ADDRESS_REVIEW_BODY>
+<REVIEW_PROCEDURE>
+<P>dans les 2 mois à compter de la notification au requérant ou, à défaut, du jour où celui-ci en a eu connaissance.</P>
+</REVIEW_PROCEDURE>
+<DATE_DISPATCH_NOTICE>2016-08-30</DATE_DISPATCH_NOTICE>
+</COMPLEMENTARY_INFO>
+</F03_2014>
+<F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="EL">
+<CONTRACTING_BODY>
+<ADDRESS_CONTRACTING_BODY>
+<OFFICIALNAME>Frontex</OFFICIALNAME>
+<ADDRESS>Plac Europejski 6</ADDRESS>
+<TOWN>Warsaw</TOWN>
+<POSTAL_CODE>00-844</POSTAL_CODE>
+<COUNTRY VALUE="PL"/>
+<PHONE>+48 222059500</PHONE>
+<E_MAIL>procurement@frontex.europa.eu</E_MAIL>
+<FAX>+48 222059501</FAX>
+<NUTS CODE="PL127"/>
+<URL_GENERAL>http://www.frontex.europa.eu</URL_GENERAL>
+</ADDRESS_CONTRACTING_BODY>
+<CA_TYPE VALUE="EU_INSTITUTION"/>
+<CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+</CONTRACTING_BODY>
+<OBJECT_CONTRACT>
+<TITLE>
+<P>Αγορά του ψηφιακού μοντέλου επιφάνειας κατά μήκος των εξωτερικών συνόρων της ΕΕ.</P>
+</TITLE>
+<REFERENCE_NUMBER>Frontex/OP/286/RS.</REFERENCE_NUMBER>
+<CPV_MAIN>
+<CPV_CODE CODE="72319000"/>
+</CPV_MAIN>
+<TYPE_CONTRACT CTYPE="SERVICES"/>
+<SHORT_DESCR>
+<P>Αγορά ενός συνόλου χωρικών δεδομένων ψηφιακού μοντέλου επιφάνειας (DSM) που μπορούν να χρησιμοποιηθούν για αναλύσεις και οπτικοποιήσεις. Ως ψηφιακό μοντέλο επιφάνειας (DSM) νοείται ένα ψηφιακό υψομετρικό μοντέλο το οποίο περιλαμβάνει υπερυψώσεις «πρώτης επιφάνειας» (π.χ. βλάστηση και ανθρωπογενείς δομές).</P>
+</SHORT_DESCR>
+<NO_LOT_DIVISION/>
+<OBJECT_DESCR ITEM="1">
+<NUTS CODE="PL127"/>
+<MAIN_SITE>
+<P>Υπηρεσίες εξ αποστάσεως και στα κεντρικά γραφεία του Frontex.</P>
+</MAIN_SITE>
+<SHORT_DESCR>
+<P>Αγορά ενός συνόλου χωρικών δεδομένων ψηφιακού μοντέλου επιφάνειας (DSM) που μπορούν να χρησιμοποιηθούν για αναλύσεις και οπτικοποιήσεις.</P>
+</SHORT_DESCR>
+<AC_PRICE/>
+<NO_OPTIONS/>
+<NO_EU_PROGR_RELATED/>
+</OBJECT_DESCR>
+</OBJECT_CONTRACT>
+<PROCEDURE>
+<PT_OPEN/>
+<NO_CONTRACT_COVERED_GPA/>
+<NOTICE_NUMBER_OJ>2016/S 101-179691</NOTICE_NUMBER_OJ>
+</PROCEDURE>
+<AWARD_CONTRACT ITEM="1">
+<TITLE>
+<P>Αγορά του ψηφιακού μοντέλου επιφάνειας κατά μήκος των εξωτερικών συνόρων της ΕΕ</P>
+</TITLE>
+<NO_AWARDED_CONTRACT>
+<PROCUREMENT_DISCONTINUED/>
+</NO_AWARDED_CONTRACT>
+</AWARD_CONTRACT>
+<COMPLEMENTARY_INFO>
+<INFO_ADD>
+<P>Οι δημοσιονομικοί κανονισμοί [κανονισμός (ΕΕ, Ευρατόμ) αριθ. 966/2012 του Ευρωπαϊκού Κοινοβουλίου και του Συμβουλίου, της 25.10.2012, σχετικά με τους δημοσιονομικούς κανόνες που εφαρμόζονται στον γενικό προϋπολογισμό της Ένωσης και την κατάργηση του κανονισμού (ΕΚ, Ευρατόμ) αριθ. 1605/2002 του Συμβουλίου, όπως τροποποιήθηκε, και κατ' εξουσιοδότηση κανονισμός (ΕΕ) αριθ. 1268/2012, της 29.10.2012, σχετικά με τους κανόνες εφαρμογής του κανονισμού (ΕΕ, Ευρατόμ) αριθ. 966/2012 του Ευρωπαϊκού Κοινοβουλίου και του Συμβουλίου για τους δημοσιονομικούς κανόνες που εφαρμόζονται στον γενικό προϋπολογισμό της Ένωσης, όπως τροποποιήθηκε] δεν προβλέπουν την περίπτωση δύο προσφερόντων που υποβάλουν προσφορά με την ίδια χαμηλότερη τιμή σε περιπτώσεις όπου η τιμή αποτελεί το μόνο κριτήριο ανάθεσης, επομένως δεν καθίσταται δυνατή η ολοκλήρωση της διαδικασίας ανάθεσης.</P>
+</INFO_ADD>
+<ADDRESS_REVIEW_BODY>
+<OFFICIALNAME>Γενικό Δικαστήριο</OFFICIALNAME>
+<ADDRESS>rue du Fort Niedergrünewald </ADDRESS>
+<TOWN>Luxembourg</TOWN>
+<POSTAL_CODE>2925</POSTAL_CODE>
+<COUNTRY VALUE="LU"/>
+<PHONE>+352 4303-1</PHONE>
+<FAX>+352 4303-2100</FAX>
+<URL>http://curia.europa.eu</URL>
+</ADDRESS_REVIEW_BODY>
+<REVIEW_PROCEDURE>
+<P>εντός 2 μηνών από την κοινοποίηση στον προσφεύγοντα ή, ελλείψει τέτοιας, από την ημέρα που ο ίδιος έλαβε γνώση.</P>
+</REVIEW_PROCEDURE>
+<DATE_DISPATCH_NOTICE>2016-08-30</DATE_DISPATCH_NOTICE>
+</COMPLEMENTARY_INFO>
+</F03_2014>
+<F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="IT">
+<CONTRACTING_BODY>
+<ADDRESS_CONTRACTING_BODY>
+<OFFICIALNAME>Frontex</OFFICIALNAME>
+<ADDRESS>Plac Europejski 6</ADDRESS>
+<TOWN>Warsaw</TOWN>
+<POSTAL_CODE>00-844</POSTAL_CODE>
+<COUNTRY VALUE="PL"/>
+<PHONE>+48 222059500</PHONE>
+<E_MAIL>procurement@frontex.europa.eu</E_MAIL>
+<FAX>+48 222059501</FAX>
+<NUTS CODE="PL127"/>
+<URL_GENERAL>http://www.frontex.europa.eu</URL_GENERAL>
+</ADDRESS_CONTRACTING_BODY>
+<CA_TYPE VALUE="EU_INSTITUTION"/>
+<CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+</CONTRACTING_BODY>
+<OBJECT_CONTRACT>
+<TITLE>
+<P>Acquisto del modello digitale di superficie lungo le frontiere esterne dell'UE.</P>
+</TITLE>
+<REFERENCE_NUMBER>Frontex/OP/286/RS.</REFERENCE_NUMBER>
+<CPV_MAIN>
+<CPV_CODE CODE="72319000"/>
+</CPV_MAIN>
+<TYPE_CONTRACT CTYPE="SERVICES"/>
+<SHORT_DESCR>
+<P>Acquisto di un set di dati territoriali relativi al modello digitale di superficie (digital surface model, DSM) che può essere utilizzato per analisi e visualizzazioni. Per modello digitale di superficie (DSM) si intende un modello digitale di elevazione che comprende le elevazioni della «prima superficie» (ad es. vegetazione e strutture artificiali).</P>
+</SHORT_DESCR>
+<NO_LOT_DIVISION/>
+<OBJECT_DESCR ITEM="1">
+<NUTS CODE="PL127"/>
+<MAIN_SITE>
+<P>servizi a distanza e sede principale di Frontex.</P>
+</MAIN_SITE>
+<SHORT_DESCR>
+<P>Acquisto di un set di dati territoriali relativi al modello digitale di superficie (digital surface model, DSM) che può essere utilizzato per analisi e visualizzazioni.</P>
+</SHORT_DESCR>
+<AC_PRICE/>
+<NO_OPTIONS/>
+<NO_EU_PROGR_RELATED/>
+</OBJECT_DESCR>
+</OBJECT_CONTRACT>
+<PROCEDURE>
+<PT_OPEN/>
+<NO_CONTRACT_COVERED_GPA/>
+<NOTICE_NUMBER_OJ>2016/S 101-179691</NOTICE_NUMBER_OJ>
+</PROCEDURE>
+<AWARD_CONTRACT ITEM="1">
+<TITLE>
+<P>Acquisto del modello digitale di superficie lungo le frontiere esterne dell'UE</P>
+</TITLE>
+<NO_AWARDED_CONTRACT>
+<PROCUREMENT_DISCONTINUED/>
+</NO_AWARDED_CONTRACT>
+</AWARD_CONTRACT>
+<COMPLEMENTARY_INFO>
+<INFO_ADD>
+<P>I regolamenti finanziari [regolamento (UE, Euratom ) n. 966/2012 del Parlamento europeo e del Consiglio del 25.10.2012 che stabilisce le regole finanziarie applicabili al bilancio generale dell'Unione e che abroga il regolamento (CE, Euratom) n. 1605/2002, come modificato, e regolamento delegato (UE) n. 1268/2012 della Commissione, del 29.10.2012, recante le modalità di applicazione del regolamento (UE, Euratom) n. 966/2012 del Parlamento europeo e del Consiglio che stabilisce le regole finanziarie applicabili al bilancio generale dell’Unione, come modificato] non prevedono la situazione in cui 2 offerenti presentano un'offerta con lo stesso prezzo più basso laddove il prezzo è il solo criterio di aggiudicazione, pertanto la procedura d'appalto non può essere conclusa.</P>
+</INFO_ADD>
+<ADDRESS_REVIEW_BODY>
+<OFFICIALNAME>Tribunale</OFFICIALNAME>
+<ADDRESS>rue du Fort Niedergrünewald </ADDRESS>
+<TOWN>Luxembourg</TOWN>
+<POSTAL_CODE>2925</POSTAL_CODE>
+<COUNTRY VALUE="LU"/>
+<PHONE>+352 4303-1</PHONE>
+<FAX>+352 4303-2100</FAX>
+<URL>http://curia.europa.eu</URL>
+</ADDRESS_REVIEW_BODY>
+<REVIEW_PROCEDURE>
+<P>entro 2 mesi dalla notifica al ricorrente o, in assenza, dal giorno in cui ne è venuto a conoscenza.</P>
+</REVIEW_PROCEDURE>
+<DATE_DISPATCH_NOTICE>2016-08-30</DATE_DISPATCH_NOTICE>
+</COMPLEMENTARY_INFO>
+</F03_2014>
+<F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="NL">
+<CONTRACTING_BODY>
+<ADDRESS_CONTRACTING_BODY>
+<OFFICIALNAME>Frontex</OFFICIALNAME>
+<ADDRESS>Plac Europejski 6</ADDRESS>
+<TOWN>Warsaw</TOWN>
+<POSTAL_CODE>00-844</POSTAL_CODE>
+<COUNTRY VALUE="PL"/>
+<PHONE>+48 222059500</PHONE>
+<E_MAIL>procurement@frontex.europa.eu</E_MAIL>
+<FAX>+48 222059501</FAX>
+<NUTS CODE="PL127"/>
+<URL_GENERAL>http://www.frontex.europa.eu</URL_GENERAL>
+</ADDRESS_CONTRACTING_BODY>
+<CA_TYPE VALUE="EU_INSTITUTION"/>
+<CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+</CONTRACTING_BODY>
+<OBJECT_CONTRACT>
+<TITLE>
+<P>Aankoop van het digitale oppervlaktemodel langs de buitengrenzen van de EU.</P>
+</TITLE>
+<REFERENCE_NUMBER>Frontex/OP/286/RS.</REFERENCE_NUMBER>
+<CPV_MAIN>
+<CPV_CODE CODE="72319000"/>
+</CPV_MAIN>
+<TYPE_CONTRACT CTYPE="SERVICES"/>
+<SHORT_DESCR>
+<P>Aankoop van een reeks ruimtelijke gegevens van digitale oppervlaktemodellen (DSM – digital surface models) die kunnen worden gebruikt voor analyses en visualisaties. Het digitale oppervlaktemodel moet worden gezien als een digitaal hoogtemodel dat alle hoogteverschillen op het aardoppervlak omvat (bijv. vegetatie en bouwwerken).</P>
+</SHORT_DESCR>
+<NO_LOT_DIVISION/>
+<OBJECT_DESCR ITEM="1">
+<NUTS CODE="PL127"/>
+<MAIN_SITE>
+<P>Diensten op afstand en het hoofdkantoor van Frontex.</P>
+</MAIN_SITE>
+<SHORT_DESCR>
+<P>Aankoop van een reeks ruimtelijke gegevens van digitale oppervlaktemodellen die kunnen worden gebruikt voor analyses en visualisaties.</P>
+</SHORT_DESCR>
+<AC_PRICE/>
+<NO_OPTIONS/>
+<NO_EU_PROGR_RELATED/>
+</OBJECT_DESCR>
+</OBJECT_CONTRACT>
+<PROCEDURE>
+<PT_OPEN/>
+<NO_CONTRACT_COVERED_GPA/>
+<NOTICE_NUMBER_OJ>2016/S 101-179691</NOTICE_NUMBER_OJ>
+</PROCEDURE>
+<AWARD_CONTRACT ITEM="1">
+<TITLE>
+<P>Aankoop van het digitale oppervlaktemodel langs de buitengrenzen van de EU</P>
+</TITLE>
+<NO_AWARDED_CONTRACT>
+<PROCUREMENT_DISCONTINUED/>
+</NO_AWARDED_CONTRACT>
+</AWARD_CONTRACT>
+<COMPLEMENTARY_INFO>
+<INFO_ADD>
+<P>Het Financieel Reglement (Verordening (EU, Euratom) nr. 966/2012 van het Europees Parlement en de Raad van 25.10.2012 tot vaststelling van de financiële regels van toepassing op de algemene begroting van de Unie en tot intrekking van Verordening (EG, Euratom) nr. 1605/2002, zoals gewijzigd en Gedelegeerde Verordening (EU) nr. 1268/2012 van de Commissie van 29.10.2012 houdende uitvoeringsvoorschriften voor Verordening (EU, Euratom) nr. 966/2012 van het Europees Parlement en de Raad tot vaststelling van de financiële regels van toepassing op de algemene begroting van de Unie, zoals gewijzigd) voorziet geen situatie waarin 2 inschrijvers dezelfde laagste prijsofferte voorstellen in situaties waarin de prijs het enige gunningscriterium is. Daarom kan de aanbestedingsprocedure niet worden gesloten.</P>
+</INFO_ADD>
+<ADDRESS_REVIEW_BODY>
+<OFFICIALNAME>Gerecht</OFFICIALNAME>
+<ADDRESS>rue du Fort Niedergrünewald </ADDRESS>
+<TOWN>Luxembourg</TOWN>
+<POSTAL_CODE>2925</POSTAL_CODE>
+<COUNTRY VALUE="LU"/>
+<PHONE>+352 4303-1</PHONE>
+<FAX>+352 4303-2100</FAX>
+<URL>http://curia.europa.eu</URL>
+</ADDRESS_REVIEW_BODY>
+<REVIEW_PROCEDURE>
+<P>binnen 2 maanden na de kennisgeving aan de klager of, bij ontbreken daarvan, binnen 2 maanden na de dag waarop het bekend werd.</P>
+</REVIEW_PROCEDURE>
+<DATE_DISPATCH_NOTICE>2016-08-30</DATE_DISPATCH_NOTICE>
+</COMPLEMENTARY_INFO>
+</F03_2014>
+<F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="PT">
+<CONTRACTING_BODY>
+<ADDRESS_CONTRACTING_BODY>
+<OFFICIALNAME>Frontex</OFFICIALNAME>
+<ADDRESS>Plac Europejski 6</ADDRESS>
+<TOWN>Warsaw</TOWN>
+<POSTAL_CODE>00-844</POSTAL_CODE>
+<COUNTRY VALUE="PL"/>
+<PHONE>+48 222059500</PHONE>
+<E_MAIL>procurement@frontex.europa.eu</E_MAIL>
+<FAX>+48 222059501</FAX>
+<NUTS CODE="PL127"/>
+<URL_GENERAL>http://www.frontex.europa.eu</URL_GENERAL>
+</ADDRESS_CONTRACTING_BODY>
+<CA_TYPE VALUE="EU_INSTITUTION"/>
+<CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+</CONTRACTING_BODY>
+<OBJECT_CONTRACT>
+<TITLE>
+<P>Aquisição do modelo digital de superfície ao longo das fronteiras externas da UE.</P>
+</TITLE>
+<REFERENCE_NUMBER>Frontex/OP/286/RS.</REFERENCE_NUMBER>
+<CPV_MAIN>
+<CPV_CODE CODE="72319000"/>
+</CPV_MAIN>
+<TYPE_CONTRACT CTYPE="SERVICES"/>
+<SHORT_DESCR>
+<P>Aquisição de um conjunto de dados geográficos do modelo digital de superfície que pode ser utilizado para análises e visualizações. O modelo digital de superfície é considerado como um modelo de elevação digital que inclui elevações de «primeira superfície» (por exemplo, vegetação e estruturas artificiais).</P>
+</SHORT_DESCR>
+<NO_LOT_DIVISION/>
+<OBJECT_DESCR ITEM="1">
+<NUTS CODE="PL127"/>
+<MAIN_SITE>
+<P>Serviços remotos e sede da Frontex.</P>
+</MAIN_SITE>
+<SHORT_DESCR>
+<P>Aquisição de um conjunto de dados geográficos do modelo digital de superfície que pode ser utilizado para análises e visualizações.</P>
+</SHORT_DESCR>
+<AC_PRICE/>
+<NO_OPTIONS/>
+<NO_EU_PROGR_RELATED/>
+</OBJECT_DESCR>
+</OBJECT_CONTRACT>
+<PROCEDURE>
+<PT_OPEN/>
+<NO_CONTRACT_COVERED_GPA/>
+<NOTICE_NUMBER_OJ>2016/S 101-179691</NOTICE_NUMBER_OJ>
+</PROCEDURE>
+<AWARD_CONTRACT ITEM="1">
+<TITLE>
+<P>Aquisição do modelo digital de superfície ao longo das fronteiras externas da UE</P>
+</TITLE>
+<NO_AWARDED_CONTRACT>
+<PROCUREMENT_DISCONTINUED/>
+</NO_AWARDED_CONTRACT>
+</AWARD_CONTRACT>
+<COMPLEMENTARY_INFO>
+<INFO_ADD>
+<P>Os Regulamentos Financeiros [Regulamento (UE, Euratom) n.<FT TYPE="SUP">o</FT> 966/2012 do Parlamento Europeu e do Conselho, de 25.10.2012, relativo às disposições financeiras aplicáveis ao orçamento geral da União e que revoga o Regulamento (CE, Euratom) n.<FT TYPE="SUP">o</FT> 1605/2002 do Conselho, com a redação que lhe foi dada, e o Regulamento Delegado (UE) n.<FT TYPE="SUP">o</FT> 1268/2012 da Comissão, de 29.10.2012, sobre as normas de execução do Regulamento (UE, Euratom) n.<FT TYPE="SUP">o</FT> 966/2012 do Parlamento Europeu e do Conselho, relativo às disposições financeiras aplicáveis ao orçamento geral da União, com a redação que lhe foi dada] não preveem a possibilidade de ser apresentada uma proposta com a mesma oferta de preços igualmente baixa por parte de 2 candidatos em que o preço seja o único critério de adjudicação e, por conseguinte, o concurso não poderá ser celebrado.</P>
+</INFO_ADD>
+<ADDRESS_REVIEW_BODY>
+<OFFICIALNAME>Tribunal Geral</OFFICIALNAME>
+<ADDRESS>rue du Fort Niedergrünewald </ADDRESS>
+<TOWN>Luxembourg</TOWN>
+<POSTAL_CODE>2925</POSTAL_CODE>
+<COUNTRY VALUE="LU"/>
+<PHONE>+352 4303-1</PHONE>
+<FAX>+352 4303-2100</FAX>
+<URL>http://curia.europa.eu</URL>
+</ADDRESS_REVIEW_BODY>
+<REVIEW_PROCEDURE>
+<P>Num prazo de 2 meses a contar da data de notificação ao requerente ou, na sua falta, a contar do dia em que o requerente tenha tomado conhecimento do ato.</P>
+</REVIEW_PROCEDURE>
+<DATE_DISPATCH_NOTICE>2016-08-30</DATE_DISPATCH_NOTICE>
+</COMPLEMENTARY_INFO>
+</F03_2014>
+<F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="SV">
+<CONTRACTING_BODY>
+<ADDRESS_CONTRACTING_BODY>
+<OFFICIALNAME>Frontex</OFFICIALNAME>
+<ADDRESS>Plac Europejski 6</ADDRESS>
+<TOWN>Warsaw</TOWN>
+<POSTAL_CODE>00-844</POSTAL_CODE>
+<COUNTRY VALUE="PL"/>
+<PHONE>+48 222059500</PHONE>
+<E_MAIL>procurement@frontex.europa.eu</E_MAIL>
+<FAX>+48 222059501</FAX>
+<NUTS CODE="PL127"/>
+<URL_GENERAL>http://www.frontex.europa.eu</URL_GENERAL>
+</ADDRESS_CONTRACTING_BODY>
+<CA_TYPE VALUE="EU_INSTITUTION"/>
+<CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+</CONTRACTING_BODY>
+<OBJECT_CONTRACT>
+<TITLE>
+<P>Inköp av den digitala ytmodellen längs EU:s yttre gränser</P>
+</TITLE>
+<REFERENCE_NUMBER>Frontex/OP/286/RS.</REFERENCE_NUMBER>
+<CPV_MAIN>
+<CPV_CODE CODE="72319000"/>
+</CPV_MAIN>
+<TYPE_CONTRACT CTYPE="SERVICES"/>
+<SHORT_DESCR>
+<P>Inköp av en uppsättning rumsliga data avseende en digital ytmodell (digital surface model – DSM) som kan användas för analyser och visualiseringar. Den digitala ytmodellen (DSM) ska förstås som en digital höjdmodell som inbegriper upphöjningar vid den första avlästa ytan (t.ex. växtlighet och strukturer som skapats av människor).</P>
+</SHORT_DESCR>
+<NO_LOT_DIVISION/>
+<OBJECT_DESCR ITEM="1">
+<NUTS CODE="PL127"/>
+<MAIN_SITE>
+<P>Distanstjänster och Frontex huvudkontor (headquarters – HQ).</P>
+</MAIN_SITE>
+<SHORT_DESCR>
+<P>Inköp av en uppsättning rumsliga data avseende en digital ytmodell (DSM) som kan användas för analyser och visualiseringar.</P>
+</SHORT_DESCR>
+<AC_PRICE/>
+<NO_OPTIONS/>
+<NO_EU_PROGR_RELATED/>
+</OBJECT_DESCR>
+</OBJECT_CONTRACT>
+<PROCEDURE>
+<PT_OPEN/>
+<NO_CONTRACT_COVERED_GPA/>
+<NOTICE_NUMBER_OJ>2016/S 101-179691</NOTICE_NUMBER_OJ>
+</PROCEDURE>
+<AWARD_CONTRACT ITEM="1">
+<TITLE>
+<P>Inköp av den digitala ytmodellen längs EU:s yttre gränser</P>
+</TITLE>
+<NO_AWARDED_CONTRACT>
+<PROCUREMENT_DISCONTINUED/>
+</NO_AWARDED_CONTRACT>
+</AWARD_CONTRACT>
+<COMPLEMENTARY_INFO>
+<INFO_ADD>
+<P>Budgetförordningarna (Europaparlamentets och Rådets förordning (EU, Euratom) nr 966/2012 av den 25.10.2012 om finansiella regler för unionens allmänna budget och om upphävande av rådets förordning (EG, Euratom) nr 1605/2002 och Kommissionens delegerade förordning (EU) nr 1268/2012 av den 29.10.2012 om tillämpningsföreskrifter för Europaparlamentets och rådets förordning (EU, Euratom) nr 966/2012 om finansiella regler för unionens allmänna budget) innehåller inga bestämmelser om fall där 2 anbudsgivare anger samma lägsta anbudspris i fall där priset är det enda tilldelningskriteriet, upphandlingsförfarandet kan därför inte slutföras.</P>
+</INFO_ADD>
+<ADDRESS_REVIEW_BODY>
+<OFFICIALNAME>Tribunalen</OFFICIALNAME>
+<ADDRESS>rue du Fort Niedergrünewald </ADDRESS>
+<TOWN>Luxembourg</TOWN>
+<POSTAL_CODE>2925</POSTAL_CODE>
+<COUNTRY VALUE="LU"/>
+<PHONE>+352 4303-1</PHONE>
+<FAX>+352 4303-2100</FAX>
+<URL>http://curia.europa.eu</URL>
+</ADDRESS_REVIEW_BODY>
+<REVIEW_PROCEDURE>
+<P>Inom 2 månader från den dag då den klagande delgavs eller, om så inte skett, från den dag då det blev känt.</P>
+</REVIEW_PROCEDURE>
+<DATE_DISPATCH_NOTICE>2016-08-30</DATE_DISPATCH_NOTICE>
+</COMPLEMENTARY_INFO>
+</F03_2014>
+<F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="CS">
+<CONTRACTING_BODY>
+<ADDRESS_CONTRACTING_BODY>
+<OFFICIALNAME>Frontex</OFFICIALNAME>
+<ADDRESS>Plac Europejski 6</ADDRESS>
+<TOWN>Warsaw</TOWN>
+<POSTAL_CODE>00-844</POSTAL_CODE>
+<COUNTRY VALUE="PL"/>
+<PHONE>+48 222059500</PHONE>
+<E_MAIL>procurement@frontex.europa.eu</E_MAIL>
+<FAX>+48 222059501</FAX>
+<NUTS CODE="PL127"/>
+<URL_GENERAL>http://www.frontex.europa.eu</URL_GENERAL>
+</ADDRESS_CONTRACTING_BODY>
+<CA_TYPE VALUE="EU_INSTITUTION"/>
+<CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+</CONTRACTING_BODY>
+<OBJECT_CONTRACT>
+<TITLE>
+<P>Nákup digitálního modelu povrchu na vnějších hranicích EU.</P>
+</TITLE>
+<REFERENCE_NUMBER>Frontex/OP/286/RS.</REFERENCE_NUMBER>
+<CPV_MAIN>
+<CPV_CODE CODE="72319000"/>
+</CPV_MAIN>
+<TYPE_CONTRACT CTYPE="SERVICES"/>
+<SHORT_DESCR>
+<P>Nákup sady prostorových dat z digitálního modelu povrchu (DSM), která lze použít pro analýzy a vizualizace. Digitálním modelem povrchu (DSM) se rozumí digitální výškový model, který zahrnuje vyvýšení „prvního povrchu“ (např. vegetace a člověkem vytvořené struktury).</P>
+</SHORT_DESCR>
+<NO_LOT_DIVISION/>
+<OBJECT_DESCR ITEM="1">
+<NUTS CODE="PL127"/>
+<MAIN_SITE>
+<P>Dálkové poskytování služeb a ústředí agentury Frontex.</P>
+</MAIN_SITE>
+<SHORT_DESCR>
+<P>Nákup sady prostorových dat z digitálního modelu povrchu (DSM), která lze použít pro analýzy a vizualizace.</P>
+</SHORT_DESCR>
+<AC_PRICE/>
+<NO_OPTIONS/>
+<NO_EU_PROGR_RELATED/>
+</OBJECT_DESCR>
+</OBJECT_CONTRACT>
+<PROCEDURE>
+<PT_OPEN/>
+<NO_CONTRACT_COVERED_GPA/>
+<NOTICE_NUMBER_OJ>2016/S 101-179691</NOTICE_NUMBER_OJ>
+</PROCEDURE>
+<AWARD_CONTRACT ITEM="1">
+<TITLE>
+<P>Nákup digitálního modelu povrchu na vnějších hranicích EU</P>
+</TITLE>
+<NO_AWARDED_CONTRACT>
+<PROCUREMENT_DISCONTINUED/>
+</NO_AWARDED_CONTRACT>
+</AWARD_CONTRACT>
+<COMPLEMENTARY_INFO>
+<INFO_ADD>
+<P>Finanční nařízení (nařízení Evropského parlamentu a Rady (EU, Euratom) č. 966/2012 ze dne 25.10.2012 o finančních pravidlech platných pro obecný rozpočet Unie, kterým se ruší nařízení Rady (ES, Euratom) č. 1605/2002 ve znění nařízení Komise v přenesené pravomoci (EU) č. 1268/2012 dne 29.10.2012 o prováděcích pravidlech nařízení Evropského parlamentu a Rady (EU, Euratom) č. 966/2012 o finančních pravidlech platných pro obecný rozpočet Unie ve znění) nepředjímají situaci, kdy 2 uchazeči předloží tutéž nejlevnější nabídku v situacích, kdy je cena jediným zadávacím kritériem, a výběrové řízení tedy nelze ukončit.</P>
+</INFO_ADD>
+<ADDRESS_REVIEW_BODY>
+<OFFICIALNAME>Tribunál</OFFICIALNAME>
+<ADDRESS>rue du Fort Niedergrünewald </ADDRESS>
+<TOWN>Luxembourg</TOWN>
+<POSTAL_CODE>2925</POSTAL_CODE>
+<COUNTRY VALUE="LU"/>
+<PHONE>+352 4303-1</PHONE>
+<FAX>+352 4303-2100</FAX>
+<URL>http://curia.europa.eu</URL>
+</ADDRESS_REVIEW_BODY>
+<REVIEW_PROCEDURE>
+<P>Během 2 měsíců od oznámení žalobci nebo, není-li k dispozici, ode dne, kdy vstoupilo ve známost.</P>
+</REVIEW_PROCEDURE>
+<DATE_DISPATCH_NOTICE>2016-08-30</DATE_DISPATCH_NOTICE>
+</COMPLEMENTARY_INFO>
+</F03_2014>
+<F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="ET">
+<CONTRACTING_BODY>
+<ADDRESS_CONTRACTING_BODY>
+<OFFICIALNAME>Frontex</OFFICIALNAME>
+<ADDRESS>Plac Europejski 6</ADDRESS>
+<TOWN>Warsaw</TOWN>
+<POSTAL_CODE>00-844</POSTAL_CODE>
+<COUNTRY VALUE="PL"/>
+<PHONE>+48 222059500</PHONE>
+<E_MAIL>procurement@frontex.europa.eu</E_MAIL>
+<FAX>+48 222059501</FAX>
+<NUTS CODE="PL127"/>
+<URL_GENERAL>http://www.frontex.europa.eu</URL_GENERAL>
+</ADDRESS_CONTRACTING_BODY>
+<CA_TYPE VALUE="EU_INSTITUTION"/>
+<CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+</CONTRACTING_BODY>
+<OBJECT_CONTRACT>
+<TITLE>
+<P>ELi välispiiri maapinna digitaalse mudeli ost</P>
+</TITLE>
+<REFERENCE_NUMBER>Frontex/OP/286/RS.</REFERENCE_NUMBER>
+<CPV_MAIN>
+<CPV_CODE CODE="72319000"/>
+</CPV_MAIN>
+<TYPE_CONTRACT CTYPE="SERVICES"/>
+<SHORT_DESCR>
+<P>Selliste digitaalse pinnamudeli (digital surface model (DSM)) ruumiandmete komplekti ost, mida saab kasutada analüüsideks ja visualiseerimisteks. Digitaalne pinnamudel tähendab digitaalset kõrgusjoonte mudelit, mis sisaldab esmapinna kõrgusjooni (nt taimkatet ja inimtekkelisi konstruktsioone).</P>
+</SHORT_DESCR>
+<NO_LOT_DIVISION/>
+<OBJECT_DESCR ITEM="1">
+<NUTS CODE="PL127"/>
+<MAIN_SITE>
+<P>kaugtööteenused ja Frontexi peakorter.</P>
+</MAIN_SITE>
+<SHORT_DESCR>
+<P>Selliste digitaalse pinnamudeli ruumiandmete komplekti ost, mida saab kasutada analüüsideks ja visualiseerimisteks.</P>
+</SHORT_DESCR>
+<AC_PRICE/>
+<NO_OPTIONS/>
+<NO_EU_PROGR_RELATED/>
+</OBJECT_DESCR>
+</OBJECT_CONTRACT>
+<PROCEDURE>
+<PT_OPEN/>
+<NO_CONTRACT_COVERED_GPA/>
+<NOTICE_NUMBER_OJ>2016/S 101-179691</NOTICE_NUMBER_OJ>
+</PROCEDURE>
+<AWARD_CONTRACT ITEM="1">
+<TITLE>
+<P>ELi välispiiri maapinna digitaalse mudeli ost</P>
+</TITLE>
+<NO_AWARDED_CONTRACT>
+<PROCUREMENT_DISCONTINUED/>
+</NO_AWARDED_CONTRACT>
+</AWARD_CONTRACT>
+<COMPLEMENTARY_INFO>
+<INFO_ADD>
+<P>Finantsmäärustes (Euroopa Parlamendi ja nõukogu 25.10.2012 määrus (EL, Euratom) nr 966/2012, mis käsitleb Euroopa Liidu üldeelarve suhtes kohaldatavaid finantseeskirju ning millega muudetakse nõukogu määrust (EÜ, Euratom) nr 1605/2002, muudetud komisjoni 29.10.2012 delegeeritud määrusega (EL) nr 1268/2012, mis käsitleb Euroopa Parlamendi ja nõukogu määruse (EL, Euratom) nr 966/2012 (mis käsitleb Euroopa Liidu üldeelarve suhtes kohaldatavaid finantseeskirju) kohaldamise eeskirju (muudetud)) ei ole ette nähtud olukorda, milles 2 pakkujat esitavad sama soodsaima hinna olukorras, kus ainuke lepingu sõlmimise kriteerium on hind, mistõttu hankemenetlust ei saa lõpule viia.</P>
+</INFO_ADD>
+<ADDRESS_REVIEW_BODY>
+<OFFICIALNAME>Üldkohus</OFFICIALNAME>
+<ADDRESS>rue du Fort Niedergrünewald </ADDRESS>
+<TOWN>Luxembourg</TOWN>
+<POSTAL_CODE>2925</POSTAL_CODE>
+<COUNTRY VALUE="LU"/>
+<PHONE>+352 4303-1</PHONE>
+<FAX>+352 4303-2100</FAX>
+<URL>http://curia.europa.eu</URL>
+</ADDRESS_REVIEW_BODY>
+<REVIEW_PROCEDURE>
+<P>2 kuu jooksul hageja teavitamisest või kui teavitamist ei toimu, 2 kuu jooksul päevast, mil asjast teada saadi.</P>
+</REVIEW_PROCEDURE>
+<DATE_DISPATCH_NOTICE>2016-08-30</DATE_DISPATCH_NOTICE>
+</COMPLEMENTARY_INFO>
+</F03_2014>
+<F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="HU">
+<CONTRACTING_BODY>
+<ADDRESS_CONTRACTING_BODY>
+<OFFICIALNAME>Frontex</OFFICIALNAME>
+<ADDRESS>Plac Europejski 6</ADDRESS>
+<TOWN>Warsaw</TOWN>
+<POSTAL_CODE>00-844</POSTAL_CODE>
+<COUNTRY VALUE="PL"/>
+<PHONE>+48 222059500</PHONE>
+<E_MAIL>procurement@frontex.europa.eu</E_MAIL>
+<FAX>+48 222059501</FAX>
+<NUTS CODE="PL127"/>
+<URL_GENERAL>http://www.frontex.europa.eu</URL_GENERAL>
+</ADDRESS_CONTRACTING_BODY>
+<CA_TYPE VALUE="EU_INSTITUTION"/>
+<CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+</CONTRACTING_BODY>
+<OBJECT_CONTRACT>
+<TITLE>
+<P>Az Európai Unió külső határai digitális felszíni modelljének beszerzése.</P>
+</TITLE>
+<REFERENCE_NUMBER>Frontex/OP/286/RS.</REFERENCE_NUMBER>
+<CPV_MAIN>
+<CPV_CODE CODE="72319000"/>
+</CPV_MAIN>
+<TYPE_CONTRACT CTYPE="SERVICES"/>
+<SHORT_DESCR>
+<P>Digitális felszíni modell (DSM) térbeli adatkészletének beszerzése, amely felhasználható elemzések és megjelenítések céljára. A digitális felszíni modell (DSM) olyan digitális domborzatmodell, amely az „elsődleges felszíni” domborzati elemeket (pl. növényzet és ember építette struktúrák) foglalja magában.</P>
+</SHORT_DESCR>
+<NO_LOT_DIVISION/>
+<OBJECT_DESCR ITEM="1">
+<NUTS CODE="PL127"/>
+<MAIN_SITE>
+<P>Távszolgáltatások és a Frontex székhelye.</P>
+</MAIN_SITE>
+<SHORT_DESCR>
+<P>Digitális felszíni modell (DSM) térbeli adatkészletének beszerzése, amely felhasználhatók elemzések és megjelenítések céljára.</P>
+</SHORT_DESCR>
+<AC_PRICE/>
+<NO_OPTIONS/>
+<NO_EU_PROGR_RELATED/>
+</OBJECT_DESCR>
+</OBJECT_CONTRACT>
+<PROCEDURE>
+<PT_OPEN/>
+<NO_CONTRACT_COVERED_GPA/>
+<NOTICE_NUMBER_OJ>2016/S 101-179691</NOTICE_NUMBER_OJ>
+</PROCEDURE>
+<AWARD_CONTRACT ITEM="1">
+<TITLE>
+<P>Az Európai Unió külső határai digitális felszíni modelljének beszerzése</P>
+</TITLE>
+<NO_AWARDED_CONTRACT>
+<PROCUREMENT_DISCONTINUED/>
+</NO_AWARDED_CONTRACT>
+</AWARD_CONTRACT>
+<COMPLEMENTARY_INFO>
+<INFO_ADD>
+<P>A költségvetési rendelet (az Unió általános költségvetésére alkalmazandó pénzügyi szabályokról és az 1605/2002/EK, Euratom tanácsi rendelet hatályon kívül helyezéséről szóló, 25.10.2012 keltezésű, 966/2012/EU, Euratom módosított európai parlamenti és tanácsi rendelet, valamint az Unió általános költségvetésére alkalmazandó pénzügyi szabályokról szóló 966/2012/EU, Euratom európai parlamenti és tanácsi rendelet alkalmazási szabályairól szóló, 29.10.2012 keltezésű, 1268/2012/EU felhatalmazáson alapuló, módosított bizottsági rendelet) nem tartalmaz rendelkezéseket arra a helyzetre vonatkozóan, amikor 2 ajánlattevő ugyanazt a legalacsonyabb árat adja meg abban az esetben, amikor az ár az egyetlen odaítélési kritérium, így a közbeszerzési eljárás nem folytatható le.</P>
+</INFO_ADD>
+<ADDRESS_REVIEW_BODY>
+<OFFICIALNAME>Törvényszék</OFFICIALNAME>
+<ADDRESS>rue du Fort Niedergrünewald </ADDRESS>
+<TOWN>Luxembourg</TOWN>
+<POSTAL_CODE>2925</POSTAL_CODE>
+<COUNTRY VALUE="LU"/>
+<PHONE>+352 4303-1</PHONE>
+<FAX>+352 4303-2100</FAX>
+<URL>http://curia.europa.eu</URL>
+</ADDRESS_REVIEW_BODY>
+<REVIEW_PROCEDURE>
+<P>A vesztes fél értesítésétől, illetve – ennek hiányában – az eredmény ismertté válásától számított 2 hónapon belül.</P>
+</REVIEW_PROCEDURE>
+<DATE_DISPATCH_NOTICE>2016-08-30</DATE_DISPATCH_NOTICE>
+</COMPLEMENTARY_INFO>
+</F03_2014>
+<F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="LT">
+<CONTRACTING_BODY>
+<ADDRESS_CONTRACTING_BODY>
+<OFFICIALNAME>Frontex</OFFICIALNAME>
+<ADDRESS>Plac Europejski 6</ADDRESS>
+<TOWN>Warsaw</TOWN>
+<POSTAL_CODE>00-844</POSTAL_CODE>
+<COUNTRY VALUE="PL"/>
+<PHONE>+48 222059500</PHONE>
+<E_MAIL>procurement@frontex.europa.eu</E_MAIL>
+<FAX>+48 222059501</FAX>
+<NUTS CODE="PL127"/>
+<URL_GENERAL>http://www.frontex.europa.eu</URL_GENERAL>
+</ADDRESS_CONTRACTING_BODY>
+<CA_TYPE VALUE="EU_INSTITUTION"/>
+<CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+</CONTRACTING_BODY>
+<OBJECT_CONTRACT>
+<TITLE>
+<P>Skaitmeninio paviršiaus modelio pirkimas ties išorinėmis ES sienomis.</P>
+</TITLE>
+<REFERENCE_NUMBER>Frontex/OP/286/RS.</REFERENCE_NUMBER>
+<CPV_MAIN>
+<CPV_CODE CODE="72319000"/>
+</CPV_MAIN>
+<TYPE_CONTRACT CTYPE="SERVICES"/>
+<SHORT_DESCR>
+<P>Skaitmeninio paviršiaus modelio (digital surface model – DSM) erdvinių duomenų, kurie gali būti naudojami analizėse ir vizualizacijose, pirkimas. Skaitmeninis paviršiaus modelis yra suprantamas kaip skaitmeninis aukščių modelis, kuris apima „pirmojo paviršiaus“ aukščius (pvz., augalija ir žmogaus sukurtos struktūros).</P>
+</SHORT_DESCR>
+<NO_LOT_DIVISION/>
+<OBJECT_DESCR ITEM="1">
+<NUTS CODE="PL127"/>
+<MAIN_SITE>
+<P>Nuotolinės paslaugos ir Frontex būstinė.</P>
+</MAIN_SITE>
+<SHORT_DESCR>
+<P>Skaitmeninio paviršiaus modelio (digital surface model – DSM) erdvinių duomenų, kurie gali būti naudojami analizėse ir vizualizacijose, pirkimas.</P>
+</SHORT_DESCR>
+<AC_PRICE/>
+<NO_OPTIONS/>
+<NO_EU_PROGR_RELATED/>
+</OBJECT_DESCR>
+</OBJECT_CONTRACT>
+<PROCEDURE>
+<PT_OPEN/>
+<NO_CONTRACT_COVERED_GPA/>
+<NOTICE_NUMBER_OJ>2016/S 101-179691</NOTICE_NUMBER_OJ>
+</PROCEDURE>
+<AWARD_CONTRACT ITEM="1">
+<TITLE>
+<P>Skaitmeninio paviršiaus modelio pirkimas ties išorinėmis ES sienomis</P>
+</TITLE>
+<NO_AWARDED_CONTRACT>
+<PROCUREMENT_DISCONTINUED/>
+</NO_AWARDED_CONTRACT>
+</AWARD_CONTRACT>
+<COMPLEMENTARY_INFO>
+<INFO_ADD>
+<P>25.10.2012 Europos Parlamento ir Tarybos finansiniu reglamentu (Reglamentas (ES, Euratomas) Nr. 966/2012 dėl Sąjungos bendrajam biudžetui taikomų finansinių taisyklių ir kuriuo panaikinamas Tarybos reglamentas (EB, Euratomas) Nr. 1605/2002 su pakeitimais, padarytais 29.10.2012 Komisijos deleguotuoju reglamentu (ES) Nr. 1268/2012 dėl Europos Parlamento ir Tarybos reglamento (ES, Euratomas) Nr. 966/2012 dėl Sąjungos bendrajam biudžetui taikomų finansinių taisyklių taikymo taisyklių (su pakeitimais), nenumatyta situacija, kai 2 siūlytojai pateikia vienodos mažiausios kainos pasiūlymą, kai kaina yra vienintelis paskyrimo kriterijus, todėl viešojo pirkimo procedūra negali būti užbaigta.</P>
+</INFO_ADD>
+<ADDRESS_REVIEW_BODY>
+<OFFICIALNAME>Bendrasis Teismas</OFFICIALNAME>
+<ADDRESS>rue du Fort Niedergrünewald </ADDRESS>
+<TOWN>Luxembourg</TOWN>
+<POSTAL_CODE>2925</POSTAL_CODE>
+<COUNTRY VALUE="LU"/>
+<PHONE>+352 4303-1</PHONE>
+<FAX>+352 4303-2100</FAX>
+<URL>http://curia.europa.eu</URL>
+</ADDRESS_REVIEW_BODY>
+<REVIEW_PROCEDURE>
+<P>Per 2 mėnesius nuo dienos, kai apie tai pranešama ieškovui, arba, jei pranešimas neparengiamas, nuo dienos, kai apie tai tampa žinoma.</P>
+</REVIEW_PROCEDURE>
+<DATE_DISPATCH_NOTICE>2016-08-30</DATE_DISPATCH_NOTICE>
+</COMPLEMENTARY_INFO>
+</F03_2014>
+<F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="LV">
+<CONTRACTING_BODY>
+<ADDRESS_CONTRACTING_BODY>
+<OFFICIALNAME>Frontex</OFFICIALNAME>
+<ADDRESS>Plac Europejski 6</ADDRESS>
+<TOWN>Warsaw</TOWN>
+<POSTAL_CODE>00-844</POSTAL_CODE>
+<COUNTRY VALUE="PL"/>
+<PHONE>+48 222059500</PHONE>
+<E_MAIL>procurement@frontex.europa.eu</E_MAIL>
+<FAX>+48 222059501</FAX>
+<NUTS CODE="PL127"/>
+<URL_GENERAL>http://www.frontex.europa.eu</URL_GENERAL>
+</ADDRESS_CONTRACTING_BODY>
+<CA_TYPE VALUE="EU_INSTITUTION"/>
+<CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+</CONTRACTING_BODY>
+<OBJECT_CONTRACT>
+<TITLE>
+<P>Pie ES ārējām robežām esošo apgabalu digitālā virsmas modeļa iegāde.</P>
+</TITLE>
+<REFERENCE_NUMBER>Frontex/OP/286/RS.</REFERENCE_NUMBER>
+<CPV_MAIN>
+<CPV_CODE CODE="72319000"/>
+</CPV_MAIN>
+<TYPE_CONTRACT CTYPE="SERVICES"/>
+<SHORT_DESCR>
+<P>Tādas digitālā virsmas modeļa (digital surface model – DSM) telpisko datu kopas iegāde, ko var izmantot analīzei un vizualizācijām. Digitālais virsmas modelis (DSM) ir digitāls augstuma modelis, kas ietver augšējās virsmas pacēlumus (piem., veģetāciju un cilvēku veidotas struktūras).</P>
+</SHORT_DESCR>
+<NO_LOT_DIVISION/>
+<OBJECT_DESCR ITEM="1">
+<NUTS CODE="PL127"/>
+<MAIN_SITE>
+<P>attālināti pakalpojumi un Frontex galvenā mītne.</P>
+</MAIN_SITE>
+<SHORT_DESCR>
+<P>Tādas digitālā virsmas modeļa (digital surface model – DSM) telpisko datu kopas iegāde, ko var izmantot analīzei un vizualizācijām.</P>
+</SHORT_DESCR>
+<AC_PRICE/>
+<NO_OPTIONS/>
+<NO_EU_PROGR_RELATED/>
+</OBJECT_DESCR>
+</OBJECT_CONTRACT>
+<PROCEDURE>
+<PT_OPEN/>
+<NO_CONTRACT_COVERED_GPA/>
+<NOTICE_NUMBER_OJ>2016/S 101-179691</NOTICE_NUMBER_OJ>
+</PROCEDURE>
+<AWARD_CONTRACT ITEM="1">
+<TITLE>
+<P>Pie ES ārējām robežām esošo apgabalu digitālā virsmas modeļa iegāde</P>
+</TITLE>
+<NO_AWARDED_CONTRACT>
+<PROCUREMENT_DISCONTINUED/>
+</NO_AWARDED_CONTRACT>
+</AWARD_CONTRACT>
+<COMPLEMENTARY_INFO>
+<INFO_ADD>
+<P>Finanšu regulās (grozītajā Eiropas Parlamenta un Padomes 25.10.2012 Regulā (ES, Euratom) Nr. 966/2012 par finanšu noteikumiem, ko piemēro Savienības vispārējam budžetam, un par Padomes Regulas (EK, Euratom) Nr. 1605/2002 atcelšanu un grozītajā Komisijas 29.10.2012 Deleģētajā regulā (ES) Nr. 1268/2012 par Eiropas Parlamenta un Padomes Regulas (ES, Euratom) Nr. 966/2012 par finanšu noteikumiem, ko piemēro Savienības vispārējam budžetam, piemērošanas noteikumiem) nav paredzēta situācija, kad 2 pretendenti iesniedz piedāvājumu ar tādu pašu viszemāko cenu, ja cena ir vienīgais piešķiršanas kritērijs, tādēļ iepirkuma procedūru nevar noslēgt.</P>
+</INFO_ADD>
+<ADDRESS_REVIEW_BODY>
+<OFFICIALNAME>Vispārējā tiesa</OFFICIALNAME>
+<ADDRESS>rue du Fort Niedergrünewald </ADDRESS>
+<TOWN>Luxembourg</TOWN>
+<POSTAL_CODE>2925</POSTAL_CODE>
+<COUNTRY VALUE="LU"/>
+<PHONE>+352 4303-1</PHONE>
+<FAX>+352 4303-2100</FAX>
+<URL>http://curia.europa.eu</URL>
+</ADDRESS_REVIEW_BODY>
+<REVIEW_PROCEDURE>
+<P>2 mēnešu laikā no prasītāja informēšanas vai, ja tā nav notikusi, no dienas, kad viņš to uzzinājis.</P>
+</REVIEW_PROCEDURE>
+<DATE_DISPATCH_NOTICE>2016-08-30</DATE_DISPATCH_NOTICE>
+</COMPLEMENTARY_INFO>
+</F03_2014>
+<F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="MT">
+<CONTRACTING_BODY>
+<ADDRESS_CONTRACTING_BODY>
+<OFFICIALNAME>Frontex</OFFICIALNAME>
+<ADDRESS>Plac Europejski 6</ADDRESS>
+<TOWN>Varsavja</TOWN>
+<POSTAL_CODE>00-844</POSTAL_CODE>
+<COUNTRY VALUE="PL"/>
+<PHONE>+48 222059500</PHONE>
+<E_MAIL>procurement@frontex.europa.eu</E_MAIL>
+<FAX>+48 222059501</FAX>
+<NUTS CODE="PL127"/>
+<URL_GENERAL>http://www.frontex.europa.eu</URL_GENERAL>
+</ADDRESS_CONTRACTING_BODY>
+<CA_TYPE VALUE="EU_INSTITUTION"/>
+<CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+</CONTRACTING_BODY>
+<OBJECT_CONTRACT>
+<TITLE>
+<P>Xiri tal-mudell diġitali tat-terren tul fruntieri esterni tal-UE.</P>
+</TITLE>
+<REFERENCE_NUMBER>Frontex/OP/286/RS.</REFERENCE_NUMBER>
+<CPV_MAIN>
+<CPV_CODE CODE="72319000"/>
+</CPV_MAIN>
+<TYPE_CONTRACT CTYPE="SERVICES"/>
+<SHORT_DESCR>
+<P>Xiri ta' sett ta' dejta spazjali tal-mudell diġitali tat-terren (DSM) li jista' jintuża għal analiżijiet u viżwalizzazzjonijiet. Il-mudell diġitali tat-terren (DSM) hu mifhum bħala mudell ta' elevazzjoni diġitali li jinkludi l-elevazzzjonijiet tal-'ewwel terren' (p.e. il-veġetazzjoni u strutturi magħmulin mill-bniedem).</P>
+</SHORT_DESCR>
+<NO_LOT_DIVISION/>
+<OBJECT_DESCR ITEM="1">
+<NUTS CODE="PL127"/>
+<MAIN_SITE>
+<P>Servizzi mbiegħda u l-KĠ tal-Frontex.</P>
+</MAIN_SITE>
+<SHORT_DESCR>
+<P>Xiri ta' sett ta' dejta spazjali tal-mudell diġitali tat-terren (DSM) li jista' jintuża għal analiżijiet u viżwalizzazzjonijiet.</P>
+</SHORT_DESCR>
+<AC_PRICE/>
+<NO_OPTIONS/>
+<NO_EU_PROGR_RELATED/>
+</OBJECT_DESCR>
+</OBJECT_CONTRACT>
+<PROCEDURE>
+<PT_OPEN/>
+<NO_CONTRACT_COVERED_GPA/>
+<NOTICE_NUMBER_OJ>2016/S 101-179691</NOTICE_NUMBER_OJ>
+</PROCEDURE>
+<AWARD_CONTRACT ITEM="1">
+<TITLE>
+<P>Xiri tal-mudell diġitali tat-terren tul fruntieri esterni tal-UE</P>
+</TITLE>
+<NO_AWARDED_CONTRACT>
+<PROCUREMENT_DISCONTINUED/>
+</NO_AWARDED_CONTRACT>
+</AWARD_CONTRACT>
+<COMPLEMENTARY_INFO>
+<INFO_ADD>
+<P>Ir-Regolamenti Finanzjarji (ir-Regolament (UE, Euratom) Nru 966/2012 tal-Parlament Ewropew u tal-Kunsill tal-25.10.2012 dwar ir-regoli finanzjarji applikabbli għall-baġit ġenerali tal-Unjoni u li jħassru r-Regolament tal-Kunsill (KE, Euratom) Nru 1605/2002 kif emendat mir-Regolament Iddelegat tal-Kummissjoni (UE) Nru 1268/2012 tad-29.10.2012 dwar ir-regoli ta' applikazzjoni tar-Regolament (UE, Euratom) Nru 966/2012 tal-Parlament Ewropew u tal-Kunsill dwar ir-regoli finanzjarji applikabbli għall-baġit ġenerali tal-Unjoni kif emendati) ma jipprevedux is-sitwazzjoni meta 2 offerenti jippreżentaw l-istess offerta ta' prezz li tkun l-irħas f'sitwazzjonijiet meta l-prezz ikun l-uniku kriterju tal-għoti, għaldaqstant il-proċedura tal-ksib ma tistax tkun konkluża.</P>
+</INFO_ADD>
+<ADDRESS_REVIEW_BODY>
+<OFFICIALNAME>Il-Qorti Ġenerali</OFFICIALNAME>
+<ADDRESS>rue du Fort Niedergrünewald </ADDRESS>
+<TOWN>Lussemburgu</TOWN>
+<POSTAL_CODE>2925</POSTAL_CODE>
+<COUNTRY VALUE="LU"/>
+<PHONE>+352 4303-1</PHONE>
+<FAX>+352 4303-2100</FAX>
+<URL>http://curia.europa.eu</URL>
+</ADDRESS_REVIEW_BODY>
+<REVIEW_PROCEDURE>
+<P>Fi żmien xahrejn (2) mill-avviż lil dak li jagħmel it-talba, jew, fin-nuqqas ta' dan, mill-jum li fih sar magħruf.</P>
+</REVIEW_PROCEDURE>
+<DATE_DISPATCH_NOTICE>2016-08-30</DATE_DISPATCH_NOTICE>
+</COMPLEMENTARY_INFO>
+</F03_2014>
+<F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="PL">
+<CONTRACTING_BODY>
+<ADDRESS_CONTRACTING_BODY>
+<OFFICIALNAME>Frontex</OFFICIALNAME>
+<ADDRESS>Plac Europejski 6</ADDRESS>
+<TOWN>Warsaw</TOWN>
+<POSTAL_CODE>00-844</POSTAL_CODE>
+<COUNTRY VALUE="PL"/>
+<PHONE>+48 222059500</PHONE>
+<E_MAIL>procurement@frontex.europa.eu</E_MAIL>
+<FAX>+48 222059501</FAX>
+<NUTS CODE="PL127"/>
+<URL_GENERAL>http://www.frontex.europa.eu</URL_GENERAL>
+</ADDRESS_CONTRACTING_BODY>
+<CA_TYPE VALUE="EU_INSTITUTION"/>
+<CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+</CONTRACTING_BODY>
+<OBJECT_CONTRACT>
+<TITLE>
+<P>Zakup numerycznego modelu powierzchni terenu wzdłuż granic zewnętrznych UE</P>
+</TITLE>
+<REFERENCE_NUMBER>Frontex/OP/286/RS.</REFERENCE_NUMBER>
+<CPV_MAIN>
+<CPV_CODE CODE="72319000"/>
+</CPV_MAIN>
+<TYPE_CONTRACT CTYPE="SERVICES"/>
+<SHORT_DESCR>
+<P>Zakup zbioru danych przestrzennych numerycznego modelu powierzchni terenu (digital surface model, DSM), który może być wykorzystywany do przeprowadzania analiz i wizualizacji. Numeryczny model powierzchni terenu (DSM) rozumie się jako numeryczny model ukształtowania terenu obejmujący przedmioty terenowe (takie jak roślinność i konstrukcje wykonane przez człowieka).</P>
+</SHORT_DESCR>
+<NO_LOT_DIVISION/>
+<OBJECT_DESCR ITEM="1">
+<NUTS CODE="PL127"/>
+<MAIN_SITE>
+<P>usługi będą świadczone zdalnie oraz w siedzibie Fronteksu.</P>
+</MAIN_SITE>
+<SHORT_DESCR>
+<P>Zakup zbioru danych przestrzennych numerycznego modelu powierzchni terenu (digital surface model, DSM), który może być wykorzystywany do przeprowadzania analiz i wizualizacji.</P>
+</SHORT_DESCR>
+<AC_PRICE/>
+<NO_OPTIONS/>
+<NO_EU_PROGR_RELATED/>
+</OBJECT_DESCR>
+</OBJECT_CONTRACT>
+<PROCEDURE>
+<PT_OPEN/>
+<NO_CONTRACT_COVERED_GPA/>
+<NOTICE_NUMBER_OJ>2016/S 101-179691</NOTICE_NUMBER_OJ>
+</PROCEDURE>
+<AWARD_CONTRACT ITEM="1">
+<TITLE>
+<P>Zakup numerycznego modelu powierzchni terenu wzdłuż granic zewnętrznych UE</P>
+</TITLE>
+<NO_AWARDED_CONTRACT>
+<PROCUREMENT_DISCONTINUED/>
+</NO_AWARDED_CONTRACT>
+</AWARD_CONTRACT>
+<COMPLEMENTARY_INFO>
+<INFO_ADD>
+<P>Rozporządzenia finansowe [rozporządzenie Parlamentu Europejskiego i Rady (UE, Euratom) nr 966/2012 z dnia 25.10.2012 w sprawie zasad finansowych mających zastosowanie do budżetu ogólnego Unii oraz uchylające rozporządzenie Rady (WE, Euratom) nr 1605/2002, ze zmianami, oraz rozporządzenie delegowane Komisji (UE) nr 1268/2012 z dnia 29.10.2012 w sprawie zasad stosowania rozporządzenia Parlamentu Europejskiego i Rady (UE, Euratom) nr 966/2012 w sprawie zasad finansowych mających zastosowanie do budżetu ogólnego Unii, ze zmianami] nie przewidują sytuacji, w której 2 oferentów przedstawia oferty z identyczną najniższą ceną, gdy cena jest jedynym kryterium udzielenia zamówienia, wskutek czego postępowanie o udzielenie zamówienia nie może zostać sfinalizowane.</P>
+</INFO_ADD>
+<ADDRESS_REVIEW_BODY>
+<OFFICIALNAME>Sąd</OFFICIALNAME>
+<ADDRESS>rue du Fort Niedergrünewald </ADDRESS>
+<TOWN>Luxembourg</TOWN>
+<POSTAL_CODE>2925</POSTAL_CODE>
+<COUNTRY VALUE="LU"/>
+<PHONE>+352 4303-1</PHONE>
+<FAX>+352 4303-2100</FAX>
+<URL>http://curia.europa.eu</URL>
+</ADDRESS_REVIEW_BODY>
+<REVIEW_PROCEDURE>
+<P>w ciągu 2 miesięcy od zawiadomienia strony skarżącej lub, w przypadku braku zawiadomienia, od dnia podania do wiadomości.</P>
+</REVIEW_PROCEDURE>
+<DATE_DISPATCH_NOTICE>2016-08-30</DATE_DISPATCH_NOTICE>
+</COMPLEMENTARY_INFO>
+</F03_2014>
+<F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="SK">
+<CONTRACTING_BODY>
+<ADDRESS_CONTRACTING_BODY>
+<OFFICIALNAME>Frontex</OFFICIALNAME>
+<ADDRESS>Plac Europejski 6</ADDRESS>
+<TOWN>Warsaw</TOWN>
+<POSTAL_CODE>00-844</POSTAL_CODE>
+<COUNTRY VALUE="PL"/>
+<PHONE>+48 222059500</PHONE>
+<E_MAIL>procurement@frontex.europa.eu</E_MAIL>
+<FAX>+48 222059501</FAX>
+<NUTS CODE="PL127"/>
+<URL_GENERAL>http://www.frontex.europa.eu</URL_GENERAL>
+</ADDRESS_CONTRACTING_BODY>
+<CA_TYPE VALUE="EU_INSTITUTION"/>
+<CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+</CONTRACTING_BODY>
+<OBJECT_CONTRACT>
+<TITLE>
+<P>Nákup digitálneho modelu povrchu na vonkajších hraniciach EÚ.</P>
+</TITLE>
+<REFERENCE_NUMBER>Frontex/OP/286/RS.</REFERENCE_NUMBER>
+<CPV_MAIN>
+<CPV_CODE CODE="72319000"/>
+</CPV_MAIN>
+<TYPE_CONTRACT CTYPE="SERVICES"/>
+<SHORT_DESCR>
+<P>Nákup súpravy priestorových údajov digitálneho modelu povrchu (DSM), ktorý sa môže použiť na analýzy a vizualizácie. Digitálnym modelom povrchu (DSM) sa rozumie digitálny výškový model, ktorý zahŕňa projekciu „prvého povrchu“ (napr. vegetácia a umelo vytvorené stavby).</P>
+</SHORT_DESCR>
+<NO_LOT_DIVISION/>
+<OBJECT_DESCR ITEM="1">
+<NUTS CODE="PL127"/>
+<MAIN_SITE>
+<P>Diaľkové služby a sídlo Frontexu.</P>
+</MAIN_SITE>
+<SHORT_DESCR>
+<P>Nákup súpravy priestorových údajov digitálneho modelu povrchu (DSM), ktorý sa môže použiť na analýzy a vizualizácie.</P>
+</SHORT_DESCR>
+<AC_PRICE/>
+<NO_OPTIONS/>
+<NO_EU_PROGR_RELATED/>
+</OBJECT_DESCR>
+</OBJECT_CONTRACT>
+<PROCEDURE>
+<PT_OPEN/>
+<NO_CONTRACT_COVERED_GPA/>
+<NOTICE_NUMBER_OJ>2016/S 101-179691</NOTICE_NUMBER_OJ>
+</PROCEDURE>
+<AWARD_CONTRACT ITEM="1">
+<TITLE>
+<P>Nákup digitálneho modelu povrchu na vonkajších hraniciach EÚ</P>
+</TITLE>
+<NO_AWARDED_CONTRACT>
+<PROCUREMENT_DISCONTINUED/>
+</NO_AWARDED_CONTRACT>
+</AWARD_CONTRACT>
+<COMPLEMENTARY_INFO>
+<INFO_ADD>
+<P>V nariadeniach o rozpočtových pravidlách [nariadenie Európskeho parlamentu a Rady (EÚ, Euratom) č. 966/2012 z 25.10.2012 o rozpočtových pravidlách, ktoré sa vzťahujú na všeobecný rozpočet Únie, a zrušení nariadenia Rady (ES, Euratom) č. 1605/2002, zmenené delegovaným nariadením Komisie (EÚ) č. 1268/2012 z 29.10.2012 o pravidlách uplatňovania nariadenia Európskeho parlamentu a Rady (EÚ, Euratom) č. 966/2012 o rozpočtových pravidlách, ktoré sa vzťahujú na všeobecný rozpočet Únie, v znení zmien] sa nepredpokladá situácia, pri ktorej 2 uchádzači predložia rovnakú ponuku s najmenšou cenou v situáciách, kedy je cena jediným kritériom hodnotenia, a preto obstarávacie konanie nemožno uzatvoriť.</P>
+</INFO_ADD>
+<ADDRESS_REVIEW_BODY>
+<OFFICIALNAME>Všeobecný súd</OFFICIALNAME>
+<ADDRESS>rue du Fort Niedergrünewald </ADDRESS>
+<TOWN>Luxembourg</TOWN>
+<POSTAL_CODE>2925</POSTAL_CODE>
+<COUNTRY VALUE="LU"/>
+<PHONE>+352 4303-1</PHONE>
+<FAX>+352 4303-2100</FAX>
+<URL>http://curia.europa.eu</URL>
+</ADDRESS_REVIEW_BODY>
+<REVIEW_PROCEDURE>
+<P>Do 2 mesiacov od vyrozumenia osoby podávajúcej odvolanie alebo, ak to nie je možné, odo dňa, keď túto skutočnosť zistila.</P>
+</REVIEW_PROCEDURE>
+<DATE_DISPATCH_NOTICE>2016-08-30</DATE_DISPATCH_NOTICE>
+</COMPLEMENTARY_INFO>
+</F03_2014>
+<F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="SL">
+<CONTRACTING_BODY>
+<ADDRESS_CONTRACTING_BODY>
+<OFFICIALNAME>Frontex</OFFICIALNAME>
+<ADDRESS>Plac Europejski 6</ADDRESS>
+<TOWN>Warsaw</TOWN>
+<POSTAL_CODE>00-844</POSTAL_CODE>
+<COUNTRY VALUE="PL"/>
+<PHONE>+48 222059500</PHONE>
+<E_MAIL>procurement@frontex.europa.eu</E_MAIL>
+<FAX>+48 222059501</FAX>
+<NUTS CODE="PL127"/>
+<URL_GENERAL>http://www.frontex.europa.eu</URL_GENERAL>
+</ADDRESS_CONTRACTING_BODY>
+<CA_TYPE VALUE="EU_INSTITUTION"/>
+<CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+</CONTRACTING_BODY>
+<OBJECT_CONTRACT>
+<TITLE>
+<P>Nakup digitalnega modela površja vzdolž zunanjih meja EU.</P>
+</TITLE>
+<REFERENCE_NUMBER>Frontex/OP/286/RS.</REFERENCE_NUMBER>
+<CPV_MAIN>
+<CPV_CODE CODE="72319000"/>
+</CPV_MAIN>
+<TYPE_CONTRACT CTYPE="SERVICES"/>
+<SHORT_DESCR>
+<P>Nakup niza prostorskih podatkov digitalnega modela površja (Digital Surface Model – DSM), ki se lahko uporabljajo za analize in vizualizacije. Digitalni model površja (DSM) se razume kot digitalni elevacijski model, ki vključuje elevacije „prve površine“ (npr. rastje in objekti, ki jih je postavil človek).</P>
+</SHORT_DESCR>
+<NO_LOT_DIVISION/>
+<OBJECT_DESCR ITEM="1">
+<NUTS CODE="PL127"/>
+<MAIN_SITE>
+<P>Storitve na daljavo in sedež Frontexa.</P>
+</MAIN_SITE>
+<SHORT_DESCR>
+<P>Nakup niza prostorskih podatkov digitalnega modela površja (DSM), ki se lahko uporabljajo za analize in vizualizacije.</P>
+</SHORT_DESCR>
+<AC_PRICE/>
+<NO_OPTIONS/>
+<NO_EU_PROGR_RELATED/>
+</OBJECT_DESCR>
+</OBJECT_CONTRACT>
+<PROCEDURE>
+<PT_OPEN/>
+<NO_CONTRACT_COVERED_GPA/>
+<NOTICE_NUMBER_OJ>2016/S 101-179691</NOTICE_NUMBER_OJ>
+</PROCEDURE>
+<AWARD_CONTRACT ITEM="1">
+<TITLE>
+<P>Nakup digitalnega modela površja vzdolž zunanjih meja EU</P>
+</TITLE>
+<NO_AWARDED_CONTRACT>
+<PROCUREMENT_DISCONTINUED/>
+</NO_AWARDED_CONTRACT>
+</AWARD_CONTRACT>
+<COMPLEMENTARY_INFO>
+<INFO_ADD>
+<P>Finančni uredbi (Uredba (EU, Euratom) št. 966/2012 Evropskega parlamenta in Sveta z dne 25.10.2012 o finančnih pravilih, ki se uporabljajo za splošni proračun Unije, in razveljavitvi Uredbe Sveta (ES, Euratom) št. 1605/2002, kakor je bila spremenjena, in Delegirana uredba Komisije (EU) št. 1268/2012 z dne 29.10.2012 o pravilih uporabe Uredbe (EU, Euratom) št. 966/2012 Evropskega parlamenta in Sveta o finančnih pravilih, ki se uporabljajo za splošni proračun Unije, kakor je bila spremenjena) ne predvidevata situacije, ko 2 ponudnika ponudita enako ponudbo z najnižjo ceno v situacijah, ko je cena edino merilo za oddajo, zato razpisnega postopka ni mogoče zaključiti.</P>
+</INFO_ADD>
+<ADDRESS_REVIEW_BODY>
+<OFFICIALNAME>Splošno sodišče</OFFICIALNAME>
+<ADDRESS>rue du Fort Niedergrünewald </ADDRESS>
+<TOWN>Luxembourg</TOWN>
+<POSTAL_CODE>2925</POSTAL_CODE>
+<COUNTRY VALUE="LU"/>
+<PHONE>+352 4303-1</PHONE>
+<FAX>+352 4303-2100</FAX>
+<URL>http://curia.europa.eu</URL>
+</ADDRESS_REVIEW_BODY>
+<REVIEW_PROCEDURE>
+<P>V 2 mesecih od uradnega obvestila tožniku ali, če tega ni bilo, od dneva, ko je tožnik zanj izvedel.</P>
+</REVIEW_PROCEDURE>
+<DATE_DISPATCH_NOTICE>2016-08-30</DATE_DISPATCH_NOTICE>
+</COMPLEMENTARY_INFO>
+</F03_2014>
+<F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="GA">
+<CONTRACTING_BODY>
+<ADDRESS_CONTRACTING_BODY>
+<OFFICIALNAME>Frontex</OFFICIALNAME>
+<ADDRESS>Plac Europejski 6</ADDRESS>
+<TOWN>Warsaw</TOWN>
+<POSTAL_CODE>00-844</POSTAL_CODE>
+<COUNTRY VALUE="PL"/>
+<PHONE>+48 222059500</PHONE>
+<E_MAIL>procurement@frontex.europa.eu</E_MAIL>
+<FAX>+48 222059501</FAX>
+<NUTS CODE="PL127"/>
+<URL_GENERAL>http://www.frontex.europa.eu</URL_GENERAL>
+</ADDRESS_CONTRACTING_BODY>
+<CA_TYPE VALUE="EU_INSTITUTION"/>
+<CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+</CONTRACTING_BODY>
+<OBJECT_CONTRACT>
+<TITLE>
+<P>Samhail dhigiteach den dromchla ar feadh theorainneacha seachtracha an AE a cheannach.</P>
+</TITLE>
+<REFERENCE_NUMBER>Frontex/OP/286/RS.</REFERENCE_NUMBER>
+<CPV_MAIN>
+<CPV_CODE CODE="72319000"/>
+</CPV_MAIN>
+<TYPE_CONTRACT CTYPE="SERVICES"/>
+<SHORT_DESCR>
+<P>Tacar sonraí spásúla um shamhail dhigiteach den dromchla (DSM) a cheannach ar féidir é a úsáid le haghaidh anailísí agus léirshamhlaithe. Tuigtear gurb ionann an tsamhail dhigiteach den dromchla (DSM) agus samhail dhigiteach den airde lena n-áirítear airdí 'dromchla thosaigh' (m.sh. fásra agus struchtúir shaorga).</P>
+</SHORT_DESCR>
+<NO_LOT_DIVISION/>
+<OBJECT_DESCR ITEM="1">
+<NUTS CODE="PL127"/>
+<MAIN_SITE>
+<P>Seirbhísí cianda agus ceanncheathrú Frontex.</P>
+</MAIN_SITE>
+<SHORT_DESCR>
+<P>Tacar sonraí spásúla um shamhail dhigiteach den dromchla (DSM) a cheannach ar féidir é a úsáid le haghaidh anailísí agus léirshamhlaithe.</P>
+</SHORT_DESCR>
+<AC_PRICE/>
+<NO_OPTIONS/>
+<NO_EU_PROGR_RELATED/>
+</OBJECT_DESCR>
+</OBJECT_CONTRACT>
+<PROCEDURE>
+<PT_OPEN/>
+<NO_CONTRACT_COVERED_GPA/>
+<NOTICE_NUMBER_OJ>2016/S 101-179691</NOTICE_NUMBER_OJ>
+</PROCEDURE>
+<AWARD_CONTRACT ITEM="1">
+<TITLE>
+<P>Samhail dhigiteach den dromchla ar feadh theorainneacha seachtracha an AE a cheannach</P>
+</TITLE>
+<NO_AWARDED_CONTRACT>
+<PROCUREMENT_DISCONTINUED/>
+</NO_AWARDED_CONTRACT>
+</AWARD_CONTRACT>
+<COMPLEMENTARY_INFO>
+<INFO_ADD>
+<P>Níl an cás réamh-mheasta leis na Rialacháin Airgeadais (Rialachán (AE, Euratom) Uimh. 966/2012 ó Pharlaimint na hEorpa agus ón gComhairle an 25.10.2012 maidir leis na rialacha airgeadais is infheidhme le buiséad ginearálta an Aontais agus lena n-aisghairtear Rialachán (CE, Euratom) Uimh. 1605/2002 ón gComhairle arna leasú agus Rialachán Tarmligthe (AE) Uimh. 1268/2012 ón gCoimisiún an 29.10.2012 maidir le rialacha feidhmithe Rialachán (AE, Euratom) Uimh. 966/2012 ó Pharlaimint na hEorpa agus ón gComhairle maidir leis na rialacha airgeadais is infheidhme le buiséad ginearálta an Aontais arna leasú) nuair a chuireann 2 tairgeoirí an tairiscint leis an bpraghas is saoire céanna i láthair i gcásanna nuair is é an praghas an t-aon chritéar dámhachtana agus dá bhrí sin ní féidir an nós imeacht soláthair a chur i gcrích.</P>
+</INFO_ADD>
+<ADDRESS_REVIEW_BODY>
+<OFFICIALNAME>An Chúirt Ghinearálta</OFFICIALNAME>
+<ADDRESS>rue du Fort Niedergrünewald </ADDRESS>
+<TOWN>Luxembourg</TOWN>
+<POSTAL_CODE>2925</POSTAL_CODE>
+<COUNTRY VALUE="LU"/>
+<PHONE>+352 4303-1</PHONE>
+<FAX>+352 4303-2100</FAX>
+<URL>http://curia.europa.eu</URL>
+</ADDRESS_REVIEW_BODY>
+<REVIEW_PROCEDURE>
+<P>Laistigh de 2 mhí ón bhfógra don ghearánaí, nó, dá éagmais sin, ón lá a fuarthas an t-eolas.</P>
+</REVIEW_PROCEDURE>
+<DATE_DISPATCH_NOTICE>2016-08-30</DATE_DISPATCH_NOTICE>
+</COMPLEMENTARY_INFO>
+</F03_2014>
+<F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="BG">
+<CONTRACTING_BODY>
+<ADDRESS_CONTRACTING_BODY>
+<OFFICIALNAME>Frontex</OFFICIALNAME>
+<ADDRESS>Plac Europejski 6</ADDRESS>
+<TOWN>Warsaw</TOWN>
+<POSTAL_CODE>00-844</POSTAL_CODE>
+<COUNTRY VALUE="PL"/>
+<PHONE>+48 222059500</PHONE>
+<E_MAIL>procurement@frontex.europa.eu</E_MAIL>
+<FAX>+48 222059501</FAX>
+<NUTS CODE="PL127"/>
+<URL_GENERAL>http://www.frontex.europa.eu</URL_GENERAL>
+</ADDRESS_CONTRACTING_BODY>
+<CA_TYPE VALUE="EU_INSTITUTION"/>
+<CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+</CONTRACTING_BODY>
+<OBJECT_CONTRACT>
+<TITLE>
+<P>Закупуване на цифров модел на повърхността по външните граници на ЕС.</P>
+</TITLE>
+<REFERENCE_NUMBER>Frontex/OP/286/RS.</REFERENCE_NUMBER>
+<CPV_MAIN>
+<CPV_CODE CODE="72319000"/>
+</CPV_MAIN>
+<TYPE_CONTRACT CTYPE="SERVICES"/>
+<SHORT_DESCR>
+<P>Закупуване на набор от пространствени данни на цифров модел на повърхността (DSM), който може да бъде използван за анализи и визуализации. Под цифров модел на повърхността (DSM) се разбира цифров модел на релеф, който включва оценки на „първа повърхност“ (напр. растителност и направени от човека структури).</P>
+</SHORT_DESCR>
+<NO_LOT_DIVISION/>
+<OBJECT_DESCR ITEM="1">
+<NUTS CODE="PL127"/>
+<MAIN_SITE>
+<P>Дистанционни услуги и седалището на Frontex.</P>
+</MAIN_SITE>
+<SHORT_DESCR>
+<P>Закупуване на набор от пространствени данни на цифров модел на повърхността (DSM), който може да бъде използван за анализи и визуализации.</P>
+</SHORT_DESCR>
+<AC_PRICE/>
+<NO_OPTIONS/>
+<NO_EU_PROGR_RELATED/>
+</OBJECT_DESCR>
+</OBJECT_CONTRACT>
+<PROCEDURE>
+<PT_OPEN/>
+<NO_CONTRACT_COVERED_GPA/>
+<NOTICE_NUMBER_OJ>2016/S 101-179691</NOTICE_NUMBER_OJ>
+</PROCEDURE>
+<AWARD_CONTRACT ITEM="1">
+<TITLE>
+<P>Закупуване на цифров модел на повърхността по външните граници на ЕС</P>
+</TITLE>
+<NO_AWARDED_CONTRACT>
+<PROCUREMENT_DISCONTINUED/>
+</NO_AWARDED_CONTRACT>
+</AWARD_CONTRACT>
+<COMPLEMENTARY_INFO>
+<INFO_ADD>
+<P>Финансовият регламент (Регламент (ЕС, Евратом) № 966/2012 на Европейския парламент и на Съвета от 25.10.2012 г. относно финансовите правила, приложими за общия бюджет на Съюза и за отмяна на Регламент (ЕО, Евратом) № 1605/2002 на Съвета, изменен и Делегиран регламент (ЕС) № 1268/2012 на Комисията от 29.10.2012 г. относно правилата за прилагане на Регламент (ЕС, Евратом) № 966/2012 на Европейския парламент и на Съвета относно финансовите правила, приложими за общия бюджет на Съюза, изменен) не предвижда положението, когато 2 оферента представят предложение за една и съща най-ниска цена в ситуации, когато цената е единственият критерий за възлагане и поради това процедурата за обществена поръчка не може да бъде завършена.</P>
+</INFO_ADD>
+<ADDRESS_REVIEW_BODY>
+<OFFICIALNAME>Общ съд</OFFICIALNAME>
+<ADDRESS>rue du Fort Niedergrünewald </ADDRESS>
+<TOWN>Luxembourg</TOWN>
+<POSTAL_CODE>2925</POSTAL_CODE>
+<COUNTRY VALUE="LU"/>
+<PHONE>+352 4303-1</PHONE>
+<FAX>+352 4303-2100</FAX>
+<URL>http://curia.europa.eu</URL>
+</ADDRESS_REVIEW_BODY>
+<REVIEW_PROCEDURE>
+<P>В рамките на 2 месеца от получаването на известието от ищеца или, в случай че такова липсва, от деня, в който е станало известно.</P>
+</REVIEW_PROCEDURE>
+<DATE_DISPATCH_NOTICE>2016-08-30</DATE_DISPATCH_NOTICE>
+</COMPLEMENTARY_INFO>
+</F03_2014>
+<F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="RO">
+<CONTRACTING_BODY>
+<ADDRESS_CONTRACTING_BODY>
+<OFFICIALNAME>Frontex</OFFICIALNAME>
+<ADDRESS>Plac Europejski 6</ADDRESS>
+<TOWN>Warsaw</TOWN>
+<POSTAL_CODE>00-844</POSTAL_CODE>
+<COUNTRY VALUE="PL"/>
+<PHONE>+48 222059500</PHONE>
+<E_MAIL>procurement@frontex.europa.eu</E_MAIL>
+<FAX>+48 222059501</FAX>
+<NUTS CODE="PL127"/>
+<URL_GENERAL>http://www.frontex.europa.eu</URL_GENERAL>
+</ADDRESS_CONTRACTING_BODY>
+<CA_TYPE VALUE="EU_INSTITUTION"/>
+<CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+</CONTRACTING_BODY>
+<OBJECT_CONTRACT>
+<TITLE>
+<P>Achiziționarea modelului digital al suprafeței de-a lungul frontierelor externe ale UE.</P>
+</TITLE>
+<REFERENCE_NUMBER>Frontex/OP/286/RS.</REFERENCE_NUMBER>
+<CPV_MAIN>
+<CPV_CODE CODE="72319000"/>
+</CPV_MAIN>
+<TYPE_CONTRACT CTYPE="SERVICES"/>
+<SHORT_DESCR>
+<P>Achiziționarea unui set de date spațiale ale modelului digital al suprafeței (digital surface model – DSM), care să poată fi utilizat la analize și vizualizări. Prin model digital al suprafeței (DSM) se înțelege un model digital de elevație care include elevațiile de „primă suprafață” (de exemplu, vegetația și structurile construite de om).</P>
+</SHORT_DESCR>
+<NO_LOT_DIVISION/>
+<OBJECT_DESCR ITEM="1">
+<NUTS CODE="PL127"/>
+<MAIN_SITE>
+<P>Servicii de la distanță și sediul Frontex.</P>
+</MAIN_SITE>
+<SHORT_DESCR>
+<P>Achiziționarea unui set de date spațiale ale modelului digital al suprafeței (digital surface model – DSM), care să poată fi utilizat la analize și vizualizări.</P>
+</SHORT_DESCR>
+<AC_PRICE/>
+<NO_OPTIONS/>
+<NO_EU_PROGR_RELATED/>
+</OBJECT_DESCR>
+</OBJECT_CONTRACT>
+<PROCEDURE>
+<PT_OPEN/>
+<NO_CONTRACT_COVERED_GPA/>
+<NOTICE_NUMBER_OJ>2016/S 101-179691</NOTICE_NUMBER_OJ>
+</PROCEDURE>
+<AWARD_CONTRACT ITEM="1">
+<TITLE>
+<P>Achiziționarea modelului digital al suprafeței de-a lungul frontierelor externe ale UE</P>
+</TITLE>
+<NO_AWARDED_CONTRACT>
+<PROCUREMENT_DISCONTINUED/>
+</NO_AWARDED_CONTRACT>
+</AWARD_CONTRACT>
+<COMPLEMENTARY_INFO>
+<INFO_ADD>
+<P>Regulamentele financiare [Regulamentul (UE, Euratom) nr. 966/2012 al Parlamentului European și al Consiliului din 25.10.2012 privind normele financiare aplicabile bugetului general al Uniunii și de abrogare a Regulamentului (CE, Euratom) nr. 1605/2002 al Consiliului, astfel cum a fost modificat, și Regulamentul delegat (UE) nr. 1268/2012 al Comisiei din 29.10.2012 privind normele de aplicare a Regulamentului (UE, Euratom) nr. 966/2012 al Parlamentului European și al Consiliului privind normele financiare aplicabile bugetului general al Uniunii, astfel cum a fost modificat] nu prevăd eventualitatea în care 2 ofertanți prezintă oferte cu același preț cel mai scăzut în cadrul unei proceduri în care prețul este singurul criteriu de atribuire; prin urmare, procedura de achiziții nu poate fi încheiată.</P>
+</INFO_ADD>
+<ADDRESS_REVIEW_BODY>
+<OFFICIALNAME>Tribunalul</OFFICIALNAME>
+<ADDRESS>rue du Fort Niedergrünewald </ADDRESS>
+<TOWN>Luxembourg</TOWN>
+<POSTAL_CODE>2925</POSTAL_CODE>
+<COUNTRY VALUE="LU"/>
+<PHONE>+352 4303-1</PHONE>
+<FAX>+352 4303-2100</FAX>
+<URL>http://curia.europa.eu</URL>
+</ADDRESS_REVIEW_BODY>
+<REVIEW_PROCEDURE>
+<P>În termen de 2 luni de la notificarea reclamantului sau, în lipsa acesteia, de la ziua în care acesta a luat cunoștință de actul respectiv.</P>
+</REVIEW_PROCEDURE>
+<DATE_DISPATCH_NOTICE>2016-08-30</DATE_DISPATCH_NOTICE>
+</COMPLEMENTARY_INFO>
+</F03_2014>
+<F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="HR">
+<CONTRACTING_BODY>
+<ADDRESS_CONTRACTING_BODY>
+<OFFICIALNAME>Frontex</OFFICIALNAME>
+<ADDRESS>Plac Europejski 6</ADDRESS>
+<TOWN>Warsaw</TOWN>
+<POSTAL_CODE>00-844</POSTAL_CODE>
+<COUNTRY VALUE="PL"/>
+<PHONE>+48 222059500</PHONE>
+<E_MAIL>procurement@frontex.europa.eu</E_MAIL>
+<FAX>+48 222059501</FAX>
+<NUTS CODE="PL127"/>
+<URL_GENERAL>http://www.frontex.europa.eu</URL_GENERAL>
+</ADDRESS_CONTRACTING_BODY>
+<CA_TYPE VALUE="EU_INSTITUTION"/>
+<CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+</CONTRACTING_BODY>
+<OBJECT_CONTRACT>
+<TITLE>
+<P>Kupovina digitalnog modela površine duž vanjskih granica EU-a</P>
+</TITLE>
+<REFERENCE_NUMBER>Frontex/OP/286/RS.</REFERENCE_NUMBER>
+<CPV_MAIN>
+<CPV_CODE CODE="72319000"/>
+</CPV_MAIN>
+<TYPE_CONTRACT CTYPE="SERVICES"/>
+<SHORT_DESCR>
+<P>Kupovina niza prostornih podataka digitalnog modela površine (digital surface model – DSM) koji se mogu koristiti za analize i vizualizacije. Digitalni model površine (DSM) smatra se digitalnim modelom elevacije koji obuhvaća elevacije „prve površine” (primjerice, vegetacija i objekti koje je izradio čovjek).</P>
+</SHORT_DESCR>
+<NO_LOT_DIVISION/>
+<OBJECT_DESCR ITEM="1">
+<NUTS CODE="PL127"/>
+<MAIN_SITE>
+<P>Usluge na daljinu i sjedište Frontexa.</P>
+</MAIN_SITE>
+<SHORT_DESCR>
+<P>Kupovina niza prostornih podataka digitalnog modela površine (DSM) koji se mogu koristiti za analize i vizualizacije.</P>
+</SHORT_DESCR>
+<AC_PRICE/>
+<NO_OPTIONS/>
+<NO_EU_PROGR_RELATED/>
+</OBJECT_DESCR>
+</OBJECT_CONTRACT>
+<PROCEDURE>
+<PT_OPEN/>
+<NO_CONTRACT_COVERED_GPA/>
+<NOTICE_NUMBER_OJ>2016/S 101-179691</NOTICE_NUMBER_OJ>
+</PROCEDURE>
+<AWARD_CONTRACT ITEM="1">
+<TITLE>
+<P>Kupovina digitalnog modela površine duž vanjskih granica EU-a</P>
+</TITLE>
+<NO_AWARDED_CONTRACT>
+<PROCUREMENT_DISCONTINUED/>
+</NO_AWARDED_CONTRACT>
+</AWARD_CONTRACT>
+<COMPLEMENTARY_INFO>
+<INFO_ADD>
+<P>Financijskim uredbama (Uredba (EU, Euratom) br. 966/2012 Europskog parlamenta i Vijeća od 25.10.2012 o financijskim pravilima koja se primjenjuju na opći proračun Unije i o stavljanju izvan snage Uredbe Vijeća (EZ, Euratom) br. 1605/2002 kako je izmijenjena i Delegirana uredba Komisije (EU) br. 1268/2012 od 29.10.2012 o pravilima za primjenu Uredbe (EU, Euratom) br. 966/2012 Europskog parlamenta i Vijeća o financijskim pravilima koja se primjenjuju na opći proračun Unije kako je izmijenjena) nije predviđena situacija u kojoj bi 2 ponuditelja dostavila istu najjeftiniju ponudu u situacijama u kojima je cijena jedini kriterij za dodjelu te se stoga postupak nadmetanja ne može zaključiti.</P>
+</INFO_ADD>
+<ADDRESS_REVIEW_BODY>
+<OFFICIALNAME>Opći sud</OFFICIALNAME>
+<ADDRESS>rue du Fort Niedergrünewald </ADDRESS>
+<TOWN>Luxembourg</TOWN>
+<POSTAL_CODE>2925</POSTAL_CODE>
+<COUNTRY VALUE="LU"/>
+<PHONE>+352 4303-1</PHONE>
+<FAX>+352 4303-2100</FAX>
+<URL>http://curia.europa.eu</URL>
+</ADDRESS_REVIEW_BODY>
+<REVIEW_PROCEDURE>
+<P>U roku od 2 mjeseca od slanja obavijesti podnositelju žalbe ili, u slučaju izostanka obavijesti, od dana primanja dotičnih okolnosti na znanje.</P>
+</REVIEW_PROCEDURE>
+<DATE_DISPATCH_NOTICE>2016-08-30</DATE_DISPATCH_NOTICE>
+</COMPLEMENTARY_INFO>
+</F03_2014>
+</FORM_SECTION>
+</TED_EXPORT>

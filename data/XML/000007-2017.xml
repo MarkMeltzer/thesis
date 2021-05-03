@@ -1,0 +1,4215 @@
+<?xml version="1.0" encoding="UTF-8"?><TED_EXPORT xmlns="http://formex.publications.europa.eu/ted/schema/export/R2.0.9.S01.E01" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" VERSION="R2.0.9.S01.E01" xsi:schemaLocation="http://formex.publications.europa.eu/ted/schema/export/R2.0.9.S01.E01 TED_EXPORT.xsd" DOC_ID="000007-2017" EDITION="2017001">
+<TECHNICAL_SECTION>
+<RECEPTION_ID>16-487507-001</RECEPTION_ID>
+<DELETION_DATE>20170401</DELETION_DATE>
+<FORM_LG_LIST>DA DE EN ES FI FR EL IT NL PT SV CS ET HU LT LV MT PL SK SL GA BG RO HR </FORM_LG_LIST>
+<COMMENTS>From Convertor</COMMENTS>
+</TECHNICAL_SECTION>
+<LINKS_SECTION>
+<XML_SCHEMA_DEFINITION_LINK xlink:title="TED WEBSITE" xlink:href="http://ted.europa.eu" xlink:type="simple"/>
+<OFFICIAL_FORMS_LINK xlink:href="http://ted.europa.eu" xlink:type="simple"/>
+<FORMS_LABELS_LINK xlink:href="http://ted.europa.eu" xlink:type="simple"/>
+<ORIGINAL_CPV_LINK xlink:href="http://ted.europa.eu" xlink:type="simple"/>
+<ORIGINAL_NUTS_LINK xlink:href="http://ted.europa.eu" xlink:type="simple"/>
+</LINKS_SECTION>
+<CODED_DATA_SECTION>
+<REF_OJS>
+<COLL_OJ>S</COLL_OJ>
+<NO_OJ>1</NO_OJ>
+<DATE_PUB>20170103</DATE_PUB>
+</REF_OJS>
+<NOTICE_DATA>
+<NO_DOC_OJS>2017/S 001-000007</NO_DOC_OJS>
+<URI_LIST>
+<URI_DOC LG="DA">http://ted.europa.eu/udl?uri=TED:NOTICE:000007-2017:TEXT:DA:HTML</URI_DOC>
+<URI_DOC LG="DE">http://ted.europa.eu/udl?uri=TED:NOTICE:000007-2017:TEXT:DE:HTML</URI_DOC>
+<URI_DOC LG="EN">http://ted.europa.eu/udl?uri=TED:NOTICE:000007-2017:TEXT:EN:HTML</URI_DOC>
+<URI_DOC LG="ES">http://ted.europa.eu/udl?uri=TED:NOTICE:000007-2017:TEXT:ES:HTML</URI_DOC>
+<URI_DOC LG="FI">http://ted.europa.eu/udl?uri=TED:NOTICE:000007-2017:TEXT:FI:HTML</URI_DOC>
+<URI_DOC LG="FR">http://ted.europa.eu/udl?uri=TED:NOTICE:000007-2017:TEXT:FR:HTML</URI_DOC>
+<URI_DOC LG="EL">http://ted.europa.eu/udl?uri=TED:NOTICE:000007-2017:TEXT:EL:HTML</URI_DOC>
+<URI_DOC LG="IT">http://ted.europa.eu/udl?uri=TED:NOTICE:000007-2017:TEXT:IT:HTML</URI_DOC>
+<URI_DOC LG="NL">http://ted.europa.eu/udl?uri=TED:NOTICE:000007-2017:TEXT:NL:HTML</URI_DOC>
+<URI_DOC LG="PT">http://ted.europa.eu/udl?uri=TED:NOTICE:000007-2017:TEXT:PT:HTML</URI_DOC>
+<URI_DOC LG="SV">http://ted.europa.eu/udl?uri=TED:NOTICE:000007-2017:TEXT:SV:HTML</URI_DOC>
+<URI_DOC LG="CS">http://ted.europa.eu/udl?uri=TED:NOTICE:000007-2017:TEXT:CS:HTML</URI_DOC>
+<URI_DOC LG="ET">http://ted.europa.eu/udl?uri=TED:NOTICE:000007-2017:TEXT:ET:HTML</URI_DOC>
+<URI_DOC LG="HU">http://ted.europa.eu/udl?uri=TED:NOTICE:000007-2017:TEXT:HU:HTML</URI_DOC>
+<URI_DOC LG="LT">http://ted.europa.eu/udl?uri=TED:NOTICE:000007-2017:TEXT:LT:HTML</URI_DOC>
+<URI_DOC LG="LV">http://ted.europa.eu/udl?uri=TED:NOTICE:000007-2017:TEXT:LV:HTML</URI_DOC>
+<URI_DOC LG="MT">http://ted.europa.eu/udl?uri=TED:NOTICE:000007-2017:TEXT:MT:HTML</URI_DOC>
+<URI_DOC LG="PL">http://ted.europa.eu/udl?uri=TED:NOTICE:000007-2017:TEXT:PL:HTML</URI_DOC>
+<URI_DOC LG="SK">http://ted.europa.eu/udl?uri=TED:NOTICE:000007-2017:TEXT:SK:HTML</URI_DOC>
+<URI_DOC LG="SL">http://ted.europa.eu/udl?uri=TED:NOTICE:000007-2017:TEXT:SL:HTML</URI_DOC>
+<URI_DOC LG="GA">http://ted.europa.eu/udl?uri=TED:NOTICE:000007-2017:TEXT:GA:HTML</URI_DOC>
+<URI_DOC LG="BG">http://ted.europa.eu/udl?uri=TED:NOTICE:000007-2017:TEXT:BG:HTML</URI_DOC>
+<URI_DOC LG="RO">http://ted.europa.eu/udl?uri=TED:NOTICE:000007-2017:TEXT:RO:HTML</URI_DOC>
+<URI_DOC LG="HR">http://ted.europa.eu/udl?uri=TED:NOTICE:000007-2017:TEXT:HR:HTML</URI_DOC>
+</URI_LIST>
+<LG_ORIG>EN</LG_ORIG>
+<ISO_COUNTRY VALUE="PL"/>
+<IA_URL_GENERAL>http://www.frontex.europa.eu</IA_URL_GENERAL>
+<ORIGINAL_CPV CODE="60170000">Hire of passenger transport vehicles with driver</ORIGINAL_CPV>
+<ORIGINAL_NUTS CODE="GR">ELLADA</ORIGINAL_NUTS>
+<CA_CE_NUTS CODE="PL">POLSKA</CA_CE_NUTS>
+<TENDERER_NUTS CODE="GR">ELLADA</TENDERER_NUTS>
+<TENDERER_NUTS CODE="GR">ELLADA</TENDERER_NUTS>
+<VALUES>
+<VALUE TYPE="PROCUREMENT_TOTAL" CURRENCY="EUR">450000.00</VALUE>
+</VALUES>
+<REF_NOTICE>
+<NO_DOC_OJS>2016/S 187-335100</NO_DOC_OJS>
+</REF_NOTICE>
+</NOTICE_DATA>
+<CODIF_DATA>
+<DS_DATE_DISPATCH>20161222</DS_DATE_DISPATCH>
+<AA_AUTHORITY_TYPE CODE="5">European Institution/Agency or International Organisation</AA_AUTHORITY_TYPE>
+<TD_DOCUMENT_TYPE CODE="7">Contract award notice</TD_DOCUMENT_TYPE>
+<NC_CONTRACT_NATURE CODE="4">Services</NC_CONTRACT_NATURE>
+<PR_PROC CODE="1">Open procedure</PR_PROC>
+<RP_REGULATION CODE="3">European Institution/Agency or International Organisation</RP_REGULATION>
+<TY_TYPE_BID CODE="9">Not applicable</TY_TYPE_BID>
+<AC_AWARD_CRIT CODE="1">Lowest price</AC_AWARD_CRIT>
+<MA_MAIN_ACTIVITIES CODE="S">General public services</MA_MAIN_ACTIVITIES>
+<HEADING>AGC03</HEADING>
+<INITIATOR>AG</INITIATOR>
+<DIRECTIVE VALUE="2014/24/EU"/>
+</CODIF_DATA>
+</CODED_DATA_SECTION>
+<TRANSLATION_SECTION>
+<ML_TITLES>
+<ML_TI_DOC LG="DA">
+<TI_CY>Polen</TI_CY>
+<TI_TOWN>Warszawa</TI_TOWN>
+<TI_TEXT>
+<P>Rammekontrakt om udførelse af passagertransport over land. Parti 1 — Lesbos, parti 2 — Chios, parti 3 — Kos</P>
+</TI_TEXT>
+</ML_TI_DOC>
+<ML_TI_DOC LG="DE">
+<TI_CY>Polen</TI_CY>
+<TI_TOWN>Warschau</TI_TOWN>
+<TI_TEXT>
+<P>Rahmenvertrag über Personentransferdienste auf dem Landweg; Los 1 — Lesbos; Los 2 — Chios; Los 3 — Kos</P>
+</TI_TEXT>
+</ML_TI_DOC>
+<ML_TI_DOC LG="EN">
+<TI_CY>Poland</TI_CY>
+<TI_TOWN>Warsaw</TI_TOWN>
+<TI_TEXT>
+<P>Framework contract for the provision of passenger transfer services by land; lot 1 — Lesvos; lot 2 — Chios; lot 3 — Kos</P>
+</TI_TEXT>
+</ML_TI_DOC>
+<ML_TI_DOC LG="ES">
+<TI_CY>Polonia</TI_CY>
+<TI_TOWN>Varsovia</TI_TOWN>
+<TI_TEXT>
+<P>Contrato marco para la prestación de servicios de transporte de viajeros por tierra; lote 1 — Lesbos; lote 2 — Quíos; lote 3 — Cos</P>
+</TI_TEXT>
+</ML_TI_DOC>
+<ML_TI_DOC LG="FI">
+<TI_CY>Puola</TI_CY>
+<TI_TOWN>Varsova</TI_TOWN>
+<TI_TEXT>
+<P>Puitesopimus matkustajille tarkoitettujen maakuljetuspalveluiden toimittamisesta; erä 1 – Lesbos; erä 2 – Chíos; erä 3 – Kos</P>
+</TI_TEXT>
+</ML_TI_DOC>
+<ML_TI_DOC LG="FR">
+<TI_CY>Pologne</TI_CY>
+<TI_TOWN>Varsovie</TI_TOWN>
+<TI_TEXT>
+<P>Contrat-cadre relatif à la prestation de services de transport terrestre de passagers; lot 1 — Lesbos; lot 2 — Chios; lot 3 — Kos</P>
+</TI_TEXT>
+</ML_TI_DOC>
+<ML_TI_DOC LG="EL">
+<TI_CY>Πολωνία</TI_CY>
+<TI_TOWN>Βαρσοβία</TI_TOWN>
+<TI_TEXT>
+<P>Σύμβαση-πλαίσιο για την παροχή υπηρεσιών χερσαίας μεταφοράς επιβατών, παρτίδα 1 — Λέσβος, παρτίδα 2 — Χίος, παρτίδα 3 — Κως</P>
+</TI_TEXT>
+</ML_TI_DOC>
+<ML_TI_DOC LG="IT">
+<TI_CY>Polonia</TI_CY>
+<TI_TOWN>Varsavia</TI_TOWN>
+<TI_TEXT>
+<P>Contratto quadro per la prestazione di servizi di trasferimento passeggeri via terra; lotto 1 — Lesbo; lotto 2 — Chio; lotto 3 — Coo</P>
+</TI_TEXT>
+</ML_TI_DOC>
+<ML_TI_DOC LG="NL">
+<TI_CY>Polen</TI_CY>
+<TI_TOWN>Warschau</TI_TOWN>
+<TI_TEXT>
+<P>Raamovereenkomst voor de verlening van diensten inzake passagiersvervoer over land; perceel 1 — Lesbos; perceel 2 — Chios; perceel 3 — Kos</P>
+</TI_TEXT>
+</ML_TI_DOC>
+<ML_TI_DOC LG="PT">
+<TI_CY>Polónia</TI_CY>
+<TI_TOWN>Varsóvia</TI_TOWN>
+<TI_TEXT>
+<P>Contrato-quadro relativo à prestação de serviços de transporte terrestre de passageiros; lote 1 — Lesbos; lote 2 — Chios; lote 3 — Kos</P>
+</TI_TEXT>
+</ML_TI_DOC>
+<ML_TI_DOC LG="SV">
+<TI_CY>Polen</TI_CY>
+<TI_TOWN>Warszawa</TI_TOWN>
+<TI_TEXT>
+<P>Ramavtal för tillhandahållande av tjänster för passagerartransport landvägen, del 1 – Lesbos, del 2 – Chios, del 3 – Kos</P>
+</TI_TEXT>
+</ML_TI_DOC>
+<ML_TI_DOC LG="CS">
+<TI_CY>Polsko</TI_CY>
+<TI_TOWN>Varšava</TI_TOWN>
+<TI_TEXT>
+<P>Rámcová smlouva o poskytování služeb přepravy cestujících po souši; položka č. 1 – Lesvos; položka č. 2 – Chios; položka č. 3 – Kos</P>
+</TI_TEXT>
+</ML_TI_DOC>
+<ML_TI_DOC LG="ET">
+<TI_CY>Poola</TI_CY>
+<TI_TOWN>Varssavi</TI_TOWN>
+<TI_TEXT>
+<P>Reisijate maismaaveo teenuste osutamise raamleping; 1. osa – Lesbos; 2. osa – Chíos; 3. osa – Kos</P>
+</TI_TEXT>
+</ML_TI_DOC>
+<ML_TI_DOC LG="HU">
+<TI_CY>Lengyelország</TI_CY>
+<TI_TOWN>Varsó</TI_TOWN>
+<TI_TEXT>
+<P>Szárazföldi személyszállítási szolgáltatások nyújtására irányuló keretszerződés; 1. tétel – Leszbosz; 2. tétel – Híosz; 3. tétel – Kósz</P>
+</TI_TEXT>
+</ML_TI_DOC>
+<ML_TI_DOC LG="LT">
+<TI_CY>Lenkija</TI_CY>
+<TI_TOWN>Varšuva</TI_TOWN>
+<TI_TEXT>
+<P>Preliminarioji sutartis dėl keleivių vežimo sausuma paslaugų teikimo: 1 dalis – Lesbas; 2 dalis – Chijas; 3 dalis – Kosas</P>
+</TI_TEXT>
+</ML_TI_DOC>
+<ML_TI_DOC LG="LV">
+<TI_CY>Polija</TI_CY>
+<TI_TOWN>Varšava</TI_TOWN>
+<TI_TEXT>
+<P>Pamatnolīgums par pasažieru sauszemes pārvadājumu pakalpojumu nodrošināšanu; 1. daļa – Lesba; 2. daļa – Hija; 3. daļa – Kosa</P>
+</TI_TEXT>
+</ML_TI_DOC>
+<ML_TI_DOC LG="MT">
+<TI_CY>il-Polonja</TI_CY>
+<TI_TOWN>Varsavja</TI_TOWN>
+<TI_TEXT>
+<P>Qafas ta' kuntratt għall-provvista ta' servizzi għat-trasferiment tal-passiġġieri fuq l-art, l-1 lott — Lesvos; it-2 lott — Chios; it-3 lott — Kos</P>
+</TI_TEXT>
+</ML_TI_DOC>
+<ML_TI_DOC LG="PL">
+<TI_CY>Polska</TI_CY>
+<TI_TOWN>Warszawa</TI_TOWN>
+<TI_TEXT>
+<P>Umowa ramowa o świadczenie usług lądowych przewozów pasażerskich; część 1 — Lesbos; część 2 — Chios; część 3 — Kos</P>
+</TI_TEXT>
+</ML_TI_DOC>
+<ML_TI_DOC LG="SK">
+<TI_CY>Poľsko</TI_CY>
+<TI_TOWN>Varšava</TI_TOWN>
+<TI_TEXT>
+<P>Rámcová zmluva na poskytovanie služieb prepravy cestujúcich po zemi; časť 1 – Lesbos; časť 2 – Chios; časť 3 – Kos</P>
+</TI_TEXT>
+</ML_TI_DOC>
+<ML_TI_DOC LG="SL">
+<TI_CY>Poljska</TI_CY>
+<TI_TOWN>Varšava</TI_TOWN>
+<TI_TEXT>
+<P>Okvirno naročilo za zagotavljanje storitev potniškega prometa po kopnem; sklop 1 – Lezbos; sklop 2 – Hios; sklop 3 – Kos</P>
+</TI_TEXT>
+</ML_TI_DOC>
+<ML_TI_DOC LG="GA">
+<TI_CY>Pholainn, an</TI_CY>
+<TI_TOWN>Vársá</TI_TOWN>
+<TI_TEXT>
+<P>Conradh creatlaí le haghaidh seirbhísí aistrithe paisinéirí ar talamh a sholáthar; beart 1 — Lesvos; beart 2 — Chios; beart 3 — Kos</P>
+</TI_TEXT>
+</ML_TI_DOC>
+<ML_TI_DOC LG="BG">
+<TI_CY>Полша</TI_CY>
+<TI_TOWN>Варшава</TI_TOWN>
+<TI_TEXT>
+<P>Рамков договор за осигуряване на услуги по трансфер на пътници по земя; партида 1 – Лесбос; партида 2 – Хиос; партида 3 – Кос</P>
+</TI_TEXT>
+</ML_TI_DOC>
+<ML_TI_DOC LG="RO">
+<TI_CY>Polonia</TI_CY>
+<TI_TOWN>Varșovia</TI_TOWN>
+<TI_TEXT>
+<P>Contract-cadru pentru prestarea de servicii de transport terestru de pasageri; lotul 1 – Lesbos; lotul 2 – Chios; lotul 3 – Kos</P>
+</TI_TEXT>
+</ML_TI_DOC>
+<ML_TI_DOC LG="HR">
+<TI_CY>Poljska</TI_CY>
+<TI_TOWN>Varšava</TI_TOWN>
+<TI_TEXT>
+<P>Okvirni ugovor za pružanje usluga prijevoza putnika kopnom; grupa 1 — Lesvos; grupa 2 — Chios; grupa 3 — Kos</P>
+</TI_TEXT>
+</ML_TI_DOC>
+</ML_TITLES>
+<ML_AA_NAMES>
+<AA_NAME LG="DA">Frontex</AA_NAME>
+<AA_NAME LG="DE">Frontex</AA_NAME>
+<AA_NAME LG="EN">Frontex</AA_NAME>
+<AA_NAME LG="ES">Frontex</AA_NAME>
+<AA_NAME LG="FI">Frontex</AA_NAME>
+<AA_NAME LG="FR">Frontex</AA_NAME>
+<AA_NAME LG="EL">Frontex</AA_NAME>
+<AA_NAME LG="IT">Frontex</AA_NAME>
+<AA_NAME LG="NL">Frontex</AA_NAME>
+<AA_NAME LG="PT">Frontex</AA_NAME>
+<AA_NAME LG="SV">Frontex</AA_NAME>
+<AA_NAME LG="CS">Frontex</AA_NAME>
+<AA_NAME LG="ET">Frontex</AA_NAME>
+<AA_NAME LG="HU">Frontex</AA_NAME>
+<AA_NAME LG="LT">Frontex</AA_NAME>
+<AA_NAME LG="LV">Frontex</AA_NAME>
+<AA_NAME LG="MT">Frontex</AA_NAME>
+<AA_NAME LG="PL">Frontex</AA_NAME>
+<AA_NAME LG="SK">Frontex</AA_NAME>
+<AA_NAME LG="SL">Frontex</AA_NAME>
+<AA_NAME LG="GA">Frontex</AA_NAME>
+<AA_NAME LG="BG">Frontex</AA_NAME>
+<AA_NAME LG="RO">Frontex</AA_NAME>
+<AA_NAME LG="HR">Frontex</AA_NAME>
+</ML_AA_NAMES>
+</TRANSLATION_SECTION>
+<FORM_SECTION>
+<F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="DA">
+<CONTRACTING_BODY>
+<ADDRESS_CONTRACTING_BODY>
+<OFFICIALNAME>Frontex</OFFICIALNAME>
+<ADDRESS>Plac Europejski 6</ADDRESS>
+<TOWN>Warsaw</TOWN>
+<POSTAL_CODE>00-844</POSTAL_CODE>
+<COUNTRY VALUE="PL"/>
+<PHONE>+48 222059500</PHONE>
+<E_MAIL>procurement@frontex.europa.eu</E_MAIL>
+<FAX>+48 222059501</FAX>
+<NUTS CODE="PL"/>
+<URL_GENERAL>http://www.frontex.europa.eu</URL_GENERAL>
+</ADDRESS_CONTRACTING_BODY>
+<CA_TYPE VALUE="EU_INSTITUTION"/>
+<CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+</CONTRACTING_BODY>
+<OBJECT_CONTRACT>
+<TITLE>
+<P>Rammekontrakt om udførelse af passagertransport over land. Parti 1 — Lesbos, parti 2 — Chios, parti 3 — Kos.</P>
+</TITLE>
+<REFERENCE_NUMBER>FRONTEX/OP/602/2016/KM.</REFERENCE_NUMBER>
+<CPV_MAIN>
+<CPV_CODE CODE="60170000"/>
+</CPV_MAIN>
+<TYPE_CONTRACT CTYPE="SERVICES"/>
+<SHORT_DESCR>
+<P>Rammekontrakt om udførelse af passagertransport over land.</P>
+</SHORT_DESCR>
+<VAL_TOTAL CURRENCY="EUR">450000.00</VAL_TOTAL>
+<LOT_DIVISION/>
+<OBJECT_DESCR ITEM="1">
+<TITLE>
+<P>Rammekontrakt om udførelse af passagertransport over land med bus. Parti 1 — Lesbos</P>
+</TITLE>
+<LOT_NO>1</LOT_NO>
+<CPV_ADDITIONAL>
+<CPV_CODE CODE="60170000"/>
+</CPV_ADDITIONAL>
+<NUTS CODE="GR"/>
+<SHORT_DESCR>
+<P>Udførelse af passagertransport over land med bus i Grækenland, øen Lesbos.</P>
+</SHORT_DESCR>
+<AC_PRICE/>
+<NO_OPTIONS/>
+<NO_EU_PROGR_RELATED/>
+</OBJECT_DESCR>
+<OBJECT_DESCR ITEM="2">
+<TITLE>
+<P>Rammekontrakt om udførelse af passagertransport over land med bus. Parti 2 — Chios</P>
+</TITLE>
+<LOT_NO>2</LOT_NO>
+<CPV_ADDITIONAL>
+<CPV_CODE CODE="60170000"/>
+</CPV_ADDITIONAL>
+<NUTS CODE="GR"/>
+<SHORT_DESCR>
+<P>Udførelse af passagertransport over land med bus i Grækenland, øen Chios.</P>
+</SHORT_DESCR>
+<AC_PRICE/>
+<NO_OPTIONS/>
+<NO_EU_PROGR_RELATED/>
+</OBJECT_DESCR>
+<OBJECT_DESCR ITEM="3">
+<TITLE>
+<P>Rammekontrakt om udførelse af passagertransport over land. Parti 3 — Kos</P>
+</TITLE>
+<LOT_NO>3</LOT_NO>
+<CPV_ADDITIONAL>
+<CPV_CODE CODE="60170000"/>
+</CPV_ADDITIONAL>
+<NUTS CODE="GR"/>
+<SHORT_DESCR>
+<P>Rammekontrakt om udførelse af passagertransport over land med bus. Parti 3 — Kos.</P>
+</SHORT_DESCR>
+<AC_PRICE/>
+<NO_OPTIONS/>
+<NO_EU_PROGR_RELATED/>
+</OBJECT_DESCR>
+</OBJECT_CONTRACT>
+<PROCEDURE>
+<PT_OPEN/>
+<ACCELERATED_PROC>
+<P>I betragtning af det store antal ventende tilbagetagelser på medlemsstatsplan må Frontex træffe alle nødvendige foranstaltninger til at sikre, at der øjeblikkeligt ydes medlemsstaterne støtte til at opfylde deres forpligtelser.</P>
+</ACCELERATED_PROC>
+<FRAMEWORK/>
+<NO_CONTRACT_COVERED_GPA/>
+<NOTICE_NUMBER_OJ>2016/S 187-335100</NOTICE_NUMBER_OJ>
+</PROCEDURE>
+<AWARD_CONTRACT ITEM="1">
+<CONTRACT_NO>Frontex/OP/602/2016/Parti 1</CONTRACT_NO>
+<LOT_NO>1</LOT_NO>
+<TITLE>
+<P>Rammekontrakt om udførelse af passagertransport over land med bus. Parti 1 — Lesbos</P>
+</TITLE>
+<AWARDED_CONTRACT>
+<DATE_CONCLUSION_CONTRACT>2016-12-06</DATE_CONCLUSION_CONTRACT>
+<NB_TENDERS_RECEIVED>1</NB_TENDERS_RECEIVED>
+<NO_AWARDED_TO_GROUP/>
+<CONTRACTOR>
+<ADDRESS_CONTRACTOR>
+<OFFICIALNAME>Vagia Tzislaki — Lesvorama General Travel Agency</OFFICIALNAME>
+<ADDRESS>M. Goutou 22, Lesvos</ADDRESS>
+<TOWN>Mithimna</TOWN>
+<POSTAL_CODE>811 08</POSTAL_CODE>
+<COUNTRY VALUE="GR"/>
+<NUTS CODE="GR"/>
+</ADDRESS_CONTRACTOR>
+<SME/>
+</CONTRACTOR>
+<VAL_ESTIMATED_TOTAL CURRENCY="EUR">150000.00</VAL_ESTIMATED_TOTAL>
+<VAL_TOTAL CURRENCY="EUR">150000.00</VAL_TOTAL>
+</AWARDED_CONTRACT>
+</AWARD_CONTRACT>
+<AWARD_CONTRACT ITEM="2">
+<CONTRACT_NO>Frontex/OP/602/2016/Parti 2</CONTRACT_NO>
+<LOT_NO>2</LOT_NO>
+<TITLE>
+<P>Rammekontrakt om udførelse af passagertransport over land med bus. Parti 2 — Chios</P>
+</TITLE>
+<AWARDED_CONTRACT>
+<DATE_CONCLUSION_CONTRACT>2016-12-06</DATE_CONCLUSION_CONTRACT>
+<NB_TENDERS_RECEIVED>1</NB_TENDERS_RECEIVED>
+<NO_AWARDED_TO_GROUP/>
+<CONTRACTOR>
+<ADDRESS_CONTRACTOR>
+<OFFICIALNAME>Vagia Tzislaki — Lesvorama General Travel Agency</OFFICIALNAME>
+<ADDRESS>M. Goutou 22, Lesvos</ADDRESS>
+<TOWN>Mithimna</TOWN>
+<POSTAL_CODE>811 08</POSTAL_CODE>
+<COUNTRY VALUE="GR"/>
+<NUTS CODE="GR"/>
+</ADDRESS_CONTRACTOR>
+<SME/>
+</CONTRACTOR>
+<VAL_ESTIMATED_TOTAL CURRENCY="EUR">150000.00</VAL_ESTIMATED_TOTAL>
+<VAL_TOTAL CURRENCY="EUR">150000.00</VAL_TOTAL>
+</AWARDED_CONTRACT>
+</AWARD_CONTRACT>
+<AWARD_CONTRACT ITEM="3">
+<CONTRACT_NO>Frontex/OP/602/2016.</CONTRACT_NO>
+<LOT_NO>3</LOT_NO>
+<TITLE>
+<P>Rammekontrakt om udførelse af passagertransport over land med bus. Parti 3 — Kos</P>
+</TITLE>
+<NO_AWARDED_CONTRACT>
+<PROCUREMENT_UNSUCCESSFUL/>
+</NO_AWARDED_CONTRACT>
+</AWARD_CONTRACT>
+<COMPLEMENTARY_INFO>
+<ADDRESS_REVIEW_BODY>
+<OFFICIALNAME>Retten</OFFICIALNAME>
+<ADDRESS>rue du Fort Niedergrünewald</ADDRESS>
+<TOWN>Luxembourg</TOWN>
+<POSTAL_CODE>2925</POSTAL_CODE>
+<COUNTRY VALUE="LU"/>
+<PHONE>+352 4303-1</PHONE>
+<E_MAIL>cfi.registry@curia.europa.eu</E_MAIL>
+<FAX>+352 4303-2100</FAX>
+<URL>http://curia.europa.eu/</URL>
+</ADDRESS_REVIEW_BODY>
+<DATE_DISPATCH_NOTICE>2016-12-22</DATE_DISPATCH_NOTICE>
+</COMPLEMENTARY_INFO>
+</F03_2014>
+<F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="DE">
+<CONTRACTING_BODY>
+<ADDRESS_CONTRACTING_BODY>
+<OFFICIALNAME>Frontex</OFFICIALNAME>
+<ADDRESS>Plac Europejski 6</ADDRESS>
+<TOWN>Warsaw</TOWN>
+<POSTAL_CODE>00-844</POSTAL_CODE>
+<COUNTRY VALUE="PL"/>
+<PHONE>+48 222059500</PHONE>
+<E_MAIL>procurement@frontex.europa.eu</E_MAIL>
+<FAX>+48 222059501</FAX>
+<NUTS CODE="PL"/>
+<URL_GENERAL>http://www.frontex.europa.eu</URL_GENERAL>
+</ADDRESS_CONTRACTING_BODY>
+<CA_TYPE VALUE="EU_INSTITUTION"/>
+<CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+</CONTRACTING_BODY>
+<OBJECT_CONTRACT>
+<TITLE>
+<P>Rahmenvertrag über Personentransferdienste auf dem Landweg; Los 1 — Lesbos; Los 2 — Chios; Los 3 — Kos.</P>
+</TITLE>
+<REFERENCE_NUMBER>FRONTEX/OP/602/2016/KM.</REFERENCE_NUMBER>
+<CPV_MAIN>
+<CPV_CODE CODE="60170000"/>
+</CPV_MAIN>
+<TYPE_CONTRACT CTYPE="SERVICES"/>
+<SHORT_DESCR>
+<P>Rahmenvertrag über Personentransferdienste auf dem Landweg.</P>
+</SHORT_DESCR>
+<VAL_TOTAL CURRENCY="EUR">450000.00</VAL_TOTAL>
+<LOT_DIVISION/>
+<OBJECT_DESCR ITEM="1">
+<TITLE>
+<P>Rahmenvertrag über Personentransferdienste auf dem Landweg, per Bus; Los 1 — Lesbos</P>
+</TITLE>
+<LOT_NO>1</LOT_NO>
+<CPV_ADDITIONAL>
+<CPV_CODE CODE="60170000"/>
+</CPV_ADDITIONAL>
+<NUTS CODE="GR"/>
+<SHORT_DESCR>
+<P>Personentransferdienste per Bus in Griechenland — Insel Lesbos.</P>
+</SHORT_DESCR>
+<AC_PRICE/>
+<NO_OPTIONS/>
+<NO_EU_PROGR_RELATED/>
+</OBJECT_DESCR>
+<OBJECT_DESCR ITEM="2">
+<TITLE>
+<P>Rahmenvertrag über Personentransferdienste auf dem Landweg, per Bus; Los 2 — Chios</P>
+</TITLE>
+<LOT_NO>2</LOT_NO>
+<CPV_ADDITIONAL>
+<CPV_CODE CODE="60170000"/>
+</CPV_ADDITIONAL>
+<NUTS CODE="GR"/>
+<SHORT_DESCR>
+<P>Personenverkehrsdienste per Bus in Griechenland, Insel Chios.</P>
+</SHORT_DESCR>
+<AC_PRICE/>
+<NO_OPTIONS/>
+<NO_EU_PROGR_RELATED/>
+</OBJECT_DESCR>
+<OBJECT_DESCR ITEM="3">
+<TITLE>
+<P>Rahmenvertrag über Personentransferdienste auf dem Landweg; Los 3 — Kos</P>
+</TITLE>
+<LOT_NO>3</LOT_NO>
+<CPV_ADDITIONAL>
+<CPV_CODE CODE="60170000"/>
+</CPV_ADDITIONAL>
+<NUTS CODE="GR"/>
+<SHORT_DESCR>
+<P>Rahmenvertrag über Personentransferdienste auf dem Landweg, per Bus. Los 3 — Kos.</P>
+</SHORT_DESCR>
+<AC_PRICE/>
+<NO_OPTIONS/>
+<NO_EU_PROGR_RELATED/>
+</OBJECT_DESCR>
+</OBJECT_CONTRACT>
+<PROCEDURE>
+<PT_OPEN/>
+<ACCELERATED_PROC>
+<P>In Anbetracht der hohen Anzahl noch durchzuführender Rückübernahmen auf Ebene der Mitgliedstaaten muss Frontex alle notwendigen Schritte tätigen, um die sofortige Unterstützung der Mitgliedstaaten zur Erfüllung ihrer Pflichten zu gewährleisten.</P>
+</ACCELERATED_PROC>
+<FRAMEWORK/>
+<NO_CONTRACT_COVERED_GPA/>
+<NOTICE_NUMBER_OJ>2016/S 187-335100</NOTICE_NUMBER_OJ>
+</PROCEDURE>
+<AWARD_CONTRACT ITEM="1">
+<CONTRACT_NO>Frontex/OP/602/2016/Los 1</CONTRACT_NO>
+<LOT_NO>1</LOT_NO>
+<TITLE>
+<P>Rahmenvertrag über Personentransferdienste auf dem Landweg, per Bus; Los 1 — Lesbos</P>
+</TITLE>
+<AWARDED_CONTRACT>
+<DATE_CONCLUSION_CONTRACT>2016-12-06</DATE_CONCLUSION_CONTRACT>
+<NB_TENDERS_RECEIVED>1</NB_TENDERS_RECEIVED>
+<NO_AWARDED_TO_GROUP/>
+<CONTRACTOR>
+<ADDRESS_CONTRACTOR>
+<OFFICIALNAME>Vagia Tzislaki — Lesvorama General Travel Agency</OFFICIALNAME>
+<ADDRESS>M. Goutou 22, Lesvos</ADDRESS>
+<TOWN>Mithimna</TOWN>
+<POSTAL_CODE>811 08</POSTAL_CODE>
+<COUNTRY VALUE="GR"/>
+<NUTS CODE="GR"/>
+</ADDRESS_CONTRACTOR>
+<SME/>
+</CONTRACTOR>
+<VAL_ESTIMATED_TOTAL CURRENCY="EUR">150000.00</VAL_ESTIMATED_TOTAL>
+<VAL_TOTAL CURRENCY="EUR">150000.00</VAL_TOTAL>
+</AWARDED_CONTRACT>
+</AWARD_CONTRACT>
+<AWARD_CONTRACT ITEM="2">
+<CONTRACT_NO>Frontex/OP/602/2016/Los 2</CONTRACT_NO>
+<LOT_NO>2</LOT_NO>
+<TITLE>
+<P>Rahmenvertrag über Personentransferdienste auf dem Landweg, per Bus; Los 2 — Chios</P>
+</TITLE>
+<AWARDED_CONTRACT>
+<DATE_CONCLUSION_CONTRACT>2016-12-06</DATE_CONCLUSION_CONTRACT>
+<NB_TENDERS_RECEIVED>1</NB_TENDERS_RECEIVED>
+<NO_AWARDED_TO_GROUP/>
+<CONTRACTOR>
+<ADDRESS_CONTRACTOR>
+<OFFICIALNAME>Vagia Tzislaki — Lesvorama General Travel Agency</OFFICIALNAME>
+<ADDRESS>M. Goutou 22, Lesvos</ADDRESS>
+<TOWN>Mithimna</TOWN>
+<POSTAL_CODE>811 08</POSTAL_CODE>
+<COUNTRY VALUE="GR"/>
+<NUTS CODE="GR"/>
+</ADDRESS_CONTRACTOR>
+<SME/>
+</CONTRACTOR>
+<VAL_ESTIMATED_TOTAL CURRENCY="EUR">150000.00</VAL_ESTIMATED_TOTAL>
+<VAL_TOTAL CURRENCY="EUR">150000.00</VAL_TOTAL>
+</AWARDED_CONTRACT>
+</AWARD_CONTRACT>
+<AWARD_CONTRACT ITEM="3">
+<CONTRACT_NO>Frontex/OP/602/2016.</CONTRACT_NO>
+<LOT_NO>3</LOT_NO>
+<TITLE>
+<P>Rahmenvertrag über Personentransferdienste auf dem Landweg, per Bus; Los 3 — Kos</P>
+</TITLE>
+<NO_AWARDED_CONTRACT>
+<PROCUREMENT_UNSUCCESSFUL/>
+</NO_AWARDED_CONTRACT>
+</AWARD_CONTRACT>
+<COMPLEMENTARY_INFO>
+<ADDRESS_REVIEW_BODY>
+<OFFICIALNAME>Gericht der Europäischen Union</OFFICIALNAME>
+<ADDRESS>rue du Fort Niedergrünewald</ADDRESS>
+<TOWN>Luxembourg</TOWN>
+<POSTAL_CODE>2925</POSTAL_CODE>
+<COUNTRY VALUE="LU"/>
+<PHONE>+352 4303-1</PHONE>
+<E_MAIL>cfi.registry@curia.europa.eu</E_MAIL>
+<FAX>+352 4303-2100</FAX>
+<URL>http://curia.europa.eu/</URL>
+</ADDRESS_REVIEW_BODY>
+<DATE_DISPATCH_NOTICE>2016-12-22</DATE_DISPATCH_NOTICE>
+</COMPLEMENTARY_INFO>
+</F03_2014>
+<F03_2014 CATEGORY="ORIGINAL" FORM="F03" LG="EN">
+<CONTRACTING_BODY>
+<ADDRESS_CONTRACTING_BODY>
+<OFFICIALNAME>Frontex</OFFICIALNAME>
+<ADDRESS>Plac Europejski 6</ADDRESS>
+<TOWN>Warsaw</TOWN>
+<POSTAL_CODE>00-844</POSTAL_CODE>
+<COUNTRY VALUE="PL"/>
+<PHONE>+48 222059500</PHONE>
+<E_MAIL>procurement@frontex.europa.eu</E_MAIL>
+<FAX>+48 222059501</FAX>
+<NUTS CODE="PL"/>
+<URL_GENERAL>http://www.frontex.europa.eu</URL_GENERAL>
+</ADDRESS_CONTRACTING_BODY>
+<CA_TYPE VALUE="EU_INSTITUTION"/>
+<CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+</CONTRACTING_BODY>
+<OBJECT_CONTRACT>
+<TITLE>
+<P>Framework contract for the provision of passenger transfer services by land lot 1 — Lesvos; lot 2 — Chios; lot 3 — Kos.</P>
+</TITLE>
+<REFERENCE_NUMBER>FRONTEX/OP/602/2016/KM.</REFERENCE_NUMBER>
+<CPV_MAIN>
+<CPV_CODE CODE="60170000"/>
+</CPV_MAIN>
+<TYPE_CONTRACT CTYPE="SERVICES"/>
+<SHORT_DESCR>
+<P>Framework contract for the provision of passenger transfer services by land.</P>
+</SHORT_DESCR>
+<VAL_TOTAL CURRENCY="EUR">450000.00</VAL_TOTAL>
+<LOT_DIVISION/>
+<OBJECT_DESCR ITEM="1">
+<TITLE>
+<P>Framework contract for the provision of passenger transfer services by land, by bus; lot 1 — Lesvos</P>
+</TITLE>
+<LOT_NO>1</LOT_NO>
+<CPV_ADDITIONAL>
+<CPV_CODE CODE="60170000"/>
+</CPV_ADDITIONAL>
+<NUTS CODE="GR"/>
+<SHORT_DESCR>
+<P>Provision of passenger transfer services by bus in Greece — Lesvos island.</P>
+</SHORT_DESCR>
+<AC_PRICE/>
+<NO_OPTIONS/>
+<NO_EU_PROGR_RELATED/>
+</OBJECT_DESCR>
+<OBJECT_DESCR ITEM="2">
+<TITLE>
+<P>Framework contract for the provision of passenger transfer services by land, by bus; lot 2 — Chios</P>
+</TITLE>
+<LOT_NO>2</LOT_NO>
+<CPV_ADDITIONAL>
+<CPV_CODE CODE="60170000"/>
+</CPV_ADDITIONAL>
+<NUTS CODE="GR"/>
+<SHORT_DESCR>
+<P>Provision of passenger services by bus in Greece, Chios island.</P>
+</SHORT_DESCR>
+<AC_PRICE/>
+<NO_OPTIONS/>
+<NO_EU_PROGR_RELATED/>
+</OBJECT_DESCR>
+<OBJECT_DESCR ITEM="3">
+<TITLE>
+<P>Framework contract for the provision of passenger transfer services by land; lot 3 — Kos</P>
+</TITLE>
+<LOT_NO>3</LOT_NO>
+<CPV_ADDITIONAL>
+<CPV_CODE CODE="60170000"/>
+</CPV_ADDITIONAL>
+<NUTS CODE="GR"/>
+<SHORT_DESCR>
+<P>Framework contract for the provision of passenger transfer services by land, by bus. Lot 3 — Kos.</P>
+</SHORT_DESCR>
+<AC_PRICE/>
+<NO_OPTIONS/>
+<NO_EU_PROGR_RELATED/>
+</OBJECT_DESCR>
+</OBJECT_CONTRACT>
+<PROCEDURE>
+<PT_OPEN/>
+<ACCELERATED_PROC>
+<P>In the consideration of the high number of readmissions pending at the level of Member States, Frontex needs to take all the necessary steps to ensure that immediate support is provided to the Member States to fulfil their obligations.</P>
+</ACCELERATED_PROC>
+<FRAMEWORK/>
+<NO_CONTRACT_COVERED_GPA/>
+<NOTICE_NUMBER_OJ>2016/S 187-335100</NOTICE_NUMBER_OJ>
+</PROCEDURE>
+<AWARD_CONTRACT ITEM="1">
+<CONTRACT_NO>Frontex/OP/602/2016/Lot 1</CONTRACT_NO>
+<LOT_NO>1</LOT_NO>
+<TITLE>
+<P>Framework contract for the provision of passenger transfer services by land, by bus; lot 1 — Lesvos</P>
+</TITLE>
+<AWARDED_CONTRACT>
+<DATE_CONCLUSION_CONTRACT>2016-12-06</DATE_CONCLUSION_CONTRACT>
+<NB_TENDERS_RECEIVED>1</NB_TENDERS_RECEIVED>
+<NO_AWARDED_TO_GROUP/>
+<CONTRACTOR>
+<ADDRESS_CONTRACTOR>
+<OFFICIALNAME>Vagia Tzislaki — Lesvorama General Travel Agency</OFFICIALNAME>
+<ADDRESS>M. Goutou 22, Lesvos</ADDRESS>
+<TOWN>Mithimna</TOWN>
+<POSTAL_CODE>811 08</POSTAL_CODE>
+<COUNTRY VALUE="GR"/>
+<NUTS CODE="GR"/>
+</ADDRESS_CONTRACTOR>
+<SME/>
+</CONTRACTOR>
+<VAL_ESTIMATED_TOTAL CURRENCY="EUR">150000.00</VAL_ESTIMATED_TOTAL>
+<VAL_TOTAL CURRENCY="EUR">150000.00</VAL_TOTAL>
+</AWARDED_CONTRACT>
+</AWARD_CONTRACT>
+<AWARD_CONTRACT ITEM="2">
+<CONTRACT_NO>Frontex/OP/602/2016/Lot 2</CONTRACT_NO>
+<LOT_NO>2</LOT_NO>
+<TITLE>
+<P>Framework contract for the provision of passenger transfer services by land, by bus; lot 2 — Chios</P>
+</TITLE>
+<AWARDED_CONTRACT>
+<DATE_CONCLUSION_CONTRACT>2016-12-06</DATE_CONCLUSION_CONTRACT>
+<NB_TENDERS_RECEIVED>1</NB_TENDERS_RECEIVED>
+<NO_AWARDED_TO_GROUP/>
+<CONTRACTOR>
+<ADDRESS_CONTRACTOR>
+<OFFICIALNAME>Vagia Tzislaki — Lesvorama General Travel Agency</OFFICIALNAME>
+<ADDRESS>M. Goutou 22, Lesvos</ADDRESS>
+<TOWN>Mithimna</TOWN>
+<POSTAL_CODE>811 08</POSTAL_CODE>
+<COUNTRY VALUE="GR"/>
+<NUTS CODE="GR"/>
+</ADDRESS_CONTRACTOR>
+<SME/>
+</CONTRACTOR>
+<VAL_ESTIMATED_TOTAL CURRENCY="EUR">150000.00</VAL_ESTIMATED_TOTAL>
+<VAL_TOTAL CURRENCY="EUR">150000.00</VAL_TOTAL>
+</AWARDED_CONTRACT>
+</AWARD_CONTRACT>
+<AWARD_CONTRACT ITEM="3">
+<CONTRACT_NO>Frontex/OP/602/2016.</CONTRACT_NO>
+<LOT_NO>3</LOT_NO>
+<TITLE>
+<P>Framework contract for the provision of passenger transfer services by land, by bus; lot 3 — Kos</P>
+</TITLE>
+<NO_AWARDED_CONTRACT>
+<PROCUREMENT_UNSUCCESSFUL/>
+</NO_AWARDED_CONTRACT>
+</AWARD_CONTRACT>
+<COMPLEMENTARY_INFO>
+<ADDRESS_REVIEW_BODY>
+<OFFICIALNAME>General Court</OFFICIALNAME>
+<ADDRESS>rue du Fort Niedergrünewald</ADDRESS>
+<TOWN>Luxembourg</TOWN>
+<POSTAL_CODE>2925</POSTAL_CODE>
+<COUNTRY VALUE="LU"/>
+<PHONE>+352 4303-1</PHONE>
+<E_MAIL>cfi.registry@curia.europa.eu</E_MAIL>
+<FAX>+352 4303-2100</FAX>
+<URL>http://curia.europa.eu/</URL>
+</ADDRESS_REVIEW_BODY>
+<DATE_DISPATCH_NOTICE>2016-12-22</DATE_DISPATCH_NOTICE>
+</COMPLEMENTARY_INFO>
+</F03_2014>
+<F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="ES">
+<CONTRACTING_BODY>
+<ADDRESS_CONTRACTING_BODY>
+<OFFICIALNAME>Frontex</OFFICIALNAME>
+<ADDRESS>Plac Europejski 6</ADDRESS>
+<TOWN>Warsaw</TOWN>
+<POSTAL_CODE>00-844</POSTAL_CODE>
+<COUNTRY VALUE="PL"/>
+<PHONE>+48 222059500</PHONE>
+<E_MAIL>procurement@frontex.europa.eu</E_MAIL>
+<FAX>+48 222059501</FAX>
+<NUTS CODE="PL"/>
+<URL_GENERAL>http://www.frontex.europa.eu</URL_GENERAL>
+</ADDRESS_CONTRACTING_BODY>
+<CA_TYPE VALUE="EU_INSTITUTION"/>
+<CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+</CONTRACTING_BODY>
+<OBJECT_CONTRACT>
+<TITLE>
+<P>Contrato marco para la prestación de servicios de transporte de viajeros por tierra; lote 1 — Lesbos; lote 2 — Quíos; lote 3 — Cos.</P>
+</TITLE>
+<REFERENCE_NUMBER>FRONTEX/OP/602/2016/KM.</REFERENCE_NUMBER>
+<CPV_MAIN>
+<CPV_CODE CODE="60170000"/>
+</CPV_MAIN>
+<TYPE_CONTRACT CTYPE="SERVICES"/>
+<SHORT_DESCR>
+<P>Contrato marco para la prestación de servicios de transporte de pasajeros por tierra.</P>
+</SHORT_DESCR>
+<VAL_TOTAL CURRENCY="EUR">450000.00</VAL_TOTAL>
+<LOT_DIVISION/>
+<OBJECT_DESCR ITEM="1">
+<TITLE>
+<P>Contrato marco para la prestación de servicios de transporte de viajeros por tierra, en autobús; lote 1 — Lesbos</P>
+</TITLE>
+<LOT_NO>1</LOT_NO>
+<CPV_ADDITIONAL>
+<CPV_CODE CODE="60170000"/>
+</CPV_ADDITIONAL>
+<NUTS CODE="GR"/>
+<SHORT_DESCR>
+<P>Prestación de servicios de transporte de viajeros en autobús en Grecia — isla de Lesbos.</P>
+</SHORT_DESCR>
+<AC_PRICE/>
+<NO_OPTIONS/>
+<NO_EU_PROGR_RELATED/>
+</OBJECT_DESCR>
+<OBJECT_DESCR ITEM="2">
+<TITLE>
+<P>Contrato marco para la prestación de servicios de transporte de viajeros por tierra, en autobús; lote 2 — Quíos</P>
+</TITLE>
+<LOT_NO>2</LOT_NO>
+<CPV_ADDITIONAL>
+<CPV_CODE CODE="60170000"/>
+</CPV_ADDITIONAL>
+<NUTS CODE="GR"/>
+<SHORT_DESCR>
+<P>Prestación de servicios de transporte de viajeros en autobús en Grecia, isla Quíos</P>
+</SHORT_DESCR>
+<AC_PRICE/>
+<NO_OPTIONS/>
+<NO_EU_PROGR_RELATED/>
+</OBJECT_DESCR>
+<OBJECT_DESCR ITEM="3">
+<TITLE>
+<P>Contrato marco para la prestación de servicios de transporte de viajeros por tierra; lote 3 — Cos</P>
+</TITLE>
+<LOT_NO>3</LOT_NO>
+<CPV_ADDITIONAL>
+<CPV_CODE CODE="60170000"/>
+</CPV_ADDITIONAL>
+<NUTS CODE="GR"/>
+<SHORT_DESCR>
+<P>Contrato marco para la prestación de servicios de transporte de viajeros por tierra, en autobús. Lote 3 — Cos.</P>
+</SHORT_DESCR>
+<AC_PRICE/>
+<NO_OPTIONS/>
+<NO_EU_PROGR_RELATED/>
+</OBJECT_DESCR>
+</OBJECT_CONTRACT>
+<PROCEDURE>
+<PT_OPEN/>
+<ACCELERATED_PROC>
+<P>Teniendo en cuenta la gran cantidad de readmisiones pendientes a escala de los Estados miembros, Frontex deberá tomar todas las medidas necesarias para garantizar que se prestará un apoyo inmediato a los Estados Miembros para que cumplan sus obligaciones.</P>
+</ACCELERATED_PROC>
+<FRAMEWORK/>
+<NO_CONTRACT_COVERED_GPA/>
+<NOTICE_NUMBER_OJ>2016/S 187-335100</NOTICE_NUMBER_OJ>
+</PROCEDURE>
+<AWARD_CONTRACT ITEM="1">
+<CONTRACT_NO>Frontex/OP/602/2016/Lot 1</CONTRACT_NO>
+<LOT_NO>1</LOT_NO>
+<TITLE>
+<P>Contrato marco para la prestación de servicios de transporte de viajeros por tierra, en autobús; lote 1 — Lesbos</P>
+</TITLE>
+<AWARDED_CONTRACT>
+<DATE_CONCLUSION_CONTRACT>2016-12-06</DATE_CONCLUSION_CONTRACT>
+<NB_TENDERS_RECEIVED>1</NB_TENDERS_RECEIVED>
+<NO_AWARDED_TO_GROUP/>
+<CONTRACTOR>
+<ADDRESS_CONTRACTOR>
+<OFFICIALNAME>Vagia Tzislaki — Lesvorama General Travel Agency</OFFICIALNAME>
+<ADDRESS>M. Goutou 22, Lesvos</ADDRESS>
+<TOWN>Mithimna</TOWN>
+<POSTAL_CODE>811 08</POSTAL_CODE>
+<COUNTRY VALUE="GR"/>
+<NUTS CODE="GR"/>
+</ADDRESS_CONTRACTOR>
+<SME/>
+</CONTRACTOR>
+<VAL_ESTIMATED_TOTAL CURRENCY="EUR">150000.00</VAL_ESTIMATED_TOTAL>
+<VAL_TOTAL CURRENCY="EUR">150000.00</VAL_TOTAL>
+</AWARDED_CONTRACT>
+</AWARD_CONTRACT>
+<AWARD_CONTRACT ITEM="2">
+<CONTRACT_NO>Frontex/OP/602/2016/Lot 2</CONTRACT_NO>
+<LOT_NO>2</LOT_NO>
+<TITLE>
+<P>Contrato marco para la prestación de servicios de transporte de viajeros por tierra, en autobús; lote 2 — Quíos</P>
+</TITLE>
+<AWARDED_CONTRACT>
+<DATE_CONCLUSION_CONTRACT>2016-12-06</DATE_CONCLUSION_CONTRACT>
+<NB_TENDERS_RECEIVED>1</NB_TENDERS_RECEIVED>
+<NO_AWARDED_TO_GROUP/>
+<CONTRACTOR>
+<ADDRESS_CONTRACTOR>
+<OFFICIALNAME>Vagia Tzislaki — Lesvorama General Travel Agency</OFFICIALNAME>
+<ADDRESS>M. Goutou 22, Lesvos</ADDRESS>
+<TOWN>Mithimna</TOWN>
+<POSTAL_CODE>811 08</POSTAL_CODE>
+<COUNTRY VALUE="GR"/>
+<NUTS CODE="GR"/>
+</ADDRESS_CONTRACTOR>
+<SME/>
+</CONTRACTOR>
+<VAL_ESTIMATED_TOTAL CURRENCY="EUR">150000.00</VAL_ESTIMATED_TOTAL>
+<VAL_TOTAL CURRENCY="EUR">150000.00</VAL_TOTAL>
+</AWARDED_CONTRACT>
+</AWARD_CONTRACT>
+<AWARD_CONTRACT ITEM="3">
+<CONTRACT_NO>Frontex/OP/602/2016.</CONTRACT_NO>
+<LOT_NO>3</LOT_NO>
+<TITLE>
+<P>Contrato marco para la prestación de servicios de transporte de viajeros por tierra, en autobús; lote 3 — Cos</P>
+</TITLE>
+<NO_AWARDED_CONTRACT>
+<PROCUREMENT_UNSUCCESSFUL/>
+</NO_AWARDED_CONTRACT>
+</AWARD_CONTRACT>
+<COMPLEMENTARY_INFO>
+<ADDRESS_REVIEW_BODY>
+<OFFICIALNAME>Tribunal General</OFFICIALNAME>
+<ADDRESS>rue du Fort Niedergrünewald</ADDRESS>
+<TOWN>Luxembourg</TOWN>
+<POSTAL_CODE>2925</POSTAL_CODE>
+<COUNTRY VALUE="LU"/>
+<PHONE>+352 4303-1</PHONE>
+<E_MAIL>cfi.registry@curia.europa.eu</E_MAIL>
+<FAX>+352 4303-2100</FAX>
+<URL>http://curia.europa.eu/</URL>
+</ADDRESS_REVIEW_BODY>
+<DATE_DISPATCH_NOTICE>2016-12-22</DATE_DISPATCH_NOTICE>
+</COMPLEMENTARY_INFO>
+</F03_2014>
+<F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="FI">
+<CONTRACTING_BODY>
+<ADDRESS_CONTRACTING_BODY>
+<OFFICIALNAME>Frontex</OFFICIALNAME>
+<ADDRESS>Plac Europejski 6</ADDRESS>
+<TOWN>Warsaw</TOWN>
+<POSTAL_CODE>00-844</POSTAL_CODE>
+<COUNTRY VALUE="PL"/>
+<PHONE>+48 222059500</PHONE>
+<E_MAIL>procurement@frontex.europa.eu</E_MAIL>
+<FAX>+48 222059501</FAX>
+<NUTS CODE="PL"/>
+<URL_GENERAL>http://www.frontex.europa.eu</URL_GENERAL>
+</ADDRESS_CONTRACTING_BODY>
+<CA_TYPE VALUE="EU_INSTITUTION"/>
+<CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+</CONTRACTING_BODY>
+<OBJECT_CONTRACT>
+<TITLE>
+<P>Puitesopimus matkustajille tarkoitettujen maakuljetuspalveluiden toimittamisesta; erä 1 – Lesbos; erä 2 – Chíos; erä 3 – Kos</P>
+</TITLE>
+<REFERENCE_NUMBER>FRONTEX/OP/602/2016/KM.</REFERENCE_NUMBER>
+<CPV_MAIN>
+<CPV_CODE CODE="60170000"/>
+</CPV_MAIN>
+<TYPE_CONTRACT CTYPE="SERVICES"/>
+<SHORT_DESCR>
+<P>Sopimuksen kohteena on puitesopimus matkustajille tarkoitettujen maakuljetuspalveluiden toimittamisesta.</P>
+</SHORT_DESCR>
+<VAL_TOTAL CURRENCY="EUR">450000.00</VAL_TOTAL>
+<LOT_DIVISION/>
+<OBJECT_DESCR ITEM="1">
+<TITLE>
+<P>Puitesopimus matkustajille tarkoitettujen maakuljetuspalveluiden toimittamisesta linja-autokuljetuksina; erä 1 – Lesbos</P>
+</TITLE>
+<LOT_NO>1</LOT_NO>
+<CPV_ADDITIONAL>
+<CPV_CODE CODE="60170000"/>
+</CPV_ADDITIONAL>
+<NUTS CODE="GR"/>
+<SHORT_DESCR>
+<P>Erän kohteena on matkustajille tarkoitettujen linja-autokuljetuspalveluiden toimittaminen Kreikassa, Lesboksen saarella.</P>
+</SHORT_DESCR>
+<AC_PRICE/>
+<NO_OPTIONS/>
+<NO_EU_PROGR_RELATED/>
+</OBJECT_DESCR>
+<OBJECT_DESCR ITEM="2">
+<TITLE>
+<P>Puitesopimus matkustajille tarkoitettujen maakuljetuspalveluiden toimittamisesta linja-autokuljetuksina; erä 2 – Chíos</P>
+</TITLE>
+<LOT_NO>2</LOT_NO>
+<CPV_ADDITIONAL>
+<CPV_CODE CODE="60170000"/>
+</CPV_ADDITIONAL>
+<NUTS CODE="GR"/>
+<SHORT_DESCR>
+<P>Erän kohteena on matkustajille tarkoitettujen linja-autopalveluiden toimittaminen Kreikassa, Chíosin saarella.</P>
+</SHORT_DESCR>
+<AC_PRICE/>
+<NO_OPTIONS/>
+<NO_EU_PROGR_RELATED/>
+</OBJECT_DESCR>
+<OBJECT_DESCR ITEM="3">
+<TITLE>
+<P>Puitesopimus matkustajille tarkoitettujen maakuljetuspalveluiden toimittamisesta; erä 3 – Kos</P>
+</TITLE>
+<LOT_NO>3</LOT_NO>
+<CPV_ADDITIONAL>
+<CPV_CODE CODE="60170000"/>
+</CPV_ADDITIONAL>
+<NUTS CODE="GR"/>
+<SHORT_DESCR>
+<P>Erän kohteena on puitesopimus matkustajille tarkoitettujen maakuljetuspalveluiden toimittamisesta linja-autokuljetuksina (erä 3 – Kos).</P>
+</SHORT_DESCR>
+<AC_PRICE/>
+<NO_OPTIONS/>
+<NO_EU_PROGR_RELATED/>
+</OBJECT_DESCR>
+</OBJECT_CONTRACT>
+<PROCEDURE>
+<PT_OPEN/>
+<ACCELERATED_PROC>
+<P>jäsenvaltioiden tasolla käsiteltävinä olevien takaisinottojen suuren määrän vuoksi Frontexin on tehtävä kaikki tarvittavat toimenpiteet sen varmistamiseksi, että jäsenvaltioille toimitetaan välitöntä tukea jäsenvaltioiden velvoitteiden täyttämiseksi.</P>
+</ACCELERATED_PROC>
+<FRAMEWORK/>
+<NO_CONTRACT_COVERED_GPA/>
+<NOTICE_NUMBER_OJ>2016/S 187-335100</NOTICE_NUMBER_OJ>
+</PROCEDURE>
+<AWARD_CONTRACT ITEM="1">
+<CONTRACT_NO>Frontex/OP/602/2016/Lot 1</CONTRACT_NO>
+<LOT_NO>1</LOT_NO>
+<TITLE>
+<P>Puitesopimus matkustajille tarkoitettujen maakuljetuspalveluiden toimittamisesta linja-autokuljetuksina; erä 1 – Lesbos</P>
+</TITLE>
+<AWARDED_CONTRACT>
+<DATE_CONCLUSION_CONTRACT>2016-12-06</DATE_CONCLUSION_CONTRACT>
+<NB_TENDERS_RECEIVED>1</NB_TENDERS_RECEIVED>
+<NO_AWARDED_TO_GROUP/>
+<CONTRACTOR>
+<ADDRESS_CONTRACTOR>
+<OFFICIALNAME>Vagia Tzislaki – Lesvorama General Travel Agency</OFFICIALNAME>
+<ADDRESS>M. Goutou 22, Lesvos</ADDRESS>
+<TOWN>Mithimna</TOWN>
+<POSTAL_CODE>811 08</POSTAL_CODE>
+<COUNTRY VALUE="GR"/>
+<NUTS CODE="GR"/>
+</ADDRESS_CONTRACTOR>
+<SME/>
+</CONTRACTOR>
+<VAL_ESTIMATED_TOTAL CURRENCY="EUR">150000.00</VAL_ESTIMATED_TOTAL>
+<VAL_TOTAL CURRENCY="EUR">150000.00</VAL_TOTAL>
+</AWARDED_CONTRACT>
+</AWARD_CONTRACT>
+<AWARD_CONTRACT ITEM="2">
+<CONTRACT_NO>Frontex/OP/602/2016/Lot 2</CONTRACT_NO>
+<LOT_NO>2</LOT_NO>
+<TITLE>
+<P>Puitesopimus matkustajille tarkoitettujen maakuljetuspalveluiden toimittamisesta linja-autokuljetuksina; erä 2 – Chíos</P>
+</TITLE>
+<AWARDED_CONTRACT>
+<DATE_CONCLUSION_CONTRACT>2016-12-06</DATE_CONCLUSION_CONTRACT>
+<NB_TENDERS_RECEIVED>1</NB_TENDERS_RECEIVED>
+<NO_AWARDED_TO_GROUP/>
+<CONTRACTOR>
+<ADDRESS_CONTRACTOR>
+<OFFICIALNAME>Vagia Tzislaki – Lesvorama General Travel Agency</OFFICIALNAME>
+<ADDRESS>M. Goutou 22, Lesvos</ADDRESS>
+<TOWN>Mithimna</TOWN>
+<POSTAL_CODE>811 08</POSTAL_CODE>
+<COUNTRY VALUE="GR"/>
+<NUTS CODE="GR"/>
+</ADDRESS_CONTRACTOR>
+<SME/>
+</CONTRACTOR>
+<VAL_ESTIMATED_TOTAL CURRENCY="EUR">150000.00</VAL_ESTIMATED_TOTAL>
+<VAL_TOTAL CURRENCY="EUR">150000.00</VAL_TOTAL>
+</AWARDED_CONTRACT>
+</AWARD_CONTRACT>
+<AWARD_CONTRACT ITEM="3">
+<CONTRACT_NO>Frontex/OP/602/2016.</CONTRACT_NO>
+<LOT_NO>3</LOT_NO>
+<TITLE>
+<P>Puitesopimus matkustajille tarkoitettujen maakuljetuspalveluiden toimittamisesta linja-autokuljetuksina; erä 3 – Kos</P>
+</TITLE>
+<NO_AWARDED_CONTRACT>
+<PROCUREMENT_UNSUCCESSFUL/>
+</NO_AWARDED_CONTRACT>
+</AWARD_CONTRACT>
+<COMPLEMENTARY_INFO>
+<ADDRESS_REVIEW_BODY>
+<OFFICIALNAME>Unionin yleinen tuomioistuin</OFFICIALNAME>
+<ADDRESS>rue du Fort Niedergrünewald</ADDRESS>
+<TOWN>Luxembourg</TOWN>
+<POSTAL_CODE>2925</POSTAL_CODE>
+<COUNTRY VALUE="LU"/>
+<PHONE>+352 4303-1</PHONE>
+<E_MAIL>cfi.registry@curia.europa.eu</E_MAIL>
+<FAX>+352 4303-2100</FAX>
+<URL>http://curia.europa.eu/</URL>
+</ADDRESS_REVIEW_BODY>
+<DATE_DISPATCH_NOTICE>2016-12-22</DATE_DISPATCH_NOTICE>
+</COMPLEMENTARY_INFO>
+</F03_2014>
+<F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="FR">
+<CONTRACTING_BODY>
+<ADDRESS_CONTRACTING_BODY>
+<OFFICIALNAME>Frontex</OFFICIALNAME>
+<ADDRESS>Plac Europejski 6</ADDRESS>
+<TOWN>Warsaw</TOWN>
+<POSTAL_CODE>00-844</POSTAL_CODE>
+<COUNTRY VALUE="PL"/>
+<PHONE>+48 222059500</PHONE>
+<E_MAIL>procurement@frontex.europa.eu</E_MAIL>
+<FAX>+48 222059501</FAX>
+<NUTS CODE="PL"/>
+<URL_GENERAL>http://www.frontex.europa.eu</URL_GENERAL>
+</ADDRESS_CONTRACTING_BODY>
+<CA_TYPE VALUE="EU_INSTITUTION"/>
+<CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+</CONTRACTING_BODY>
+<OBJECT_CONTRACT>
+<TITLE>
+<P>Contrat-cadre relatif à la prestation de services de transport terrestre de passagers; lot 1 — Lesbos; lot 2 — Chios; lot 3 — Kos.</P>
+</TITLE>
+<REFERENCE_NUMBER>FRONTEX/OP/602/2016/KM.</REFERENCE_NUMBER>
+<CPV_MAIN>
+<CPV_CODE CODE="60170000"/>
+</CPV_MAIN>
+<TYPE_CONTRACT CTYPE="SERVICES"/>
+<SHORT_DESCR>
+<P>Contrat-cadre relatif à la prestation de services de transport terrestre de passagers.</P>
+</SHORT_DESCR>
+<VAL_TOTAL CURRENCY="EUR">450000.00</VAL_TOTAL>
+<LOT_DIVISION/>
+<OBJECT_DESCR ITEM="1">
+<TITLE>
+<P>Contrat-cadre relatif à la prestation de services de transport terrestre de passagers par bus; lot 1 — Lesbos</P>
+</TITLE>
+<LOT_NO>1</LOT_NO>
+<CPV_ADDITIONAL>
+<CPV_CODE CODE="60170000"/>
+</CPV_ADDITIONAL>
+<NUTS CODE="GR"/>
+<SHORT_DESCR>
+<P>Prestation de services de transport de passagers par bus en Grèce, île de Lesbos.</P>
+</SHORT_DESCR>
+<AC_PRICE/>
+<NO_OPTIONS/>
+<NO_EU_PROGR_RELATED/>
+</OBJECT_DESCR>
+<OBJECT_DESCR ITEM="2">
+<TITLE>
+<P>Contrat-cadre relatif à la prestation de services de transport terrestre de passagers par bus; lot 2 — Chios</P>
+</TITLE>
+<LOT_NO>2</LOT_NO>
+<CPV_ADDITIONAL>
+<CPV_CODE CODE="60170000"/>
+</CPV_ADDITIONAL>
+<NUTS CODE="GR"/>
+<SHORT_DESCR>
+<P>Prestation de services de transport de passagers par bus en Grèce, île de Chios.</P>
+</SHORT_DESCR>
+<AC_PRICE/>
+<NO_OPTIONS/>
+<NO_EU_PROGR_RELATED/>
+</OBJECT_DESCR>
+<OBJECT_DESCR ITEM="3">
+<TITLE>
+<P>Contrat-cadre relatif à la prestation de services de transport terrestre de passagers par bus; lot 3 — Kos</P>
+</TITLE>
+<LOT_NO>3</LOT_NO>
+<CPV_ADDITIONAL>
+<CPV_CODE CODE="60170000"/>
+</CPV_ADDITIONAL>
+<NUTS CODE="GR"/>
+<SHORT_DESCR>
+<P>Contrat-cadre relatif à la prestation de services de transport terrestre de passagers par bus. Lot 3 — Kos.</P>
+</SHORT_DESCR>
+<AC_PRICE/>
+<NO_OPTIONS/>
+<NO_EU_PROGR_RELATED/>
+</OBJECT_DESCR>
+</OBJECT_CONTRACT>
+<PROCEDURE>
+<PT_OPEN/>
+<ACCELERATED_PROC>
+<P>Au vu du nombre élevé de réadmissions en attente au niveau des États membres, Frontex doit prendre toutes les mesures nécessaires pour garantir qu'une aide immédiate est apportée aux États membres afin qu'ils remplissent leurs obligations.</P>
+</ACCELERATED_PROC>
+<FRAMEWORK/>
+<NO_CONTRACT_COVERED_GPA/>
+<NOTICE_NUMBER_OJ>2016/S 187-335100</NOTICE_NUMBER_OJ>
+</PROCEDURE>
+<AWARD_CONTRACT ITEM="1">
+<CONTRACT_NO>Frontex/OP/602/2016/Lot 1</CONTRACT_NO>
+<LOT_NO>1</LOT_NO>
+<TITLE>
+<P>Contrat-cadre relatif à la prestation de services de transport terrestre de passagers par bus; lot 1 — Lesbos</P>
+</TITLE>
+<AWARDED_CONTRACT>
+<DATE_CONCLUSION_CONTRACT>2016-12-06</DATE_CONCLUSION_CONTRACT>
+<NB_TENDERS_RECEIVED>1</NB_TENDERS_RECEIVED>
+<NO_AWARDED_TO_GROUP/>
+<CONTRACTOR>
+<ADDRESS_CONTRACTOR>
+<OFFICIALNAME>Vagia Tzislaki — Lesvorama General Travel Agency</OFFICIALNAME>
+<ADDRESS>M. Goutou 22, Lesvos</ADDRESS>
+<TOWN>Mithimna</TOWN>
+<POSTAL_CODE>811 08</POSTAL_CODE>
+<COUNTRY VALUE="GR"/>
+<NUTS CODE="GR"/>
+</ADDRESS_CONTRACTOR>
+<SME/>
+</CONTRACTOR>
+<VAL_ESTIMATED_TOTAL CURRENCY="EUR">150000.00</VAL_ESTIMATED_TOTAL>
+<VAL_TOTAL CURRENCY="EUR">150000.00</VAL_TOTAL>
+</AWARDED_CONTRACT>
+</AWARD_CONTRACT>
+<AWARD_CONTRACT ITEM="2">
+<CONTRACT_NO>Frontex/OP/602/2016/Lot 2</CONTRACT_NO>
+<LOT_NO>2</LOT_NO>
+<TITLE>
+<P>Contrat-cadre relatif à la prestation de services de transport terrestre de passagers par bus; lot 2 — Chios</P>
+</TITLE>
+<AWARDED_CONTRACT>
+<DATE_CONCLUSION_CONTRACT>2016-12-06</DATE_CONCLUSION_CONTRACT>
+<NB_TENDERS_RECEIVED>1</NB_TENDERS_RECEIVED>
+<NO_AWARDED_TO_GROUP/>
+<CONTRACTOR>
+<ADDRESS_CONTRACTOR>
+<OFFICIALNAME>Vagia Tzislaki — Lesvorama General Travel Agency</OFFICIALNAME>
+<ADDRESS>M. Goutou 22, Lesvos</ADDRESS>
+<TOWN>Mithimna</TOWN>
+<POSTAL_CODE>811 08</POSTAL_CODE>
+<COUNTRY VALUE="GR"/>
+<NUTS CODE="GR"/>
+</ADDRESS_CONTRACTOR>
+<SME/>
+</CONTRACTOR>
+<VAL_ESTIMATED_TOTAL CURRENCY="EUR">150000.00</VAL_ESTIMATED_TOTAL>
+<VAL_TOTAL CURRENCY="EUR">150000.00</VAL_TOTAL>
+</AWARDED_CONTRACT>
+</AWARD_CONTRACT>
+<AWARD_CONTRACT ITEM="3">
+<CONTRACT_NO>Frontex/OP/602/2016.</CONTRACT_NO>
+<LOT_NO>3</LOT_NO>
+<TITLE>
+<P>Contrat-cadre relatif à la prestation de services de transport terrestre de passagers par bus; lot 3 — Kos</P>
+</TITLE>
+<NO_AWARDED_CONTRACT>
+<PROCUREMENT_UNSUCCESSFUL/>
+</NO_AWARDED_CONTRACT>
+</AWARD_CONTRACT>
+<COMPLEMENTARY_INFO>
+<ADDRESS_REVIEW_BODY>
+<OFFICIALNAME>Tribunal</OFFICIALNAME>
+<ADDRESS>rue du Fort Niedergrünewald</ADDRESS>
+<TOWN>Luxembourg</TOWN>
+<POSTAL_CODE>2925</POSTAL_CODE>
+<COUNTRY VALUE="LU"/>
+<PHONE>+352 4303-1</PHONE>
+<E_MAIL>cfi.registry@curia.europa.eu</E_MAIL>
+<FAX>+352 4303-2100</FAX>
+<URL>http://curia.europa.eu/</URL>
+</ADDRESS_REVIEW_BODY>
+<DATE_DISPATCH_NOTICE>2016-12-22</DATE_DISPATCH_NOTICE>
+</COMPLEMENTARY_INFO>
+</F03_2014>
+<F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="EL">
+<CONTRACTING_BODY>
+<ADDRESS_CONTRACTING_BODY>
+<OFFICIALNAME>Frontex</OFFICIALNAME>
+<ADDRESS>Plac Europejski 6</ADDRESS>
+<TOWN>Warsaw</TOWN>
+<POSTAL_CODE>00-844</POSTAL_CODE>
+<COUNTRY VALUE="PL"/>
+<PHONE>+48 222059500</PHONE>
+<E_MAIL>procurement@frontex.europa.eu</E_MAIL>
+<FAX>+48 222059501</FAX>
+<NUTS CODE="PL"/>
+<URL_GENERAL>http://www.frontex.europa.eu</URL_GENERAL>
+</ADDRESS_CONTRACTING_BODY>
+<CA_TYPE VALUE="EU_INSTITUTION"/>
+<CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+</CONTRACTING_BODY>
+<OBJECT_CONTRACT>
+<TITLE>
+<P>Σύμβαση-πλαίσιο για την παροχή υπηρεσιών χερσαίας μεταφοράς επιβατών, παρτίδα 1 — Λέσβος, παρτίδα 2 — Χίος, παρτίδα 3 — Κως.</P>
+</TITLE>
+<REFERENCE_NUMBER>FRONTEX/OP/602/2016/KM.</REFERENCE_NUMBER>
+<CPV_MAIN>
+<CPV_CODE CODE="60170000"/>
+</CPV_MAIN>
+<TYPE_CONTRACT CTYPE="SERVICES"/>
+<SHORT_DESCR>
+<P>Σύμβαση-πλαίσιο για την παροχή υπηρεσιών χερσαίας μεταφοράς επιβατών.</P>
+</SHORT_DESCR>
+<VAL_TOTAL CURRENCY="EUR">450000.00</VAL_TOTAL>
+<LOT_DIVISION/>
+<OBJECT_DESCR ITEM="1">
+<TITLE>
+<P>Σύμβαση-πλαίσιο για την παροχή υπηρεσιών χερσαίας μεταφοράς επιβατών, με λεωφορείο, παρτίδα 1 — Λέσβος</P>
+</TITLE>
+<LOT_NO>1</LOT_NO>
+<CPV_ADDITIONAL>
+<CPV_CODE CODE="60170000"/>
+</CPV_ADDITIONAL>
+<NUTS CODE="GR"/>
+<SHORT_DESCR>
+<P>Παροχή υπηρεσιών μεταφοράς επιβατών με λεωφορεία στην Ελλάδα — Νήσος Λέσβος.</P>
+</SHORT_DESCR>
+<AC_PRICE/>
+<NO_OPTIONS/>
+<NO_EU_PROGR_RELATED/>
+</OBJECT_DESCR>
+<OBJECT_DESCR ITEM="2">
+<TITLE>
+<P>Σύμβαση-πλαίσιο για την παροχή υπηρεσιών χερσαίας μεταφοράς επιβατών, με λεωφορείο, παρτίδα 2 — Χίος</P>
+</TITLE>
+<LOT_NO>2</LOT_NO>
+<CPV_ADDITIONAL>
+<CPV_CODE CODE="60170000"/>
+</CPV_ADDITIONAL>
+<NUTS CODE="GR"/>
+<SHORT_DESCR>
+<P>Παροχή υπηρεσιών μεταφοράς επιβατών με λεωφορεία στην Ελλάδα, νήσος Χίος.</P>
+</SHORT_DESCR>
+<AC_PRICE/>
+<NO_OPTIONS/>
+<NO_EU_PROGR_RELATED/>
+</OBJECT_DESCR>
+<OBJECT_DESCR ITEM="3">
+<TITLE>
+<P>Σύμβαση-πλαίσιο για την παροχή υπηρεσιών χερσαίας μεταφοράς επιβατών, παρτίδα 3 — Κως</P>
+</TITLE>
+<LOT_NO>3</LOT_NO>
+<CPV_ADDITIONAL>
+<CPV_CODE CODE="60170000"/>
+</CPV_ADDITIONAL>
+<NUTS CODE="GR"/>
+<SHORT_DESCR>
+<P>Σύμβαση-πλαίσιο για την παροχή υπηρεσιών χερσαίας μεταφοράς επιβατών, με λεωφορείο. Παρτίδα 3 — Κως.</P>
+</SHORT_DESCR>
+<AC_PRICE/>
+<NO_OPTIONS/>
+<NO_EU_PROGR_RELATED/>
+</OBJECT_DESCR>
+</OBJECT_CONTRACT>
+<PROCEDURE>
+<PT_OPEN/>
+<ACCELERATED_PROC>
+<P>Λαμβάνοντας υπόψη τον υψηλό αριθμό των εκκρεμουσών επανεισδοχών σε επίπεδο κρατών μελών, ο Frontex χρειάζεται να λάβει όλα τα απαραίτητα βήματα για να διασφαλίσει την παροχή άμεσης υποστήριξης προς τα κράτη μέλη για την εκπλήρωση των υποχρεώσεών τους.</P>
+</ACCELERATED_PROC>
+<FRAMEWORK/>
+<NO_CONTRACT_COVERED_GPA/>
+<NOTICE_NUMBER_OJ>2016/S 187-335100</NOTICE_NUMBER_OJ>
+</PROCEDURE>
+<AWARD_CONTRACT ITEM="1">
+<CONTRACT_NO>Frontex/OP/602/2016/Lot 1</CONTRACT_NO>
+<LOT_NO>1</LOT_NO>
+<TITLE>
+<P>Σύμβαση-πλαίσιο για την παροχή υπηρεσιών χερσαίας μεταφοράς επιβατών, με λεωφορείο, παρτίδα 1 — Λέσβος</P>
+</TITLE>
+<AWARDED_CONTRACT>
+<DATE_CONCLUSION_CONTRACT>2016-12-06</DATE_CONCLUSION_CONTRACT>
+<NB_TENDERS_RECEIVED>1</NB_TENDERS_RECEIVED>
+<NO_AWARDED_TO_GROUP/>
+<CONTRACTOR>
+<ADDRESS_CONTRACTOR>
+<OFFICIALNAME>Vagia Tzislaki — Lesvorama General Travel Agency</OFFICIALNAME>
+<ADDRESS>M. Goutou 22, Lesvos</ADDRESS>
+<TOWN>Mithimna</TOWN>
+<POSTAL_CODE>811 08</POSTAL_CODE>
+<COUNTRY VALUE="GR"/>
+<NUTS CODE="GR"/>
+</ADDRESS_CONTRACTOR>
+<SME/>
+</CONTRACTOR>
+<VAL_ESTIMATED_TOTAL CURRENCY="EUR">150000.00</VAL_ESTIMATED_TOTAL>
+<VAL_TOTAL CURRENCY="EUR">150000.00</VAL_TOTAL>
+</AWARDED_CONTRACT>
+</AWARD_CONTRACT>
+<AWARD_CONTRACT ITEM="2">
+<CONTRACT_NO>Frontex/OP/602/2016/Lot 2</CONTRACT_NO>
+<LOT_NO>2</LOT_NO>
+<TITLE>
+<P>Σύμβαση-πλαίσιο για την παροχή υπηρεσιών χερσαίας μεταφοράς επιβατών, με λεωφορείο, παρτίδα 2 — Χίος</P>
+</TITLE>
+<AWARDED_CONTRACT>
+<DATE_CONCLUSION_CONTRACT>2016-12-06</DATE_CONCLUSION_CONTRACT>
+<NB_TENDERS_RECEIVED>1</NB_TENDERS_RECEIVED>
+<NO_AWARDED_TO_GROUP/>
+<CONTRACTOR>
+<ADDRESS_CONTRACTOR>
+<OFFICIALNAME>Vagia Tzislaki — Lesvorama General Travel Agency</OFFICIALNAME>
+<ADDRESS>M. Goutou 22, Lesvos</ADDRESS>
+<TOWN>Mithimna</TOWN>
+<POSTAL_CODE>811 08</POSTAL_CODE>
+<COUNTRY VALUE="GR"/>
+<NUTS CODE="GR"/>
+</ADDRESS_CONTRACTOR>
+<SME/>
+</CONTRACTOR>
+<VAL_ESTIMATED_TOTAL CURRENCY="EUR">150000.00</VAL_ESTIMATED_TOTAL>
+<VAL_TOTAL CURRENCY="EUR">150000.00</VAL_TOTAL>
+</AWARDED_CONTRACT>
+</AWARD_CONTRACT>
+<AWARD_CONTRACT ITEM="3">
+<CONTRACT_NO>Frontex/OP/602/2016.</CONTRACT_NO>
+<LOT_NO>3</LOT_NO>
+<TITLE>
+<P>Σύμβαση-πλαίσιο για την παροχή υπηρεσιών χερσαίας μεταφοράς επιβατών, με λεωφορείο, παρτίδα 3 — Κως</P>
+</TITLE>
+<NO_AWARDED_CONTRACT>
+<PROCUREMENT_UNSUCCESSFUL/>
+</NO_AWARDED_CONTRACT>
+</AWARD_CONTRACT>
+<COMPLEMENTARY_INFO>
+<ADDRESS_REVIEW_BODY>
+<OFFICIALNAME>Γενικό Δικαστήριο</OFFICIALNAME>
+<ADDRESS>rue du Fort Niedergrünewald</ADDRESS>
+<TOWN>Luxembourg</TOWN>
+<POSTAL_CODE>2925</POSTAL_CODE>
+<COUNTRY VALUE="LU"/>
+<PHONE>+352 4303-1</PHONE>
+<E_MAIL>cfi.registry@curia.europa.eu</E_MAIL>
+<FAX>+352 4303-2100</FAX>
+<URL>http://curia.europa.eu/</URL>
+</ADDRESS_REVIEW_BODY>
+<DATE_DISPATCH_NOTICE>2016-12-22</DATE_DISPATCH_NOTICE>
+</COMPLEMENTARY_INFO>
+</F03_2014>
+<F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="IT">
+<CONTRACTING_BODY>
+<ADDRESS_CONTRACTING_BODY>
+<OFFICIALNAME>Frontex</OFFICIALNAME>
+<ADDRESS>Plac Europejski 6</ADDRESS>
+<TOWN>Warsaw</TOWN>
+<POSTAL_CODE>00-844</POSTAL_CODE>
+<COUNTRY VALUE="PL"/>
+<PHONE>+48 222059500</PHONE>
+<E_MAIL>procurement@frontex.europa.eu</E_MAIL>
+<FAX>+48 222059501</FAX>
+<NUTS CODE="PL"/>
+<URL_GENERAL>http://www.frontex.europa.eu</URL_GENERAL>
+</ADDRESS_CONTRACTING_BODY>
+<CA_TYPE VALUE="EU_INSTITUTION"/>
+<CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+</CONTRACTING_BODY>
+<OBJECT_CONTRACT>
+<TITLE>
+<P>Contratto quadro per la prestazione di servizi di trasferimento passeggeri via terra; lotto 1 — Lesbo; lotto 2 — Chio; lotto 3 — Coo.</P>
+</TITLE>
+<REFERENCE_NUMBER>FRONTEX/OP/602/2016/KM.</REFERENCE_NUMBER>
+<CPV_MAIN>
+<CPV_CODE CODE="60170000"/>
+</CPV_MAIN>
+<TYPE_CONTRACT CTYPE="SERVICES"/>
+<SHORT_DESCR>
+<P>Contratto quadro per la prestazione di servizi di trasferimento passeggeri via terra.</P>
+</SHORT_DESCR>
+<VAL_TOTAL CURRENCY="EUR">450000.00</VAL_TOTAL>
+<LOT_DIVISION/>
+<OBJECT_DESCR ITEM="1">
+<TITLE>
+<P>Contratto quadro per la prestazione di servizi di trasferimento passeggeri via terra, con autobus; lotto 1 — Lesbo</P>
+</TITLE>
+<LOT_NO>1</LOT_NO>
+<CPV_ADDITIONAL>
+<CPV_CODE CODE="60170000"/>
+</CPV_ADDITIONAL>
+<NUTS CODE="GR"/>
+<SHORT_DESCR>
+<P>Prestazione di servizi di trasferimento passeggeri con autobus in Grecia — isola di Lesbo.</P>
+</SHORT_DESCR>
+<AC_PRICE/>
+<NO_OPTIONS/>
+<NO_EU_PROGR_RELATED/>
+</OBJECT_DESCR>
+<OBJECT_DESCR ITEM="2">
+<TITLE>
+<P>Contratto quadro per la prestazione di servizi di trasferimento passeggeri via terra, con autobus; lotto 2 — Chio</P>
+</TITLE>
+<LOT_NO>2</LOT_NO>
+<CPV_ADDITIONAL>
+<CPV_CODE CODE="60170000"/>
+</CPV_ADDITIONAL>
+<NUTS CODE="GR"/>
+<SHORT_DESCR>
+<P>Prestazione di servizi di trasferimento passeggeri con autobus in Grecia, isola di Chio.</P>
+</SHORT_DESCR>
+<AC_PRICE/>
+<NO_OPTIONS/>
+<NO_EU_PROGR_RELATED/>
+</OBJECT_DESCR>
+<OBJECT_DESCR ITEM="3">
+<TITLE>
+<P>Contratto quadro per la prestazione di servizi di trasferimento passeggeri via terra; lotto 3 — Coo</P>
+</TITLE>
+<LOT_NO>3</LOT_NO>
+<CPV_ADDITIONAL>
+<CPV_CODE CODE="60170000"/>
+</CPV_ADDITIONAL>
+<NUTS CODE="GR"/>
+<SHORT_DESCR>
+<P>Contratto quadro per la prestazione di servizi di trasferimento passeggeri via terra, con autobus. Lotto 3 — Coo.</P>
+</SHORT_DESCR>
+<AC_PRICE/>
+<NO_OPTIONS/>
+<NO_EU_PROGR_RELATED/>
+</OBJECT_DESCR>
+</OBJECT_CONTRACT>
+<PROCEDURE>
+<PT_OPEN/>
+<ACCELERATED_PROC>
+<P>in considerazione del numero elevato di riammissioni in sospeso a livello degli Stati membri, Frontex deve prendere tutte le misure necessarie per garantire che sia fornito un sostegno immediato agli Stati membri nell'adempimento dei loro obblighi.</P>
+</ACCELERATED_PROC>
+<FRAMEWORK/>
+<NO_CONTRACT_COVERED_GPA/>
+<NOTICE_NUMBER_OJ>2016/S 187-335100</NOTICE_NUMBER_OJ>
+</PROCEDURE>
+<AWARD_CONTRACT ITEM="1">
+<CONTRACT_NO>Frontex/OP/602/2016/Lotto 1</CONTRACT_NO>
+<LOT_NO>1</LOT_NO>
+<TITLE>
+<P>Contratto quadro per la prestazione di servizi di trasferimento passeggeri via terra, con autobus; lotto 1 — Lesbo</P>
+</TITLE>
+<AWARDED_CONTRACT>
+<DATE_CONCLUSION_CONTRACT>2016-12-06</DATE_CONCLUSION_CONTRACT>
+<NB_TENDERS_RECEIVED>1</NB_TENDERS_RECEIVED>
+<NO_AWARDED_TO_GROUP/>
+<CONTRACTOR>
+<ADDRESS_CONTRACTOR>
+<OFFICIALNAME>Vagia Tzislaki — Lesvorama General Travel Agency</OFFICIALNAME>
+<ADDRESS>M. Goutou 22, Lesvos</ADDRESS>
+<TOWN>Mithimna</TOWN>
+<POSTAL_CODE>811 08</POSTAL_CODE>
+<COUNTRY VALUE="GR"/>
+<NUTS CODE="GR"/>
+</ADDRESS_CONTRACTOR>
+<SME/>
+</CONTRACTOR>
+<VAL_ESTIMATED_TOTAL CURRENCY="EUR">150000.00</VAL_ESTIMATED_TOTAL>
+<VAL_TOTAL CURRENCY="EUR">150000.00</VAL_TOTAL>
+</AWARDED_CONTRACT>
+</AWARD_CONTRACT>
+<AWARD_CONTRACT ITEM="2">
+<CONTRACT_NO>Frontex/OP/602/2016/Lotto 2</CONTRACT_NO>
+<LOT_NO>2</LOT_NO>
+<TITLE>
+<P>Contratto quadro per la prestazione di servizi di trasferimento passeggeri via terra, con autobus; lotto 2 — Chio</P>
+</TITLE>
+<AWARDED_CONTRACT>
+<DATE_CONCLUSION_CONTRACT>2016-12-06</DATE_CONCLUSION_CONTRACT>
+<NB_TENDERS_RECEIVED>1</NB_TENDERS_RECEIVED>
+<NO_AWARDED_TO_GROUP/>
+<CONTRACTOR>
+<ADDRESS_CONTRACTOR>
+<OFFICIALNAME>Vagia Tzislaki — Lesvorama General Travel Agency</OFFICIALNAME>
+<ADDRESS>M. Goutou 22, Lesvos</ADDRESS>
+<TOWN>Mithimna</TOWN>
+<POSTAL_CODE>811 08</POSTAL_CODE>
+<COUNTRY VALUE="GR"/>
+<NUTS CODE="GR"/>
+</ADDRESS_CONTRACTOR>
+<SME/>
+</CONTRACTOR>
+<VAL_ESTIMATED_TOTAL CURRENCY="EUR">150000.00</VAL_ESTIMATED_TOTAL>
+<VAL_TOTAL CURRENCY="EUR">150000.00</VAL_TOTAL>
+</AWARDED_CONTRACT>
+</AWARD_CONTRACT>
+<AWARD_CONTRACT ITEM="3">
+<CONTRACT_NO>Frontex/OP/602/2016.</CONTRACT_NO>
+<LOT_NO>3</LOT_NO>
+<TITLE>
+<P>Contratto quadro per la prestazione di servizi di trasferimento passeggeri via terra, con autobus; lotto 3 — Coo</P>
+</TITLE>
+<NO_AWARDED_CONTRACT>
+<PROCUREMENT_UNSUCCESSFUL/>
+</NO_AWARDED_CONTRACT>
+</AWARD_CONTRACT>
+<COMPLEMENTARY_INFO>
+<ADDRESS_REVIEW_BODY>
+<OFFICIALNAME>Tribunale</OFFICIALNAME>
+<ADDRESS>rue du Fort Niedergrünewald</ADDRESS>
+<TOWN>Luxembourg</TOWN>
+<POSTAL_CODE>2925</POSTAL_CODE>
+<COUNTRY VALUE="LU"/>
+<PHONE>+352 4303-1</PHONE>
+<E_MAIL>cfi.registry@curia.europa.eu</E_MAIL>
+<FAX>+352 4303-2100</FAX>
+<URL>http://curia.europa.eu/</URL>
+</ADDRESS_REVIEW_BODY>
+<DATE_DISPATCH_NOTICE>2016-12-22</DATE_DISPATCH_NOTICE>
+</COMPLEMENTARY_INFO>
+</F03_2014>
+<F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="NL">
+<CONTRACTING_BODY>
+<ADDRESS_CONTRACTING_BODY>
+<OFFICIALNAME>Frontex</OFFICIALNAME>
+<ADDRESS>Plac Europejski 6</ADDRESS>
+<TOWN>Warsaw</TOWN>
+<POSTAL_CODE>00-844</POSTAL_CODE>
+<COUNTRY VALUE="PL"/>
+<PHONE>+48 222059500</PHONE>
+<E_MAIL>procurement@frontex.europa.eu</E_MAIL>
+<FAX>+48 222059501</FAX>
+<NUTS CODE="PL"/>
+<URL_GENERAL>http://www.frontex.europa.eu</URL_GENERAL>
+</ADDRESS_CONTRACTING_BODY>
+<CA_TYPE VALUE="EU_INSTITUTION"/>
+<CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+</CONTRACTING_BODY>
+<OBJECT_CONTRACT>
+<TITLE>
+<P>Raamovereenkomst voor de verlening van diensten inzake passagiersvervoer over land; perceel 1 — Lesbos; perceel 2 — Chios; perceel 3 — Kos.</P>
+</TITLE>
+<REFERENCE_NUMBER>FRONTEX/OP/602/2016/KM.</REFERENCE_NUMBER>
+<CPV_MAIN>
+<CPV_CODE CODE="60170000"/>
+</CPV_MAIN>
+<TYPE_CONTRACT CTYPE="SERVICES"/>
+<SHORT_DESCR>
+<P>Raamovereenkomst voor de verlening van diensten inzake passagiersvervoer over land.</P>
+</SHORT_DESCR>
+<VAL_TOTAL CURRENCY="EUR">450000.00</VAL_TOTAL>
+<LOT_DIVISION/>
+<OBJECT_DESCR ITEM="1">
+<TITLE>
+<P>Raamovereenkomst voor de verlening van diensten inzake passagiersvervoer over land, per bus; perceel 1 — Lesbos</P>
+</TITLE>
+<LOT_NO>1</LOT_NO>
+<CPV_ADDITIONAL>
+<CPV_CODE CODE="60170000"/>
+</CPV_ADDITIONAL>
+<NUTS CODE="GR"/>
+<SHORT_DESCR>
+<P>Verlening van diensten inzake passagiersvervoer per bus in Griekenland — eiland Lesbos.</P>
+</SHORT_DESCR>
+<AC_PRICE/>
+<NO_OPTIONS/>
+<NO_EU_PROGR_RELATED/>
+</OBJECT_DESCR>
+<OBJECT_DESCR ITEM="2">
+<TITLE>
+<P>Raamovereenkomst voor de verlening van diensten inzake passagiersvervoer over land, per bus; perceel 2 — Chios</P>
+</TITLE>
+<LOT_NO>2</LOT_NO>
+<CPV_ADDITIONAL>
+<CPV_CODE CODE="60170000"/>
+</CPV_ADDITIONAL>
+<NUTS CODE="GR"/>
+<SHORT_DESCR>
+<P>Verlening van diensten inzake passagiersvervoer per bus in Griekenland, eiland Chios.</P>
+</SHORT_DESCR>
+<AC_PRICE/>
+<NO_OPTIONS/>
+<NO_EU_PROGR_RELATED/>
+</OBJECT_DESCR>
+<OBJECT_DESCR ITEM="3">
+<TITLE>
+<P>Raamovereenkomst voor de verlening van diensten inzake passagiersvervoer over land; perceel 3 — Kos</P>
+</TITLE>
+<LOT_NO>3</LOT_NO>
+<CPV_ADDITIONAL>
+<CPV_CODE CODE="60170000"/>
+</CPV_ADDITIONAL>
+<NUTS CODE="GR"/>
+<SHORT_DESCR>
+<P>Raamovereenkomst voor de verlening van diensten inzake passagiersvervoer over land, per bus; perceel 3 — Kos</P>
+</SHORT_DESCR>
+<AC_PRICE/>
+<NO_OPTIONS/>
+<NO_EU_PROGR_RELATED/>
+</OBJECT_DESCR>
+</OBJECT_CONTRACT>
+<PROCEDURE>
+<PT_OPEN/>
+<ACCELERATED_PROC>
+<P>Met het oog op het hoge aantal overnamen op het niveau van de lidstaten, moet Frontex alle nodige stappen ondernemen om ervoor te zorgen dat onmiddellijk steun wordt verleend aan de lidstaten, zodat zij aan hun verplichtingen kunnen voldoen.</P>
+</ACCELERATED_PROC>
+<FRAMEWORK/>
+<NO_CONTRACT_COVERED_GPA/>
+<NOTICE_NUMBER_OJ>2016/S 187-335100</NOTICE_NUMBER_OJ>
+</PROCEDURE>
+<AWARD_CONTRACT ITEM="1">
+<CONTRACT_NO>Frontex/OP/602/2016/Lot 1</CONTRACT_NO>
+<LOT_NO>1</LOT_NO>
+<TITLE>
+<P>Raamovereenkomst voor de verlening van diensten inzake passagiersvervoer over land, per bus; perceel 1 — Lesbos</P>
+</TITLE>
+<AWARDED_CONTRACT>
+<DATE_CONCLUSION_CONTRACT>2016-12-06</DATE_CONCLUSION_CONTRACT>
+<NB_TENDERS_RECEIVED>1</NB_TENDERS_RECEIVED>
+<NO_AWARDED_TO_GROUP/>
+<CONTRACTOR>
+<ADDRESS_CONTRACTOR>
+<OFFICIALNAME>Vagia Tzislaki — Lesvorama General Travel Agency</OFFICIALNAME>
+<ADDRESS>M. Goutou 22, Lesvos</ADDRESS>
+<TOWN>Mithimna</TOWN>
+<POSTAL_CODE>811 08</POSTAL_CODE>
+<COUNTRY VALUE="GR"/>
+<NUTS CODE="GR"/>
+</ADDRESS_CONTRACTOR>
+<SME/>
+</CONTRACTOR>
+<VAL_ESTIMATED_TOTAL CURRENCY="EUR">150000.00</VAL_ESTIMATED_TOTAL>
+<VAL_TOTAL CURRENCY="EUR">150000.00</VAL_TOTAL>
+</AWARDED_CONTRACT>
+</AWARD_CONTRACT>
+<AWARD_CONTRACT ITEM="2">
+<CONTRACT_NO>Frontex/OP/602/2016/Lot 2</CONTRACT_NO>
+<LOT_NO>2</LOT_NO>
+<TITLE>
+<P>Raamovereenkomst voor de verlening van diensten inzake passagiersvervoer over land, per bus; perceel 2 — Chios</P>
+</TITLE>
+<AWARDED_CONTRACT>
+<DATE_CONCLUSION_CONTRACT>2016-12-06</DATE_CONCLUSION_CONTRACT>
+<NB_TENDERS_RECEIVED>1</NB_TENDERS_RECEIVED>
+<NO_AWARDED_TO_GROUP/>
+<CONTRACTOR>
+<ADDRESS_CONTRACTOR>
+<OFFICIALNAME>Vagia Tzislaki — Lesvorama General Travel Agency</OFFICIALNAME>
+<ADDRESS>M. Goutou 22, Lesvos</ADDRESS>
+<TOWN>Mithimna</TOWN>
+<POSTAL_CODE>811 08</POSTAL_CODE>
+<COUNTRY VALUE="GR"/>
+<NUTS CODE="GR"/>
+</ADDRESS_CONTRACTOR>
+<SME/>
+</CONTRACTOR>
+<VAL_ESTIMATED_TOTAL CURRENCY="EUR">150000.00</VAL_ESTIMATED_TOTAL>
+<VAL_TOTAL CURRENCY="EUR">150000.00</VAL_TOTAL>
+</AWARDED_CONTRACT>
+</AWARD_CONTRACT>
+<AWARD_CONTRACT ITEM="3">
+<CONTRACT_NO>Frontex/OP/602/2016.</CONTRACT_NO>
+<LOT_NO>3</LOT_NO>
+<TITLE>
+<P>Raamovereenkomst voor de verlening van diensten inzake passagiersvervoer over land, per bus; perceel 3 — Kos</P>
+</TITLE>
+<NO_AWARDED_CONTRACT>
+<PROCUREMENT_UNSUCCESSFUL/>
+</NO_AWARDED_CONTRACT>
+</AWARD_CONTRACT>
+<COMPLEMENTARY_INFO>
+<ADDRESS_REVIEW_BODY>
+<OFFICIALNAME>Gerecht</OFFICIALNAME>
+<ADDRESS>rue du Fort Niedergrünewald</ADDRESS>
+<TOWN>Luxembourg</TOWN>
+<POSTAL_CODE>2925</POSTAL_CODE>
+<COUNTRY VALUE="LU"/>
+<PHONE>+352 4303-1</PHONE>
+<E_MAIL>cfi.registry@curia.europa.eu</E_MAIL>
+<FAX>+352 4303-2100</FAX>
+<URL>http://curia.europa.eu/</URL>
+</ADDRESS_REVIEW_BODY>
+<DATE_DISPATCH_NOTICE>2016-12-22</DATE_DISPATCH_NOTICE>
+</COMPLEMENTARY_INFO>
+</F03_2014>
+<F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="PT">
+<CONTRACTING_BODY>
+<ADDRESS_CONTRACTING_BODY>
+<OFFICIALNAME>Frontex</OFFICIALNAME>
+<ADDRESS>Plac Europejski 6</ADDRESS>
+<TOWN>Warsaw</TOWN>
+<POSTAL_CODE>00-844</POSTAL_CODE>
+<COUNTRY VALUE="PL"/>
+<PHONE>+48 222059500</PHONE>
+<E_MAIL>procurement@frontex.europa.eu</E_MAIL>
+<FAX>+48 222059501</FAX>
+<NUTS CODE="PL"/>
+<URL_GENERAL>http://www.frontex.europa.eu</URL_GENERAL>
+</ADDRESS_CONTRACTING_BODY>
+<CA_TYPE VALUE="EU_INSTITUTION"/>
+<CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+</CONTRACTING_BODY>
+<OBJECT_CONTRACT>
+<TITLE>
+<P>Contrato-quadro relativo à prestação de serviços de transporte terrestre de passageiros; lote 1 — Lesvos; lote 2 — Chios; lote 3 — Kos.</P>
+</TITLE>
+<REFERENCE_NUMBER>FRONTEX/OP/602/2016/KM.</REFERENCE_NUMBER>
+<CPV_MAIN>
+<CPV_CODE CODE="60170000"/>
+</CPV_MAIN>
+<TYPE_CONTRACT CTYPE="SERVICES"/>
+<SHORT_DESCR>
+<P>Contrato-quadro relativo à prestação de serviços de transporte terrestre de passageiros.</P>
+</SHORT_DESCR>
+<VAL_TOTAL CURRENCY="EUR">450000.00</VAL_TOTAL>
+<LOT_DIVISION/>
+<OBJECT_DESCR ITEM="1">
+<TITLE>
+<P>Contrato-quadro relativo à prestação de serviços de transporte terrestre de passageiros, por autocarro, lote 1 — Lesbos</P>
+</TITLE>
+<LOT_NO>1</LOT_NO>
+<CPV_ADDITIONAL>
+<CPV_CODE CODE="60170000"/>
+</CPV_ADDITIONAL>
+<NUTS CODE="GR"/>
+<SHORT_DESCR>
+<P>Prestação de serviços de transferência de passageiros, por autocarro, na Grécia — ilha de Lesbos.</P>
+</SHORT_DESCR>
+<AC_PRICE/>
+<NO_OPTIONS/>
+<NO_EU_PROGR_RELATED/>
+</OBJECT_DESCR>
+<OBJECT_DESCR ITEM="2">
+<TITLE>
+<P>Contrato-quadro relativo à prestação de serviços de transporte terrestre de passageiros, por autocarro, lote 2 — Chios</P>
+</TITLE>
+<LOT_NO>2</LOT_NO>
+<CPV_ADDITIONAL>
+<CPV_CODE CODE="60170000"/>
+</CPV_ADDITIONAL>
+<NUTS CODE="GR"/>
+<SHORT_DESCR>
+<P>Prestação de serviços de passageiros, por autocarro, na Grécia, ilha de Chios.</P>
+</SHORT_DESCR>
+<AC_PRICE/>
+<NO_OPTIONS/>
+<NO_EU_PROGR_RELATED/>
+</OBJECT_DESCR>
+<OBJECT_DESCR ITEM="3">
+<TITLE>
+<P>Contrato-quadro relativo à prestação de serviços de transferência de passageiros por terra; lote 3 — Kos</P>
+</TITLE>
+<LOT_NO>3</LOT_NO>
+<CPV_ADDITIONAL>
+<CPV_CODE CODE="60170000"/>
+</CPV_ADDITIONAL>
+<NUTS CODE="GR"/>
+<SHORT_DESCR>
+<P>Contrato-quadro relativo à prestação de serviços de transporte terrestre de passageiros, por autocarro, lote 3 — Kos.</P>
+</SHORT_DESCR>
+<AC_PRICE/>
+<NO_OPTIONS/>
+<NO_EU_PROGR_RELATED/>
+</OBJECT_DESCR>
+</OBJECT_CONTRACT>
+<PROCEDURE>
+<PT_OPEN/>
+<ACCELERATED_PROC>
+<P>Considerando o número elevado de readmissões pendentes ao nível dos Estados-Membros, a Frontex deve tomar todas as medidas necessárias para garantir a prestação de apoio imediato aos Estados-Membros para cumprir as respetivas obrigações.</P>
+</ACCELERATED_PROC>
+<FRAMEWORK/>
+<NO_CONTRACT_COVERED_GPA/>
+<NOTICE_NUMBER_OJ>2016/S 187-335100</NOTICE_NUMBER_OJ>
+</PROCEDURE>
+<AWARD_CONTRACT ITEM="1">
+<CONTRACT_NO>Frontex/OP/602/2016/Lot 1</CONTRACT_NO>
+<LOT_NO>1</LOT_NO>
+<TITLE>
+<P>Contrato-quadro relativo à prestação de serviços de transporte terrestre de passageiros, por autocarro, lote 1 — Lesbos</P>
+</TITLE>
+<AWARDED_CONTRACT>
+<DATE_CONCLUSION_CONTRACT>2016-12-06</DATE_CONCLUSION_CONTRACT>
+<NB_TENDERS_RECEIVED>1</NB_TENDERS_RECEIVED>
+<NO_AWARDED_TO_GROUP/>
+<CONTRACTOR>
+<ADDRESS_CONTRACTOR>
+<OFFICIALNAME>Vagia Tzislaki — Lesvorama General Travel Agency</OFFICIALNAME>
+<ADDRESS>M. Goutou 22, Lesvos</ADDRESS>
+<TOWN>Mithimna</TOWN>
+<POSTAL_CODE>811 08</POSTAL_CODE>
+<COUNTRY VALUE="GR"/>
+<NUTS CODE="GR"/>
+</ADDRESS_CONTRACTOR>
+<SME/>
+</CONTRACTOR>
+<VAL_ESTIMATED_TOTAL CURRENCY="EUR">150000.00</VAL_ESTIMATED_TOTAL>
+<VAL_TOTAL CURRENCY="EUR">150000.00</VAL_TOTAL>
+</AWARDED_CONTRACT>
+</AWARD_CONTRACT>
+<AWARD_CONTRACT ITEM="2">
+<CONTRACT_NO>Frontex/OP/602/2016/Lot 2</CONTRACT_NO>
+<LOT_NO>2</LOT_NO>
+<TITLE>
+<P>Contrato-quadro relativo à prestação de serviços de transporte terrestre de passageiros, por autocarro, lote 2 — Chios</P>
+</TITLE>
+<AWARDED_CONTRACT>
+<DATE_CONCLUSION_CONTRACT>2016-12-06</DATE_CONCLUSION_CONTRACT>
+<NB_TENDERS_RECEIVED>1</NB_TENDERS_RECEIVED>
+<NO_AWARDED_TO_GROUP/>
+<CONTRACTOR>
+<ADDRESS_CONTRACTOR>
+<OFFICIALNAME>Vagia Tzislaki — Lesvorama General Travel Agency</OFFICIALNAME>
+<ADDRESS>M. Goutou 22, Lesvos</ADDRESS>
+<TOWN>Mithimna</TOWN>
+<POSTAL_CODE>811 08</POSTAL_CODE>
+<COUNTRY VALUE="GR"/>
+<NUTS CODE="GR"/>
+</ADDRESS_CONTRACTOR>
+<SME/>
+</CONTRACTOR>
+<VAL_ESTIMATED_TOTAL CURRENCY="EUR">150000.00</VAL_ESTIMATED_TOTAL>
+<VAL_TOTAL CURRENCY="EUR">150000.00</VAL_TOTAL>
+</AWARDED_CONTRACT>
+</AWARD_CONTRACT>
+<AWARD_CONTRACT ITEM="3">
+<CONTRACT_NO>Frontex/OP/602/2016.</CONTRACT_NO>
+<LOT_NO>3</LOT_NO>
+<TITLE>
+<P>Contrato-quadro relativo à prestação de serviços de transporte terrestre de passageiros, por autocarro, lote 3 — Kos.</P>
+</TITLE>
+<NO_AWARDED_CONTRACT>
+<PROCUREMENT_UNSUCCESSFUL/>
+</NO_AWARDED_CONTRACT>
+</AWARD_CONTRACT>
+<COMPLEMENTARY_INFO>
+<ADDRESS_REVIEW_BODY>
+<OFFICIALNAME>Tribunal Geral</OFFICIALNAME>
+<ADDRESS>rue du Fort Niedergrünewald</ADDRESS>
+<TOWN>Luxembourg</TOWN>
+<POSTAL_CODE>2925</POSTAL_CODE>
+<COUNTRY VALUE="LU"/>
+<PHONE>+352 4303-1</PHONE>
+<E_MAIL>cfi.registry@curia.europa.eu</E_MAIL>
+<FAX>+352 4303-2100</FAX>
+<URL>http://curia.europa.eu/</URL>
+</ADDRESS_REVIEW_BODY>
+<DATE_DISPATCH_NOTICE>2016-12-22</DATE_DISPATCH_NOTICE>
+</COMPLEMENTARY_INFO>
+</F03_2014>
+<F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="SV">
+<CONTRACTING_BODY>
+<ADDRESS_CONTRACTING_BODY>
+<OFFICIALNAME>Frontex</OFFICIALNAME>
+<ADDRESS>Plac Europejski 6</ADDRESS>
+<TOWN>Warsaw</TOWN>
+<POSTAL_CODE>00-844</POSTAL_CODE>
+<COUNTRY VALUE="PL"/>
+<PHONE>+48 222059500</PHONE>
+<E_MAIL>procurement@frontex.europa.eu</E_MAIL>
+<FAX>+48 222059501</FAX>
+<NUTS CODE="PL"/>
+<URL_GENERAL>http://www.frontex.europa.eu</URL_GENERAL>
+</ADDRESS_CONTRACTING_BODY>
+<CA_TYPE VALUE="EU_INSTITUTION"/>
+<CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+</CONTRACTING_BODY>
+<OBJECT_CONTRACT>
+<TITLE>
+<P>Ramavtal för tillhandahållande av tjänster för passagerartransport landvägen, del 1 – Lesbos, del 2 – Chios, del 3 – Kos</P>
+</TITLE>
+<REFERENCE_NUMBER>FRONTEX/OP/602/2016/KM.</REFERENCE_NUMBER>
+<CPV_MAIN>
+<CPV_CODE CODE="60170000"/>
+</CPV_MAIN>
+<TYPE_CONTRACT CTYPE="SERVICES"/>
+<SHORT_DESCR>
+<P>Ramavtal för tillhandahållande av tjänster för passagerartransport landvägen.</P>
+</SHORT_DESCR>
+<VAL_TOTAL CURRENCY="EUR">450000.00</VAL_TOTAL>
+<LOT_DIVISION/>
+<OBJECT_DESCR ITEM="1">
+<TITLE>
+<P>Ramavtal för tillhandahållande av tjänster för passagerartransport landvägen, med buss, del 1 – Lesbos</P>
+</TITLE>
+<LOT_NO>1</LOT_NO>
+<CPV_ADDITIONAL>
+<CPV_CODE CODE="60170000"/>
+</CPV_ADDITIONAL>
+<NUTS CODE="GR"/>
+<SHORT_DESCR>
+<P>Tillhandahållande av tjänster för passagerartransport med buss i Grekland – ön Lesbos.</P>
+</SHORT_DESCR>
+<AC_PRICE/>
+<NO_OPTIONS/>
+<NO_EU_PROGR_RELATED/>
+</OBJECT_DESCR>
+<OBJECT_DESCR ITEM="2">
+<TITLE>
+<P>Ramavtal för tillhandahållande av tjänster för passagerartransport landvägen, med buss, del 2 – Chios</P>
+</TITLE>
+<LOT_NO>2</LOT_NO>
+<CPV_ADDITIONAL>
+<CPV_CODE CODE="60170000"/>
+</CPV_ADDITIONAL>
+<NUTS CODE="GR"/>
+<SHORT_DESCR>
+<P>Tillhandahållande av busstjänster för passagerare i Grekland, ön Chios.</P>
+</SHORT_DESCR>
+<AC_PRICE/>
+<NO_OPTIONS/>
+<NO_EU_PROGR_RELATED/>
+</OBJECT_DESCR>
+<OBJECT_DESCR ITEM="3">
+<TITLE>
+<P>Ramavtal för tillhandahållande av tjänster för passagerartransport landvägen, del 3 – Kos</P>
+</TITLE>
+<LOT_NO>3</LOT_NO>
+<CPV_ADDITIONAL>
+<CPV_CODE CODE="60170000"/>
+</CPV_ADDITIONAL>
+<NUTS CODE="GR"/>
+<SHORT_DESCR>
+<P>Ramavtal för tillhandahållande av tjänster för passagerartransport landvägen, med buss. Del 3 – Kos.</P>
+</SHORT_DESCR>
+<AC_PRICE/>
+<NO_OPTIONS/>
+<NO_EU_PROGR_RELATED/>
+</OBJECT_DESCR>
+</OBJECT_CONTRACT>
+<PROCEDURE>
+<PT_OPEN/>
+<ACCELERATED_PROC>
+<P>Med beaktande av det stora antal återtaganden som är under behandling på medlemsstatsnivå måste Frontex vidta alla nödvändiga åtgärder för att säkerställa att omedelbart stöd ges till medlemsstaterna för uppfyllandet av deras skyldigheter.</P>
+</ACCELERATED_PROC>
+<FRAMEWORK/>
+<NO_CONTRACT_COVERED_GPA/>
+<NOTICE_NUMBER_OJ>2016/S 187-335100</NOTICE_NUMBER_OJ>
+</PROCEDURE>
+<AWARD_CONTRACT ITEM="1">
+<CONTRACT_NO>Frontex/OP/602/2016/Lot 1</CONTRACT_NO>
+<LOT_NO>1</LOT_NO>
+<TITLE>
+<P>Ramavtal för tillhandahållande av tjänster för passagerartransport landvägen, med buss, del 1 – Lesbos</P>
+</TITLE>
+<AWARDED_CONTRACT>
+<DATE_CONCLUSION_CONTRACT>2016-12-06</DATE_CONCLUSION_CONTRACT>
+<NB_TENDERS_RECEIVED>1</NB_TENDERS_RECEIVED>
+<NO_AWARDED_TO_GROUP/>
+<CONTRACTOR>
+<ADDRESS_CONTRACTOR>
+<OFFICIALNAME>Vagia Tzislaki — Lesvorama General Travel Agency</OFFICIALNAME>
+<ADDRESS>M. Goutou 22, Lesvos</ADDRESS>
+<TOWN>Mithimna</TOWN>
+<POSTAL_CODE>811 08</POSTAL_CODE>
+<COUNTRY VALUE="GR"/>
+<NUTS CODE="GR"/>
+</ADDRESS_CONTRACTOR>
+<SME/>
+</CONTRACTOR>
+<VAL_ESTIMATED_TOTAL CURRENCY="EUR">150000.00</VAL_ESTIMATED_TOTAL>
+<VAL_TOTAL CURRENCY="EUR">150000.00</VAL_TOTAL>
+</AWARDED_CONTRACT>
+</AWARD_CONTRACT>
+<AWARD_CONTRACT ITEM="2">
+<CONTRACT_NO>Frontex/OP/602/2016/Lot 2</CONTRACT_NO>
+<LOT_NO>2</LOT_NO>
+<TITLE>
+<P>Ramavtal för tillhandahållande av tjänster för passagerartransport landvägen, med buss, del 2 – Chios</P>
+</TITLE>
+<AWARDED_CONTRACT>
+<DATE_CONCLUSION_CONTRACT>2016-12-06</DATE_CONCLUSION_CONTRACT>
+<NB_TENDERS_RECEIVED>1</NB_TENDERS_RECEIVED>
+<NO_AWARDED_TO_GROUP/>
+<CONTRACTOR>
+<ADDRESS_CONTRACTOR>
+<OFFICIALNAME>Vagia Tzislaki — Lesvorama General Travel Agency</OFFICIALNAME>
+<ADDRESS>M. Goutou 22, Lesvos</ADDRESS>
+<TOWN>Mithimna</TOWN>
+<POSTAL_CODE>811 08</POSTAL_CODE>
+<COUNTRY VALUE="GR"/>
+<NUTS CODE="GR"/>
+</ADDRESS_CONTRACTOR>
+<SME/>
+</CONTRACTOR>
+<VAL_ESTIMATED_TOTAL CURRENCY="EUR">150000.00</VAL_ESTIMATED_TOTAL>
+<VAL_TOTAL CURRENCY="EUR">150000.00</VAL_TOTAL>
+</AWARDED_CONTRACT>
+</AWARD_CONTRACT>
+<AWARD_CONTRACT ITEM="3">
+<CONTRACT_NO>Frontex/OP/602/2016.</CONTRACT_NO>
+<LOT_NO>3</LOT_NO>
+<TITLE>
+<P>Ramavtal för tillhandahållande av tjänster för passagerartransport landvägen, med buss, del 3 – Kos</P>
+</TITLE>
+<NO_AWARDED_CONTRACT>
+<PROCUREMENT_UNSUCCESSFUL/>
+</NO_AWARDED_CONTRACT>
+</AWARD_CONTRACT>
+<COMPLEMENTARY_INFO>
+<ADDRESS_REVIEW_BODY>
+<OFFICIALNAME>Tribunalen</OFFICIALNAME>
+<ADDRESS>rue du Fort Niedergrünewald</ADDRESS>
+<TOWN>Luxembourg</TOWN>
+<POSTAL_CODE>2925</POSTAL_CODE>
+<COUNTRY VALUE="LU"/>
+<PHONE>+352 4303-1</PHONE>
+<E_MAIL>cfi.registry@curia.europa.eu</E_MAIL>
+<FAX>+352 4303-2100</FAX>
+<URL>http://curia.europa.eu/</URL>
+</ADDRESS_REVIEW_BODY>
+<DATE_DISPATCH_NOTICE>2016-12-22</DATE_DISPATCH_NOTICE>
+</COMPLEMENTARY_INFO>
+</F03_2014>
+<F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="CS">
+<CONTRACTING_BODY>
+<ADDRESS_CONTRACTING_BODY>
+<OFFICIALNAME>Frontex</OFFICIALNAME>
+<ADDRESS>Plac Europejski 6</ADDRESS>
+<TOWN>Warsaw</TOWN>
+<POSTAL_CODE>00-844</POSTAL_CODE>
+<COUNTRY VALUE="PL"/>
+<PHONE>+48 222059500</PHONE>
+<E_MAIL>procurement@frontex.europa.eu</E_MAIL>
+<FAX>+48 222059501</FAX>
+<NUTS CODE="PL"/>
+<URL_GENERAL>http://www.frontex.europa.eu</URL_GENERAL>
+</ADDRESS_CONTRACTING_BODY>
+<CA_TYPE VALUE="EU_INSTITUTION"/>
+<CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+</CONTRACTING_BODY>
+<OBJECT_CONTRACT>
+<TITLE>
+<P>Rámcová smlouva o poskytování služeb přepravy cestujících po souši; položka č. 1 – Lesvos; položka č. 2 – Chios; položka č. 3 – Kos.</P>
+</TITLE>
+<REFERENCE_NUMBER>FRONTEX/OP/602/2016/KM.</REFERENCE_NUMBER>
+<CPV_MAIN>
+<CPV_CODE CODE="60170000"/>
+</CPV_MAIN>
+<TYPE_CONTRACT CTYPE="SERVICES"/>
+<SHORT_DESCR>
+<P>Rámcová smlouva o poskytování služeb přepravy cestujících po souši.</P>
+</SHORT_DESCR>
+<VAL_TOTAL CURRENCY="EUR">450000.00</VAL_TOTAL>
+<LOT_DIVISION/>
+<OBJECT_DESCR ITEM="1">
+<TITLE>
+<P>Rámcová smlouva o poskytování služeb přepravy cestujících po souši autobusem; položka č. 1 – Lesvos</P>
+</TITLE>
+<LOT_NO>1</LOT_NO>
+<CPV_ADDITIONAL>
+<CPV_CODE CODE="60170000"/>
+</CPV_ADDITIONAL>
+<NUTS CODE="GR"/>
+<SHORT_DESCR>
+<P>Poskytování služeb přepravy cestujících autobusem v Řecku – ostrov Lesvos.</P>
+</SHORT_DESCR>
+<AC_PRICE/>
+<NO_OPTIONS/>
+<NO_EU_PROGR_RELATED/>
+</OBJECT_DESCR>
+<OBJECT_DESCR ITEM="2">
+<TITLE>
+<P>Rámcová smlouva o poskytování služeb přepravy cestujících po souši autobusem; položka č. 2 – Chios</P>
+</TITLE>
+<LOT_NO>2</LOT_NO>
+<CPV_ADDITIONAL>
+<CPV_CODE CODE="60170000"/>
+</CPV_ADDITIONAL>
+<NUTS CODE="GR"/>
+<SHORT_DESCR>
+<P>Poskytování služeb přepravy cestujících autobusem v Řecku, ostrov Chios.</P>
+</SHORT_DESCR>
+<AC_PRICE/>
+<NO_OPTIONS/>
+<NO_EU_PROGR_RELATED/>
+</OBJECT_DESCR>
+<OBJECT_DESCR ITEM="3">
+<TITLE>
+<P>Rámcová smlouva o poskytování služeb přepravy cestujících po souši; položka č. 3 – Kos</P>
+</TITLE>
+<LOT_NO>3</LOT_NO>
+<CPV_ADDITIONAL>
+<CPV_CODE CODE="60170000"/>
+</CPV_ADDITIONAL>
+<NUTS CODE="GR"/>
+<SHORT_DESCR>
+<P>Rámcová smlouva o poskytování služeb přepravy cestujících po souši autobusem. Položka č. 3 – Kos.</P>
+</SHORT_DESCR>
+<AC_PRICE/>
+<NO_OPTIONS/>
+<NO_EU_PROGR_RELATED/>
+</OBJECT_DESCR>
+</OBJECT_CONTRACT>
+<PROCEDURE>
+<PT_OPEN/>
+<ACCELERATED_PROC>
+<P>Při zvažování vysokého otevřeného počtu zpětně přebíraných osob na úrovni členských států musí Frontex podniknout všechny kroky potřebné k zajištění toho, aby byla členským státům zajištěna okamžitá podpora při plnění jejich závazků.</P>
+</ACCELERATED_PROC>
+<FRAMEWORK/>
+<NO_CONTRACT_COVERED_GPA/>
+<NOTICE_NUMBER_OJ>2016/S 187-335100</NOTICE_NUMBER_OJ>
+</PROCEDURE>
+<AWARD_CONTRACT ITEM="1">
+<CONTRACT_NO>Frontex/OP/602/2016/Lot 1</CONTRACT_NO>
+<LOT_NO>1</LOT_NO>
+<TITLE>
+<P>Rámcová smlouva o poskytování služeb přepravy cestujících po souši autobusem; položka č. 1 – Lesvos</P>
+</TITLE>
+<AWARDED_CONTRACT>
+<DATE_CONCLUSION_CONTRACT>2016-12-06</DATE_CONCLUSION_CONTRACT>
+<NB_TENDERS_RECEIVED>1</NB_TENDERS_RECEIVED>
+<NO_AWARDED_TO_GROUP/>
+<CONTRACTOR>
+<ADDRESS_CONTRACTOR>
+<OFFICIALNAME>Vagia Tzislaki — Lesvorama General Travel Agency</OFFICIALNAME>
+<ADDRESS>M. Goutou 22, Lesvos</ADDRESS>
+<TOWN>Mithimna</TOWN>
+<POSTAL_CODE>811 08</POSTAL_CODE>
+<COUNTRY VALUE="GR"/>
+<NUTS CODE="GR"/>
+</ADDRESS_CONTRACTOR>
+<SME/>
+</CONTRACTOR>
+<VAL_ESTIMATED_TOTAL CURRENCY="EUR">150000.00</VAL_ESTIMATED_TOTAL>
+<VAL_TOTAL CURRENCY="EUR">150000.00</VAL_TOTAL>
+</AWARDED_CONTRACT>
+</AWARD_CONTRACT>
+<AWARD_CONTRACT ITEM="2">
+<CONTRACT_NO>Frontex/OP/602/2016/Lot 2</CONTRACT_NO>
+<LOT_NO>2</LOT_NO>
+<TITLE>
+<P>Rámcová smlouva o poskytování služeb přepravy cestujících po souši autobusem; položka č. 2 – Chios</P>
+</TITLE>
+<AWARDED_CONTRACT>
+<DATE_CONCLUSION_CONTRACT>2016-12-06</DATE_CONCLUSION_CONTRACT>
+<NB_TENDERS_RECEIVED>1</NB_TENDERS_RECEIVED>
+<NO_AWARDED_TO_GROUP/>
+<CONTRACTOR>
+<ADDRESS_CONTRACTOR>
+<OFFICIALNAME>Vagia Tzislaki – Lesvorama General Travel Agency</OFFICIALNAME>
+<ADDRESS>M. Goutou 22, Lesvos</ADDRESS>
+<TOWN>Mithimna</TOWN>
+<POSTAL_CODE>811 08</POSTAL_CODE>
+<COUNTRY VALUE="GR"/>
+<NUTS CODE="GR"/>
+</ADDRESS_CONTRACTOR>
+<SME/>
+</CONTRACTOR>
+<VAL_ESTIMATED_TOTAL CURRENCY="EUR">150000.00</VAL_ESTIMATED_TOTAL>
+<VAL_TOTAL CURRENCY="EUR">150000.00</VAL_TOTAL>
+</AWARDED_CONTRACT>
+</AWARD_CONTRACT>
+<AWARD_CONTRACT ITEM="3">
+<CONTRACT_NO>Frontex/OP/602/2016.</CONTRACT_NO>
+<LOT_NO>3</LOT_NO>
+<TITLE>
+<P>Rámcová smlouva o poskytování služeb přepravy cestujících po souši autobusem; položka č. 3 – Kos</P>
+</TITLE>
+<NO_AWARDED_CONTRACT>
+<PROCUREMENT_UNSUCCESSFUL/>
+</NO_AWARDED_CONTRACT>
+</AWARD_CONTRACT>
+<COMPLEMENTARY_INFO>
+<ADDRESS_REVIEW_BODY>
+<OFFICIALNAME>Tribunál</OFFICIALNAME>
+<ADDRESS>rue du Fort Niedergrünewald</ADDRESS>
+<TOWN>Luxembourg</TOWN>
+<POSTAL_CODE>2925</POSTAL_CODE>
+<COUNTRY VALUE="LU"/>
+<PHONE>+352 4303-1</PHONE>
+<E_MAIL>cfi.registry@curia.europa.eu</E_MAIL>
+<FAX>+352 4303-2100</FAX>
+<URL>http://curia.europa.eu/</URL>
+</ADDRESS_REVIEW_BODY>
+<DATE_DISPATCH_NOTICE>2016-12-22</DATE_DISPATCH_NOTICE>
+</COMPLEMENTARY_INFO>
+</F03_2014>
+<F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="ET">
+<CONTRACTING_BODY>
+<ADDRESS_CONTRACTING_BODY>
+<OFFICIALNAME>Frontex</OFFICIALNAME>
+<ADDRESS>Plac Europejski 6</ADDRESS>
+<TOWN>Warsaw</TOWN>
+<POSTAL_CODE>00-844</POSTAL_CODE>
+<COUNTRY VALUE="PL"/>
+<PHONE>+48 222059500</PHONE>
+<E_MAIL>procurement@frontex.europa.eu</E_MAIL>
+<FAX>+48 222059501</FAX>
+<NUTS CODE="PL"/>
+<URL_GENERAL>http://www.frontex.europa.eu</URL_GENERAL>
+</ADDRESS_CONTRACTING_BODY>
+<CA_TYPE VALUE="EU_INSTITUTION"/>
+<CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+</CONTRACTING_BODY>
+<OBJECT_CONTRACT>
+<TITLE>
+<P>Reisijate maismaaveo teenuste osutamise raamleping; 1. osa – Lesbos; 2. osa – Chíos; 3. osa – Kos</P>
+</TITLE>
+<REFERENCE_NUMBER>FRONTEX/OP/602/2016/KM.</REFERENCE_NUMBER>
+<CPV_MAIN>
+<CPV_CODE CODE="60170000"/>
+</CPV_MAIN>
+<TYPE_CONTRACT CTYPE="SERVICES"/>
+<SHORT_DESCR>
+<P>Reisijate maismaaveo teenuste osutamise raamleping</P>
+</SHORT_DESCR>
+<VAL_TOTAL CURRENCY="EUR">450000.00</VAL_TOTAL>
+<LOT_DIVISION/>
+<OBJECT_DESCR ITEM="1">
+<TITLE>
+<P>Reisijate maismaaveo (bussiveo) teenuste osutamise raamleping; 1. osa – Lesbos</P>
+</TITLE>
+<LOT_NO>1</LOT_NO>
+<CPV_ADDITIONAL>
+<CPV_CODE CODE="60170000"/>
+</CPV_ADDITIONAL>
+<NUTS CODE="GR"/>
+<SHORT_DESCR>
+<P>Reisijate bussiveo teenuste osutamine Kreekas Lesbose saarel.</P>
+</SHORT_DESCR>
+<AC_PRICE/>
+<NO_OPTIONS/>
+<NO_EU_PROGR_RELATED/>
+</OBJECT_DESCR>
+<OBJECT_DESCR ITEM="2">
+<TITLE>
+<P>Reisijate maismaaveo (bussiveo) teenuste osutamise raamleping; 2. osa – Chíos</P>
+</TITLE>
+<LOT_NO>2</LOT_NO>
+<CPV_ADDITIONAL>
+<CPV_CODE CODE="60170000"/>
+</CPV_ADDITIONAL>
+<NUTS CODE="GR"/>
+<SHORT_DESCR>
+<P>Reisijate bussiveo teenuste osutamine Kreekas Chíose saarel.</P>
+</SHORT_DESCR>
+<AC_PRICE/>
+<NO_OPTIONS/>
+<NO_EU_PROGR_RELATED/>
+</OBJECT_DESCR>
+<OBJECT_DESCR ITEM="3">
+<TITLE>
+<P>Reisijate maismaaveo teenuste osutamise raamleping; 3. osa – Kos</P>
+</TITLE>
+<LOT_NO>3</LOT_NO>
+<CPV_ADDITIONAL>
+<CPV_CODE CODE="60170000"/>
+</CPV_ADDITIONAL>
+<NUTS CODE="GR"/>
+<SHORT_DESCR>
+<P>Reisijate maismaaveo (bussiveo) teenuste osutamise raamleping; 3. osa – Kos.</P>
+</SHORT_DESCR>
+<AC_PRICE/>
+<NO_OPTIONS/>
+<NO_EU_PROGR_RELATED/>
+</OBJECT_DESCR>
+</OBJECT_CONTRACT>
+<PROCEDURE>
+<PT_OPEN/>
+<ACCELERATED_PROC>
+<P>kuna liikmesriikide tasandil on ootel suur hulk tagasivõtte, on Frontexil vaja võtta kõik vajalikud meetmed, millega tagada, et liikmesriikidele antakse viivitamata nende kohustuste täitmiseks tuge.</P>
+</ACCELERATED_PROC>
+<FRAMEWORK/>
+<NO_CONTRACT_COVERED_GPA/>
+<NOTICE_NUMBER_OJ>2016/S 187-335100</NOTICE_NUMBER_OJ>
+</PROCEDURE>
+<AWARD_CONTRACT ITEM="1">
+<CONTRACT_NO>Frontex/OP/602/2016/Lot 1</CONTRACT_NO>
+<LOT_NO>1</LOT_NO>
+<TITLE>
+<P>Reisijate maismaaveo (bussiveo) teenuste osutamise raamleping; 1. osa – Lesbos</P>
+</TITLE>
+<AWARDED_CONTRACT>
+<DATE_CONCLUSION_CONTRACT>2016-12-06</DATE_CONCLUSION_CONTRACT>
+<NB_TENDERS_RECEIVED>1</NB_TENDERS_RECEIVED>
+<NO_AWARDED_TO_GROUP/>
+<CONTRACTOR>
+<ADDRESS_CONTRACTOR>
+<OFFICIALNAME>Vagia Tzislaki – Lesvorama General Travel Agency</OFFICIALNAME>
+<ADDRESS>M. Goutou 22, Lesvos</ADDRESS>
+<TOWN>Mithimna</TOWN>
+<POSTAL_CODE>811 08</POSTAL_CODE>
+<COUNTRY VALUE="GR"/>
+<NUTS CODE="GR"/>
+</ADDRESS_CONTRACTOR>
+<SME/>
+</CONTRACTOR>
+<VAL_ESTIMATED_TOTAL CURRENCY="EUR">150000.00</VAL_ESTIMATED_TOTAL>
+<VAL_TOTAL CURRENCY="EUR">150000.00</VAL_TOTAL>
+</AWARDED_CONTRACT>
+</AWARD_CONTRACT>
+<AWARD_CONTRACT ITEM="2">
+<CONTRACT_NO>Frontex/OP/602/2016/Lot 2</CONTRACT_NO>
+<LOT_NO>2</LOT_NO>
+<TITLE>
+<P>Reisijate maismaaveo (bussiveo) teenuste osutamise raamleping; 2. osa – Chíos</P>
+</TITLE>
+<AWARDED_CONTRACT>
+<DATE_CONCLUSION_CONTRACT>2016-12-06</DATE_CONCLUSION_CONTRACT>
+<NB_TENDERS_RECEIVED>1</NB_TENDERS_RECEIVED>
+<NO_AWARDED_TO_GROUP/>
+<CONTRACTOR>
+<ADDRESS_CONTRACTOR>
+<OFFICIALNAME>Vagia Tzislaki – Lesvorama General Travel Agency</OFFICIALNAME>
+<ADDRESS>M. Goutou 22, Lesvos</ADDRESS>
+<TOWN>Mithimna</TOWN>
+<POSTAL_CODE>811 08</POSTAL_CODE>
+<COUNTRY VALUE="GR"/>
+<NUTS CODE="GR"/>
+</ADDRESS_CONTRACTOR>
+<SME/>
+</CONTRACTOR>
+<VAL_ESTIMATED_TOTAL CURRENCY="EUR">150000.00</VAL_ESTIMATED_TOTAL>
+<VAL_TOTAL CURRENCY="EUR">150000.00</VAL_TOTAL>
+</AWARDED_CONTRACT>
+</AWARD_CONTRACT>
+<AWARD_CONTRACT ITEM="3">
+<CONTRACT_NO>Frontex/OP/602/2016.</CONTRACT_NO>
+<LOT_NO>3</LOT_NO>
+<TITLE>
+<P>Reisijate maismaaveo (bussiveo) teenuste osutamise raamleping; 3. osa – Kos</P>
+</TITLE>
+<NO_AWARDED_CONTRACT>
+<PROCUREMENT_UNSUCCESSFUL/>
+</NO_AWARDED_CONTRACT>
+</AWARD_CONTRACT>
+<COMPLEMENTARY_INFO>
+<ADDRESS_REVIEW_BODY>
+<OFFICIALNAME>Üldkohus</OFFICIALNAME>
+<ADDRESS>rue du Fort Niedergrünewald</ADDRESS>
+<TOWN>Luxembourg</TOWN>
+<POSTAL_CODE>2925</POSTAL_CODE>
+<COUNTRY VALUE="LU"/>
+<PHONE>+352 4303-1</PHONE>
+<E_MAIL>cfi.registry@curia.europa.eu</E_MAIL>
+<FAX>+352 4303-2100</FAX>
+<URL>http://curia.europa.eu/</URL>
+</ADDRESS_REVIEW_BODY>
+<DATE_DISPATCH_NOTICE>2016-12-22</DATE_DISPATCH_NOTICE>
+</COMPLEMENTARY_INFO>
+</F03_2014>
+<F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="HU">
+<CONTRACTING_BODY>
+<ADDRESS_CONTRACTING_BODY>
+<OFFICIALNAME>Frontex</OFFICIALNAME>
+<ADDRESS>Plac Europejski 6</ADDRESS>
+<TOWN>Varsó</TOWN>
+<POSTAL_CODE>00-844</POSTAL_CODE>
+<COUNTRY VALUE="PL"/>
+<PHONE>+48 222059500</PHONE>
+<E_MAIL>procurement@frontex.europa.eu</E_MAIL>
+<FAX>+48 222059501</FAX>
+<NUTS CODE="PL"/>
+<URL_GENERAL>http://www.frontex.europa.eu</URL_GENERAL>
+</ADDRESS_CONTRACTING_BODY>
+<CA_TYPE VALUE="EU_INSTITUTION"/>
+<CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+</CONTRACTING_BODY>
+<OBJECT_CONTRACT>
+<TITLE>
+<P>Szárazföldi személyszállítási szolgáltatások nyújtására irányuló keretszerződés; 1. tétel – Leszbosz; 2. tétel – Híosz; 3. tétel – Kósz.</P>
+</TITLE>
+<REFERENCE_NUMBER>FRONTEX/OP/602/2016/KM.</REFERENCE_NUMBER>
+<CPV_MAIN>
+<CPV_CODE CODE="60170000"/>
+</CPV_MAIN>
+<TYPE_CONTRACT CTYPE="SERVICES"/>
+<SHORT_DESCR>
+<P>Szárazföldi személyszállítási szolgáltatások nyújtására irányuló keretszerződés.</P>
+</SHORT_DESCR>
+<VAL_TOTAL CURRENCY="EUR">450000.00</VAL_TOTAL>
+<LOT_DIVISION/>
+<OBJECT_DESCR ITEM="1">
+<TITLE>
+<P>Szárazföldi, buszos személyszállítási szolgáltatások nyújtására irányuló keretszerződés; 1. tétel – Leszbosz</P>
+</TITLE>
+<LOT_NO>1</LOT_NO>
+<CPV_ADDITIONAL>
+<CPV_CODE CODE="60170000"/>
+</CPV_ADDITIONAL>
+<NUTS CODE="GR"/>
+<SHORT_DESCR>
+<P>Buszos személyszállítási szolgáltatások nyújtása Görögországban – Leszbosz szigete.</P>
+</SHORT_DESCR>
+<AC_PRICE/>
+<NO_OPTIONS/>
+<NO_EU_PROGR_RELATED/>
+</OBJECT_DESCR>
+<OBJECT_DESCR ITEM="2">
+<TITLE>
+<P>Szárazföldi, buszos személyszállítási szolgáltatások nyújtására irányuló keretszerződés; 2. tétel – Híosz</P>
+</TITLE>
+<LOT_NO>2</LOT_NO>
+<CPV_ADDITIONAL>
+<CPV_CODE CODE="60170000"/>
+</CPV_ADDITIONAL>
+<NUTS CODE="GR"/>
+<SHORT_DESCR>
+<P>Buszos személyszállítási szolgáltatások nyújtása Görögországban, Híosz szigetén.</P>
+</SHORT_DESCR>
+<AC_PRICE/>
+<NO_OPTIONS/>
+<NO_EU_PROGR_RELATED/>
+</OBJECT_DESCR>
+<OBJECT_DESCR ITEM="3">
+<TITLE>
+<P>Szárazföldi személyszállítási szolgáltatások nyújtására irányuló keretszerződés; 3. tétel – Kósz</P>
+</TITLE>
+<LOT_NO>3</LOT_NO>
+<CPV_ADDITIONAL>
+<CPV_CODE CODE="60170000"/>
+</CPV_ADDITIONAL>
+<NUTS CODE="GR"/>
+<SHORT_DESCR>
+<P>Szárazföldi, buszos személyszállítási szolgáltatások nyújtására irányuló keretszerződés; 3. tétel – Kósz</P>
+</SHORT_DESCR>
+<AC_PRICE/>
+<NO_OPTIONS/>
+<NO_EU_PROGR_RELATED/>
+</OBJECT_DESCR>
+</OBJECT_CONTRACT>
+<PROCEDURE>
+<PT_OPEN/>
+<ACCELERATED_PROC>
+<P>A tagállamok szintjén függőben lévő visszafogadások magas számának figyelembe vételével a Frontexnek meg kell tennie a szükséges lépéseket annak biztosítása érdekében, hogy a tagállamok azonnali támogatásban részesülnek a kötelezettségeik teljesítéséhez.</P>
+</ACCELERATED_PROC>
+<FRAMEWORK/>
+<NO_CONTRACT_COVERED_GPA/>
+<NOTICE_NUMBER_OJ>2016/S 187-335100</NOTICE_NUMBER_OJ>
+</PROCEDURE>
+<AWARD_CONTRACT ITEM="1">
+<CONTRACT_NO>Frontex/OP/602/2016/Lot 1</CONTRACT_NO>
+<LOT_NO>1</LOT_NO>
+<TITLE>
+<P>Szárazföldi, buszos személyszállítási szolgáltatások nyújtására irányuló keretszerződés; 1. tétel – Leszbosz</P>
+</TITLE>
+<AWARDED_CONTRACT>
+<DATE_CONCLUSION_CONTRACT>2016-12-06</DATE_CONCLUSION_CONTRACT>
+<NB_TENDERS_RECEIVED>1</NB_TENDERS_RECEIVED>
+<NO_AWARDED_TO_GROUP/>
+<CONTRACTOR>
+<ADDRESS_CONTRACTOR>
+<OFFICIALNAME>Vagia Tzislaki — Lesvorama General Travel Agency</OFFICIALNAME>
+<ADDRESS>M. Goutou 22, Lesvos</ADDRESS>
+<TOWN>Mithimna</TOWN>
+<POSTAL_CODE>811 08</POSTAL_CODE>
+<COUNTRY VALUE="GR"/>
+<NUTS CODE="GR"/>
+</ADDRESS_CONTRACTOR>
+<SME/>
+</CONTRACTOR>
+<VAL_ESTIMATED_TOTAL CURRENCY="EUR">150000.00</VAL_ESTIMATED_TOTAL>
+<VAL_TOTAL CURRENCY="EUR">150000.00</VAL_TOTAL>
+</AWARDED_CONTRACT>
+</AWARD_CONTRACT>
+<AWARD_CONTRACT ITEM="2">
+<CONTRACT_NO>Frontex/OP/602/2016/Lot 2</CONTRACT_NO>
+<LOT_NO>2</LOT_NO>
+<TITLE>
+<P>Szárazföldi, buszos személyszállítási szolgáltatások nyújtására irányuló keretszerződés; 2. tétel – Híosz</P>
+</TITLE>
+<AWARDED_CONTRACT>
+<DATE_CONCLUSION_CONTRACT>2016-12-06</DATE_CONCLUSION_CONTRACT>
+<NB_TENDERS_RECEIVED>1</NB_TENDERS_RECEIVED>
+<NO_AWARDED_TO_GROUP/>
+<CONTRACTOR>
+<ADDRESS_CONTRACTOR>
+<OFFICIALNAME>Vagia Tzislaki — Lesvorama General Travel Agency</OFFICIALNAME>
+<ADDRESS>M. Goutou 22, Lesvos</ADDRESS>
+<TOWN>Mithimna</TOWN>
+<POSTAL_CODE>811 08</POSTAL_CODE>
+<COUNTRY VALUE="GR"/>
+<NUTS CODE="GR"/>
+</ADDRESS_CONTRACTOR>
+<SME/>
+</CONTRACTOR>
+<VAL_ESTIMATED_TOTAL CURRENCY="EUR">150000.00</VAL_ESTIMATED_TOTAL>
+<VAL_TOTAL CURRENCY="EUR">150000.00</VAL_TOTAL>
+</AWARDED_CONTRACT>
+</AWARD_CONTRACT>
+<AWARD_CONTRACT ITEM="3">
+<CONTRACT_NO>Frontex/OP/602/2016.</CONTRACT_NO>
+<LOT_NO>3</LOT_NO>
+<TITLE>
+<P>Szárazföldi, buszos személyszállítási szolgáltatások nyújtására irányuló keretszerződés; 3. tétel – Kósz</P>
+</TITLE>
+<NO_AWARDED_CONTRACT>
+<PROCUREMENT_UNSUCCESSFUL/>
+</NO_AWARDED_CONTRACT>
+</AWARD_CONTRACT>
+<COMPLEMENTARY_INFO>
+<ADDRESS_REVIEW_BODY>
+<OFFICIALNAME>Törvényszék</OFFICIALNAME>
+<ADDRESS>rue du Fort Niedergrünewald</ADDRESS>
+<TOWN>Luxembourg</TOWN>
+<POSTAL_CODE>2925</POSTAL_CODE>
+<COUNTRY VALUE="LU"/>
+<PHONE>+352 4303-1</PHONE>
+<E_MAIL>cfi.registry@curia.europa.eu</E_MAIL>
+<FAX>+352 4303-2100</FAX>
+<URL>http://curia.europa.eu/</URL>
+</ADDRESS_REVIEW_BODY>
+<DATE_DISPATCH_NOTICE>2016-12-22</DATE_DISPATCH_NOTICE>
+</COMPLEMENTARY_INFO>
+</F03_2014>
+<F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="LT">
+<CONTRACTING_BODY>
+<ADDRESS_CONTRACTING_BODY>
+<OFFICIALNAME>Frontex</OFFICIALNAME>
+<ADDRESS>Plac Europejski 6</ADDRESS>
+<TOWN>Warsaw</TOWN>
+<POSTAL_CODE>00-844</POSTAL_CODE>
+<COUNTRY VALUE="PL"/>
+<PHONE>+48 222059500</PHONE>
+<E_MAIL>procurement@frontex.europa.eu</E_MAIL>
+<FAX>+48 222059501</FAX>
+<NUTS CODE="PL"/>
+<URL_GENERAL>http://www.frontex.europa.eu</URL_GENERAL>
+</ADDRESS_CONTRACTING_BODY>
+<CA_TYPE VALUE="EU_INSTITUTION"/>
+<CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+</CONTRACTING_BODY>
+<OBJECT_CONTRACT>
+<TITLE>
+<P>Preliminarioji sutartis dėl keleivių vežimo sausuma paslaugų teikimo: 1 dalis – Lesbas; 2 dalis – Chijas; 3 dalis – Kosas.</P>
+</TITLE>
+<REFERENCE_NUMBER>FRONTEX/OP/602/2016/KM.</REFERENCE_NUMBER>
+<CPV_MAIN>
+<CPV_CODE CODE="60170000"/>
+</CPV_MAIN>
+<TYPE_CONTRACT CTYPE="SERVICES"/>
+<SHORT_DESCR>
+<P>Preliminarioji sutartis dėl keleivių vežimo sausuma paslaugų teikimo.</P>
+</SHORT_DESCR>
+<VAL_TOTAL CURRENCY="EUR">450000.00</VAL_TOTAL>
+<LOT_DIVISION/>
+<OBJECT_DESCR ITEM="1">
+<TITLE>
+<P>Preliminarioji sutartis dėl keleivių vežimo sausuma, autobusais, paslaugų teikimo: 1 dalis – Lesbas</P>
+</TITLE>
+<LOT_NO>1</LOT_NO>
+<CPV_ADDITIONAL>
+<CPV_CODE CODE="60170000"/>
+</CPV_ADDITIONAL>
+<NUTS CODE="GR"/>
+<SHORT_DESCR>
+<P>Keleivių vežimo autobusais paslaugų teikimas Graikijoje, Lesbo saloje.</P>
+</SHORT_DESCR>
+<AC_PRICE/>
+<NO_OPTIONS/>
+<NO_EU_PROGR_RELATED/>
+</OBJECT_DESCR>
+<OBJECT_DESCR ITEM="2">
+<TITLE>
+<P>Preliminarioji sutartis dėl keleivių vežimo sausuma, autobusais, paslaugų teikimo: 2 dalis – Chijas</P>
+</TITLE>
+<LOT_NO>2</LOT_NO>
+<CPV_ADDITIONAL>
+<CPV_CODE CODE="60170000"/>
+</CPV_ADDITIONAL>
+<NUTS CODE="GR"/>
+<SHORT_DESCR>
+<P>Keleivių vežimo autobusais paslaugų teikimas Graikijoje, Chijo saloje.</P>
+</SHORT_DESCR>
+<AC_PRICE/>
+<NO_OPTIONS/>
+<NO_EU_PROGR_RELATED/>
+</OBJECT_DESCR>
+<OBJECT_DESCR ITEM="3">
+<TITLE>
+<P>Preliminarioji sutartis dėl keleivių vežimo sausuma paslaugų teikimo: 3 dalis – Kosas</P>
+</TITLE>
+<LOT_NO>3</LOT_NO>
+<CPV_ADDITIONAL>
+<CPV_CODE CODE="60170000"/>
+</CPV_ADDITIONAL>
+<NUTS CODE="GR"/>
+<SHORT_DESCR>
+<P>Preliminarioji sutartis dėl keleivių vežimo sausuma, autobusais, paslaugų teikimo: 3 dalis – Kosas.</P>
+</SHORT_DESCR>
+<AC_PRICE/>
+<NO_OPTIONS/>
+<NO_EU_PROGR_RELATED/>
+</OBJECT_DESCR>
+</OBJECT_CONTRACT>
+<PROCEDURE>
+<PT_OPEN/>
+<ACCELERATED_PROC>
+<P>Atsižvelgdama į didelį readmisijų, kurios nebaigtos nagrinėti valstybėse narėse, skaičių, Frontex turi imtis visų būtinų žingsnių, kad užtikrintų, jog valstybėms narėms būtų teikiama skubi parama, padedanti joms įvykdyti savo įsipareigojimus.</P>
+</ACCELERATED_PROC>
+<FRAMEWORK/>
+<NO_CONTRACT_COVERED_GPA/>
+<NOTICE_NUMBER_OJ>2016/S 187-335100</NOTICE_NUMBER_OJ>
+</PROCEDURE>
+<AWARD_CONTRACT ITEM="1">
+<CONTRACT_NO>Frontex/OP/602/2016/Lot 1</CONTRACT_NO>
+<LOT_NO>1</LOT_NO>
+<TITLE>
+<P>Preliminarioji sutartis dėl keleivių vežimo sausuma, autobusais, paslaugų teikimo: 1 dalis – Lesbas</P>
+</TITLE>
+<AWARDED_CONTRACT>
+<DATE_CONCLUSION_CONTRACT>2016-12-06</DATE_CONCLUSION_CONTRACT>
+<NB_TENDERS_RECEIVED>1</NB_TENDERS_RECEIVED>
+<NO_AWARDED_TO_GROUP/>
+<CONTRACTOR>
+<ADDRESS_CONTRACTOR>
+<OFFICIALNAME>Vagia Tzislaki — Lesvorama General Travel Agency</OFFICIALNAME>
+<ADDRESS>M. Goutou 22, Lesvos</ADDRESS>
+<TOWN>Mithimna</TOWN>
+<POSTAL_CODE>811 08</POSTAL_CODE>
+<COUNTRY VALUE="GR"/>
+<NUTS CODE="GR"/>
+</ADDRESS_CONTRACTOR>
+<SME/>
+</CONTRACTOR>
+<VAL_ESTIMATED_TOTAL CURRENCY="EUR">150000.00</VAL_ESTIMATED_TOTAL>
+<VAL_TOTAL CURRENCY="EUR">150000.00</VAL_TOTAL>
+</AWARDED_CONTRACT>
+</AWARD_CONTRACT>
+<AWARD_CONTRACT ITEM="2">
+<CONTRACT_NO>Frontex/OP/602/2016/Lot 2</CONTRACT_NO>
+<LOT_NO>2</LOT_NO>
+<TITLE>
+<P>Preliminarioji sutartis dėl keleivių vežimo sausuma, autobusais, paslaugų teikimo: 2 dalis – Chijas</P>
+</TITLE>
+<AWARDED_CONTRACT>
+<DATE_CONCLUSION_CONTRACT>2016-12-06</DATE_CONCLUSION_CONTRACT>
+<NB_TENDERS_RECEIVED>1</NB_TENDERS_RECEIVED>
+<NO_AWARDED_TO_GROUP/>
+<CONTRACTOR>
+<ADDRESS_CONTRACTOR>
+<OFFICIALNAME>Vagia Tzislaki — Lesvorama General Travel Agency</OFFICIALNAME>
+<ADDRESS>M. Goutou 22, Lesvos</ADDRESS>
+<TOWN>Mithimna</TOWN>
+<POSTAL_CODE>811 08</POSTAL_CODE>
+<COUNTRY VALUE="GR"/>
+<NUTS CODE="GR"/>
+</ADDRESS_CONTRACTOR>
+<SME/>
+</CONTRACTOR>
+<VAL_ESTIMATED_TOTAL CURRENCY="EUR">150000.00</VAL_ESTIMATED_TOTAL>
+<VAL_TOTAL CURRENCY="EUR">150000.00</VAL_TOTAL>
+</AWARDED_CONTRACT>
+</AWARD_CONTRACT>
+<AWARD_CONTRACT ITEM="3">
+<CONTRACT_NO>Frontex/OP/602/2016.</CONTRACT_NO>
+<LOT_NO>3</LOT_NO>
+<TITLE>
+<P>Preliminarioji sutartis dėl keleivių vežimo sausuma, autobusais, paslaugų teikimo: 3 dalis – Kosas</P>
+</TITLE>
+<NO_AWARDED_CONTRACT>
+<PROCUREMENT_UNSUCCESSFUL/>
+</NO_AWARDED_CONTRACT>
+</AWARD_CONTRACT>
+<COMPLEMENTARY_INFO>
+<ADDRESS_REVIEW_BODY>
+<OFFICIALNAME>Bendrasis Teismas</OFFICIALNAME>
+<ADDRESS>rue du Fort Niedergrünewald</ADDRESS>
+<TOWN>Luxembourg</TOWN>
+<POSTAL_CODE>2925</POSTAL_CODE>
+<COUNTRY VALUE="LU"/>
+<PHONE>+352 4303-1</PHONE>
+<E_MAIL>cfi.registry@curia.europa.eu</E_MAIL>
+<FAX>+352 4303-2100</FAX>
+<URL>http://curia.europa.eu/</URL>
+</ADDRESS_REVIEW_BODY>
+<DATE_DISPATCH_NOTICE>2016-12-22</DATE_DISPATCH_NOTICE>
+</COMPLEMENTARY_INFO>
+</F03_2014>
+<F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="LV">
+<CONTRACTING_BODY>
+<ADDRESS_CONTRACTING_BODY>
+<OFFICIALNAME>Frontex</OFFICIALNAME>
+<ADDRESS>Plac Europejski 6</ADDRESS>
+<TOWN>Warsaw</TOWN>
+<POSTAL_CODE>00-844</POSTAL_CODE>
+<COUNTRY VALUE="PL"/>
+<PHONE>+48 222059500</PHONE>
+<E_MAIL>procurement@frontex.europa.eu</E_MAIL>
+<FAX>+48 222059501</FAX>
+<NUTS CODE="PL"/>
+<URL_GENERAL>http://www.frontex.europa.eu</URL_GENERAL>
+</ADDRESS_CONTRACTING_BODY>
+<CA_TYPE VALUE="EU_INSTITUTION"/>
+<CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+</CONTRACTING_BODY>
+<OBJECT_CONTRACT>
+<TITLE>
+<P>Pamatnolīgums par pasažieru sauszemes pārvadājumu pakalpojumu nodrošināšanu; 1. daļa – Lesba; 2. daļa – Hija; 3. daļa – Kosa.</P>
+</TITLE>
+<REFERENCE_NUMBER>FRONTEX/OP/602/2016/KM.</REFERENCE_NUMBER>
+<CPV_MAIN>
+<CPV_CODE CODE="60170000"/>
+</CPV_MAIN>
+<TYPE_CONTRACT CTYPE="SERVICES"/>
+<SHORT_DESCR>
+<P>Pamatnolīgums par pasažieru sauszemes pārvadājumu pakalpojumu nodrošināšanu.</P>
+</SHORT_DESCR>
+<VAL_TOTAL CURRENCY="EUR">450000.00</VAL_TOTAL>
+<LOT_DIVISION/>
+<OBJECT_DESCR ITEM="1">
+<TITLE>
+<P>Pamatnolīgums par pasažieru sauszemes pārvadājumu pakalpojumu nodrošināšanu, izmantojot autobusu; 1. daļa – Lesba</P>
+</TITLE>
+<LOT_NO>1</LOT_NO>
+<CPV_ADDITIONAL>
+<CPV_CODE CODE="60170000"/>
+</CPV_ADDITIONAL>
+<NUTS CODE="GR"/>
+<SHORT_DESCR>
+<P>Pasažieru pārvadājumu pakalpojumu nodrošināšana, izmantojot autobusu, Grieķijā, Lesbas salā.</P>
+</SHORT_DESCR>
+<AC_PRICE/>
+<NO_OPTIONS/>
+<NO_EU_PROGR_RELATED/>
+</OBJECT_DESCR>
+<OBJECT_DESCR ITEM="2">
+<TITLE>
+<P>Pamatnolīgums par pasažieru sauszemes pārvadājumu pakalpojumu nodrošināšanu, izmantojot autobusu; 2. daļa – Hija</P>
+</TITLE>
+<LOT_NO>2</LOT_NO>
+<CPV_ADDITIONAL>
+<CPV_CODE CODE="60170000"/>
+</CPV_ADDITIONAL>
+<NUTS CODE="GR"/>
+<SHORT_DESCR>
+<P>Pasažieru pakalpojumu nodrošināšana, izmantojot autobusu, Grieķijā, Hijas salā.</P>
+</SHORT_DESCR>
+<AC_PRICE/>
+<NO_OPTIONS/>
+<NO_EU_PROGR_RELATED/>
+</OBJECT_DESCR>
+<OBJECT_DESCR ITEM="3">
+<TITLE>
+<P>Pamatnolīgums par pasažieru sauszemes pārvadājumu pakalpojumu nodrošināšanu; 3. daļa – Kosa</P>
+</TITLE>
+<LOT_NO>3</LOT_NO>
+<CPV_ADDITIONAL>
+<CPV_CODE CODE="60170000"/>
+</CPV_ADDITIONAL>
+<NUTS CODE="GR"/>
+<SHORT_DESCR>
+<P>Pamatnolīgums par pasažieru sauszemes pārvadājumu pakalpojumu nodrošināšanu, izmantojot autobusu. 3. daļa – Kosa.</P>
+</SHORT_DESCR>
+<AC_PRICE/>
+<NO_OPTIONS/>
+<NO_EU_PROGR_RELATED/>
+</OBJECT_DESCR>
+</OBJECT_CONTRACT>
+<PROCEDURE>
+<PT_OPEN/>
+<ACCELERATED_PROC>
+<P>ņemot vērā, ka dalībvalstu līmenī liels skaits atpakaļuzņemšanas gadījumu nav īstenoti, Frontex jāveic visi nepieciešamie pasākumi, lai nodrošinātu dalībvalstīm tūlītēja atbalsta sniegšanu to pienākumu izpildē.</P>
+</ACCELERATED_PROC>
+<FRAMEWORK/>
+<NO_CONTRACT_COVERED_GPA/>
+<NOTICE_NUMBER_OJ>2016/S 187-335100</NOTICE_NUMBER_OJ>
+</PROCEDURE>
+<AWARD_CONTRACT ITEM="1">
+<CONTRACT_NO>Frontex/OP/602/2016/Lot 1</CONTRACT_NO>
+<LOT_NO>1</LOT_NO>
+<TITLE>
+<P>Pamatnolīgums par pasažieru sauszemes pārvadājumu pakalpojumu nodrošināšanu, izmantojot autobusu; 1. daļa – Lesba</P>
+</TITLE>
+<AWARDED_CONTRACT>
+<DATE_CONCLUSION_CONTRACT>2016-12-06</DATE_CONCLUSION_CONTRACT>
+<NB_TENDERS_RECEIVED>1</NB_TENDERS_RECEIVED>
+<NO_AWARDED_TO_GROUP/>
+<CONTRACTOR>
+<ADDRESS_CONTRACTOR>
+<OFFICIALNAME>Vagia Tzislaki – Lesvorama General Travel Agency</OFFICIALNAME>
+<ADDRESS>M. Goutou 22, Lesvos</ADDRESS>
+<TOWN>Mithimna</TOWN>
+<POSTAL_CODE>811 08</POSTAL_CODE>
+<COUNTRY VALUE="GR"/>
+<NUTS CODE="GR"/>
+</ADDRESS_CONTRACTOR>
+<SME/>
+</CONTRACTOR>
+<VAL_ESTIMATED_TOTAL CURRENCY="EUR">150000.00</VAL_ESTIMATED_TOTAL>
+<VAL_TOTAL CURRENCY="EUR">150000.00</VAL_TOTAL>
+</AWARDED_CONTRACT>
+</AWARD_CONTRACT>
+<AWARD_CONTRACT ITEM="2">
+<CONTRACT_NO>Frontex/OP/602/2016/Lot 2</CONTRACT_NO>
+<LOT_NO>2</LOT_NO>
+<TITLE>
+<P>Pamatnolīgums par pasažieru sauszemes pārvadājumu pakalpojumu nodrošināšanu, izmantojot autobusu; 2. daļa – Hija</P>
+</TITLE>
+<AWARDED_CONTRACT>
+<DATE_CONCLUSION_CONTRACT>2016-12-06</DATE_CONCLUSION_CONTRACT>
+<NB_TENDERS_RECEIVED>1</NB_TENDERS_RECEIVED>
+<NO_AWARDED_TO_GROUP/>
+<CONTRACTOR>
+<ADDRESS_CONTRACTOR>
+<OFFICIALNAME>Vagia Tzislaki – Lesvorama General Travel Agency</OFFICIALNAME>
+<ADDRESS>M. Goutou 22, Lesvos</ADDRESS>
+<TOWN>Mithimna</TOWN>
+<POSTAL_CODE>811 08</POSTAL_CODE>
+<COUNTRY VALUE="GR"/>
+<NUTS CODE="GR"/>
+</ADDRESS_CONTRACTOR>
+<SME/>
+</CONTRACTOR>
+<VAL_ESTIMATED_TOTAL CURRENCY="EUR">150000.00</VAL_ESTIMATED_TOTAL>
+<VAL_TOTAL CURRENCY="EUR">150000.00</VAL_TOTAL>
+</AWARDED_CONTRACT>
+</AWARD_CONTRACT>
+<AWARD_CONTRACT ITEM="3">
+<CONTRACT_NO>Frontex/OP/602/2016.</CONTRACT_NO>
+<LOT_NO>3</LOT_NO>
+<TITLE>
+<P>Pamatnolīgums par pasažieru sauszemes pārvadājumu pakalpojumu nodrošināšanu, izmantojot autobusu; 3. daļa – Kosa.</P>
+</TITLE>
+<NO_AWARDED_CONTRACT>
+<PROCUREMENT_UNSUCCESSFUL/>
+</NO_AWARDED_CONTRACT>
+</AWARD_CONTRACT>
+<COMPLEMENTARY_INFO>
+<ADDRESS_REVIEW_BODY>
+<OFFICIALNAME>Vispārējā tiesa</OFFICIALNAME>
+<ADDRESS>rue du Fort Niedergrünewald</ADDRESS>
+<TOWN>Luxembourg</TOWN>
+<POSTAL_CODE>2925</POSTAL_CODE>
+<COUNTRY VALUE="LU"/>
+<PHONE>+352 4303-1</PHONE>
+<E_MAIL>cfi.registry@curia.europa.eu</E_MAIL>
+<FAX>+352 4303-2100</FAX>
+<URL>http://curia.europa.eu/</URL>
+</ADDRESS_REVIEW_BODY>
+<DATE_DISPATCH_NOTICE>2016-12-22</DATE_DISPATCH_NOTICE>
+</COMPLEMENTARY_INFO>
+</F03_2014>
+<F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="MT">
+<CONTRACTING_BODY>
+<ADDRESS_CONTRACTING_BODY>
+<OFFICIALNAME>Frontex</OFFICIALNAME>
+<ADDRESS>Plac Europejski 6</ADDRESS>
+<TOWN>Varsavja</TOWN>
+<POSTAL_CODE>00-844</POSTAL_CODE>
+<COUNTRY VALUE="PL"/>
+<PHONE>+48 222059500</PHONE>
+<E_MAIL>procurement@frontex.europa.eu</E_MAIL>
+<FAX>+48 222059501</FAX>
+<NUTS CODE="PL"/>
+<URL_GENERAL>http://www.frontex.europa.eu</URL_GENERAL>
+</ADDRESS_CONTRACTING_BODY>
+<CA_TYPE VALUE="EU_INSTITUTION"/>
+<CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+</CONTRACTING_BODY>
+<OBJECT_CONTRACT>
+<TITLE>
+<P>Qafas ta' kuntratt għall-provvista ta' servizzi għat-trasferiment tal-passiġġieri fuq l-art, l-1 lott — Lesvos; it-2 lott — Chios; it-3 lott — Kos.</P>
+</TITLE>
+<REFERENCE_NUMBER>FRONTEX/OP/602/2016/KM.</REFERENCE_NUMBER>
+<CPV_MAIN>
+<CPV_CODE CODE="60170000"/>
+</CPV_MAIN>
+<TYPE_CONTRACT CTYPE="SERVICES"/>
+<SHORT_DESCR>
+<P>Qafas ta' kuntratt għall-provvista ta' servizzi għat-trasferiment tal-passiġġieri fuq l-art.</P>
+</SHORT_DESCR>
+<VAL_TOTAL CURRENCY="EUR">450000.00</VAL_TOTAL>
+<LOT_DIVISION/>
+<OBJECT_DESCR ITEM="1">
+<TITLE>
+<P>Qafas ta' kuntratt għall-provvista ta' servizzi għat-trasferiment tal-passiġġieri fuq l-art, permezz tal-karozza tal-linja; l-1 lott — Lesvos</P>
+</TITLE>
+<LOT_NO>1</LOT_NO>
+<CPV_ADDITIONAL>
+<CPV_CODE CODE="60170000"/>
+</CPV_ADDITIONAL>
+<NUTS CODE="GR"/>
+<SHORT_DESCR>
+<P>Provvista ta' servizzi għat-trasferiment tal-passiġġieri bil-karozza tal-linja fil-Greċja — il-gżira ta' Lesvos.</P>
+</SHORT_DESCR>
+<AC_PRICE/>
+<NO_OPTIONS/>
+<NO_EU_PROGR_RELATED/>
+</OBJECT_DESCR>
+<OBJECT_DESCR ITEM="2">
+<TITLE>
+<P>Qafas ta' kuntratt għall-provvista ta' servizzi għat-trasferiment tal-passiġġieri fuq l-art, permezz tal-karozza tal-linja; it-2 lott — Chios</P>
+</TITLE>
+<LOT_NO>2</LOT_NO>
+<CPV_ADDITIONAL>
+<CPV_CODE CODE="60170000"/>
+</CPV_ADDITIONAL>
+<NUTS CODE="GR"/>
+<SHORT_DESCR>
+<P>Provvista ta' servizzi għat-trasferiment tal-passiġġieri bil-karozza tal-linja fil-Greċja, il-gżira ta' Chios.</P>
+</SHORT_DESCR>
+<AC_PRICE/>
+<NO_OPTIONS/>
+<NO_EU_PROGR_RELATED/>
+</OBJECT_DESCR>
+<OBJECT_DESCR ITEM="3">
+<TITLE>
+<P>Qafas ta' kuntratt għall-provvista ta' servizzi għat-trasferiment tal-passiġġieri fuq l-art; it-3 lott — Kos</P>
+</TITLE>
+<LOT_NO>3</LOT_NO>
+<CPV_ADDITIONAL>
+<CPV_CODE CODE="60170000"/>
+</CPV_ADDITIONAL>
+<NUTS CODE="GR"/>
+<SHORT_DESCR>
+<P>Qafas ta' kuntratt għall-provvista ta' servizzi għat-trasferiment tal-passiġġieri fuq l-art, permezz tal-karozza tal-linja. It-3 lott — Kos.</P>
+</SHORT_DESCR>
+<AC_PRICE/>
+<NO_OPTIONS/>
+<NO_EU_PROGR_RELATED/>
+</OBJECT_DESCR>
+</OBJECT_CONTRACT>
+<PROCEDURE>
+<PT_OPEN/>
+<ACCELERATED_PROC>
+<P>Fil-konsiderazzjoni tan-numru għoli ta' ammissjonijiet mill-ġdid pendenti fuq il-livell tal-Istati Membri, il-Frontex jeħtieġ li tieħu l-passi kollha neċessarji biex tassigura li l-appoġġ immedjat ikun ipprovdut lill-Istati Membri biex jissodisfaw l-obbligi tagħhom.</P>
+</ACCELERATED_PROC>
+<FRAMEWORK/>
+<NO_CONTRACT_COVERED_GPA/>
+<NOTICE_NUMBER_OJ>2016/S 187-335100</NOTICE_NUMBER_OJ>
+</PROCEDURE>
+<AWARD_CONTRACT ITEM="1">
+<CONTRACT_NO>Frontex/OP/602/2016/L-1 lott</CONTRACT_NO>
+<LOT_NO>1</LOT_NO>
+<TITLE>
+<P>Qafas ta' kuntratt għall-provvista ta' servizzi għat-trasferiment tal-passiġġieri fuq l-art, permezz tal-karozza tal-linja; l-1 lott — Lesvos</P>
+</TITLE>
+<AWARDED_CONTRACT>
+<DATE_CONCLUSION_CONTRACT>2016-12-06</DATE_CONCLUSION_CONTRACT>
+<NB_TENDERS_RECEIVED>1</NB_TENDERS_RECEIVED>
+<NO_AWARDED_TO_GROUP/>
+<CONTRACTOR>
+<ADDRESS_CONTRACTOR>
+<OFFICIALNAME>Vagia Tzislaki — Lesvorama General Travel Agency</OFFICIALNAME>
+<ADDRESS>M. Goutou 22, Lesvos</ADDRESS>
+<TOWN>Mithimna</TOWN>
+<POSTAL_CODE>811 08</POSTAL_CODE>
+<COUNTRY VALUE="GR"/>
+<NUTS CODE="GR"/>
+</ADDRESS_CONTRACTOR>
+<SME/>
+</CONTRACTOR>
+<VAL_ESTIMATED_TOTAL CURRENCY="EUR">150000.00</VAL_ESTIMATED_TOTAL>
+<VAL_TOTAL CURRENCY="EUR">150000.00</VAL_TOTAL>
+</AWARDED_CONTRACT>
+</AWARD_CONTRACT>
+<AWARD_CONTRACT ITEM="2">
+<CONTRACT_NO>Frontex/OP/602/2016/It-2 lott</CONTRACT_NO>
+<LOT_NO>2</LOT_NO>
+<TITLE>
+<P>Qafas ta' kuntratt għall-provvista ta' servizzi għat-trasferiment tal-passiġġieri fuq l-art, permezz tal-karozza tal-linja; it-2 lott — Chios</P>
+</TITLE>
+<AWARDED_CONTRACT>
+<DATE_CONCLUSION_CONTRACT>2016-12-06</DATE_CONCLUSION_CONTRACT>
+<NB_TENDERS_RECEIVED>1</NB_TENDERS_RECEIVED>
+<NO_AWARDED_TO_GROUP/>
+<CONTRACTOR>
+<ADDRESS_CONTRACTOR>
+<OFFICIALNAME>Vagia Tzislaki — Lesvorama General Travel Agency</OFFICIALNAME>
+<ADDRESS>M. Goutou 22, Lesvos</ADDRESS>
+<TOWN>Mithimna</TOWN>
+<POSTAL_CODE>811 08</POSTAL_CODE>
+<COUNTRY VALUE="GR"/>
+<NUTS CODE="GR"/>
+</ADDRESS_CONTRACTOR>
+<SME/>
+</CONTRACTOR>
+<VAL_ESTIMATED_TOTAL CURRENCY="EUR">150000.00</VAL_ESTIMATED_TOTAL>
+<VAL_TOTAL CURRENCY="EUR">150000.00</VAL_TOTAL>
+</AWARDED_CONTRACT>
+</AWARD_CONTRACT>
+<AWARD_CONTRACT ITEM="3">
+<CONTRACT_NO>Frontex/OP/602/2016.</CONTRACT_NO>
+<LOT_NO>3</LOT_NO>
+<TITLE>
+<P>Qafas ta' kuntratt għall-provvista ta' servizzi għat-trasferiment tal-passiġġieri fuq l-art, permezz tal-karozza tal-linja; it-3 lott — Kos</P>
+</TITLE>
+<NO_AWARDED_CONTRACT>
+<PROCUREMENT_UNSUCCESSFUL/>
+</NO_AWARDED_CONTRACT>
+</AWARD_CONTRACT>
+<COMPLEMENTARY_INFO>
+<ADDRESS_REVIEW_BODY>
+<OFFICIALNAME>Il-Qorti Ġenerali</OFFICIALNAME>
+<ADDRESS>rue du Fort Niedergrünewald</ADDRESS>
+<TOWN>Lussemburgu</TOWN>
+<POSTAL_CODE>2925</POSTAL_CODE>
+<COUNTRY VALUE="LU"/>
+<PHONE>+352 4303-1</PHONE>
+<E_MAIL>cfi.registry@curia.europa.eu</E_MAIL>
+<FAX>+352 4303-2100</FAX>
+<URL>http://curia.europa.eu/</URL>
+</ADDRESS_REVIEW_BODY>
+<DATE_DISPATCH_NOTICE>2016-12-22</DATE_DISPATCH_NOTICE>
+</COMPLEMENTARY_INFO>
+</F03_2014>
+<F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="PL">
+<CONTRACTING_BODY>
+<ADDRESS_CONTRACTING_BODY>
+<OFFICIALNAME>Frontex</OFFICIALNAME>
+<ADDRESS>Plac Europejski 6</ADDRESS>
+<TOWN>Warsaw</TOWN>
+<POSTAL_CODE>00-844</POSTAL_CODE>
+<COUNTRY VALUE="PL"/>
+<PHONE>+48 222059500</PHONE>
+<E_MAIL>procurement@frontex.europa.eu</E_MAIL>
+<FAX>+48 222059501</FAX>
+<NUTS CODE="PL"/>
+<URL_GENERAL>http://www.frontex.europa.eu</URL_GENERAL>
+</ADDRESS_CONTRACTING_BODY>
+<CA_TYPE VALUE="EU_INSTITUTION"/>
+<CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+</CONTRACTING_BODY>
+<OBJECT_CONTRACT>
+<TITLE>
+<P>Umowa ramowa o świadczenie usług lądowych przewozów pasażerskich; część 1 — Lesbos; część 2 — Chios; część 3 — Kos</P>
+</TITLE>
+<REFERENCE_NUMBER>FRONTEX/OP/602/2016/KM.</REFERENCE_NUMBER>
+<CPV_MAIN>
+<CPV_CODE CODE="60170000"/>
+</CPV_MAIN>
+<TYPE_CONTRACT CTYPE="SERVICES"/>
+<SHORT_DESCR>
+<P>Umowa ramowa o świadczenie usług lądowych przewozów pasażerskich.</P>
+</SHORT_DESCR>
+<VAL_TOTAL CURRENCY="EUR">450000.00</VAL_TOTAL>
+<LOT_DIVISION/>
+<OBJECT_DESCR ITEM="1">
+<TITLE>
+<P>Umowa ramowa o świadczenie usług lądowych przewozów pasażerskich autokarem; część 1 — Lesbos</P>
+</TITLE>
+<LOT_NO>1</LOT_NO>
+<CPV_ADDITIONAL>
+<CPV_CODE CODE="60170000"/>
+</CPV_ADDITIONAL>
+<NUTS CODE="GR"/>
+<SHORT_DESCR>
+<P>Świadczenie usług przewozów pasażerskich autokarem w Grecji — wyspa Lesbos.</P>
+</SHORT_DESCR>
+<AC_PRICE/>
+<NO_OPTIONS/>
+<NO_EU_PROGR_RELATED/>
+</OBJECT_DESCR>
+<OBJECT_DESCR ITEM="2">
+<TITLE>
+<P>Umowa ramowa o świadczenie usług lądowych przewozów pasażerskich autokarem; część 2 — Chios</P>
+</TITLE>
+<LOT_NO>2</LOT_NO>
+<CPV_ADDITIONAL>
+<CPV_CODE CODE="60170000"/>
+</CPV_ADDITIONAL>
+<NUTS CODE="GR"/>
+<SHORT_DESCR>
+<P>Świadczenie usług przewozów pasażerskich autokarem w Grecji — wyspa Chios.</P>
+</SHORT_DESCR>
+<AC_PRICE/>
+<NO_OPTIONS/>
+<NO_EU_PROGR_RELATED/>
+</OBJECT_DESCR>
+<OBJECT_DESCR ITEM="3">
+<TITLE>
+<P>Umowa ramowa o świadczenie usług lądowych przewozów pasażerskich; część 3 — Kos</P>
+</TITLE>
+<LOT_NO>3</LOT_NO>
+<CPV_ADDITIONAL>
+<CPV_CODE CODE="60170000"/>
+</CPV_ADDITIONAL>
+<NUTS CODE="GR"/>
+<SHORT_DESCR>
+<P>Umowa ramowa o świadczenie usług lądowych przewozów pasażerskich autokarem; część 3 — Kos.</P>
+</SHORT_DESCR>
+<AC_PRICE/>
+<NO_OPTIONS/>
+<NO_EU_PROGR_RELATED/>
+</OBJECT_DESCR>
+</OBJECT_CONTRACT>
+<PROCEDURE>
+<PT_OPEN/>
+<ACCELERATED_PROC>
+<P>mając na uwadze dużą liczbę readmisji oczekujących na poziomie państw członkowskich Frontex musi podjąć wszelkie konieczne kroki w celu zapewnienia państwom członkowskim bezpośredniego wsparcia w wypełnianiu ich obowiązków.</P>
+</ACCELERATED_PROC>
+<FRAMEWORK/>
+<NO_CONTRACT_COVERED_GPA/>
+<NOTICE_NUMBER_OJ>2016/S 187-335100</NOTICE_NUMBER_OJ>
+</PROCEDURE>
+<AWARD_CONTRACT ITEM="1">
+<CONTRACT_NO>Frontex/OP/602/2016/Lot 1</CONTRACT_NO>
+<LOT_NO>1</LOT_NO>
+<TITLE>
+<P>Umowa ramowa o świadczenie usług lądowych przewozów pasażerskich autokarem; część 1 — Lesbos</P>
+</TITLE>
+<AWARDED_CONTRACT>
+<DATE_CONCLUSION_CONTRACT>2016-12-06</DATE_CONCLUSION_CONTRACT>
+<NB_TENDERS_RECEIVED>1</NB_TENDERS_RECEIVED>
+<NO_AWARDED_TO_GROUP/>
+<CONTRACTOR>
+<ADDRESS_CONTRACTOR>
+<OFFICIALNAME>Vagia Tzislaki — Lesvorama General Travel Agency</OFFICIALNAME>
+<ADDRESS>M. Goutou 22, Lesvos</ADDRESS>
+<TOWN>Mithimna</TOWN>
+<POSTAL_CODE>811 08</POSTAL_CODE>
+<COUNTRY VALUE="GR"/>
+<NUTS CODE="GR"/>
+</ADDRESS_CONTRACTOR>
+<SME/>
+</CONTRACTOR>
+<VAL_ESTIMATED_TOTAL CURRENCY="EUR">150000.00</VAL_ESTIMATED_TOTAL>
+<VAL_TOTAL CURRENCY="EUR">150000.00</VAL_TOTAL>
+</AWARDED_CONTRACT>
+</AWARD_CONTRACT>
+<AWARD_CONTRACT ITEM="2">
+<CONTRACT_NO>Frontex/OP/602/2016/Lot 2</CONTRACT_NO>
+<LOT_NO>2</LOT_NO>
+<TITLE>
+<P>Umowa ramowa o świadczenie usług lądowych przewozów pasażerskich autokarem; część 2 — Chios</P>
+</TITLE>
+<AWARDED_CONTRACT>
+<DATE_CONCLUSION_CONTRACT>2016-12-06</DATE_CONCLUSION_CONTRACT>
+<NB_TENDERS_RECEIVED>1</NB_TENDERS_RECEIVED>
+<NO_AWARDED_TO_GROUP/>
+<CONTRACTOR>
+<ADDRESS_CONTRACTOR>
+<OFFICIALNAME>Vagia Tzislaki — Lesvorama General Travel Agency</OFFICIALNAME>
+<ADDRESS>M. Goutou 22, Lesvos</ADDRESS>
+<TOWN>Mithimna</TOWN>
+<POSTAL_CODE>811 08</POSTAL_CODE>
+<COUNTRY VALUE="GR"/>
+<NUTS CODE="GR"/>
+</ADDRESS_CONTRACTOR>
+<SME/>
+</CONTRACTOR>
+<VAL_ESTIMATED_TOTAL CURRENCY="EUR">150000.00</VAL_ESTIMATED_TOTAL>
+<VAL_TOTAL CURRENCY="EUR">150000.00</VAL_TOTAL>
+</AWARDED_CONTRACT>
+</AWARD_CONTRACT>
+<AWARD_CONTRACT ITEM="3">
+<CONTRACT_NO>Frontex/OP/602/2016.</CONTRACT_NO>
+<LOT_NO>3</LOT_NO>
+<TITLE>
+<P>Umowa ramowa o świadczenie usług lądowych przewozów pasażerskich autokarem; część 3 — Kos</P>
+</TITLE>
+<NO_AWARDED_CONTRACT>
+<PROCUREMENT_UNSUCCESSFUL/>
+</NO_AWARDED_CONTRACT>
+</AWARD_CONTRACT>
+<COMPLEMENTARY_INFO>
+<ADDRESS_REVIEW_BODY>
+<OFFICIALNAME>Sąd</OFFICIALNAME>
+<ADDRESS>rue du Fort Niedergrünewald</ADDRESS>
+<TOWN>Luxembourg</TOWN>
+<POSTAL_CODE>2925</POSTAL_CODE>
+<COUNTRY VALUE="LU"/>
+<PHONE>+352 4303-1</PHONE>
+<E_MAIL>cfi.registry@curia.europa.eu</E_MAIL>
+<FAX>+352 4303-2100</FAX>
+<URL>http://curia.europa.eu/</URL>
+</ADDRESS_REVIEW_BODY>
+<DATE_DISPATCH_NOTICE>2016-12-22</DATE_DISPATCH_NOTICE>
+</COMPLEMENTARY_INFO>
+</F03_2014>
+<F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="SK">
+<CONTRACTING_BODY>
+<ADDRESS_CONTRACTING_BODY>
+<OFFICIALNAME>Frontex</OFFICIALNAME>
+<ADDRESS>Plac Europejski 6</ADDRESS>
+<TOWN>Warsaw</TOWN>
+<POSTAL_CODE>00-844</POSTAL_CODE>
+<COUNTRY VALUE="PL"/>
+<PHONE>+48 222059500</PHONE>
+<E_MAIL>procurement@frontex.europa.eu</E_MAIL>
+<FAX>+48 222059501</FAX>
+<NUTS CODE="PL"/>
+<URL_GENERAL>http://www.frontex.europa.eu</URL_GENERAL>
+</ADDRESS_CONTRACTING_BODY>
+<CA_TYPE VALUE="EU_INSTITUTION"/>
+<CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+</CONTRACTING_BODY>
+<OBJECT_CONTRACT>
+<TITLE>
+<P>Rámcová zmluva na poskytovanie služieb prepravy cestujúcich po zemi; časť 1 – Lesbos; časť 2 – Chios; časť 3 – Kos.</P>
+</TITLE>
+<REFERENCE_NUMBER>FRONTEX/OP/602/2016/KM.</REFERENCE_NUMBER>
+<CPV_MAIN>
+<CPV_CODE CODE="60170000"/>
+</CPV_MAIN>
+<TYPE_CONTRACT CTYPE="SERVICES"/>
+<SHORT_DESCR>
+<P>Rámcová zmluva na poskytovanie služieb prepravy cestujúcich po zemi.</P>
+</SHORT_DESCR>
+<VAL_TOTAL CURRENCY="EUR">450000.00</VAL_TOTAL>
+<LOT_DIVISION/>
+<OBJECT_DESCR ITEM="1">
+<TITLE>
+<P>Rámcová zmluva na poskytovanie služieb prepravy cestujúcich po zemi, autobusom; časť 1 – Lesbos</P>
+</TITLE>
+<LOT_NO>1</LOT_NO>
+<CPV_ADDITIONAL>
+<CPV_CODE CODE="60170000"/>
+</CPV_ADDITIONAL>
+<NUTS CODE="GR"/>
+<SHORT_DESCR>
+<P>Poskytovanie služieb prepravy cestujúcich autobusom v Grécku – ostrov Lesbos.</P>
+</SHORT_DESCR>
+<AC_PRICE/>
+<NO_OPTIONS/>
+<NO_EU_PROGR_RELATED/>
+</OBJECT_DESCR>
+<OBJECT_DESCR ITEM="2">
+<TITLE>
+<P>Rámcová zmluva na poskytovanie služieb prepravy cestujúcich po zemi, autobusom; časť 2 – Chios</P>
+</TITLE>
+<LOT_NO>2</LOT_NO>
+<CPV_ADDITIONAL>
+<CPV_CODE CODE="60170000"/>
+</CPV_ADDITIONAL>
+<NUTS CODE="GR"/>
+<SHORT_DESCR>
+<P>Poskytovanie služieb prepravy cestujúcich autobusom v Grécku, ostrov Chios.</P>
+</SHORT_DESCR>
+<AC_PRICE/>
+<NO_OPTIONS/>
+<NO_EU_PROGR_RELATED/>
+</OBJECT_DESCR>
+<OBJECT_DESCR ITEM="3">
+<TITLE>
+<P>Rámcová zmluva na poskytovanie služieb prepravy cestujúcich po zemi; časť 3 – Kos</P>
+</TITLE>
+<LOT_NO>3</LOT_NO>
+<CPV_ADDITIONAL>
+<CPV_CODE CODE="60170000"/>
+</CPV_ADDITIONAL>
+<NUTS CODE="GR"/>
+<SHORT_DESCR>
+<P>Rámcová zmluva na poskytovanie služieb prepravy cestujúcich po zemi, autobusom. Časť 3 – Kos.</P>
+</SHORT_DESCR>
+<AC_PRICE/>
+<NO_OPTIONS/>
+<NO_EU_PROGR_RELATED/>
+</OBJECT_DESCR>
+</OBJECT_CONTRACT>
+<PROCEDURE>
+<PT_OPEN/>
+<ACCELERATED_PROC>
+<P>Frontex pri zvážení vysokého počtu readmisií, ktoré čakajú na vybavenie na úrovni členských štátov, musí prijať všetky potrebné kroky, ktorými sa zaistí, že členským štátom sa poskytne okamžitá podpora v záujme splnenia ich povinností.</P>
+</ACCELERATED_PROC>
+<FRAMEWORK/>
+<NO_CONTRACT_COVERED_GPA/>
+<NOTICE_NUMBER_OJ>2016/S 187-335100</NOTICE_NUMBER_OJ>
+</PROCEDURE>
+<AWARD_CONTRACT ITEM="1">
+<CONTRACT_NO>Frontex/OP/602/2016/Lot 1</CONTRACT_NO>
+<LOT_NO>1</LOT_NO>
+<TITLE>
+<P>Rámcová zmluva na poskytovanie služieb prepravy cestujúcich po zemi, autobusom; časť 1 – Lesbos</P>
+</TITLE>
+<AWARDED_CONTRACT>
+<DATE_CONCLUSION_CONTRACT>2016-12-06</DATE_CONCLUSION_CONTRACT>
+<NB_TENDERS_RECEIVED>1</NB_TENDERS_RECEIVED>
+<NO_AWARDED_TO_GROUP/>
+<CONTRACTOR>
+<ADDRESS_CONTRACTOR>
+<OFFICIALNAME>Vagia Tzislaki — Lesvorama General Travel Agency</OFFICIALNAME>
+<ADDRESS>M. Goutou 22, Lesvos</ADDRESS>
+<TOWN>Mithimna</TOWN>
+<POSTAL_CODE>811 08</POSTAL_CODE>
+<COUNTRY VALUE="GR"/>
+<NUTS CODE="GR"/>
+</ADDRESS_CONTRACTOR>
+<SME/>
+</CONTRACTOR>
+<VAL_ESTIMATED_TOTAL CURRENCY="EUR">150000.00</VAL_ESTIMATED_TOTAL>
+<VAL_TOTAL CURRENCY="EUR">150000.00</VAL_TOTAL>
+</AWARDED_CONTRACT>
+</AWARD_CONTRACT>
+<AWARD_CONTRACT ITEM="2">
+<CONTRACT_NO>Frontex/OP/602/2016/Lot 2</CONTRACT_NO>
+<LOT_NO>2</LOT_NO>
+<TITLE>
+<P>Rámcová zmluva na poskytovanie služieb prepravy cestujúcich po zemi, autobusom; časť 2 – Chios</P>
+</TITLE>
+<AWARDED_CONTRACT>
+<DATE_CONCLUSION_CONTRACT>2016-12-06</DATE_CONCLUSION_CONTRACT>
+<NB_TENDERS_RECEIVED>1</NB_TENDERS_RECEIVED>
+<NO_AWARDED_TO_GROUP/>
+<CONTRACTOR>
+<ADDRESS_CONTRACTOR>
+<OFFICIALNAME>Vagia Tzislaki — Lesvorama General Travel Agency</OFFICIALNAME>
+<ADDRESS>M. Goutou 22, Lesvos</ADDRESS>
+<TOWN>Mithimna</TOWN>
+<POSTAL_CODE>811 08</POSTAL_CODE>
+<COUNTRY VALUE="GR"/>
+<NUTS CODE="GR"/>
+</ADDRESS_CONTRACTOR>
+<SME/>
+</CONTRACTOR>
+<VAL_ESTIMATED_TOTAL CURRENCY="EUR">150000.00</VAL_ESTIMATED_TOTAL>
+<VAL_TOTAL CURRENCY="EUR">150000.00</VAL_TOTAL>
+</AWARDED_CONTRACT>
+</AWARD_CONTRACT>
+<AWARD_CONTRACT ITEM="3">
+<CONTRACT_NO>Frontex/OP/602/2016.</CONTRACT_NO>
+<LOT_NO>3</LOT_NO>
+<TITLE>
+<P>Rámcová zmluva na poskytovanie služieb prepravy cestujúcich po zemi, autobusom; časť 3 – Kos</P>
+</TITLE>
+<NO_AWARDED_CONTRACT>
+<PROCUREMENT_UNSUCCESSFUL/>
+</NO_AWARDED_CONTRACT>
+</AWARD_CONTRACT>
+<COMPLEMENTARY_INFO>
+<ADDRESS_REVIEW_BODY>
+<OFFICIALNAME>Všeobecný súd</OFFICIALNAME>
+<ADDRESS>rue du Fort Niedergrünewald</ADDRESS>
+<TOWN>Luxembourg</TOWN>
+<POSTAL_CODE>2925</POSTAL_CODE>
+<COUNTRY VALUE="LU"/>
+<PHONE>+352 4303-1</PHONE>
+<E_MAIL>cfi.registry@curia.europa.eu</E_MAIL>
+<FAX>+352 4303-2100</FAX>
+<URL>http://curia.europa.eu/</URL>
+</ADDRESS_REVIEW_BODY>
+<DATE_DISPATCH_NOTICE>2016-12-22</DATE_DISPATCH_NOTICE>
+</COMPLEMENTARY_INFO>
+</F03_2014>
+<F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="SL">
+<CONTRACTING_BODY>
+<ADDRESS_CONTRACTING_BODY>
+<OFFICIALNAME>Frontex</OFFICIALNAME>
+<ADDRESS>Plac Europejski 6</ADDRESS>
+<TOWN>Warsaw</TOWN>
+<POSTAL_CODE>00-844</POSTAL_CODE>
+<COUNTRY VALUE="PL"/>
+<PHONE>+48 222059500</PHONE>
+<E_MAIL>procurement@frontex.europa.eu</E_MAIL>
+<FAX>+48 222059501</FAX>
+<NUTS CODE="PL"/>
+<URL_GENERAL>http://www.frontex.europa.eu</URL_GENERAL>
+</ADDRESS_CONTRACTING_BODY>
+<CA_TYPE VALUE="EU_INSTITUTION"/>
+<CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+</CONTRACTING_BODY>
+<OBJECT_CONTRACT>
+<TITLE>
+<P>Okvirno naročilo za zagotavljanje storitev potniškega prometa po kopnem; sklop 1 – Lezbos; sklop 2 – Hios; sklop 3 – Kos.</P>
+</TITLE>
+<REFERENCE_NUMBER>FRONTEX/OP/602/2016/KM.</REFERENCE_NUMBER>
+<CPV_MAIN>
+<CPV_CODE CODE="60170000"/>
+</CPV_MAIN>
+<TYPE_CONTRACT CTYPE="SERVICES"/>
+<SHORT_DESCR>
+<P>Okvirno naročilo za zagotavljanje storitev potniškega prometa po kopnem.</P>
+</SHORT_DESCR>
+<VAL_TOTAL CURRENCY="EUR">450000.00</VAL_TOTAL>
+<LOT_DIVISION/>
+<OBJECT_DESCR ITEM="1">
+<TITLE>
+<P>Okvirno naročilo za zagotavljanje storitev potniškega prometa po kopnem, z avtobusom; sklop 1 – Lezbos</P>
+</TITLE>
+<LOT_NO>1</LOT_NO>
+<CPV_ADDITIONAL>
+<CPV_CODE CODE="60170000"/>
+</CPV_ADDITIONAL>
+<NUTS CODE="GR"/>
+<SHORT_DESCR>
+<P>Zagotavljanje storitev avtobusnega potniškega prometa v Grčiji – otok Lezbos.</P>
+</SHORT_DESCR>
+<AC_PRICE/>
+<NO_OPTIONS/>
+<NO_EU_PROGR_RELATED/>
+</OBJECT_DESCR>
+<OBJECT_DESCR ITEM="2">
+<TITLE>
+<P>Okvirno naročilo za zagotavljanje storitev potniškega prometa po kopnem, z avtobusom; sklop 2 – Hios</P>
+</TITLE>
+<LOT_NO>2</LOT_NO>
+<CPV_ADDITIONAL>
+<CPV_CODE CODE="60170000"/>
+</CPV_ADDITIONAL>
+<NUTS CODE="GR"/>
+<SHORT_DESCR>
+<P>Zagotavljanje storitev avtobusnega potniškega prometa v Grčiji – otok Hios.</P>
+</SHORT_DESCR>
+<AC_PRICE/>
+<NO_OPTIONS/>
+<NO_EU_PROGR_RELATED/>
+</OBJECT_DESCR>
+<OBJECT_DESCR ITEM="3">
+<TITLE>
+<P>Okvirno naročilo za zagotavljanje storitev potniškega prometa po kopnem; sklop 3 – Kos</P>
+</TITLE>
+<LOT_NO>3</LOT_NO>
+<CPV_ADDITIONAL>
+<CPV_CODE CODE="60170000"/>
+</CPV_ADDITIONAL>
+<NUTS CODE="GR"/>
+<SHORT_DESCR>
+<P>Okvirno naročilo za zagotavljanje storitev potniškega prometa po kopnem, z avtobusom. Sklop 3 – Kos.</P>
+</SHORT_DESCR>
+<AC_PRICE/>
+<NO_OPTIONS/>
+<NO_EU_PROGR_RELATED/>
+</OBJECT_DESCR>
+</OBJECT_CONTRACT>
+<PROCEDURE>
+<PT_OPEN/>
+<ACCELERATED_PROC>
+<P>Glede na veliko število nedokončanih ponovnih sprejemov na ravni držav članic mora Frontex sprejeti vse potrebne ukrepe za zagotovitev takojšnje podpore za države članice pri izpolnjevanju njihovih obveznosti.</P>
+</ACCELERATED_PROC>
+<FRAMEWORK/>
+<NO_CONTRACT_COVERED_GPA/>
+<NOTICE_NUMBER_OJ>2016/S 187-335100</NOTICE_NUMBER_OJ>
+</PROCEDURE>
+<AWARD_CONTRACT ITEM="1">
+<CONTRACT_NO>Frontex/OP/602/2016/Lot 1</CONTRACT_NO>
+<LOT_NO>1</LOT_NO>
+<TITLE>
+<P>Okvirno naročilo za zagotavljanje storitev potniškega prometa po kopnem, z avtobusom; sklop 1 – Lezbos</P>
+</TITLE>
+<AWARDED_CONTRACT>
+<DATE_CONCLUSION_CONTRACT>2016-12-06</DATE_CONCLUSION_CONTRACT>
+<NB_TENDERS_RECEIVED>1</NB_TENDERS_RECEIVED>
+<NO_AWARDED_TO_GROUP/>
+<CONTRACTOR>
+<ADDRESS_CONTRACTOR>
+<OFFICIALNAME>Vagia Tzislaki — Lesvorama General Travel Agency</OFFICIALNAME>
+<ADDRESS>M. Goutou 22, Lesvos</ADDRESS>
+<TOWN>Mithimna</TOWN>
+<POSTAL_CODE>811 08</POSTAL_CODE>
+<COUNTRY VALUE="GR"/>
+<NUTS CODE="GR"/>
+</ADDRESS_CONTRACTOR>
+<SME/>
+</CONTRACTOR>
+<VAL_ESTIMATED_TOTAL CURRENCY="EUR">150000.00</VAL_ESTIMATED_TOTAL>
+<VAL_TOTAL CURRENCY="EUR">150000.00</VAL_TOTAL>
+</AWARDED_CONTRACT>
+</AWARD_CONTRACT>
+<AWARD_CONTRACT ITEM="2">
+<CONTRACT_NO>Frontex/OP/602/2016/Lot 2</CONTRACT_NO>
+<LOT_NO>2</LOT_NO>
+<TITLE>
+<P>Okvirno naročilo za zagotavljanje storitev potniškega prometa po kopnem, z avtobusom; sklop 2 – Hios</P>
+</TITLE>
+<AWARDED_CONTRACT>
+<DATE_CONCLUSION_CONTRACT>2016-12-06</DATE_CONCLUSION_CONTRACT>
+<NB_TENDERS_RECEIVED>1</NB_TENDERS_RECEIVED>
+<NO_AWARDED_TO_GROUP/>
+<CONTRACTOR>
+<ADDRESS_CONTRACTOR>
+<OFFICIALNAME>Vagia Tzislaki — Lesvorama General Travel Agency</OFFICIALNAME>
+<ADDRESS>M. Goutou 22, Lesvos</ADDRESS>
+<TOWN>Mithimna</TOWN>
+<POSTAL_CODE>811 08</POSTAL_CODE>
+<COUNTRY VALUE="GR"/>
+<NUTS CODE="GR"/>
+</ADDRESS_CONTRACTOR>
+<SME/>
+</CONTRACTOR>
+<VAL_ESTIMATED_TOTAL CURRENCY="EUR">150000.00</VAL_ESTIMATED_TOTAL>
+<VAL_TOTAL CURRENCY="EUR">150000.00</VAL_TOTAL>
+</AWARDED_CONTRACT>
+</AWARD_CONTRACT>
+<AWARD_CONTRACT ITEM="3">
+<CONTRACT_NO>Frontex/OP/602/2016.</CONTRACT_NO>
+<LOT_NO>3</LOT_NO>
+<TITLE>
+<P>Okvirno naročilo za zagotavljanje storitev potniškega prometa po kopnem, z avtobusom; sklop 3 – Kos</P>
+</TITLE>
+<NO_AWARDED_CONTRACT>
+<PROCUREMENT_UNSUCCESSFUL/>
+</NO_AWARDED_CONTRACT>
+</AWARD_CONTRACT>
+<COMPLEMENTARY_INFO>
+<ADDRESS_REVIEW_BODY>
+<OFFICIALNAME>Splošno sodišče</OFFICIALNAME>
+<ADDRESS>rue du Fort Niedergrünewald</ADDRESS>
+<TOWN>Luxembourg</TOWN>
+<POSTAL_CODE>2925</POSTAL_CODE>
+<COUNTRY VALUE="LU"/>
+<PHONE>+352 4303-1</PHONE>
+<E_MAIL>cfi.registry@curia.europa.eu</E_MAIL>
+<FAX>+352 4303-2100</FAX>
+<URL>http://curia.europa.eu/</URL>
+</ADDRESS_REVIEW_BODY>
+<DATE_DISPATCH_NOTICE>2016-12-22</DATE_DISPATCH_NOTICE>
+</COMPLEMENTARY_INFO>
+</F03_2014>
+<F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="GA">
+<CONTRACTING_BODY>
+<ADDRESS_CONTRACTING_BODY>
+<OFFICIALNAME>Frontex</OFFICIALNAME>
+<ADDRESS>Plac Europejski 6</ADDRESS>
+<TOWN>Warsaw</TOWN>
+<POSTAL_CODE>00-844</POSTAL_CODE>
+<COUNTRY VALUE="PL"/>
+<PHONE>+48 222059500</PHONE>
+<E_MAIL>procurement@frontex.europa.eu</E_MAIL>
+<FAX>+48 222059501</FAX>
+<NUTS CODE="PL"/>
+<URL_GENERAL>http://www.frontex.europa.eu</URL_GENERAL>
+</ADDRESS_CONTRACTING_BODY>
+<CA_TYPE VALUE="EU_INSTITUTION"/>
+<CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+</CONTRACTING_BODY>
+<OBJECT_CONTRACT>
+<TITLE>
+<P>Conradh creatlaí le haghaidh seirbhísí aistrithe paisinéirí ar talamh a sholáthar; beart 1 — Lesvos; beart 2 — Chios; beart 3 — Kos.</P>
+</TITLE>
+<REFERENCE_NUMBER>FRONTEX/OP/602/2016/KM.</REFERENCE_NUMBER>
+<CPV_MAIN>
+<CPV_CODE CODE="60170000"/>
+</CPV_MAIN>
+<TYPE_CONTRACT CTYPE="SERVICES"/>
+<SHORT_DESCR>
+<P>Conradh creatlaí le haghaidh seirbhísí aistrithe paisinéirí ar talamh a sholáthar.</P>
+</SHORT_DESCR>
+<VAL_TOTAL CURRENCY="EUR">450000.00</VAL_TOTAL>
+<LOT_DIVISION/>
+<OBJECT_DESCR ITEM="1">
+<TITLE>
+<P>Conradh creatlaí le haghaidh seirbhísí aistrithe paisinéirí ar talamh, ar an mbus, a sholáthar; beart 1 — Lesvos</P>
+</TITLE>
+<LOT_NO>1</LOT_NO>
+<CPV_ADDITIONAL>
+<CPV_CODE CODE="60170000"/>
+</CPV_ADDITIONAL>
+<NUTS CODE="GR"/>
+<SHORT_DESCR>
+<P>Seirbhísí aistrithe paisinéirí ar an mbus a sholáthar sa Ghréig — oileán Lesvos.</P>
+</SHORT_DESCR>
+<AC_PRICE/>
+<NO_OPTIONS/>
+<NO_EU_PROGR_RELATED/>
+</OBJECT_DESCR>
+<OBJECT_DESCR ITEM="2">
+<TITLE>
+<P>Conradh creatlaí le haghaidh seirbhísí aistrithe paisinéirí ar talamh, ar an mbus, a sholáthar; beart 2 — Chios</P>
+</TITLE>
+<LOT_NO>2</LOT_NO>
+<CPV_ADDITIONAL>
+<CPV_CODE CODE="60170000"/>
+</CPV_ADDITIONAL>
+<NUTS CODE="GR"/>
+<SHORT_DESCR>
+<P>Seirbhísí aistrithe paisinéirí ar an mbus a sholáthar sa Ghréig, oileán Chios.</P>
+</SHORT_DESCR>
+<AC_PRICE/>
+<NO_OPTIONS/>
+<NO_EU_PROGR_RELATED/>
+</OBJECT_DESCR>
+<OBJECT_DESCR ITEM="3">
+<TITLE>
+<P>Conradh creatlaí le haghaidh seirbhísí aistrithe paisinéirí ar talamh a sholáthar; beart 3 — Kos</P>
+</TITLE>
+<LOT_NO>3</LOT_NO>
+<CPV_ADDITIONAL>
+<CPV_CODE CODE="60170000"/>
+</CPV_ADDITIONAL>
+<NUTS CODE="GR"/>
+<SHORT_DESCR>
+<P>Conradh creatlaí le haghaidh seirbhísí aistrithe paisinéirí ar talamh, ar an mbus, a sholáthar. Beart 3 — Kos.</P>
+</SHORT_DESCR>
+<AC_PRICE/>
+<NO_OPTIONS/>
+<NO_EU_PROGR_RELATED/>
+</OBJECT_DESCR>
+</OBJECT_CONTRACT>
+<PROCEDURE>
+<PT_OPEN/>
+<ACCELERATED_PROC>
+<P>Ag féachaint do líon mór na n-athcheaduithe isteach ar leibhéal na mBallstát, teastaíonn ó Frontex na céimeanna riachtanacha uile a ghlacadh chun a chinntiú go soláthraítear tacaíocht láithreach do na Ballstáit chun a gcuid oibleagáidí a chomhlíonadh.</P>
+</ACCELERATED_PROC>
+<FRAMEWORK/>
+<NO_CONTRACT_COVERED_GPA/>
+<NOTICE_NUMBER_OJ>2016/S 187-335100</NOTICE_NUMBER_OJ>
+</PROCEDURE>
+<AWARD_CONTRACT ITEM="1">
+<CONTRACT_NO>Frontex/OP/602/2016/Lot 1</CONTRACT_NO>
+<LOT_NO>1</LOT_NO>
+<TITLE>
+<P>Conradh creatlaí le haghaidh seirbhísí aistrithe paisinéirí ar talamh, ar an mbus, a sholáthar; beart 1 — Lesvos</P>
+</TITLE>
+<AWARDED_CONTRACT>
+<DATE_CONCLUSION_CONTRACT>2016-12-06</DATE_CONCLUSION_CONTRACT>
+<NB_TENDERS_RECEIVED>1</NB_TENDERS_RECEIVED>
+<NO_AWARDED_TO_GROUP/>
+<CONTRACTOR>
+<ADDRESS_CONTRACTOR>
+<OFFICIALNAME>Vagia Tzislaki — Lesvorama General Travel Agency</OFFICIALNAME>
+<ADDRESS>M. Goutou 22, Lesvos</ADDRESS>
+<TOWN>Mithimna</TOWN>
+<POSTAL_CODE>811 08</POSTAL_CODE>
+<COUNTRY VALUE="GR"/>
+<NUTS CODE="GR"/>
+</ADDRESS_CONTRACTOR>
+<SME/>
+</CONTRACTOR>
+<VAL_ESTIMATED_TOTAL CURRENCY="EUR">150000.00</VAL_ESTIMATED_TOTAL>
+<VAL_TOTAL CURRENCY="EUR">150000.00</VAL_TOTAL>
+</AWARDED_CONTRACT>
+</AWARD_CONTRACT>
+<AWARD_CONTRACT ITEM="2">
+<CONTRACT_NO>Frontex/OP/602/2016/Lot 2</CONTRACT_NO>
+<LOT_NO>2</LOT_NO>
+<TITLE>
+<P>Conradh creatlaí le haghaidh seirbhísí aistrithe paisinéirí ar talamh, ar an mbus, a sholáthar; beart 2 — Chios</P>
+</TITLE>
+<AWARDED_CONTRACT>
+<DATE_CONCLUSION_CONTRACT>2016-12-06</DATE_CONCLUSION_CONTRACT>
+<NB_TENDERS_RECEIVED>1</NB_TENDERS_RECEIVED>
+<NO_AWARDED_TO_GROUP/>
+<CONTRACTOR>
+<ADDRESS_CONTRACTOR>
+<OFFICIALNAME>Vagia Tzislaki — Lesvorama General Travel Agency</OFFICIALNAME>
+<ADDRESS>M. Goutou 22, Lesvos</ADDRESS>
+<TOWN>Mithimna</TOWN>
+<POSTAL_CODE>811 08</POSTAL_CODE>
+<COUNTRY VALUE="GR"/>
+<NUTS CODE="GR"/>
+</ADDRESS_CONTRACTOR>
+<SME/>
+</CONTRACTOR>
+<VAL_ESTIMATED_TOTAL CURRENCY="EUR">150000.00</VAL_ESTIMATED_TOTAL>
+<VAL_TOTAL CURRENCY="EUR">150000.00</VAL_TOTAL>
+</AWARDED_CONTRACT>
+</AWARD_CONTRACT>
+<AWARD_CONTRACT ITEM="3">
+<CONTRACT_NO>Frontex/OP/602/2016.</CONTRACT_NO>
+<LOT_NO>3</LOT_NO>
+<TITLE>
+<P>Conradh creatlaí le haghaidh seirbhísí aistrithe paisinéirí ar talamh, ar an mbus, a sholáthar; beart 3 — Kos</P>
+</TITLE>
+<NO_AWARDED_CONTRACT>
+<PROCUREMENT_UNSUCCESSFUL/>
+</NO_AWARDED_CONTRACT>
+</AWARD_CONTRACT>
+<COMPLEMENTARY_INFO>
+<ADDRESS_REVIEW_BODY>
+<OFFICIALNAME>An Chúirt Ghinearálta</OFFICIALNAME>
+<ADDRESS>rue du Fort Niedergrünewald</ADDRESS>
+<TOWN>Luxembourg</TOWN>
+<POSTAL_CODE>2925</POSTAL_CODE>
+<COUNTRY VALUE="LU"/>
+<PHONE>+352 4303-1</PHONE>
+<E_MAIL>cfi.registry@curia.europa.eu</E_MAIL>
+<FAX>+352 4303-2100</FAX>
+<URL>http://curia.europa.eu/</URL>
+</ADDRESS_REVIEW_BODY>
+<DATE_DISPATCH_NOTICE>2016-12-22</DATE_DISPATCH_NOTICE>
+</COMPLEMENTARY_INFO>
+</F03_2014>
+<F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="BG">
+<CONTRACTING_BODY>
+<ADDRESS_CONTRACTING_BODY>
+<OFFICIALNAME>Frontex</OFFICIALNAME>
+<ADDRESS>Plac Europejski 6</ADDRESS>
+<TOWN>Warsaw</TOWN>
+<POSTAL_CODE>00-844</POSTAL_CODE>
+<COUNTRY VALUE="PL"/>
+<PHONE>+48 222059500</PHONE>
+<E_MAIL>procurement@frontex.europa.eu</E_MAIL>
+<FAX>+48 222059501</FAX>
+<NUTS CODE="PL"/>
+<URL_GENERAL>http://www.frontex.europa.eu</URL_GENERAL>
+</ADDRESS_CONTRACTING_BODY>
+<CA_TYPE VALUE="EU_INSTITUTION"/>
+<CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+</CONTRACTING_BODY>
+<OBJECT_CONTRACT>
+<TITLE>
+<P>Рамков договор за осигуряване на услуги по трансфер на пътници по земя, партида 1 – Лесбос; партида 2 – Хиос; партида 3 – Кос.</P>
+</TITLE>
+<REFERENCE_NUMBER>FRONTEX/OP/602/2016/KM.</REFERENCE_NUMBER>
+<CPV_MAIN>
+<CPV_CODE CODE="60170000"/>
+</CPV_MAIN>
+<TYPE_CONTRACT CTYPE="SERVICES"/>
+<SHORT_DESCR>
+<P>Рамков договор за осигуряване на услуги по трансфер на пътници по земя.</P>
+</SHORT_DESCR>
+<VAL_TOTAL CURRENCY="EUR">450000.00</VAL_TOTAL>
+<LOT_DIVISION/>
+<OBJECT_DESCR ITEM="1">
+<TITLE>
+<P>Рамков договор за осигуряване на услуги по трансфер на пътници по земя, с автобус; партида 1 – Лесбос</P>
+</TITLE>
+<LOT_NO>1</LOT_NO>
+<CPV_ADDITIONAL>
+<CPV_CODE CODE="60170000"/>
+</CPV_ADDITIONAL>
+<NUTS CODE="GR"/>
+<SHORT_DESCR>
+<P>Осигуряване на услуги по трансфер на пътници с автобус в Гърция – остров Лесбос.</P>
+</SHORT_DESCR>
+<AC_PRICE/>
+<NO_OPTIONS/>
+<NO_EU_PROGR_RELATED/>
+</OBJECT_DESCR>
+<OBJECT_DESCR ITEM="2">
+<TITLE>
+<P>Рамков договор за осигуряване на услуги по трансфер на пътници по земя, с автобус; партида 2 – Хиос</P>
+</TITLE>
+<LOT_NO>2</LOT_NO>
+<CPV_ADDITIONAL>
+<CPV_CODE CODE="60170000"/>
+</CPV_ADDITIONAL>
+<NUTS CODE="GR"/>
+<SHORT_DESCR>
+<P>Осигуряване на пътнически услуги с автобус в Гърция, остров Хиос.</P>
+</SHORT_DESCR>
+<AC_PRICE/>
+<NO_OPTIONS/>
+<NO_EU_PROGR_RELATED/>
+</OBJECT_DESCR>
+<OBJECT_DESCR ITEM="3">
+<TITLE>
+<P>Рамков договор за осигуряване на услуги по трансфер на пътници по земя; партида 3 – Кос</P>
+</TITLE>
+<LOT_NO>3</LOT_NO>
+<CPV_ADDITIONAL>
+<CPV_CODE CODE="60170000"/>
+</CPV_ADDITIONAL>
+<NUTS CODE="GR"/>
+<SHORT_DESCR>
+<P>Рамков договор за осигуряване на услуги по трансфер на пътници по земя; с автобус. Партида 3 – Кос.</P>
+</SHORT_DESCR>
+<AC_PRICE/>
+<NO_OPTIONS/>
+<NO_EU_PROGR_RELATED/>
+</OBJECT_DESCR>
+</OBJECT_CONTRACT>
+<PROCEDURE>
+<PT_OPEN/>
+<ACCELERATED_PROC>
+<P>Като се отчита големият брой обратни приемания в процес на разглеждане на ниво държави-членки, Frontex трябва да предприеме всички необходими стъпки, за да гарантира, че е предоставена незабавна подкрепа на държавите-членки, за да изпълнят своите задължения.</P>
+</ACCELERATED_PROC>
+<FRAMEWORK/>
+<NO_CONTRACT_COVERED_GPA/>
+<NOTICE_NUMBER_OJ>2016/S 187-335100</NOTICE_NUMBER_OJ>
+</PROCEDURE>
+<AWARD_CONTRACT ITEM="1">
+<CONTRACT_NO>Frontex/OP/602/2016/Lot 1</CONTRACT_NO>
+<LOT_NO>1</LOT_NO>
+<TITLE>
+<P>Рамков договор за осигуряване на услуги по трансфер на пътници по земя, с автобус; партида 1 – Лесбос</P>
+</TITLE>
+<AWARDED_CONTRACT>
+<DATE_CONCLUSION_CONTRACT>2016-12-06</DATE_CONCLUSION_CONTRACT>
+<NB_TENDERS_RECEIVED>1</NB_TENDERS_RECEIVED>
+<NO_AWARDED_TO_GROUP/>
+<CONTRACTOR>
+<ADDRESS_CONTRACTOR>
+<OFFICIALNAME>Vagia Tzislaki — Lesvorama General Travel Agency</OFFICIALNAME>
+<ADDRESS>M. Goutou 22, Lesvos</ADDRESS>
+<TOWN>Mithimna</TOWN>
+<POSTAL_CODE>811 08</POSTAL_CODE>
+<COUNTRY VALUE="GR"/>
+<NUTS CODE="GR"/>
+</ADDRESS_CONTRACTOR>
+<SME/>
+</CONTRACTOR>
+<VAL_ESTIMATED_TOTAL CURRENCY="EUR">150000.00</VAL_ESTIMATED_TOTAL>
+<VAL_TOTAL CURRENCY="EUR">150000.00</VAL_TOTAL>
+</AWARDED_CONTRACT>
+</AWARD_CONTRACT>
+<AWARD_CONTRACT ITEM="2">
+<CONTRACT_NO>Frontex/OP/602/2016/Lot 2</CONTRACT_NO>
+<LOT_NO>2</LOT_NO>
+<TITLE>
+<P>Рамков договор за осигуряване на услуги по трансфер на пътници по земя, с автобус; партида 2 – Хиос</P>
+</TITLE>
+<AWARDED_CONTRACT>
+<DATE_CONCLUSION_CONTRACT>2016-12-06</DATE_CONCLUSION_CONTRACT>
+<NB_TENDERS_RECEIVED>1</NB_TENDERS_RECEIVED>
+<NO_AWARDED_TO_GROUP/>
+<CONTRACTOR>
+<ADDRESS_CONTRACTOR>
+<OFFICIALNAME>Vagia Tzislaki — Lesvorama General Travel Agency</OFFICIALNAME>
+<ADDRESS>M. Goutou 22, Lesvos</ADDRESS>
+<TOWN>Mithimna</TOWN>
+<POSTAL_CODE>811 08</POSTAL_CODE>
+<COUNTRY VALUE="GR"/>
+<NUTS CODE="GR"/>
+</ADDRESS_CONTRACTOR>
+<SME/>
+</CONTRACTOR>
+<VAL_ESTIMATED_TOTAL CURRENCY="EUR">150000.00</VAL_ESTIMATED_TOTAL>
+<VAL_TOTAL CURRENCY="EUR">150000.00</VAL_TOTAL>
+</AWARDED_CONTRACT>
+</AWARD_CONTRACT>
+<AWARD_CONTRACT ITEM="3">
+<CONTRACT_NO>Frontex/OP/602/2016.</CONTRACT_NO>
+<LOT_NO>3</LOT_NO>
+<TITLE>
+<P>Рамков договор за осигуряване на услуги по трансфер на пътници по земя, с автобус; партида 3 – Кос</P>
+</TITLE>
+<NO_AWARDED_CONTRACT>
+<PROCUREMENT_UNSUCCESSFUL/>
+</NO_AWARDED_CONTRACT>
+</AWARD_CONTRACT>
+<COMPLEMENTARY_INFO>
+<ADDRESS_REVIEW_BODY>
+<OFFICIALNAME>Общ съд</OFFICIALNAME>
+<ADDRESS>rue du Fort Niedergrünewald</ADDRESS>
+<TOWN>Luxembourg</TOWN>
+<POSTAL_CODE>2925</POSTAL_CODE>
+<COUNTRY VALUE="LU"/>
+<PHONE>+352 4303-1</PHONE>
+<E_MAIL>cfi.registry@curia.europa.eu</E_MAIL>
+<FAX>+352 4303-2100</FAX>
+<URL>http://curia.europa.eu/</URL>
+</ADDRESS_REVIEW_BODY>
+<DATE_DISPATCH_NOTICE>2016-12-22</DATE_DISPATCH_NOTICE>
+</COMPLEMENTARY_INFO>
+</F03_2014>
+<F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="RO">
+<CONTRACTING_BODY>
+<ADDRESS_CONTRACTING_BODY>
+<OFFICIALNAME>Frontex</OFFICIALNAME>
+<ADDRESS>Plac Europejski 6</ADDRESS>
+<TOWN>Warsaw</TOWN>
+<POSTAL_CODE>00-844</POSTAL_CODE>
+<COUNTRY VALUE="PL"/>
+<PHONE>+48 222059500</PHONE>
+<E_MAIL>procurement@frontex.europa.eu</E_MAIL>
+<FAX>+48 222059501</FAX>
+<NUTS CODE="PL"/>
+<URL_GENERAL>http://www.frontex.europa.eu</URL_GENERAL>
+</ADDRESS_CONTRACTING_BODY>
+<CA_TYPE VALUE="EU_INSTITUTION"/>
+<CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+</CONTRACTING_BODY>
+<OBJECT_CONTRACT>
+<TITLE>
+<P>Contract-cadru pentru prestarea de servicii de transport terestru de pasageri; lotul 1 – Lesbos; lotul 2 – Chios; lotul 3 – Kos.</P>
+</TITLE>
+<REFERENCE_NUMBER>FRONTEX/OP/602/2016/KM.</REFERENCE_NUMBER>
+<CPV_MAIN>
+<CPV_CODE CODE="60170000"/>
+</CPV_MAIN>
+<TYPE_CONTRACT CTYPE="SERVICES"/>
+<SHORT_DESCR>
+<P>Contract-cadru pentru prestarea de servicii de transport terestru de pasageri.</P>
+</SHORT_DESCR>
+<VAL_TOTAL CURRENCY="EUR">450000.00</VAL_TOTAL>
+<LOT_DIVISION/>
+<OBJECT_DESCR ITEM="1">
+<TITLE>
+<P>Contract-cadru pentru prestarea de servicii de transport terestru de pasageri cu autobuzul; lotul 1 – Lesbos</P>
+</TITLE>
+<LOT_NO>1</LOT_NO>
+<CPV_ADDITIONAL>
+<CPV_CODE CODE="60170000"/>
+</CPV_ADDITIONAL>
+<NUTS CODE="GR"/>
+<SHORT_DESCR>
+<P>Prestare de servicii de transport terestru de pasageri cu autobuzul în Grecia – insula Lesbos.</P>
+</SHORT_DESCR>
+<AC_PRICE/>
+<NO_OPTIONS/>
+<NO_EU_PROGR_RELATED/>
+</OBJECT_DESCR>
+<OBJECT_DESCR ITEM="2">
+<TITLE>
+<P>Contract-cadru pentru prestarea de servicii de transport terestru de pasageri cu autobuzul; lotul 2 – Chios</P>
+</TITLE>
+<LOT_NO>2</LOT_NO>
+<CPV_ADDITIONAL>
+<CPV_CODE CODE="60170000"/>
+</CPV_ADDITIONAL>
+<NUTS CODE="GR"/>
+<SHORT_DESCR>
+<P>Prestare de servicii de transport de pasageri cu autobuzul în Grecia, insula Chios.</P>
+</SHORT_DESCR>
+<AC_PRICE/>
+<NO_OPTIONS/>
+<NO_EU_PROGR_RELATED/>
+</OBJECT_DESCR>
+<OBJECT_DESCR ITEM="3">
+<TITLE>
+<P>Contract-cadru pentru prestarea de servicii de transport terestru de pasageri; lotul 3 – Kos</P>
+</TITLE>
+<LOT_NO>3</LOT_NO>
+<CPV_ADDITIONAL>
+<CPV_CODE CODE="60170000"/>
+</CPV_ADDITIONAL>
+<NUTS CODE="GR"/>
+<SHORT_DESCR>
+<P>Contract-cadru pentru prestarea de servicii de transport terestru de pasageri cu autobuzul; lotul 3 – Kos.</P>
+</SHORT_DESCR>
+<AC_PRICE/>
+<NO_OPTIONS/>
+<NO_EU_PROGR_RELATED/>
+</OBJECT_DESCR>
+</OBJECT_CONTRACT>
+<PROCEDURE>
+<PT_OPEN/>
+<ACCELERATED_PROC>
+<P>Având în vedere numărul ridicat de readmisii în așteptare la nivelul statelor membre, Frontex trebuie să ia toate măsurile necesare pentru a asigura că se acordă sprijin imediat statelor membre pentru îndeplinirea obligațiilor acestora.</P>
+</ACCELERATED_PROC>
+<FRAMEWORK/>
+<NO_CONTRACT_COVERED_GPA/>
+<NOTICE_NUMBER_OJ>2016/S 187-335100</NOTICE_NUMBER_OJ>
+</PROCEDURE>
+<AWARD_CONTRACT ITEM="1">
+<CONTRACT_NO>Frontex/OP/602/2016/Lot 1</CONTRACT_NO>
+<LOT_NO>1</LOT_NO>
+<TITLE>
+<P>Contract-cadru pentru prestarea de servicii de transport terestru de pasageri cu autobuzul; lotul 1 – Lesbos</P>
+</TITLE>
+<AWARDED_CONTRACT>
+<DATE_CONCLUSION_CONTRACT>2016-12-06</DATE_CONCLUSION_CONTRACT>
+<NB_TENDERS_RECEIVED>1</NB_TENDERS_RECEIVED>
+<NO_AWARDED_TO_GROUP/>
+<CONTRACTOR>
+<ADDRESS_CONTRACTOR>
+<OFFICIALNAME>Vagia Tzislaki — Lesvorama General Travel Agency</OFFICIALNAME>
+<ADDRESS>M. Goutou 22, Lesvos</ADDRESS>
+<TOWN>Mithimna</TOWN>
+<POSTAL_CODE>811 08</POSTAL_CODE>
+<COUNTRY VALUE="GR"/>
+<NUTS CODE="GR"/>
+</ADDRESS_CONTRACTOR>
+<SME/>
+</CONTRACTOR>
+<VAL_ESTIMATED_TOTAL CURRENCY="EUR">150000.00</VAL_ESTIMATED_TOTAL>
+<VAL_TOTAL CURRENCY="EUR">150000.00</VAL_TOTAL>
+</AWARDED_CONTRACT>
+</AWARD_CONTRACT>
+<AWARD_CONTRACT ITEM="2">
+<CONTRACT_NO>Frontex/OP/602/2016/Lot 2</CONTRACT_NO>
+<LOT_NO>2</LOT_NO>
+<TITLE>
+<P>Contract-cadru pentru prestarea de servicii de transport terestru de pasageri cu autobuzul; lotul 2 – Chios</P>
+</TITLE>
+<AWARDED_CONTRACT>
+<DATE_CONCLUSION_CONTRACT>2016-12-06</DATE_CONCLUSION_CONTRACT>
+<NB_TENDERS_RECEIVED>1</NB_TENDERS_RECEIVED>
+<NO_AWARDED_TO_GROUP/>
+<CONTRACTOR>
+<ADDRESS_CONTRACTOR>
+<OFFICIALNAME>Vagia Tzislaki — Lesvorama General Travel Agency</OFFICIALNAME>
+<ADDRESS>M. Goutou 22, Lesvos</ADDRESS>
+<TOWN>Mithimna</TOWN>
+<POSTAL_CODE>811 08</POSTAL_CODE>
+<COUNTRY VALUE="GR"/>
+<NUTS CODE="GR"/>
+</ADDRESS_CONTRACTOR>
+<SME/>
+</CONTRACTOR>
+<VAL_ESTIMATED_TOTAL CURRENCY="EUR">150000.00</VAL_ESTIMATED_TOTAL>
+<VAL_TOTAL CURRENCY="EUR">150000.00</VAL_TOTAL>
+</AWARDED_CONTRACT>
+</AWARD_CONTRACT>
+<AWARD_CONTRACT ITEM="3">
+<CONTRACT_NO>Frontex/OP/602/2016.</CONTRACT_NO>
+<LOT_NO>3</LOT_NO>
+<TITLE>
+<P>Contract-cadru pentru prestarea de servicii de transport terestru de pasageri cu autobuzul; lotul 3 – Kos</P>
+</TITLE>
+<NO_AWARDED_CONTRACT>
+<PROCUREMENT_UNSUCCESSFUL/>
+</NO_AWARDED_CONTRACT>
+</AWARD_CONTRACT>
+<COMPLEMENTARY_INFO>
+<ADDRESS_REVIEW_BODY>
+<OFFICIALNAME>Tribunalul</OFFICIALNAME>
+<ADDRESS>rue du Fort Niedergrünewald</ADDRESS>
+<TOWN>Luxembourg</TOWN>
+<POSTAL_CODE>2925</POSTAL_CODE>
+<COUNTRY VALUE="LU"/>
+<PHONE>+352 4303-1</PHONE>
+<E_MAIL>cfi.registry@curia.europa.eu</E_MAIL>
+<FAX>+352 4303-2100</FAX>
+<URL>http://curia.europa.eu/</URL>
+</ADDRESS_REVIEW_BODY>
+<DATE_DISPATCH_NOTICE>2016-12-22</DATE_DISPATCH_NOTICE>
+</COMPLEMENTARY_INFO>
+</F03_2014>
+<F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="HR">
+<CONTRACTING_BODY>
+<ADDRESS_CONTRACTING_BODY>
+<OFFICIALNAME>Frontex</OFFICIALNAME>
+<ADDRESS>Plac Europejski 6</ADDRESS>
+<TOWN>Warsaw</TOWN>
+<POSTAL_CODE>00-844</POSTAL_CODE>
+<COUNTRY VALUE="PL"/>
+<PHONE>+48 222059500</PHONE>
+<E_MAIL>procurement@frontex.europa.eu</E_MAIL>
+<FAX>+48 222059501</FAX>
+<NUTS CODE="PL"/>
+<URL_GENERAL>http://www.frontex.europa.eu</URL_GENERAL>
+</ADDRESS_CONTRACTING_BODY>
+<CA_TYPE VALUE="EU_INSTITUTION"/>
+<CA_ACTIVITY VALUE="GENERAL_PUBLIC_SERVICES"/>
+</CONTRACTING_BODY>
+<OBJECT_CONTRACT>
+<TITLE>
+<P>Okvirni ugovor za pružanje usluga prijevoza putnika kopnom; grupa 1 — Lesvos; grupa 2 — Chios; grupa 3 — Kos</P>
+</TITLE>
+<REFERENCE_NUMBER>FRONTEX/OP/602/2016/KM.</REFERENCE_NUMBER>
+<CPV_MAIN>
+<CPV_CODE CODE="60170000"/>
+</CPV_MAIN>
+<TYPE_CONTRACT CTYPE="SERVICES"/>
+<SHORT_DESCR>
+<P>Okvirni ugovor za pružanje usluga prijevoza putnika kopnom.</P>
+</SHORT_DESCR>
+<VAL_TOTAL CURRENCY="EUR">450000.00</VAL_TOTAL>
+<LOT_DIVISION/>
+<OBJECT_DESCR ITEM="1">
+<TITLE>
+<P>Okvirni ugovor za pružanje usluga prijevoza putnika kopnom, autobusom; grupa 1 — Lesvos</P>
+</TITLE>
+<LOT_NO>1</LOT_NO>
+<CPV_ADDITIONAL>
+<CPV_CODE CODE="60170000"/>
+</CPV_ADDITIONAL>
+<NUTS CODE="GR"/>
+<SHORT_DESCR>
+<P>Pružanje usluga prijevoza putnika autobusom u Grčkoj — otok Lesvos.</P>
+</SHORT_DESCR>
+<AC_PRICE/>
+<NO_OPTIONS/>
+<NO_EU_PROGR_RELATED/>
+</OBJECT_DESCR>
+<OBJECT_DESCR ITEM="2">
+<TITLE>
+<P>Okvirni ugovor za pružanje usluga prijevoza putnika kopnom, autobusom; grupa 2 — Chios</P>
+</TITLE>
+<LOT_NO>2</LOT_NO>
+<CPV_ADDITIONAL>
+<CPV_CODE CODE="60170000"/>
+</CPV_ADDITIONAL>
+<NUTS CODE="GR"/>
+<SHORT_DESCR>
+<P>Pružanje usluga prijevoza putnika autobusom u Grčkoj, otok Chios.</P>
+</SHORT_DESCR>
+<AC_PRICE/>
+<NO_OPTIONS/>
+<NO_EU_PROGR_RELATED/>
+</OBJECT_DESCR>
+<OBJECT_DESCR ITEM="3">
+<TITLE>
+<P>Okvirni ugovor za pružanje usluga prijevoza putnika kopnom; grupa 3 — Kos</P>
+</TITLE>
+<LOT_NO>3</LOT_NO>
+<CPV_ADDITIONAL>
+<CPV_CODE CODE="60170000"/>
+</CPV_ADDITIONAL>
+<NUTS CODE="GR"/>
+<SHORT_DESCR>
+<P>Okvirni ugovor za pružanje usluga prijevoza putnika kopnom, autobusom. Grupa 3 — Kos.</P>
+</SHORT_DESCR>
+<AC_PRICE/>
+<NO_OPTIONS/>
+<NO_EU_PROGR_RELATED/>
+</OBJECT_DESCR>
+</OBJECT_CONTRACT>
+<PROCEDURE>
+<PT_OPEN/>
+<ACCELERATED_PROC>
+<P>U razmatranju velikog broja ponovnih prihvata u tijeku na razini država članica, Frontex treba poduzeti sve potrebne korake kako bi osigurao trenutačnu podršku državama članicama kako bi one ispunile svoje obveze.</P>
+</ACCELERATED_PROC>
+<FRAMEWORK/>
+<NO_CONTRACT_COVERED_GPA/>
+<NOTICE_NUMBER_OJ>2016/S 187-335100</NOTICE_NUMBER_OJ>
+</PROCEDURE>
+<AWARD_CONTRACT ITEM="1">
+<CONTRACT_NO>Frontex/OP/602/2016/Lot 1</CONTRACT_NO>
+<LOT_NO>1</LOT_NO>
+<TITLE>
+<P>Okvirni ugovor za pružanje usluga prijevoza putnika kopnom, autobusom; grupa 1 — Lesvos</P>
+</TITLE>
+<AWARDED_CONTRACT>
+<DATE_CONCLUSION_CONTRACT>2016-12-06</DATE_CONCLUSION_CONTRACT>
+<NB_TENDERS_RECEIVED>1</NB_TENDERS_RECEIVED>
+<NO_AWARDED_TO_GROUP/>
+<CONTRACTOR>
+<ADDRESS_CONTRACTOR>
+<OFFICIALNAME>Vagia Tzislaki — Lesvorama General Travel Agency</OFFICIALNAME>
+<ADDRESS>M. Goutou 22, Lesvos</ADDRESS>
+<TOWN>Mithimna</TOWN>
+<POSTAL_CODE>811 08</POSTAL_CODE>
+<COUNTRY VALUE="GR"/>
+<NUTS CODE="GR"/>
+</ADDRESS_CONTRACTOR>
+<SME/>
+</CONTRACTOR>
+<VAL_ESTIMATED_TOTAL CURRENCY="EUR">150000.00</VAL_ESTIMATED_TOTAL>
+<VAL_TOTAL CURRENCY="EUR">150000.00</VAL_TOTAL>
+</AWARDED_CONTRACT>
+</AWARD_CONTRACT>
+<AWARD_CONTRACT ITEM="2">
+<CONTRACT_NO>Frontex/OP/602/2016/Lot 2</CONTRACT_NO>
+<LOT_NO>2</LOT_NO>
+<TITLE>
+<P>Okvirni ugovor za pružanje usluga prijevoza putnika kopnom, autobusom; grupa 2 — Chios</P>
+</TITLE>
+<AWARDED_CONTRACT>
+<DATE_CONCLUSION_CONTRACT>2016-12-06</DATE_CONCLUSION_CONTRACT>
+<NB_TENDERS_RECEIVED>1</NB_TENDERS_RECEIVED>
+<NO_AWARDED_TO_GROUP/>
+<CONTRACTOR>
+<ADDRESS_CONTRACTOR>
+<OFFICIALNAME>Vagia Tzislaki — Lesvorama General Travel Agency</OFFICIALNAME>
+<ADDRESS>M. Goutou 22, Lesvos</ADDRESS>
+<TOWN>Mithimna</TOWN>
+<POSTAL_CODE>811 08</POSTAL_CODE>
+<COUNTRY VALUE="GR"/>
+<NUTS CODE="GR"/>
+</ADDRESS_CONTRACTOR>
+<SME/>
+</CONTRACTOR>
+<VAL_ESTIMATED_TOTAL CURRENCY="EUR">150000.00</VAL_ESTIMATED_TOTAL>
+<VAL_TOTAL CURRENCY="EUR">150000.00</VAL_TOTAL>
+</AWARDED_CONTRACT>
+</AWARD_CONTRACT>
+<AWARD_CONTRACT ITEM="3">
+<CONTRACT_NO>Frontex/OP/602/2016.</CONTRACT_NO>
+<LOT_NO>3</LOT_NO>
+<TITLE>
+<P>Okvirni ugovor za pružanje usluga prijevoza putnika kopnom, autobusom; grupa 3 — Kos</P>
+</TITLE>
+<NO_AWARDED_CONTRACT>
+<PROCUREMENT_UNSUCCESSFUL/>
+</NO_AWARDED_CONTRACT>
+</AWARD_CONTRACT>
+<COMPLEMENTARY_INFO>
+<ADDRESS_REVIEW_BODY>
+<OFFICIALNAME>Opći sud</OFFICIALNAME>
+<ADDRESS>rue du Fort Niedergrünewald</ADDRESS>
+<TOWN>Luxembourg</TOWN>
+<POSTAL_CODE>2925</POSTAL_CODE>
+<COUNTRY VALUE="LU"/>
+<PHONE>+352 4303-1</PHONE>
+<E_MAIL>cfi.registry@curia.europa.eu</E_MAIL>
+<FAX>+352 4303-2100</FAX>
+<URL>http://curia.europa.eu/</URL>
+</ADDRESS_REVIEW_BODY>
+<DATE_DISPATCH_NOTICE>2016-12-22</DATE_DISPATCH_NOTICE>
+</COMPLEMENTARY_INFO>
+</F03_2014>
+</FORM_SECTION>
+</TED_EXPORT>

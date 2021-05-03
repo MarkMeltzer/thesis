@@ -1,0 +1,2678 @@
+<?xml version="1.0" encoding="UTF-8"?><TED_EXPORT xmlns="http://formex.publications.europa.eu/ted/schema/export/R2.0.9.S01.E01" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" VERSION="R2.0.9.S01.E01" xsi:schemaLocation="http://formex.publications.europa.eu/ted/schema/export/R2.0.9.S01.E01 TED_EXPORT.xsd" DOC_ID="022994-2017" EDITION="2017015">
+<TECHNICAL_SECTION>
+<RECEPTION_ID>17-013393-001</RECEPTION_ID>
+<DELETION_DATE>20170421</DELETION_DATE>
+<FORM_LG_LIST>DA DE EN ES FI FR EL IT NL PT SV CS ET HU LT LV MT PL SK SL GA BG RO HR </FORM_LG_LIST>
+<COMMENTS>From Convertor</COMMENTS>
+</TECHNICAL_SECTION>
+<LINKS_SECTION>
+<XML_SCHEMA_DEFINITION_LINK xlink:title="TED WEBSITE" xlink:href="http://ted.europa.eu" xlink:type="simple"/>
+<OFFICIAL_FORMS_LINK xlink:href="http://ted.europa.eu" xlink:type="simple"/>
+<FORMS_LABELS_LINK xlink:href="http://ted.europa.eu" xlink:type="simple"/>
+<ORIGINAL_CPV_LINK xlink:href="http://ted.europa.eu" xlink:type="simple"/>
+<ORIGINAL_NUTS_LINK xlink:href="http://ted.europa.eu" xlink:type="simple"/>
+</LINKS_SECTION>
+<CODED_DATA_SECTION>
+<REF_OJS>
+<COLL_OJ>S</COLL_OJ>
+<NO_OJ>15</NO_OJ>
+<DATE_PUB>20170121</DATE_PUB>
+</REF_OJS>
+<NOTICE_DATA>
+<NO_DOC_OJS>2017/S 015-022994</NO_DOC_OJS>
+<URI_LIST>
+<URI_DOC LG="DA">http://ted.europa.eu/udl?uri=TED:NOTICE:022994-2017:TEXT:DA:HTML</URI_DOC>
+<URI_DOC LG="DE">http://ted.europa.eu/udl?uri=TED:NOTICE:022994-2017:TEXT:DE:HTML</URI_DOC>
+<URI_DOC LG="EN">http://ted.europa.eu/udl?uri=TED:NOTICE:022994-2017:TEXT:EN:HTML</URI_DOC>
+<URI_DOC LG="ES">http://ted.europa.eu/udl?uri=TED:NOTICE:022994-2017:TEXT:ES:HTML</URI_DOC>
+<URI_DOC LG="FI">http://ted.europa.eu/udl?uri=TED:NOTICE:022994-2017:TEXT:FI:HTML</URI_DOC>
+<URI_DOC LG="FR">http://ted.europa.eu/udl?uri=TED:NOTICE:022994-2017:TEXT:FR:HTML</URI_DOC>
+<URI_DOC LG="EL">http://ted.europa.eu/udl?uri=TED:NOTICE:022994-2017:TEXT:EL:HTML</URI_DOC>
+<URI_DOC LG="IT">http://ted.europa.eu/udl?uri=TED:NOTICE:022994-2017:TEXT:IT:HTML</URI_DOC>
+<URI_DOC LG="NL">http://ted.europa.eu/udl?uri=TED:NOTICE:022994-2017:TEXT:NL:HTML</URI_DOC>
+<URI_DOC LG="PT">http://ted.europa.eu/udl?uri=TED:NOTICE:022994-2017:TEXT:PT:HTML</URI_DOC>
+<URI_DOC LG="SV">http://ted.europa.eu/udl?uri=TED:NOTICE:022994-2017:TEXT:SV:HTML</URI_DOC>
+<URI_DOC LG="CS">http://ted.europa.eu/udl?uri=TED:NOTICE:022994-2017:TEXT:CS:HTML</URI_DOC>
+<URI_DOC LG="ET">http://ted.europa.eu/udl?uri=TED:NOTICE:022994-2017:TEXT:ET:HTML</URI_DOC>
+<URI_DOC LG="HU">http://ted.europa.eu/udl?uri=TED:NOTICE:022994-2017:TEXT:HU:HTML</URI_DOC>
+<URI_DOC LG="LT">http://ted.europa.eu/udl?uri=TED:NOTICE:022994-2017:TEXT:LT:HTML</URI_DOC>
+<URI_DOC LG="LV">http://ted.europa.eu/udl?uri=TED:NOTICE:022994-2017:TEXT:LV:HTML</URI_DOC>
+<URI_DOC LG="MT">http://ted.europa.eu/udl?uri=TED:NOTICE:022994-2017:TEXT:MT:HTML</URI_DOC>
+<URI_DOC LG="PL">http://ted.europa.eu/udl?uri=TED:NOTICE:022994-2017:TEXT:PL:HTML</URI_DOC>
+<URI_DOC LG="SK">http://ted.europa.eu/udl?uri=TED:NOTICE:022994-2017:TEXT:SK:HTML</URI_DOC>
+<URI_DOC LG="SL">http://ted.europa.eu/udl?uri=TED:NOTICE:022994-2017:TEXT:SL:HTML</URI_DOC>
+<URI_DOC LG="GA">http://ted.europa.eu/udl?uri=TED:NOTICE:022994-2017:TEXT:GA:HTML</URI_DOC>
+<URI_DOC LG="BG">http://ted.europa.eu/udl?uri=TED:NOTICE:022994-2017:TEXT:BG:HTML</URI_DOC>
+<URI_DOC LG="RO">http://ted.europa.eu/udl?uri=TED:NOTICE:022994-2017:TEXT:RO:HTML</URI_DOC>
+<URI_DOC LG="HR">http://ted.europa.eu/udl?uri=TED:NOTICE:022994-2017:TEXT:HR:HTML</URI_DOC>
+</URI_LIST>
+<LG_ORIG>EN</LG_ORIG>
+<ISO_COUNTRY VALUE="PL"/>
+<IA_URL_GENERAL>www.frontex.europa.eu</IA_URL_GENERAL>
+<ORIGINAL_CPV CODE="48000000">Software package and information systems</ORIGINAL_CPV>
+<ORIGINAL_NUTS CODE="PL127">Miasto Warszawa</ORIGINAL_NUTS>
+<CA_CE_NUTS CODE="PL127">Miasto Warszawa</CA_CE_NUTS>
+<TENDERER_NUTS CODE="DK011">Byen København</TENDERER_NUTS>
+<VALUES>
+<VALUE TYPE="PROCUREMENT_TOTAL" CURRENCY="EUR">189630.00</VALUE>
+</VALUES>
+<REF_NOTICE>
+<NO_DOC_OJS>2016/S 179-320222</NO_DOC_OJS>
+</REF_NOTICE>
+</NOTICE_DATA>
+<CODIF_DATA>
+<DS_DATE_DISPATCH>20170111</DS_DATE_DISPATCH>
+<AA_AUTHORITY_TYPE CODE="5">European Institution/Agency or International Organisation</AA_AUTHORITY_TYPE>
+<TD_DOCUMENT_TYPE CODE="7">Contract award notice</TD_DOCUMENT_TYPE>
+<NC_CONTRACT_NATURE CODE="4">Services</NC_CONTRACT_NATURE>
+<PR_PROC CODE="T">Negotiated without a prior call for competition</PR_PROC>
+<RP_REGULATION CODE="3">European Institution/Agency or International Organisation</RP_REGULATION>
+<TY_TYPE_BID CODE="9">Not applicable</TY_TYPE_BID>
+<AC_AWARD_CRIT CODE="1">Lowest price</AC_AWARD_CRIT>
+<MA_MAIN_ACTIVITIES CODE="D">Defence</MA_MAIN_ACTIVITIES>
+<HEADING>AGC03</HEADING>
+<INITIATOR>AG</INITIATOR>
+<DIRECTIVE VALUE="2014/24/EU"/>
+</CODIF_DATA>
+</CODED_DATA_SECTION>
+<TRANSLATION_SECTION>
+<ML_TITLES>
+<ML_TI_DOC LG="DA">
+<TI_CY>Polen</TI_CY>
+<TI_TOWN>Warszawa</TI_TOWN>
+<TI_TEXT>
+<P>Ændring nr. 1 til kontrakten »Den digitale arbejdsplads MyFrontex (intranet baseret på kommerciel standardsoftware)«</P>
+</TI_TEXT>
+</ML_TI_DOC>
+<ML_TI_DOC LG="DE">
+<TI_CY>Polen</TI_CY>
+<TI_TOWN>Warschau</TI_TOWN>
+<TI_TEXT>
+<P>Änderung Nr. 1 zum Auftrag „Digitaler Arbeitsplatz MyFrontex (auf handelsüblicher Standardsoftware basierendes Internet)“</P>
+</TI_TEXT>
+</ML_TI_DOC>
+<ML_TI_DOC LG="EN">
+<TI_CY>Poland</TI_CY>
+<TI_TOWN>Warsaw</TI_TOWN>
+<TI_TEXT>
+<P>Amendment No 1 to the contract ‘MyFrontex digital workplace (COTS-based intranet)’</P>
+</TI_TEXT>
+</ML_TI_DOC>
+<ML_TI_DOC LG="ES">
+<TI_CY>Polonia</TI_CY>
+<TI_TOWN>Varsovia</TI_TOWN>
+<TI_TEXT>
+<P>Enmienda n.<FT TYPE="SUP">o</FT> 1 al contrato «Entorno laboral digital MyFrontex (intranet basada en programas disponibles en el mercado)»</P>
+</TI_TEXT>
+</ML_TI_DOC>
+<ML_TI_DOC LG="FI">
+<TI_CY>Puola</TI_CY>
+<TI_TOWN>Varsova</TI_TOWN>
+<TI_TEXT>
+<P>Muutos nro 1 sopimukseen ”Digitaalista työympäristöä koskeva MyFrontex-ratkaisu (kaupalliseen valmisohjelmistoon (COTS) perustuva intranet)”</P>
+</TI_TEXT>
+</ML_TI_DOC>
+<ML_TI_DOC LG="FR">
+<TI_CY>Pologne</TI_CY>
+<TI_TOWN>Varsovie</TI_TOWN>
+<TI_TEXT>
+<P>Avenant n<FT TYPE="SUP">o</FT> 1 au contrat «Espace de travail numérique MyFrontex (intranet reposant sur un logiciel commercial)»</P>
+</TI_TEXT>
+</ML_TI_DOC>
+<ML_TI_DOC LG="EL">
+<TI_CY>Πολωνία</TI_CY>
+<TI_TOWN>Βαρσοβία</TI_TOWN>
+<TI_TEXT>
+<P>Τροποποίηση αριθ. 1 της σύμβασης «Ψηφιακός χώρος εργασίας MyFrontex (ενδοδίκτυο βάσει COTS)»</P>
+</TI_TEXT>
+</ML_TI_DOC>
+<ML_TI_DOC LG="IT">
+<TI_CY>Polonia</TI_CY>
+<TI_TOWN>Varsavia</TI_TOWN>
+<TI_TEXT>
+<P>Modifica n. 1 al contratto «Postazione di lavoro digitale MyFrontex (intranet basato su componenti hardware disponibili in commercio)»</P>
+</TI_TEXT>
+</ML_TI_DOC>
+<ML_TI_DOC LG="NL">
+<TI_CY>Polen</TI_CY>
+<TI_TOWN>Warschau</TI_TOWN>
+<TI_TEXT>
+<P>Wijziging nr. 1 aan de opdracht „Digitale werkplek MyFrontex (intranet op basis van commerciële kant-en-klare software)”</P>
+</TI_TEXT>
+</ML_TI_DOC>
+<ML_TI_DOC LG="PT">
+<TI_CY>Polónia</TI_CY>
+<TI_TOWN>Varsóvia</TI_TOWN>
+<TI_TEXT>
+<P>Alteração n.<FT TYPE="SUP">o</FT>1 do contrato «Espaço de trabalho digital MyFrontex (Intranet baseada em software COTS)»</P>
+</TI_TEXT>
+</ML_TI_DOC>
+<ML_TI_DOC LG="SV">
+<TI_CY>Polen</TI_CY>
+<TI_TOWN>Warszawa</TI_TOWN>
+<TI_TEXT>
+<P>Ändring nr 1 av kontraktet ”Den digitala arbetsplatsen MyFrontex (intranät som baseras på en färdigköpt allmänt tillgänglig programvara)”</P>
+</TI_TEXT>
+</ML_TI_DOC>
+<ML_TI_DOC LG="CS">
+<TI_CY>Polsko</TI_CY>
+<TI_TOWN>Varšava</TI_TOWN>
+<TI_TEXT>
+<P>Dodatek č. 1 ke smlouvě „Digitální pracoviště MyFrontex (intranet na bázi standardních komerčně dostupných technologií (COTS))“</P>
+</TI_TEXT>
+</ML_TI_DOC>
+<ML_TI_DOC LG="ET">
+<TI_CY>Poola</TI_CY>
+<TI_TOWN>Varssavi</TI_TOWN>
+<TI_TEXT>
+<P>Lepingu "MyFrontexi digitaalne töökoht (COTSi-põhine intranet)" muudatus nr 1</P>
+</TI_TEXT>
+</ML_TI_DOC>
+<ML_TI_DOC LG="HU">
+<TI_CY>Lengyelország</TI_CY>
+<TI_TOWN>Varsó</TI_TOWN>
+<TI_TEXT>
+<P>A „MyFrontex digitális munkahely (kereskedelmi forgalomba hozott készterméken [COTS] alapuló intranet)” szerződés 1. számú módosítása</P>
+</TI_TEXT>
+</ML_TI_DOC>
+<ML_TI_DOC LG="LT">
+<TI_CY>Lenkija</TI_CY>
+<TI_TOWN>Varšuva</TI_TOWN>
+<TI_TEXT>
+<P>Sutarties „MyFrontex“ skaitmeninė darbo vieta (COTS pagrįstas intranetas)“ pakeitimas Nr. 1</P>
+</TI_TEXT>
+</ML_TI_DOC>
+<ML_TI_DOC LG="LV">
+<TI_CY>Polija</TI_CY>
+<TI_TOWN>Varšava</TI_TOWN>
+<TI_TEXT>
+<P>Līguma "Digitālā darba vieta MyFrontex (COTS intranets)" grozījums Nr. 1</P>
+</TI_TEXT>
+</ML_TI_DOC>
+<ML_TI_DOC LG="MT">
+<TI_CY>il-Polonja</TI_CY>
+<TI_TOWN>Varsavja</TI_TOWN>
+<TI_TEXT>
+<P>Emenda Nru 1 lill-kuntratt 'il-post tax-xogħol diġitali 'MyFrontex' (intranet ibbażat fuq il-COTS)'</P>
+</TI_TEXT>
+</ML_TI_DOC>
+<ML_TI_DOC LG="PL">
+<TI_CY>Polska</TI_CY>
+<TI_TOWN>Warszawa</TI_TOWN>
+<TI_TEXT>
+<P>Aneks nr 1 do umowy o „Cyfrowe środowisko pracy MyFrontex (intranet wykorzystujący rozwiązania dostępne w handlu)”</P>
+</TI_TEXT>
+</ML_TI_DOC>
+<ML_TI_DOC LG="SK">
+<TI_CY>Poľsko</TI_CY>
+<TI_TOWN>Varšava</TI_TOWN>
+<TI_TEXT>
+<P>Dodatok č. 1 k zákazke „Digitálne pracovisko MyFrontex (intranet na báze komerčne dostupného softvéru)“</P>
+</TI_TEXT>
+</ML_TI_DOC>
+<ML_TI_DOC LG="SL">
+<TI_CY>Poljska</TI_CY>
+<TI_TOWN>Varšava</TI_TOWN>
+<TI_TEXT>
+<P>Sprememba št. 1 naročila „Digitalno delovno mesto MyFrontex (intranet na podlagi COTS)“</P>
+</TI_TEXT>
+</ML_TI_DOC>
+<ML_TI_DOC LG="GA">
+<TI_CY>Pholainn, an</TI_CY>
+<TI_TOWN>Vársá</TI_TOWN>
+<TI_TEXT>
+<P>Leasúchán Uimh.1 leis an gconradh 'Áit oibre dhigiteach MyFrontex (inlíon bunaithe ar COTS)'</P>
+</TI_TEXT>
+</ML_TI_DOC>
+<ML_TI_DOC LG="BG">
+<TI_CY>Полша</TI_CY>
+<TI_TOWN>Варшава</TI_TOWN>
+<TI_TEXT>
+<P>Поправка № 1 към поръчка „Цифрово работно място MyFrontex (интранет, базиран на пазарно утвърден продукт (COTS))“</P>
+</TI_TEXT>
+</ML_TI_DOC>
+<ML_TI_DOC LG="RO">
+<TI_CY>Polonia</TI_CY>
+<TI_TOWN>Varșovia</TI_TOWN>
+<TI_TEXT>
+<P>Modificarea nr. 1 la contractul „Spațiu de lucru digital MyFrontex (intranet bazat pe COTS)”</P>
+</TI_TEXT>
+</ML_TI_DOC>
+<ML_TI_DOC LG="HR">
+<TI_CY>Poljska</TI_CY>
+<TI_TOWN>Varšava</TI_TOWN>
+<TI_TEXT>
+<P>Izmjena br. 1 ugovora „Digitalno radno mjesto MyFrontex (intranet koji se temelji na COTS-u)”</P>
+</TI_TEXT>
+</ML_TI_DOC>
+</ML_TITLES>
+<ML_AA_NAMES>
+<AA_NAME LG="DA">Frontex — Det Europæiske Agentur for Grænse- og Kystbevogtning</AA_NAME>
+<AA_NAME LG="DE">Frontex — Europäische Agentur für die Grenz- und Küstenwache</AA_NAME>
+<AA_NAME LG="EN">Frontex — European Border and Coast Guard Agency</AA_NAME>
+<AA_NAME LG="ES">Frontex — Agencia Europea de la Guardia de Fronteras y Costas</AA_NAME>
+<AA_NAME LG="FI">Frontex – Euroopan raja- ja merivartiovirasto</AA_NAME>
+<AA_NAME LG="FR">Agence européenne de garde-frontières et de garde-côtes (Frontex)</AA_NAME>
+<AA_NAME LG="EL">Frontex — Οργανισμός Ευρωπαϊκής Συνοριοφυλακής και Ακτοφυλακής</AA_NAME>
+<AA_NAME LG="IT">Frontex — Agenzia europea della guardia di frontiera e costiera</AA_NAME>
+<AA_NAME LG="NL">Frontex — Europees grens- en kustwachtagentschap</AA_NAME>
+<AA_NAME LG="PT">Frontex — Agência Europeia da Guarda de Fronteiras e Costeira</AA_NAME>
+<AA_NAME LG="SV">Frontex – Europeiska gräns- och kustbevakningsbyrån</AA_NAME>
+<AA_NAME LG="CS">Frontex – Evropská agentura pro pohraniční a pobřežní stráž</AA_NAME>
+<AA_NAME LG="ET">Frontex – Euroopa Piiri- ja Rannikuvalve Amet</AA_NAME>
+<AA_NAME LG="HU">Frontex – Európai Határ- és Partvédelmi Ügynökség</AA_NAME>
+<AA_NAME LG="LT">Frontex – Europos sienų ir pakrančių apsaugos agentūra</AA_NAME>
+<AA_NAME LG="LV">Frontex – Eiropas Robežu un krasta apsardzes aģentūra</AA_NAME>
+<AA_NAME LG="MT">Frontex — L-Aġenzija Ewropea tal-Fruntieri u l-Għassa tal-Kosta</AA_NAME>
+<AA_NAME LG="PL">Frontex – Europejska Agencja Straży Granicznej</AA_NAME>
+<AA_NAME LG="SK">Frontex – Európska agentúra pre pohraničnú a pobrežnú stráž</AA_NAME>
+<AA_NAME LG="SL">Frontex – Evropska agencija za mejno in obalno stražo</AA_NAME>
+<AA_NAME LG="GA">Frontex — an Ghníomhaireacht Eorpach um an nGarda Teorann agus Cósta</AA_NAME>
+<AA_NAME LG="BG">Frontex – Европейска агенция за гранична и брегова охрана</AA_NAME>
+<AA_NAME LG="RO">Frontex – Agenția Europeană pentru Poliția de Frontieră și Garda de Coastă</AA_NAME>
+<AA_NAME LG="HR">Frontex — Agencija za europsku graničnu i obalnu stražu</AA_NAME>
+</ML_AA_NAMES>
+</TRANSLATION_SECTION>
+<FORM_SECTION>
+<F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="DA">
+<CONTRACTING_BODY>
+<ADDRESS_CONTRACTING_BODY>
+<OFFICIALNAME>Frontex — Det Europæiske Agentur for Grænse- og Kystbevogtning</OFFICIALNAME>
+<ADDRESS>Plac Europejski 6</ADDRESS>
+<TOWN>Warsaw</TOWN>
+<POSTAL_CODE>00-844</POSTAL_CODE>
+<COUNTRY VALUE="PL"/>
+<PHONE>+48 222059500</PHONE>
+<E_MAIL>procurement@frontex.europa.eu</E_MAIL>
+<FAX>+48 222059501</FAX>
+<NUTS CODE="PL127"/>
+<URL_GENERAL>www.frontex.europa.eu</URL_GENERAL>
+</ADDRESS_CONTRACTING_BODY>
+<CA_TYPE VALUE="EU_INSTITUTION"/>
+<CA_ACTIVITY VALUE="DEFENCE"/>
+</CONTRACTING_BODY>
+<OBJECT_CONTRACT>
+<TITLE>
+<P>Ændring nr. 1 til kontrakten »Den digitale arbejdsplads MyFrontex (intranet baseret på kommerciel standardsoftware)«.</P>
+</TITLE>
+<REFERENCE_NUMBER>Frontex/37/2016/JL.</REFERENCE_NUMBER>
+<CPV_MAIN>
+<CPV_CODE CODE="48000000"/>
+</CPV_MAIN>
+<TYPE_CONTRACT CTYPE="SERVICES"/>
+<SHORT_DESCR>
+<P>Ændring nr. 1 til kontrakten »Den digitale arbejdsplads MyFrontex (intranet baseret på kommerciel standardsoftware)« Frontex/37/2016/JL ved tilføjelse af 2 nye moduler til omfanget af de kontraktlige tjenesteydelser: modul om klagemekanisme og modul om HR-rekrutteringsværktøj.</P>
+</SHORT_DESCR>
+<VAL_TOTAL CURRENCY="EUR">189630.00</VAL_TOTAL>
+<NO_LOT_DIVISION/>
+<OBJECT_DESCR ITEM="1">
+<NUTS CODE="PL127"/>
+<MAIN_SITE>
+<P>Frontex-hovedkontoret, Warszawa, Polen.</P>
+</MAIN_SITE>
+<SHORT_DESCR>
+<P>Ændring nr. 1 til kontrakten »Den digitale arbejdsplads MyFrontex (intranet baseret på kommerciel standardsoftware)« Frontex/37/2016/JL ved tilføjelse af 2 nye moduler til omfanget af de kontraktlige tjenesteydelser: modul om klagemekanisme og modul om HR-rekrutteringsværktøj.</P>
+</SHORT_DESCR>
+<AC_PRICE/>
+<NO_OPTIONS/>
+<NO_EU_PROGR_RELATED/>
+</OBJECT_DESCR>
+</OBJECT_CONTRACT>
+<PROCEDURE>
+<PT_AWARD_CONTRACT_WITHOUT_CALL>
+<D_ACCORDANCE_ARTICLE>
+<D_ADD_DELIVERIES_ORDERED/>
+</D_ACCORDANCE_ARTICLE>
+<D_JUSTIFICATION>
+<P>Den foretagne ændring til den oprindelige kontrakt vedrørte yderligere leverancer og tjenester ved den oprindelige kontrahent, der ikke var inkluderet i det oprindelige udbud, på baggrund af de følgende betingelser:</P>
+<P>1. Der kan ikke foretages en udskiftning af kontrahenten, fordi det anmodede HR-rekrutteringsværktøj og klagemekanismen vil udgøre en integreret del af hele løsningen, vil anvende fællestræk fra den allerede kontraherede løsning og skal udformes med en dybtgående integration af konceptet og de tekniske lag.</P>
+<P>2. Enhver potentiel udskiftning af kontrahenten ville medføre væsentlig gentagelse af omkostninger for den ordregivende myndighed pga. behovet for yderligere integrationsarbejder og omkostninger til licenser til funktioner, der allerede er tilgængelige i den kontraherede løsning, og som vil blive genbrugt.</P>
+<P>3. Prisstigningen, herunder den samlede nettoværdi af successive ændringer, overstiger ikke 50 % af den oprindelige kontraktværdi.</P>
+</D_JUSTIFICATION>
+</PT_AWARD_CONTRACT_WITHOUT_CALL>
+<NO_CONTRACT_COVERED_GPA/>
+<NOTICE_NUMBER_OJ>2016/S 179-320222</NOTICE_NUMBER_OJ>
+</PROCEDURE>
+<AWARD_CONTRACT ITEM="1">
+<CONTRACT_NO>Ændring nr. 1 til Frontex/37/2016/JL</CONTRACT_NO>
+<TITLE>
+<P>Ændring nr. 1 til kontrakten »Den digitale arbejdsplads MyFrontex (intranet baseret på kommerciel standardsoftware)«</P>
+</TITLE>
+<AWARDED_CONTRACT>
+<DATE_CONCLUSION_CONTRACT>2016-12-19</DATE_CONCLUSION_CONTRACT>
+<NB_TENDERS_RECEIVED>1</NB_TENDERS_RECEIVED>
+<NO_AWARDED_TO_GROUP/>
+<CONTRACTOR>
+<ADDRESS_CONTRACTOR>
+<OFFICIALNAME>Netcompany IT and Business Consulting A/S</OFFICIALNAME>
+<ADDRESS>Gronningen 17</ADDRESS>
+<TOWN>Copenhagen</TOWN>
+<POSTAL_CODE>1270</POSTAL_CODE>
+<COUNTRY VALUE="DK"/>
+<NUTS CODE="DK011"/>
+</ADDRESS_CONTRACTOR>
+<NO_SME/>
+</CONTRACTOR>
+<VAL_TOTAL CURRENCY="EUR">189630.00</VAL_TOTAL>
+</AWARDED_CONTRACT>
+</AWARD_CONTRACT>
+<COMPLEMENTARY_INFO>
+<ADDRESS_REVIEW_BODY>
+<OFFICIALNAME>Retten</OFFICIALNAME>
+<ADDRESS>rue du Fort Niedergrünewald </ADDRESS>
+<TOWN>Luxembourg</TOWN>
+<POSTAL_CODE>2925</POSTAL_CODE>
+<COUNTRY VALUE="LU"/>
+<PHONE>+352 4303-1</PHONE>
+<E_MAIL>cfi.registry@curia.europa.eu</E_MAIL>
+<FAX>+352 4303-2100</FAX>
+<URL>http://curia.europa.eu</URL>
+</ADDRESS_REVIEW_BODY>
+<REVIEW_PROCEDURE>
+<P>senest 2 måneder efter underrettelsen af klageren eller, i tilfælde af udeblivelse deraf, efter den dag, sagen er taget til efterretning.</P>
+</REVIEW_PROCEDURE>
+<DATE_DISPATCH_NOTICE>2017-01-11</DATE_DISPATCH_NOTICE>
+</COMPLEMENTARY_INFO>
+</F03_2014>
+<F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="DE">
+<CONTRACTING_BODY>
+<ADDRESS_CONTRACTING_BODY>
+<OFFICIALNAME>Frontex — Europäische Agentur für die Grenz- und Küstenwache</OFFICIALNAME>
+<ADDRESS>Plac Europejski 6</ADDRESS>
+<TOWN>Warsaw</TOWN>
+<POSTAL_CODE>00-844</POSTAL_CODE>
+<COUNTRY VALUE="PL"/>
+<PHONE>+48 222059500</PHONE>
+<E_MAIL>procurement@frontex.europa.eu</E_MAIL>
+<FAX>+48 222059501</FAX>
+<NUTS CODE="PL127"/>
+<URL_GENERAL>www.frontex.europa.eu</URL_GENERAL>
+</ADDRESS_CONTRACTING_BODY>
+<CA_TYPE VALUE="EU_INSTITUTION"/>
+<CA_ACTIVITY VALUE="DEFENCE"/>
+</CONTRACTING_BODY>
+<OBJECT_CONTRACT>
+<TITLE>
+<P>Änderung Nr. 1 zum Auftrag „Digitaler Arbeitsplatz MyFrontex (auf handelsüblicher Standardsoftware basierendes Internet)“.</P>
+</TITLE>
+<REFERENCE_NUMBER>Frontex/37/2016/JL.</REFERENCE_NUMBER>
+<CPV_MAIN>
+<CPV_CODE CODE="48000000"/>
+</CPV_MAIN>
+<TYPE_CONTRACT CTYPE="SERVICES"/>
+<SHORT_DESCR>
+<P>Änderung Nr. 1 zum Auftrag „Digitaler Arbeitsplatz MyFrontex (auf handelsüblicher Standardsoftware basierendes Intranet)“ Frontex/37/2016/JL durch Hinzufügung von 2 neuen Modulen zum Umfang der beauftragten Dienstleistungen: 1 Modul über einen Beschwerdemechanismus und 1 Modul über ein Personalbeschaffungstool.</P>
+</SHORT_DESCR>
+<VAL_TOTAL CURRENCY="EUR">189630.00</VAL_TOTAL>
+<NO_LOT_DIVISION/>
+<OBJECT_DESCR ITEM="1">
+<NUTS CODE="PL127"/>
+<MAIN_SITE>
+<P>Hauptsitz von Frontex, Warschau, Polen.</P>
+</MAIN_SITE>
+<SHORT_DESCR>
+<P>Änderung Nr. 1 zum Auftrag „Digitaler Arbeitsplatz MyFrontex (auf handelsüblicher Standardsoftware basierendes Intranet)“ Frontex/37/2016/JL durch Hinzufügung von 2 neuen Modulen zum Umfang der beauftragten Dienstleistungen: 1 Modul über einen Beschwerdemechanismus und 1 Modul über ein Personalbeschaffungstool.</P>
+</SHORT_DESCR>
+<AC_PRICE/>
+<NO_OPTIONS/>
+<NO_EU_PROGR_RELATED/>
+</OBJECT_DESCR>
+</OBJECT_CONTRACT>
+<PROCEDURE>
+<PT_AWARD_CONTRACT_WITHOUT_CALL>
+<D_ACCORDANCE_ARTICLE>
+<D_ADD_DELIVERIES_ORDERED/>
+</D_ACCORDANCE_ARTICLE>
+<D_JUSTIFICATION>
+<P>Die vorgenommene Änderung des ursprünglichen Auftrags bezog sich auf zusätzliche Lieferungen und Dienstleistungen durch den ursprünglichen Auftragnehmer, die nicht Bestandteil der ursprünglichen Beschaffung waren, auf der Grundlage folgender Bedingungen:</P>
+<P>1. Es kann kein anderer Auftragnehmer eingesetzt werden, da der geforderte Personalbeschaffungs- und Beschwerdemechanismus ein wesentlicher Bestandteil der Gesamtlösung sein und auf übliche Funktionen der bereits in Auftrag gegebenen Lösung zurückgreifen wird sowie bei der Konzeption eine umfassende Integration des Entwurfs und der technischen Schichten erfordert;</P>
+<P>2. ein möglicher Wechsel des Auftragnehmers würde aufgrund des Bedarfs an zusätzlicher Integration und der Lizenzkosten für in der beauftragten Lösung bereits vorhandene Funktionen, die wiederverwendet werden, zu beträchtlichen Mehrkosten für den öffentlichen Auftraggeber führen;</P>
+<P>3. der Preisanstieg, einschließlich des kumulierten Nettowerts aufeinanderfolgender Änderungen, überschreitet nicht 50 % des ursprünglichen Auftragswerts.</P>
+</D_JUSTIFICATION>
+</PT_AWARD_CONTRACT_WITHOUT_CALL>
+<NO_CONTRACT_COVERED_GPA/>
+<NOTICE_NUMBER_OJ>2016/S 179-320222</NOTICE_NUMBER_OJ>
+</PROCEDURE>
+<AWARD_CONTRACT ITEM="1">
+<CONTRACT_NO>Änderung Nr. 1 zu Frontex/37/2016/JL</CONTRACT_NO>
+<TITLE>
+<P>Änderung Nr. 1 zum Auftrag „Digitaler Arbeitsplatz MyFrontex (auf handelsüblicher Standardsoftware basierendes Internet)“</P>
+</TITLE>
+<AWARDED_CONTRACT>
+<DATE_CONCLUSION_CONTRACT>2016-12-19</DATE_CONCLUSION_CONTRACT>
+<NB_TENDERS_RECEIVED>1</NB_TENDERS_RECEIVED>
+<NO_AWARDED_TO_GROUP/>
+<CONTRACTOR>
+<ADDRESS_CONTRACTOR>
+<OFFICIALNAME>Netcompany IT and Business Consulting A/S</OFFICIALNAME>
+<ADDRESS>Gronningen 17</ADDRESS>
+<TOWN>Copenhagen</TOWN>
+<POSTAL_CODE>1270</POSTAL_CODE>
+<COUNTRY VALUE="DK"/>
+<NUTS CODE="DK011"/>
+</ADDRESS_CONTRACTOR>
+<NO_SME/>
+</CONTRACTOR>
+<VAL_TOTAL CURRENCY="EUR">189630.00</VAL_TOTAL>
+</AWARDED_CONTRACT>
+</AWARD_CONTRACT>
+<COMPLEMENTARY_INFO>
+<ADDRESS_REVIEW_BODY>
+<OFFICIALNAME>Gericht der Europäischen Union</OFFICIALNAME>
+<ADDRESS>rue du Fort Niedergrünewald </ADDRESS>
+<TOWN>Luxembourg</TOWN>
+<POSTAL_CODE>2925</POSTAL_CODE>
+<COUNTRY VALUE="LU"/>
+<PHONE>+352 4303-1</PHONE>
+<E_MAIL>cfi.registry@curia.europa.eu</E_MAIL>
+<FAX>+352 4303-2100</FAX>
+<URL>http://curia.europa.eu</URL>
+</ADDRESS_REVIEW_BODY>
+<REVIEW_PROCEDURE>
+<P>binnen 2 Monaten ab Mitteilung an den Kläger oder, in Ermangelung dessen, ab dem Zeitpunkt der Kenntnisnahme.</P>
+</REVIEW_PROCEDURE>
+<DATE_DISPATCH_NOTICE>2017-01-11</DATE_DISPATCH_NOTICE>
+</COMPLEMENTARY_INFO>
+</F03_2014>
+<F03_2014 CATEGORY="ORIGINAL" FORM="F03" LG="EN">
+<CONTRACTING_BODY>
+<ADDRESS_CONTRACTING_BODY>
+<OFFICIALNAME>Frontex — European Border and Coast Guard Agency</OFFICIALNAME>
+<ADDRESS>Plac Europejski 6</ADDRESS>
+<TOWN>Warsaw</TOWN>
+<POSTAL_CODE>00-844</POSTAL_CODE>
+<COUNTRY VALUE="PL"/>
+<PHONE>+48 222059500</PHONE>
+<E_MAIL>procurement@frontex.europa.eu</E_MAIL>
+<FAX>+48 222059501</FAX>
+<NUTS CODE="PL127"/>
+<URL_GENERAL>www.frontex.europa.eu</URL_GENERAL>
+</ADDRESS_CONTRACTING_BODY>
+<CA_TYPE VALUE="EU_INSTITUTION"/>
+<CA_ACTIVITY VALUE="DEFENCE"/>
+</CONTRACTING_BODY>
+<OBJECT_CONTRACT>
+<TITLE>
+<P>Amendment No 1 to the contract ‘MyFrontex digital workplace (COTS-based intranet)’.</P>
+</TITLE>
+<REFERENCE_NUMBER>Frontex/37/2016/JL.</REFERENCE_NUMBER>
+<CPV_MAIN>
+<CPV_CODE CODE="48000000"/>
+</CPV_MAIN>
+<TYPE_CONTRACT CTYPE="SERVICES"/>
+<SHORT_DESCR>
+<P>Amendment No 1 to the contract ‘MyFrontex digital workplace (COTS-based intranet)’ Frontex/37/2016/JL by adding 2 new modules to the scope of the contractual services: module on complaints mechanism and module on HR recruitment tool.</P>
+</SHORT_DESCR>
+<VAL_TOTAL CURRENCY="EUR">189630.00</VAL_TOTAL>
+<NO_LOT_DIVISION/>
+<OBJECT_DESCR ITEM="1">
+<NUTS CODE="PL127"/>
+<MAIN_SITE>
+<P>Frontex HQ, Warsaw, Poland.</P>
+</MAIN_SITE>
+<SHORT_DESCR>
+<P>Amendment No 1 to the contract ‘MyFrontex digital workplace (COTS-based intranet)’ Frontex/37/2016/JL by adding 2 new modules to the scope of the contractual services: module on complaints mechanism and module on HR recruitment tool.</P>
+</SHORT_DESCR>
+<AC_PRICE/>
+<NO_OPTIONS/>
+<NO_EU_PROGR_RELATED/>
+</OBJECT_DESCR>
+</OBJECT_CONTRACT>
+<PROCEDURE>
+<PT_AWARD_CONTRACT_WITHOUT_CALL>
+<D_ACCORDANCE_ARTICLE>
+<D_ADD_DELIVERIES_ORDERED/>
+</D_ACCORDANCE_ARTICLE>
+<D_JUSTIFICATION>
+<P>The undertaken amendment to the original contract referred to additional supplies and services by the original contractor which were not included in the original procurement on the basis of the following conditions:</P>
+<P>1. a change of the contractor cannot be made because the requested HR recruitment and complaints mechanism will constitute an integral part of the entire solution, will use common features of the already contracted solution and shall be designed with in-depth integration on the concept and technical layers;</P>
+<P>2. any potential change of the contractor would cause substantial duplication of costs for the contracting authority because of the need for additional integration works and cost of licences for features already available in the contracted solution which will be reused;</P>
+<P>3. the increase in the price, including the net cumulative value of successive modifications, does not exceed 50 % of the initial contract value.</P>
+</D_JUSTIFICATION>
+</PT_AWARD_CONTRACT_WITHOUT_CALL>
+<NO_CONTRACT_COVERED_GPA/>
+<NOTICE_NUMBER_OJ>2016/S 179-320222</NOTICE_NUMBER_OJ>
+</PROCEDURE>
+<AWARD_CONTRACT ITEM="1">
+<CONTRACT_NO>Amendment No 1 to Frontex/37/2016/JL</CONTRACT_NO>
+<TITLE>
+<P>Amendment No 1 to the contract ‘MyFrontex digital workplace (COTS-based intranet)’</P>
+</TITLE>
+<AWARDED_CONTRACT>
+<DATE_CONCLUSION_CONTRACT>2016-12-19</DATE_CONCLUSION_CONTRACT>
+<NB_TENDERS_RECEIVED>1</NB_TENDERS_RECEIVED>
+<NO_AWARDED_TO_GROUP/>
+<CONTRACTOR>
+<ADDRESS_CONTRACTOR>
+<OFFICIALNAME>Netcompany IT and Business Consulting A/S</OFFICIALNAME>
+<ADDRESS>Gronningen 17</ADDRESS>
+<TOWN>Copenhagen</TOWN>
+<POSTAL_CODE>1270</POSTAL_CODE>
+<COUNTRY VALUE="DK"/>
+<NUTS CODE="DK011"/>
+</ADDRESS_CONTRACTOR>
+<NO_SME/>
+</CONTRACTOR>
+<VAL_TOTAL CURRENCY="EUR">189630.00</VAL_TOTAL>
+</AWARDED_CONTRACT>
+</AWARD_CONTRACT>
+<COMPLEMENTARY_INFO>
+<ADDRESS_REVIEW_BODY>
+<OFFICIALNAME>General Court</OFFICIALNAME>
+<ADDRESS>rue du Fort Niedergrünewald </ADDRESS>
+<TOWN>Luxembourg</TOWN>
+<POSTAL_CODE>2925</POSTAL_CODE>
+<COUNTRY VALUE="LU"/>
+<PHONE>+352 4303-1</PHONE>
+<E_MAIL>cfi.registry@curia.europa.eu</E_MAIL>
+<FAX>+352 4303-2100</FAX>
+<URL>http://curia.europa.eu</URL>
+</ADDRESS_REVIEW_BODY>
+<REVIEW_PROCEDURE>
+<P>Within 2 months of the notification to the plaintiff, or, in absence thereof, of the day on which it came to the knowledge.</P>
+</REVIEW_PROCEDURE>
+<DATE_DISPATCH_NOTICE>2017-01-11</DATE_DISPATCH_NOTICE>
+</COMPLEMENTARY_INFO>
+</F03_2014>
+<F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="ES">
+<CONTRACTING_BODY>
+<ADDRESS_CONTRACTING_BODY>
+<OFFICIALNAME>Frontex — Agencia Europea de la Guardia de Fronteras y Costas</OFFICIALNAME>
+<ADDRESS>Plac Europejski 6</ADDRESS>
+<TOWN>Warsaw</TOWN>
+<POSTAL_CODE>00-844</POSTAL_CODE>
+<COUNTRY VALUE="PL"/>
+<PHONE>+48 222059500</PHONE>
+<E_MAIL>procurement@frontex.europa.eu</E_MAIL>
+<FAX>+48 222059501</FAX>
+<NUTS CODE="PL127"/>
+<URL_GENERAL>www.frontex.europa.eu</URL_GENERAL>
+</ADDRESS_CONTRACTING_BODY>
+<CA_TYPE VALUE="EU_INSTITUTION"/>
+<CA_ACTIVITY VALUE="DEFENCE"/>
+</CONTRACTING_BODY>
+<OBJECT_CONTRACT>
+<TITLE>
+<P>Enmienda n.<FT TYPE="SUP">o</FT> 1 al contrato «Entorno laboral digital MyFrontex (intranet basada en programas disponibles en el mercado)».</P>
+</TITLE>
+<REFERENCE_NUMBER>Frontex/37/2016/JL.</REFERENCE_NUMBER>
+<CPV_MAIN>
+<CPV_CODE CODE="48000000"/>
+</CPV_MAIN>
+<TYPE_CONTRACT CTYPE="SERVICES"/>
+<SHORT_DESCR>
+<P>Enmienda n.<FT TYPE="SUP">o</FT> 1 al contrato «Entorno laboral digital MyFrontex (intranet basada en programas disponibles en el mercado)» Frontex/37/2016/JL mediante la adición de 2 nuevos módulos al alcance de los servicios contractuales: módulo sobre el mecanismo de presentación de quejas y módulo sobre la herramienta de contratación de recursos humanos.</P>
+</SHORT_DESCR>
+<VAL_TOTAL CURRENCY="EUR">189630.00</VAL_TOTAL>
+<NO_LOT_DIVISION/>
+<OBJECT_DESCR ITEM="1">
+<NUTS CODE="PL127"/>
+<MAIN_SITE>
+<P>La sede de Frontex, Varsovia, Polonia.</P>
+</MAIN_SITE>
+<SHORT_DESCR>
+<P>Enmienda n.<FT TYPE="SUP">o</FT> 1 al contrato «Entorno laboral digital MyFrontex (intranet basada en programas disponibles en el mercado)» Frontex/37/2016/JL mediante la adición de 2 nuevos módulos al alcance de los servicios contractuales: módulo sobre el mecanismo de presentación de quejas y módulo sobre la herramienta de contratación de recursos humanos.</P>
+</SHORT_DESCR>
+<AC_PRICE/>
+<NO_OPTIONS/>
+<NO_EU_PROGR_RELATED/>
+</OBJECT_DESCR>
+</OBJECT_CONTRACT>
+<PROCEDURE>
+<PT_AWARD_CONTRACT_WITHOUT_CALL>
+<D_ACCORDANCE_ARTICLE>
+<D_ADD_DELIVERIES_ORDERED/>
+</D_ACCORDANCE_ARTICLE>
+<D_JUSTIFICATION>
+<P>La enmienda realizada en el contrato original hacía referencia a la provisión de suministros y servicios adicionales por parte del contratista original que no se incluían en la licitación original, sobre la base de las siguientes condiciones:</P>
+<P>1. No se puede cambiar el contratista porque el mecanismo de quejas y contratación de recursos humanos solicitado constituirá parte integrante de la solución completa, utilizará características comunes de la solución ya contratada y deberá diseñarse integrándose profundamente en las capas técnicas y conceptuales.</P>
+<P>2. Cualquier posible cambio de contratista daría lugar a una duplicación sustancial de los costes para el poder adjudicador debido a la necesidad de realizar tareas de integración adicionales y debido al coste de las licencias para características ya disponibles en la solución contratada que se reutilizará.</P>
+<P>3. El aumento del precio, incluido el valor acumulado neto de las sucesivas modificaciones, no supera el 50 % del valor inicial del contrato.</P>
+</D_JUSTIFICATION>
+</PT_AWARD_CONTRACT_WITHOUT_CALL>
+<NO_CONTRACT_COVERED_GPA/>
+<NOTICE_NUMBER_OJ>2016/S 179-320222</NOTICE_NUMBER_OJ>
+</PROCEDURE>
+<AWARD_CONTRACT ITEM="1">
+<CONTRACT_NO>Enmienda n.º 1 a Frontex/37/2016/JL</CONTRACT_NO>
+<TITLE>
+<P>Enmienda n.<FT TYPE="SUP">o</FT> 1 al contrato «Entorno laboral digital MyFrontex (intranet basada en programas disponibles en el mercado)»</P>
+</TITLE>
+<AWARDED_CONTRACT>
+<DATE_CONCLUSION_CONTRACT>2016-12-19</DATE_CONCLUSION_CONTRACT>
+<NB_TENDERS_RECEIVED>1</NB_TENDERS_RECEIVED>
+<NO_AWARDED_TO_GROUP/>
+<CONTRACTOR>
+<ADDRESS_CONTRACTOR>
+<OFFICIALNAME>Netcompany IT and Business Consulting A/S</OFFICIALNAME>
+<ADDRESS>Gronningen 17</ADDRESS>
+<TOWN>Copenhagen</TOWN>
+<POSTAL_CODE>1270</POSTAL_CODE>
+<COUNTRY VALUE="DK"/>
+<NUTS CODE="DK011"/>
+</ADDRESS_CONTRACTOR>
+<NO_SME/>
+</CONTRACTOR>
+<VAL_TOTAL CURRENCY="EUR">189630.00</VAL_TOTAL>
+</AWARDED_CONTRACT>
+</AWARD_CONTRACT>
+<COMPLEMENTARY_INFO>
+<ADDRESS_REVIEW_BODY>
+<OFFICIALNAME>Tribunal General</OFFICIALNAME>
+<ADDRESS>rue du Fort Niedergrünewald </ADDRESS>
+<TOWN>Luxembourg</TOWN>
+<POSTAL_CODE>2925</POSTAL_CODE>
+<COUNTRY VALUE="LU"/>
+<PHONE>+352 4303-1</PHONE>
+<E_MAIL>cfi.registry@curia.europa.eu</E_MAIL>
+<FAX>+352 4303-2100</FAX>
+<URL>http://curia.europa.eu</URL>
+</ADDRESS_REVIEW_BODY>
+<REVIEW_PROCEDURE>
+<P>En un plazo de 2 meses a partir de la notificación al recurrente o, en su defecto, del día en que este haya tenido conocimiento del acto en cuestión.</P>
+</REVIEW_PROCEDURE>
+<DATE_DISPATCH_NOTICE>2017-01-11</DATE_DISPATCH_NOTICE>
+</COMPLEMENTARY_INFO>
+</F03_2014>
+<F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="FI">
+<CONTRACTING_BODY>
+<ADDRESS_CONTRACTING_BODY>
+<OFFICIALNAME>Frontex – Euroopan raja- ja merivartiovirasto</OFFICIALNAME>
+<ADDRESS>Plac Europejski 6</ADDRESS>
+<TOWN>Warsaw</TOWN>
+<POSTAL_CODE>00-844</POSTAL_CODE>
+<COUNTRY VALUE="PL"/>
+<PHONE>+48 222059500</PHONE>
+<E_MAIL>procurement@frontex.europa.eu</E_MAIL>
+<FAX>+48 222059501</FAX>
+<NUTS CODE="PL127"/>
+<URL_GENERAL>www.frontex.europa.eu</URL_GENERAL>
+</ADDRESS_CONTRACTING_BODY>
+<CA_TYPE VALUE="EU_INSTITUTION"/>
+<CA_ACTIVITY VALUE="DEFENCE"/>
+</CONTRACTING_BODY>
+<OBJECT_CONTRACT>
+<TITLE>
+<P>Muutos nro 1 sopimukseen ”Digitaalista työympäristöä koskeva MyFrontex-ratkaisu (kaupalliseen valmisohjelmistoon (COTS) perustuva intranet)”</P>
+</TITLE>
+<REFERENCE_NUMBER>Frontex/37/2016/JL.</REFERENCE_NUMBER>
+<CPV_MAIN>
+<CPV_CODE CODE="48000000"/>
+</CPV_MAIN>
+<TYPE_CONTRACT CTYPE="SERVICES"/>
+<SHORT_DESCR>
+<P>Muutoksella nro 1 lisätään sopimuksen ”Digitaalista työympäristöä koskeva MyFrontex-ratkaisu (kaupalliseen valmisohjelmistoon (COTS) perustuva intranet)”, Frontex/37/2016/JL, sopimuspohjaisten palvelujen kohteeseen 2 uutta moduulia: valitusmekanismia koskeva moduuli ja henkilöstöresurssien (human resources – HR) rekrytointivälinettä koskeva moduuli.</P>
+</SHORT_DESCR>
+<VAL_TOTAL CURRENCY="EUR">189630.00</VAL_TOTAL>
+<NO_LOT_DIVISION/>
+<OBJECT_DESCR ITEM="1">
+<NUTS CODE="PL127"/>
+<MAIN_SITE>
+<P>Frontexin päätoimipaikka, Varsova, Puola.</P>
+</MAIN_SITE>
+<SHORT_DESCR>
+<P>Muutoksella nro 1 lisätään sopimuksen ”Digitaalista työympäristöä koskeva MyFrontex-ratkaisu (kaupalliseen valmisohjelmistoon (COTS) perustuva intranet)”, Frontex/37/2016/JL, sopimuspohjaisten palvelujen kohteeseen 2 uutta moduulia: valitusmekanismia koskeva moduuli ja henkilöstöresurssien rekrytointivälinettä koskeva moduuli.</P>
+</SHORT_DESCR>
+<AC_PRICE/>
+<NO_OPTIONS/>
+<NO_EU_PROGR_RELATED/>
+</OBJECT_DESCR>
+</OBJECT_CONTRACT>
+<PROCEDURE>
+<PT_AWARD_CONTRACT_WITHOUT_CALL>
+<D_ACCORDANCE_ARTICLE>
+<D_ADD_DELIVERIES_ORDERED/>
+</D_ACCORDANCE_ARTICLE>
+<D_JUSTIFICATION>
+<P>Alkuperäiseen sopimukseen tehdyllä muutoksella viitattiin alkuperäisen sopimusosapuolen tarjoamiin lisähankintoihin ja -palveluihin, jotka eivät sisältyneet alkuperäiseen hankintaan seuraavien ehtojen perusteella:</P>
+<P>1. sopimusosapuolen muutosta ei voida tehdä, koska pyydetty henkilöstöresurssien rekrytointi- ja valitusmekanismi on olennainen osa koko ratkaisua, siinä käytetään sellaisen ratkaisun yhteisiä ominaisuuksia, josta on jo tehty sopimus, ja se suunnitellaan perusteellisen integroinnin avulla konseptin ja teknisten tasojen osalta,</P>
+<P>2. mahdollinen sopimusosapuolen muutos aiheuttaisi merkittäviä päällekkäisiä kustannuksia hankintaviranomaiselle integrointia koskevien lisätöiden ja lisenssikustannusten, jotka koskevat uudelleen käytettävässä ratkaisussa (josta on jo tehty sopimus) jo saatavilla olevia ominaisuuksia, takia,</P>
+<P>3. hinnankorotus, mukaan luettuna peräkkäisten muutosten yhteenlaskettu nettoarvo, ei ole yli 50 prosenttia alkuperäisen sopimuksen arvosta.</P>
+</D_JUSTIFICATION>
+</PT_AWARD_CONTRACT_WITHOUT_CALL>
+<NO_CONTRACT_COVERED_GPA/>
+<NOTICE_NUMBER_OJ>2016/S 179-320222</NOTICE_NUMBER_OJ>
+</PROCEDURE>
+<AWARD_CONTRACT ITEM="1">
+<CONTRACT_NO>Muutos nro 1 sopimukseen Frontex/37/2016/JL</CONTRACT_NO>
+<TITLE>
+<P>Muutos nro 1 sopimukseen ”Digitaalista työympäristöä koskeva MyFrontex-ratkaisu (kaupalliseen valmisohjelmistoon (COTS) perustuva intranet)”</P>
+</TITLE>
+<AWARDED_CONTRACT>
+<DATE_CONCLUSION_CONTRACT>2016-12-19</DATE_CONCLUSION_CONTRACT>
+<NB_TENDERS_RECEIVED>1</NB_TENDERS_RECEIVED>
+<NO_AWARDED_TO_GROUP/>
+<CONTRACTOR>
+<ADDRESS_CONTRACTOR>
+<OFFICIALNAME>Netcompany IT and Business Consulting A/S</OFFICIALNAME>
+<ADDRESS>Gronningen 17</ADDRESS>
+<TOWN>Copenhagen</TOWN>
+<POSTAL_CODE>1270</POSTAL_CODE>
+<COUNTRY VALUE="DK"/>
+<NUTS CODE="DK011"/>
+</ADDRESS_CONTRACTOR>
+<NO_SME/>
+</CONTRACTOR>
+<VAL_TOTAL CURRENCY="EUR">189630.00</VAL_TOTAL>
+</AWARDED_CONTRACT>
+</AWARD_CONTRACT>
+<COMPLEMENTARY_INFO>
+<ADDRESS_REVIEW_BODY>
+<OFFICIALNAME>Unionin yleinen tuomioistuin</OFFICIALNAME>
+<ADDRESS>rue du Fort Niedergrünewald </ADDRESS>
+<TOWN>Luxembourg</TOWN>
+<POSTAL_CODE>2925</POSTAL_CODE>
+<COUNTRY VALUE="LU"/>
+<PHONE>+352 4303-1</PHONE>
+<E_MAIL>cfi.registry@curia.europa.eu</E_MAIL>
+<FAX>+352 4303-2100</FAX>
+<URL>http://curia.europa.eu</URL>
+</ADDRESS_REVIEW_BODY>
+<REVIEW_PROCEDURE>
+<P>muutoksenhakupyynnöt on jätettävä 2 kuukauden kuluessa siitä, kun asianomistaja on saanut ilmoituksen asiasta tai, mikäli ilmoitusta ei ole tehty, 2 kuukauden kuluessa siitä päivästä, kun asia on saatu tiedoksi.</P>
+</REVIEW_PROCEDURE>
+<DATE_DISPATCH_NOTICE>2017-01-11</DATE_DISPATCH_NOTICE>
+</COMPLEMENTARY_INFO>
+</F03_2014>
+<F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="FR">
+<CONTRACTING_BODY>
+<ADDRESS_CONTRACTING_BODY>
+<OFFICIALNAME>Agence européenne de garde-frontières et de garde-côtes (Frontex)</OFFICIALNAME>
+<ADDRESS>Plac Europejski 6</ADDRESS>
+<TOWN>Warsaw</TOWN>
+<POSTAL_CODE>00-844</POSTAL_CODE>
+<COUNTRY VALUE="PL"/>
+<PHONE>+48 222059500</PHONE>
+<E_MAIL>procurement@frontex.europa.eu</E_MAIL>
+<FAX>+48 222059501</FAX>
+<NUTS CODE="PL127"/>
+<URL_GENERAL>www.frontex.europa.eu</URL_GENERAL>
+</ADDRESS_CONTRACTING_BODY>
+<CA_TYPE VALUE="EU_INSTITUTION"/>
+<CA_ACTIVITY VALUE="DEFENCE"/>
+</CONTRACTING_BODY>
+<OBJECT_CONTRACT>
+<TITLE>
+<P>Avenant n<FT TYPE="SUP">o</FT> 1 au contrat «Espace de travail numérique MyFrontex (intranet reposant sur un logiciel commercial)».</P>
+</TITLE>
+<REFERENCE_NUMBER>Frontex/37/2016/JL.</REFERENCE_NUMBER>
+<CPV_MAIN>
+<CPV_CODE CODE="48000000"/>
+</CPV_MAIN>
+<TYPE_CONTRACT CTYPE="SERVICES"/>
+<SHORT_DESCR>
+<P>Avenant n° 1 au contrat «Espace de travail numérique MyFrontex (intranet reposant sur un logiciel commercial)» (Frontex/37/2016/JL) par l'ajout de 2 nouveaux modules à l'objet des services contractuels: module relatif au mécanisme de traitement des plaintes et module relatif à l'outil de recrutement pour les ressources humaines.</P>
+</SHORT_DESCR>
+<VAL_TOTAL CURRENCY="EUR">189630.00</VAL_TOTAL>
+<NO_LOT_DIVISION/>
+<OBJECT_DESCR ITEM="1">
+<NUTS CODE="PL127"/>
+<MAIN_SITE>
+<P>siège de Frontex, Varsovie, Pologne.</P>
+</MAIN_SITE>
+<SHORT_DESCR>
+<P>Avenant n° 1 au contrat «Espace de travail numérique MyFrontex (intranet reposant sur un logiciel commercial)» (Frontex/37/2016/JL) par l'ajout de 2 nouveaux modules à l'objet des services contractuels: module relatif au mécanisme de traitement des plaintes et module relatif à l'outil de recrutement pour les ressources humaines.</P>
+</SHORT_DESCR>
+<AC_PRICE/>
+<NO_OPTIONS/>
+<NO_EU_PROGR_RELATED/>
+</OBJECT_DESCR>
+</OBJECT_CONTRACT>
+<PROCEDURE>
+<PT_AWARD_CONTRACT_WITHOUT_CALL>
+<D_ACCORDANCE_ARTICLE>
+<D_ADD_DELIVERIES_ORDERED/>
+</D_ACCORDANCE_ARTICLE>
+<D_JUSTIFICATION>
+<P>l'avenant conclu au contrat initial portait sur la livraison/fourniture par le contractant initial de fournitures et de services supplémentaires qui n'étaient pas inclus dans le marché initial, sur la base des conditions suivantes:</P>
+<P>1. un changement de contractant est impossible, car le mécanisme requis de recrutement pour les ressources humaines et de traitement des plaintes fera partie intégrante de la solution complète, utilisera des fonctionnalités communes avec la solution qui fait déjà l'objet du contrat, et devra être conçu sur la base d'une intégration approfondie en ce qui concerne le concept et les couches techniques;</P>
+<P>2. tout changement éventuel de contractant entraînerait d'importants coûts supplémentaires pour le pouvoir adjudicateur, en raison de la nécessité de travaux d'intégration supplémentaires et du coût des licences relatives à des fonctionnalités déjà disponibles dans la solution qui fait l'objet du contrat, et qui sera réutilisée;</P>
+<P>3. l'augmentation du prix, comprenant la valeur cumulée nette des modifications successives, ne dépasse pas 50 % de la valeur du contrat initial.</P>
+</D_JUSTIFICATION>
+</PT_AWARD_CONTRACT_WITHOUT_CALL>
+<NO_CONTRACT_COVERED_GPA/>
+<NOTICE_NUMBER_OJ>2016/S 179-320222</NOTICE_NUMBER_OJ>
+</PROCEDURE>
+<AWARD_CONTRACT ITEM="1">
+<CONTRACT_NO>Avenant n° 1 à Frontex/37/2016/JL</CONTRACT_NO>
+<TITLE>
+<P>Avenant n° 1 au contrat «Espace de travail numérique MyFrontex (intranet reposant sur un logiciel commercial)»</P>
+</TITLE>
+<AWARDED_CONTRACT>
+<DATE_CONCLUSION_CONTRACT>2016-12-19</DATE_CONCLUSION_CONTRACT>
+<NB_TENDERS_RECEIVED>1</NB_TENDERS_RECEIVED>
+<NO_AWARDED_TO_GROUP/>
+<CONTRACTOR>
+<ADDRESS_CONTRACTOR>
+<OFFICIALNAME>Netcompany IT and Business Consulting A/S</OFFICIALNAME>
+<ADDRESS>Gronningen 17</ADDRESS>
+<TOWN>Copenhagen</TOWN>
+<POSTAL_CODE>1270</POSTAL_CODE>
+<COUNTRY VALUE="DK"/>
+<NUTS CODE="DK011"/>
+</ADDRESS_CONTRACTOR>
+<NO_SME/>
+</CONTRACTOR>
+<VAL_TOTAL CURRENCY="EUR">189630.00</VAL_TOTAL>
+</AWARDED_CONTRACT>
+</AWARD_CONTRACT>
+<COMPLEMENTARY_INFO>
+<ADDRESS_REVIEW_BODY>
+<OFFICIALNAME>Tribunal</OFFICIALNAME>
+<ADDRESS>rue du Fort Niedergrünewald </ADDRESS>
+<TOWN>Luxembourg</TOWN>
+<POSTAL_CODE>2925</POSTAL_CODE>
+<COUNTRY VALUE="LU"/>
+<PHONE>+352 4303-1</PHONE>
+<E_MAIL>cfi.registry@curia.europa.eu</E_MAIL>
+<FAX>+352 4303-2100</FAX>
+<URL>http://curia.europa.eu</URL>
+</ADDRESS_REVIEW_BODY>
+<REVIEW_PROCEDURE>
+<P>dans les 2 mois à compter de la notification au requérant ou, à défaut, du jour où celui-ci en a eu connaissance.</P>
+</REVIEW_PROCEDURE>
+<DATE_DISPATCH_NOTICE>2017-01-11</DATE_DISPATCH_NOTICE>
+</COMPLEMENTARY_INFO>
+</F03_2014>
+<F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="EL">
+<CONTRACTING_BODY>
+<ADDRESS_CONTRACTING_BODY>
+<OFFICIALNAME>Frontex — Οργανισμός Ευρωπαϊκής Συνοριοφυλακής και Ακτοφυλακής</OFFICIALNAME>
+<ADDRESS>Plac Europejski 6</ADDRESS>
+<TOWN>Warsaw</TOWN>
+<POSTAL_CODE>00-844</POSTAL_CODE>
+<COUNTRY VALUE="PL"/>
+<PHONE>+48 222059500</PHONE>
+<E_MAIL>procurement@frontex.europa.eu</E_MAIL>
+<FAX>+48 222059501</FAX>
+<NUTS CODE="PL127"/>
+<URL_GENERAL>www.frontex.europa.eu</URL_GENERAL>
+</ADDRESS_CONTRACTING_BODY>
+<CA_TYPE VALUE="EU_INSTITUTION"/>
+<CA_ACTIVITY VALUE="DEFENCE"/>
+</CONTRACTING_BODY>
+<OBJECT_CONTRACT>
+<TITLE>
+<P>Τροποποίηση αριθ. 1 της σύμβασης «Ψηφιακός χώρος εργασίας MyFrontex (ενδοδίκτυο βάσει COTS)».</P>
+</TITLE>
+<REFERENCE_NUMBER>Frontex/37/2016/JL.</REFERENCE_NUMBER>
+<CPV_MAIN>
+<CPV_CODE CODE="48000000"/>
+</CPV_MAIN>
+<TYPE_CONTRACT CTYPE="SERVICES"/>
+<SHORT_DESCR>
+<P>Τροποποίηση αριθ. 1 της σύμβασης «Ψηφιακός χώρος εργασίας MyFrontex (ενδοδίκτυο βάσει COTS)» Frontex/37/2016/JL με την προσθήκη 2 νέων λειτουργικών μονάδων στο πεδίο των συμβατικών υπηρεσιών: λειτουργική μονάδα για μηχανισμό καταγγελιών και λειτουργική μονάδα για εργαλείο πρόσληψης των ανθρωπίνων πόρων.</P>
+</SHORT_DESCR>
+<VAL_TOTAL CURRENCY="EUR">189630.00</VAL_TOTAL>
+<NO_LOT_DIVISION/>
+<OBJECT_DESCR ITEM="1">
+<NUTS CODE="PL127"/>
+<MAIN_SITE>
+<P>Κεντρικά γραφεία του Frontex, Βαρσοβία, Πολωνία.</P>
+</MAIN_SITE>
+<SHORT_DESCR>
+<P>Τροποποίηση αριθ. 1 της σύμβασης «Ψηφιακός χώρος εργασίας MyFrontex (ενδοδίκτυο βάσει COTS)» Frontex/37/2016/JL με την προσθήκη 2 νέων λειτουργικών μονάδων στο πεδίο των συμβατικών υπηρεσιών: λειτουργική μονάδα για μηχανισμό καταγγελιών και λειτουργική μονάδα για εργαλείο πρόσληψης των ανθρωπίνων πόρων.</P>
+</SHORT_DESCR>
+<AC_PRICE/>
+<NO_OPTIONS/>
+<NO_EU_PROGR_RELATED/>
+</OBJECT_DESCR>
+</OBJECT_CONTRACT>
+<PROCEDURE>
+<PT_AWARD_CONTRACT_WITHOUT_CALL>
+<D_ACCORDANCE_ARTICLE>
+<D_ADD_DELIVERIES_ORDERED/>
+</D_ACCORDANCE_ARTICLE>
+<D_JUSTIFICATION>
+<P>Η τροποποίηση που πραγματοποιήθηκε στην αρχική σύμβαση αφορά την παροχή πρόσθετων προμηθειών και υπηρεσιών από τον αρχικό ανάδοχο, οι οποίες δεν συμπεριλαμβάνονταν στην αρχική σύμβαση, βασιζόμενη στους ακόλουθους όρους:</P>
+<P>1. δεν είναι δυνατόν να πραγματοποιηθεί αλλαγή του αναδόχου επειδή ο ζητούμενος μηχανισμός πρόσληψης των ανθρωπίνων πόρων και καταγγελιών θα αποτελέσει αναπόσπαστο μέρος της συνολικής λύσης, θα χρησιμοποιήσει κοινές δυνατότητες με την υφιστάμενη λύση που αποτελεί αντικείμενο της σύμβασης και θα σχεδιαστεί με εις βάθος ενοποίηση όσον αφορά την ιδέα και τα τεχνικά επίπεδα.</P>
+<P>2. ενδεχόμενη αλλαγή του αναδόχου θα προκαλούσε ουσιαστικό διπλασιασμό των δαπανών για την αναθέτουσα αρχή, λόγω της ανάγκης για πρόσθετες εργασίες ενοποίησης και του κόστους των αδειών για δυνατότητες που είναι ήδη διαθέσιμες στη λύση που αποτελεί αντικείμενο της σύμβασης και θα επαναχρησιμοποιηθούν,</P>
+<P>3. η αύξηση της τιμής, συμπεριλαμβανομένης της καθαρής σωρευτικής αξίας των διαδοχικών τροποποιήσεων, δεν υπερβαίνει το 50 % της αρχικής συμβατικής αξίας.</P>
+</D_JUSTIFICATION>
+</PT_AWARD_CONTRACT_WITHOUT_CALL>
+<NO_CONTRACT_COVERED_GPA/>
+<NOTICE_NUMBER_OJ>2016/S 179-320222</NOTICE_NUMBER_OJ>
+</PROCEDURE>
+<AWARD_CONTRACT ITEM="1">
+<CONTRACT_NO>Τροποποίηση αριθ. 1 της Frontex/37/2016/JL</CONTRACT_NO>
+<TITLE>
+<P>Τροποποίηση αριθ. 1 της σύμβασης «Ψηφιακός χώρος εργασίας MyFrontex (ενδοδίκτυο βάσει COTS)»</P>
+</TITLE>
+<AWARDED_CONTRACT>
+<DATE_CONCLUSION_CONTRACT>2016-12-19</DATE_CONCLUSION_CONTRACT>
+<NB_TENDERS_RECEIVED>1</NB_TENDERS_RECEIVED>
+<NO_AWARDED_TO_GROUP/>
+<CONTRACTOR>
+<ADDRESS_CONTRACTOR>
+<OFFICIALNAME>Netcompany IT and Business Consulting A/S</OFFICIALNAME>
+<ADDRESS>Gronningen 17</ADDRESS>
+<TOWN>Copenhagen</TOWN>
+<POSTAL_CODE>1270</POSTAL_CODE>
+<COUNTRY VALUE="DK"/>
+<NUTS CODE="DK011"/>
+</ADDRESS_CONTRACTOR>
+<NO_SME/>
+</CONTRACTOR>
+<VAL_TOTAL CURRENCY="EUR">189630.00</VAL_TOTAL>
+</AWARDED_CONTRACT>
+</AWARD_CONTRACT>
+<COMPLEMENTARY_INFO>
+<ADDRESS_REVIEW_BODY>
+<OFFICIALNAME>Γενικό Δικαστήριο</OFFICIALNAME>
+<ADDRESS>rue du Fort Niedergrünewald </ADDRESS>
+<TOWN>Luxembourg</TOWN>
+<POSTAL_CODE>2925</POSTAL_CODE>
+<COUNTRY VALUE="LU"/>
+<PHONE>+352 4303-1</PHONE>
+<E_MAIL>cfi.registry@curia.europa.eu</E_MAIL>
+<FAX>+352 4303-2100</FAX>
+<URL>http://curia.europa.eu</URL>
+</ADDRESS_REVIEW_BODY>
+<REVIEW_PROCEDURE>
+<P>Εντός 2 μηνών από την κοινοποίηση στον προσφεύγοντα ή, ελλείψει τέτοιας, από την ημέρα που ο ίδιος έλαβε γνώση.</P>
+</REVIEW_PROCEDURE>
+<DATE_DISPATCH_NOTICE>2017-01-11</DATE_DISPATCH_NOTICE>
+</COMPLEMENTARY_INFO>
+</F03_2014>
+<F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="IT">
+<CONTRACTING_BODY>
+<ADDRESS_CONTRACTING_BODY>
+<OFFICIALNAME>Frontex — Agenzia europea della guardia di frontiera e costiera</OFFICIALNAME>
+<ADDRESS>Plac Europejski 6</ADDRESS>
+<TOWN>Warsaw</TOWN>
+<POSTAL_CODE>00-844</POSTAL_CODE>
+<COUNTRY VALUE="PL"/>
+<PHONE>+48 222059500</PHONE>
+<E_MAIL>procurement@frontex.europa.eu</E_MAIL>
+<FAX>+48 222059501</FAX>
+<NUTS CODE="PL127"/>
+<URL_GENERAL>www.frontex.europa.eu</URL_GENERAL>
+</ADDRESS_CONTRACTING_BODY>
+<CA_TYPE VALUE="EU_INSTITUTION"/>
+<CA_ACTIVITY VALUE="DEFENCE"/>
+</CONTRACTING_BODY>
+<OBJECT_CONTRACT>
+<TITLE>
+<P>Modifica n. 1 al contratto «Postazione di lavoro digitale MyFrontex (intranet basato su componenti hardware disponibili in commercio)».</P>
+</TITLE>
+<REFERENCE_NUMBER>Frontex/37/2016/JL.</REFERENCE_NUMBER>
+<CPV_MAIN>
+<CPV_CODE CODE="48000000"/>
+</CPV_MAIN>
+<TYPE_CONTRACT CTYPE="SERVICES"/>
+<SHORT_DESCR>
+<P>Modifica n. 1 al contratto «Postazione di lavoro digitale MyFrontex (intranet basato su componenti hardware disponibili in commercio)» Frontex/37/2016/JL tramite l'aggiunta di 2 nuovi moduli alla portata dei servizi contrattuali: modulo sul meccanismo per i reclami e modulo sullo strumento di reclutamento delle risorse umane.</P>
+</SHORT_DESCR>
+<VAL_TOTAL CURRENCY="EUR">189630.00</VAL_TOTAL>
+<NO_LOT_DIVISION/>
+<OBJECT_DESCR ITEM="1">
+<NUTS CODE="PL127"/>
+<MAIN_SITE>
+<P>sede principale Frontex, Varsavia, Polonia.</P>
+</MAIN_SITE>
+<SHORT_DESCR>
+<P>Modifica n. 1 al contratto «Postazione di lavoro digitale MyFrontex (intranet basato su componenti hardware disponibili in commercio)» Frontex/37/2016/JL tramite l'aggiunta di 2 nuovi moduli alla portata dei servizi contrattuali: modulo sul meccanismo per i reclami e modulo sullo strumento di reclutamento delle risorse umane.</P>
+</SHORT_DESCR>
+<AC_PRICE/>
+<NO_OPTIONS/>
+<NO_EU_PROGR_RELATED/>
+</OBJECT_DESCR>
+</OBJECT_CONTRACT>
+<PROCEDURE>
+<PT_AWARD_CONTRACT_WITHOUT_CALL>
+<D_ACCORDANCE_ARTICLE>
+<D_ADD_DELIVERIES_ORDERED/>
+</D_ACCORDANCE_ARTICLE>
+<D_JUSTIFICATION>
+<P>la modifica apportata al contratto originale riguarda forniture e servizi aggiuntivi da parte del contraente originale che non erano inclusi nell'appalto originale, in base alle seguenti condizioni:</P>
+<P>1. non può essere effettuato un cambiamento del contraente poiché il meccanismo richiesto per il reclutamento delle risorse umane e per i reclami costituirà parte integrante della soluzione complessiva, utilizzerà funzioni comuni della soluzione già oggetto del contratto e sarà progettato con profonda integrazione rispetto al concetto e ai livelli tecnici;</P>
+<P>2. qualsiasi potenziale cambiamento del contraente causerebbe una duplicazione sostanziale dei costi per l'ente appaltante dovuta alla necessità di lavori di integrazione supplementari e al costo delle licenze per le funzioni già disponibili nella soluzione oggetto del contratto che saranno riutilizzate;</P>
+<P>3. l'aumento del prezzo, compreso il valore cumulativo netto delle successive modifiche, non supera il 50 % del valore del contratto iniziale.</P>
+</D_JUSTIFICATION>
+</PT_AWARD_CONTRACT_WITHOUT_CALL>
+<NO_CONTRACT_COVERED_GPA/>
+<NOTICE_NUMBER_OJ>2016/S 179-320222</NOTICE_NUMBER_OJ>
+</PROCEDURE>
+<AWARD_CONTRACT ITEM="1">
+<CONTRACT_NO>Modifica n. 1 a Frontex/37/2016/JL</CONTRACT_NO>
+<TITLE>
+<P>Modifica n. 1 al contratto «Postazione di lavoro digitale MyFrontex (intranet basato su componenti hardware disponibili in commercio)»</P>
+</TITLE>
+<AWARDED_CONTRACT>
+<DATE_CONCLUSION_CONTRACT>2016-12-19</DATE_CONCLUSION_CONTRACT>
+<NB_TENDERS_RECEIVED>1</NB_TENDERS_RECEIVED>
+<NO_AWARDED_TO_GROUP/>
+<CONTRACTOR>
+<ADDRESS_CONTRACTOR>
+<OFFICIALNAME>Netcompany IT and Business Consulting A/S</OFFICIALNAME>
+<ADDRESS>Gronningen 17</ADDRESS>
+<TOWN>Copenhagen</TOWN>
+<POSTAL_CODE>1270</POSTAL_CODE>
+<COUNTRY VALUE="DK"/>
+<NUTS CODE="DK011"/>
+</ADDRESS_CONTRACTOR>
+<NO_SME/>
+</CONTRACTOR>
+<VAL_TOTAL CURRENCY="EUR">189630.00</VAL_TOTAL>
+</AWARDED_CONTRACT>
+</AWARD_CONTRACT>
+<COMPLEMENTARY_INFO>
+<ADDRESS_REVIEW_BODY>
+<OFFICIALNAME>Tribunale</OFFICIALNAME>
+<ADDRESS>rue du Fort Niedergrünewald </ADDRESS>
+<TOWN>Luxembourg</TOWN>
+<POSTAL_CODE>2925</POSTAL_CODE>
+<COUNTRY VALUE="LU"/>
+<PHONE>+352 4303-1</PHONE>
+<E_MAIL>cfi.registry@curia.europa.eu</E_MAIL>
+<FAX>+352 4303-2100</FAX>
+<URL>http://curia.europa.eu</URL>
+</ADDRESS_REVIEW_BODY>
+<REVIEW_PROCEDURE>
+<P>entro 2 mesi dalla notifica al ricorrente o, in assenza, dal giorno in cui ne è venuto a conoscenza.</P>
+</REVIEW_PROCEDURE>
+<DATE_DISPATCH_NOTICE>2017-01-11</DATE_DISPATCH_NOTICE>
+</COMPLEMENTARY_INFO>
+</F03_2014>
+<F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="NL">
+<CONTRACTING_BODY>
+<ADDRESS_CONTRACTING_BODY>
+<OFFICIALNAME>Frontex — Europees grens- en kustwachtagentschap</OFFICIALNAME>
+<ADDRESS>Plac Europejski 6</ADDRESS>
+<TOWN>Warsaw</TOWN>
+<POSTAL_CODE>00-844</POSTAL_CODE>
+<COUNTRY VALUE="PL"/>
+<PHONE>+48 222059500</PHONE>
+<E_MAIL>procurement@frontex.europa.eu</E_MAIL>
+<FAX>+48 222059501</FAX>
+<NUTS CODE="PL127"/>
+<URL_GENERAL>www.frontex.europa.eu</URL_GENERAL>
+</ADDRESS_CONTRACTING_BODY>
+<CA_TYPE VALUE="EU_INSTITUTION"/>
+<CA_ACTIVITY VALUE="DEFENCE"/>
+</CONTRACTING_BODY>
+<OBJECT_CONTRACT>
+<TITLE>
+<P>Wijziging nr. 1 aan de opdracht „Digitale werkplek MyFrontex (intranet op basis van commerciële kant-en-klare software)”.</P>
+</TITLE>
+<REFERENCE_NUMBER>Frontex/37/2016/JL.</REFERENCE_NUMBER>
+<CPV_MAIN>
+<CPV_CODE CODE="48000000"/>
+</CPV_MAIN>
+<TYPE_CONTRACT CTYPE="SERVICES"/>
+<SHORT_DESCR>
+<P>Wijziging nr. 1 aan de opdracht „Digitale werkplek MyFrontex (intranet op basis van commerciële kant-en-klare software)”, Frontex/37/2016/JL, door toevoeging van 2 nieuwe modules aan de omvang van de contractuele diensten: een module over een klachtenmechanisme, en een module over een wervingsinstrument voor hr.</P>
+</SHORT_DESCR>
+<VAL_TOTAL CURRENCY="EUR">189630.00</VAL_TOTAL>
+<NO_LOT_DIVISION/>
+<OBJECT_DESCR ITEM="1">
+<NUTS CODE="PL127"/>
+<MAIN_SITE>
+<P>hoofdkantoor van Frontex, Warschau, Polen.</P>
+</MAIN_SITE>
+<SHORT_DESCR>
+<P>Wijziging nr. 1 aan de opdracht „Digitale werkplek MyFrontex (intranet op basis van commerciële kant-en-klare software)”, Frontex/37/2016/JL, door toevoeging van 2 nieuwe modules aan de omvang van de contractuele diensten: een module over een klachtenmechanisme, en een module over een wervingsinstrument voor hr.</P>
+</SHORT_DESCR>
+<AC_PRICE/>
+<NO_OPTIONS/>
+<NO_EU_PROGR_RELATED/>
+</OBJECT_DESCR>
+</OBJECT_CONTRACT>
+<PROCEDURE>
+<PT_AWARD_CONTRACT_WITHOUT_CALL>
+<D_ACCORDANCE_ARTICLE>
+<D_ADD_DELIVERIES_ORDERED/>
+</D_ACCORDANCE_ARTICLE>
+<D_JUSTIFICATION>
+<P>De aangebrachte wijziging aan de oorspronkelijke opdracht vermeld aanvullende benodigdheden en diensten die de oorspronkelijke contractant moet verlenen die niet zijn opgenomen in de oorspronkelijke aanbesteding, op basis van de volgende voorwaarden:</P>
+<P>1. er kan niet van contractant worden gewisseld omdat het gevraagde hr-wervings- en klachtenmechanisme integraal deel uitmaakt van de volledige oplossing, gebruik zal maken van gemeenschappelijke kenmerken van de reeds gegunde opdracht en moet worden ontworpen met diepgaande integratie van het concept en de technische lagen;</P>
+<P>2. een mogelijke wisseling van contractant zou aanzienlijke extra kosten voor de aanbestedende dienst met zich meebrengen, door de behoefte aan bijkomende integratiewerkzaamheden en vergunningskosten voor reeds in de gegunde oplossing beschikbare kenmerken, die opnieuw worden gebruikt;</P>
+<P>3. de stijging van de prijs, met inbegrip van de cumulatieve nettowaarde van de opeenvolgende wijzigingen, mag niet meer bedragen dan 50 % van de initiële waarde van de opdracht.</P>
+</D_JUSTIFICATION>
+</PT_AWARD_CONTRACT_WITHOUT_CALL>
+<NO_CONTRACT_COVERED_GPA/>
+<NOTICE_NUMBER_OJ>2016/S 179-320222</NOTICE_NUMBER_OJ>
+</PROCEDURE>
+<AWARD_CONTRACT ITEM="1">
+<CONTRACT_NO>Wijziging nr. 1 aan Frontex/37/2016/JL</CONTRACT_NO>
+<TITLE>
+<P>Wijziging nr. 1 aan de opdracht „Digitale werkplek MyFrontex (intranet op basis van commerciële kant-en-klare software)”</P>
+</TITLE>
+<AWARDED_CONTRACT>
+<DATE_CONCLUSION_CONTRACT>2016-12-19</DATE_CONCLUSION_CONTRACT>
+<NB_TENDERS_RECEIVED>1</NB_TENDERS_RECEIVED>
+<NO_AWARDED_TO_GROUP/>
+<CONTRACTOR>
+<ADDRESS_CONTRACTOR>
+<OFFICIALNAME>Netcompany IT and Business Consulting A/S</OFFICIALNAME>
+<ADDRESS>Gronningen 17</ADDRESS>
+<TOWN>Copenhagen</TOWN>
+<POSTAL_CODE>1270</POSTAL_CODE>
+<COUNTRY VALUE="DK"/>
+<NUTS CODE="DK011"/>
+</ADDRESS_CONTRACTOR>
+<NO_SME/>
+</CONTRACTOR>
+<VAL_TOTAL CURRENCY="EUR">189630.00</VAL_TOTAL>
+</AWARDED_CONTRACT>
+</AWARD_CONTRACT>
+<COMPLEMENTARY_INFO>
+<ADDRESS_REVIEW_BODY>
+<OFFICIALNAME>Gerecht</OFFICIALNAME>
+<ADDRESS>rue du Fort Niedergrünewald </ADDRESS>
+<TOWN>Luxembourg</TOWN>
+<POSTAL_CODE>2925</POSTAL_CODE>
+<COUNTRY VALUE="LU"/>
+<PHONE>+352 4303-1</PHONE>
+<E_MAIL>cfi.registry@curia.europa.eu</E_MAIL>
+<FAX>+352 4303-2100</FAX>
+<URL>http://curia.europa.eu</URL>
+</ADDRESS_REVIEW_BODY>
+<REVIEW_PROCEDURE>
+<P>binnen 2 maanden na de kennisgeving aan de klager of, bij ontbreken daarvan, binnen 2 maanden na de dag waarop het bekend werd.</P>
+</REVIEW_PROCEDURE>
+<DATE_DISPATCH_NOTICE>2017-01-11</DATE_DISPATCH_NOTICE>
+</COMPLEMENTARY_INFO>
+</F03_2014>
+<F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="PT">
+<CONTRACTING_BODY>
+<ADDRESS_CONTRACTING_BODY>
+<OFFICIALNAME>Frontex — Agência Europeia da Guarda de Fronteiras e Costeira</OFFICIALNAME>
+<ADDRESS>Plac Europejski 6</ADDRESS>
+<TOWN>Warsaw</TOWN>
+<POSTAL_CODE>00-844</POSTAL_CODE>
+<COUNTRY VALUE="PL"/>
+<PHONE>+48 222059500</PHONE>
+<E_MAIL>procurement@frontex.europa.eu</E_MAIL>
+<FAX>+48 222059501</FAX>
+<NUTS CODE="PL127"/>
+<URL_GENERAL>www.frontex.europa.eu</URL_GENERAL>
+</ADDRESS_CONTRACTING_BODY>
+<CA_TYPE VALUE="EU_INSTITUTION"/>
+<CA_ACTIVITY VALUE="DEFENCE"/>
+</CONTRACTING_BODY>
+<OBJECT_CONTRACT>
+<TITLE>
+<P>Alteração n.<FT TYPE="SUP">o</FT> 1 do contrato «Espaço de trabalho digital MyFrontex (Intranet baseada em software COTS)».</P>
+</TITLE>
+<REFERENCE_NUMBER>Frontex/37/2016/JL.</REFERENCE_NUMBER>
+<CPV_MAIN>
+<CPV_CODE CODE="48000000"/>
+</CPV_MAIN>
+<TYPE_CONTRACT CTYPE="SERVICES"/>
+<SHORT_DESCR>
+<P>Alteração n.<FT TYPE="SUP">o</FT> 1 do contrato «Espaço de trabalho digital MyFrontex (Intranet baseada em software COTS)» Frontex/37/2016/JL através da introdução de 2 novos módulos no âmbito dos serviços contratuais: módulo relativo ao mecanismo para reclamações e módulo relativo à ferramenta de recrutamento de RH.</P>
+</SHORT_DESCR>
+<VAL_TOTAL CURRENCY="EUR">189630.00</VAL_TOTAL>
+<NO_LOT_DIVISION/>
+<OBJECT_DESCR ITEM="1">
+<NUTS CODE="PL127"/>
+<MAIN_SITE>
+<P>Sede da Frontex, Varsóvia, Polónia.</P>
+</MAIN_SITE>
+<SHORT_DESCR>
+<P>Alteração n.<FT TYPE="SUP">o</FT> 1 do contrato «Espaço de trabalho digital MyFrontex (Intranet baseada em software COTS)» Frontex/37/2016/JL através da introdução de 2 novos módulos no âmbito dos serviços contratuais: módulo relativo ao mecanismo para reclamações e módulo relativo à ferramenta de recrutamento de RH.</P>
+</SHORT_DESCR>
+<AC_PRICE/>
+<NO_OPTIONS/>
+<NO_EU_PROGR_RELATED/>
+</OBJECT_DESCR>
+</OBJECT_CONTRACT>
+<PROCEDURE>
+<PT_AWARD_CONTRACT_WITHOUT_CALL>
+<D_ACCORDANCE_ARTICLE>
+<D_ADD_DELIVERIES_ORDERED/>
+</D_ACCORDANCE_ARTICLE>
+<D_JUSTIFICATION>
+<P>A alteração realizada no contrato original dizia respeito a fornecimentos e serviços adicionais pelo contratante original que não se encontravam incluídos no concurso original com base nas seguintes condições:</P>
+<P>1. A alteração do contratante não é permitida uma vez que o mecanismo solicitado para reclamações e recrutamento dos RH constituirá uma parte integrante de toda a solução, utilizará características comuns da solução já contratada e deverá ser concebido com uma integração aprofundada relativamente às camadas técnicas e concetuais;</P>
+<P>2. Qualquer eventual alteração do contratante resultaria numa duplicação substancial de custos para a entidade adjudicante devido à necessidade de trabalhos de integração adicionais e custo de licenças para características já disponíveis na solução contratada que serão reutilizadas;</P>
+<P>3. O aumento do preço, incluindo o valor acumulado líquido das modificações sucessivas, não ultrapassa 50 % do valor contratual inicial.</P>
+</D_JUSTIFICATION>
+</PT_AWARD_CONTRACT_WITHOUT_CALL>
+<NO_CONTRACT_COVERED_GPA/>
+<NOTICE_NUMBER_OJ>2016/S 179-320222</NOTICE_NUMBER_OJ>
+</PROCEDURE>
+<AWARD_CONTRACT ITEM="1">
+<CONTRACT_NO>Alteração n.o 1 do Frontex/37/2016/JL</CONTRACT_NO>
+<TITLE>
+<P>Alteração n.<FT TYPE="SUP">o</FT>1 do contrato «Espaço de trabalho digital MyFrontex (Intranet baseada em software COTS)»</P>
+</TITLE>
+<AWARDED_CONTRACT>
+<DATE_CONCLUSION_CONTRACT>2016-12-19</DATE_CONCLUSION_CONTRACT>
+<NB_TENDERS_RECEIVED>1</NB_TENDERS_RECEIVED>
+<NO_AWARDED_TO_GROUP/>
+<CONTRACTOR>
+<ADDRESS_CONTRACTOR>
+<OFFICIALNAME>Netcompany IT and Business Consulting A/S</OFFICIALNAME>
+<ADDRESS>Gronningen 17</ADDRESS>
+<TOWN>Copenhagen</TOWN>
+<POSTAL_CODE>1270</POSTAL_CODE>
+<COUNTRY VALUE="DK"/>
+<NUTS CODE="DK011"/>
+</ADDRESS_CONTRACTOR>
+<NO_SME/>
+</CONTRACTOR>
+<VAL_TOTAL CURRENCY="EUR">189630.00</VAL_TOTAL>
+</AWARDED_CONTRACT>
+</AWARD_CONTRACT>
+<COMPLEMENTARY_INFO>
+<ADDRESS_REVIEW_BODY>
+<OFFICIALNAME>Tribunal Geral</OFFICIALNAME>
+<ADDRESS>rue du Fort Niedergrünewald </ADDRESS>
+<TOWN>Luxembourg</TOWN>
+<POSTAL_CODE>2925</POSTAL_CODE>
+<COUNTRY VALUE="LU"/>
+<PHONE>+352 4303-1</PHONE>
+<E_MAIL>cfi.registry@curia.europa.eu</E_MAIL>
+<FAX>+352 4303-2100</FAX>
+<URL>http://curia.europa.eu</URL>
+</ADDRESS_REVIEW_BODY>
+<REVIEW_PROCEDURE>
+<P>Num prazo de 2 meses a contar da data de notificação ao requerente ou, na sua falta, a contar do dia em que o requerente tenha tomado conhecimento do ato.</P>
+</REVIEW_PROCEDURE>
+<DATE_DISPATCH_NOTICE>2017-01-11</DATE_DISPATCH_NOTICE>
+</COMPLEMENTARY_INFO>
+</F03_2014>
+<F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="SV">
+<CONTRACTING_BODY>
+<ADDRESS_CONTRACTING_BODY>
+<OFFICIALNAME>Frontex – Europeiska gräns- och kustbevakningsbyrån</OFFICIALNAME>
+<ADDRESS>Plac Europejski 6</ADDRESS>
+<TOWN>Warsaw</TOWN>
+<POSTAL_CODE>00-844</POSTAL_CODE>
+<COUNTRY VALUE="PL"/>
+<PHONE>+48 222059500</PHONE>
+<E_MAIL>procurement@frontex.europa.eu</E_MAIL>
+<FAX>+48 222059501</FAX>
+<NUTS CODE="PL127"/>
+<URL_GENERAL>www.frontex.europa.eu</URL_GENERAL>
+</ADDRESS_CONTRACTING_BODY>
+<CA_TYPE VALUE="EU_INSTITUTION"/>
+<CA_ACTIVITY VALUE="DEFENCE"/>
+</CONTRACTING_BODY>
+<OBJECT_CONTRACT>
+<TITLE>
+<P>Ändring nr 1 av kontraktet ”Den digitala arbetsplatsen MyFrontex (intranät som baseras på en färdigköpt allmänt tillgänglig programvara)”</P>
+</TITLE>
+<REFERENCE_NUMBER>Frontex/37/2016/JL.</REFERENCE_NUMBER>
+<CPV_MAIN>
+<CPV_CODE CODE="48000000"/>
+</CPV_MAIN>
+<TYPE_CONTRACT CTYPE="SERVICES"/>
+<SHORT_DESCR>
+<P>Ändring nr 1 av kontraktet ”Den digitala arbetsplatsen MyFrontex (intranät som baseras på en färdigköpt allmänt tillgänglig programvara)” Frontex/37/2016/JL genom tilllägg av 2 nya moduler inom ramen för de avtalsbundna tjänsterna: modul avseende klagomålsmekanism och modul avseende rekryteringsverktyg för mänskliga resurser (human resources – HR).</P>
+</SHORT_DESCR>
+<VAL_TOTAL CURRENCY="EUR">189630.00</VAL_TOTAL>
+<NO_LOT_DIVISION/>
+<OBJECT_DESCR ITEM="1">
+<NUTS CODE="PL127"/>
+<MAIN_SITE>
+<P>Frontex huvudkontor (headquarters – HQ), Warszawa, Polen.</P>
+</MAIN_SITE>
+<SHORT_DESCR>
+<P>Ändring nr 1 av kontraktet ”Den digitala arbetsplatsen MyFrontex (intranät som baseras på en färdigköpt allmänt tillgänglig programvara)” Frontex/37/2016/JL genom tilllägg av 2 nya moduler inom ramen för de avtalsbundna tjänsterna, enligt följande: modul avseende klagomålsmekanism och modul avseende HR-rekryteringsverktyg.</P>
+</SHORT_DESCR>
+<AC_PRICE/>
+<NO_OPTIONS/>
+<NO_EU_PROGR_RELATED/>
+</OBJECT_DESCR>
+</OBJECT_CONTRACT>
+<PROCEDURE>
+<PT_AWARD_CONTRACT_WITHOUT_CALL>
+<D_ACCORDANCE_ARTICLE>
+<D_ADD_DELIVERIES_ORDERED/>
+</D_ACCORDANCE_ARTICLE>
+<D_JUSTIFICATION>
+<P>Ändringen som görs till det ursprungliga kontraktet avser ytterligare varor och tjänster från den ursprungliga uppdragstagaren som inte ingick i den ursprungliga upphandlingen på grundval av följande villkor:</P>
+<P>1. Ett byte av uppdragstagare kan inte göras eftersom den begärda HR-rekryterings- och klagomålsmekanismen kommer att utgöra en integrerad del av hela lösningen och kommer att använda gemensamma funktioner av den lösning som redan ingår i kontraktet och ska utformas genom omfattande integrering avseende konceptuella och tekniska skikt.</P>
+<P>2. Ett eventuellt byte av uppdragstagare skulle orsaka betydande dubblering av kostnader för den upphandlande myndigheten på grund av behovet av ytterligare arbeten avseende integrering och kostnaden för licenser för funktioner som redan finns tillgängliga i lösningen som ingår i kontraktet och som kommer att återanvändas.</P>
+<P>3. Prisökningen, inbegripet det samlade nettovärdet av efterföljande ändringar, överstiger inte 50 % av det inledande kontraktsvärdet.</P>
+</D_JUSTIFICATION>
+</PT_AWARD_CONTRACT_WITHOUT_CALL>
+<NO_CONTRACT_COVERED_GPA/>
+<NOTICE_NUMBER_OJ>2016/S 179-320222</NOTICE_NUMBER_OJ>
+</PROCEDURE>
+<AWARD_CONTRACT ITEM="1">
+<CONTRACT_NO>Ändring nr 1 av Frontex/37/2016/JL</CONTRACT_NO>
+<TITLE>
+<P>Ändring nr 1 av kontraktet ”Den digitala arbetsplatsen MyFrontex (intranät som baseras på en färdigköpt allmänt tillgänglig programvara)”</P>
+</TITLE>
+<AWARDED_CONTRACT>
+<DATE_CONCLUSION_CONTRACT>2016-12-19</DATE_CONCLUSION_CONTRACT>
+<NB_TENDERS_RECEIVED>1</NB_TENDERS_RECEIVED>
+<NO_AWARDED_TO_GROUP/>
+<CONTRACTOR>
+<ADDRESS_CONTRACTOR>
+<OFFICIALNAME>Netcompany IT and Business Consulting A/S</OFFICIALNAME>
+<ADDRESS>Gronningen 17</ADDRESS>
+<TOWN>Copenhagen</TOWN>
+<POSTAL_CODE>1270</POSTAL_CODE>
+<COUNTRY VALUE="DK"/>
+<NUTS CODE="DK011"/>
+</ADDRESS_CONTRACTOR>
+<NO_SME/>
+</CONTRACTOR>
+<VAL_TOTAL CURRENCY="EUR">189630.00</VAL_TOTAL>
+</AWARDED_CONTRACT>
+</AWARD_CONTRACT>
+<COMPLEMENTARY_INFO>
+<ADDRESS_REVIEW_BODY>
+<OFFICIALNAME>Tribunalen</OFFICIALNAME>
+<ADDRESS>rue du Fort Niedergrünewald </ADDRESS>
+<TOWN>Luxembourg</TOWN>
+<POSTAL_CODE>2925</POSTAL_CODE>
+<COUNTRY VALUE="LU"/>
+<PHONE>+352 4303-1</PHONE>
+<E_MAIL>cfi.registry@curia.europa.eu</E_MAIL>
+<FAX>+352 4303-2100</FAX>
+<URL>http://curia.europa.eu</URL>
+</ADDRESS_REVIEW_BODY>
+<REVIEW_PROCEDURE>
+<P>Inom 2 månader från den dag då den klagande delgavs eller, om så inte skett, från den dag då det blev känt.</P>
+</REVIEW_PROCEDURE>
+<DATE_DISPATCH_NOTICE>2017-01-11</DATE_DISPATCH_NOTICE>
+</COMPLEMENTARY_INFO>
+</F03_2014>
+<F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="CS">
+<CONTRACTING_BODY>
+<ADDRESS_CONTRACTING_BODY>
+<OFFICIALNAME>Frontex – Evropská agentura pro pohraniční a pobřežní stráž</OFFICIALNAME>
+<ADDRESS>Plac Europejski 6</ADDRESS>
+<TOWN>Warsaw</TOWN>
+<POSTAL_CODE>00-844</POSTAL_CODE>
+<COUNTRY VALUE="PL"/>
+<PHONE>+48 222059500</PHONE>
+<E_MAIL>procurement@frontex.europa.eu</E_MAIL>
+<FAX>+48 222059501</FAX>
+<NUTS CODE="PL127"/>
+<URL_GENERAL>www.frontex.europa.eu</URL_GENERAL>
+</ADDRESS_CONTRACTING_BODY>
+<CA_TYPE VALUE="EU_INSTITUTION"/>
+<CA_ACTIVITY VALUE="DEFENCE"/>
+</CONTRACTING_BODY>
+<OBJECT_CONTRACT>
+<TITLE>
+<P>Dodatek č. 1 ke smlouvě „Digitální pracoviště MyFrontex (intranet na bázi standardních komerčně dostupných technologií (COTS))“.</P>
+</TITLE>
+<REFERENCE_NUMBER>Frontex/37/2016/JL.</REFERENCE_NUMBER>
+<CPV_MAIN>
+<CPV_CODE CODE="48000000"/>
+</CPV_MAIN>
+<TYPE_CONTRACT CTYPE="SERVICES"/>
+<SHORT_DESCR>
+<P>Dodatek č. 1 ke smlouvě „Digitální pracoviště MyFrontex (intranet na bázi standardních komerčně dostupných technologií (COTS))“ Frontex/37/2016/JL přidáním 2 nových modulů do rozsahu smluvních služeb: modul týkající se mechanismů řešení stížností a modul týkající se nástroje pro nábor personálu.</P>
+</SHORT_DESCR>
+<VAL_TOTAL CURRENCY="EUR">189630.00</VAL_TOTAL>
+<NO_LOT_DIVISION/>
+<OBJECT_DESCR ITEM="1">
+<NUTS CODE="PL127"/>
+<MAIN_SITE>
+<P>Frontex HQ, Warsaw, Polsko.</P>
+</MAIN_SITE>
+<SHORT_DESCR>
+<P>Dodatek č. 1 ke smlouvě „Digitální pracoviště MyFrontex (intranet na bázi standardních komerčně dostupných technologií (COTS))“ Frontex/37/2016/JL přidáním 2 nových modulů do rozsahu smluvních služeb: modul týkající se mechanismů řešení stížností a modul týkající se nástroje pro nábor personálu.</P>
+</SHORT_DESCR>
+<AC_PRICE/>
+<NO_OPTIONS/>
+<NO_EU_PROGR_RELATED/>
+</OBJECT_DESCR>
+</OBJECT_CONTRACT>
+<PROCEDURE>
+<PT_AWARD_CONTRACT_WITHOUT_CALL>
+<D_ACCORDANCE_ARTICLE>
+<D_ADD_DELIVERIES_ORDERED/>
+</D_ACCORDANCE_ARTICLE>
+<D_JUSTIFICATION>
+<P>Změna provedená v původní smlouvě týkající se dodatečných dodávek a služeb původním dodavatelem, které nebyly zahrnuty v původní zakázce na základě následujících podmínek:</P>
+<P>1. změna poskytovatele služeb nemůže být provedena, neboť požadovaný nábor personálu a mechanismus řešení stížností budou tvořit nedílnou součást celého řešení, budou využívat společné funkce již smluvně zajištěného řešení a musí být navrženy s hloubkovou integrací do koncepční a technické úrovně;</P>
+<P>2. případná změna poskytovatele služeb by způsobila zásadní zdvojování nákladů pro veřejného zadavatele z důvodu dalších integračních prací a nákladů na licence pro funkce již dostupné ve smluvně zajištěném řešení, které se bude opětovně využívat;</P>
+<P>3. nárůst cen, včetně čisté souhrnné hodnoty následných úprav, nepřesáhne 50 % hodnoty původní zakázky.</P>
+</D_JUSTIFICATION>
+</PT_AWARD_CONTRACT_WITHOUT_CALL>
+<NO_CONTRACT_COVERED_GPA/>
+<NOTICE_NUMBER_OJ>2016/S 179-320222</NOTICE_NUMBER_OJ>
+</PROCEDURE>
+<AWARD_CONTRACT ITEM="1">
+<CONTRACT_NO>Dodatek č. 1 k zakázce Frontex/37/2016/JL</CONTRACT_NO>
+<TITLE>
+<P>Dodatek č. 1 ke smlouvě „Digitální pracoviště MyFrontex (intranet na bázi standardních komerčně dostupných technologií (COTS))“</P>
+</TITLE>
+<AWARDED_CONTRACT>
+<DATE_CONCLUSION_CONTRACT>2016-12-19</DATE_CONCLUSION_CONTRACT>
+<NB_TENDERS_RECEIVED>1</NB_TENDERS_RECEIVED>
+<NO_AWARDED_TO_GROUP/>
+<CONTRACTOR>
+<ADDRESS_CONTRACTOR>
+<OFFICIALNAME>Netcompany IT and Business Consulting A/S</OFFICIALNAME>
+<ADDRESS>Gronningen 17</ADDRESS>
+<TOWN>Copenhagen</TOWN>
+<POSTAL_CODE>1270</POSTAL_CODE>
+<COUNTRY VALUE="DK"/>
+<NUTS CODE="DK011"/>
+</ADDRESS_CONTRACTOR>
+<NO_SME/>
+</CONTRACTOR>
+<VAL_TOTAL CURRENCY="EUR">189630.00</VAL_TOTAL>
+</AWARDED_CONTRACT>
+</AWARD_CONTRACT>
+<COMPLEMENTARY_INFO>
+<ADDRESS_REVIEW_BODY>
+<OFFICIALNAME>Tribunál</OFFICIALNAME>
+<ADDRESS>rue du Fort Niedergrünewald </ADDRESS>
+<TOWN>Luxembourg</TOWN>
+<POSTAL_CODE>2925</POSTAL_CODE>
+<COUNTRY VALUE="LU"/>
+<PHONE>+352 4303-1</PHONE>
+<E_MAIL>cfi.registry@curia.europa.eu</E_MAIL>
+<FAX>+352 4303-2100</FAX>
+<URL>http://curia.europa.eu</URL>
+</ADDRESS_REVIEW_BODY>
+<REVIEW_PROCEDURE>
+<P>Ve lhůtě 2 měsíců od oznámení žalobci nebo, není-li k dispozici, ode dne, kdy vstoupilo ve známost.</P>
+</REVIEW_PROCEDURE>
+<DATE_DISPATCH_NOTICE>2017-01-11</DATE_DISPATCH_NOTICE>
+</COMPLEMENTARY_INFO>
+</F03_2014>
+<F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="ET">
+<CONTRACTING_BODY>
+<ADDRESS_CONTRACTING_BODY>
+<OFFICIALNAME>Frontex – Euroopa Piiri- ja Rannikuvalve Amet</OFFICIALNAME>
+<ADDRESS>Plac Europejski 6</ADDRESS>
+<TOWN>Warsaw</TOWN>
+<POSTAL_CODE>00-844</POSTAL_CODE>
+<COUNTRY VALUE="PL"/>
+<PHONE>+48 222059500</PHONE>
+<E_MAIL>procurement@frontex.europa.eu</E_MAIL>
+<FAX>+48 222059501</FAX>
+<NUTS CODE="PL127"/>
+<URL_GENERAL>www.frontex.europa.eu</URL_GENERAL>
+</ADDRESS_CONTRACTING_BODY>
+<CA_TYPE VALUE="EU_INSTITUTION"/>
+<CA_ACTIVITY VALUE="DEFENCE"/>
+</CONTRACTING_BODY>
+<OBJECT_CONTRACT>
+<TITLE>
+<P>Lepingu "MyFrontexi digitaalne töökoht (COTSi-põhine intranet)" muudatus nr 1</P>
+</TITLE>
+<REFERENCE_NUMBER>Frontex/37/2016/JL.</REFERENCE_NUMBER>
+<CPV_MAIN>
+<CPV_CODE CODE="48000000"/>
+</CPV_MAIN>
+<TYPE_CONTRACT CTYPE="SERVICES"/>
+<SHORT_DESCR>
+<P>Lepingu "MyFrontexi digitaalne töökoht (COTSi-põhine intranet)" viitega Frontex/37/2016/JL muudatus nr 1 – lepinguliste teenuste hulka lisatakse 2 uut moodulit: kaebuste lahendamise mehhanismi moodul ning personali värbamise vahendi moodul.</P>
+</SHORT_DESCR>
+<VAL_TOTAL CURRENCY="EUR">189630.00</VAL_TOTAL>
+<NO_LOT_DIVISION/>
+<OBJECT_DESCR ITEM="1">
+<NUTS CODE="PL127"/>
+<MAIN_SITE>
+<P>Frontexi peakorter, Varssavi, Poola.</P>
+</MAIN_SITE>
+<SHORT_DESCR>
+<P>Lepingu "MyFrontexi digitaalne töökoht (COTSi-põhine intranet)" viitega Frontex/37/2016/JL muudatus nr 1 – lepinguliste teenuste hulka lisatakse 2 uut moodulit: kaebuste lahendamise mehhanismi moodul ning personali värbamise vahendi moodul.</P>
+</SHORT_DESCR>
+<AC_PRICE/>
+<NO_OPTIONS/>
+<NO_EU_PROGR_RELATED/>
+</OBJECT_DESCR>
+</OBJECT_CONTRACT>
+<PROCEDURE>
+<PT_AWARD_CONTRACT_WITHOUT_CALL>
+<D_ACCORDANCE_ARTICLE>
+<D_ADD_DELIVERIES_ORDERED/>
+</D_ACCORDANCE_ARTICLE>
+<D_JUSTIFICATION>
+<P>algse lepingu muutmine käsitleb algse töövõtja pakutavaid täiendavaid kaupu ja teenuseid, mida algne hange ei hõlmanud, ning seda järgmistel tingimustel:</P>
+<P>1. töövõtjat ei ole võimalik muuta, sest nõutav personali värbamise vahend ja kaebuste lahendamise mehhanism moodustavad terve lahenduse olulise osa, need kasutavad juba hangitud lahendusega samu osi ning need tuleb projekteerida kontseptsiooni ja tehnilisel tasandi põhjaliku integratsiooniga;</P>
+<P>2. töövõtja võimalik muutmine tooks hankija jaoks endaga kaasa kulude märkimisväärse mitmekordistumise, mille põhjustaks vajadus täiendava integreerimisega seotud töö järele ning juba hangitud lahenduse uuesti kasutusele võetavate osade litsentside maksumus;</P>
+<P>3. maksumuse suurendamine, sh järjestikuste muutmiste summaarne netomaksumus, ei ületa 50 % algse lepingu maksumusest.</P>
+</D_JUSTIFICATION>
+</PT_AWARD_CONTRACT_WITHOUT_CALL>
+<NO_CONTRACT_COVERED_GPA/>
+<NOTICE_NUMBER_OJ>2016/S 179-320222</NOTICE_NUMBER_OJ>
+</PROCEDURE>
+<AWARD_CONTRACT ITEM="1">
+<CONTRACT_NO>Lepingu Frontex/37/2016/JL muudatus nr 1</CONTRACT_NO>
+<TITLE>
+<P>Lepingu "MyFrontexi digitaalne töökoht (COTSi-põhine intranet)" muudatus nr 1</P>
+</TITLE>
+<AWARDED_CONTRACT>
+<DATE_CONCLUSION_CONTRACT>2016-12-19</DATE_CONCLUSION_CONTRACT>
+<NB_TENDERS_RECEIVED>1</NB_TENDERS_RECEIVED>
+<NO_AWARDED_TO_GROUP/>
+<CONTRACTOR>
+<ADDRESS_CONTRACTOR>
+<OFFICIALNAME>Netcompany IT and Business Consulting A/S</OFFICIALNAME>
+<ADDRESS>Gronningen 17</ADDRESS>
+<TOWN>Copenhagen</TOWN>
+<POSTAL_CODE>1270</POSTAL_CODE>
+<COUNTRY VALUE="DK"/>
+<NUTS CODE="DK011"/>
+</ADDRESS_CONTRACTOR>
+<NO_SME/>
+</CONTRACTOR>
+<VAL_TOTAL CURRENCY="EUR">189630.00</VAL_TOTAL>
+</AWARDED_CONTRACT>
+</AWARD_CONTRACT>
+<COMPLEMENTARY_INFO>
+<ADDRESS_REVIEW_BODY>
+<OFFICIALNAME>Üldkohus</OFFICIALNAME>
+<ADDRESS>rue du Fort Niedergrünewald </ADDRESS>
+<TOWN>Luxembourg</TOWN>
+<POSTAL_CODE>2925</POSTAL_CODE>
+<COUNTRY VALUE="LU"/>
+<PHONE>+352 4303-1</PHONE>
+<E_MAIL>cfi.registry@curia.europa.eu</E_MAIL>
+<FAX>+352 4303-2100</FAX>
+<URL>http://curia.europa.eu</URL>
+</ADDRESS_REVIEW_BODY>
+<REVIEW_PROCEDURE>
+<P>2 kuu jooksul hageja teavitamisest või kui teavitamist ei toimu, 2 kuu jooksul päevast, mil asjast teada saadi.</P>
+</REVIEW_PROCEDURE>
+<DATE_DISPATCH_NOTICE>2017-01-11</DATE_DISPATCH_NOTICE>
+</COMPLEMENTARY_INFO>
+</F03_2014>
+<F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="HU">
+<CONTRACTING_BODY>
+<ADDRESS_CONTRACTING_BODY>
+<OFFICIALNAME>Frontex – Európai Határ- és Partvédelmi Ügynökség</OFFICIALNAME>
+<ADDRESS>Plac Europejski 6</ADDRESS>
+<TOWN>Warsaw</TOWN>
+<POSTAL_CODE>00-844</POSTAL_CODE>
+<COUNTRY VALUE="PL"/>
+<PHONE>+48 222059500</PHONE>
+<E_MAIL>procurement@frontex.europa.eu</E_MAIL>
+<FAX>+48 222059501</FAX>
+<NUTS CODE="PL127"/>
+<URL_GENERAL>www.frontex.europa.eu</URL_GENERAL>
+</ADDRESS_CONTRACTING_BODY>
+<CA_TYPE VALUE="EU_INSTITUTION"/>
+<CA_ACTIVITY VALUE="DEFENCE"/>
+</CONTRACTING_BODY>
+<OBJECT_CONTRACT>
+<TITLE>
+<P>A „MyFrontex digitális munkahely (kereskedelmi forgalomba hozott készterméken [COTS] alapuló intranet)” szerződés 1. számú módosítása.</P>
+</TITLE>
+<REFERENCE_NUMBER>Frontex/37/2016/JL.</REFERENCE_NUMBER>
+<CPV_MAIN>
+<CPV_CODE CODE="48000000"/>
+</CPV_MAIN>
+<TYPE_CONTRACT CTYPE="SERVICES"/>
+<SHORT_DESCR>
+<P>A „MyFrontex digitális munkahely (kereskedelmi forgalomba hozott készterméken [COTS] alapuló intranet)” Frontex/37/2016/JL szerződés 1. számú módosítása a szerződéses szolgáltatások körének 2 új modullal történő bővítésével: panaszmechanizmus modul és HR toborzási eszköz modul.</P>
+</SHORT_DESCR>
+<VAL_TOTAL CURRENCY="EUR">189630.00</VAL_TOTAL>
+<NO_LOT_DIVISION/>
+<OBJECT_DESCR ITEM="1">
+<NUTS CODE="PL127"/>
+<MAIN_SITE>
+<P>Frontex-székház, Varsó, Lengyelország.</P>
+</MAIN_SITE>
+<SHORT_DESCR>
+<P>A „MyFrontex digitális munkahely (kereskedelmi forgalomba hozott készterméken [COTS] alapuló intranet)” Frontex/37/2016/JL szerződés 1. számú módosítása a szerződéses szolgáltatások körének 2 új modullal történő bővítésével: panaszmechanizmus modul és HR toborzási eszköz modul.</P>
+</SHORT_DESCR>
+<AC_PRICE/>
+<NO_OPTIONS/>
+<NO_EU_PROGR_RELATED/>
+</OBJECT_DESCR>
+</OBJECT_CONTRACT>
+<PROCEDURE>
+<PT_AWARD_CONTRACT_WITHOUT_CALL>
+<D_ACCORDANCE_ARTICLE>
+<D_ADD_DELIVERIES_ORDERED/>
+</D_ACCORDANCE_ARTICLE>
+<D_JUSTIFICATION>
+<P>Az eredeti szerződés elvégzett módosítása az eredeti nyertes ajánlattevő által teljesítendő olyan további beszerzésekre és szolgáltatásokra irányult, amelyek nem képezték tárgyát az eredeti közbeszerzésnek, és az az alábbi feltételeken alapult:</P>
+<P>1. a nyertes ajánlattevőben nem lehet változást eszközölni, mivel az igényelt HR toborzási és panaszmechanizmus integráns részét fogja képezni az egész megoldásnak, és a már szerződött megoldás közös funkcióit fogja felhasználni, továbbá oly módon lesz kialakítva, hogy biztosítva legyen a koncepció és a technikai rétegek tekintetében a mélyreható integráció;</P>
+<P>2. a nyertes ajánlattevőben bekövetkező bármilyen változás az ajánlatkérőnél felmerült költségeknek alapvetően a megkétszereződését vonná maga után a további integrációs munkák szükségessége miatt és a szerződött megoldásban már rendelkezésre álló, újonnan felhasználandó funkciókra vonatkozó licencek költségei miatt;</P>
+<P>3. az ár növekedése, ideértve a későbbi módosítások nettó kumulatív értékét is, nem haladja meg az eredeti szerződéses érték 50 %-át.</P>
+</D_JUSTIFICATION>
+</PT_AWARD_CONTRACT_WITHOUT_CALL>
+<NO_CONTRACT_COVERED_GPA/>
+<NOTICE_NUMBER_OJ>2016/S 179-320222</NOTICE_NUMBER_OJ>
+</PROCEDURE>
+<AWARD_CONTRACT ITEM="1">
+<CONTRACT_NO>A Frontex/37/2016/JL szerződés módosítása</CONTRACT_NO>
+<TITLE>
+<P>A „MyFrontex digitális munkahely (kereskedelmi forgalomba hozott készterméken [COTS] alapuló intranet)” szerződés 1. számú módosítása</P>
+</TITLE>
+<AWARDED_CONTRACT>
+<DATE_CONCLUSION_CONTRACT>2016-12-19</DATE_CONCLUSION_CONTRACT>
+<NB_TENDERS_RECEIVED>1</NB_TENDERS_RECEIVED>
+<NO_AWARDED_TO_GROUP/>
+<CONTRACTOR>
+<ADDRESS_CONTRACTOR>
+<OFFICIALNAME>Netcompany IT and Business Consulting A/S</OFFICIALNAME>
+<ADDRESS>Gronningen 17</ADDRESS>
+<TOWN>Copenhagen</TOWN>
+<POSTAL_CODE>1270</POSTAL_CODE>
+<COUNTRY VALUE="DK"/>
+<NUTS CODE="DK011"/>
+</ADDRESS_CONTRACTOR>
+<NO_SME/>
+</CONTRACTOR>
+<VAL_TOTAL CURRENCY="EUR">189630.00</VAL_TOTAL>
+</AWARDED_CONTRACT>
+</AWARD_CONTRACT>
+<COMPLEMENTARY_INFO>
+<ADDRESS_REVIEW_BODY>
+<OFFICIALNAME>Törvényszék</OFFICIALNAME>
+<ADDRESS>rue du Fort Niedergrünewald </ADDRESS>
+<TOWN>Luxembourg</TOWN>
+<POSTAL_CODE>2925</POSTAL_CODE>
+<COUNTRY VALUE="LU"/>
+<PHONE>+352 4303-1</PHONE>
+<E_MAIL>cfi.registry@curia.europa.eu</E_MAIL>
+<FAX>+352 4303-2100</FAX>
+<URL>http://curia.europa.eu</URL>
+</ADDRESS_REVIEW_BODY>
+<REVIEW_PROCEDURE>
+<P>A vesztes fél értesítésétől, illetve – ennek hiányában – az eredmény ismertté válásától számított 2 hónapon belül.</P>
+</REVIEW_PROCEDURE>
+<DATE_DISPATCH_NOTICE>2017-01-11</DATE_DISPATCH_NOTICE>
+</COMPLEMENTARY_INFO>
+</F03_2014>
+<F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="LT">
+<CONTRACTING_BODY>
+<ADDRESS_CONTRACTING_BODY>
+<OFFICIALNAME>Frontex – Europos sienų ir pakrančių apsaugos agentūra</OFFICIALNAME>
+<ADDRESS>Plac Europejski 6</ADDRESS>
+<TOWN>Warsaw</TOWN>
+<POSTAL_CODE>00-844</POSTAL_CODE>
+<COUNTRY VALUE="PL"/>
+<PHONE>+48 222059500</PHONE>
+<E_MAIL>procurement@frontex.europa.eu</E_MAIL>
+<FAX>+48 222059501</FAX>
+<NUTS CODE="PL127"/>
+<URL_GENERAL>www.frontex.europa.eu</URL_GENERAL>
+</ADDRESS_CONTRACTING_BODY>
+<CA_TYPE VALUE="EU_INSTITUTION"/>
+<CA_ACTIVITY VALUE="DEFENCE"/>
+</CONTRACTING_BODY>
+<OBJECT_CONTRACT>
+<TITLE>
+<P>Sutarties „MyFrontex“ skaitmeninė darbo vieta (COTS pagrįstas intranetas)“ pakeitimas Nr. 1.</P>
+</TITLE>
+<REFERENCE_NUMBER>Frontex/37/2016/JL.</REFERENCE_NUMBER>
+<CPV_MAIN>
+<CPV_CODE CODE="48000000"/>
+</CPV_MAIN>
+<TYPE_CONTRACT CTYPE="SERVICES"/>
+<SHORT_DESCR>
+<P>Sutarties „MyFrontex“ skaitmeninė darbo vieta (COTS pagrįstas intranetas)“ Frontex/37/2016/JL pakeitimas Nr. 1, pridedant 2 naujus modulius prie sutarties paslaugų: modulį dėl skundų mechanizmo ir modulį dėl žmogiškųjų išteklių įdarbinimo priemonės.</P>
+</SHORT_DESCR>
+<VAL_TOTAL CURRENCY="EUR">189630.00</VAL_TOTAL>
+<NO_LOT_DIVISION/>
+<OBJECT_DESCR ITEM="1">
+<NUTS CODE="PL127"/>
+<MAIN_SITE>
+<P>Frontex būstinė, Varšuva, Lenkija.</P>
+</MAIN_SITE>
+<SHORT_DESCR>
+<P>Sutarties „MyFrontex“ skaitmeninė darbo vieta (COTS pagrįstas intranetas)“ Frontex/37/2016/JL pakeitimas Nr. 1, pridedant 2 naujus modulius prie sutarties paslaugų: modulį dėl skundų mechanizmo ir modulį dėl žmogiškųjų išteklių įdarbinimo priemonės.</P>
+</SHORT_DESCR>
+<AC_PRICE/>
+<NO_OPTIONS/>
+<NO_EU_PROGR_RELATED/>
+</OBJECT_DESCR>
+</OBJECT_CONTRACT>
+<PROCEDURE>
+<PT_AWARD_CONTRACT_WITHOUT_CALL>
+<D_ACCORDANCE_ARTICLE>
+<D_ADD_DELIVERIES_ORDERED/>
+</D_ACCORDANCE_ARTICLE>
+<D_JUSTIFICATION>
+<P>Pradėtas pradinės sutarties pakeitimas, susijęs su pradinio rangovo papildomomis tiekiamomis prekėmis ir teikiamomis paslaugomis, kurios nebuvo numatytos pradiniu viešuoju pirkimu, atsižvelgiant į šias sąlygas:</P>
+<P>1. rangovas negali keistis, kadangi reikalingi žmogiškųjų išteklių įdarbinimas ir skundų mechanizmas sudarys neatsiejamą viso sprendimo dalį, naudos bendras sprendimo, dėl kurio jau sudaryta sutartis, ypatybes ir bus parengti detaliai integruojant juos į koncepciją ir technines sritis;</P>
+<P>2. dėl bet kokio potencialus rangovo pasikeitimo pastebimai padvigubėtų perkančiosios organizacijos išlaidos dėl papildomų integracijos darbų poreikio ir išlaidų dėl licencijų, susijusių su ypatybėmis, kurios jau yra prieinamos sprendime, dėl kurio sudaryta sutartis, ir kuris bus pakartotinai naudojamas;</P>
+<P>3. kainos padidėjimas, įskaitant vėlesnių pakeitimų bendrą vertę, neviršija 50 % pradinės sutarties vertės.</P>
+</D_JUSTIFICATION>
+</PT_AWARD_CONTRACT_WITHOUT_CALL>
+<NO_CONTRACT_COVERED_GPA/>
+<NOTICE_NUMBER_OJ>2016/S 179-320222</NOTICE_NUMBER_OJ>
+</PROCEDURE>
+<AWARD_CONTRACT ITEM="1">
+<CONTRACT_NO>Frontex/37/2016/JL pakeitimas Nr. 1</CONTRACT_NO>
+<TITLE>
+<P>Sutarties „MyFrontex“ skaitmeninė darbo vieta (COTS pagrįstas intranetas)“ pakeitimas Nr. 1</P>
+</TITLE>
+<AWARDED_CONTRACT>
+<DATE_CONCLUSION_CONTRACT>2016-12-19</DATE_CONCLUSION_CONTRACT>
+<NB_TENDERS_RECEIVED>1</NB_TENDERS_RECEIVED>
+<NO_AWARDED_TO_GROUP/>
+<CONTRACTOR>
+<ADDRESS_CONTRACTOR>
+<OFFICIALNAME>Netcompany IT and Business Consulting A/S</OFFICIALNAME>
+<ADDRESS>Gronningen 17</ADDRESS>
+<TOWN>Copenhagen</TOWN>
+<POSTAL_CODE>1270</POSTAL_CODE>
+<COUNTRY VALUE="DK"/>
+<NUTS CODE="DK011"/>
+</ADDRESS_CONTRACTOR>
+<NO_SME/>
+</CONTRACTOR>
+<VAL_TOTAL CURRENCY="EUR">189630.00</VAL_TOTAL>
+</AWARDED_CONTRACT>
+</AWARD_CONTRACT>
+<COMPLEMENTARY_INFO>
+<ADDRESS_REVIEW_BODY>
+<OFFICIALNAME>Bendrasis Teismas</OFFICIALNAME>
+<ADDRESS>rue du Fort Niedergrünewald </ADDRESS>
+<TOWN>Luxembourg</TOWN>
+<POSTAL_CODE>2925</POSTAL_CODE>
+<COUNTRY VALUE="LU"/>
+<PHONE>+352 4303-1</PHONE>
+<E_MAIL>cfi.registry@curia.europa.eu</E_MAIL>
+<FAX>+352 4303-2100</FAX>
+<URL>http://curia.europa.eu</URL>
+</ADDRESS_REVIEW_BODY>
+<REVIEW_PROCEDURE>
+<P>per 2 mėnesius nuo dienos, kai apie tai pranešama ieškovui, arba, jei pranešimas neparengiamas, nuo dienos, kai apie tai tampa žinoma.</P>
+</REVIEW_PROCEDURE>
+<DATE_DISPATCH_NOTICE>2017-01-11</DATE_DISPATCH_NOTICE>
+</COMPLEMENTARY_INFO>
+</F03_2014>
+<F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="LV">
+<CONTRACTING_BODY>
+<ADDRESS_CONTRACTING_BODY>
+<OFFICIALNAME>Frontex – Eiropas Robežu un krasta apsardzes aģentūra</OFFICIALNAME>
+<ADDRESS>Plac Europejski 6</ADDRESS>
+<TOWN>Warsaw</TOWN>
+<POSTAL_CODE>00-844</POSTAL_CODE>
+<COUNTRY VALUE="PL"/>
+<PHONE>+48 222059500</PHONE>
+<E_MAIL>procurement@frontex.europa.eu</E_MAIL>
+<FAX>+48 222059501</FAX>
+<NUTS CODE="PL127"/>
+<URL_GENERAL>www.frontex.europa.eu</URL_GENERAL>
+</ADDRESS_CONTRACTING_BODY>
+<CA_TYPE VALUE="EU_INSTITUTION"/>
+<CA_ACTIVITY VALUE="DEFENCE"/>
+</CONTRACTING_BODY>
+<OBJECT_CONTRACT>
+<TITLE>
+<P>Līguma "Digitālā darba vieta MyFrontex (COTS intranets)" grozījums Nr. 1.</P>
+</TITLE>
+<REFERENCE_NUMBER>Frontex/37/2016/JL.</REFERENCE_NUMBER>
+<CPV_MAIN>
+<CPV_CODE CODE="48000000"/>
+</CPV_MAIN>
+<TYPE_CONTRACT CTYPE="SERVICES"/>
+<SHORT_DESCR>
+<P>Līguma Frontex/37/2016/JL "Digitālā darba vieta MyFrontex (COTS intranets)" grozījums Nr. 1, ar ko līguma pakalpojumu darbības jomai pievieno 2 jaunus moduļus: moduli par sūdzību mehānismu un moduli par cilvēkresursu (human resources – HR) nolīgšanas rīku.</P>
+</SHORT_DESCR>
+<VAL_TOTAL CURRENCY="EUR">189630.00</VAL_TOTAL>
+<NO_LOT_DIVISION/>
+<OBJECT_DESCR ITEM="1">
+<NUTS CODE="PL127"/>
+<MAIN_SITE>
+<P>Frontex galvenā mītne, Varšava, Polija.</P>
+</MAIN_SITE>
+<SHORT_DESCR>
+<P>Līguma Frontex/37/2016/JL "Digitālā darba vieta MyFrontex (COTS intranets)" grozījums Nr. 1, ar ko līguma pakalpojumu darbības jomai pievieno 2 jaunus moduļus: moduli par sūdzību mehānismu un moduli par cilvēkresursu (human resources – HR) nolīgšanas rīku.</P>
+</SHORT_DESCR>
+<AC_PRICE/>
+<NO_OPTIONS/>
+<NO_EU_PROGR_RELATED/>
+</OBJECT_DESCR>
+</OBJECT_CONTRACT>
+<PROCEDURE>
+<PT_AWARD_CONTRACT_WITHOUT_CALL>
+<D_ACCORDANCE_ARTICLE>
+<D_ADD_DELIVERIES_ORDERED/>
+</D_ACCORDANCE_ARTICLE>
+<D_JUSTIFICATION>
+<P>veiktais sākotnējā līguma grozījums attiecās uz sākotnējā darbuzņēmēja nodrošinātām papildu piegādēm un pakalpojumiem, kas nebija iekļauti sākotnējā iepirkumā, balstoties uz šādiem nosacījumiem:</P>
+<P>1. Darbuzņēmēju nevar mainīt, jo prasītais cilvēkresursu nolīgšanas un sūdzību mehānisms būs kopējā risinājuma neatņemama daļa, tajā izmantos kopējās iezīmes no risinājuma, par kuru jau noslēgts līgums, un to izstrādās, padziļināti integrējot koncepcijas un tehniskajā slānī;</P>
+<P>2. Darbuzņēmēja iespējamā maiņa līgumslēdzējai iestādei radītu izmaksu būtisku dublēšanos, jo būtu nepieciešami papildu integrēšanas darbi un rastos izmaksas par licencēm attiecībā uz iezīmēm, kas jau ir pieejamas risinājumā, par kuru noslēgts līgums un kurš tiks izmantots atkārtoti;</P>
+<P>3. Cenas pieaugums, ietverot secīgo izmaiņu neto kopējo vērtību, nepārsniedz 50 % no sākotnējās līguma vērtības.</P>
+</D_JUSTIFICATION>
+</PT_AWARD_CONTRACT_WITHOUT_CALL>
+<NO_CONTRACT_COVERED_GPA/>
+<NOTICE_NUMBER_OJ>2016/S 179-320222</NOTICE_NUMBER_OJ>
+</PROCEDURE>
+<AWARD_CONTRACT ITEM="1">
+<CONTRACT_NO>Frontex/37/2016/JL grozījums Nr. 1</CONTRACT_NO>
+<TITLE>
+<P>Līguma "Digitālā darba vieta MyFrontex (COTS intranets)" grozījums Nr. 1</P>
+</TITLE>
+<AWARDED_CONTRACT>
+<DATE_CONCLUSION_CONTRACT>2016-12-19</DATE_CONCLUSION_CONTRACT>
+<NB_TENDERS_RECEIVED>1</NB_TENDERS_RECEIVED>
+<NO_AWARDED_TO_GROUP/>
+<CONTRACTOR>
+<ADDRESS_CONTRACTOR>
+<OFFICIALNAME>Netcompany IT and Business Consulting A/S</OFFICIALNAME>
+<ADDRESS>Gronningen 17</ADDRESS>
+<TOWN>Copenhagen</TOWN>
+<POSTAL_CODE>1270</POSTAL_CODE>
+<COUNTRY VALUE="DK"/>
+<NUTS CODE="DK011"/>
+</ADDRESS_CONTRACTOR>
+<NO_SME/>
+</CONTRACTOR>
+<VAL_TOTAL CURRENCY="EUR">189630.00</VAL_TOTAL>
+</AWARDED_CONTRACT>
+</AWARD_CONTRACT>
+<COMPLEMENTARY_INFO>
+<ADDRESS_REVIEW_BODY>
+<OFFICIALNAME>Vispārējā tiesa</OFFICIALNAME>
+<ADDRESS>rue du Fort Niedergrünewald </ADDRESS>
+<TOWN>Luxembourg</TOWN>
+<POSTAL_CODE>2925</POSTAL_CODE>
+<COUNTRY VALUE="LU"/>
+<PHONE>+352 4303-1</PHONE>
+<E_MAIL>cfi.registry@curia.europa.eu</E_MAIL>
+<FAX>+352 4303-2100</FAX>
+<URL>http://curia.europa.eu</URL>
+</ADDRESS_REVIEW_BODY>
+<REVIEW_PROCEDURE>
+<P>2 mēnešu laikā no prasītāja informēšanas vai, ja tā nav notikusi, no dienas, kad viņš to uzzinājis.</P>
+</REVIEW_PROCEDURE>
+<DATE_DISPATCH_NOTICE>2017-01-11</DATE_DISPATCH_NOTICE>
+</COMPLEMENTARY_INFO>
+</F03_2014>
+<F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="MT">
+<CONTRACTING_BODY>
+<ADDRESS_CONTRACTING_BODY>
+<OFFICIALNAME>Frontex — L-Aġenzija Ewropea tal-Fruntieri u l-Għassa tal-Kosta</OFFICIALNAME>
+<ADDRESS>Plac Europejski 6</ADDRESS>
+<TOWN>Varsavja</TOWN>
+<POSTAL_CODE>00-844</POSTAL_CODE>
+<COUNTRY VALUE="PL"/>
+<PHONE>+48 222059500</PHONE>
+<E_MAIL>procurement@frontex.europa.eu</E_MAIL>
+<FAX>+48 222059501</FAX>
+<NUTS CODE="PL127"/>
+<URL_GENERAL>www.frontex.europa.eu</URL_GENERAL>
+</ADDRESS_CONTRACTING_BODY>
+<CA_TYPE VALUE="EU_INSTITUTION"/>
+<CA_ACTIVITY VALUE="DEFENCE"/>
+</CONTRACTING_BODY>
+<OBJECT_CONTRACT>
+<TITLE>
+<P>Emenda Nru 1 lill-kuntratt 'il-post tax-xogħol diġitali 'MyFrontex' (intranet ibbażat fuq il-COTS)'.</P>
+</TITLE>
+<REFERENCE_NUMBER>Frontex/37/2016/JL.</REFERENCE_NUMBER>
+<CPV_MAIN>
+<CPV_CODE CODE="48000000"/>
+</CPV_MAIN>
+<TYPE_CONTRACT CTYPE="SERVICES"/>
+<SHORT_DESCR>
+<P>Emenda Nru 1 lill-kuntratt 'il-post tax-xogħol diġitali 'MyFrontex' (intranet ibbażat fuq il-COTS)' Frontex/37/2016/JL billi żżid 2 moduli ġodda mal-firxa tas-servizzi kuntrattwali: modulu dwar il-mekkaniżmu tal-ilmenti u l-modulu dwar l-għodda ta' reklutaġġ tar-Riżorsi Umani.</P>
+</SHORT_DESCR>
+<VAL_TOTAL CURRENCY="EUR">189630.00</VAL_TOTAL>
+<NO_LOT_DIVISION/>
+<OBJECT_DESCR ITEM="1">
+<NUTS CODE="PL127"/>
+<MAIN_SITE>
+<P>Il-Kwartieri Ġenerali tal-Frontex, Warsaw, il-Polonja.</P>
+</MAIN_SITE>
+<SHORT_DESCR>
+<P>Emenda Nru 1 lill-kuntratt 'il-post tax-xogħol diġitali 'MyFrontex' (intranet ibbażat fuq il-COTS)' Frontex/37/2016/JL billi żżid 2 moduli ġodda mal-firxa tas-servizzi kuntrattwali: modulu dwar il-mekkaniżmu tal-ilmenti u l-modulu dwar l-għodda ta' reklutaġġ tar-Riżorsi Umani.</P>
+</SHORT_DESCR>
+<AC_PRICE/>
+<NO_OPTIONS/>
+<NO_EU_PROGR_RELATED/>
+</OBJECT_DESCR>
+</OBJECT_CONTRACT>
+<PROCEDURE>
+<PT_AWARD_CONTRACT_WITHOUT_CALL>
+<D_ACCORDANCE_ARTICLE>
+<D_ADD_DELIVERIES_ORDERED/>
+</D_ACCORDANCE_ARTICLE>
+<D_JUSTIFICATION>
+<P>L-emenda li saret lill-kuntratt oriġinali rreferiet għal provvisti u servizzi addizzjonali mill-kuntrattur oriġinali li ma kienux inklużi fil-ksib oriġinali a bażi tal-kundizzjonijiet li ġejjin:</P>
+<P>1. bidla tal-kuntrattur ma tistax issir minħabba li r-reklutaġġ mitlub tar-Riżorsi Umani u l-mekkaniżmu tal-ilmenti se jikkostitwixxu parti integrali tas-soluzzjoni intiera, se tuża karatteristiċi komuni tas-soluzzjoni diġà kkuntrattata u se tkun iddisinjata b'integrazzjoni profonda tal-kunċett u tas-saffi tekniċi;</P>
+<P>2. kwalunkwe bidla potenzjali tal-kuntrattur se tikkawża duplikazzjoni sostanzjali tal-ispejjeż għall-awtorità li qiegħda toħroġ il-kuntratt minħabba l-ħtieġa għal xogħlijiet ta' integrazzjoni addizzjonali u l-ispiża tal-liċenzji għal karatteristiċi diġà disponibbli fis-soluzzjoni kkuntrattata li se tkun użata mill-ġdid;</P>
+<P>3. iż-żieda fil-prezz, inkluż il-valur kumulattiv nett ta' modifikazzjonijiet suċċessivi, ma taqbiżx 50 % tal-valur tal-kuntratt inizjali.</P>
+</D_JUSTIFICATION>
+</PT_AWARD_CONTRACT_WITHOUT_CALL>
+<NO_CONTRACT_COVERED_GPA/>
+<NOTICE_NUMBER_OJ>2016/S 179-320222</NOTICE_NUMBER_OJ>
+</PROCEDURE>
+<AWARD_CONTRACT ITEM="1">
+<CONTRACT_NO>Emenda Nru 1 lill-Frontex/37/2016/JL</CONTRACT_NO>
+<TITLE>
+<P>Emenda Nru 1 lill-kuntratt 'il-post tax-xogħol diġitali 'MyFrontex' (intranet ibbażat fuq il-COTS)'</P>
+</TITLE>
+<AWARDED_CONTRACT>
+<DATE_CONCLUSION_CONTRACT>2016-12-19</DATE_CONCLUSION_CONTRACT>
+<NB_TENDERS_RECEIVED>1</NB_TENDERS_RECEIVED>
+<NO_AWARDED_TO_GROUP/>
+<CONTRACTOR>
+<ADDRESS_CONTRACTOR>
+<OFFICIALNAME>Netcompany IT and Business Consulting A/S</OFFICIALNAME>
+<ADDRESS>Gronningen 17</ADDRESS>
+<TOWN>Copenhagen</TOWN>
+<POSTAL_CODE>1270</POSTAL_CODE>
+<COUNTRY VALUE="DK"/>
+<NUTS CODE="DK011"/>
+</ADDRESS_CONTRACTOR>
+<NO_SME/>
+</CONTRACTOR>
+<VAL_TOTAL CURRENCY="EUR">189630.00</VAL_TOTAL>
+</AWARDED_CONTRACT>
+</AWARD_CONTRACT>
+<COMPLEMENTARY_INFO>
+<ADDRESS_REVIEW_BODY>
+<OFFICIALNAME>Il-Qorti Ġenerali</OFFICIALNAME>
+<ADDRESS>rue du Fort Niedergrünewald </ADDRESS>
+<TOWN>Lussemburgu</TOWN>
+<POSTAL_CODE>2925</POSTAL_CODE>
+<COUNTRY VALUE="LU"/>
+<PHONE>+352 4303-1</PHONE>
+<E_MAIL>cfi.registry@curia.europa.eu</E_MAIL>
+<FAX>+352 4303-2100</FAX>
+<URL>http://curia.europa.eu</URL>
+</ADDRESS_REVIEW_BODY>
+<REVIEW_PROCEDURE>
+<P>Fi żmien xahrejn (2) mill-avviż lil dak li jagħmel it-talba, jew, fin-nuqqas ta' dan, mill-jum li fih sar magħruf.</P>
+</REVIEW_PROCEDURE>
+<DATE_DISPATCH_NOTICE>2017-01-11</DATE_DISPATCH_NOTICE>
+</COMPLEMENTARY_INFO>
+</F03_2014>
+<F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="PL">
+<CONTRACTING_BODY>
+<ADDRESS_CONTRACTING_BODY>
+<OFFICIALNAME>Frontex – Europejska Agencja Straży Granicznej</OFFICIALNAME>
+<ADDRESS>Plac Europejski 6</ADDRESS>
+<TOWN>Warsaw</TOWN>
+<POSTAL_CODE>00-844</POSTAL_CODE>
+<COUNTRY VALUE="PL"/>
+<PHONE>+48 222059500</PHONE>
+<E_MAIL>procurement@frontex.europa.eu</E_MAIL>
+<FAX>+48 222059501</FAX>
+<NUTS CODE="PL127"/>
+<URL_GENERAL>www.frontex.europa.eu</URL_GENERAL>
+</ADDRESS_CONTRACTING_BODY>
+<CA_TYPE VALUE="EU_INSTITUTION"/>
+<CA_ACTIVITY VALUE="DEFENCE"/>
+</CONTRACTING_BODY>
+<OBJECT_CONTRACT>
+<TITLE>
+<P>Aneks nr 1 do umowy o „Cyfrowe środowisko pracy MyFrontex (intranet wykorzystujący rozwiązania dostępne w handlu)”</P>
+</TITLE>
+<REFERENCE_NUMBER>Frontex/37/2016/JL.</REFERENCE_NUMBER>
+<CPV_MAIN>
+<CPV_CODE CODE="48000000"/>
+</CPV_MAIN>
+<TYPE_CONTRACT CTYPE="SERVICES"/>
+<SHORT_DESCR>
+<P>Aneks nr 1 do umowy o „Cyfrowe środowisko pracy MyFrontex (intranet wykorzystujący rozwiązania dostępne w handlu)” Frontex/37/2016/JL dotyczący dodania 2 nowych modułów do zakresu usług objętych umową: modułu mechanizmu przyjmowania skarg oraz modułu będącego narzędziem rekrutacji zasobów ludzkich.</P>
+</SHORT_DESCR>
+<VAL_TOTAL CURRENCY="EUR">189630.00</VAL_TOTAL>
+<NO_LOT_DIVISION/>
+<OBJECT_DESCR ITEM="1">
+<NUTS CODE="PL127"/>
+<MAIN_SITE>
+<P>siedziba Frontexu, Warszawa, Polska.</P>
+</MAIN_SITE>
+<SHORT_DESCR>
+<P>Aneks nr 1 do umowy o „Cyfrowe środowisko pracy MyFrontex (intranet wykorzystujący rozwiązania dostępne w handlu)” Frontex/37/2016/JL dotyczący dodania 2 nowych modułów do zakresu usług objętych umową: modułu mechanizmu przyjmowania skarg oraz modułu będącego narzędziem rekrutacji zasobów ludzkich.</P>
+</SHORT_DESCR>
+<AC_PRICE/>
+<NO_OPTIONS/>
+<NO_EU_PROGR_RELATED/>
+</OBJECT_DESCR>
+</OBJECT_CONTRACT>
+<PROCEDURE>
+<PT_AWARD_CONTRACT_WITHOUT_CALL>
+<D_ACCORDANCE_ARTICLE>
+<D_ADD_DELIVERIES_ORDERED/>
+</D_ACCORDANCE_ARTICLE>
+<D_JUSTIFICATION>
+<P>przedmiotowy aneks do pierwotnej umowy dotyczy dodatkowych dostaw i usług nieobjętych pierwotnym zamówieniem, które ma świadczyć pierwotny wykonawca, ponieważ:</P>
+<P>1. nie można zmienić wykonawcy, gdyż wymagane usługi rekrutacyjne i dotyczące utworzenia mechanizmu przyjmowania skarg będą stanowić integralne elementy całego rozwiązania, będą wykorzystywać wspólne funkcje zamówionego wcześniej rozwiązania oraz mają zostać zaprojektowane w sposób trwale zintegrowany pod względem koncepcji i warstwy technicznej;</P>
+<P>2. ewentualna zmiana wykonawcy spowodowałaby znaczne powielenie kosztów po stronie instytucji zamawiającej, ponieważ wymagałaby dodatkowych prac nad integracją oraz zakupu licencji dotyczących funkcji, które są już dostępne w zamówionym rozwiązaniu;</P>
+<P>3. zwiększenie ceny, w tym łącznej wartości netto późniejszych modyfikacji nie przekracza 50% pierwotnej wartości zamówienia.</P>
+</D_JUSTIFICATION>
+</PT_AWARD_CONTRACT_WITHOUT_CALL>
+<NO_CONTRACT_COVERED_GPA/>
+<NOTICE_NUMBER_OJ>2016/S 179-320222</NOTICE_NUMBER_OJ>
+</PROCEDURE>
+<AWARD_CONTRACT ITEM="1">
+<CONTRACT_NO>Aneks nr 1 do umowy Frontex/37/2016/JL</CONTRACT_NO>
+<TITLE>
+<P>Aneks nr 1 do umowy o „Cyfrowe środowisko pracy MyFrontex (intranet wykorzystujący rozwiązania dostępne w handlu)”</P>
+</TITLE>
+<AWARDED_CONTRACT>
+<DATE_CONCLUSION_CONTRACT>2016-12-19</DATE_CONCLUSION_CONTRACT>
+<NB_TENDERS_RECEIVED>1</NB_TENDERS_RECEIVED>
+<NO_AWARDED_TO_GROUP/>
+<CONTRACTOR>
+<ADDRESS_CONTRACTOR>
+<OFFICIALNAME>Netcompany IT and Business Consulting A/S</OFFICIALNAME>
+<ADDRESS>Gronningen 17</ADDRESS>
+<TOWN>Copenhagen</TOWN>
+<POSTAL_CODE>1270</POSTAL_CODE>
+<COUNTRY VALUE="DK"/>
+<NUTS CODE="DK011"/>
+</ADDRESS_CONTRACTOR>
+<NO_SME/>
+</CONTRACTOR>
+<VAL_TOTAL CURRENCY="EUR">189630.00</VAL_TOTAL>
+</AWARDED_CONTRACT>
+</AWARD_CONTRACT>
+<COMPLEMENTARY_INFO>
+<ADDRESS_REVIEW_BODY>
+<OFFICIALNAME>Sąd</OFFICIALNAME>
+<ADDRESS>rue du Fort Niedergrünewald </ADDRESS>
+<TOWN>Luxembourg</TOWN>
+<POSTAL_CODE>2925</POSTAL_CODE>
+<COUNTRY VALUE="LU"/>
+<PHONE>+352 4303-1</PHONE>
+<E_MAIL>cfi.registry@curia.europa.eu</E_MAIL>
+<FAX>+352 4303-2100</FAX>
+<URL>http://curia.europa.eu</URL>
+</ADDRESS_REVIEW_BODY>
+<REVIEW_PROCEDURE>
+<P>w ciągu 2 miesięcy od zawiadomienia strony skarżącej lub, w przypadku braku zawiadomienia, od dnia podania do wiadomości.</P>
+</REVIEW_PROCEDURE>
+<DATE_DISPATCH_NOTICE>2017-01-11</DATE_DISPATCH_NOTICE>
+</COMPLEMENTARY_INFO>
+</F03_2014>
+<F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="SK">
+<CONTRACTING_BODY>
+<ADDRESS_CONTRACTING_BODY>
+<OFFICIALNAME>Frontex – Európska agentúra pre pohraničnú a pobrežnú stráž</OFFICIALNAME>
+<ADDRESS>Plac Europejski 6</ADDRESS>
+<TOWN>Warsaw</TOWN>
+<POSTAL_CODE>00-844</POSTAL_CODE>
+<COUNTRY VALUE="PL"/>
+<PHONE>+48 222059500</PHONE>
+<E_MAIL>procurement@frontex.europa.eu</E_MAIL>
+<FAX>+48 222059501</FAX>
+<NUTS CODE="PL127"/>
+<URL_GENERAL>www.frontex.europa.eu</URL_GENERAL>
+</ADDRESS_CONTRACTING_BODY>
+<CA_TYPE VALUE="EU_INSTITUTION"/>
+<CA_ACTIVITY VALUE="DEFENCE"/>
+</CONTRACTING_BODY>
+<OBJECT_CONTRACT>
+<TITLE>
+<P>Dodatok č. 1 k zákazke „Digitálne pracovisko MyFrontex (intranet na báze komerčne dostupného softvéru)“.</P>
+</TITLE>
+<REFERENCE_NUMBER>Frontex/37/2016/JL.</REFERENCE_NUMBER>
+<CPV_MAIN>
+<CPV_CODE CODE="48000000"/>
+</CPV_MAIN>
+<TYPE_CONTRACT CTYPE="SERVICES"/>
+<SHORT_DESCR>
+<P>Dodatok č. 1 k zákazke „Digitálne pracovisko MyFrontex (intranet na báze komerčne dostupného softvéru)“ Frontex/37/2016/JL pridaním 2 nových modulov k rozsahu služieb v rámci zmluvy: modul týkajúci sa mechanizmu na riešenie sťažnosti a modul nástroja na nábor ľudských zdrojov.</P>
+</SHORT_DESCR>
+<VAL_TOTAL CURRENCY="EUR">189630.00</VAL_TOTAL>
+<NO_LOT_DIVISION/>
+<OBJECT_DESCR ITEM="1">
+<NUTS CODE="PL127"/>
+<MAIN_SITE>
+<P>Riaditeľstvo Frontexu, Varšava, Poľsko.</P>
+</MAIN_SITE>
+<SHORT_DESCR>
+<P>Dodatok č. 1 k zákazke „Digitálne pracovisko MyFrontex (intranet na báze komerčne dostupného softvéru)“ Frontex/37/2016/JL pridaním 2 nových modulov k rozsahu služieb v rámci zmluvy: modul týkajúci sa mechanizmu na riešenie sťažnosti a modul nástroja na nábor ľudských zdrojov.</P>
+</SHORT_DESCR>
+<AC_PRICE/>
+<NO_OPTIONS/>
+<NO_EU_PROGR_RELATED/>
+</OBJECT_DESCR>
+</OBJECT_CONTRACT>
+<PROCEDURE>
+<PT_AWARD_CONTRACT_WITHOUT_CALL>
+<D_ACCORDANCE_ARTICLE>
+<D_ADD_DELIVERIES_ORDERED/>
+</D_ACCORDANCE_ARTICLE>
+<D_JUSTIFICATION>
+<P>Dodatok k pôvodnej zákazke na poskytnutie dodatočných tovarov a služieb zo strany pôvodného dodávateľa, ktoré neboli zahrnuté do pôvodného obstarávania, sa má realizovať za nasledujúcich podmienok:</P>
+<P>1. dodávateľa nie je možné zmeniť, lebo požadovaný mechanizmus na riešenie sťažností a nábor ľudských zdrojov tvorí neoddeliteľnú súčasť celého riešenia, bude používať spoločné funkcie už obstaraného riešenia a má byť navrhnutý s hĺbkovou integráciou do konceptu a technických vrstiev;</P>
+<P>2. akákoľvek možné zmena dodávateľa by mohla spôsobiť podstatné zdvojnásobenie nákladov verejného obstarávateľa kvôli potrebe dodatočných integračných prác a nákladov na získanie licencií na funkcie, ktoré už sú dostupné v rámci obstarávaného riešenia, ktoré sa bude opätovne používať;</P>
+<P>3. zvýšenie cien vrátane čistej kumulatívnej hodnoty následných úprav nemôže presahovať 50 % pôvodnej zmluvnej hodnoty.</P>
+</D_JUSTIFICATION>
+</PT_AWARD_CONTRACT_WITHOUT_CALL>
+<NO_CONTRACT_COVERED_GPA/>
+<NOTICE_NUMBER_OJ>2016/S 179-320222</NOTICE_NUMBER_OJ>
+</PROCEDURE>
+<AWARD_CONTRACT ITEM="1">
+<CONTRACT_NO>Dodatok č. 1 k zákazke Frontex/37/2016/JL</CONTRACT_NO>
+<TITLE>
+<P>Dodatok č. 1 k zákazke „Digitálne pracovisko MyFrontex (intranet na báze komerčne dostupného softvéru)“</P>
+</TITLE>
+<AWARDED_CONTRACT>
+<DATE_CONCLUSION_CONTRACT>2016-12-19</DATE_CONCLUSION_CONTRACT>
+<NB_TENDERS_RECEIVED>1</NB_TENDERS_RECEIVED>
+<NO_AWARDED_TO_GROUP/>
+<CONTRACTOR>
+<ADDRESS_CONTRACTOR>
+<OFFICIALNAME>Netcompany IT and Business Consulting A/S</OFFICIALNAME>
+<ADDRESS>Gronningen 17</ADDRESS>
+<TOWN>Copenhagen</TOWN>
+<POSTAL_CODE>1270</POSTAL_CODE>
+<COUNTRY VALUE="DK"/>
+<NUTS CODE="DK011"/>
+</ADDRESS_CONTRACTOR>
+<NO_SME/>
+</CONTRACTOR>
+<VAL_TOTAL CURRENCY="EUR">189630.00</VAL_TOTAL>
+</AWARDED_CONTRACT>
+</AWARD_CONTRACT>
+<COMPLEMENTARY_INFO>
+<ADDRESS_REVIEW_BODY>
+<OFFICIALNAME>Všeobecný súd</OFFICIALNAME>
+<ADDRESS>rue du Fort Niedergrünewald </ADDRESS>
+<TOWN>Luxembourg</TOWN>
+<POSTAL_CODE>2925</POSTAL_CODE>
+<COUNTRY VALUE="LU"/>
+<PHONE>+352 4303-1</PHONE>
+<E_MAIL>cfi.registry@curia.europa.eu</E_MAIL>
+<FAX>+352 4303-2100</FAX>
+<URL>http://curia.europa.eu</URL>
+</ADDRESS_REVIEW_BODY>
+<REVIEW_PROCEDURE>
+<P>Do 2 mesiacov od vyrozumenia osoby podávajúcej odvolanie alebo, ak to nie je možné, odo dňa, keď túto skutočnosť zistila.</P>
+</REVIEW_PROCEDURE>
+<DATE_DISPATCH_NOTICE>2017-01-11</DATE_DISPATCH_NOTICE>
+</COMPLEMENTARY_INFO>
+</F03_2014>
+<F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="SL">
+<CONTRACTING_BODY>
+<ADDRESS_CONTRACTING_BODY>
+<OFFICIALNAME>Frontex – Evropska agencija za mejno in obalno stražo</OFFICIALNAME>
+<ADDRESS>Plac Europejski 6</ADDRESS>
+<TOWN>Warsaw</TOWN>
+<POSTAL_CODE>00-844</POSTAL_CODE>
+<COUNTRY VALUE="PL"/>
+<PHONE>+48 222059500</PHONE>
+<E_MAIL>procurement@frontex.europa.eu</E_MAIL>
+<FAX>+48 222059501</FAX>
+<NUTS CODE="PL127"/>
+<URL_GENERAL>www.frontex.europa.eu</URL_GENERAL>
+</ADDRESS_CONTRACTING_BODY>
+<CA_TYPE VALUE="EU_INSTITUTION"/>
+<CA_ACTIVITY VALUE="DEFENCE"/>
+</CONTRACTING_BODY>
+<OBJECT_CONTRACT>
+<TITLE>
+<P>Sprememba št. 1 naročila „Digitalno delovno mesto MyFrontex (intranet na podlagi COTS)“.</P>
+</TITLE>
+<REFERENCE_NUMBER>Frontex/37/2016/JL.</REFERENCE_NUMBER>
+<CPV_MAIN>
+<CPV_CODE CODE="48000000"/>
+</CPV_MAIN>
+<TYPE_CONTRACT CTYPE="SERVICES"/>
+<SHORT_DESCR>
+<P>Sprememba št. 1 naročila „Digitalno delovno mesto MyFrontex (intranet na podlagi COTS)“ Frontex/37/2016/JL z uvedbo 2 novih modulov v obseg storitev iz naročila: modula o mehanizmu za pritožbe in modula o orodju za zaposlovanje osebja.</P>
+</SHORT_DESCR>
+<VAL_TOTAL CURRENCY="EUR">189630.00</VAL_TOTAL>
+<NO_LOT_DIVISION/>
+<OBJECT_DESCR ITEM="1">
+<NUTS CODE="PL127"/>
+<MAIN_SITE>
+<P>Pisarna Frontexa, Varšava, Poljska.</P>
+</MAIN_SITE>
+<SHORT_DESCR>
+<P>Sprememba št. 1 naročila „Digitalno delovno mesto MyFrontex (intranet na podlagi COTS)“ Frontex/37/2016/JL z uvedbo 2 novih modulov v obseg storitev iz naročila: modula o mehanizmu za pritožbe in modula o orodju za zaposlovanje osebja.</P>
+</SHORT_DESCR>
+<AC_PRICE/>
+<NO_OPTIONS/>
+<NO_EU_PROGR_RELATED/>
+</OBJECT_DESCR>
+</OBJECT_CONTRACT>
+<PROCEDURE>
+<PT_AWARD_CONTRACT_WITHOUT_CALL>
+<D_ACCORDANCE_ARTICLE>
+<D_ADD_DELIVERIES_ORDERED/>
+</D_ACCORDANCE_ARTICLE>
+<D_JUSTIFICATION>
+<P>sprememba izvirnega naročila se nanaša na dodatno blago in storitve izvirnega naročnika, ki v izvirnem razpisu niso bile prisotne na podlagi naslednjih pogojev:</P>
+<P>1. spremembe izvajalca ni mogoče izvesti, ker bosta zahtevano zaposlovanje osebja in mehanizem za pritožbe predstavljala sestavni del rešitve v celoti, imela skupne lastnosti rešitve, ki je že predmet oddanega naročila, in ker morata biti načrtovana na podlagi poglobljene prepletenosti z ozirom na idejno zasnovo in tehnične plasti;</P>
+<P>2. vsaka morebitna sprememba izvajalca bi lahko privedla do znatnega podvajanja stroškov za naročnika, saj so potreba po dodatnih dopolnitvenih delih in stroški licenc za funkcije že na razpolago v okviru rešitve, ki je predmet oddanega naročila in ki bo ponovno uporabljena;</P>
+<P>3. povišanje cene, ki vključuje skupno neto vrednost naknadnih sprememb, ne presega 50 % vrednosti prvotnega naročila.</P>
+</D_JUSTIFICATION>
+</PT_AWARD_CONTRACT_WITHOUT_CALL>
+<NO_CONTRACT_COVERED_GPA/>
+<NOTICE_NUMBER_OJ>2016/S 179-320222</NOTICE_NUMBER_OJ>
+</PROCEDURE>
+<AWARD_CONTRACT ITEM="1">
+<CONTRACT_NO>Sprememba št. 1 naročila Frontex/37/2016/JL</CONTRACT_NO>
+<TITLE>
+<P>Sprememba št. 1 naročila „Digitalno delovno mesto MyFrontex (intranet na podlagi COTS)“</P>
+</TITLE>
+<AWARDED_CONTRACT>
+<DATE_CONCLUSION_CONTRACT>2016-12-19</DATE_CONCLUSION_CONTRACT>
+<NB_TENDERS_RECEIVED>1</NB_TENDERS_RECEIVED>
+<NO_AWARDED_TO_GROUP/>
+<CONTRACTOR>
+<ADDRESS_CONTRACTOR>
+<OFFICIALNAME>Netcompany IT and Business Consulting A/S</OFFICIALNAME>
+<ADDRESS>Gronningen 17</ADDRESS>
+<TOWN>Copenhagen</TOWN>
+<POSTAL_CODE>1270</POSTAL_CODE>
+<COUNTRY VALUE="DK"/>
+<NUTS CODE="DK011"/>
+</ADDRESS_CONTRACTOR>
+<NO_SME/>
+</CONTRACTOR>
+<VAL_TOTAL CURRENCY="EUR">189630.00</VAL_TOTAL>
+</AWARDED_CONTRACT>
+</AWARD_CONTRACT>
+<COMPLEMENTARY_INFO>
+<ADDRESS_REVIEW_BODY>
+<OFFICIALNAME>Splošno sodišče</OFFICIALNAME>
+<ADDRESS>rue du Fort Niedergrünewald </ADDRESS>
+<TOWN>Luxembourg</TOWN>
+<POSTAL_CODE>2925</POSTAL_CODE>
+<COUNTRY VALUE="LU"/>
+<PHONE>+352 4303-1</PHONE>
+<E_MAIL>cfi.registry@curia.europa.eu</E_MAIL>
+<FAX>+352 4303-2100</FAX>
+<URL>http://curia.europa.eu</URL>
+</ADDRESS_REVIEW_BODY>
+<REVIEW_PROCEDURE>
+<P>v 2 mesecih od uradnega obvestila tožniku ali, če tega ni bilo, od dneva, ko je tožnik zanj izvedel.</P>
+</REVIEW_PROCEDURE>
+<DATE_DISPATCH_NOTICE>2017-01-11</DATE_DISPATCH_NOTICE>
+</COMPLEMENTARY_INFO>
+</F03_2014>
+<F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="GA">
+<CONTRACTING_BODY>
+<ADDRESS_CONTRACTING_BODY>
+<OFFICIALNAME>Frontex — an Ghníomhaireacht Eorpach um an nGarda Teorann agus Cósta</OFFICIALNAME>
+<ADDRESS>Plac Europejski 6</ADDRESS>
+<TOWN>Warsaw</TOWN>
+<POSTAL_CODE>00-844</POSTAL_CODE>
+<COUNTRY VALUE="PL"/>
+<PHONE>+48 222059500</PHONE>
+<E_MAIL>procurement@frontex.europa.eu</E_MAIL>
+<FAX>+48 222059501</FAX>
+<NUTS CODE="PL127"/>
+<URL_GENERAL>www.frontex.europa.eu</URL_GENERAL>
+</ADDRESS_CONTRACTING_BODY>
+<CA_TYPE VALUE="EU_INSTITUTION"/>
+<CA_ACTIVITY VALUE="DEFENCE"/>
+</CONTRACTING_BODY>
+<OBJECT_CONTRACT>
+<TITLE>
+<P>Leasúchán Uimh.1 leis an gconradh 'Áit oibre dhigiteach MyFrontex (inlíon bunaithe ar COTS)'.</P>
+</TITLE>
+<REFERENCE_NUMBER>Frontex/37/2016/JL.</REFERENCE_NUMBER>
+<CPV_MAIN>
+<CPV_CODE CODE="48000000"/>
+</CPV_MAIN>
+<TYPE_CONTRACT CTYPE="SERVICES"/>
+<SHORT_DESCR>
+<P>Leasúchán Uimh.1 leis an gconradh 'Áit oibre dhigiteach MyFrontex (inlíon bunaithe ar COTS)' Frontex/37/2016/JL trí 2 mhodúl nua a chur le raon feidhme na seirbhísí conarthacha: modúl maidir le meicníocht gearán agus modúl maidir le huirlis earcaíochta acmhainní daonna (HR).</P>
+</SHORT_DESCR>
+<VAL_TOTAL CURRENCY="EUR">189630.00</VAL_TOTAL>
+<NO_LOT_DIVISION/>
+<OBJECT_DESCR ITEM="1">
+<NUTS CODE="PL127"/>
+<MAIN_SITE>
+<P>Ceanncheathrú Frontex, Vársá, an Pholainn.</P>
+</MAIN_SITE>
+<SHORT_DESCR>
+<P>Leasúchán Uimh.1 leis an gconradh 'Áit oibre dhigiteach MyFrontex (inlíon bunaithe ar COTS)' Frontex/37/2016/JL trí 2 mhodúl nua a chur le raon feidhme na seirbhísí conarthacha: modúl maidir le meicníocht gearán agus modúl maidir le huirlis earcaíochta acmhainní daonna (HR).</P>
+</SHORT_DESCR>
+<AC_PRICE/>
+<NO_OPTIONS/>
+<NO_EU_PROGR_RELATED/>
+</OBJECT_DESCR>
+</OBJECT_CONTRACT>
+<PROCEDURE>
+<PT_AWARD_CONTRACT_WITHOUT_CALL>
+<D_ACCORDANCE_ARTICLE>
+<D_ADD_DELIVERIES_ORDERED/>
+</D_ACCORDANCE_ARTICLE>
+<D_JUSTIFICATION>
+<P>Rinneadh tagairt sa leasúchán leis an gconradh bunaidh arna ghlacadh do sholáthairtí agus seirbhísí breise ón gconraitheoir bunaidh nach raibh san áireamh leis an soláthar bunaidh ar bhonn na gcoinníollacha a leanas:</P>
+<P>1. ní féidir an conraitheoir a athrú mar beidh an mheicníocht earcaíochta HR agus gearán ina cuid dhílis den réiteach iomlán, úsáidfear gnéithe coiteanna léi den réiteach arna chonrú cheana agus déanfar í a dhearadh le comhtháthú domhain an choincheapa agus na gciseal teicniúil;</P>
+<P>2. bheadh aon athrú ionchasach ar an gconraitheoir ina chúis shubstaintiúil le dúbláil costas don údarás conarthachta mar gheall ar an ngá le hoibreacha comhtháthaithe breise agus costas na gceadúnas le haghaidh gnéithe atá ar fáil cheana sa réiteach arna chonrú as a mbainfear úsáid arís;</P>
+<P>3. níl an méadú ar an bpraghas, lena n-áirítear luach carnach glan na mionathruithe comhleantacha, níos mó ná 50 % de luach bunaidh an chonartha.</P>
+</D_JUSTIFICATION>
+</PT_AWARD_CONTRACT_WITHOUT_CALL>
+<NO_CONTRACT_COVERED_GPA/>
+<NOTICE_NUMBER_OJ>2016/S 179-320222</NOTICE_NUMBER_OJ>
+</PROCEDURE>
+<AWARD_CONTRACT ITEM="1">
+<CONTRACT_NO>Leasúchán Uimh.1 le Frontex/37/2016/JL</CONTRACT_NO>
+<TITLE>
+<P>Leasúchán Uimh.1 leis an gconradh 'Áit oibre dhigiteach MyFrontex (inlíon bunaithe ar COTS)'</P>
+</TITLE>
+<AWARDED_CONTRACT>
+<DATE_CONCLUSION_CONTRACT>2016-12-19</DATE_CONCLUSION_CONTRACT>
+<NB_TENDERS_RECEIVED>1</NB_TENDERS_RECEIVED>
+<NO_AWARDED_TO_GROUP/>
+<CONTRACTOR>
+<ADDRESS_CONTRACTOR>
+<OFFICIALNAME>Netcompany IT and Business Consulting A/S</OFFICIALNAME>
+<ADDRESS>Gronningen 17</ADDRESS>
+<TOWN>Copenhagen</TOWN>
+<POSTAL_CODE>1270</POSTAL_CODE>
+<COUNTRY VALUE="DK"/>
+<NUTS CODE="DK011"/>
+</ADDRESS_CONTRACTOR>
+<NO_SME/>
+</CONTRACTOR>
+<VAL_TOTAL CURRENCY="EUR">189630.00</VAL_TOTAL>
+</AWARDED_CONTRACT>
+</AWARD_CONTRACT>
+<COMPLEMENTARY_INFO>
+<ADDRESS_REVIEW_BODY>
+<OFFICIALNAME>An Chúirt Ghinearálta</OFFICIALNAME>
+<ADDRESS>rue du Fort Niedergrünewald </ADDRESS>
+<TOWN>Luxembourg</TOWN>
+<POSTAL_CODE>2925</POSTAL_CODE>
+<COUNTRY VALUE="LU"/>
+<PHONE>+352 4303-1</PHONE>
+<E_MAIL>cfi.registry@curia.europa.eu</E_MAIL>
+<FAX>+352 4303-2100</FAX>
+<URL>http://curia.europa.eu</URL>
+</ADDRESS_REVIEW_BODY>
+<REVIEW_PROCEDURE>
+<P>Laistigh de 2 mhí ón bhfógra don ghearánaí, nó, dá éagmais sin, ón lá a fuarthas an t-eolas.</P>
+</REVIEW_PROCEDURE>
+<DATE_DISPATCH_NOTICE>2017-01-11</DATE_DISPATCH_NOTICE>
+</COMPLEMENTARY_INFO>
+</F03_2014>
+<F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="BG">
+<CONTRACTING_BODY>
+<ADDRESS_CONTRACTING_BODY>
+<OFFICIALNAME>Frontex – Европейска агенция за гранична и брегова охрана</OFFICIALNAME>
+<ADDRESS>Plac Europejski 6</ADDRESS>
+<TOWN>Warsaw</TOWN>
+<POSTAL_CODE>00-844</POSTAL_CODE>
+<COUNTRY VALUE="PL"/>
+<PHONE>+48 222059500</PHONE>
+<E_MAIL>procurement@frontex.europa.eu</E_MAIL>
+<FAX>+48 222059501</FAX>
+<NUTS CODE="PL127"/>
+<URL_GENERAL>www.frontex.europa.eu</URL_GENERAL>
+</ADDRESS_CONTRACTING_BODY>
+<CA_TYPE VALUE="EU_INSTITUTION"/>
+<CA_ACTIVITY VALUE="DEFENCE"/>
+</CONTRACTING_BODY>
+<OBJECT_CONTRACT>
+<TITLE>
+<P>Поправка № 1 към поръчка „Цифрово работно място MyFrontex (интранет, базиран на пазарно утвърден продукт (COTS))“.</P>
+</TITLE>
+<REFERENCE_NUMBER>Frontex/37/2016/JL.</REFERENCE_NUMBER>
+<CPV_MAIN>
+<CPV_CODE CODE="48000000"/>
+</CPV_MAIN>
+<TYPE_CONTRACT CTYPE="SERVICES"/>
+<SHORT_DESCR>
+<P>Поправка № 1 към поръчка „Цифрово работно място MyFrontex (интранет, базиран на пазарно утвърден продукт (COTS))“ Frontex/37/2016/JL чрез добавяне на 2 нови модула към обхвата на договорните услуги: модул относно механизъм за жалби и модул относно инструмент за набиране на човешки ресурси.</P>
+</SHORT_DESCR>
+<VAL_TOTAL CURRENCY="EUR">189630.00</VAL_TOTAL>
+<NO_LOT_DIVISION/>
+<OBJECT_DESCR ITEM="1">
+<NUTS CODE="PL127"/>
+<MAIN_SITE>
+<P>седалището на Frontex, Варшава, Полша.</P>
+</MAIN_SITE>
+<SHORT_DESCR>
+<P>Поправка № 1 към поръчка „Цифрово работно място MyFrontex (интранет, базиран на пазарно утвърден продукт (COTS))“ Frontex/37/2016/JL чрез добавяне на 2 нови модула към обхвата на договорните услуги: модул относно механизъм за жалби и модул относно инструмент за набиране на човешки ресурси.</P>
+</SHORT_DESCR>
+<AC_PRICE/>
+<NO_OPTIONS/>
+<NO_EU_PROGR_RELATED/>
+</OBJECT_DESCR>
+</OBJECT_CONTRACT>
+<PROCEDURE>
+<PT_AWARD_CONTRACT_WITHOUT_CALL>
+<D_ACCORDANCE_ARTICLE>
+<D_ADD_DELIVERIES_ORDERED/>
+</D_ACCORDANCE_ARTICLE>
+<D_JUSTIFICATION>
+<P>Предприетото изменение на първоначалната поръчка се отнася до допълнителни доставки и услуги от първоначалния изпълнител, които не са били включени в първоначалната поръчка въз основа на следните условия:</P>
+<P>1. не може да бъде направена промяна на изпълнителя, тъй като изискваният механизъм за набиране на човешки ресурси и за жалби ще съставлява неразделна част от цялото решение, ще използва общи характеристики на вече договореното решение и ще бъде проектирано със задълбочено интегриране в концепцията и техническите нива;</P>
+<P>2. всяка евентуална промяна на изпълнителя би довела до съществено дублиране на разходите за възлагащия орган поради необходимостта от допълнителни дейности по интегриране и разходи по лицензи за вече наличните характеристики в договореното решение, които ще бъдат използвани повторно;</P>
+<P>3. повишаването на цената, включително нетната кумулативна стойност на последователните изменения, не надвишава 50 % от първоначалната стойност на поръчката.</P>
+</D_JUSTIFICATION>
+</PT_AWARD_CONTRACT_WITHOUT_CALL>
+<NO_CONTRACT_COVERED_GPA/>
+<NOTICE_NUMBER_OJ>2016/S 179-320222</NOTICE_NUMBER_OJ>
+</PROCEDURE>
+<AWARD_CONTRACT ITEM="1">
+<CONTRACT_NO>Поправка № 1 към Frontex/37/2016/JL</CONTRACT_NO>
+<TITLE>
+<P>Поправка № 1 към поръчка „Цифрово работно място MyFrontex (интранет, базиран на пазарно утвърден продукт (COTS))“</P>
+</TITLE>
+<AWARDED_CONTRACT>
+<DATE_CONCLUSION_CONTRACT>2016-12-19</DATE_CONCLUSION_CONTRACT>
+<NB_TENDERS_RECEIVED>1</NB_TENDERS_RECEIVED>
+<NO_AWARDED_TO_GROUP/>
+<CONTRACTOR>
+<ADDRESS_CONTRACTOR>
+<OFFICIALNAME>Netcompany IT and Business Consulting A/S</OFFICIALNAME>
+<ADDRESS>Gronningen 17</ADDRESS>
+<TOWN>Copenhagen</TOWN>
+<POSTAL_CODE>1270</POSTAL_CODE>
+<COUNTRY VALUE="DK"/>
+<NUTS CODE="DK011"/>
+</ADDRESS_CONTRACTOR>
+<NO_SME/>
+</CONTRACTOR>
+<VAL_TOTAL CURRENCY="EUR">189630.00</VAL_TOTAL>
+</AWARDED_CONTRACT>
+</AWARD_CONTRACT>
+<COMPLEMENTARY_INFO>
+<ADDRESS_REVIEW_BODY>
+<OFFICIALNAME>Общ съд</OFFICIALNAME>
+<ADDRESS>rue du Fort Niedergrünewald </ADDRESS>
+<TOWN>Luxembourg</TOWN>
+<POSTAL_CODE>2925</POSTAL_CODE>
+<COUNTRY VALUE="LU"/>
+<PHONE>+352 4303-1</PHONE>
+<E_MAIL>cfi.registry@curia.europa.eu</E_MAIL>
+<FAX>+352 4303-2100</FAX>
+<URL>http://curia.europa.eu</URL>
+</ADDRESS_REVIEW_BODY>
+<REVIEW_PROCEDURE>
+<P>В рамките на 2 месеца от получаването на известието от ищеца или, в случай че такова липсва, от деня, в който е станало известно.</P>
+</REVIEW_PROCEDURE>
+<DATE_DISPATCH_NOTICE>2017-01-11</DATE_DISPATCH_NOTICE>
+</COMPLEMENTARY_INFO>
+</F03_2014>
+<F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="RO">
+<CONTRACTING_BODY>
+<ADDRESS_CONTRACTING_BODY>
+<OFFICIALNAME>Frontex – Agenția Europeană pentru Poliția de Frontieră și Garda de Coastă</OFFICIALNAME>
+<ADDRESS>Plac Europejski 6</ADDRESS>
+<TOWN>Warsaw</TOWN>
+<POSTAL_CODE>00-844</POSTAL_CODE>
+<COUNTRY VALUE="PL"/>
+<PHONE>+48 222059500</PHONE>
+<E_MAIL>procurement@frontex.europa.eu</E_MAIL>
+<FAX>+48 222059501</FAX>
+<NUTS CODE="PL127"/>
+<URL_GENERAL>www.frontex.europa.eu</URL_GENERAL>
+</ADDRESS_CONTRACTING_BODY>
+<CA_TYPE VALUE="EU_INSTITUTION"/>
+<CA_ACTIVITY VALUE="DEFENCE"/>
+</CONTRACTING_BODY>
+<OBJECT_CONTRACT>
+<TITLE>
+<P>Modificarea nr. 1 la contractul „Spațiu de lucru digital MyFrontex (intranet bazat pe COTS)”.</P>
+</TITLE>
+<REFERENCE_NUMBER>Frontex/37/2016/JL.</REFERENCE_NUMBER>
+<CPV_MAIN>
+<CPV_CODE CODE="48000000"/>
+</CPV_MAIN>
+<TYPE_CONTRACT CTYPE="SERVICES"/>
+<SHORT_DESCR>
+<P>Modificarea nr. 1 la contractul „Spațiu de lucru digital MyFrontex (intranet bazat pe COTS)” Frontex/37/2016/JL, prin adăugarea a 2 noi module la obiectul serviciilor contractuale: modulul privind mecanismul pentru reclamații și modulul privind instrumentul de recrutare a resurselor umane.</P>
+</SHORT_DESCR>
+<VAL_TOTAL CURRENCY="EUR">189630.00</VAL_TOTAL>
+<NO_LOT_DIVISION/>
+<OBJECT_DESCR ITEM="1">
+<NUTS CODE="PL127"/>
+<MAIN_SITE>
+<P>Sediul central al Frontex, Varșovia, Polonia.</P>
+</MAIN_SITE>
+<SHORT_DESCR>
+<P>Modificarea nr. 1 la contractul „Spațiu de lucru digital MyFrontex (intranet bazat pe COTS)” Frontex/37/2016/JL, prin adăugarea a 2 noi module la obiectul serviciilor contractuale: modulul privind mecanismul pentru reclamații și modulul privind instrumentul de recrutare a resurselor umane.</P>
+</SHORT_DESCR>
+<AC_PRICE/>
+<NO_OPTIONS/>
+<NO_EU_PROGR_RELATED/>
+</OBJECT_DESCR>
+</OBJECT_CONTRACT>
+<PROCEDURE>
+<PT_AWARD_CONTRACT_WITHOUT_CALL>
+<D_ACCORDANCE_ARTICLE>
+<D_ADD_DELIVERIES_ORDERED/>
+</D_ACCORDANCE_ARTICLE>
+<D_JUSTIFICATION>
+<P>Modificarea adusă contractului inițial se referă la furnizarea de bunuri și servicii suplimentare de către contractantul inițial, care nu erau incluse în achiziția inițială, în baza următoarelor condiții:</P>
+<P>1. nu se poate schimba contractantul, deoarece mecanismele solicitate pentru recrutarea resurselor umane și pentru reclamații vor constitui o parte integrantă a soluției complete, vor utiliza caracteristici comune ale soluției deja contractate și vor fi concepute cu integrarea aprofundată a conceptului și a nivelurilor tehnice;</P>
+<P>2. orice eventuală schimbare a contractantului ar implica o creștere substanțială a costurilor suportate de autoritatea contractantă, având în vedere nevoia de lucrări suplimentare de integrare și costul licențelor pentru caracteristici care sunt deja disponibile în cadrul soluției contractate, care vor fi reutilizate;</P>
+<P>3. majorarea prețului, inclusiv valoarea cumulată netă a modificărilor succesive, nu depășește 50 % din valoarea contractului inițial.</P>
+</D_JUSTIFICATION>
+</PT_AWARD_CONTRACT_WITHOUT_CALL>
+<NO_CONTRACT_COVERED_GPA/>
+<NOTICE_NUMBER_OJ>2016/S 179-320222</NOTICE_NUMBER_OJ>
+</PROCEDURE>
+<AWARD_CONTRACT ITEM="1">
+<CONTRACT_NO>Modificarea nr. 1 la Frontex/37/2016/JL</CONTRACT_NO>
+<TITLE>
+<P>Modificarea nr. 1 la contractul „Spațiu de lucru digital MyFrontex (intranet bazat pe COTS)”</P>
+</TITLE>
+<AWARDED_CONTRACT>
+<DATE_CONCLUSION_CONTRACT>2016-12-19</DATE_CONCLUSION_CONTRACT>
+<NB_TENDERS_RECEIVED>1</NB_TENDERS_RECEIVED>
+<NO_AWARDED_TO_GROUP/>
+<CONTRACTOR>
+<ADDRESS_CONTRACTOR>
+<OFFICIALNAME>Netcompany IT and Business Consulting A/S</OFFICIALNAME>
+<ADDRESS>Gronningen 17</ADDRESS>
+<TOWN>Copenhagen</TOWN>
+<POSTAL_CODE>1270</POSTAL_CODE>
+<COUNTRY VALUE="DK"/>
+<NUTS CODE="DK011"/>
+</ADDRESS_CONTRACTOR>
+<NO_SME/>
+</CONTRACTOR>
+<VAL_TOTAL CURRENCY="EUR">189630.00</VAL_TOTAL>
+</AWARDED_CONTRACT>
+</AWARD_CONTRACT>
+<COMPLEMENTARY_INFO>
+<ADDRESS_REVIEW_BODY>
+<OFFICIALNAME>Tribunalul</OFFICIALNAME>
+<ADDRESS>rue du Fort Niedergrünewald </ADDRESS>
+<TOWN>Luxembourg</TOWN>
+<POSTAL_CODE>2925</POSTAL_CODE>
+<COUNTRY VALUE="LU"/>
+<PHONE>+352 4303-1</PHONE>
+<E_MAIL>cfi.registry@curia.europa.eu</E_MAIL>
+<FAX>+352 4303-2100</FAX>
+<URL>http://curia.europa.eu</URL>
+</ADDRESS_REVIEW_BODY>
+<REVIEW_PROCEDURE>
+<P>În termen de 2 luni de la notificarea reclamantului sau, în lipsa acesteia, de la ziua în care acesta a luat cunoștință de actul respectiv.</P>
+</REVIEW_PROCEDURE>
+<DATE_DISPATCH_NOTICE>2017-01-11</DATE_DISPATCH_NOTICE>
+</COMPLEMENTARY_INFO>
+</F03_2014>
+<F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="HR">
+<CONTRACTING_BODY>
+<ADDRESS_CONTRACTING_BODY>
+<OFFICIALNAME>Frontex — Agencija za europsku graničnu i obalnu stražu</OFFICIALNAME>
+<ADDRESS>Plac Europejski 6</ADDRESS>
+<TOWN>Warsaw</TOWN>
+<POSTAL_CODE>00-844</POSTAL_CODE>
+<COUNTRY VALUE="PL"/>
+<PHONE>+48 222059500</PHONE>
+<E_MAIL>procurement@frontex.europa.eu</E_MAIL>
+<FAX>+48 222059501</FAX>
+<NUTS CODE="PL127"/>
+<URL_GENERAL>www.frontex.europa.eu</URL_GENERAL>
+</ADDRESS_CONTRACTING_BODY>
+<CA_TYPE VALUE="EU_INSTITUTION"/>
+<CA_ACTIVITY VALUE="DEFENCE"/>
+</CONTRACTING_BODY>
+<OBJECT_CONTRACT>
+<TITLE>
+<P>Izmjena br. 1 ugovora „Digitalno radno mjesto MyFrontex (intranet koji se temelji na COTS-u)”</P>
+</TITLE>
+<REFERENCE_NUMBER>Frontex/37/2016/JL.</REFERENCE_NUMBER>
+<CPV_MAIN>
+<CPV_CODE CODE="48000000"/>
+</CPV_MAIN>
+<TYPE_CONTRACT CTYPE="SERVICES"/>
+<SHORT_DESCR>
+<P>Izmjena br. 1 ugovora „Digitalno radno mjesto MyFrontex (intranet koji se temelji na COTS-u)” Frontex/37/2016/JL dodavanjem 2 nova modula opsegu ugovorenih usluga: modul o žalbenom mehanizmu i modul o alatu za zapošljavanje osoblja.</P>
+</SHORT_DESCR>
+<VAL_TOTAL CURRENCY="EUR">189630.00</VAL_TOTAL>
+<NO_LOT_DIVISION/>
+<OBJECT_DESCR ITEM="1">
+<NUTS CODE="PL127"/>
+<MAIN_SITE>
+<P>Sjedište Frontexa, Varšava, Poljska.</P>
+</MAIN_SITE>
+<SHORT_DESCR>
+<P>Izmjena br. 1 ugovora „Digitalno radno mjesto MyFrontex (intranet koji se temelji na COTS-u)” Frontex/37/2016/JL dodavanjem 2 nova modula opsegu ugovorenih usluga: modul o žalbenom mehanizmu i modul o alatu za zapošljavanje osoblja.</P>
+</SHORT_DESCR>
+<AC_PRICE/>
+<NO_OPTIONS/>
+<NO_EU_PROGR_RELATED/>
+</OBJECT_DESCR>
+</OBJECT_CONTRACT>
+<PROCEDURE>
+<PT_AWARD_CONTRACT_WITHOUT_CALL>
+<D_ACCORDANCE_ARTICLE>
+<D_ADD_DELIVERIES_ORDERED/>
+</D_ACCORDANCE_ARTICLE>
+<D_JUSTIFICATION>
+<P>Izvršena izmjena izvornog ugovora odnosila se na dodatnu opskrbu i usluge izvornog izvoditelja, koje nisu bile uključene u izvornu nabavu na temelju sljedećih uvjeta:</P>
+<P>1. promjena izvoditelja ne može se izvršiti budući da će zahtijevani mehanizam za zapošljavanje osoblja i žalbeni mehanizam činiti sastavni dio cjelokupnog rješenja, imat će uobičajene značajke već ugovorenog rješenja i bit će osmišljeni s temeljitom integracijom u pogledu koncepta i tehničkih slojeva;</P>
+<P>2. svaka moguća promjena izvoditelja uzrokovala bi znatno udvostručenje troškova javnog naručitelja zbog potrebe za dodatnim integracijskim radovima i troškove dozvola za značajke koje su već dostupne u ugovorenom rješenju koje će se ponovno iskoristiti;</P>
+<P>3. povećanje cijene, uključujući i ukupnu neto vrijednost naknadnih izmjena, ne prelazi 50 % vrijednosti početnog ugovora.</P>
+</D_JUSTIFICATION>
+</PT_AWARD_CONTRACT_WITHOUT_CALL>
+<NO_CONTRACT_COVERED_GPA/>
+<NOTICE_NUMBER_OJ>2016/S 179-320222</NOTICE_NUMBER_OJ>
+</PROCEDURE>
+<AWARD_CONTRACT ITEM="1">
+<CONTRACT_NO>Izmjena br. 1 ugovora Frontex/37/2016/JL</CONTRACT_NO>
+<TITLE>
+<P>Izmjena br. 1 ugovora „Digitalno radno mjesto MyFrontex (intranet koji se temelji na COTS-u)”</P>
+</TITLE>
+<AWARDED_CONTRACT>
+<DATE_CONCLUSION_CONTRACT>2016-12-19</DATE_CONCLUSION_CONTRACT>
+<NB_TENDERS_RECEIVED>1</NB_TENDERS_RECEIVED>
+<NO_AWARDED_TO_GROUP/>
+<CONTRACTOR>
+<ADDRESS_CONTRACTOR>
+<OFFICIALNAME>Netcompany IT and Business Consulting A/S</OFFICIALNAME>
+<ADDRESS>Gronningen 17</ADDRESS>
+<TOWN>Copenhagen</TOWN>
+<POSTAL_CODE>1270</POSTAL_CODE>
+<COUNTRY VALUE="DK"/>
+<NUTS CODE="DK011"/>
+</ADDRESS_CONTRACTOR>
+<NO_SME/>
+</CONTRACTOR>
+<VAL_TOTAL CURRENCY="EUR">189630.00</VAL_TOTAL>
+</AWARDED_CONTRACT>
+</AWARD_CONTRACT>
+<COMPLEMENTARY_INFO>
+<ADDRESS_REVIEW_BODY>
+<OFFICIALNAME>Opći sud</OFFICIALNAME>
+<ADDRESS>rue du Fort Niedergrünewald </ADDRESS>
+<TOWN>Luxembourg</TOWN>
+<POSTAL_CODE>2925</POSTAL_CODE>
+<COUNTRY VALUE="LU"/>
+<PHONE>+352 4303-1</PHONE>
+<E_MAIL>cfi.registry@curia.europa.eu</E_MAIL>
+<FAX>+352 4303-2100</FAX>
+<URL>http://curia.europa.eu</URL>
+</ADDRESS_REVIEW_BODY>
+<REVIEW_PROCEDURE>
+<P>U roku od 2 mjeseca od slanja obavijesti podnositelju žalbe ili, u slučaju izostanka obavijesti, od datuma primanja na znanje okolnosti koje su povod žalbi.</P>
+</REVIEW_PROCEDURE>
+<DATE_DISPATCH_NOTICE>2017-01-11</DATE_DISPATCH_NOTICE>
+</COMPLEMENTARY_INFO>
+</F03_2014>
+</FORM_SECTION>
+</TED_EXPORT>

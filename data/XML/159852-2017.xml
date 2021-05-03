@@ -1,0 +1,2266 @@
+<?xml version="1.0" encoding="UTF-8"?><TED_EXPORT xmlns="http://formex.publications.europa.eu/ted/schema/export/R2.0.9.S01.E01" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" VERSION="R2.0.9.S01.E01" xsi:schemaLocation="http://formex.publications.europa.eu/ted/schema/export/R2.0.9.S01.E01 TED_EXPORT.xsd" DOC_ID="159852-2017" EDITION="2017083">
+<TECHNICAL_SECTION>
+<RECEPTION_ID>17-153024-001</RECEPTION_ID>
+<DELETION_DATE>20170727</DELETION_DATE>
+<FORM_LG_LIST>DA DE EN ES FI FR EL IT NL PT SV CS ET HU LT LV MT PL SK SL GA BG RO HR </FORM_LG_LIST>
+<COMMENTS>From Convertor</COMMENTS>
+</TECHNICAL_SECTION>
+<LINKS_SECTION>
+<XML_SCHEMA_DEFINITION_LINK xlink:title="TED WEBSITE" xlink:href="http://ted.europa.eu" xlink:type="simple"/>
+<OFFICIAL_FORMS_LINK xlink:href="http://ted.europa.eu" xlink:type="simple"/>
+<FORMS_LABELS_LINK xlink:href="http://ted.europa.eu" xlink:type="simple"/>
+<ORIGINAL_CPV_LINK xlink:href="http://ted.europa.eu" xlink:type="simple"/>
+<ORIGINAL_NUTS_LINK xlink:href="http://ted.europa.eu" xlink:type="simple"/>
+</LINKS_SECTION>
+<CODED_DATA_SECTION>
+<REF_OJS>
+<COLL_OJ>S</COLL_OJ>
+<NO_OJ>83</NO_OJ>
+<DATE_PUB>20170428</DATE_PUB>
+</REF_OJS>
+<NOTICE_DATA>
+<NO_DOC_OJS>2017/S 083-159852</NO_DOC_OJS>
+<URI_LIST>
+<URI_DOC LG="DA">http://ted.europa.eu/udl?uri=TED:NOTICE:159852-2017:TEXT:DA:HTML</URI_DOC>
+<URI_DOC LG="DE">http://ted.europa.eu/udl?uri=TED:NOTICE:159852-2017:TEXT:DE:HTML</URI_DOC>
+<URI_DOC LG="EN">http://ted.europa.eu/udl?uri=TED:NOTICE:159852-2017:TEXT:EN:HTML</URI_DOC>
+<URI_DOC LG="ES">http://ted.europa.eu/udl?uri=TED:NOTICE:159852-2017:TEXT:ES:HTML</URI_DOC>
+<URI_DOC LG="FI">http://ted.europa.eu/udl?uri=TED:NOTICE:159852-2017:TEXT:FI:HTML</URI_DOC>
+<URI_DOC LG="FR">http://ted.europa.eu/udl?uri=TED:NOTICE:159852-2017:TEXT:FR:HTML</URI_DOC>
+<URI_DOC LG="EL">http://ted.europa.eu/udl?uri=TED:NOTICE:159852-2017:TEXT:EL:HTML</URI_DOC>
+<URI_DOC LG="IT">http://ted.europa.eu/udl?uri=TED:NOTICE:159852-2017:TEXT:IT:HTML</URI_DOC>
+<URI_DOC LG="NL">http://ted.europa.eu/udl?uri=TED:NOTICE:159852-2017:TEXT:NL:HTML</URI_DOC>
+<URI_DOC LG="PT">http://ted.europa.eu/udl?uri=TED:NOTICE:159852-2017:TEXT:PT:HTML</URI_DOC>
+<URI_DOC LG="SV">http://ted.europa.eu/udl?uri=TED:NOTICE:159852-2017:TEXT:SV:HTML</URI_DOC>
+<URI_DOC LG="CS">http://ted.europa.eu/udl?uri=TED:NOTICE:159852-2017:TEXT:CS:HTML</URI_DOC>
+<URI_DOC LG="ET">http://ted.europa.eu/udl?uri=TED:NOTICE:159852-2017:TEXT:ET:HTML</URI_DOC>
+<URI_DOC LG="HU">http://ted.europa.eu/udl?uri=TED:NOTICE:159852-2017:TEXT:HU:HTML</URI_DOC>
+<URI_DOC LG="LT">http://ted.europa.eu/udl?uri=TED:NOTICE:159852-2017:TEXT:LT:HTML</URI_DOC>
+<URI_DOC LG="LV">http://ted.europa.eu/udl?uri=TED:NOTICE:159852-2017:TEXT:LV:HTML</URI_DOC>
+<URI_DOC LG="MT">http://ted.europa.eu/udl?uri=TED:NOTICE:159852-2017:TEXT:MT:HTML</URI_DOC>
+<URI_DOC LG="PL">http://ted.europa.eu/udl?uri=TED:NOTICE:159852-2017:TEXT:PL:HTML</URI_DOC>
+<URI_DOC LG="SK">http://ted.europa.eu/udl?uri=TED:NOTICE:159852-2017:TEXT:SK:HTML</URI_DOC>
+<URI_DOC LG="SL">http://ted.europa.eu/udl?uri=TED:NOTICE:159852-2017:TEXT:SL:HTML</URI_DOC>
+<URI_DOC LG="GA">http://ted.europa.eu/udl?uri=TED:NOTICE:159852-2017:TEXT:GA:HTML</URI_DOC>
+<URI_DOC LG="BG">http://ted.europa.eu/udl?uri=TED:NOTICE:159852-2017:TEXT:BG:HTML</URI_DOC>
+<URI_DOC LG="RO">http://ted.europa.eu/udl?uri=TED:NOTICE:159852-2017:TEXT:RO:HTML</URI_DOC>
+<URI_DOC LG="HR">http://ted.europa.eu/udl?uri=TED:NOTICE:159852-2017:TEXT:HR:HTML</URI_DOC>
+</URI_LIST>
+<LG_ORIG>EN</LG_ORIG>
+<ISO_COUNTRY VALUE="PL"/>
+<IA_URL_GENERAL>www.frontex.europa.eu</IA_URL_GENERAL>
+<ORIGINAL_CPV CODE="60440000">Aerial and related services</ORIGINAL_CPV>
+<ORIGINAL_NUTS CODE="GR">ELLADA</ORIGINAL_NUTS>
+<CA_CE_NUTS CODE="PL127">Miasto Warszawa</CA_CE_NUTS>
+<REF_NOTICE>
+<NO_DOC_OJS>2016/S 208-376018</NO_DOC_OJS>
+</REF_NOTICE>
+</NOTICE_DATA>
+<CODIF_DATA>
+<DS_DATE_DISPATCH>20170418</DS_DATE_DISPATCH>
+<AA_AUTHORITY_TYPE CODE="5">European Institution/Agency or International Organisation</AA_AUTHORITY_TYPE>
+<TD_DOCUMENT_TYPE CODE="7">Contract award notice</TD_DOCUMENT_TYPE>
+<NC_CONTRACT_NATURE CODE="4">Services</NC_CONTRACT_NATURE>
+<PR_PROC CODE="1">Open procedure</PR_PROC>
+<RP_REGULATION CODE="3">European Institution/Agency or International Organisation</RP_REGULATION>
+<TY_TYPE_BID CODE="9">Not applicable</TY_TYPE_BID>
+<AC_AWARD_CRIT CODE="2">The most economic tender</AC_AWARD_CRIT>
+<MA_MAIN_ACTIVITIES CODE="D">Defence</MA_MAIN_ACTIVITIES>
+<HEADING>AGC03</HEADING>
+<INITIATOR>AG</INITIATOR>
+<DIRECTIVE VALUE="2014/24/EU"/>
+</CODIF_DATA>
+</CODED_DATA_SECTION>
+<TRANSLATION_SECTION>
+<ML_TITLES>
+<ML_TI_DOC LG="DA">
+<TI_CY>Polen</TI_CY>
+<TI_TOWN>Warszawa</TI_TOWN>
+<TI_TEXT>
+<P>Prøveforsøg med fjernstyrede flysystemer til maritim luftovervågning</P>
+</TI_TEXT>
+</ML_TI_DOC>
+<ML_TI_DOC LG="DE">
+<TI_CY>Polen</TI_CY>
+<TI_TOWN>Warschau</TI_TOWN>
+<TI_TEXT>
+<P>Erprobung eines unbemannten Luftfahrzeugsystems (RPAS) zur Überwachung von Seegebieten aus der Luft</P>
+</TI_TEXT>
+</ML_TI_DOC>
+<ML_TI_DOC LG="EN">
+<TI_CY>Poland</TI_CY>
+<TI_TOWN>Warsaw</TI_TOWN>
+<TI_TEXT>
+<P>Trial of remotely piloted aircraft system (RPAS) for maritime aerial surveillance</P>
+</TI_TEXT>
+</ML_TI_DOC>
+<ML_TI_DOC LG="ES">
+<TI_CY>Polonia</TI_CY>
+<TI_TOWN>Varsovia</TI_TOWN>
+<TI_TEXT>
+<P>Ensayo de sistema de aeronave pilotada a distancia (RPAS) para la vigilancia marítima aérea</P>
+</TI_TEXT>
+</ML_TI_DOC>
+<ML_TI_DOC LG="FI">
+<TI_CY>Puola</TI_CY>
+<TI_TOWN>Varsova</TI_TOWN>
+<TI_TEXT>
+<P>Kauko-ohjatun ilma-aluksen käytön kokonaisjärjestelmän (RPAS) kokeileminen merellä suoritettavassa ilmavalvonnassa</P>
+</TI_TEXT>
+</ML_TI_DOC>
+<ML_TI_DOC LG="FR">
+<TI_CY>Pologne</TI_CY>
+<TI_TOWN>Varsovie</TI_TOWN>
+<TI_TEXT>
+<P>Essai de système d'aéronefs télépilotés (RPAS) pour la surveillance aérienne des zones maritimes</P>
+</TI_TEXT>
+</ML_TI_DOC>
+<ML_TI_DOC LG="EL">
+<TI_CY>Πολωνία</TI_CY>
+<TI_TOWN>Βαρσοβία</TI_TOWN>
+<TI_TEXT>
+<P>Δοκιμή τηλεκατευθυνόμενου αεροπορικού συστήματος (RPAS) για την εναέρια επιτήρηση θαλάσσιων περιοχών</P>
+</TI_TEXT>
+</ML_TI_DOC>
+<ML_TI_DOC LG="IT">
+<TI_CY>Polonia</TI_CY>
+<TI_TOWN>Varsavia</TI_TOWN>
+<TI_TEXT>
+<P>Prova del sistema aereo a pilotaggio remoto per la sorveglianza aerea marittima</P>
+</TI_TEXT>
+</ML_TI_DOC>
+<ML_TI_DOC LG="NL">
+<TI_CY>Polen</TI_CY>
+<TI_TOWN>Warschau</TI_TOWN>
+<TI_TEXT>
+<P>Testen van maritieme bewaking vanuit de lucht met behulp van op afstand bestuurde luchtvaartuigen (RPAS-systemen)</P>
+</TI_TEXT>
+</ML_TI_DOC>
+<ML_TI_DOC LG="PT">
+<TI_CY>Polónia</TI_CY>
+<TI_TOWN>Varsóvia</TI_TOWN>
+<TI_TEXT>
+<P>Ensaio de sistema de aeronave telepilotada (RPAS) para vigilância aérea marítima</P>
+</TI_TEXT>
+</ML_TI_DOC>
+<ML_TI_DOC LG="SV">
+<TI_CY>Polen</TI_CY>
+<TI_TOWN>Warszawa</TI_TOWN>
+<TI_TEXT>
+<P>Försök avseende luftövervakning till havs medelst fjärrstyrt luftfartygssystem (RPAS)</P>
+</TI_TEXT>
+</ML_TI_DOC>
+<ML_TI_DOC LG="CS">
+<TI_CY>Polsko</TI_CY>
+<TI_TOWN>Varšava</TI_TOWN>
+<TI_TEXT>
+<P>Zkouška dálkově řízeného letadlového systému (RPAS) pro monitorování mořských oblastí ze vzduchu</P>
+</TI_TEXT>
+</ML_TI_DOC>
+<ML_TI_DOC LG="ET">
+<TI_CY>Poola</TI_CY>
+<TI_TOWN>Varssavi</TI_TOWN>
+<TI_TEXT>
+<P>Merealade õhuseire jaoks kaugjuhitava õhusõiduki süsteemi (RPAS) katsetamine</P>
+</TI_TEXT>
+</ML_TI_DOC>
+<ML_TI_DOC LG="HU">
+<TI_CY>Lengyelország</TI_CY>
+<TI_TOWN>Varsó</TI_TOWN>
+<TI_TEXT>
+<P>Tengeri légi felügyeletre szolgáló távirányítású légijármű-rendszerek (RPAS) kísérleti alkalmazása</P>
+</TI_TEXT>
+</ML_TI_DOC>
+<ML_TI_DOC LG="LT">
+<TI_CY>Lenkija</TI_CY>
+<TI_TOWN>Varšuva</TI_TOWN>
+<TI_TEXT>
+<P>Nuotoliniu būdu pilotuojamų orlaivių sistemos (RPAS) išbandymas jūros stebėsenai iš oro</P>
+</TI_TEXT>
+</ML_TI_DOC>
+<ML_TI_DOC LG="LV">
+<TI_CY>Polija</TI_CY>
+<TI_TOWN>Varšava</TI_TOWN>
+<TI_TEXT>
+<P>Tālvadības gaisa kuģa sistēmas (RPAS) izmēģināšana jūras novērošanai no gaisa</P>
+</TI_TEXT>
+</ML_TI_DOC>
+<ML_TI_DOC LG="MT">
+<TI_CY>il-Polonja</TI_CY>
+<TI_TOWN>Varsavja</TI_TOWN>
+<TI_TEXT>
+<P>Prova ta' sistemi ta' ajruplani ppilotati mill-bogħod (RPAS) għas-sorveljanza marittima mill-ajru</P>
+</TI_TEXT>
+</ML_TI_DOC>
+<ML_TI_DOC LG="PL">
+<TI_CY>Polska</TI_CY>
+<TI_TOWN>Warszawa</TI_TOWN>
+<TI_TEXT>
+<P>Test zdalnie kierowanego bezzałogowego systemu powietrznego (BSP) do celów nadzoru morskiego z powietrza</P>
+</TI_TEXT>
+</ML_TI_DOC>
+<ML_TI_DOC LG="SK">
+<TI_CY>Poľsko</TI_CY>
+<TI_TOWN>Varšava</TI_TOWN>
+<TI_TEXT>
+<P>Skúška diaľkovo riadeného leteckého systému (RPAS) pre leteckú kontrolu námorných hraníc</P>
+</TI_TEXT>
+</ML_TI_DOC>
+<ML_TI_DOC LG="SL">
+<TI_CY>Poljska</TI_CY>
+<TI_TOWN>Varšava</TI_TOWN>
+<TI_TEXT>
+<P>Preskus sistema daljinsko vodenih zrakoplovov (RPAS) za pomorski zračni nadzor</P>
+</TI_TEXT>
+</ML_TI_DOC>
+<ML_TI_DOC LG="GA">
+<TI_CY>Pholainn, an</TI_CY>
+<TI_TOWN>Vársá</TI_TOWN>
+<TI_TEXT>
+<P>Córas aerárthaí cianrialaithe (RPAS) a thástáil maidir le haerfhaireachas muirí</P>
+</TI_TEXT>
+</ML_TI_DOC>
+<ML_TI_DOC LG="BG">
+<TI_CY>Полша</TI_CY>
+<TI_TOWN>Варшава</TI_TOWN>
+<TI_TEXT>
+<P>Изпитване на дистанционно управляема летателна система (RPAS) за морско наблюдение от въздуха</P>
+</TI_TEXT>
+</ML_TI_DOC>
+<ML_TI_DOC LG="RO">
+<TI_CY>Polonia</TI_CY>
+<TI_TOWN>Varșovia</TI_TOWN>
+<TI_TEXT>
+<P>Testarea sistemului de aeronave pilotate de la distanță (RPAS) pentru supravegherea aeriană a zonelor maritime</P>
+</TI_TEXT>
+</ML_TI_DOC>
+<ML_TI_DOC LG="HR">
+<TI_CY>Poljska</TI_CY>
+<TI_TOWN>Varšava</TI_TOWN>
+<TI_TEXT>
+<P>Ispitivanje daljinski upravljanih zrakoplovnih sustava (RPAS) za pomorski zračni nadzor</P>
+</TI_TEXT>
+</ML_TI_DOC>
+</ML_TITLES>
+<ML_AA_NAMES>
+<AA_NAME LG="DA">Frontex — Det Europæiske Agentur for Grænse- og Kystbevogtning</AA_NAME>
+<AA_NAME LG="DE">Frontex — Europäische Agentur für die Grenz- und Küstenwache</AA_NAME>
+<AA_NAME LG="EN">Frontex — European Border and Coast Guard Agency</AA_NAME>
+<AA_NAME LG="ES">Frontex — Agencia Europea de la Guardia de Fronteras y Costas</AA_NAME>
+<AA_NAME LG="FI">Frontex – Euroopan raja- ja merivartiovirasto</AA_NAME>
+<AA_NAME LG="FR">Agence européenne de garde-frontières et de garde-côtes (Frontex)</AA_NAME>
+<AA_NAME LG="EL">Frontex — Οργανισμός Ευρωπαϊκής Συνοριοφυλακής και Ακτοφυλακής</AA_NAME>
+<AA_NAME LG="IT">Frontex — Agenzia europea della guardia di frontiera e costiera</AA_NAME>
+<AA_NAME LG="NL">Frontex — Europees grens- en kustwachtagentschap</AA_NAME>
+<AA_NAME LG="PT">Frontex — Agência Europeia da Guarda de Fronteiras e Costeira</AA_NAME>
+<AA_NAME LG="SV">Frontex – Europeiska gräns- och kustbevakningsbyrån</AA_NAME>
+<AA_NAME LG="CS">Frontex – Evropská agentura pro pohraniční a pobřežní stráž</AA_NAME>
+<AA_NAME LG="ET">Frontex – Euroopa Piiri- ja Rannikuvalve Amet</AA_NAME>
+<AA_NAME LG="HU">Frontex – Európai Határ- és Partvédelmi Ügynökség</AA_NAME>
+<AA_NAME LG="LT">Frontex – Europos sienų ir pakrančių apsaugos agentūra</AA_NAME>
+<AA_NAME LG="LV">Frontex – Eiropas Robežu un krasta apsardzes aģentūra</AA_NAME>
+<AA_NAME LG="MT">Il-Frontex — l-Aġenzija Ewropea għall-Gwardja tal-Fruntieri u tal-Kosta</AA_NAME>
+<AA_NAME LG="PL">Frontex – Europejska Agencja Straży Granicznej i Przybrzeżnej</AA_NAME>
+<AA_NAME LG="SK">Frontex – Európska agentúra pre pohraničnú a pobrežnú stráž</AA_NAME>
+<AA_NAME LG="SL">Frontex – Evropska agencija za mejno in obalno stražo</AA_NAME>
+<AA_NAME LG="GA">Frontex — an Ghníomhaireacht Eorpach um an nGarda Teorann agus Cósta</AA_NAME>
+<AA_NAME LG="BG">Frontex – Европейска агенция за гранична и брегова охрана</AA_NAME>
+<AA_NAME LG="RO">Frontex – Agenția Europeană pentru Poliția de Frontieră și Garda de Coastă</AA_NAME>
+<AA_NAME LG="HR">Frontex — Agencija za europsku graničnu i obalnu stražu</AA_NAME>
+</ML_AA_NAMES>
+</TRANSLATION_SECTION>
+<FORM_SECTION>
+<F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="DA">
+<CONTRACTING_BODY>
+<ADDRESS_CONTRACTING_BODY>
+<OFFICIALNAME>Frontex — Det Europæiske Agentur for Grænse- og Kystbevogtning</OFFICIALNAME>
+<ADDRESS>Plac Europejski 6</ADDRESS>
+<TOWN>Warsaw</TOWN>
+<POSTAL_CODE>00-844</POSTAL_CODE>
+<COUNTRY VALUE="PL"/>
+<PHONE>+48 222059500</PHONE>
+<E_MAIL>procurement@frontex.europa.eu</E_MAIL>
+<FAX>+48 222059501</FAX>
+<NUTS CODE="PL127"/>
+<URL_GENERAL>www.frontex.europa.eu</URL_GENERAL>
+</ADDRESS_CONTRACTING_BODY>
+<CA_TYPE VALUE="EU_INSTITUTION"/>
+<CA_ACTIVITY VALUE="DEFENCE"/>
+</CONTRACTING_BODY>
+<OBJECT_CONTRACT>
+<TITLE>
+<P>Prøveforsøg med fjernstyrede flysystemer til maritim luftovervågning.</P>
+</TITLE>
+<REFERENCE_NUMBER>Frontex/OP/694/2016/JL.</REFERENCE_NUMBER>
+<CPV_MAIN>
+<CPV_CODE CODE="60440000"/>
+</CPV_MAIN>
+<TYPE_CONTRACT CTYPE="SERVICES"/>
+<SHORT_DESCR>
+<P>Frontex efterspørger 8 blokke med 100 timer i hver blok med maritime grænseovervågningstjenester, hvor der kan anmodes om 2 blokke samtidigt fra samme udsendelseslufthavn og 2 blokke efter hinanden. Denne tjeneste skal udføres med et fjernstyret MALE-flysystem i områder af Middelhavet, som er udpeget af Frontex, inden for tidsrammen 4. kvartal 2016-1. kvartal 2017.</P>
+</SHORT_DESCR>
+<NO_LOT_DIVISION/>
+<OBJECT_DESCR ITEM="1">
+<NUTS CODE="GR"/>
+<MAIN_SITE>
+<P>2 udsendelseslufthavne vil befinde sig i Grækenland, og SDA vil være i det østlige og centrale Middelhavsområde (udførelse af flyvemissioner kan omfatte områder i det østlige og centrale Middelhavsområde).</P>
+</MAIN_SITE>
+<SHORT_DESCR>
+<P>Frontex agter med denne kontrakt at erhverve luftbårne grænseovervågninger til havs, som skal udføres inden for specifikke havområder af Middelhavet i perioden 4. kvartal 2016-1. kvartal 2017. De udbudte tjenester skal omfatte levering af en platform til fjernstyrede flysystemer, nyttelast, kommunikationsudstyr samt alle nødvendige eksperter til håndtering af systemet og levering af operationel støtte.</P>
+</SHORT_DESCR>
+<AC_QUALITY>
+<AC_CRITERION>Kvalitetsresultat</AC_CRITERION>
+<AC_WEIGHTING>60</AC_WEIGHTING>
+</AC_QUALITY>
+<AC_PRICE>
+<AC_WEIGHTING>40</AC_WEIGHTING>
+</AC_PRICE>
+<NO_OPTIONS/>
+<NO_EU_PROGR_RELATED/>
+<INFO_ADD>
+<P>Procedure annulleret.</P>
+</INFO_ADD>
+</OBJECT_DESCR>
+</OBJECT_CONTRACT>
+<PROCEDURE>
+<PT_OPEN/>
+<ACCELERATED_PROC>
+<P>Frontex har behov for at supplere de allerede eksisterende overvågningsaktiver til fælles operationer og områderne før grænsen i det sidste kvartal af 2016 og første kvartal af 2017, hvormed effektiv permanent overvågning af maritime grænser i lyset af uforudsigelige fremtidige udviklinger bliver mulig. Frontex har også brug for at bedømme og evaluere det fjernstyrede overvågningsluftfartøj ud fra dets kapacitet til at levere overvågningstjenester med stor udholdenhed af de maritime grænser på en pålidelig, konstant og omkostningseffektiv måde. Som en bunden opgave inden for rammerne af pilotprojektet for den europæiske kystvagt har Frontex til hensigt at vurdere delingen af det fjernstyrede MALE-flysystem, der anvendes til »missioner på tværs af agenturer og med flere formål« inden for maritim grænseovervågning, som led i en reel operation.</P>
+</ACCELERATED_PROC>
+<NO_CONTRACT_COVERED_GPA/>
+<NOTICE_NUMBER_OJ>2016/S 208-376018</NOTICE_NUMBER_OJ>
+</PROCEDURE>
+<AWARD_CONTRACT ITEM="1">
+<TITLE>
+<P>Prøveforsøg med fjernstyrede flysystemer til maritim luftovervågning</P>
+</TITLE>
+<NO_AWARDED_CONTRACT>
+<PROCUREMENT_UNSUCCESSFUL/>
+</NO_AWARDED_CONTRACT>
+</AWARD_CONTRACT>
+<COMPLEMENTARY_INFO>
+<ADDRESS_REVIEW_BODY>
+<OFFICIALNAME>Retten</OFFICIALNAME>
+<ADDRESS>rue du Fort Niedergrünewald</ADDRESS>
+<TOWN>Luxembourg</TOWN>
+<POSTAL_CODE>2925</POSTAL_CODE>
+<COUNTRY VALUE="LU"/>
+<PHONE>+352 4303-1</PHONE>
+<E_MAIL>cfi.registry@curia.europa.eu</E_MAIL>
+<FAX>+352 4303-2100</FAX>
+<URL>http://curia.europa.eu</URL>
+</ADDRESS_REVIEW_BODY>
+<DATE_DISPATCH_NOTICE>2017-04-18</DATE_DISPATCH_NOTICE>
+</COMPLEMENTARY_INFO>
+</F03_2014>
+<F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="DE">
+<CONTRACTING_BODY>
+<ADDRESS_CONTRACTING_BODY>
+<OFFICIALNAME>Frontex — Europäische Agentur für die Grenz- und Küstenwache</OFFICIALNAME>
+<ADDRESS>Plac Europejski 6</ADDRESS>
+<TOWN>Warsaw</TOWN>
+<POSTAL_CODE>00-844</POSTAL_CODE>
+<COUNTRY VALUE="PL"/>
+<PHONE>+48 222059500</PHONE>
+<E_MAIL>procurement@frontex.europa.eu</E_MAIL>
+<FAX>+48 222059501</FAX>
+<NUTS CODE="PL127"/>
+<URL_GENERAL>www.frontex.europa.eu</URL_GENERAL>
+</ADDRESS_CONTRACTING_BODY>
+<CA_TYPE VALUE="EU_INSTITUTION"/>
+<CA_ACTIVITY VALUE="DEFENCE"/>
+</CONTRACTING_BODY>
+<OBJECT_CONTRACT>
+<TITLE>
+<P>Erprobung eines unbemannten Luftfahrzeugsystems (RPAS) zur Überwachung von Seegebieten aus der Luft.</P>
+</TITLE>
+<REFERENCE_NUMBER>Frontex/OP/694/2016/JL.</REFERENCE_NUMBER>
+<CPV_MAIN>
+<CPV_CODE CODE="60440000"/>
+</CPV_MAIN>
+<TYPE_CONTRACT CTYPE="SERVICES"/>
+<SHORT_DESCR>
+<P>Frontex beabsichtigt die Beauftragung von Dienstleistungen zur Überwachung der Seegrenzen in 8 Blöcken zu je 100 Stunden, wobei 2 Blöcke gleichzeitig vom selben Einsatzflughafen aus und 2 Blöcke nacheinander angefordert werden können. Diese Dienstleistung ist mithilfe eines unbemannten Luftfahrzeugsystems zum Einsatz bei Langstreckenmissionen in mittlerer Flughöhe (Medium Altitude Long Endurance Remotely Piloted Aircraft System — MALE RPAS) in von Frontex benannten Gebieten des Mittelmeers innerhalb des Zeitraums vom 4. Quartal 2016 bis 1. Quartal 2017 auszuführen.</P>
+</SHORT_DESCR>
+<NO_LOT_DIVISION/>
+<OBJECT_DESCR ITEM="1">
+<NUTS CODE="GR"/>
+<MAIN_SITE>
+<P>2 Einsatzflughäfen befinden sich in Griechenland und das Einsatzgebiet der Dienstleistungen (Service Deployment Area — SDA) ist das östliche und zentrale Mittelmeer (im Rahmen von Flugeinsätzen können Gebiete des östlichen und zentralen Mittelmeers abgedeckt werden).</P>
+</MAIN_SITE>
+<SHORT_DESCR>
+<P>Mit dem vorliegenden Auftrag beabsichtigt Frontex die Beauftragung von Dienstleistungen zur Überwachung der Seegrenzen aus der Luft. Diese sind im Zeitraum vom 4. Quartal 2016 bis 1. Quartal 2017 in bestimmten Seegebieten des Mittelmeeres durchzuführen. Die anzubietenden Dienstleistungen müssen die Bereitstellung einer RPAS-Plattform, der Nutzlast, der Kommunikationsausrüstung sowie aller notwendigen Experten für den Betrieb des Systems und die operative Unterstützung umfassen.</P>
+</SHORT_DESCR>
+<AC_QUALITY>
+<AC_CRITERION>Qualitätsbewertung</AC_CRITERION>
+<AC_WEIGHTING>60</AC_WEIGHTING>
+</AC_QUALITY>
+<AC_PRICE>
+<AC_WEIGHTING>40</AC_WEIGHTING>
+</AC_PRICE>
+<NO_OPTIONS/>
+<NO_EU_PROGR_RELATED/>
+<INFO_ADD>
+<P>Verfahren annulliert.</P>
+</INFO_ADD>
+</OBJECT_DESCR>
+</OBJECT_CONTRACT>
+<PROCEDURE>
+<PT_OPEN/>
+<ACCELERATED_PROC>
+<P>Frontex beabsichtigt die Ergänzung der bereits im Rahmen von gemeinsamen Einsätzen in Grenzvorbereichen genutzten Überwachungsausrüstung für das letzte Quartal 2016 und das erste Quartal 2017, um mit Blick auf nicht vorhersehbare zukünftige Entwicklungen eine wirksame und dauerhafte Überwachung der Seegrenzen zu ermöglichen. Frontex benötigt darüber hinaus eine Bewertung und Beurteilung von unbemannten Überwachungsluftfahrzeugen hinsichtlich ihrer Fähigkeit, Dienstleistungen zur Überwachung der Seegrenzen bei hohen Belastungen in einer zuverlässigen, regelmäßigen und kostenwirksamen Weise zu erbringen. Ziel von Frontex ist es, in Erfüllung einer Aufgabe aus dem Pilotprojekt der Küstenwache der Europäischen Union die gemeinsame Nutzung von MALE RPAS im Rahmen von Mehrzweckeinsätzen unter Beteiligung mehrerer Agenturen für die Überwachung der Seegrenzen unter echten Einsatzbedingungen zu bewerten.</P>
+</ACCELERATED_PROC>
+<NO_CONTRACT_COVERED_GPA/>
+<NOTICE_NUMBER_OJ>2016/S 208-376018</NOTICE_NUMBER_OJ>
+</PROCEDURE>
+<AWARD_CONTRACT ITEM="1">
+<TITLE>
+<P>Erprobung eines unbemannten Luftfahrzeugsystems (RPAS) zur Überwachung von Seegebieten aus der Luft</P>
+</TITLE>
+<NO_AWARDED_CONTRACT>
+<PROCUREMENT_UNSUCCESSFUL/>
+</NO_AWARDED_CONTRACT>
+</AWARD_CONTRACT>
+<COMPLEMENTARY_INFO>
+<ADDRESS_REVIEW_BODY>
+<OFFICIALNAME>Gericht der Europäischen Union</OFFICIALNAME>
+<ADDRESS>rue du Fort Niedergrünewald</ADDRESS>
+<TOWN>Luxembourg</TOWN>
+<POSTAL_CODE>2925</POSTAL_CODE>
+<COUNTRY VALUE="LU"/>
+<PHONE>+352 4303-1</PHONE>
+<E_MAIL>cfi.registry@curia.europa.eu</E_MAIL>
+<FAX>+352 4303-2100</FAX>
+<URL>http://curia.europa.eu</URL>
+</ADDRESS_REVIEW_BODY>
+<DATE_DISPATCH_NOTICE>2017-04-18</DATE_DISPATCH_NOTICE>
+</COMPLEMENTARY_INFO>
+</F03_2014>
+<F03_2014 CATEGORY="ORIGINAL" FORM="F03" LG="EN">
+<CONTRACTING_BODY>
+<ADDRESS_CONTRACTING_BODY>
+<OFFICIALNAME>Frontex — European Border and Coast Guard Agency</OFFICIALNAME>
+<ADDRESS>Plac Europejski 6</ADDRESS>
+<TOWN>Warsaw</TOWN>
+<POSTAL_CODE>00-844</POSTAL_CODE>
+<COUNTRY VALUE="PL"/>
+<PHONE>+48 222059500</PHONE>
+<E_MAIL>procurement@frontex.europa.eu</E_MAIL>
+<FAX>+48 222059501</FAX>
+<NUTS CODE="PL127"/>
+<URL_GENERAL>www.frontex.europa.eu</URL_GENERAL>
+</ADDRESS_CONTRACTING_BODY>
+<CA_TYPE VALUE="EU_INSTITUTION"/>
+<CA_ACTIVITY VALUE="DEFENCE"/>
+</CONTRACTING_BODY>
+<OBJECT_CONTRACT>
+<TITLE>
+<P>Trial of remotely piloted aircraft system (RPAS) for maritime aerial surveillance.</P>
+</TITLE>
+<REFERENCE_NUMBER>Frontex/OP/694/2016/JL.</REFERENCE_NUMBER>
+<CPV_MAIN>
+<CPV_CODE CODE="60440000"/>
+</CPV_MAIN>
+<TYPE_CONTRACT CTYPE="SERVICES"/>
+<SHORT_DESCR>
+<P>Frontex seeks to acquire 8 blocks, of 100 hours each block, of maritime border surveillance services, out of which 2 blocks could be requested simultaneously, from the same deployment airport, and 2 blocks could be requested consecutively. This service is to be carried out with a MALE RPAS in areas of the Mediterranean Sea designated by Frontex within the time-frame of Q4 2016–Q1 2017.</P>
+</SHORT_DESCR>
+<NO_LOT_DIVISION/>
+<OBJECT_DESCR ITEM="1">
+<NUTS CODE="GR"/>
+<MAIN_SITE>
+<P>2 deployment airports would be in Greece and SDA will be the eastern and central Mediterranean (flight mission execution could cover areas of eastern Mediterranean and central Mediterranean).</P>
+</MAIN_SITE>
+<SHORT_DESCR>
+<P>With this contract Frontex seeks to acquire maritime aerial border surveillance services to be performed in specific maritime areas of the Mediterranean Sea along Q4 2016 – Q1 2017. The services offered shall include the provision of an RPAS platform, payload, communication equipment, and all the necessary experts managing the system and providing operational support.</P>
+</SHORT_DESCR>
+<AC_QUALITY>
+<AC_CRITERION>Quality score</AC_CRITERION>
+<AC_WEIGHTING>60</AC_WEIGHTING>
+</AC_QUALITY>
+<AC_PRICE>
+<AC_WEIGHTING>40</AC_WEIGHTING>
+</AC_PRICE>
+<NO_OPTIONS/>
+<NO_EU_PROGR_RELATED/>
+<INFO_ADD>
+<P>Procedure cancelled.</P>
+</INFO_ADD>
+</OBJECT_DESCR>
+</OBJECT_CONTRACT>
+<PROCEDURE>
+<PT_OPEN/>
+<ACCELERATED_PROC>
+<P>Frontex needs to complement the surveillance assets already in place in joint operations and the pre-frontier areas for the last quarter of 2016 and the first quarter of 2017 allowing effective permanent monitoring of the maritime borders in view of the unpredictable future trends. Frontex also needs to assess and evaluate the remotely piloted surveillance aircraft in terms of its capability to deliver high endurance maritime border surveillance services in a reliable, regular and cost-effective way. Frontex aims to assess, as a given task in the European Union Coast Guard pilot project, the sharing of MALE RPAS deployed in ‘multi-purpose, multi-agency mission’ for maritime border surveillance in the context of a real operation.</P>
+</ACCELERATED_PROC>
+<NO_CONTRACT_COVERED_GPA/>
+<NOTICE_NUMBER_OJ>2016/S 208-376018</NOTICE_NUMBER_OJ>
+</PROCEDURE>
+<AWARD_CONTRACT ITEM="1">
+<TITLE>
+<P>Trial of remotely piloted aircraft system (RPAS) for maritime aerial surveillance</P>
+</TITLE>
+<NO_AWARDED_CONTRACT>
+<PROCUREMENT_UNSUCCESSFUL/>
+</NO_AWARDED_CONTRACT>
+</AWARD_CONTRACT>
+<COMPLEMENTARY_INFO>
+<ADDRESS_REVIEW_BODY>
+<OFFICIALNAME>General Court</OFFICIALNAME>
+<ADDRESS>rue du Fort Niedergrünewald</ADDRESS>
+<TOWN>Luxembourg</TOWN>
+<POSTAL_CODE>2925</POSTAL_CODE>
+<COUNTRY VALUE="LU"/>
+<PHONE>+352 4303-1</PHONE>
+<E_MAIL>cfi.registry@curia.europa.eu</E_MAIL>
+<FAX>+352 4303-2100</FAX>
+<URL>http://curia.europa.eu</URL>
+</ADDRESS_REVIEW_BODY>
+<DATE_DISPATCH_NOTICE>2017-04-18</DATE_DISPATCH_NOTICE>
+</COMPLEMENTARY_INFO>
+</F03_2014>
+<F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="ES">
+<CONTRACTING_BODY>
+<ADDRESS_CONTRACTING_BODY>
+<OFFICIALNAME>Frontex — Agencia Europea de la Guardia de Fronteras y Costas</OFFICIALNAME>
+<ADDRESS>Plac Europejski 6</ADDRESS>
+<TOWN>Warsaw</TOWN>
+<POSTAL_CODE>00-844</POSTAL_CODE>
+<COUNTRY VALUE="PL"/>
+<PHONE>+48 222059500</PHONE>
+<E_MAIL>procurement@frontex.europa.eu</E_MAIL>
+<FAX>+48 222059501</FAX>
+<NUTS CODE="PL127"/>
+<URL_GENERAL>www.frontex.europa.eu</URL_GENERAL>
+</ADDRESS_CONTRACTING_BODY>
+<CA_TYPE VALUE="EU_INSTITUTION"/>
+<CA_ACTIVITY VALUE="DEFENCE"/>
+</CONTRACTING_BODY>
+<OBJECT_CONTRACT>
+<TITLE>
+<P>Ensayo de sistema de aeronave pilotada a distancia (RPAS) para la vigilancia marítima aérea.</P>
+</TITLE>
+<REFERENCE_NUMBER>Frontex/OP/694/2016/JL.</REFERENCE_NUMBER>
+<CPV_MAIN>
+<CPV_CODE CODE="60440000"/>
+</CPV_MAIN>
+<TYPE_CONTRACT CTYPE="SERVICES"/>
+<SHORT_DESCR>
+<P>Frontex tiene previsto adquirir 8 bloques, cada uno de ellos de 100 horas, de servicios de vigilancia de fronteras marítimas, de los cuales 2 se podrían solicitar de forma simultánea, desde el mismo aeropuerto de despliegue, y 2 se podrían solicitar de forma consecutiva. Este servicio se llevará a cabo con un sistema de aeronave pilotada a distancia (RPAS) de altitud media y gran autonomía (MALE) en zonas del mar Mediterráneo designadas por Frontex durante el período comprendido entre el cuarto trimestre de 2016 y el primer trimestre de 2017.</P>
+</SHORT_DESCR>
+<NO_LOT_DIVISION/>
+<OBJECT_DESCR ITEM="1">
+<NUTS CODE="GR"/>
+<MAIN_SITE>
+<P>Los 2 aeropuertos de despliegue se encontrarían en Grecia y la zona de prestación de los servicios será el Mediterráneo oriental y central (la ejecución de las misiones de vuelo podría abarcar zonas del Mediterráneo oriental y el Mediterráneo central).</P>
+</MAIN_SITE>
+<SHORT_DESCR>
+<P>Con este contrato, Frontex tiene por objeto adquirir servicios aéreos de vigilancia de las fronteras marítimas, que se llevarán a cabo en determinadas zonas marítimas del mar Mediterráneo durante el período comprendido entre el cuarto trimestre de 2016 y el primer trimestre de 2017. Estos servicios deberán incluir el suministro de una plataforma RPAS, carga útil, equipos de comunicación y todos los expertos necesarios para gestionar el sistema y prestar apoyo operativo.</P>
+</SHORT_DESCR>
+<AC_QUALITY>
+<AC_CRITERION>puntuación relativa a la calidad</AC_CRITERION>
+<AC_WEIGHTING>60</AC_WEIGHTING>
+</AC_QUALITY>
+<AC_PRICE>
+<AC_WEIGHTING>40</AC_WEIGHTING>
+</AC_PRICE>
+<NO_OPTIONS/>
+<NO_EU_PROGR_RELATED/>
+<INFO_ADD>
+<P>Procedimiento anulado.</P>
+</INFO_ADD>
+</OBJECT_DESCR>
+</OBJECT_CONTRACT>
+<PROCEDURE>
+<PT_OPEN/>
+<ACCELERATED_PROC>
+<P>Frontex necesita complementar los recursos de vigilancia ya existentes en las operaciones conjuntas y en las zonas prefronterizas para el último trimestre de 2016 y el primer trimestre de 2017 con el fin de llevar a cabo una vigilancia permanente eficaz de las fronteras marítimas, teniendo en cuenta el carácter imprevisible de las tendencias futuras. Frontex también necesita valorar y evaluar la capacidad de las aeronaves de vigilancia pilotadas a distancia a la hora de prestar servicios de vigilancia de las fronteras marítimas de alto rendimiento de manera fiable, regular y rentable. Frontex tiene previsto valorar, como una tarea determinada del proyecto piloto de la Guardia Costera de la Unión Europea, el uso compartido del sistema de aeronave pilotada a distancia de altitud media y gran autonomía desplegado en «misiones multiinstitucionales polivalentes» para la vigilancia de las fronteras marítimas en el contexto de una operación real.</P>
+</ACCELERATED_PROC>
+<NO_CONTRACT_COVERED_GPA/>
+<NOTICE_NUMBER_OJ>2016/S 208-376018</NOTICE_NUMBER_OJ>
+</PROCEDURE>
+<AWARD_CONTRACT ITEM="1">
+<TITLE>
+<P>Ensayo de sistema de aeronave pilotada a distancia (RPAS) para la vigilancia marítima aérea</P>
+</TITLE>
+<NO_AWARDED_CONTRACT>
+<PROCUREMENT_UNSUCCESSFUL/>
+</NO_AWARDED_CONTRACT>
+</AWARD_CONTRACT>
+<COMPLEMENTARY_INFO>
+<ADDRESS_REVIEW_BODY>
+<OFFICIALNAME>Tribunal General</OFFICIALNAME>
+<ADDRESS>rue du Fort Niedergrünewald</ADDRESS>
+<TOWN>Luxembourg</TOWN>
+<POSTAL_CODE>2925</POSTAL_CODE>
+<COUNTRY VALUE="LU"/>
+<PHONE>+352 4303-1</PHONE>
+<E_MAIL>cfi.registry@curia.europa.eu</E_MAIL>
+<FAX>+352 4303-2100</FAX>
+<URL>http://curia.europa.eu</URL>
+</ADDRESS_REVIEW_BODY>
+<DATE_DISPATCH_NOTICE>2017-04-18</DATE_DISPATCH_NOTICE>
+</COMPLEMENTARY_INFO>
+</F03_2014>
+<F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="FI">
+<CONTRACTING_BODY>
+<ADDRESS_CONTRACTING_BODY>
+<OFFICIALNAME>Frontex – Euroopan raja- ja merivartiovirasto</OFFICIALNAME>
+<ADDRESS>Plac Europejski 6</ADDRESS>
+<TOWN>Warsaw</TOWN>
+<POSTAL_CODE>00-844</POSTAL_CODE>
+<COUNTRY VALUE="PL"/>
+<PHONE>+48 222059500</PHONE>
+<E_MAIL>procurement@frontex.europa.eu</E_MAIL>
+<FAX>+48 222059501</FAX>
+<NUTS CODE="PL127"/>
+<URL_GENERAL>www.frontex.europa.eu</URL_GENERAL>
+</ADDRESS_CONTRACTING_BODY>
+<CA_TYPE VALUE="EU_INSTITUTION"/>
+<CA_ACTIVITY VALUE="DEFENCE"/>
+</CONTRACTING_BODY>
+<OBJECT_CONTRACT>
+<TITLE>
+<P>Kauko-ohjatun ilma-aluksen käytön kokonaisjärjestelmän (RPAS) kokeileminen merellä suoritettavassa ilmavalvonnassa</P>
+</TITLE>
+<REFERENCE_NUMBER>Frontex/OP/694/2016/JL.</REFERENCE_NUMBER>
+<CPV_MAIN>
+<CPV_CODE CODE="60440000"/>
+</CPV_MAIN>
+<TYPE_CONTRACT CTYPE="SERVICES"/>
+<SHORT_DESCR>
+<P>Frontex aikoo hankkia 8 jaksoa, joista kukin jakso sisältää 100 tuntia, merellä suoritettavia rajavalvontapalveluja. Näistä 2:ta jaksoa voidaan pyytää samanaikaisesti samalta toimintavalmiudessa olevalta lentokentältä ja 2:ta jaksoa voidaan pyytää peräkkäin. Tämä palvelu on suoritettava keskikorkeuden ja pitkän lentoajan kauko-ohjatun ilma-aluksen käytön kokonaisjärjestelmän (MALE RPAS) avulla Frontexin nimeämillä Välimeren alueilla vuoden 2016 neljännen vuosineljänneksen ja vuoden 2017 ensimmäisen vuosineljänneksen välisenä ajanjaksona.</P>
+</SHORT_DESCR>
+<NO_LOT_DIVISION/>
+<OBJECT_DESCR ITEM="1">
+<NUTS CODE="GR"/>
+<MAIN_SITE>
+<P>2 toimintavalmiudessa olevaa lentokenttää sijaitsee Kreikassa, ja palvelujen käyttöönottoalueena (service deployment area – SDA) on itäinen ja keskinen Välimeri (lentotehtävän toteuttaminen voi kattaa itäisen ja keskisen Välimeren alueet).</P>
+</MAIN_SITE>
+<SHORT_DESCR>
+<P>Tämän sopimuksen yhteydessä Frontex aikoo hankkia ilmasta käsin merellä suoritettavat rajavalvontapalvelut, jotka suoritetaan tietyillä Välimeren merialueilla vuoden 2016 neljännen vuosineljänneksen ja vuoden 2017 ensimmäisen vuosineljänneksen välisenä ajanjaksona. Tarjottuihin palveluihin on kuuluttava RPAS-alustan, hyötykuorman, viestintälaitteiden ja kaikkien sellaisten tarvittavien asiantuntijoiden toimitus, jotka hallinnoivat järjestelmää ja toimittavat toiminnallista tukea.</P>
+</SHORT_DESCR>
+<AC_QUALITY>
+<AC_CRITERION>laadun arvioinnin pisteet</AC_CRITERION>
+<AC_WEIGHTING>60</AC_WEIGHTING>
+</AC_QUALITY>
+<AC_PRICE>
+<AC_WEIGHTING>40</AC_WEIGHTING>
+</AC_PRICE>
+<NO_OPTIONS/>
+<NO_EU_PROGR_RELATED/>
+<INFO_ADD>
+<P>Menettely on peruttu.</P>
+</INFO_ADD>
+</OBJECT_DESCR>
+</OBJECT_CONTRACT>
+<PROCEDURE>
+<PT_OPEN/>
+<ACCELERATED_PROC>
+<P>Frontexin on täydennettävä yhteisoperaatioissa ja rajan läheisillä alueilla jo käytössä olevia valvontaresursseja vuoden 2016 viimeisellä vuosineljänneksellä ja vuoden 2017 ensimmäisellä vuosineljänneksellä, jotta voidaan jatkuvasti valvoa merirajoja tehokkaasti ennalta arvaamattomien tulevien suuntausten huomioimiseksi. Frontexin on myös arvioitava, onko kauko-ohjatulla valvonta-aluksella mahdollista toteuttaa pitkän lentoajan merellä toteutettavia rajavalvontapalveluja luotettavasti, säännöllisesti ja kustannustehokkaasti. Frontex pyrkii arvioimaan sille annetun Euroopan unionin rannikkovartiointia koskevaan pilottihankkeeseen liittyvän tehtävän yhteydessä keskikorkeuden ja pitkän lentoajan kauko-ohjatun ilma-aluksen käytön kokonaisjärjestelmän jakamista. Järjestelmä on otettu käyttöön monikäyttöisessä useiden eri virastojen tehtävässä, joka koskee merellä suoritettavaa rajavalvontaa todellisen operaation yhteydessä.</P>
+</ACCELERATED_PROC>
+<NO_CONTRACT_COVERED_GPA/>
+<NOTICE_NUMBER_OJ>2016/S 208-376018</NOTICE_NUMBER_OJ>
+</PROCEDURE>
+<AWARD_CONTRACT ITEM="1">
+<TITLE>
+<P>Kauko-ohjatun ilma-aluksen käytön kokonaisjärjestelmän (RPAS) kokeileminen merellä suoritettavassa ilmavalvonnassa</P>
+</TITLE>
+<NO_AWARDED_CONTRACT>
+<PROCUREMENT_UNSUCCESSFUL/>
+</NO_AWARDED_CONTRACT>
+</AWARD_CONTRACT>
+<COMPLEMENTARY_INFO>
+<ADDRESS_REVIEW_BODY>
+<OFFICIALNAME>Unionin yleinen tuomioistuin</OFFICIALNAME>
+<ADDRESS>rue du Fort Niedergrünewald</ADDRESS>
+<TOWN>Luxembourg</TOWN>
+<POSTAL_CODE>2925</POSTAL_CODE>
+<COUNTRY VALUE="LU"/>
+<PHONE>+352 4303-1</PHONE>
+<E_MAIL>cfi.registry@curia.europa.eu</E_MAIL>
+<FAX>+352 4303-2100</FAX>
+<URL>http://curia.europa.eu</URL>
+</ADDRESS_REVIEW_BODY>
+<DATE_DISPATCH_NOTICE>2017-04-18</DATE_DISPATCH_NOTICE>
+</COMPLEMENTARY_INFO>
+</F03_2014>
+<F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="FR">
+<CONTRACTING_BODY>
+<ADDRESS_CONTRACTING_BODY>
+<OFFICIALNAME>Agence européenne de garde-frontières et de garde-côtes (Frontex)</OFFICIALNAME>
+<ADDRESS>Plac Europejski 6</ADDRESS>
+<TOWN>Warsaw</TOWN>
+<POSTAL_CODE>00-844</POSTAL_CODE>
+<COUNTRY VALUE="PL"/>
+<PHONE>+48 222059500</PHONE>
+<E_MAIL>procurement@frontex.europa.eu</E_MAIL>
+<FAX>+48 222059501</FAX>
+<NUTS CODE="PL127"/>
+<URL_GENERAL>www.frontex.europa.eu</URL_GENERAL>
+</ADDRESS_CONTRACTING_BODY>
+<CA_TYPE VALUE="EU_INSTITUTION"/>
+<CA_ACTIVITY VALUE="DEFENCE"/>
+</CONTRACTING_BODY>
+<OBJECT_CONTRACT>
+<TITLE>
+<P>Essai de système d'aéronefs télépilotés (RPAS) pour la surveillance aérienne des zones maritimes.</P>
+</TITLE>
+<REFERENCE_NUMBER>Frontex/OP/694/2016/JL.</REFERENCE_NUMBER>
+<CPV_MAIN>
+<CPV_CODE CODE="60440000"/>
+</CPV_MAIN>
+<TYPE_CONTRACT CTYPE="SERVICES"/>
+<SHORT_DESCR>
+<P>Frontex cherche à acquérir 8 modules de 100 heures chacun de services de surveillance des frontières maritimes, parmi lesquels 2 modules pourront être requis simultanément à partir du même aéroport de déploiement, et 2 modules pourront être requis de manière consécutive. Ces services devront être mis en œuvre au moyen d'un système MALE RPAS (système d'aéronefs télépilotés de moyenne altitude à grande autonomie) dans les zones de la mer Méditerranée indiquées par Frontex entre le quatrième trimestre de 2016 et le premier trimestre de 2017.</P>
+</SHORT_DESCR>
+<NO_LOT_DIVISION/>
+<OBJECT_DESCR ITEM="1">
+<NUTS CODE="GR"/>
+<MAIN_SITE>
+<P>2 aéroports de déploiement devraient se situer en Grèce, et le programme de sécurité et de défense concernera la Méditerranée orientale et centrale (l'exécution des missions de vol pourrait couvrir des zones de la Méditerranée orientale et centrale).</P>
+</MAIN_SITE>
+<SHORT_DESCR>
+<P>À travers le présent marché, Frontex cherche à acquérir des services de surveillance aérienne des frontières maritimes qui devront être exécutés dans des zones maritimes spécifiques de la mer Méditerranée au cours de la période comprise entre le quatrième trimestre de 2016 et le premier trimestre de 2017. Les services fournis devront comprendre la mise à disposition d'une plate-forme RPAS, de la charge utile, de l'équipement de communication et de tous les experts nécessaires pour la gestion du système et la fourniture de l'assistance opérationnelle.</P>
+</SHORT_DESCR>
+<AC_QUALITY>
+<AC_CRITERION>résultat obtenu au terme de l'évaluation de la qualité</AC_CRITERION>
+<AC_WEIGHTING>60</AC_WEIGHTING>
+</AC_QUALITY>
+<AC_PRICE>
+<AC_WEIGHTING>40</AC_WEIGHTING>
+</AC_PRICE>
+<NO_OPTIONS/>
+<NO_EU_PROGR_RELATED/>
+<INFO_ADD>
+<P>Procédure annulée.</P>
+</INFO_ADD>
+</OBJECT_DESCR>
+</OBJECT_CONTRACT>
+<PROCEDURE>
+<PT_OPEN/>
+<ACCELERATED_PROC>
+<P>Frontex a besoin de renforcer les moyens de surveillance déjà en place dans le cadre d'opérations conjointes et des zones de préfrontière pour le dernier trimestre de 2016 et le premier trimestre de 2017 afin de permettre une surveillance permanente efficace des frontières maritimes, compte tenu de l'imprévisibilité des tendances futures. Frontex doit également examiner et évaluer l'aéronef télépiloté de surveillance en termes de capacité à fournir des services de surveillance des frontières maritimes de grande autonomie de manière fiable, régulière et rentable. L'objectif de Frontex, et sa mission dans le cadre du projet pilote de garde-côtes de l'Union européenne, est d'évaluer la part des systèmes MALE RPAS déployés dans des missions polyvalentes multi-agences pour la surveillance des frontières maritimes dans le contexte d'une opération réelle.</P>
+</ACCELERATED_PROC>
+<NO_CONTRACT_COVERED_GPA/>
+<NOTICE_NUMBER_OJ>2016/S 208-376018</NOTICE_NUMBER_OJ>
+</PROCEDURE>
+<AWARD_CONTRACT ITEM="1">
+<TITLE>
+<P>Essai de système d'aéronefs télépilotés (RPAS) pour la surveillance aérienne des zones maritimes</P>
+</TITLE>
+<NO_AWARDED_CONTRACT>
+<PROCUREMENT_UNSUCCESSFUL/>
+</NO_AWARDED_CONTRACT>
+</AWARD_CONTRACT>
+<COMPLEMENTARY_INFO>
+<ADDRESS_REVIEW_BODY>
+<OFFICIALNAME>Tribunal</OFFICIALNAME>
+<ADDRESS>rue du Fort Niedergrünewald</ADDRESS>
+<TOWN>Luxembourg</TOWN>
+<POSTAL_CODE>2925</POSTAL_CODE>
+<COUNTRY VALUE="LU"/>
+<PHONE>+352 4303-1</PHONE>
+<E_MAIL>cfi.registry@curia.europa.eu</E_MAIL>
+<FAX>+352 4303-2100</FAX>
+<URL>http://curia.europa.eu</URL>
+</ADDRESS_REVIEW_BODY>
+<DATE_DISPATCH_NOTICE>2017-04-18</DATE_DISPATCH_NOTICE>
+</COMPLEMENTARY_INFO>
+</F03_2014>
+<F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="EL">
+<CONTRACTING_BODY>
+<ADDRESS_CONTRACTING_BODY>
+<OFFICIALNAME>Frontex — Οργανισμός Ευρωπαϊκής Συνοριοφυλακής και Ακτοφυλακής</OFFICIALNAME>
+<ADDRESS>Plac Europejski 6</ADDRESS>
+<TOWN>Warsaw</TOWN>
+<POSTAL_CODE>00-844</POSTAL_CODE>
+<COUNTRY VALUE="PL"/>
+<PHONE>+48 222059500</PHONE>
+<E_MAIL>procurement@frontex.europa.eu</E_MAIL>
+<FAX>+48 222059501</FAX>
+<NUTS CODE="PL127"/>
+<URL_GENERAL>www.frontex.europa.eu</URL_GENERAL>
+</ADDRESS_CONTRACTING_BODY>
+<CA_TYPE VALUE="EU_INSTITUTION"/>
+<CA_ACTIVITY VALUE="DEFENCE"/>
+</CONTRACTING_BODY>
+<OBJECT_CONTRACT>
+<TITLE>
+<P>Δοκιμή τηλεκατευθυνόμενου αεροπορικού συστήματος (RPAS) για την εναέρια επιτήρηση θαλάσσιων περιοχών.</P>
+</TITLE>
+<REFERENCE_NUMBER>Frontex/OP/694/2016/JL.</REFERENCE_NUMBER>
+<CPV_MAIN>
+<CPV_CODE CODE="60440000"/>
+</CPV_MAIN>
+<TYPE_CONTRACT CTYPE="SERVICES"/>
+<SHORT_DESCR>
+<P>Ο Frontex επιθυμεί να αποκτήσει 8 δέσμες υπηρεσιών επιτήρησης θαλάσσιων συνόρων, διάρκειας 100 ωρών κάθε δέσμη, εκ των οποίων 2 δέσμες μπορούν να ζητηθούν ταυτόχρονα, από το ίδιο αεροδρόμιο ανάπτυξης, και 2 δέσμες μπορούν να ζητηθούν διαδοχικά. Η εν λόγω υπηρεσία θα εκτελεστεί με ένα μέσου ύψους και μακράς εμβέλειας τηλεκατευθυνόμενο αεροπορικό σύστημα (MALE RPAS) σε περιοχές της Μεσογείου που θα ορίσει ο Frontex εντός του χρονικού πλαισίου μεταξύ του 4ου τριμήνου του 2016 και του 1ου τριμήνου του 2017.</P>
+</SHORT_DESCR>
+<NO_LOT_DIVISION/>
+<OBJECT_DESCR ITEM="1">
+<NUTS CODE="GR"/>
+<MAIN_SITE>
+<P>2 αεροδρόμια ανάπτυξης θα οριστούν στην Ελλάδα και η ειδική καθορισμένη περιοχή (SDA) θα είναι η ανατολική και η κεντρική Μεσόγειος (η εκτέλεση αποστολών αεροπορικών πτήσεων μπορεί να καλύπτει περιοχές της ανατολικής Μεσογείου και της κεντρικής Μεσογείου).</P>
+</MAIN_SITE>
+<SHORT_DESCR>
+<P>Με την προκηρυσσόμενη σύμβαση ο Frontex αναζητά την απόκτηση υπηρεσιών εναέριας επιτήρησης θαλάσσιων συνοριακών περιοχών που πρόκειται να εκτελεστούν σε συγκεκριμένες θαλάσσιες περιοχές της Μεσογείου κατά τη χρονική περίοδο μεταξύ του 4ου τριμήνου του 2016 και του 1ου τριμήνου του 2017. Οι προσφερόμενες υπηρεσίες θα περιλαμβάνουν την παροχή μιας πλατφόρμας RPAS, ωφέλιμου φορτίου, εξοπλισμού επικοινωνίας, καθώς και όλων των εμπειρογνωμόνων που απαιτούνται για τη διαχείριση του συστήματος και την παροχή λειτουργικής υποστήριξης.</P>
+</SHORT_DESCR>
+<AC_QUALITY>
+<AC_CRITERION>Βαθμολογία της ποιότητας</AC_CRITERION>
+<AC_WEIGHTING>60</AC_WEIGHTING>
+</AC_QUALITY>
+<AC_PRICE>
+<AC_WEIGHTING>40</AC_WEIGHTING>
+</AC_PRICE>
+<NO_OPTIONS/>
+<NO_EU_PROGR_RELATED/>
+<INFO_ADD>
+<P>Η διαδικασία ακυρώθηκε.</P>
+</INFO_ADD>
+</OBJECT_DESCR>
+</OBJECT_CONTRACT>
+<PROCEDURE>
+<PT_OPEN/>
+<ACCELERATED_PROC>
+<P>Ο Frontex πρέπει να συμπληρώσει τα μέσα επιτήρησης που χρησιμοποιούνται ήδη σε κοινές επιχειρήσεις και τις προσυνοριακές περιοχές για το τελευταίο τρίμηνο του 2016 και το πρώτο τρίμηνο του 2017, προκειμένου να καταστεί δυνατή η αποτελεσματική μόνιμη παρακολούθηση των θαλάσσιων συνόρων εν όψει των απρόβλεπτων μελλοντικών τάσεων. Ο Frontex πρέπει επίσης να εκτιμήσει και να αξιολογήσει το τηλεκατευθυνόμενο αεροπορικό σύστημα επιτήρησης όσον αφορά την ικανότητα παροχής υπηρεσιών επιτήρησης θαλάσσιων συνόρων υψηλής εμβέλειας με αξιόπιστο, τακτικό και οικονομικά αποδοτικό τρόπο. Ο Frontex έχει ως στόχο να αξιολογήσει, ως συγκεκριμένο καθήκον στο πλαίσιο του πιλοτικού σχεδίου για την ακτοφυλακή της Ευρωπαϊκής Ένωσης, την κοινή χρήση του συστήματος MALE RPAS που αναπτύσσεται σε «αποστολές πολλαπλού σκοπού, με τη συμμετοχή πολλαπλών οργανισμών» για την επιτήρηση των θαλάσσιων συνόρων στο πλαίσιο μιας πραγματικής επιχείρησης.</P>
+</ACCELERATED_PROC>
+<NO_CONTRACT_COVERED_GPA/>
+<NOTICE_NUMBER_OJ>2016/S 208-376018</NOTICE_NUMBER_OJ>
+</PROCEDURE>
+<AWARD_CONTRACT ITEM="1">
+<TITLE>
+<P>Δοκιμή τηλεκατευθυνόμενου αεροπορικού συστήματος (RPAS) για την εναέρια επιτήρηση θαλάσσιων περιοχών</P>
+</TITLE>
+<NO_AWARDED_CONTRACT>
+<PROCUREMENT_UNSUCCESSFUL/>
+</NO_AWARDED_CONTRACT>
+</AWARD_CONTRACT>
+<COMPLEMENTARY_INFO>
+<ADDRESS_REVIEW_BODY>
+<OFFICIALNAME>Γενικό Δικαστήριο</OFFICIALNAME>
+<ADDRESS>rue du Fort Niedergrünewald</ADDRESS>
+<TOWN>Luxembourg</TOWN>
+<POSTAL_CODE>2925</POSTAL_CODE>
+<COUNTRY VALUE="LU"/>
+<PHONE>+352 4303-1</PHONE>
+<E_MAIL>cfi.registry@curia.europa.eu</E_MAIL>
+<FAX>+352 4303-2100</FAX>
+<URL>http://curia.europa.eu</URL>
+</ADDRESS_REVIEW_BODY>
+<DATE_DISPATCH_NOTICE>2017-04-18</DATE_DISPATCH_NOTICE>
+</COMPLEMENTARY_INFO>
+</F03_2014>
+<F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="IT">
+<CONTRACTING_BODY>
+<ADDRESS_CONTRACTING_BODY>
+<OFFICIALNAME>Frontex — Agenzia europea della guardia di frontiera e costiera</OFFICIALNAME>
+<ADDRESS>Plac Europejski 6</ADDRESS>
+<TOWN>Warsaw</TOWN>
+<POSTAL_CODE>00-844</POSTAL_CODE>
+<COUNTRY VALUE="PL"/>
+<PHONE>+48 222059500</PHONE>
+<E_MAIL>procurement@frontex.europa.eu</E_MAIL>
+<FAX>+48 222059501</FAX>
+<NUTS CODE="PL127"/>
+<URL_GENERAL>www.frontex.europa.eu</URL_GENERAL>
+</ADDRESS_CONTRACTING_BODY>
+<CA_TYPE VALUE="EU_INSTITUTION"/>
+<CA_ACTIVITY VALUE="DEFENCE"/>
+</CONTRACTING_BODY>
+<OBJECT_CONTRACT>
+<TITLE>
+<P>Prova del sistema aereo a pilotaggio remoto per la sorveglianza aerea marittima.</P>
+</TITLE>
+<REFERENCE_NUMBER>Frontex/OP/694/2016/JL.</REFERENCE_NUMBER>
+<CPV_MAIN>
+<CPV_CODE CODE="60440000"/>
+</CPV_MAIN>
+<TYPE_CONTRACT CTYPE="SERVICES"/>
+<SHORT_DESCR>
+<P>Frontex intende acquisire 8 blocchi, di 100 ore ciascuno, di servizi di sorveglianza delle frontiere marittime, dei quali 2 blocchi potrebbero essere richiesti simultaneamente, dallo stesso aeroporto di impiego, e 2 blocchi potrebbero essere richiesti consecutivamente. Tale servizio deve essere eseguito con un sistema di pilotaggio remoto a media altitudine e lungo raggio nelle zone del Mar Mediterraneo designate da Frontex nell'intervallo di tempo compreso tra il 4° trimestre del 2016 e il 1° trimestre del 2017.</P>
+</SHORT_DESCR>
+<NO_LOT_DIVISION/>
+<OBJECT_DESCR ITEM="1">
+<NUTS CODE="GR"/>
+<MAIN_SITE>
+<P>2 aeroporti di impiego saranno in Grecia e l'area di impiego del servizio sarà il Mediterraneo orientale e centrale (l'esecuzione delle missioni di volo potrebbe coprire zone del Mediterraneo orientale e del Mediterraneo centrale).</P>
+</MAIN_SITE>
+<SHORT_DESCR>
+<P>Con il presente appalto, Frontex intende acquisire servizi di sorveglianza aerea delle frontiere marittime da prestare in specifiche zone marittime del Mar Mediterraneo nel periodo compreso tra il 4° trimestre del 2016 e il 1° trimestre del 2017. I servizi offerti dovranno includere la fornitura di una piattaforma RPAS (sistema aereo a pilotaggio remoto), del carico utile, delle apparecchiature di comunicazione e di tutti gli esperti necessari per la gestione del sistema e la prestazione di supporto operativo.</P>
+</SHORT_DESCR>
+<AC_QUALITY>
+<AC_CRITERION>Punteggio per la qualità</AC_CRITERION>
+<AC_WEIGHTING>60</AC_WEIGHTING>
+</AC_QUALITY>
+<AC_PRICE>
+<AC_WEIGHTING>40</AC_WEIGHTING>
+</AC_PRICE>
+<NO_OPTIONS/>
+<NO_EU_PROGR_RELATED/>
+<INFO_ADD>
+<P>Procedura annullata.</P>
+</INFO_ADD>
+</OBJECT_DESCR>
+</OBJECT_CONTRACT>
+<PROCEDURE>
+<PT_OPEN/>
+<ACCELERATED_PROC>
+<P>Frontex ha la necessità di integrare i mezzi di sorveglianza già in essere nelle operazioni congiunte e le zone pre-frontaliere per l'ultimo trimestre del 2016 e il primo trimestre del 2017 permettendo un efficace monitoraggio permanente delle frontiere marittime in considerazione delle imprevedibili tendenze future. Frontex necessita inoltre di esaminare e valutare l'aeromobile di sorveglianza a pilotaggio remoto sul piano della capacità di quest'ultimo di prestare servizi di sorveglianza delle frontiere marittime a lunga autonomia in modo affidabile, regolare ed economicamente vantaggioso. Frontex intende valutare, come incarico assegnato nell'ambito del progetto pilota della guardia costiera dell'Unione europea, la condivisione del sistema di pilotaggio remoto a media altitudine e lungo raggio utilizzato in «missioni multiscopo, multiagenzia» per la sorveglianza delle frontiere marittime nel contesto di un'operazione reale.</P>
+</ACCELERATED_PROC>
+<NO_CONTRACT_COVERED_GPA/>
+<NOTICE_NUMBER_OJ>2016/S 208-376018</NOTICE_NUMBER_OJ>
+</PROCEDURE>
+<AWARD_CONTRACT ITEM="1">
+<TITLE>
+<P>Prova del sistema aereo a pilotaggio remoto per la sorveglianza aerea marittima</P>
+</TITLE>
+<NO_AWARDED_CONTRACT>
+<PROCUREMENT_UNSUCCESSFUL/>
+</NO_AWARDED_CONTRACT>
+</AWARD_CONTRACT>
+<COMPLEMENTARY_INFO>
+<ADDRESS_REVIEW_BODY>
+<OFFICIALNAME>Tribunale</OFFICIALNAME>
+<ADDRESS>rue du Fort Niedergrünewald</ADDRESS>
+<TOWN>Luxembourg</TOWN>
+<POSTAL_CODE>2925</POSTAL_CODE>
+<COUNTRY VALUE="LU"/>
+<PHONE>+352 4303-1</PHONE>
+<E_MAIL>cfi.registry@curia.europa.eu</E_MAIL>
+<FAX>+352 4303-2100</FAX>
+<URL>http://curia.europa.eu</URL>
+</ADDRESS_REVIEW_BODY>
+<DATE_DISPATCH_NOTICE>2017-04-18</DATE_DISPATCH_NOTICE>
+</COMPLEMENTARY_INFO>
+</F03_2014>
+<F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="NL">
+<CONTRACTING_BODY>
+<ADDRESS_CONTRACTING_BODY>
+<OFFICIALNAME>Frontex — Europees grens- en kustwachtagentschap</OFFICIALNAME>
+<ADDRESS>Plac Europejski 6</ADDRESS>
+<TOWN>Warsaw</TOWN>
+<POSTAL_CODE>00-844</POSTAL_CODE>
+<COUNTRY VALUE="PL"/>
+<PHONE>+48 222059500</PHONE>
+<E_MAIL>procurement@frontex.europa.eu</E_MAIL>
+<FAX>+48 222059501</FAX>
+<NUTS CODE="PL127"/>
+<URL_GENERAL>www.frontex.europa.eu</URL_GENERAL>
+</ADDRESS_CONTRACTING_BODY>
+<CA_TYPE VALUE="EU_INSTITUTION"/>
+<CA_ACTIVITY VALUE="DEFENCE"/>
+</CONTRACTING_BODY>
+<OBJECT_CONTRACT>
+<TITLE>
+<P>Testen van maritieme bewaking vanuit de lucht met behulp van op afstand bestuurde luchtvaartuigen (RPAS-systemen).</P>
+</TITLE>
+<REFERENCE_NUMBER>Frontex/OP/694/2016/JL.</REFERENCE_NUMBER>
+<CPV_MAIN>
+<CPV_CODE CODE="60440000"/>
+</CPV_MAIN>
+<TYPE_CONTRACT CTYPE="SERVICES"/>
+<SHORT_DESCR>
+<P>Frontex wil 8 blokken van telkens 100 uur diensten voor maritieme grensbewaking aankopen, waarvan 2 blokken tegelijkertijd, van op dezelfde luchthaven, en 2 blokken na elkaar kunnen worden aangevraagd. Deze diensten moeten tussen het vierde kwartaal van 2016 en het eerste kwartaal van 2017 met behulp van een MALE RPAS-systeem (op afstand bestuurde luchtvaartuigen met groot uithoudingsvermogen voor gemiddelde hoogte) worden verleend in gebieden van de Middellandse Zee die door Frontex zijn aangeduid.</P>
+</SHORT_DESCR>
+<NO_LOT_DIVISION/>
+<OBJECT_DESCR ITEM="1">
+<NUTS CODE="GR"/>
+<MAIN_SITE>
+<P>2 luchthavens voor het inzetten van de apparatuur moeten zich in Griekenland bevinden en de diensten moeten worden verleend in het oostelijke en centrale Middellandse Zeegebied (de uitvoering van de vluchtmissies kan gebieden bestrijken in het oostelijke en centrale Middellandse Zeegebied).</P>
+</MAIN_SITE>
+<SHORT_DESCR>
+<P>In het kader van deze opdracht wil Frontex diensten voor maritieme grensbewaking vanuit de lucht aankopen. Deze diensten moeten tussen het vierde kwartaal van 2016 en het eerste kwartaal van 2017 worden verleend in specifieke maritieme gebieden van de Middellandse Zee en moeten het volgende omvatten: de terbeschikkingstelling van een RPAS-platform, payload, communicatie-uitrusting alsook alle nodige deskundigen voor het beheer van het systeem en de verlening van operationele steun.</P>
+</SHORT_DESCR>
+<AC_QUALITY>
+<AC_CRITERION>kwaliteitsscore</AC_CRITERION>
+<AC_WEIGHTING>60</AC_WEIGHTING>
+</AC_QUALITY>
+<AC_PRICE>
+<AC_WEIGHTING>40</AC_WEIGHTING>
+</AC_PRICE>
+<NO_OPTIONS/>
+<NO_EU_PROGR_RELATED/>
+<INFO_ADD>
+<P>De procedure is geannuleerd.</P>
+</INFO_ADD>
+</OBJECT_DESCR>
+</OBJECT_CONTRACT>
+<PROCEDURE>
+<PT_OPEN/>
+<ACCELERATED_PROC>
+<P>gezien de onvoorspelbare toekomstige ontwikkelingen moet Frontex de bewakingsmiddelen aanvullen die al in gebruik zijn bij gezamenlijke operaties en in de gebieden vóór de grens voor het laatste kwartaal van 2016 en het eerste kwartaal van 2017 met het oog op doeltreffende permanente controle van de maritieme grenzen. Daarnaast moet Frontex de op afstand bestuurde luchtvaartuigen voor bewaking beoordelen en evalueren met betrekking tot hun capaciteit om op betrouwbare, regelmatige en kostenefficiënte wijze maritieme grensbewakingsdiensten met een grote autonomie te verlenen. Frontex wil, in het kader van het kustwachtpilotproject van de Europese Unie, het gezamenlijk gebruik beoordelen van MALE RPAS-systemen die worden ingezet bij missies voor verschillende doeleinden en verschillende agentschappen voor de maritieme grensbewaking in het kader van een echte operatie.</P>
+</ACCELERATED_PROC>
+<NO_CONTRACT_COVERED_GPA/>
+<NOTICE_NUMBER_OJ>2016/S 208-376018</NOTICE_NUMBER_OJ>
+</PROCEDURE>
+<AWARD_CONTRACT ITEM="1">
+<TITLE>
+<P>Testen van maritieme bewaking vanuit de lucht met behulp van op afstand bestuurde luchtvaartuigen (RPAS-systemen)</P>
+</TITLE>
+<NO_AWARDED_CONTRACT>
+<PROCUREMENT_UNSUCCESSFUL/>
+</NO_AWARDED_CONTRACT>
+</AWARD_CONTRACT>
+<COMPLEMENTARY_INFO>
+<ADDRESS_REVIEW_BODY>
+<OFFICIALNAME>Gerecht</OFFICIALNAME>
+<ADDRESS>rue du Fort Niedergrünewald</ADDRESS>
+<TOWN>Luxembourg</TOWN>
+<POSTAL_CODE>2925</POSTAL_CODE>
+<COUNTRY VALUE="LU"/>
+<PHONE>+352 4303-1</PHONE>
+<E_MAIL>cfi.registry@curia.europa.eu</E_MAIL>
+<FAX>+352 4303-2100</FAX>
+<URL>http://curia.europa.eu</URL>
+</ADDRESS_REVIEW_BODY>
+<DATE_DISPATCH_NOTICE>2017-04-18</DATE_DISPATCH_NOTICE>
+</COMPLEMENTARY_INFO>
+</F03_2014>
+<F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="PT">
+<CONTRACTING_BODY>
+<ADDRESS_CONTRACTING_BODY>
+<OFFICIALNAME>Frontex — Agência Europeia da Guarda de Fronteiras e Costeira</OFFICIALNAME>
+<ADDRESS>Plac Europejski 6</ADDRESS>
+<TOWN>Warsaw</TOWN>
+<POSTAL_CODE>00-844</POSTAL_CODE>
+<COUNTRY VALUE="PL"/>
+<PHONE>+48 222059500</PHONE>
+<E_MAIL>procurement@frontex.europa.eu</E_MAIL>
+<FAX>+48 222059501</FAX>
+<NUTS CODE="PL127"/>
+<URL_GENERAL>www.frontex.europa.eu</URL_GENERAL>
+</ADDRESS_CONTRACTING_BODY>
+<CA_TYPE VALUE="EU_INSTITUTION"/>
+<CA_ACTIVITY VALUE="DEFENCE"/>
+</CONTRACTING_BODY>
+<OBJECT_CONTRACT>
+<TITLE>
+<P>Ensaio de sistema de aeronave telepilotada (RPAS) para vigilância aérea marítima.</P>
+</TITLE>
+<REFERENCE_NUMBER>Frontex/OP/694/2016/JL.</REFERENCE_NUMBER>
+<CPV_MAIN>
+<CPV_CODE CODE="60440000"/>
+</CPV_MAIN>
+<TYPE_CONTRACT CTYPE="SERVICES"/>
+<SHORT_DESCR>
+<P>A Frontex pretende adquirir 8 blocos, de 100 horas cada, de serviços de vigilância das fronteiras marítimas, dos quais 2 blocos podem ser requeridos simultaneamente, a partir do mesmo aeroporto de implantação, e 2 blocos podem ser requeridos consecutivamente. Este serviço deve ser prestado através de um RPAS MALE (sistema de aeronave telepilotada de altitude média e grande autonomia) em zonas do mar Mediterrâneo designadas pela Frontex no período do 4.<FT TYPE="SUP">o</FT> trimestre de 2016 ao 1.<FT TYPE="SUP">o</FT> trimestre de 2017.</P>
+</SHORT_DESCR>
+<NO_LOT_DIVISION/>
+<OBJECT_DESCR ITEM="1">
+<NUTS CODE="GR"/>
+<MAIN_SITE>
+<P>2 aeroportos de implantação situam-se na Grécia e a zona de prestação de serviços será o Mediterrâneo Central e Oriental (a execução da missão de voo pode abranger zonas do Mediterrâneo Oriental e do Mediterrâneo Central).</P>
+</MAIN_SITE>
+<SHORT_DESCR>
+<P>No âmbito do presente contrato, a Frontex procura adquirir serviços de vigilância fronteiriça aérea marítima a prestar em áreas marítimas específicas do mar Mediterrâneo ao longo do 4.<FT TYPE="SUP">o</FT> trimestre de 2016 ao 1.<FT TYPE="SUP">o</FT> trimestre de 2017. Os serviços oferecidos devem incluir a disponibilização de uma plataforma RPAS, equipamento de capacidade, equipamento de comunicação e todos os peritos necessários para gerir o sistema e prestar apoio operacional.</P>
+</SHORT_DESCR>
+<AC_QUALITY>
+<AC_CRITERION>Resultado em termos de qualidade</AC_CRITERION>
+<AC_WEIGHTING>60</AC_WEIGHTING>
+</AC_QUALITY>
+<AC_PRICE>
+<AC_WEIGHTING>40</AC_WEIGHTING>
+</AC_PRICE>
+<NO_OPTIONS/>
+<NO_EU_PROGR_RELATED/>
+<INFO_ADD>
+<P>Processo anulado.</P>
+</INFO_ADD>
+</OBJECT_DESCR>
+</OBJECT_CONTRACT>
+<PROCEDURE>
+<PT_OPEN/>
+<ACCELERATED_PROC>
+<P>A Frontex necessita de complementar os ativos de vigilância já implementados em operações conjuntas e as zonas pré-fronteiras para o último trimestre de 2016 e o primeiro trimestre de 2017, permitindo a monitorização permanente eficaz das fronteiras marítimas, tendo em conta as tendências futuras imprevisíveis. A Frontex também necessita de analisar e avaliar a aeronave de vigilância telepilotada em termos da sua capacidade para prestar serviços de vigilância das fronteiras marítimas de grande autonomia de forma fiável, regular e rentável. A Frontex visa avaliar, como uma determinada tarefa no projeto-piloto da Guarda Costeira da União Europeia, a partilha de RPAS MALE utilizados em «missões polivalentes multi-agências» para vigilância das fronteiras marítimas no contexto de uma operação real.</P>
+</ACCELERATED_PROC>
+<NO_CONTRACT_COVERED_GPA/>
+<NOTICE_NUMBER_OJ>2016/S 208-376018</NOTICE_NUMBER_OJ>
+</PROCEDURE>
+<AWARD_CONTRACT ITEM="1">
+<TITLE>
+<P>Ensaio de sistema de aeronave telepilotada (RPAS) para vigilância aérea marítima</P>
+</TITLE>
+<NO_AWARDED_CONTRACT>
+<PROCUREMENT_UNSUCCESSFUL/>
+</NO_AWARDED_CONTRACT>
+</AWARD_CONTRACT>
+<COMPLEMENTARY_INFO>
+<ADDRESS_REVIEW_BODY>
+<OFFICIALNAME>Tribunal Geral</OFFICIALNAME>
+<ADDRESS>rue du Fort Niedergrünewald</ADDRESS>
+<TOWN>Luxembourg</TOWN>
+<POSTAL_CODE>2925</POSTAL_CODE>
+<COUNTRY VALUE="LU"/>
+<PHONE>+352 4303-1</PHONE>
+<E_MAIL>cfi.registry@curia.europa.eu</E_MAIL>
+<FAX>+352 4303-2100</FAX>
+<URL>http://curia.europa.eu</URL>
+</ADDRESS_REVIEW_BODY>
+<DATE_DISPATCH_NOTICE>2017-04-18</DATE_DISPATCH_NOTICE>
+</COMPLEMENTARY_INFO>
+</F03_2014>
+<F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="SV">
+<CONTRACTING_BODY>
+<ADDRESS_CONTRACTING_BODY>
+<OFFICIALNAME>Frontex – Europeiska gräns- och kustbevakningsbyrån</OFFICIALNAME>
+<ADDRESS>Plac Europejski 6</ADDRESS>
+<TOWN>Warsaw</TOWN>
+<POSTAL_CODE>00-844</POSTAL_CODE>
+<COUNTRY VALUE="PL"/>
+<PHONE>+48 222059500</PHONE>
+<E_MAIL>procurement@frontex.europa.eu</E_MAIL>
+<FAX>+48 222059501</FAX>
+<NUTS CODE="PL127"/>
+<URL_GENERAL>www.frontex.europa.eu</URL_GENERAL>
+</ADDRESS_CONTRACTING_BODY>
+<CA_TYPE VALUE="EU_INSTITUTION"/>
+<CA_ACTIVITY VALUE="DEFENCE"/>
+</CONTRACTING_BODY>
+<OBJECT_CONTRACT>
+<TITLE>
+<P>Försök avseende luftövervakning till havs medelst fjärrstyrt luftfartygssystem (RPAS)</P>
+</TITLE>
+<REFERENCE_NUMBER>Frontex/OP/694/2016/JL.</REFERENCE_NUMBER>
+<CPV_MAIN>
+<CPV_CODE CODE="60440000"/>
+</CPV_MAIN>
+<TYPE_CONTRACT CTYPE="SERVICES"/>
+<SHORT_DESCR>
+<P>Frontex avser att förvärva 8 block, där varje block består av 100 timmar, avseende gränsövervakningstjänster till havs. Av dessa block kan 2 block komma att begäras samtidigt, från samma flygplats för utplacering, och 2 block kan komma att begäras i följd. Denna tjänst ska utföras med ett RPAS på medelhög höjd och med lång uthållighet (Medium-Altitude Long-Endurance – MALE) i områden vid Medelhavet. Dessa områden utses av Frontex inom tidsramen 4:e kvartalet (quarter – Q) 2016–1:a kvartalet 2017.</P>
+</SHORT_DESCR>
+<NO_LOT_DIVISION/>
+<OBJECT_DESCR ITEM="1">
+<NUTS CODE="GR"/>
+<MAIN_SITE>
+<P>2 flygplatser för utplacering skulle finnas i Grekland och område för tillhandahållande av tjänster (service delivery area – SDA) ska vara östra och centrala Medelhavsområdet (utförande av flyguppdrag kan omfatta områden i östra och centrala Medelhavsområdet).</P>
+</MAIN_SITE>
+<SHORT_DESCR>
+<P>Med kontraktet avser Frontex förvärva luftburna gränsövervakningstjänster till havs som ska utföras i särskilda havsområden i Medelhavet under 4:e kvartalet 2016–1:a kvartalet 2017. De erbjudna tjänsterna ska inbegripa tillhandahållande av en RPAS-plattform, nyttolast, kommunikationsutrustning samt alla de experter som krävs för att hantera systemet och för att tillhandahålla operativt stöd.</P>
+</SHORT_DESCR>
+<AC_QUALITY>
+<AC_CRITERION>Kvalitetspoäng</AC_CRITERION>
+<AC_WEIGHTING>60</AC_WEIGHTING>
+</AC_QUALITY>
+<AC_PRICE>
+<AC_WEIGHTING>40</AC_WEIGHTING>
+</AC_PRICE>
+<NO_OPTIONS/>
+<NO_EU_PROGR_RELATED/>
+<INFO_ADD>
+<P>Förfarandet har annullerats.</P>
+</INFO_ADD>
+</OBJECT_DESCR>
+</OBJECT_CONTRACT>
+<PROCEDURE>
+<PT_OPEN/>
+<ACCELERATED_PROC>
+<P>Frontex behöver komplettera de övervakningstillgångar som redan används under gemensamma operationer och i områden före gränsen för det sista kvartalet 2016 och första kvartalet 2017, för att möjliggöra effektiv ständig gränsövervakning till havs med tanke på oförutsägbara framtida tendenser. Frontex måste också bedöma och utvärdera det fjärrstyra luftfartyget för övervakning avseende dess förmåga att tillhandahålla gränsövervakningstjänster med hög uthållighet till havs på ett tillförlitligt, regelbundet och kostnadseffektivt sätt. Som en specifik uppgift inom ramen för pilotprojektet för Europeiska unionens kustbevakning avser Frontex bedöma utbytet av MALE RPAS när det sätts in för gränsövervakning till havs vid uppdrag för flera syften och med flera involverade myndigheter i samband med en riktig insats.</P>
+</ACCELERATED_PROC>
+<NO_CONTRACT_COVERED_GPA/>
+<NOTICE_NUMBER_OJ>2016/S 208-376018</NOTICE_NUMBER_OJ>
+</PROCEDURE>
+<AWARD_CONTRACT ITEM="1">
+<TITLE>
+<P>Försök avseende luftövervakning till havs medelst fjärrstyrt luftfartygssystem (RPAS)</P>
+</TITLE>
+<NO_AWARDED_CONTRACT>
+<PROCUREMENT_UNSUCCESSFUL/>
+</NO_AWARDED_CONTRACT>
+</AWARD_CONTRACT>
+<COMPLEMENTARY_INFO>
+<ADDRESS_REVIEW_BODY>
+<OFFICIALNAME>Tribunalen</OFFICIALNAME>
+<ADDRESS>rue du Fort Niedergrünewald</ADDRESS>
+<TOWN>Luxembourg</TOWN>
+<POSTAL_CODE>2925</POSTAL_CODE>
+<COUNTRY VALUE="LU"/>
+<PHONE>+352 4303-1</PHONE>
+<E_MAIL>cfi.registry@curia.europa.eu</E_MAIL>
+<FAX>+352 4303-2100</FAX>
+<URL>http://curia.europa.eu</URL>
+</ADDRESS_REVIEW_BODY>
+<DATE_DISPATCH_NOTICE>2017-04-18</DATE_DISPATCH_NOTICE>
+</COMPLEMENTARY_INFO>
+</F03_2014>
+<F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="CS">
+<CONTRACTING_BODY>
+<ADDRESS_CONTRACTING_BODY>
+<OFFICIALNAME>Frontex – Evropská agentura pro pohraniční a pobřežní stráž</OFFICIALNAME>
+<ADDRESS>Plac Europejski 6</ADDRESS>
+<TOWN>Warsaw</TOWN>
+<POSTAL_CODE>00-844</POSTAL_CODE>
+<COUNTRY VALUE="PL"/>
+<PHONE>+48 222059500</PHONE>
+<E_MAIL>procurement@frontex.europa.eu</E_MAIL>
+<FAX>+48 222059501</FAX>
+<NUTS CODE="PL127"/>
+<URL_GENERAL>www.frontex.europa.eu</URL_GENERAL>
+</ADDRESS_CONTRACTING_BODY>
+<CA_TYPE VALUE="EU_INSTITUTION"/>
+<CA_ACTIVITY VALUE="DEFENCE"/>
+</CONTRACTING_BODY>
+<OBJECT_CONTRACT>
+<TITLE>
+<P>Zkouška dálkově řízeného leteckého systému (RPAS) pro monitorování mořských oblastí ze vzduchu.</P>
+</TITLE>
+<REFERENCE_NUMBER>Frontex/OP/694/2016/JL.</REFERENCE_NUMBER>
+<CPV_MAIN>
+<CPV_CODE CODE="60440000"/>
+</CPV_MAIN>
+<TYPE_CONTRACT CTYPE="SERVICES"/>
+<SHORT_DESCR>
+<P>Frontex hodlá získat 8 bloků služeb ostrahy námořních hranic v rozsahu 100 hodin v rámci každého bloku, z nichž 2 bloky by mohly být požadovány současně, ze stejného pohotovostního letiště, a 2 bloky by se mohly požadovat následně po sobě. Tato služba bude provedena pomocí dálkově řízeného leteckého systému se schopností letu ve střední výšce s velkým doletem v oblastech Středozemního moře, které určí agentura Frontex v časovém rámci 4. čtvrtletí 2016 – 1. čtvrtletí 2017.</P>
+</SHORT_DESCR>
+<NO_LOT_DIVISION/>
+<OBJECT_DESCR ITEM="1">
+<NUTS CODE="GR"/>
+<MAIN_SITE>
+<P>2 pohotovostní letiště by měla být v Řecku a SDA bude východní a střední část Středomoří (provedení letecké mise by mohlo zahrnovat oblasti východního a středního Středomoří).</P>
+</MAIN_SITE>
+<SHORT_DESCR>
+<P>Prostřednictvím této zakázky má Frontex v úmyslu získat služby vzdušné ostrahy námořních hranic, které budou prováděny v období od 4. čtvrtletí 2016 do 1. čtvrtletí 2017 v určitých mořských oblastech Středozemního moře. Nabízené služby obsahují poskytování platformy pro dálkově řízené letecké systémy (Remotely Piloted Aircraft Systems — RPAS), užitečného zatížení, komunikačního zařízení jakož i všech potřebných odborníků pro provoz systému a poskytování operační podpory.</P>
+</SHORT_DESCR>
+<AC_QUALITY>
+<AC_CRITERION>Výsledek za kvalitu</AC_CRITERION>
+<AC_WEIGHTING>60</AC_WEIGHTING>
+</AC_QUALITY>
+<AC_PRICE>
+<AC_WEIGHTING>40</AC_WEIGHTING>
+</AC_PRICE>
+<NO_OPTIONS/>
+<NO_EU_PROGR_RELATED/>
+<INFO_ADD>
+<P>Řízení bylo zrušeno.</P>
+</INFO_ADD>
+</OBJECT_DESCR>
+</OBJECT_CONTRACT>
+<PROCEDURE>
+<PT_OPEN/>
+<ACCELERATED_PROC>
+<P>Frontex potřebuje doplnit své prostředky v oblasti ostrahy, které jsou již využívány v rámci společných operací a předběžných pohraničních oblastech v případě posledního čtvrtletí 2016 a prvního čtvrtletí 2017, čímž bude umožněno efektivní monitorovaní námořních hranic vzhledem k nepředvídatelnému budoucímu vývoji. Frontex rovněž potřebuje posoudit a zhodnotit dálkově řízené letadlo vykonávající ostrahu, pokud ide o jeho schopnost poskytovat služby ostrahy námořních hranic při zabezpečení velkého doletu, a to spolehlivým, regulérním a hospodárným způsobem. Frontex má za cíl posoudit v rámci úkolu stanoveného v pilotním projektu pobřežní stráže v Evropské unii, společné využívání dálkově řízeného leteckého systému se schopností letu ve střední výšce s velkým doletem, který je nasazen v rámci „víceúčelové, multiagenturní mise“ pro kontrolu námořních hranic v kontextu skutečné operace.</P>
+</ACCELERATED_PROC>
+<NO_CONTRACT_COVERED_GPA/>
+<NOTICE_NUMBER_OJ>2016/S 208-376018</NOTICE_NUMBER_OJ>
+</PROCEDURE>
+<AWARD_CONTRACT ITEM="1">
+<TITLE>
+<P>Zkouška dálkově řízeného letadlového systému (RPAS) pro monitorování mořských oblastí ze vzduchu</P>
+</TITLE>
+<NO_AWARDED_CONTRACT>
+<PROCUREMENT_UNSUCCESSFUL/>
+</NO_AWARDED_CONTRACT>
+</AWARD_CONTRACT>
+<COMPLEMENTARY_INFO>
+<ADDRESS_REVIEW_BODY>
+<OFFICIALNAME>Tribunál</OFFICIALNAME>
+<ADDRESS>rue du Fort Niedergrünewald</ADDRESS>
+<TOWN>Luxembourg</TOWN>
+<POSTAL_CODE>2925</POSTAL_CODE>
+<COUNTRY VALUE="LU"/>
+<PHONE>+352 4303-1</PHONE>
+<E_MAIL>cfi.registry@curia.europa.eu</E_MAIL>
+<FAX>+352 4303-2100</FAX>
+<URL>http://curia.europa.eu</URL>
+</ADDRESS_REVIEW_BODY>
+<DATE_DISPATCH_NOTICE>2017-04-18</DATE_DISPATCH_NOTICE>
+</COMPLEMENTARY_INFO>
+</F03_2014>
+<F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="ET">
+<CONTRACTING_BODY>
+<ADDRESS_CONTRACTING_BODY>
+<OFFICIALNAME>Frontex – Euroopa Piiri- ja Rannikuvalve Amet</OFFICIALNAME>
+<ADDRESS>Plac Europejski 6</ADDRESS>
+<TOWN>Warsaw</TOWN>
+<POSTAL_CODE>00-844</POSTAL_CODE>
+<COUNTRY VALUE="PL"/>
+<PHONE>+48 222059500</PHONE>
+<E_MAIL>procurement@frontex.europa.eu</E_MAIL>
+<FAX>+48 222059501</FAX>
+<NUTS CODE="PL127"/>
+<URL_GENERAL>www.frontex.europa.eu</URL_GENERAL>
+</ADDRESS_CONTRACTING_BODY>
+<CA_TYPE VALUE="EU_INSTITUTION"/>
+<CA_ACTIVITY VALUE="DEFENCE"/>
+</CONTRACTING_BODY>
+<OBJECT_CONTRACT>
+<TITLE>
+<P>Merealade õhuseire jaoks kaugjuhitava õhusõiduki süsteemi (RPAS) katsetamine</P>
+</TITLE>
+<REFERENCE_NUMBER>Frontex/OP/694/2016/JL.</REFERENCE_NUMBER>
+<CPV_MAIN>
+<CPV_CODE CODE="60440000"/>
+</CPV_MAIN>
+<TYPE_CONTRACT CTYPE="SERVICES"/>
+<SHORT_DESCR>
+<P>Frontex soovib saada 8 komplekti (100 tundi komplekti kohta) merepiiride seire teenuseid, millest 2 komplekti võidakse nõuda samal ajal samast baaslennujaamast ning 2 komplekti võidakse nõuda järjest. Teenust osutatakse keskmise lennukõrguse ja pika kestusega mehitamata õhusõiduki kaugjuhitava õhusõiduki süsteemi (MALE RPAS) abil Vahemere piirkondades, mille on määranud Frontex ajavahemikuks alates 2016. aasta 4. kvartalist kuni 2017. aasta 1. kvartalini.</P>
+</SHORT_DESCR>
+<NO_LOT_DIVISION/>
+<OBJECT_DESCR ITEM="1">
+<NUTS CODE="GR"/>
+<MAIN_SITE>
+<P>2 baaslennujaama asuksid Kreekas ning teenuste arendamise piirkond (service development area (SDA)) on Vahemere ida- ja keskpiirkond (lennumissioonide täitmine võib hõlmata Vahemere ida- ja keskpiirkondi).</P>
+</MAIN_SITE>
+<SHORT_DESCR>
+<P>Selle lepinguga soovib Frontex hankida merepiiride õhuseire teenuseid, mida osutatakse 2016. aasta 4. kvartalist 2017. aasta 1. kvartalini konkreetsetes Vahemere piirkondades. Osutatavad teenused hõlmavad kaugjuhitava õhusõiduki süsteemi (RPAS) platvormi, kandevõimet, sidevahendeid ning kõigi süsteemi haldavate ja toimingute tuge pakkuvate vajalike ekspertide tagamist.</P>
+</SHORT_DESCR>
+<AC_QUALITY>
+<AC_CRITERION>kvaliteedipunktid</AC_CRITERION>
+<AC_WEIGHTING>60</AC_WEIGHTING>
+</AC_QUALITY>
+<AC_PRICE>
+<AC_WEIGHTING>40</AC_WEIGHTING>
+</AC_PRICE>
+<NO_OPTIONS/>
+<NO_EU_PROGR_RELATED/>
+<INFO_ADD>
+<P>Menetlus tühistati.</P>
+</INFO_ADD>
+</OBJECT_DESCR>
+</OBJECT_CONTRACT>
+<PROCEDURE>
+<PT_OPEN/>
+<ACCELERATED_PROC>
+<P>Frontexil on vaja täiendada juba ühisoperatsioonides ja eesliinide piirkondades 2016. aasta viimasel kvartalil ja 2017. aasta esimesel kvartalil kasutusel olevaid jälgimisvahendeid, võimaldades seeläbi merepiiride tõhusat püsivat seiret, võttes arvesse ettenägematuid tuleviku suundumusi. Samuti on Frontexil vaja hinnata seiramiseks kasutatava kaugjuhitava õhusõiduki suutlikkust osutada pika kestusega merepiiride seire teenuseid usaldusväärsel, regulaarsel ja kulutõhusal viisil. Frontexi eesmärk on Euroopa Liidu piirivalve katseprojekti ülesande raames hinnata mitmeotstarbelises mitut asutust hõlmavas missioonis kasutatavate MALE RPA-süsteemide jagamist merepiiride seireks reaalse missiooni kontekstis.</P>
+</ACCELERATED_PROC>
+<NO_CONTRACT_COVERED_GPA/>
+<NOTICE_NUMBER_OJ>2016/S 208-376018</NOTICE_NUMBER_OJ>
+</PROCEDURE>
+<AWARD_CONTRACT ITEM="1">
+<TITLE>
+<P>Merealade õhuseire jaoks kaugjuhitava õhusõiduki süsteemi (RPAS) katsetamine</P>
+</TITLE>
+<NO_AWARDED_CONTRACT>
+<PROCUREMENT_UNSUCCESSFUL/>
+</NO_AWARDED_CONTRACT>
+</AWARD_CONTRACT>
+<COMPLEMENTARY_INFO>
+<ADDRESS_REVIEW_BODY>
+<OFFICIALNAME>Üldkohus</OFFICIALNAME>
+<ADDRESS>rue du Fort Niedergrünewald</ADDRESS>
+<TOWN>Luxembourg</TOWN>
+<POSTAL_CODE>2925</POSTAL_CODE>
+<COUNTRY VALUE="LU"/>
+<PHONE>+352 4303-1</PHONE>
+<E_MAIL>cfi.registry@curia.europa.eu</E_MAIL>
+<FAX>+352 4303-2100</FAX>
+<URL>http://curia.europa.eu</URL>
+</ADDRESS_REVIEW_BODY>
+<DATE_DISPATCH_NOTICE>2017-04-18</DATE_DISPATCH_NOTICE>
+</COMPLEMENTARY_INFO>
+</F03_2014>
+<F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="HU">
+<CONTRACTING_BODY>
+<ADDRESS_CONTRACTING_BODY>
+<OFFICIALNAME>Frontex – Európai Határ- és Partvédelmi Ügynökség</OFFICIALNAME>
+<ADDRESS>Plac Europejski 6</ADDRESS>
+<TOWN>Warsaw</TOWN>
+<POSTAL_CODE>00-844</POSTAL_CODE>
+<COUNTRY VALUE="PL"/>
+<PHONE>+48 222059500</PHONE>
+<E_MAIL>procurement@frontex.europa.eu</E_MAIL>
+<FAX>+48 222059501</FAX>
+<NUTS CODE="PL127"/>
+<URL_GENERAL>www.frontex.europa.eu</URL_GENERAL>
+</ADDRESS_CONTRACTING_BODY>
+<CA_TYPE VALUE="EU_INSTITUTION"/>
+<CA_ACTIVITY VALUE="DEFENCE"/>
+</CONTRACTING_BODY>
+<OBJECT_CONTRACT>
+<TITLE>
+<P>Tengeri légi felügyeletre szolgáló távirányítású légijármű-rendszerek (RPAS) kísérleti alkalmazása.</P>
+</TITLE>
+<REFERENCE_NUMBER>Frontex/OP/694/2016/JL.</REFERENCE_NUMBER>
+<CPV_MAIN>
+<CPV_CODE CODE="60440000"/>
+</CPV_MAIN>
+<TYPE_CONTRACT CTYPE="SERVICES"/>
+<SHORT_DESCR>
+<P>A Frontex tengeri határellenőrzési szolgáltatásokat kíván igénybe venni 8 blokkban (100 óra/blokk), amelyből 2 blokk egy időben vehető igénybe ugyanarról a bevetési repülőtérről, és amelyből 2 blokkot egymást követően lehet igénybe venni. A szolgáltatást közepes repülési magasságú, hosszú repülési idejű távirányítású légijármű-rendszerekkel (medium altitude-long endurance remotely piloted aircraft system, MALE RPAS), a Földközi-tenger Frontex által kijelölt területein, 2016 4. negyedéve és 2017 1. negyedéve közötti időszakban kell végrehajtani.</P>
+</SHORT_DESCR>
+<NO_LOT_DIVISION/>
+<OBJECT_DESCR ITEM="1">
+<NUTS CODE="GR"/>
+<MAIN_SITE>
+<P>A tervek szerint a 2 bevetési repülőtér Görögországban lesz, és a szolgáltatás teljesítési helye (Service Delivery Area, SDA) a Földközi-tenger keleti és középső része (a légi műveletek végrehajtási területe kiterjedhet a Földközi-tenger keleti és középső részére).</P>
+</MAIN_SITE>
+<SHORT_DESCR>
+<P>A Frontex tengeri határőrizeti szolgáltatásokat kíván igénybe venni, amelyeket a Földközi-tenger meghatározott tengeri területein 2016 negyedik negyedéve és 2017 első negyedéve között kell lebonyolítani. A kínált szolgáltatásoknak magukban kell foglalniuk az RPAS-platform (távirányított légijármű-rendszer – RPAS, Remotely Piloted Aircraft System), a hasznos teher, a kommunikációs berendezések, valamint a rendszert kezelő valamennyi szükséges szakértő rendelkezésre bocsátását és működési támogatás nyújtását.</P>
+</SHORT_DESCR>
+<AC_QUALITY>
+<AC_CRITERION>Minőségi pontszám</AC_CRITERION>
+<AC_WEIGHTING>60</AC_WEIGHTING>
+</AC_QUALITY>
+<AC_PRICE>
+<AC_WEIGHTING>40</AC_WEIGHTING>
+</AC_PRICE>
+<NO_OPTIONS/>
+<NO_EU_PROGR_RELATED/>
+<INFO_ADD>
+<P>Az eljárás érvénytelenítésre került.</P>
+</INFO_ADD>
+</OBJECT_DESCR>
+</OBJECT_CONTRACT>
+<PROCEDURE>
+<PT_OPEN/>
+<ACCELERATED_PROC>
+<P>a Frontex igényt tart a közös műveletekhez és a határok előtti területeken rendelkezésre álló felügyeleti eszközök kiegészítésére 2016 utolsó negyedéve és 2017 első negyedéve között, lehetővé téve a tengeri határok felügyeletét a kiszámíthatatlan jövőbeli tendenciákra tekintettel. A Frontex ezenkívül igényt tart a távirányítású felügyeleti légi járművek abból a szempontból történő felmérésére és értékelésére, hogy képesek-e hosszú repülési időt igénylő tengeri határfelügyeleti szolgáltatások megbízható, rendszeres és költséghatékony módon történő biztosítására. A Frontex célja az „uniós parti őrség” kísérleti projektben meghatározott feladatként a tengeri határfelügyelettel kapcsolatos „többcélú, több ügynökséget érintő misszióban” bevetett MALE RPAS egy valós művelet keretében történő megosztásának értékelése.</P>
+</ACCELERATED_PROC>
+<NO_CONTRACT_COVERED_GPA/>
+<NOTICE_NUMBER_OJ>2016/S 208-376018</NOTICE_NUMBER_OJ>
+</PROCEDURE>
+<AWARD_CONTRACT ITEM="1">
+<TITLE>
+<P>Tengeri légi felügyeletre szolgáló távirányítású légijármű-rendszerek (RPAS) kísérleti alkalmazása</P>
+</TITLE>
+<NO_AWARDED_CONTRACT>
+<PROCUREMENT_UNSUCCESSFUL/>
+</NO_AWARDED_CONTRACT>
+</AWARD_CONTRACT>
+<COMPLEMENTARY_INFO>
+<ADDRESS_REVIEW_BODY>
+<OFFICIALNAME>Törvényszék</OFFICIALNAME>
+<ADDRESS>rue du Fort Niedergrünewald</ADDRESS>
+<TOWN>Luxembourg</TOWN>
+<POSTAL_CODE>2925</POSTAL_CODE>
+<COUNTRY VALUE="LU"/>
+<PHONE>+352 4303-1</PHONE>
+<E_MAIL>cfi.registry@curia.europa.eu</E_MAIL>
+<FAX>+352 4303-2100</FAX>
+<URL>http://curia.europa.eu</URL>
+</ADDRESS_REVIEW_BODY>
+<DATE_DISPATCH_NOTICE>2017-04-18</DATE_DISPATCH_NOTICE>
+</COMPLEMENTARY_INFO>
+</F03_2014>
+<F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="LT">
+<CONTRACTING_BODY>
+<ADDRESS_CONTRACTING_BODY>
+<OFFICIALNAME>Frontex – Europos sienų ir pakrančių apsaugos agentūra</OFFICIALNAME>
+<ADDRESS>Plac Europejski 6</ADDRESS>
+<TOWN>Warsaw</TOWN>
+<POSTAL_CODE>00-844</POSTAL_CODE>
+<COUNTRY VALUE="PL"/>
+<PHONE>+48 222059500</PHONE>
+<E_MAIL>procurement@frontex.europa.eu</E_MAIL>
+<FAX>+48 222059501</FAX>
+<NUTS CODE="PL127"/>
+<URL_GENERAL>www.frontex.europa.eu</URL_GENERAL>
+</ADDRESS_CONTRACTING_BODY>
+<CA_TYPE VALUE="EU_INSTITUTION"/>
+<CA_ACTIVITY VALUE="DEFENCE"/>
+</CONTRACTING_BODY>
+<OBJECT_CONTRACT>
+<TITLE>
+<P>Nuotoliniu būdu pilotuojamų orlaivių sistemos (RPAS) išbandymas jūros stebėsenai iš oro.</P>
+</TITLE>
+<REFERENCE_NUMBER>Frontex/OP/694/2016/JL.</REFERENCE_NUMBER>
+<CPV_MAIN>
+<CPV_CODE CODE="60440000"/>
+</CPV_MAIN>
+<TYPE_CONTRACT CTYPE="SERVICES"/>
+<SHORT_DESCR>
+<P>Frontex nori įgyti jūros sienų stebėsenos iš oro paslaugų 8 blokus po 100 val., iš kurių 2 blokų galėtų būti paprašyta vienu metu, iš to paties dislokavimo oro uosto ir 2 blokų galėtų būti paprašyta paeiliui. Ši paslauga bus teikiama su vidutinio skrydžio aukščio ir didelio nuotolio nuotoliniu būdu pilotuojamų orlaivių sistema (MALE RPAS) Viduržemio jūros srityse, kurias nurodė Frontex, per 2016 m. 4-ąjį ketvirtį ir 2017 m. 1-ąjį ketvirtį.</P>
+</SHORT_DESCR>
+<NO_LOT_DIVISION/>
+<OBJECT_DESCR ITEM="1">
+<NUTS CODE="GR"/>
+<MAIN_SITE>
+<P>2 dislokavimo oro uostai būtų Graikijoje, o SDA bus rytinė ir centrinė Viduržemio jūra (skrydžių misijų vykdymas galėtų apimti rytinę ir centrinę Viduržemio jūros sritis).</P>
+</MAIN_SITE>
+<SHORT_DESCR>
+<P>Šia sutartimi Frontex siekia įsigyti iš oro atliekamos jūros sienų stebėsenos paslaugas, kurios būtų vykdomos specialiose Viduržemio jūros srityse nuo 2016 m. ketvirtojo ketvirčio iki 2017 m. pirmojo ketvirčio. Į siūlomas paslaugas turi įeiti nuotoliniu būdu pilotuojamų orlaivių sistemos platformos, naudingosios apkrovos, ryšio įrangos tiekimas ir visų būtinų ekspertų, valdančių sistemą ir teikiančių paramą veiklai, parūpinimas.</P>
+</SHORT_DESCR>
+<AC_QUALITY>
+<AC_CRITERION>Kokybės įvertinimą</AC_CRITERION>
+<AC_WEIGHTING>60</AC_WEIGHTING>
+</AC_QUALITY>
+<AC_PRICE>
+<AC_WEIGHTING>40</AC_WEIGHTING>
+</AC_PRICE>
+<NO_OPTIONS/>
+<NO_EU_PROGR_RELATED/>
+<INFO_ADD>
+<P>Procedūra anuliuota.</P>
+</INFO_ADD>
+</OBJECT_DESCR>
+</OBJECT_CONTRACT>
+<PROCEDURE>
+<PT_OPEN/>
+<ACCELERATED_PROC>
+<P>Frontex turi papildyti jau turimą stebėsenos įrangą jungtinėse operacijose ir pasienio teritorijose paskutinįjį 2016 m. ketvirtį ir pirmąjį 2017 m. ketvirtį, leisdama veiksmingą nuolatinę jūros sienų stebėseną dėl nenuspėjamų tendencijų ateityje. Frontex taip pat turi įvertinti nuotoliniu būdu pilotuojamo žvalgymo orlaivio pajėgumą patikimai, reguliariai ir ekonomiškai teikti aukšto patvarumo jūros sienų stebėsenos paslaugas. Frontex siekia įvertinti kaip konkrečią užduotį Europos Sąjungos pakrančių apsaugos bandomojo projekto metu MALE RPAS, įdiegtą „daugiatikslės, kelių agentūrų misijos metu“ jūros sienoms stebėti realios operacijos kontekste.</P>
+</ACCELERATED_PROC>
+<NO_CONTRACT_COVERED_GPA/>
+<NOTICE_NUMBER_OJ>2016/S 208-376018</NOTICE_NUMBER_OJ>
+</PROCEDURE>
+<AWARD_CONTRACT ITEM="1">
+<TITLE>
+<P>Nuotoliniu būdu pilotuojamų orlaivių sistemos (RPAS) išbandymas jūros stebėsenai iš oro</P>
+</TITLE>
+<NO_AWARDED_CONTRACT>
+<PROCUREMENT_UNSUCCESSFUL/>
+</NO_AWARDED_CONTRACT>
+</AWARD_CONTRACT>
+<COMPLEMENTARY_INFO>
+<ADDRESS_REVIEW_BODY>
+<OFFICIALNAME>Bendrasis Teismas</OFFICIALNAME>
+<ADDRESS>rue du Fort Niedergrünewald</ADDRESS>
+<TOWN>Luxembourg</TOWN>
+<POSTAL_CODE>2925</POSTAL_CODE>
+<COUNTRY VALUE="LU"/>
+<PHONE>+352 4303-1</PHONE>
+<E_MAIL>cfi.registry@curia.europa.eu</E_MAIL>
+<FAX>+352 4303-2100</FAX>
+<URL>http://curia.europa.eu</URL>
+</ADDRESS_REVIEW_BODY>
+<DATE_DISPATCH_NOTICE>2017-04-18</DATE_DISPATCH_NOTICE>
+</COMPLEMENTARY_INFO>
+</F03_2014>
+<F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="LV">
+<CONTRACTING_BODY>
+<ADDRESS_CONTRACTING_BODY>
+<OFFICIALNAME>Frontex – Eiropas Robežu un krasta apsardzes aģentūra</OFFICIALNAME>
+<ADDRESS>Plac Europejski 6</ADDRESS>
+<TOWN>Warsaw</TOWN>
+<POSTAL_CODE>00-844</POSTAL_CODE>
+<COUNTRY VALUE="PL"/>
+<PHONE>+48 222059500</PHONE>
+<E_MAIL>procurement@frontex.europa.eu</E_MAIL>
+<FAX>+48 222059501</FAX>
+<NUTS CODE="PL127"/>
+<URL_GENERAL>www.frontex.europa.eu</URL_GENERAL>
+</ADDRESS_CONTRACTING_BODY>
+<CA_TYPE VALUE="EU_INSTITUTION"/>
+<CA_ACTIVITY VALUE="DEFENCE"/>
+</CONTRACTING_BODY>
+<OBJECT_CONTRACT>
+<TITLE>
+<P>Tālvadības gaisa kuģa sistēmas (RPAS) izmēģināšana jūras novērošanai no gaisa.</P>
+</TITLE>
+<REFERENCE_NUMBER>Frontex/OP/694/2016/JL.</REFERENCE_NUMBER>
+<CPV_MAIN>
+<CPV_CODE CODE="60440000"/>
+</CPV_MAIN>
+<TYPE_CONTRACT CTYPE="SERVICES"/>
+<SHORT_DESCR>
+<P>Frontex vēlas saņemt jūras robežas novērošanas pakalpojumus 8 sesijās (katras sesijas ilgums: 100 stundas), no kurām 2 sesijas var tikt pieprasītas vienlaikus un būt veicamas no vienas un tās pašas bāzes lidostas un 2 sesijas var tikt pieprasītas secīgi. Šiem pakalpojumiem jāizmanto vidēja augstuma ilglidošanas (Medium Altitude Long Endurance – MALE) tālvadības gaisa kuģa sistēma (Remotely Piloted Aircraft System – RPAS), un tie jāsniedz Frontex norādītajās Vidusjūras teritorijās laikā no 2016. gada 4. ceturkšņa līdz 2017. gada 1. ceturksnim.</P>
+</SHORT_DESCR>
+<NO_LOT_DIVISION/>
+<OBJECT_DESCR ITEM="1">
+<NUTS CODE="GR"/>
+<MAIN_SITE>
+<P>2 bāzes lidostas atradīsies Grieķijā, un pakalpojumu izpildes teritorija (service delivery area – SDA) būs Vidusjūras austrumu un centrālā daļa (lidojumu operācijas varētu būt jāizpilda Vidusjūras austrumu un centrālās daļas teritorijās).</P>
+</MAIN_SITE>
+<SHORT_DESCR>
+<P>Ar šā līguma starpniecību Frontex vēlas saņemt jūras robežas novērošanas no gaisa pakalpojumus, kas veicami konkrētās jūras teritorijās Vidusjūrā laikā no 2016. gada 4. ceturkšņa līdz 2017. gada 1. ceturksnim. Piedāvātajiem pakalpojumiem jāietver RPAS platformas, derīgās kravas un sakaru aprīkojuma nodrošināšana, kā arī visu to ekspertu nodrošināšana, kuri nepieciešami sistēmas vadībai un darbības atbalsta sniegšanai.</P>
+</SHORT_DESCR>
+<AC_QUALITY>
+<AC_CRITERION>Kvalitātes punktu skaits</AC_CRITERION>
+<AC_WEIGHTING>60</AC_WEIGHTING>
+</AC_QUALITY>
+<AC_PRICE>
+<AC_WEIGHTING>40</AC_WEIGHTING>
+</AC_PRICE>
+<NO_OPTIONS/>
+<NO_EU_PROGR_RELATED/>
+<INFO_ADD>
+<P>Procedūra atcelta.</P>
+</INFO_ADD>
+</OBJECT_DESCR>
+</OBJECT_CONTRACT>
+<PROCEDURE>
+<PT_OPEN/>
+<ACCELERATED_PROC>
+<P>Frontex nepieciešams papildināt kopīgajās operācijās un pierobežas zonās jau izmantotos novērošanas resursus 2016. gada pēdējā ceturksnī un 2017. gada 1. ceturksnī, lai nodrošinātu jūras robežu efektīvu, pastāvīgu novērošanu, ņemot vērā neparedzamās nākotnes tendences. Frontex turklāt nepieciešams novērtēt un izvērtēt novērošanai izmantoto tālvadības gaisa kuģi, lai noskaidrotu, vai tas spēj uzticami, regulāri un rentabli nodrošināt augstnoturīgus jūras robežu novērošanas pakalpojumus. Frontex mērķis ir saskaņā ar Eiropas Savienības krasta apsardzes izmēģinājuma projekta uzdevumu novērtēt MALE RPAS, ko izmanto vairāku aģentūru misijā ar vairākiem mērķiem, koplietošanu reālā jūras robežu novērošanas operācijā.</P>
+</ACCELERATED_PROC>
+<NO_CONTRACT_COVERED_GPA/>
+<NOTICE_NUMBER_OJ>2016/S 208-376018</NOTICE_NUMBER_OJ>
+</PROCEDURE>
+<AWARD_CONTRACT ITEM="1">
+<TITLE>
+<P>Tālvadības gaisa kuģa sistēmas (RPAS) izmēģināšana jūras novērošanai no gaisa</P>
+</TITLE>
+<NO_AWARDED_CONTRACT>
+<PROCUREMENT_UNSUCCESSFUL/>
+</NO_AWARDED_CONTRACT>
+</AWARD_CONTRACT>
+<COMPLEMENTARY_INFO>
+<ADDRESS_REVIEW_BODY>
+<OFFICIALNAME>Vispārējā tiesa</OFFICIALNAME>
+<ADDRESS>rue du Fort Niedergrünewald</ADDRESS>
+<TOWN>Luxembourg</TOWN>
+<POSTAL_CODE>2925</POSTAL_CODE>
+<COUNTRY VALUE="LU"/>
+<PHONE>+352 4303-1</PHONE>
+<E_MAIL>cfi.registry@curia.europa.eu</E_MAIL>
+<FAX>+352 4303-2100</FAX>
+<URL>http://curia.europa.eu</URL>
+</ADDRESS_REVIEW_BODY>
+<DATE_DISPATCH_NOTICE>2017-04-18</DATE_DISPATCH_NOTICE>
+</COMPLEMENTARY_INFO>
+</F03_2014>
+<F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="MT">
+<CONTRACTING_BODY>
+<ADDRESS_CONTRACTING_BODY>
+<OFFICIALNAME>Il-Frontex — l-Aġenzija Ewropea għall-Gwardja tal-Fruntieri u tal-Kosta</OFFICIALNAME>
+<ADDRESS>Plac Europejski 6</ADDRESS>
+<TOWN>Varsavja</TOWN>
+<POSTAL_CODE>00-844</POSTAL_CODE>
+<COUNTRY VALUE="PL"/>
+<PHONE>+48 222059500</PHONE>
+<E_MAIL>procurement@frontex.europa.eu</E_MAIL>
+<FAX>+48 222059501</FAX>
+<NUTS CODE="PL127"/>
+<URL_GENERAL>www.frontex.europa.eu</URL_GENERAL>
+</ADDRESS_CONTRACTING_BODY>
+<CA_TYPE VALUE="EU_INSTITUTION"/>
+<CA_ACTIVITY VALUE="DEFENCE"/>
+</CONTRACTING_BODY>
+<OBJECT_CONTRACT>
+<TITLE>
+<P>Prova ta' sistemi ta' ajruplani ppilotati mill-bogħod (RPAS) għas-sorveljanza marittima mill-ajru.</P>
+</TITLE>
+<REFERENCE_NUMBER>Frontex/OP/694/2016/JL.</REFERENCE_NUMBER>
+<CPV_MAIN>
+<CPV_CODE CODE="60440000"/>
+</CPV_MAIN>
+<TYPE_CONTRACT CTYPE="SERVICES"/>
+<SHORT_DESCR>
+<P>Il-Frontex tfittex li takkwista 8 blokki, ta' 100 siegħa kull blokka, ta' servizzi ta' sorveljanza tal-kosta marittima, li minnhom 2 blokki jistgħu jintalbu simultajament, mill-istess ajruport minn fejn jintbagħtu, u 2 blokki jistgħu jintalbu konsekuttivament. Dan is-servizz għandu jkun imwettaq mill-MALE RPAS f'żoni tal-Baħar Mediterran magħżulin mill-Frontex fi ħdan perijodu ta' żmien mir-4 kwart (Q4) tal-2016 sal-1 kwart (Q1) tal-2017.</P>
+</SHORT_DESCR>
+<NO_LOT_DIVISION/>
+<OBJECT_DESCR ITEM="1">
+<NUTS CODE="GR"/>
+<MAIN_SITE>
+<P>2 ajruporti minn fejn jitilqu l-ajruplani se jkunu fil-Greċja u l-SDA se tkun fil-Lvant tal-Mediterran u dak Ċentrali (l-eżekuzzjoni tal-missjoni ta' titjir tista' tkopri iż-żoni tal-Mediterran tal-Lvant u l-Mediterran Ċentrali).</P>
+</MAIN_SITE>
+<SHORT_DESCR>
+<P>Il-Frontex tfittex li takkwista servizzi ta' sorveljanza mill-ajru tal-fruntieri marittimi li jridu jitwettqu f'żoni marittimi speċifiċi tal-Baħar Mediterran matul ir-4 Kwart (Q4) fl-2016 sal-1 Kwart (Q1) tal-2017. Is-servizzi offruti għandhom jinkludu l-provvista ta' pjattaforma tal-RPAS, tagħbija li tinġarr bi ħlas, tagħmir tal-komunikazzjoni, u l-esperti kollha meħtieġa li jimmaniġġjaw is-sistema u jipprovdu appoġġ operazzjonali.</P>
+</SHORT_DESCR>
+<AC_QUALITY>
+<AC_CRITERION>Il-punteġġ tal-kwalità</AC_CRITERION>
+<AC_WEIGHTING>60</AC_WEIGHTING>
+</AC_QUALITY>
+<AC_PRICE>
+<AC_WEIGHTING>40</AC_WEIGHTING>
+</AC_PRICE>
+<NO_OPTIONS/>
+<NO_EU_PROGR_RELATED/>
+<INFO_ADD>
+<P>Il-proċedura ġiet imħassra.</P>
+</INFO_ADD>
+</OBJECT_DESCR>
+</OBJECT_CONTRACT>
+<PROCEDURE>
+<PT_OPEN/>
+<ACCELERATED_PROC>
+<P>Il-Frontex teħtieġ li żżid mal-assi għas-sorveljanza diġà fis-seħħ f'operazzjonijiet konġunti u żoni ta' qabel it-twaqqif tal-fruntiera għall-aħħar kwart tal-2016 u l-ewwel kwart tal-2017 li jippermettu l-monitoraġġ effettiv permanenti tal-fruntieri marittimi minħabba xejriet futuri mhux prevedibbli. Il-Frontex teħtieġ ukoll li tivvaluta u tevalwa s-sorveljanza ta' ajruplani ppilotati mill-bogħod ai termini tal-ħila tagħha li tipprovdi servizzi ta' sorveljanza b'reżiljenza għolja tal-fruntieri marittimi b'mod affidabbli, regolari u ta' valur għall-flus. Il-Frontex timmira li tivvaluta, bħala xogħol mogħti fil-proġett pilota tal-Gwardja tal-Kosta tal-Unjoni Ewropea, il-qsim ta' MALE RPAS mħaddmin f''missjoni b'diversi għanijiet, fuq diversi aġenziji' għas-sorveljanza tal-fruntieri marittimi fil-kuntest ta' operazzjoni reali.</P>
+</ACCELERATED_PROC>
+<NO_CONTRACT_COVERED_GPA/>
+<NOTICE_NUMBER_OJ>2016/S 208-376018</NOTICE_NUMBER_OJ>
+</PROCEDURE>
+<AWARD_CONTRACT ITEM="1">
+<TITLE>
+<P>Prova ta' sistema ta' ajruplani ppilotati mill-bogħod (RPAS) għas-sorveljanza marittima mill-ajru</P>
+</TITLE>
+<NO_AWARDED_CONTRACT>
+<PROCUREMENT_UNSUCCESSFUL/>
+</NO_AWARDED_CONTRACT>
+</AWARD_CONTRACT>
+<COMPLEMENTARY_INFO>
+<ADDRESS_REVIEW_BODY>
+<OFFICIALNAME>Il-Qorti Ġenerali</OFFICIALNAME>
+<ADDRESS>rue du Fort Niedergrünewald</ADDRESS>
+<TOWN>Lussemburgu</TOWN>
+<POSTAL_CODE>2925</POSTAL_CODE>
+<COUNTRY VALUE="LU"/>
+<PHONE>+352 4303-1</PHONE>
+<E_MAIL>cfi.registry@curia.europa.eu</E_MAIL>
+<FAX>+352 4303-2100</FAX>
+<URL>http://curia.europa.eu</URL>
+</ADDRESS_REVIEW_BODY>
+<DATE_DISPATCH_NOTICE>2017-04-18</DATE_DISPATCH_NOTICE>
+</COMPLEMENTARY_INFO>
+</F03_2014>
+<F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="PL">
+<CONTRACTING_BODY>
+<ADDRESS_CONTRACTING_BODY>
+<OFFICIALNAME>Frontex – Europejska Agencja Straży Granicznej i Przybrzeżnej</OFFICIALNAME>
+<ADDRESS>Plac Europejski 6</ADDRESS>
+<TOWN>Warsaw</TOWN>
+<POSTAL_CODE>00-844</POSTAL_CODE>
+<COUNTRY VALUE="PL"/>
+<PHONE>+48 222059500</PHONE>
+<E_MAIL>procurement@frontex.europa.eu</E_MAIL>
+<FAX>+48 222059501</FAX>
+<NUTS CODE="PL127"/>
+<URL_GENERAL>www.frontex.europa.eu</URL_GENERAL>
+</ADDRESS_CONTRACTING_BODY>
+<CA_TYPE VALUE="EU_INSTITUTION"/>
+<CA_ACTIVITY VALUE="DEFENCE"/>
+</CONTRACTING_BODY>
+<OBJECT_CONTRACT>
+<TITLE>
+<P>Test zdalnie kierowanego bezzałogowego systemu powietrznego (BSP) do celów nadzoru morskiego z powietrza</P>
+</TITLE>
+<REFERENCE_NUMBER>Frontex/OP/694/2016/JL.</REFERENCE_NUMBER>
+<CPV_MAIN>
+<CPV_CODE CODE="60440000"/>
+</CPV_MAIN>
+<TYPE_CONTRACT CTYPE="SERVICES"/>
+<SHORT_DESCR>
+<P>Frontex zamierza zakupić 8 100-godzinnych bloków usług nadzoru granic morskich, z czego 2 bloki mogą zostać zamówione jednocześnie, z tego samego portu lotniczego misji, a 2 bloki mogą zostać zamówione jeden po drugim. Usługi te będą realizowane z wykorzystaniem zdalnie kierowanego bezzałogowego systemu powietrznego zdolnego do długodystansowych lotów na średnim pułapie na obszarach Morza Śródziemnego wyznaczonych przez Frontex w okresie od IV kwartału 2016 do I kwartału 2017.</P>
+</SHORT_DESCR>
+<NO_LOT_DIVISION/>
+<OBJECT_DESCR ITEM="1">
+<NUTS CODE="GR"/>
+<MAIN_SITE>
+<P>2 porty lotnicze misji będą znajdować się na terytorium Grecji, natomiast obszar świadczenia usług będzie obejmował wschodnią i środkową część Morza Śródziemnego (misje lotnicze mogą obejmować obszary we wschodniej i środkowej części Morza Śródziemnego).</P>
+</MAIN_SITE>
+<SHORT_DESCR>
+<P>W ramach niniejszego zamówienia Frontex zamierza zakupić usługi nadzoru granic morskich wykonywanego z powietrza na specjalnych obszarach morskich Morza Śródziemnego w okresie od IV kwartału 2016 do I kwartału 2017. Oferowane usługi obejmują zapewnienie platformy zdalnie kierowanych bezzałogowych systemów powietrznych, ładunku użytkowego, sprzętu komunikacyjnego oraz zaangażowanie niezbędnych ekspertów zarządzającym systemem i zapewniających wsparcie operacyjne.</P>
+</SHORT_DESCR>
+<AC_QUALITY>
+<AC_CRITERION>punktacja jakościowa</AC_CRITERION>
+<AC_WEIGHTING>60</AC_WEIGHTING>
+</AC_QUALITY>
+<AC_PRICE>
+<AC_WEIGHTING>40</AC_WEIGHTING>
+</AC_PRICE>
+<NO_OPTIONS/>
+<NO_EU_PROGR_RELATED/>
+<INFO_ADD>
+<P>Postępowanie zostało unieważnione.</P>
+</INFO_ADD>
+</OBJECT_DESCR>
+</OBJECT_CONTRACT>
+<PROCEDURE>
+<PT_OPEN/>
+<ACCELERATED_PROC>
+<P>Frontex zamierza uzupełnić zasoby przeznaczone do nadzoru, które już funkcjonują w ramach wspólnych operacji i w strefach przedgranicznych, na okres od ostatniego kwartału 2016 do pierwszego kwartału 2017, zapewniając w ten sposób skuteczne stałe monitorowanie granic morskich w kontekście nieprzewidywalnego kierunku rozwoju wydarzeń. Frontex musi również dokonać oceny zdalnie kierowanych systemów nadzoru pod kątem ich zdolności do przeprowadzania nadzoru granic morskich podczas długodystansowych lotów z zapewnieniem niezawodności, regularności i racjonalności pod względem kosztów. Frontex zamierza dokonać oceny, stanowiącej zadanie w pilotażowym projekcie straży przybrzeżnej Unii Europejskiej, współdzielenia zdalnie kierowanego bezzałogowego systemu powietrznego zdolnego do długodystansowych lotów na średnim pułapie wykorzystanego w wielozadaniowej misji dla wielu agencji do celów nadzoru granic morskich w ramach rzeczywistej operacji.</P>
+</ACCELERATED_PROC>
+<NO_CONTRACT_COVERED_GPA/>
+<NOTICE_NUMBER_OJ>2016/S 208-376018</NOTICE_NUMBER_OJ>
+</PROCEDURE>
+<AWARD_CONTRACT ITEM="1">
+<TITLE>
+<P>Test zdalnie kierowanego bezzałogowego systemu powietrznego (BSP) do celów nadzoru morskiego z powietrza</P>
+</TITLE>
+<NO_AWARDED_CONTRACT>
+<PROCUREMENT_UNSUCCESSFUL/>
+</NO_AWARDED_CONTRACT>
+</AWARD_CONTRACT>
+<COMPLEMENTARY_INFO>
+<ADDRESS_REVIEW_BODY>
+<OFFICIALNAME>Sąd</OFFICIALNAME>
+<ADDRESS>rue du Fort Niedergrünewald</ADDRESS>
+<TOWN>Luxembourg</TOWN>
+<POSTAL_CODE>2925</POSTAL_CODE>
+<COUNTRY VALUE="LU"/>
+<PHONE>+352 4303-1</PHONE>
+<E_MAIL>cfi.registry@curia.europa.eu</E_MAIL>
+<FAX>+352 4303-2100</FAX>
+<URL>http://curia.europa.eu</URL>
+</ADDRESS_REVIEW_BODY>
+<DATE_DISPATCH_NOTICE>2017-04-18</DATE_DISPATCH_NOTICE>
+</COMPLEMENTARY_INFO>
+</F03_2014>
+<F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="SK">
+<CONTRACTING_BODY>
+<ADDRESS_CONTRACTING_BODY>
+<OFFICIALNAME>Frontex – Európska agentúra pre pohraničnú a pobrežnú stráž</OFFICIALNAME>
+<ADDRESS>Plac Europejski 6</ADDRESS>
+<TOWN>Warsaw</TOWN>
+<POSTAL_CODE>00-844</POSTAL_CODE>
+<COUNTRY VALUE="PL"/>
+<PHONE>+48 222059500</PHONE>
+<E_MAIL>procurement@frontex.europa.eu</E_MAIL>
+<FAX>+48 222059501</FAX>
+<NUTS CODE="PL127"/>
+<URL_GENERAL>www.frontex.europa.eu</URL_GENERAL>
+</ADDRESS_CONTRACTING_BODY>
+<CA_TYPE VALUE="EU_INSTITUTION"/>
+<CA_ACTIVITY VALUE="DEFENCE"/>
+</CONTRACTING_BODY>
+<OBJECT_CONTRACT>
+<TITLE>
+<P>Skúška diaľkovo riadeného leteckého systému (RPAS) pre leteckú kontrolu námorných hraníc.</P>
+</TITLE>
+<REFERENCE_NUMBER>Frontex/OP/694/2016/JL.</REFERENCE_NUMBER>
+<CPV_MAIN>
+<CPV_CODE CODE="60440000"/>
+</CPV_MAIN>
+<TYPE_CONTRACT CTYPE="SERVICES"/>
+<SHORT_DESCR>
+<P>Frontex sa snaží o zabezpečenie 8 blokov služieb kontroly námorných hraníc v rozsahu 100 hodín v rámci každého bloku, z čoho 2 bloky by sa mohli požadovať naraz, z rovnakého pohotovostného letiska, a 2 bloky by sa mohli požadovať následne po sebe. Táto služba sa bude vykonávať pomocou diaľkovo riadeného leteckého systému so schopnosťou letu v strednej výške s veľkým doletom v oblastiach Stredozemného mora, ktoré určí agentúra Frontex v časovom rámci 4. štvrťroka 2016 – 1. štvrťroka 2017.</P>
+</SHORT_DESCR>
+<NO_LOT_DIVISION/>
+<OBJECT_DESCR ITEM="1">
+<NUTS CODE="GR"/>
+<MAIN_SITE>
+<P>2 pohotovostné letiská by mali byť v Grécku a SDA bude východná a stredná časť Stredozemia (letecká misia by mohla zahŕňať oblasti východného Stredozemia a stredného Stredozemia).</P>
+</MAIN_SITE>
+<SHORT_DESCR>
+<P>Prostredníctvom tejto zákazky plánuje Frontex obstarať služby leteckej kontroly námorných hraníc, ktoré sa budú vykonávať v stanovených námorných oblastiach Stredozemného mora v období 4. štvrťroka 2016 – 1. štvrťroka 2017. Ponúkané služby musia zahŕňať poskytnutie platformy, informačného poľa a komunikačného vybavenia, čo sa týka diaľkovo riadeného leteckého systému (RPAS), a všetkých potrebných odborníkov na prevádzku systému a poskytovanie prevádzkovej podpory.</P>
+</SHORT_DESCR>
+<AC_QUALITY>
+<AC_CRITERION>Počet bodov za kvalitu</AC_CRITERION>
+<AC_WEIGHTING>60</AC_WEIGHTING>
+</AC_QUALITY>
+<AC_PRICE>
+<AC_WEIGHTING>40</AC_WEIGHTING>
+</AC_PRICE>
+<NO_OPTIONS/>
+<NO_EU_PROGR_RELATED/>
+<INFO_ADD>
+<P>Konanie bolo zrušené.</P>
+</INFO_ADD>
+</OBJECT_DESCR>
+</OBJECT_CONTRACT>
+<PROCEDURE>
+<PT_OPEN/>
+<ACCELERATED_PROC>
+<P>Frontex potrebuje doplniť svoje prostriedky v oblasti kontroly, ktoré už sú zapojené do spoločných operácií a predbežných pohraničných oblastí pre posledný štvrťrok 2016 a prvý štvrťrok 2017, čím sa umožní stále efektívne monitorovanie námorných hraníc vzhľadom na nepredvídateľné budúce trendy. Frontex tiež potrebuje posúdiť a zhodnotiť diaľkovo riadené lietadlo vykonávajúce kontrolu, pokiaľ ide o jeho schopnosť poskytovať služby kontroly námorných hraníc pri zabezpečení veľkého doletu, a to spoľahlivým, regulárnym a hospodárnym spôsobom. Frontex má za cieľ posúdiť, v rámci úlohy stanovenej v pilotnom projekte pobrežnej stráže v Európskej únii, spoločné využívanie diaľkovo riadeného leteckého systému so schopnosťou letu v strednej výške s veľkým doletom, ktorý je nasadený v rámci „viacúčelovej, multiagentúrnej misie“ na kontrolu námorných hraníc v kontexte skutočnej operácie.</P>
+</ACCELERATED_PROC>
+<NO_CONTRACT_COVERED_GPA/>
+<NOTICE_NUMBER_OJ>2016/S 208-376018</NOTICE_NUMBER_OJ>
+</PROCEDURE>
+<AWARD_CONTRACT ITEM="1">
+<TITLE>
+<P>Skúška diaľkovo riadeného leteckého systému (RPAS) pre leteckú kontrolu námorných hraníc</P>
+</TITLE>
+<NO_AWARDED_CONTRACT>
+<PROCUREMENT_UNSUCCESSFUL/>
+</NO_AWARDED_CONTRACT>
+</AWARD_CONTRACT>
+<COMPLEMENTARY_INFO>
+<ADDRESS_REVIEW_BODY>
+<OFFICIALNAME>Všeobecný súd</OFFICIALNAME>
+<ADDRESS>rue du Fort Niedergrünewald</ADDRESS>
+<TOWN>Luxembourg</TOWN>
+<POSTAL_CODE>2925</POSTAL_CODE>
+<COUNTRY VALUE="LU"/>
+<PHONE>+352 4303-1</PHONE>
+<E_MAIL>cfi.registry@curia.europa.eu</E_MAIL>
+<FAX>+352 4303-2100</FAX>
+<URL>http://curia.europa.eu</URL>
+</ADDRESS_REVIEW_BODY>
+<DATE_DISPATCH_NOTICE>2017-04-18</DATE_DISPATCH_NOTICE>
+</COMPLEMENTARY_INFO>
+</F03_2014>
+<F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="SL">
+<CONTRACTING_BODY>
+<ADDRESS_CONTRACTING_BODY>
+<OFFICIALNAME>Frontex – Evropska agencija za mejno in obalno stražo</OFFICIALNAME>
+<ADDRESS>Plac Europejski 6</ADDRESS>
+<TOWN>Warsaw</TOWN>
+<POSTAL_CODE>00-844</POSTAL_CODE>
+<COUNTRY VALUE="PL"/>
+<PHONE>+48 222059500</PHONE>
+<E_MAIL>procurement@frontex.europa.eu</E_MAIL>
+<FAX>+48 222059501</FAX>
+<NUTS CODE="PL127"/>
+<URL_GENERAL>www.frontex.europa.eu</URL_GENERAL>
+</ADDRESS_CONTRACTING_BODY>
+<CA_TYPE VALUE="EU_INSTITUTION"/>
+<CA_ACTIVITY VALUE="DEFENCE"/>
+</CONTRACTING_BODY>
+<OBJECT_CONTRACT>
+<TITLE>
+<P>Preskus sistema daljinsko vodenih zrakoplovov (RPAS) za pomorski zračni nadzor.</P>
+</TITLE>
+<REFERENCE_NUMBER>Frontex/OP/694/2016/JL.</REFERENCE_NUMBER>
+<CPV_MAIN>
+<CPV_CODE CODE="60440000"/>
+</CPV_MAIN>
+<TYPE_CONTRACT CTYPE="SERVICES"/>
+<SHORT_DESCR>
+<P>Frontex želi pridobiti 8 blokov, v obsegu 100 ur na blok, storitev nadzora morskih meja, od tega sta lahko 2 bloka zahtevana istočasno, z istega razmestitvenega letališča, in 2 bloka sta lahko zahtevana po tem. Ta storitev se izvede s sistemom daljinsko vodenih zrakoplovov na srednjih višinah z velikim dosegom (Medium Altitude Long Endurance Remotely Piloted Aircraft System – MALE RPAS) na območjih Sredozemskega morja, ki jih določi Frontex, v obdobju od 4. četrtletja 2016 do 1. četrtletja 2017.</P>
+</SHORT_DESCR>
+<NO_LOT_DIVISION/>
+<OBJECT_DESCR ITEM="1">
+<NUTS CODE="GR"/>
+<MAIN_SITE>
+<P>2 razmestitveni letališči bi bili v Grčiji in območje izvajanja storitev bo vzhodno in osrednje Sredozemlje (letalske misije lahko obsegajo območji vzhodnega in osrednjega Sredozemlja).</P>
+</MAIN_SITE>
+<SHORT_DESCR>
+<P>Frontex želi s tem naročilom pridobiti storitve pomorskega zračnega mejnega nadzora, ki bodo izvedene na določenih pomorskih območjih Sredozemskega morja od 4. četrtletja 2016 do 1. četrtletja 2017. Ponujene storitve bodo vključevale zagotavljanje platforme za sisteme daljinsko vodenih zrakoplovov (Remotely Piloted Aircraft Systems – RPAS), koristnega tovora, komunikacijske opreme in vseh potrebnih strokovnjakov, ki bodo vodili sistem in zagotavljali operativno podporo.</P>
+</SHORT_DESCR>
+<AC_QUALITY>
+<AC_CRITERION>Ocena kakovosti</AC_CRITERION>
+<AC_WEIGHTING>60</AC_WEIGHTING>
+</AC_QUALITY>
+<AC_PRICE>
+<AC_WEIGHTING>40</AC_WEIGHTING>
+</AC_PRICE>
+<NO_OPTIONS/>
+<NO_EU_PROGR_RELATED/>
+<INFO_ADD>
+<P>Postopek je bil preklican.</P>
+</INFO_ADD>
+</OBJECT_DESCR>
+</OBJECT_CONTRACT>
+<PROCEDURE>
+<PT_OPEN/>
+<ACCELERATED_PROC>
+<P>Frontex mora dopolniti sredstva nadzora, ki se že uporabljajo v skupnih operacijah in na predmejnih območjih v zadnjem četrtletju 2016 in prvem četrtletju 2017, s čimer zagotovi učinkovito stalno spremljanje morskih mej z vidika nepredvidljivih prihodnjih dogodkov. Frontex mora tudi oceniti in ovrednotiti brezpilotni nadzorni zrakoplov z vidika njegovih sposobnosti zagotavljanja storitev dolgotrajnega nadzora morskih mej na zanesljiv, reden in stroškovno učinkovit način. Frontex želi v okviru naloge pilotnega projekta obalne straže Evropske unije oceniti skupno uporabo sistema daljinsko vodenih zrakoplovov na srednjih višinah z velikim dosegom, ki se uporablja v „večnamenskih, večagencijskih misijah“ za nadzor morske meje v kontekstu realne operacije.</P>
+</ACCELERATED_PROC>
+<NO_CONTRACT_COVERED_GPA/>
+<NOTICE_NUMBER_OJ>2016/S 208-376018</NOTICE_NUMBER_OJ>
+</PROCEDURE>
+<AWARD_CONTRACT ITEM="1">
+<TITLE>
+<P>Preskus sistema daljinsko vodenih zrakoplovov (RPAS) za pomorski zračni nadzor</P>
+</TITLE>
+<NO_AWARDED_CONTRACT>
+<PROCUREMENT_UNSUCCESSFUL/>
+</NO_AWARDED_CONTRACT>
+</AWARD_CONTRACT>
+<COMPLEMENTARY_INFO>
+<ADDRESS_REVIEW_BODY>
+<OFFICIALNAME>Splošno sodišče</OFFICIALNAME>
+<ADDRESS>rue du Fort Niedergrünewald</ADDRESS>
+<TOWN>Luxembourg</TOWN>
+<POSTAL_CODE>2925</POSTAL_CODE>
+<COUNTRY VALUE="LU"/>
+<PHONE>+352 4303-1</PHONE>
+<E_MAIL>cfi.registry@curia.europa.eu</E_MAIL>
+<FAX>+352 4303-2100</FAX>
+<URL>http://curia.europa.eu</URL>
+</ADDRESS_REVIEW_BODY>
+<DATE_DISPATCH_NOTICE>2017-04-18</DATE_DISPATCH_NOTICE>
+</COMPLEMENTARY_INFO>
+</F03_2014>
+<F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="GA">
+<CONTRACTING_BODY>
+<ADDRESS_CONTRACTING_BODY>
+<OFFICIALNAME>Frontex — an Ghníomhaireacht Eorpach um an nGarda Teorann agus Cósta</OFFICIALNAME>
+<ADDRESS>Plac Europejski 6</ADDRESS>
+<TOWN>Warsaw</TOWN>
+<POSTAL_CODE>00-844</POSTAL_CODE>
+<COUNTRY VALUE="PL"/>
+<PHONE>+48 222059500</PHONE>
+<E_MAIL>procurement@frontex.europa.eu</E_MAIL>
+<FAX>+48 222059501</FAX>
+<NUTS CODE="PL127"/>
+<URL_GENERAL>www.frontex.europa.eu</URL_GENERAL>
+</ADDRESS_CONTRACTING_BODY>
+<CA_TYPE VALUE="EU_INSTITUTION"/>
+<CA_ACTIVITY VALUE="DEFENCE"/>
+</CONTRACTING_BODY>
+<OBJECT_CONTRACT>
+<TITLE>
+<P>Córas aerárthaí cianrialaithe (RPAS) a thástáil maidir le haerfhaireachas muirí.</P>
+</TITLE>
+<REFERENCE_NUMBER>Frontex/OP/694/2016/JL.</REFERENCE_NUMBER>
+<CPV_MAIN>
+<CPV_CODE CODE="60440000"/>
+</CPV_MAIN>
+<TYPE_CONTRACT CTYPE="SERVICES"/>
+<SHORT_DESCR>
+<P>Tá Frontex ag iarraidh 8 mbloc, de 100 uair an bloc, de sheirbhísí faireachais ar theorainneacha muirí a fháil, as ar féidir 2 bhloc a iarraidh go comhuaineach, ón aerfort imscartha céanna, chomh maith le 2 bhloc ar féidir iad a iarraidh go comhleanúnach. Tá an tseirbhís sin le cur chun feidhme le RPAS MALE (meánairde fad-aga) i limistéir na Meánmhara a ainmneoidh Frontex laistigh de fhráma ama Q4 2016–Q1 2017.</P>
+</SHORT_DESCR>
+<NO_LOT_DIVISION/>
+<OBJECT_DESCR ITEM="1">
+<NUTS CODE="GR"/>
+<MAIN_SITE>
+<P>Bheadh 2 aerfort imscartha sa Ghréig agus is é an SDA a bheidh ann an Mheánmhuir oirthearach agus láir (d'fhéadfadh cur chun feidhme na misean eitilte limistéir na Meánmhara oirthearaí agus láir a chlúdach).</P>
+</MAIN_SITE>
+<SHORT_DESCR>
+<P>Leis an gconradh seo tá Frontex ag iarraidh seirbhísí aerfhaireachais ar theorainneacha muirí a fháil a bheidh le cur chun feidhme i limistéir mhuirí shainiúla den Mheánmhuir i rith Q4 2016 – Q1 2017. San áireamh leis na seirbhísí ar thairiscint beidh soláthar ardán RPAS, pálasta, trealamh cumarsáide, agus na saineolaithe riachtanacha uile a dhéanfaidh an córas a bhainistiú agus a sholáthróidh tacaíocht oibríochtúil.</P>
+</SHORT_DESCR>
+<AC_QUALITY>
+<AC_CRITERION>Scór cáilíochta</AC_CRITERION>
+<AC_WEIGHTING>60</AC_WEIGHTING>
+</AC_QUALITY>
+<AC_PRICE>
+<AC_WEIGHTING>40</AC_WEIGHTING>
+</AC_PRICE>
+<NO_OPTIONS/>
+<NO_EU_PROGR_RELATED/>
+<INFO_ADD>
+<P>Cuireadh an nós imeachta ar ceal.</P>
+</INFO_ADD>
+</OBJECT_DESCR>
+</OBJECT_CONTRACT>
+<PROCEDURE>
+<PT_OPEN/>
+<ACCELERATED_PROC>
+<P>Teastaíonn ó Frontex na sócmhainní faireachais atá i bhfeidhm cheana i gcomhoibríochtaí agus i limistéir réamhtheorainneacha a chomhlánú don ráithe dheireanach de 2016 agus don chéad ráithe de 2017 chun ligean do mhonatóireacht bhuan éifeachtach ar na teorainneacha muirí i bhfianaise na dtreochtaí sa todhchaí nach féidir a thuar. Teastaíonn ó Frontex freisin measúnú agus meastóireacht a dhéanamh ar aerárthaí faireachais cianrialaithe i dtéarmaí a gcumas seirbhísí faireachais fad-aga ar theorainneacha a sholáthar ar bhealach iontaofa, rialta agus costéifeachtach. Is é aidhm Frontex measúnú a dhéanamh, mar thasc áirithe i dtreoirthionscadal Gharda Cósta an Aontais Eorpaigh, ar RPAS MALE a chomhroinnt arna imscaradh i 'misean, ilchuspóra, ilghníomhaireachta' maidir le faireachas ar theorainneacha muirí i gcomhthéacs fíor-oibríochta.</P>
+</ACCELERATED_PROC>
+<NO_CONTRACT_COVERED_GPA/>
+<NOTICE_NUMBER_OJ>2016/S 208-376018</NOTICE_NUMBER_OJ>
+</PROCEDURE>
+<AWARD_CONTRACT ITEM="1">
+<TITLE>
+<P>Córas aerárthaí cianrialaithe (RPAS) a thástáil maidir le haerfhaireachas muirí</P>
+</TITLE>
+<NO_AWARDED_CONTRACT>
+<PROCUREMENT_UNSUCCESSFUL/>
+</NO_AWARDED_CONTRACT>
+</AWARD_CONTRACT>
+<COMPLEMENTARY_INFO>
+<ADDRESS_REVIEW_BODY>
+<OFFICIALNAME>An Chúirt Ghinearálta</OFFICIALNAME>
+<ADDRESS>rue du Fort Niedergrünewald</ADDRESS>
+<TOWN>Luxembourg</TOWN>
+<POSTAL_CODE>2925</POSTAL_CODE>
+<COUNTRY VALUE="LU"/>
+<PHONE>+352 4303-1</PHONE>
+<E_MAIL>cfi.registry@curia.europa.eu</E_MAIL>
+<FAX>+352 4303-2100</FAX>
+<URL>http://curia.europa.eu</URL>
+</ADDRESS_REVIEW_BODY>
+<DATE_DISPATCH_NOTICE>2017-04-18</DATE_DISPATCH_NOTICE>
+</COMPLEMENTARY_INFO>
+</F03_2014>
+<F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="BG">
+<CONTRACTING_BODY>
+<ADDRESS_CONTRACTING_BODY>
+<OFFICIALNAME>Frontex – Европейска агенция за гранична и брегова охрана</OFFICIALNAME>
+<ADDRESS>Plac Europejski 6</ADDRESS>
+<TOWN>Warsaw</TOWN>
+<POSTAL_CODE>00-844</POSTAL_CODE>
+<COUNTRY VALUE="PL"/>
+<PHONE>+48 222059500</PHONE>
+<E_MAIL>procurement@frontex.europa.eu</E_MAIL>
+<FAX>+48 222059501</FAX>
+<NUTS CODE="PL127"/>
+<URL_GENERAL>www.frontex.europa.eu</URL_GENERAL>
+</ADDRESS_CONTRACTING_BODY>
+<CA_TYPE VALUE="EU_INSTITUTION"/>
+<CA_ACTIVITY VALUE="DEFENCE"/>
+</CONTRACTING_BODY>
+<OBJECT_CONTRACT>
+<TITLE>
+<P>Изпитване на дистанционно управляема летателна система (RPAS) за морско наблюдение от въздуха.</P>
+</TITLE>
+<REFERENCE_NUMBER>Frontex/OP/694/2016/JL.</REFERENCE_NUMBER>
+<CPV_MAIN>
+<CPV_CODE CODE="60440000"/>
+</CPV_MAIN>
+<TYPE_CONTRACT CTYPE="SERVICES"/>
+<SHORT_DESCR>
+<P>Frontex желае да придобие 8 блока, от по 100 часа всеки блок, за услуги по наблюдение на морската граница, от които 2 блока могат да бъдат изискани едновременно, от едно и също летище за разполагане, а 2 блока може да бъдат изискани последователно. Тази услуга трябва да се изпълни с MALE RPAS (дистанционно управляема летателна система при средна надморска височина и на далечни разстояния) в зони на Средиземно море, определени от Frontex, в рамките на времевия срок на четвъртото тримесечие на 2016 и първото тримесечие на 2017.</P>
+</SHORT_DESCR>
+<NO_LOT_DIVISION/>
+<OBJECT_DESCR ITEM="1">
+<NUTS CODE="GR"/>
+<MAIN_SITE>
+<P>2 летища за разполагане ще бъдат в Гърция, а зоната на предоставяне на услуги ще бъде Източното и Централно Средиземно море (изпълнението на мисии за полети може да обхваща области на Източното и Централно Средиземно море).</P>
+</MAIN_SITE>
+<SHORT_DESCR>
+<P>С тази поръчка Frontex желае да си набави услуги по наблюдение от въздуха на морските граници, които ще бъдат изпълнявани в специфични морски зони на Средиземно море през четвъртото тримесечие на 2016 г. и първото тримесечие на 2017 г. Предлаганите услуги трябва да включват осигуряване на RPAS платформа, полезен товар, комуникационно оборудване и всички необходими експерти, управляващи системата и осигуряващи оперативна подкрепа.</P>
+</SHORT_DESCR>
+<AC_QUALITY>
+<AC_CRITERION>Резултат за качество</AC_CRITERION>
+<AC_WEIGHTING>60</AC_WEIGHTING>
+</AC_QUALITY>
+<AC_PRICE>
+<AC_WEIGHTING>40</AC_WEIGHTING>
+</AC_PRICE>
+<NO_OPTIONS/>
+<NO_EU_PROGR_RELATED/>
+<INFO_ADD>
+<P>Процедурата е анулирана.</P>
+</INFO_ADD>
+</OBJECT_DESCR>
+</OBJECT_CONTRACT>
+<PROCEDURE>
+<PT_OPEN/>
+<ACCELERATED_PROC>
+<P>Frontex трябва да допълни средствата за наблюдение, които са вече въведени в съвместни операции и предгранични зони за последното тримесечие на 2016 и първото тримесечие на 2017, позволяващи ефективен постоянен мониторинг на морските граници с оглед на непредвидимите бъдещи тенденции. Frontex също трябва да оцени и прецени дистанционно управляемо въздухоплавателно средство за наблюдение по отношение на неговите възможности за предоставяне на услуги по наблюдение на морската граница с голяма издръжливост по надежден, редовен и рентабилен начин. Frontex има за цел да оцени, като дадена задача в пилотния проект на бреговата охрана на Европейския съюз, споделянето на MALE RPAS, проявяваща се в „многофункционална, междуведомствена мисия“ за наблюдение на морската граница в контекста на реална операция.</P>
+</ACCELERATED_PROC>
+<NO_CONTRACT_COVERED_GPA/>
+<NOTICE_NUMBER_OJ>2016/S 208-376018</NOTICE_NUMBER_OJ>
+</PROCEDURE>
+<AWARD_CONTRACT ITEM="1">
+<TITLE>
+<P>Изпитване на дистанционно управляема летателна система (RPAS) за морско наблюдение от въздуха</P>
+</TITLE>
+<NO_AWARDED_CONTRACT>
+<PROCUREMENT_UNSUCCESSFUL/>
+</NO_AWARDED_CONTRACT>
+</AWARD_CONTRACT>
+<COMPLEMENTARY_INFO>
+<ADDRESS_REVIEW_BODY>
+<OFFICIALNAME>Общ съд</OFFICIALNAME>
+<ADDRESS>rue du Fort Niedergrünewald</ADDRESS>
+<TOWN>Luxembourg</TOWN>
+<POSTAL_CODE>2925</POSTAL_CODE>
+<COUNTRY VALUE="LU"/>
+<PHONE>+352 4303-1</PHONE>
+<E_MAIL>cfi.registry@curia.europa.eu</E_MAIL>
+<FAX>+352 4303-2100</FAX>
+<URL>http://curia.europa.eu</URL>
+</ADDRESS_REVIEW_BODY>
+<DATE_DISPATCH_NOTICE>2017-04-18</DATE_DISPATCH_NOTICE>
+</COMPLEMENTARY_INFO>
+</F03_2014>
+<F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="RO">
+<CONTRACTING_BODY>
+<ADDRESS_CONTRACTING_BODY>
+<OFFICIALNAME>Frontex – Agenția Europeană pentru Poliția de Frontieră și Garda de Coastă</OFFICIALNAME>
+<ADDRESS>Plac Europejski 6</ADDRESS>
+<TOWN>Warsaw</TOWN>
+<POSTAL_CODE>00-844</POSTAL_CODE>
+<COUNTRY VALUE="PL"/>
+<PHONE>+48 222059500</PHONE>
+<E_MAIL>procurement@frontex.europa.eu</E_MAIL>
+<FAX>+48 222059501</FAX>
+<NUTS CODE="PL127"/>
+<URL_GENERAL>www.frontex.europa.eu</URL_GENERAL>
+</ADDRESS_CONTRACTING_BODY>
+<CA_TYPE VALUE="EU_INSTITUTION"/>
+<CA_ACTIVITY VALUE="DEFENCE"/>
+</CONTRACTING_BODY>
+<OBJECT_CONTRACT>
+<TITLE>
+<P>Testarea sistemului de aeronave pilotate de la distanță (RPAS) pentru supravegherea aeriană a zonelor maritime.</P>
+</TITLE>
+<REFERENCE_NUMBER>Frontex/OP/694/2016/JL.</REFERENCE_NUMBER>
+<CPV_MAIN>
+<CPV_CODE CODE="60440000"/>
+</CPV_MAIN>
+<TYPE_CONTRACT CTYPE="SERVICES"/>
+<SHORT_DESCR>
+<P>Frontex intenționează să achiziționeze 8 module, fiecare a 100 de ore, de servicii de supraveghere a frontierelor maritime, dintre care 2 module ar putea fi solicitate simultan, de la același aeroport de instalare, și 2 module ar putea fi solicitate succesiv. Acest serviciu urmează să fie prestat cu ajutorul unui sistem de aeronave pilotate de la distanță de medie altitudine și mare anduranță (MALE REPAS) în zonele Mării Mediterane indicate de Frontex în perioada cuprinsă între trimestrul al patrulea al anului 2016 și primul trimestru al anului 2017.</P>
+</SHORT_DESCR>
+<NO_LOT_DIVISION/>
+<OBJECT_DESCR ITEM="1">
+<NUTS CODE="GR"/>
+<MAIN_SITE>
+<P>2 aeroporturi de instalare vor fi în Grecia, iar zona de prestare a serviciilor va cuprinde estul și centrul Mării Mediterane (executarea misiunii de zbor ar putea acoperi zone din estul și centrul Mării Mediterane).</P>
+</MAIN_SITE>
+<SHORT_DESCR>
+<P>Prin intermediul acestui contract, Frontex intenționează să achiziționeze servicii de supraveghere aeriană a frontierelor maritime care să fie prestate în anumite zone maritime din Marea Mediterană în perioada cuprinsă între trimestrul al patrulea al anului 2016 și primul trimestru al anului 2017. Serviciile oferite vor include punerea la dispoziție a unei platforme RPAS, a sarcinii utile, a echipamentelor de comunicare și a tuturor experților necesari pentru gestionarea sistemului și acordarea de asistență operațională.</P>
+</SHORT_DESCR>
+<AC_QUALITY>
+<AC_CRITERION>Punctajul pentru calitate</AC_CRITERION>
+<AC_WEIGHTING>60</AC_WEIGHTING>
+</AC_QUALITY>
+<AC_PRICE>
+<AC_WEIGHTING>40</AC_WEIGHTING>
+</AC_PRICE>
+<NO_OPTIONS/>
+<NO_EU_PROGR_RELATED/>
+<INFO_ADD>
+<P>Procedură anulată.</P>
+</INFO_ADD>
+</OBJECT_DESCR>
+</OBJECT_CONTRACT>
+<PROCEDURE>
+<PT_OPEN/>
+<ACCELERATED_PROC>
+<P>Frontex trebuie să suplimenteze sistemele de supraveghere deja implementate în operațiuni comune și în zonele prefrontaliere pentru ultimul trimestru al anului 2016 și primul trimestru al anului 2017, cu scopul de a permite o monitorizare permanentă eficace a frontierelor maritime luând în considerare imprevizibilitatea tendințelor viitoare. Frontex trebuie, de asemenea, să analizeze și să evalueze aeronava de supraveghere pilotată de la distanță din punctul de vedere al capacității acesteia de a oferi servicii de supraveghere a frontierelor maritime de mare anduranță, într-un mod fiabil, regulat și rentabil. Frontex intenționează să analizeze, ca sarcină atribuită în cadrul proiectului-pilot al pazei de coastă a Uniunii Europene, partajarea MALE REPAS utilizat în „misiuni polivalente multiagenție” de supraveghere a frontierelor maritime în contextul unei operațiuni reale.</P>
+</ACCELERATED_PROC>
+<NO_CONTRACT_COVERED_GPA/>
+<NOTICE_NUMBER_OJ>2016/S 208-376018</NOTICE_NUMBER_OJ>
+</PROCEDURE>
+<AWARD_CONTRACT ITEM="1">
+<TITLE>
+<P>Testarea sistemului de aeronave pilotate de la distanță (RPAS) pentru supravegherea aeriană a zonelor maritime</P>
+</TITLE>
+<NO_AWARDED_CONTRACT>
+<PROCUREMENT_UNSUCCESSFUL/>
+</NO_AWARDED_CONTRACT>
+</AWARD_CONTRACT>
+<COMPLEMENTARY_INFO>
+<ADDRESS_REVIEW_BODY>
+<OFFICIALNAME>Tribunalul</OFFICIALNAME>
+<ADDRESS>rue du Fort Niedergrünewald</ADDRESS>
+<TOWN>Luxembourg</TOWN>
+<POSTAL_CODE>2925</POSTAL_CODE>
+<COUNTRY VALUE="LU"/>
+<PHONE>+352 4303-1</PHONE>
+<E_MAIL>cfi.registry@curia.europa.eu</E_MAIL>
+<FAX>+352 4303-2100</FAX>
+<URL>http://curia.europa.eu</URL>
+</ADDRESS_REVIEW_BODY>
+<DATE_DISPATCH_NOTICE>2017-04-18</DATE_DISPATCH_NOTICE>
+</COMPLEMENTARY_INFO>
+</F03_2014>
+<F03_2014 CATEGORY="TRANSLATION" FORM="F03" LG="HR">
+<CONTRACTING_BODY>
+<ADDRESS_CONTRACTING_BODY>
+<OFFICIALNAME>Frontex — Agencija za europsku graničnu i obalnu stražu</OFFICIALNAME>
+<ADDRESS>Plac Europejski 6</ADDRESS>
+<TOWN>Warsaw</TOWN>
+<POSTAL_CODE>00-844</POSTAL_CODE>
+<COUNTRY VALUE="PL"/>
+<PHONE>+48 222059500</PHONE>
+<E_MAIL>procurement@frontex.europa.eu</E_MAIL>
+<FAX>+48 222059501</FAX>
+<NUTS CODE="PL127"/>
+<URL_GENERAL>www.frontex.europa.eu</URL_GENERAL>
+</ADDRESS_CONTRACTING_BODY>
+<CA_TYPE VALUE="EU_INSTITUTION"/>
+<CA_ACTIVITY VALUE="DEFENCE"/>
+</CONTRACTING_BODY>
+<OBJECT_CONTRACT>
+<TITLE>
+<P>Ispitivanje daljinski upravljanih zrakoplovnih sustava (RPAS) za pomorski zračni nadzor</P>
+</TITLE>
+<REFERENCE_NUMBER>Frontex/OP/694/2016/JL.</REFERENCE_NUMBER>
+<CPV_MAIN>
+<CPV_CODE CODE="60440000"/>
+</CPV_MAIN>
+<TYPE_CONTRACT CTYPE="SERVICES"/>
+<SHORT_DESCR>
+<P>Frontex želi nabaviti 8 blokova, svaki blok od 100 sati, usluga pomorskog zračnog nadzora, od kojih se 2 bloka mogu zahtijevati istovremeno, iz iste polazišne zračne luke, a 2 se bloka mogu zahtijevati uzastopno. Navedenu uslugu treba provesti upotrebom daljinski upravljanog zrakoplovnog sustava srednje visine duge istrajnosti (Medium Altitude Long Endurance Remotely Piloted Aircraft System – MALE RPAS) u područjima Sredozemnog mora koja je odredio Frontex unutar vremenskog okvira od 4. tromjesečja 2016. do 1. tromjesečja 2017.</P>
+</SHORT_DESCR>
+<NO_LOT_DIVISION/>
+<OBJECT_DESCR ITEM="1">
+<NUTS CODE="GR"/>
+<MAIN_SITE>
+<P>2 polazišne zračne luke nalazit će se u Grčkoj, a posebno određeno područje (Special Designated Area – SDA) bit će istočno i središnje Sredozemlje (provedba zrakoplovnih misija može obuhvatiti područja istočnog Sredozemlja i središnjeg Sredozemlja).</P>
+</MAIN_SITE>
+<SHORT_DESCR>
+<P>Ovim ugovorom Frontex želi nabaviti usluge pomorskog zračnog nadzora granica koje će se provoditi u posebnim pomorskim područjima u Sredozemnom moru od 4. tromjesečja 2016. do 1. tromjesečja 2017. Ponuđene usluge obuhvaćat će pružanje platforme RPAS, nosivost, komunikacijsku opremu te sve potrebne stručnjake koji upravljaju sustavom i pružaju operativnu podršku.</P>
+</SHORT_DESCR>
+<AC_QUALITY>
+<AC_CRITERION>Ocjena kvalitete</AC_CRITERION>
+<AC_WEIGHTING>60</AC_WEIGHTING>
+</AC_QUALITY>
+<AC_PRICE>
+<AC_WEIGHTING>40</AC_WEIGHTING>
+</AC_PRICE>
+<NO_OPTIONS/>
+<NO_EU_PROGR_RELATED/>
+<INFO_ADD>
+<P>Postupak je poništen.</P>
+</INFO_ADD>
+</OBJECT_DESCR>
+</OBJECT_CONTRACT>
+<PROCEDURE>
+<PT_OPEN/>
+<ACCELERATED_PROC>
+<P>Frontex treba nadopuniti sredstva nadzora koja već ima u zajedničkim operacijama i predgraničnim područjima za zadnje tromjesečje 2016. i prvo tromjesečje 2017. koja omogućuju učinkovito trajno praćenje pomorskih granica s obzirom na nepredvidive buduće trendove. Frontex također treba procijeniti i ocijeniti daljinski upravljan nadzorni zrakoplov u smislu njegove sposobnosti pružanja usluga nadzora pomorske granice visoke istrajnosti na pouzdan, redovit i isplativ način. Frontex želi procijeniti, kao dani zadatak u okviru pilot projekta obalne straže Europske unije, dijeljenje MALE RPAS-a primijenjenog u „višenamjenskim misijama nekoliko agencija” za pomorski nadzor granice u kontekstu stvarne operacije.</P>
+</ACCELERATED_PROC>
+<NO_CONTRACT_COVERED_GPA/>
+<NOTICE_NUMBER_OJ>2016/S 208-376018</NOTICE_NUMBER_OJ>
+</PROCEDURE>
+<AWARD_CONTRACT ITEM="1">
+<TITLE>
+<P>Ispitivanje daljinski upravljanih zrakoplovnih sustava (RPAS) za pomorski zračni nadzor</P>
+</TITLE>
+<NO_AWARDED_CONTRACT>
+<PROCUREMENT_UNSUCCESSFUL/>
+</NO_AWARDED_CONTRACT>
+</AWARD_CONTRACT>
+<COMPLEMENTARY_INFO>
+<ADDRESS_REVIEW_BODY>
+<OFFICIALNAME>Opći sud</OFFICIALNAME>
+<ADDRESS>rue du Fort Niedergrünewald</ADDRESS>
+<TOWN>Luxembourg</TOWN>
+<POSTAL_CODE>2925</POSTAL_CODE>
+<COUNTRY VALUE="LU"/>
+<PHONE>+352 4303-1</PHONE>
+<E_MAIL>cfi.registry@curia.europa.eu</E_MAIL>
+<FAX>+352 4303-2100</FAX>
+<URL>http://curia.europa.eu</URL>
+</ADDRESS_REVIEW_BODY>
+<DATE_DISPATCH_NOTICE>2017-04-18</DATE_DISPATCH_NOTICE>
+</COMPLEMENTARY_INFO>
+</F03_2014>
+</FORM_SECTION>
+</TED_EXPORT>
