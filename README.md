@@ -10,3 +10,11 @@ Code for my Artificial Intelligence Bachelor Thesis. I will analyse EU public pr
 │     └── sheets    # sheets listing tender award notices
 └── notebooks       # notebooks containing code for analysing the data
 ```
+
+TODO: 
+	- update this todo :P
+		- update file structure listing
+		- list required python modules
+	- Clean up code
+		- remove dead code
+		- Add comments to code, markdown and functions
