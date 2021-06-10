@@ -1,1144 +1,1741 @@
 {
     "files": {
-        "1347 - EN-Annex II - ToR.pdf": [
-            "Terms and Definitions",
-            "Objectives",
-            "Background",
-            "Stakeholders",
-            "Description of the current and target situation",
-            "Scope",
-            "General Requirements",
-            "Key Requirements",
-            "Offer",
-            "Implementation of the Contract",
-            "Appendices"
-        ],
-        "1415 - EN-Annex II_Terms of Reference_OP_87_2016_RS.pdf": [
-            "General Information",
-            "Requirements",
-            "Appendices"
-        ],
-        "1456 - EN-Annex II TOR-FWC-SPServices2016-19.pdf": [
-            "Terms and Definitions",
-            "Objectives",
-            "Background",
-            "Stakeholders",
-            "Context",
-            "Scope",
-            "General Requirements",
-            "Specific Requirements",
-            "Implementation of FWC",
-            "The tender",
-            "Evaluation",
-            "Appendices"
-        ],
-        "1507 - EN-Annex II - Terms of Reference.pdf": [
-            "Background Information",
-            "Requested Services",
-            "Relevant Information for the offered Contract",
-            "Shipping Forecast",
-            "Administrative Information"
-        ],
-        "1556 - EN-Annex II_Terms of Reference_OP_286_2016_RS.pdf": [
-            "Situation Monitoring and supporting IT systems",
-            "Scope and deliverable",
-            "Licenses and intellectual property rights (IPR)",
-            "Redistribution rights",
-            "Delivery timeframe",
-            "Acceptance Criteria",
-            "Appendix I to Annex II",
-            "Checklist for the technical requirement of the offer"
-        ],
+        "1347 - EN-Annex II - ToR.pdf": {
+            "sections": {
+                "Terms and Definitions": null,
+                "Objectives": null,
+                "Background": null,
+                "Stakeholders": null,
+                "Description of the current and target situation": null,
+                "Scope": null,
+                "General Requirements": null,
+                "Key Requirements": null,
+                "Offer": null,
+                "Implementation of the Contract": null,
+                "Appendices": null
+            },
+            "selected_sections": [
+                "s"
+            ]
+        },
+        "1415 - EN-Annex II_Terms of Reference_OP_87_2016_RS.pdf": {
+            "sections": {
+                "General Information": null,
+                "Requirements": null,
+                "Appendices": null
+            },
+            "selected_sections": [
+                "s"
+            ]
+        },
+        "1456 - EN-Annex II TOR-FWC-SPServices2016-19.pdf": {
+            "sections": {
+                "Terms and Definitions": null,
+                "Objectives": null,
+                "Background": null,
+                "Stakeholders": null,
+                "Context": null,
+                "Scope": null,
+                "General Requirements": null,
+                "Specific Requirements": null,
+                "Implementation of FWC": null,
+                "The tender": null,
+                "Evaluation": null,
+                "Appendices": null
+            },
+            "selected_sections": [
+                "s"
+            ]
+        },
+        "1507 - EN-Annex II - Terms of Reference.pdf": {
+            "sections": {
+                "Background Information": null,
+                "Requested Services": null,
+                "Relevant Information for the offered Contract": null,
+                "Shipping Forecast": null,
+                "Administrative Information": null
+            },
+            "selected_sections": [
+                "s"
+            ]
+        },
+        "1556 - EN-Annex II_Terms of Reference_OP_286_2016_RS.pdf": {
+            "sections": {
+                "Situation Monitoring and supporting IT systems": null,
+                "Scope and deliverable": null,
+                "Licenses and intellectual property rights (IPR)": null,
+                "Redistribution rights": null,
+                "Delivery timeframe": null,
+                "Acceptance Criteria": null,
+                "Appendix I to Annex II": null,
+                "Checklist for the technical requirement of the offer": null
+            },
+            "selected_sections": [
+                "s"
+            ]
+        },
         "_comment_1556": "All sections in this list are subsections in the text",
-        "1773 - EN-Annex II - Terms of Reference.pdf": [
-            "BACKGROUND INFORMATION",
-            "TECHNICAL DESCRIPTION",
-            "CONTRACT IMPLEMENTATION"
-        ],
-        "1871 - EN-Annex II_Terms_of_Reference_OP_580_2016_RS.pdf": [
-            "General Information",
-            "Scope",
-            "Required services",
-            "Acceptance criteria and ship visits",
-            "Contract Implementation",
-            "Appendixes"
-        ],
-        "1909 - EN-Annex II_Terms_of_Reference.pdf": [
-            "General Information",
-            "Scope",
-            "Required services",
-            "Acceptance criteria",
-            "Contract Implementation"
-        ],
-        "1919 - EN-Annex II_Terms of Reference_OP_625_2016_RS.pdf": [
-            "Situation Monitoring and supporting IT systems",
-            "Scope and deliverable",
-            "Licenses and intellectual property rights (IPR)",
-            "Delivery timeframe",
-            "Acceptance Criteria"
-        ],
-        "1964 - EN-Annex I - Tender Specifications.pdf": [
-            "Terms and Definitions",
-            "Scope and Objectives",
-            "Description of the Tender",
-            "Implementation",
-            "Terms of Reference",
-            "Award of the contract"
-        ],
-        "1972 - EN-Annex II - ToR - eSignature-2_001.pdf": [
-            "Terms and Definitions",
-            "Objectives",
-            "Background",
-            "Stakeholders",
-            "Current Situation",
-            "Scope",
-            "General Requirements",
-            "Key Requirements",
-            "Offer",
-            "Evaluation of the proposals",
-            "Implementation of the Contract",
-            "Appendices"
-        ],
+        "1773 - EN-Annex II - Terms of Reference.pdf": {
+            "sections": {
+                "BACKGROUND INFORMATION": null,
+                "TECHNICAL DESCRIPTION": null,
+                "CONTRACT IMPLEMENTATION": null
+            },
+            "selected_sections": [
+                "s"
+            ]
+        },
+        "1871 - EN-Annex II_Terms_of_Reference_OP_580_2016_RS.pdf": {
+            "sections": {
+                "General Information": null,
+                "Scope": null,
+                "Required services": null,
+                "Acceptance criteria and ship visits": null,
+                "Contract Implementation": null,
+                "Appendixes": null
+            },
+            "selected_sections": [
+                "s"
+            ]
+        },
+        "1909 - EN-Annex II_Terms_of_Reference.pdf": {
+            "sections": {
+                "General Information": null,
+                "Scope": null,
+                "Required services": null,
+                "Acceptance criteria": null,
+                "Contract Implementation": null
+            },
+            "selected_sections": [
+                "s"
+            ]
+        },
+        "1919 - EN-Annex II_Terms of Reference_OP_625_2016_RS.pdf": {
+            "sections": {
+                "Situation Monitoring and supporting IT systems": null,
+                "Scope and deliverable": null,
+                "Licenses and intellectual property rights (IPR)": null,
+                "Delivery timeframe": null,
+                "Acceptance Criteria": null
+            },
+            "selected_sections": [
+                "s"
+            ]
+        },
+        "1964 - EN-Annex I - Tender Specifications.pdf": {
+            "sections": {
+                "Terms and Definitions": null,
+                "Scope and Objectives": null,
+                "Description of the Tender": null,
+                "Implementation": null,
+                "Terms of Reference": null,
+                "Award of the contract": null
+            },
+            "selected_sections": [
+                "s"
+            ]
+        },
+        "1972 - EN-Annex II - ToR - eSignature-2_001.pdf": {
+            "sections": {
+                "Terms and Definitions": null,
+                "Objectives": null,
+                "Background": null,
+                "Stakeholders": null,
+                "Current Situation": null,
+                "Scope": null,
+                "General Requirements": null,
+                "Key Requirements": null,
+                "Offer": null,
+                "Evaluation of the proposals": null,
+                "Implementation of the Contract": null,
+                "Appendices": null
+            },
+            "selected_sections": [
+                "s"
+            ]
+        },
         "_comment_1972": "Description of the current and target situation --> Current Situtation (is subsection), because else the section can't be found.",
-        "2062 - EN-Annex II - TS_ENG.pdf": [
-            "Scope",
-            "Voice and data services",
-            "Phones and tablets"
-        ],
-        "2078 - EN-Annex II Terms_of_reference.pdf": [
-            "General Information",
-            "Scope",
-            "Required services",
-            "Acceptance criteria",
-            "Contract Implementation"
-        ],
-        "2102 - EN-Annex II_Terms of Reference_OP_979_2016_RS.pdf": [
-            "General Information",
-            "Scope",
-            "Required services",
-            "Acceptance criteria and ship visits",
-            "Contract Implementation",
-            "Appendixes"
-        ],
-        "2223 - EN-Annex II_TOR_726.pdf": [
-            "Terms and Definitions",
-            "Objectives",
-            "Background",
-            "Stakeholders",
-            "Context",
-            "Scope",
-            "General Requirements",
-            "Specific Requirements",
-            "Implementation of FWC",
-            "Proposal",
-            "Evaluation",
-            "Appendices"
-        ],
-        "2323 - EN-Annex I - Additiona Information to Candidates_159.pdf": [
-            "General Information on Frontex",
-            "Selected procedure: restricted procedure",
-            "Eligibility",
-            "Penalties",
-            "Legal form to be taken by the group of economic operators to whom the contract is to be awarded:",
-            "Other particular conditions",
-            "Sub-contracting",
-            "Cost of preparing applications",
-            "Misrepresentation and corruptive practices",
-            "Confidentiality and public access to documents",
-            "Subject of the tender",
-            "Variants",
-            "Type of contract",
-            "Location and duration",
-            "Form and content of the application",
-            "Evaluation of applications",
-            "Exclusion Criteria",
-            "Selection Criteria",
-            "Opening of the requests to participate",
-            "Assessment of the candidatures"
-        ],
-        "_comment_2323": "All sections are subsections, because it's all contained in two quite nondescript main sections.",
-        "2367 - EN-Annex II_Terms of Reference_OP_141_2017_RS.pdf": [
-            "Background",
-            "Objectives of the tender",
-            "Scope",
-            "Area of Interest (AOI)",
-            "List of Deliverables",
-            "Scope of the obligatory tasks & services",
-            "Additional tasks & services - non-functional requirements",
-            "Contract implementation",
-            "Prices",
-            "Appendixes"
-        ],
-        "2377 - EN-Annex II_ToR_250.pdf": [
-            "General Information",
-            "Objectives",
-            "Required deliverables",
-            "Contract Implementation",
-            "Appendixes"
-        ],
-        "2558 - EN-Annex II Terms of Reference.pdf": [
-            "Acronyms and Definitions",
-            "Introduction to Frontex",
-            "Subject",
-            "Description of the assignment and lots",
-            "Minimum technical requirements",
-            "Quality and acceptance criteria",
-            "Implementation of FWC"
-        ],
-        "2570 - EN-Annex II Technical specifications amended.pdf": [
-            "Specific information",
-            "Ordering and delivery"
-        ],
-        "2641 - EN-Annex II Technical specifications.pdf": [
-            "General information",
-            "Scope of services",
-            "Requirements"
-        ],
-        "2662 - EN-Annex II Terms of Reference.pdf": [
-            "General information",
-            "Contract implementation",
-            "Underperformance",
-            "Obligation to perform"
-        ],
-        "2769 - EN-Annex II ToR Catania.pdf": [
-            "BACKGROUND INFORMATION",
-            "TECHNICAL DESCRIPTION",
-            "PAYMENTS AND INVOICING"
-        ],
-        "2799 - EN-Annex II_ToR_OP_638_2017_RS.pdf": [
-            "GENERAL INFORMATION ABOUT FRONTEX",
-            "BACKGROUND",
-            "DESCRIPTION OF THE ASSIGNMENT",
-            "TYPE OF CONTRACT",
-            "DEFINITIONS",
-            "SERVICES TO BE DELIVERED",
-            "DELIVERABLES",
-            "PROFFESSIONAL PROFILES AND EXPERTISE",
-            "TECHNICAL RESOURCES",
-            "PROJECT MANAGEMENT"
-        ],
-        "2897 - EN-Annex II_Terms of Reference.pdf": [
-            "Acronyms, Terms and Definitions",
-            "Background",
-            "Purpose and scope",
-            "Description of services and deliverables"
-        ],
-        "2906 - EN-Annex II_Terms of Reference_796.pdf": [
-            "Acronyms",
-            "Introduction to Frontex",
-            "General Information",
-            "Scope of the FWC and Lots",
-            "Minimal Technical requirements",
-            "Delivery, training, warranty and maintenance",
-            "Quality monitoring and acceptance procedures",
-            "Implementation of FWC"
-        ],
-        "2942 - EN-Annex II  Terms of reference.pdf": [
-            "General Information",
-            "Aim of the contract",
-            "Required deliverables",
-            "Contract Implementation",
-            "Appendixes"
-        ],
-        "2945 - EN-Annex I - Tender Specifications.pdf": [
-            "Terms and Definitions",
-            "Scope and Objectives",
-            "Introduction to Frontex",
-            "Description of the Tender",
-            "Implementation",
-            "Terms of Reference",
-            "Award of the contract"
-        ],
-        "2947 - EN-Annex II Terms of reference amended.pdf": [
-            "Introduction",
-            "The Problem",
-            "General description",
-            "Service to be evaluated",
-            "Contract implementation",
-            "Deliverables",
-            "Quality requirements",
-            "Experts",
-            "Reporting and Meetings",
-            "Intellectual property rights and Disclaimer"
-        ],
-        "2949 - EN-Annex II_ToR Deployable facilities ENG.pdf": [
-            "General Information",
-            "Background information",
-            "Scope",
-            "Required services",
-            "Contract Implementation",
-            "Appendixes"
-        ],
-        "2956 - EN-Annex II_Terms_of_Reference_OP_852_2017_RS.pdf": [
-            "Acronyms and Definitions",
-            "Introduction to Frontex",
-            "Subject",
-            "Description of the assignment",
-            "Minimum technical requirements",
-            "Quality monitoring and acceptance procedures",
-            "Implementation of FWC"
-        ],
-        "2958 - EN-Annex II_841_Terms of reference.pdf": [
-            "LIST OF ABBREVIATIONS",
-            "FRONTEX AND ITS MISSION",
-            "BORDER AND COAST GUARD TRAINING",
-            "FRONTEX’ STRATEGIC OBJECTIVES IN THE FIELD OF TRAINING AND EDUCATION OF BORDER GUARDS",
-            "FRONTEX TRAINING",
-            "CURRENT SITUATION AND THE NEED OF THE EXTERNAL SERVICES",
-            "DESCRIPTION OF THE ASSIGNMENT",
-            "REQUESTED SERVICES",
-            "DELIVERABLES/EXPECTED RESULTS:",
-            "DEADLINES",
-            "SERVICE REQUIREMENTS",
-            "LOCATION AND DURATION"
-        ],
-        "2978 - EN-Annex II ToR.pdf": [
-            "Description of the services required",
-            "Acceptance criteria",
-            "Contractual Information and Requirements",
-            "Methodologies, best practices and standards",
-            "Transparency and handover",
-            "Language",
-            "Proposal",
-            "Technical Proposal"
-        ],
-        "2998 - EN-Annex II  Terms of reference.pdf": [
-            "Nature and object of the contract",
-            "Frontex premises",
-            "Current situation",
-            "Paint",
-            "Volume of work",
-            "Organization of work",
-            "Scope of services",
-            "Contractor’s liability and additional information"
-        ],
-        "3034 - EN-Annex II part A - ToR - List of equipment.pdf": [
-            "Introduction",
-            "Equipment to be supported with reactive and proactive services",
-            "Equipment to be supported with proactive services"
-        ],
-        "3058 - EN-Annex II Technical specifications amended.pdf": [
-            "Subject",
-            "Frontex premises and staff growth",
-            "Interior design concept",
-            "Layouts",
-            "Quantities to be delivered",
-            "Delivery and installation",
-            "Insurance and liability for damages",
-            "Project management",
-            "Warranty",
-            "Post-sales services",
-            "Quality requirements"
-        ],
-        "3080 - EN-Annex II - ToR.pdf": [
-            "Background and context",
-            "Description of the tender",
-            "Administrative Information"
-        ],
-        "3346 - EN-Annex II_Terms of Reference.pdf": [
-            "Acronyms and Definitions",
-            "Introduction to Frontex",
-            "General Information",
-            "Scope of the FWC and Lots",
-            "Minimal technical requirements",
-            "Delivery, training, warranty and maintenance",
-            "Quality monitoring and acceptance procedures",
-            "Implementation of FWC"
-        ],
-        "3361 - EN-Annex 1 - Tender Specifications.pdf": [
-            "Terms and Definitions",
-            "Background",
-            "Objectives",
-            "Introduction to Frontex",
-            "Introduction to European Fishery Control Agency - EFCA",
-            "Description of the Tender",
-            "Implementation of FWC",
-            "Terms of Reference",
-            "Award of the contract"
-        ],
-        "3379 - EN-Annex II_Terms_of_Reference_OP_318_2018_RS.pdf": [
-            "Acronyms and Definitions",
-            "Introduction to Frontex",
-            "Subject",
-            "Description of the assignment",
-            "Minimum technical requirements",
-            "Quality monitoring and acceptance procedures",
-            "Implementation of FWC"
-        ],
-        "3414 - EN-Annex II  Terms of reference.pdf": [
-            "Nature and object of the contract",
-            "Frontex premises",
-            "Current situation",
-            "Paint",
-            "Volume of work",
-            "Organization of work",
-            "Scope of services",
-            "Contractor’s liability and additional information"
-        ],
-        "3434 - EN-Annex II ToR OPERA ver4.pdf": [
-            "Terms and definitions",
-            "Objectives",
-            "Background",
-            "Stakeholders",
-            "Context",
-            "Scope",
-            "General requirements",
-            "Specific requirements",
-            "Implementation of the Contract",
-            "Appendices"
-        ],
-        "3437 - EN-Annex II_ToR Deployable facilities 386.pdf": [
-            "General Information",
-            "Background information",
-            "Scope",
-            "Required services",
-            "Contract Implementation",
-            "Appendixes"
-        ],
-        "3751 - EN-Annex II Terms of Reference (corrected after QA).pdf": [
-            "BACKGROUND",
-            "SCOPE OF THE PROJECT:",
-            "GENERAL INFORMATION",
-            "BUSINESS OBJECTIVE:",
-            "DELIVERABLES:",
-            "POINTS OF CONTACT WITHIN FRONTEX:",
-            "PLANNED TIMING:",
-            "ADDITIONAL INFORMATION"
-        ],
-        "3860 - EN-Annex II_Terms of Referenece_OP_241_2018_DT.pdf": [
-            "General Information",
-            "Objective and aim of the contract",
-            "Required deliverables",
-            "Contract Implementation",
-            "Appendixes"
-        ],
-        "3868 - EN-Annex II Technical specifications.pdf": [
-            "Scope of contract",
-            "Quantities",
-            "Deliveries",
-            "Contract manager",
-            "Additional requirements"
-        ],
-        "3934 - EN-Annex II_Terms_of_Reference_OP_810_2018_RS.pdf": [
-            "Acronyms and Definitions",
-            "Introduction to Frontex",
-            "Subject",
-            "Description of the assignment",
-            "Minimum technical requirements",
-            "Prices and payment"
-        ],
-        "3939 - EN-Annex II Technical specifications.pdf": [
-            "Subject",
-            "Deliveries",
-            "Contract Manager",
-            "Items and quantities covered by the contract",
-            "Contract implementation"
-        ],
-        "3940 - EN-Annex II_ToR_OP_720_2018_RS.pdf": [
-            "Background Information",
-            "Required Tasks/Services",
-            "Deliverables",
-            "Schedule",
-            "Proposals",
-            "Appendices"
-        ],
-        "3942 - EN-Annex II_Terms of Reference_OP_735_2018_RS.pdf": [
-            "Risk analysis and supporting IT systems",
-            "Scope and deliverables",
-            "Delivery timeframe",
-            "Acceptance Criteria"
-        ],
-        "3999 - EN-Annex II Terms of reference.pdf": [
-            "Table of Contents",
-            "Background information",
-            "Services required",
-            "Contract implementation"
-        ],
-        "4005 - EN-Annex II Terms of Reference FWC Courier services.pdf": [
-            "General Information",
-            "Requested services",
-            "Shipping forecast",
-            "Frontex Contact for Contractor"
-        ],
-        "4030 - EN-Annex II - ToR.pdf": [
-            "Introduction",
-            "The Problem",
-            "Participation in the tender procedure",
-            "General Description",
-            "Budget",
-            "Assignment",
-            "Deliverables",
-            "Venue",
-            "Working environment and conditions",
-            "Experts description",
-            "Reporting and Meetings"
-        ],
-        "4033 - EN-Annex II - ToR.pdf": [
-            "NATURE AND SUBJECT OF THE CONTRACT",
-            "BACKGROUND INFORMATION",
-            "DESCRIPTION OF REQUIRED SERVICES"
-        ],
-        "4038 - EN-Annex I - Tender Specifications.pdf": [
-            "Terms and Definitions",
-            "Background",
-            "Objectives",
-            "Introduction to Frontex",
-            "Introduction to European Fisheries Control Agency - EFCA",
-            "Description of the Tender",
-            "Implementation of FWC",
-            "Terms of Reference",
-            "Award of the contract"
-        ],
-        "4052 - EN-Annex II Terms of Reference.pdf": [
-            "General information",
-            "Scope of the services",
-            "Ordering and invoicing"
-        ],
-        "4118 - EN-Annex II_Terms of Reference_OP_795_2018_RS.pdf": [
-            "Acronyms",
-            "Introduction to Frontex",
-            "General Information",
-            "Scope of the FWC and Lots",
-            "Minimum technical requirements",
-            "Delivery, training, warranty and maintenance",
-            "Quality monitoring and acceptance procedures",
-            "Implementation of FWC"
-        ],
-        "4134 - EN-Annex II_Terms of Reference_OP_1231_2018_RS.pdf": [
-            "GENERAL INFORMATION ABOUT FRONTEX",
-            "BACKGROUND",
-            "SUBJECT OF THE CONTRACT",
-            "TYPE OF CONTRACT",
-            "DESCRIPTION OF TASKS",
-            "HUMAN RESOURCES",
-            "TECHNICAL RESOURCES",
-            "DELIVERABLES",
-            "ESTIMATED AMOUNT OF WORK",
-            "PROJECT MANAGEMENT"
-        ],
-        "4186 - EN-Annex II_Terms of Reference_OP_1262_2018_RS.pdf": [
-            "Risk analysis and supporting IT systems",
-            "Scope and deliverables",
-            "Delivery timeframe",
-            "Acceptance Criteria"
-        ],
-        "4255 - EN-Annex II Terms of Reference.pdf": [
-            "General information",
-            "Scope of the services",
-            "Requirements in regards to the Travel Agency",
-            "Reporting and Quality Monitoring",
-            "Underperformance",
-            "Communication language"
-        ],
-        "4333 - EN-Annex II Terms of reference.pdf": [
-            "Table of Contents",
-            "Background information",
-            "Services required",
-            "Contract implementation"
-        ],
-        "4425 - EN-Annex II_Terms of Reference_OP_1164_2018_RS.pdf": [
-            "Acronyms",
-            "Introduction to Frontex",
-            "Subject",
-            "General Requirements",
-            "Implementation of FWC (applicable to all Lots)"
-        ],
-        "4428 - EN-Annex II_Terms of Reference_OP_33_2019_RS.pdf": [
-            "Background",
-            "Purpose",
-            "Scope",
-            "Description of services",
-            "Conditions for service delivery",
-            "Acceptance criteria and ship visits",
-            "Contract Implementation",
-            "Appendixes"
-        ],
-        "4492 - EN-ANNEX I Tender specifications_EN.pdf": [
-            "General Information",
-            "Specific Information",
-            "Evaluation of offers"
-        ],
-        "4538 - EN-Annex II Terms of Reference_OP_1417_2018_DT.pdf": [
-            "Acronyms and Definitions",
-            "Background",
-            "Subject",
-            "Description of the services",
-            "Minimum quality requirements",
-            "Contract management personnel",
-            "Safety & Security Requirements",
-            "Quality and Acceptance criteria",
-            "Implementation of Framework Contract",
-            "Indicative Budget",
-            "Prices and payments",
-            "Underperformance, Language and Cancellation Policy",
-            "List of Appendixes"
-        ],
-        "4558 - EN-Annex II_Terms of Reference_OP_1499_2018_RS.pdf": [
-            "Background and context",
-            "Description and Scope of the tender"
-        ],
-        "4612 - EN-Annex II Terms of reference.pdf": [
-            "Background information",
-            "Contract objective",
-            "Staff",
-            "Technical arrangements",
-            "Transportation arrangements",
-            "Hotel accommodation arrangements",
-            "Car rental arrangements",
-            "Assistance in obtaining visas",
-            "Hotline services",
-            "Information management",
-            "Contract implementation"
-        ],
-        "4688 - EN-Annex II Terms of Reference final.pdf": [
-            "Acronyms, Terms and Definitions",
-            "Background",
-            "Purpose and scope",
-            "Description of services and deliverables",
-            "Prices and payment"
-        ],
-        "4735 - EN-Annex II - Terms of Reference.pdf": [
-            "General Information",
-            "Background information",
-            "Scope",
-            "Required mandatory services",
-            "Contract Implementation",
-            "Appendixes"
-        ],
-        "4738 - EN-Annex II Terms of Reference.pdf": [
-            "Acronyms, Terms and Definitions",
-            "Introduction to Frontex",
-            "Subject",
-            "Description of services to be provided - mandatory requirements",
-            "Implementation of FWC Requirements"
-        ],
-        "5049 - EN-Annex II Terms of Reference.pdf": [
-            "Background information",
-            "Scope of contract",
-            "Place of performance",
-            "Language requirements",
-            "Security",
-            "Number and duration of events",
-            "Number of participants",
-            "Equipment",
-            "Profile of interpreters",
-            "Replacement of interpreters",
-            "Coordination",
-            "Costs",
-            "Implementation of the framework contract",
-            "Cancellations and changes in the orders"
-        ],
-        "5051 - EN-Annex II Terms of reference.pdf": [
-            "Background information",
-            "Contractual information",
-            "Scope of the contract",
-            "Contract implementation",
-            "Protection of personal data",
-            "Working arrangement of interim personnel including public holidays",
-            "Temporary absence of the interim personnel and replacement procedures",
-            "Dress code and a code of conduct of interim personnel",
-            "Contact person",
-            "Rights and entitlements"
-        ],
-        "5176 - EN-Annex II ToR 679_2019.pdf": [
-            "General Information",
-            "Background information",
-            "Scope",
-            "Required mandatory services",
-            "Contract Implementation",
-            "Appendixes"
-        ],
-        "5186 - EN-Annex II_Terms of Reference_OP_221_2019_RS.pdf": [
-            "Acronyms",
-            "Introduction to Frontex",
-            "General Information",
-            "Scope of the FWC",
-            "Minimal Technical requirements - Heart Beat Detectors (HBD)",
-            "Delivery, training, warranty and maintenance",
-            "Quality monitoring and acceptance procedures",
-            "Implementation of FWC"
-        ],
-        "5257 - EN-Annex II_Terms of Reference_OP_48_2019_RS.pdf": [
-            "Acronyms",
-            "Introduction to Frontex",
-            "General Information",
-            "Scope of the FWC and Lots",
-            "Minimum technical requirements",
-            "Delivery, training, warranty and maintenance",
-            "Quality monitoring and acceptance procedures",
-            "Implementation of FWC"
-        ],
-        "5317 - EN-Annex II Terms of reference.pdf": [
-            "Terms and Definitions",
-            "Subject and General Information",
-            "Scope of Services",
-            "General requirements"
-        ],
-        "5334 - EN-Annex II Terms of reference.pdf": [
-            "Background information",
-            "Contractual information",
-            "Scope of the contract",
-            "Contract implementation",
-            "Protection of personal data",
-            "Working arrangement of interim personnel including public holidays",
-            "Temporary absence of the interim personnel and replacement procedures",
-            "Dress code and a code of conduct of interim personnel",
-            "Contact person",
-            "Rights and entitlements"
-        ],
-        "5352 - EN-Annex II - OP300 TOR v.2.pdf": [
-            "Terms and Definitions",
-            "Objectives",
-            "Background",
-            "Stakeholders",
-            "Description of the current and target states",
-            "Scope",
-            "General Requirements",
-            "Specific Requirements",
-            "Implementation of FWC",
-            "Appendices"
-        ],
-        "5357 - EN-Annex II Terms of Reference 561_2019.pdf": [
-            "Acronyms and Definitions",
-            "Background",
-            "Subject",
-            "Description of the services/ Lots",
-            "Subject of the Framework contract",
-            "Minimum Requirements",
-            "Implementation of the Framework Contract",
-            "Indicative Budget",
-            "Payments Terms",
-            "Administrative information",
-            "List of Appendixes"
-        ],
-        "5360 - EN-Annex II - Terms of Reference OP308.pdf": [
-            "Terms and definitions",
-            "General Information",
-            "Scope of Services",
-            "Specific Requirements",
-            "General requirements",
-            "Appendices"
-        ],
-        "5405 - EN-Annex II_Terms of Reference.pdf": [
-            "Acronyms and Definitions",
-            "Introduction to Frontex",
-            "Subject",
-            "Description of the assignment",
-            "Minimum technical requirements",
-            "Quality and acceptance criteria",
-            "Implementation of FWC"
-        ],
-        "5444 - EN-Annex I - Tender Specifications.pdf": [
-            "Terms and Definitions",
-            "Scope and Objectives",
-            "Introduction to Frontex",
-            "Description of the Tender",
-            "Implementation",
-            "Terms of Reference",
-            "Award of the contract"
-        ],
-        "5471 - EN-Annex II Terms of Reference_OP_534_2019_DT.pdf": [
-            "Background",
-            "Description of services",
-            "Contract management personnel",
-            "Minimum quality requirements",
-            "Safety & Security Requirements",
-            "Implementation of Framework Contract",
-            "Intellectual property rights",
-            "Confidentiality and public access to documents",
-            "Indicative Budget",
-            "Language",
-            "Other",
-            "List of Appendixes"
-        ],
-        "5489 - EN-Annex II ToR 1142_2019.pdf": [
-            "General Information",
-            "Background information",
-            "Scope",
-            "Required mandatory services",
-            "Contract Implementation",
-            "Appendixes"
-        ],
-        "5600 - EN-Annex II Terms of Reference.pdf": [
-            "General Information",
-            "Subject and Background",
-            "Acceptance and payments",
-            "General Requirements",
-            "Implementation of the FWC"
-        ],
-        "5628 - EN-Annex II - TOR.pdf": [
-            "BACKGROUND",
-            "DESCRIPTION OF THE ASSIGNMENT",
-            "REQUESTED SERVICES",
-            "DELIVERABLES/EXPECTED RESULTS:",
-            "SERVICE REQUIREMENTS",
-            "LOCATION AND DURATION",
-            "DATA PROTECTION",
-            "IMPLEMENTATION OF THE FWC",
-            "ACCEPTANCE CRITERIA",
-            "SERVICE LEVEL AGREEMENT"
-        ],
-        "5720 - EN-Annex II Terms of Reference.pdf": [
-            "Acronyms and definitions",
-            "Introduction to Frontex",
-            "Subject",
-            "Required Deliverables",
-            "Implementation of FWC",
-            "Quality monitoring and acceptance procedures",
-            "List of Appendixes"
-        ],
-        "5835 - EN-Annex II Technical specifications.pdf": [
-            "Product specification and quality standards",
-            "Estimated quantities",
-            "Packaging",
-            "Delivery",
-            "Invoicing"
-        ],
-        "5841 - EN-Annex II Terms of reference.pdf": [
-            "Introduction and background information",
-            "Scope of the services",
-            "Contractor’s staff",
-            "Replacement",
-            "Language",
-            "Contract implementation",
-            "Payments",
-            "List of appendixes:"
-        ],
-        "5928 - EN-Annex I - Additiona Information to Candidates_final.pdf": [
-            "General Information on Frontex",
-            "Selected procedure: restricted procedure",
-            "Eligibility",
-            "Penalties",
-            "Legal form to be taken by the group of economic operators to whom the contract is to be awarded:",
-            "Other particular conditions",
-            "Sub-contracting",
-            "Cost of preparing applications",
-            "Misrepresentation and corruptive practices",
-            "Confidentiality and public access to documents",
-            "Subject of the tender",
-            "Background",
-            "Description",
-            "Timeline",
-            "Budget",
-            "Variants",
-            "Type of contract",
-            "Location and duration",
-            "Form and content of the application",
-            "Evaluation of applications",
-            "Exclusion Criteria",
-            "Selection Criteria",
-            "Opening of the requests to participate",
-            "Assessment of the candidatures"
-        ],
-        "5963 - EN-Annex II-OP301 Terms of Reference.pdf": [
-            "Terms and definitions",
-            "Objectives",
-            "Description of the service coverage",
-            "Mode of supply of services",
-            "General requirements",
-            "Personnel",
-            "Implementation of FWC",
-            "Appendices"
-        ],
-        "6020 - EN-Annex I-Guide for Candidates RP1485 ver.4.pdf": [
-            "Summary",
-            "Terms, acronyms and abbreviations",
-            "General information",
-            "Specific information",
-            "Assessment of candidatures",
-            "List of Profiles",
-            "References"
-        ],
-        "6300 - EN-Annex II ToR_213.pdf": [
-            "General objective",
-            "Contractual scope and division into lots",
-            "Contract Signature and duration",
-            "Language requirements",
-            "Native speakers",
-            "Placement tests",
-            "Group level",
-            "Reporting",
-            "Course Plan",
-            "Certificate of completion",
-            "Testing",
-            "Frontex’ right to influence the course",
-            "Replacement of teachers",
-            "Cancellations",
-            "Timing of the classes",
-            "Group size",
-            "Number of the groups",
-            "Terms",
-            "Learning materials",
-            "Place of provision of services",
-            "Course coordinator",
-            "Assistance in preparation to internationally recognized exams"
-        ],
-        "6323 - EN-Annex II_Terms_of_Reference 91_2020.pdf": [
-            "Acronyms, Terms and Definitions",
-            "Introduction to Frontex",
-            "Subject",
-            "Scope of the Contract",
-            "Scope of requested services",
-            "Indicative Budget",
-            "Implementation of FWC Requirements"
-        ],
-        "6428 - EN-Annex II Terms of Reference.pdf": [
-            "Background information",
-            "Objective and scope of the contract",
-            "Place of delivery",
-            "Services covered by the contractor",
-            "Specific requirements by the contractor",
-            "Place of delivery"
-        ],
-        "6460 - EN-Annex II Technical specifications.pdf": [
-            "Acronyms and Definitions",
-            "Introduction to Frontex",
-            "General Information",
-            "Scope of the FWC and Lots",
-            "Minimal technical requirements",
-            "Delivery, training, warranty and maintenance",
-            "Quality monitoring and acceptance procedures",
-            "Implementation of FWC"
-        ],
-        "6900 - EN-2. Annex 02_Terms of Reference 451_2020.pdf": [
-            "General Information",
-            "Subject and Background",
-            "Specific Requirements",
-            "General Requirements",
-            "Implementation of the FWC"
-        ],
-        "6954 - EN-Annex II_1 Terms of Reference EES Land Bulgaria.pdf": [
-            "Background and context",
-            "Objectives",
-            "Requirements",
-            "Work plan and methodology"
-        ],
-        "6982 - EN-Annex 02_ToR TF Biometrics for Future of Travel.pdf": [
-            "General Information",
-            "Subject and Background",
-            "Specific Requirements",
-            "General Requirements",
-            "Implementation of the Contract"
-        ],
-        "7009 - EN-Annex II Terms of Reference.pdf": [
-            "Background Information",
-            "Scope and deliverables",
-            "Acceptance Criteria",
-            "Language",
-            "Ordering and Payments",
-            "Appendices"
-        ],
-        "7024 - EN-Annex II_Technical Specifications.pdf": [
-            "Terms and Definitions",
-            "General Information",
-            "Scope of the FWC",
-            "Other information",
-            "Implementation of FWC",
-            "Appendixes"
-        ],
-        "7106 - EN-Annex II Terms of Reference.pdf": [
-            "Terms and Definitions",
-            "Abbreviations",
-            "Background",
-            "Executive summary",
-            "Service Business Model requirements",
-            "Technical requirements",
-            "Language",
-            "Documentation and record retention",
-            "Acceptance criteria",
-            "Test Campaign"
-        ],
-        "7133 - EN-Annex I - Information to Candidates.pdf": [
-            "General Information on Frontex",
-            "Selected procedure: restricted procedure",
-            "Eligibility",
-            "Penalties",
-            "Legal form to be taken by the group of economic operators to whom the contract is to be awarded:",
-            "Other particular conditions",
-            "Sub-contracting",
-            "Cost of preparing applications",
-            "Misrepresentation and corruptive practices",
-            "Confidentiality and public access to documents",
-            "Subject of the tender",
-            "Background",
-            "Description",
-            "Timeline",
-            "Budget",
-            "Variants",
-            "Type of contract",
-            "Location and duration",
-            "Form and content of the application",
-            "Evaluation of applications",
-            "Exclusion Criteria",
-            "Selection Criteria",
-            "Opening of the requests to participate",
-            "Assessment of the candidatures"
-        ],
-        "7148 - EN-Annex II Terms of Reference Aerostat 2.pdf": [
-            "Introduction",
-            "The Problem",
-            "Participation in the tender procedure",
-            "General Description",
-            "Budget",
-            "Assignment",
-            "Deliverables",
-            "Venue",
-            "Working environment and conditions",
-            "Experts description",
-            "Reporting and Meetings"
-        ],
-        "7191 - EN-Annex II_Terms of Reference_OP_658_2020_RS_final.pdf": [
-            "Definitions",
-            "General Information",
-            "Scope",
-            "Subject",
-            "Description of the assignment",
-            "Requirements",
-            "Minimum technical requirements",
-            "Technical maintenance for LOT 1 and 2",
-            "Quality monitoring and acceptance",
-            "Implementation of FWC"
-        ],
-        "7202 - EN-2. Annex II_Terms of Reference_OP_551_2020.pdf": [
-            "Acronyms and definitions",
-            "Introduction to Frontex",
-            "Subject",
-            "Required Deliverables",
-            "Implementation of FWC",
-            "Quality monitoring and acceptance procedures"
-        ],
-        "7243 - EN-Annex II Terms of Reference.pdf": [
-            "Overview",
-            "General Terms",
-            "Duration",
-            "Language",
-            "Scope",
-            "Composition of the support team",
-            "Replacement of experts",
-            "Reporting"
-        ],
-        "7508 - EN-Annex II_Terms of Reference_OP_767_202_RS.pdf": [
-            "Acronyms",
-            "Subject",
-            "General Requirements",
-            "Implementation of the contract"
-        ],
-        "7521 - EN-Annex II Technical Specifications_001.pdf": [
-            "Acronyms and Definitions",
-            "Introduction to Frontex",
-            "General Information",
-            "Scope of the FWC and Lots",
-            "Minimal technical requirements",
-            "Delivery, training, warranty and maintenance",
-            "Quality monitoring and acceptance procedures",
-            "Implementation of FWC"
-        ],
-        "7547 - EN-Annex II - Technical Specifications.pdf": [
-            "Acronyms",
-            "Introduction to Frontex",
-            "General Information",
-            "Drone, payloads and other equipment",
-            "Contract Implementation"
-        ],
-        "7773 - EN-OP748 Annex II - Terms of Reference.pdf": [
-            "Terms and Definitions",
-            "Subject and General Information",
-            "Scope of Services",
-            "General requirements",
-            "Implementation of FWC"
-        ],
-        "7863 - EN-Annex II_ToR and Technical Specifications 2020_0058 Service Weapons.pdf": [
-            "Acronyms, Terms and Definitions",
-            "Purpose and scope",
-            "Description of deliverables",
-            "Performance of FWC",
-            "Deliverables acceptance procedure",
-            "Acronyms, Terms and Definitions",
-            "LOT 1 - Compact 9x19 mm semi-automatic pistol, accessories and training",
-            "LOT 2 – Ammunition"
-        ],
-        "7884 - EN-Annex II TOR.pdf": [
-            "Objective of the contract",
-            "Information on Frontex facilities",
-            "Starting date",
-            "Scope of the contract",
-            "Contractor’s personnel"
-        ],
-        "8054 - EN-Annex II_Technical Specifications_OP_50_2021_RS_final.pdf": [
-            "General Information",
-            "Introduction to Frontex",
-            "General Information",
-            "Minimal technical requirements",
-            "Delivery and Training (applicable for both Lots)",
-            "Quality monitoring and acceptance procedures",
-            "Implementation of FWC"
-        ],
-        "8275 - EN-Annex II Terms of Reference 2021_0143.pdf": [
-            "INTRODUCTION",
-            "PURPOSE",
-            "OBJECTIVE",
-            "DESCRIPTION OF THE SERVICES AND DELIVERABLES",
-            "Location for test administration",
-            "Location for Contacts Tracing",
-            "Service Delivery Timeframe",
-            "Composition and responsibilities of healthcare professionals of the contractor",
-            "Data Protection applicable to both Lots",
-            "Maximum value of the FWC",
-            "Language",
-            "Duration of the contract for service delivery",
-            "FWC implementation",
-            "Payment and invoicing",
-            "Appendix 1 – Acceptance Form"
-        ],
-        "8294 - EN-Annex II - Terms of Reference.pdf": [
-            "Terms and definitions",
-            "Objectives",
-            "Background",
-            "Description of the service coverage",
-            "Mode of supply of services",
-            "General requirements",
-            "Personnel",
-            "Implementation of FWC",
-            "Appendices"
-        ],
-        "8314 - EN-Annex II_Terms of Reference_OP_234_2021_RS.pdf": [
-            "Acronyms and Definitions",
-            "Background",
-            "Subject",
-            "Description of the services",
-            "Minimum Quality and Functional Requirements",
-            "Frontex data management and dissemination",
-            "Compliancy with EU Data Protection Regulation",
-            "Intellectual property rights",
-            "Confidentiality and classification",
-            "Copernicus programme",
-            "Contract implementation",
-            "Quality and Acceptance criteria",
-            "Underperformance and cancellation",
-            "List of Appendixes"
-        ],
-        "8422 - EN-Annex II_ToR.pdf": [
-            "Terms and definitions",
-            "Objectives",
-            "Scope of the procurement",
-            "Scope of Work",
-            "General Requirements",
-            "Specific Requirements",
-            "Appendices"
-        ],
-        "8429 - EN-Annex II_Terms of Reference.pdf": [
-            "General Information",
-            "Minimum technical requirements",
-            "Description of deliverables",
-            "Delivery, warranty and after sales support",
-            "Deliverables acceptance procedures",
-            "Implementation of the FWC"
-        ],
-        "8556 - EN-Annex II Technical specifications.pdf": [
-            "Background information",
-            "Subject",
-            "Description of the services and supplies",
-            "Contract implementation"
-        ]
+        "2062 - EN-Annex II - TS_ENG.pdf": {
+            "sections": {
+                "Scope": null,
+                "Voice and data services": null,
+                "Phones and tablets": null
+            },
+            "selected_sections": [
+                "s"
+            ]
+        },
+        "2078 - EN-Annex II Terms_of_reference.pdf": {
+            "sections": {
+                "General Information": null,
+                "Scope": null,
+                "Required services": null,
+                "Acceptance criteria": null,
+                "Contract Implementation": null
+            },
+            "selected_sections": [
+                "s"
+            ]
+        },
+        "2102 - EN-Annex II_Terms of Reference_OP_979_2016_RS.pdf": {
+            "sections": {
+                "General Information": null,
+                "Scope": null,
+                "Required services": null,
+                "Acceptance criteria and ship visits": null,
+                "Contract Implementation": null,
+                "Appendixes": null
+            },
+            "selected_sections": [
+                "s"
+            ]
+        },
+        "2223 - EN-Annex II_TOR_726.pdf": {
+            "sections": {
+                "Terms and Definitions": null,
+                "Objectives": null,
+                "Background": null,
+                "Stakeholders": null,
+                "Context": null,
+                "Scope": null,
+                "General Requirements": null,
+                "Specific Requirements": null,
+                "Implementation of FWC": null,
+                "Proposal": null,
+                "Evaluation": null,
+                "Appendices": null
+            },
+            "selected_sections": [
+                "s"
+            ]
+        },
+        "2323 - EN-Annex I - Additiona Information to Candidates_159.pdf": {
+            "sections": {
+                "General Information on Frontex": null,
+                "Selected procedure: restricted procedure": null,
+                "Eligibility": null,
+                "Penalties": null,
+                "Legal  form  to  be  taken  by  the  group  of  economic  operators  to  whom  the": null,
+                "Other particular conditions": "Performance of the contract may involve access to information classified RESTREINT UE.",
+                "Sub-contracting": null,
+                "Cost of preparing applications": null,
+                "Misrepresentation and corruptive practices": null,
+                "Confidentiality and public access to documents": null,
+                "Subject of the tender": null,
+                "Variants": null,
+                "Type of contract": null,
+                "Location and duration": null,
+                "Form and content of the application": null,
+                "Evaluation of applications": null,
+                "Exclusion Criteria": null,
+                "Selection Criteria": null,
+                "Opening of the requests to participate": null,
+                "Assessment of the candidatures": null
+            },
+            "selected_sections": [
+                "s"
+            ]
+        },
+        "_comment_2323": "All sections are subsections, because it's all contained in two quite nondescript main sections. 'Other particular conditions'-> 'Performance of the contract may involve access to information classified RESTREINT UE.' to find the right section.",
+        "2367 - EN-Annex II_Terms of Reference_OP_141_2017_RS.pdf": {
+            "sections": {
+                "Background": null,
+                "Objectives of the tender": null,
+                "Scope": null,
+                "Area of Interest (AOI)": null,
+                "List of Deliverables": null,
+                "Scope of the obligatory tasks & services": null,
+                "Additional tasks & services - non-functional requirements": null,
+                "Contract implementation": null,
+                "Prices": null,
+                "Appendixes": null
+            },
+            "selected_sections": [
+                "s"
+            ]
+        },
+        "2377 - EN-Annex II_ToR_250.pdf": {
+            "sections": {
+                "General Information": null,
+                "Objectives": null,
+                "Required deliverables": null,
+                "Contract Implementation": null,
+                "Appendixes": null
+            },
+            "selected_sections": [
+                "s"
+            ]
+        },
+        "2558 - EN-Annex II Terms of Reference.pdf": {
+            "sections": {
+                "Acronyms and Definitions": null,
+                "Introduction to Frontex": null,
+                "Subject": null,
+                "Description of the assignment and lots": null,
+                "Minimum technical requirements": null,
+                "Quality and acceptance criteria": null,
+                "Implementation of FWC": null
+            },
+            "selected_sections": [
+                "s"
+            ]
+        },
+        "2570 - EN-Annex II Technical specifications amended.pdf": {
+            "sections": {
+                "Specific information": null,
+                "Ordering and delivery": null
+            },
+            "selected_sections": [
+                "s"
+            ]
+        },
+        "2641 - EN-Annex II Technical specifications.pdf": {
+            "sections": {
+                "General information": null,
+                "Scope of services": null,
+                "Requirements": null
+            },
+            "selected_sections": [
+                "s"
+            ]
+        },
+        "2662 - EN-Annex II Terms of Reference.pdf": {
+            "sections": {
+                "General information": null,
+                "Contract implementation": null,
+                "Underperformance": null,
+                "Obligation to perform": null
+            },
+            "selected_sections": [
+                "s"
+            ]
+        },
+        "2769 - EN-Annex II ToR Catania.pdf": {
+            "sections": {
+                "BACKGROUND INFORMATION": null,
+                "TECHNICAL DESCRIPTION": null,
+                "PAYMENTS AND INVOICING": null
+            },
+            "selected_sections": [
+                "s"
+            ]
+        },
+        "2799 - EN-Annex II_ToR_OP_638_2017_RS.pdf": {
+            "sections": {
+                "GENERAL INFORMATION ABOUT FRONTEX": null,
+                "BACKGROUND": null,
+                "DESCRIPTION OF THE ASSIGNMENT": null,
+                "TYPE OF CONTRACT": null,
+                "DEFINITIONS": null,
+                "SERVICES TO BE DELIVERED": null,
+                "DELIVERABLES": null,
+                "PROFFESSIONAL PROFILES AND EXPERTISE": null,
+                "TECHNICAL RESOURCES": null,
+                "PROJECT MANAGEMENT": null
+            },
+            "selected_sections": [
+                "s"
+            ]
+        },
+        "2897 - EN-Annex II_Terms of Reference.pdf": {
+            "sections": {
+                "Acronyms, Terms and Definitions": null,
+                "Background": null,
+                "Purpose and scope": null,
+                "Description of services and deliverables": null
+            },
+            "selected_sections": [
+                "s"
+            ]
+        },
+        "2906 - EN-Annex II_Terms of Reference_796.pdf": {
+            "sections": {
+                "Acronyms": null,
+                "Introduction to Frontex": null,
+                "General Information": null,
+                "Scope of the FWC and Lots": null,
+                "Minimal Technical requirements": null,
+                "Delivery, training, warranty and maintenance": null,
+                "Quality monitoring and acceptance procedures": null,
+                "Implementation of FWC": null
+            },
+            "selected_sections": [
+                "s"
+            ]
+        },
+        "2942 - EN-Annex II  Terms of reference.pdf": {
+            "sections": {
+                "General Information": null,
+                "Aim of the contract": null,
+                "Required deliverables": null,
+                "Contract Implementation": null,
+                "Appendixes": null
+            },
+            "selected_sections": [
+                "s"
+            ]
+        },
+        "2945 - EN-Annex I - Tender Specifications.pdf": {
+            "sections": {
+                "Terms and Definitions": null,
+                "Scope and Objectives": null,
+                "Introduction to Frontex": null,
+                "Description of the Tender": null,
+                "Implementation": null,
+                "Terms of Reference": null,
+                "Award of the contract": null
+            },
+            "selected_sections": [
+                "s"
+            ]
+        },
+        "2947 - EN-Annex II Terms of reference amended.pdf": {
+            "sections": {
+                "Introduction": null,
+                "The Problem": null,
+                "General description": null,
+                "Service to be evaluated": null,
+                "Contract implementation": null,
+                "Deliverables": null,
+                "Quality requirements": null,
+                "Experts": null,
+                "Reporting and Meetings": null,
+                "Intellectual property rights and Disclaimer": null
+            },
+            "selected_sections": [
+                "s"
+            ]
+        },
+        "2949 - EN-Annex II_ToR Deployable facilities ENG.pdf": {
+            "sections": {
+                "General Information": null,
+                "Background information": null,
+                "Scope": null,
+                "Required services": null,
+                "Contract Implementation": null,
+                "Appendixes": null
+            },
+            "selected_sections": [
+                "s"
+            ]
+        },
+        "2956 - EN-Annex II_Terms_of_Reference_OP_852_2017_RS.pdf": {
+            "sections": {
+                "Acronyms and Definitions": null,
+                "Introduction to Frontex": null,
+                "Subject": null,
+                "Description of the assignment": null,
+                "Minimum technical requirements": null,
+                "Quality monitoring and acceptance procedures": null,
+                "Implementation of FWC": null
+            },
+            "selected_sections": [
+                "s"
+            ]
+        },
+        "2958 - EN-Annex II_841_Terms of reference.pdf": {
+            "sections": {
+                "LIST OF ABBREVIATIONS": "BG",
+                "FRONTEX AND ITS MISSION": null,
+                "BORDER AND COAST GUARD TRAINING": null,
+                "FRONTEX\u2019 STRATEGIC OBJECTIVES IN THE FIELD OF TRAINING AND EDUCATION OF BORDER GUARDS": "To fulfil the mission based on the principles outlined above",
+                "FRONTEX TRAINING": "In  order  to  ensure  highest  extent  of  outreach  and  to  implement  cost-effective  ways  of  educational",
+                "CURRENT SITUATION AND THE NEED OF THE EXTERNAL SERVICES": null,
+                "DESCRIPTION OF THE ASSIGNMENT": null,
+                "REQUESTED SERVICES": "The Contractor is expected to perform the following tasks (within the inter-related components):",
+                "DELIVERABLES/EXPECTED RESULTS:": null,
+                "DEADLINES": null,
+                "SERVICE REQUIREMENTS": null,
+                "LOCATION AND DURATION": null
+            },
+            "selected_sections": [
+                "s"
+            ]
+        },
+        "_comment_2958": "'LIST OF ABBREVIATIONS' -> 'BG' to find the right section. 'FRONTEX\u2019 STRATEGIC OBJECTIVES IN THE FIELD OF TRAINING AND EDUCATION OF BORDER GUARDS' -> 'FRONTEX\u2019 STRATEGIC OBJECTIVES IN THE FIELD OF TRAINING AND EDUCATION OF BORDER' to find the right section.",
+        "2978 - EN-Annex II ToR.pdf": {
+            "sections": {
+                "Description of the services required": null,
+                "Acceptance criteria": null,
+                "Contractual Information and Requirements": null,
+                "Methodologies, best practices and standards": null,
+                "Transparency and handover": null,
+                "Language": null,
+                "Proposal": null,
+                "Technical Proposal": null
+            },
+            "selected_sections": [
+                "s"
+            ]
+        },
+        "2998 - EN-Annex II  Terms of reference.pdf": {
+            "sections": {
+                "Nature and object of the contract": null,
+                "Frontex premises": null,
+                "Current situation": null,
+                "Paint": null,
+                "Volume of work": null,
+                "Organization of work": null,
+                "Scope of services": null,
+                "Contractor\u2019s liability and additional information": null
+            },
+            "selected_sections": [
+                "s"
+            ]
+        },
+        "3034 - EN-Annex II part A - ToR - List of equipment.pdf": {
+            "sections": {
+                "Introduction": null,
+                "Equipment to be supported with reactive and proactive services": "Equipment to be supported with reactive and proactive services \n\nUnit Name",
+                "Equipment to be supported with proactive services": null
+            },
+            "selected_sections": [
+                "s"
+            ]
+        },
+        "3058 - EN-Annex II Technical specifications amended.pdf": {
+            "sections": {
+                "Subject": null,
+                "Frontex premises and staff growth": null,
+                "Interior design concept": null,
+                "Layouts": null,
+                "Quantities to be delivered": null,
+                "Delivery and installation": null,
+                "Insurance and liability for damages": null,
+                "Project management": null,
+                "Warranty": null,
+                "Post-sales services": null,
+                "Quality requirements": null
+            },
+            "selected_sections": [
+                "s"
+            ]
+        },
+        "3080 - EN-Annex II - ToR.pdf": {
+            "sections": {
+                "Background and context": null,
+                "Description of the tender": null,
+                "Administrative Information": null
+            },
+            "selected_sections": [
+                "s"
+            ]
+        },
+        "3346 - EN-Annex II_Terms of Reference.pdf": {
+            "sections": {
+                "Acronyms and Definitions": null,
+                "Introduction to Frontex": null,
+                "General Information": null,
+                "Scope of the FWC and Lots": null,
+                "Minimal technical requirements": null,
+                "Delivery, training, warranty and maintenance": null,
+                "Quality monitoring and acceptance procedures": null,
+                "Implementation of FWC": null
+            },
+            "selected_sections": [
+                "s"
+            ]
+        },
+        "3361 - EN-Annex 1 - Tender Specifications.pdf": {
+            "sections": {
+                "Terms and Definitions": null,
+                "Background": null,
+                "Objectives": null,
+                "Introduction to Frontex": null,
+                "Introduction to European Fishery Control Agency - EFCA": null,
+                "Description of the Tender": null,
+                "Implementation of FWC": null,
+                "Terms of Reference": null,
+                "Award of the contract": null
+            },
+            "selected_sections": [
+                "s"
+            ]
+        },
+        "3379 - EN-Annex II_Terms_of_Reference_OP_318_2018_RS.pdf": {
+            "sections": {
+                "Acronyms and Definitions": null,
+                "Introduction to Frontex": null,
+                "Subject": null,
+                "Description of the assignment": null,
+                "Minimum technical requirements": null,
+                "Quality monitoring and acceptance procedures": null,
+                "Implementation of FWC": null
+            },
+            "selected_sections": [
+                "s"
+            ]
+        },
+        "3414 - EN-Annex II  Terms of reference.pdf": {
+            "sections": {
+                "Nature and object of the contract": null,
+                "Frontex premises": null,
+                "Current situation": null,
+                "Paint": null,
+                "Volume of work": null,
+                "Organization of work": null,
+                "Scope of services": null,
+                "Contractor\u2019s liability and additional information": null
+            },
+            "selected_sections": [
+                "s"
+            ]
+        },
+        "3434 - EN-Annex II ToR OPERA ver4.pdf": {
+            "sections": {
+                "Terms and definitions": null,
+                "Objectives": null,
+                "Background": null,
+                "Stakeholders": null,
+                "Context": null,
+                "Scope": null,
+                "General requirements": null,
+                "Specific requirements": null,
+                "Implementation of the Contract": null,
+                "Appendices": null
+            },
+            "selected_sections": [
+                "s"
+            ]
+        },
+        "3437 - EN-Annex II_ToR Deployable facilities 386.pdf": {
+            "sections": {
+                "General Information": null,
+                "Background information": null,
+                "Scope": null,
+                "Required services": null,
+                "Contract Implementation": null,
+                "Appendixes": null
+            },
+            "selected_sections": [
+                "s"
+            ]
+        },
+        "3751 - EN-Annex II Terms of Reference (corrected after QA).pdf": {
+            "sections": {
+                "BACKGROUND": null,
+                "SCOPE OF THE PROJECT:": null,
+                "GENERAL INFORMATION": null,
+                "BUSINESS OBJECTIVE:": null,
+                "DELIVERABLES:": null,
+                "POINTS OF CONTACT WITHIN FRONTEX:": null,
+                "PLANNED TIMING:": null,
+                "ADDITIONAL INFORMATION": null
+            },
+            "selected_sections": [
+                "s"
+            ]
+        },
+        "3860 - EN-Annex II_Terms of Referenece_OP_241_2018_DT.pdf": {
+            "sections": {
+                "General Information": null,
+                "Objective and aim of the contract": null,
+                "Required deliverables": null,
+                "Contract Implementation": null,
+                "Appendixes": null
+            },
+            "selected_sections": [
+                "s"
+            ]
+        },
+        "3868 - EN-Annex II Technical specifications.pdf": {
+            "sections": {
+                "Scope of contract": null,
+                "Quantities": null,
+                "Deliveries": null,
+                "Contract manager": null,
+                "Additional requirements": null
+            },
+            "selected_sections": [
+                "s"
+            ]
+        },
+        "3934 - EN-Annex II_Terms_of_Reference_OP_810_2018_RS.pdf": {
+            "sections": {
+                "Acronyms and Definitions": null,
+                "Introduction to Frontex": null,
+                "Subject": null,
+                "Description of the assignment": null,
+                "Minimum technical requirements": null,
+                "Prices and payment": null
+            },
+            "selected_sections": [
+                "s"
+            ]
+        },
+        "3939 - EN-Annex II Technical specifications.pdf": {
+            "sections": {
+                "Subject": null,
+                "Deliveries": null,
+                "Contract Manager": null,
+                "Items and quantities covered by the contract": null,
+                "Contract implementation": null
+            },
+            "selected_sections": [
+                "s"
+            ]
+        },
+        "3940 - EN-Annex II_ToR_OP_720_2018_RS.pdf": {
+            "sections": {
+                "Background Information": null,
+                "Required Tasks/Services": null,
+                "Deliverables": null,
+                "Schedule": null,
+                "Proposals": null,
+                "Appendices": null
+            },
+            "selected_sections": [
+                "s"
+            ]
+        },
+        "3942 - EN-Annex II_Terms of Reference_OP_735_2018_RS.pdf": {
+            "sections": {
+                "Risk analysis and supporting IT systems": null,
+                "Scope and deliverables": null,
+                "Delivery timeframe": null,
+                "Acceptance Criteria": null
+            },
+            "selected_sections": [
+                "s"
+            ]
+        },
+        "3999 - EN-Annex II Terms of reference.pdf": {
+            "sections": {
+                "Table of Contents": null,
+                "Background information": null,
+                "Services required": null,
+                "Contract implementation": null
+            },
+            "selected_sections": [
+                "s"
+            ]
+        },
+        "4005 - EN-Annex II Terms of Reference FWC Courier services.pdf": {
+            "sections": {
+                "General Information": null,
+                "Requested services": null,
+                "Shipping forecast": null,
+                "Frontex Contact for Contractor": null
+            },
+            "selected_sections": [
+                "s"
+            ]
+        },
+        "4030 - EN-Annex II - ToR.pdf": {
+            "sections": {
+                "Introduction": null,
+                "The Problem": null,
+                "Participation in the tender procedure": null,
+                "General Description": null,
+                "Budget": null,
+                "Assignment": null,
+                "Deliverables": null,
+                "Venue": null,
+                "Working environment and conditions": null,
+                "Experts description": null,
+                "Reporting and Meetings": null
+            },
+            "selected_sections": [
+                "s"
+            ]
+        },
+        "4033 - EN-Annex II - ToR.pdf": {
+            "sections": {
+                "NATURE AND SUBJECT OF THE CONTRACT": null,
+                "BACKGROUND INFORMATION": null,
+                "DESCRIPTION OF REQUIRED SERVICES": null
+            },
+            "selected_sections": [
+                "s"
+            ]
+        },
+        "4038 - EN-Annex I - Tender Specifications.pdf": {
+            "sections": {
+                "Terms and Definitions": null,
+                "Background": null,
+                "Objectives": null,
+                "Introduction to Frontex": null,
+                "Introduction to European Fisheries Control Agency - EFCA": null,
+                "Description of the Tender": null,
+                "Implementation of FWC": null,
+                "Terms of Reference": null,
+                "Award of the contract": null
+            },
+            "selected_sections": [
+                "s"
+            ]
+        },
+        "4052 - EN-Annex II Terms of Reference.pdf": {
+            "sections": {
+                "General information": null,
+                "Scope of the services": null,
+                "Ordering and invoicing": null
+            },
+            "selected_sections": [
+                "s"
+            ]
+        },
+        "4118 - EN-Annex II_Terms of Reference_OP_795_2018_RS.pdf": {
+            "sections": {
+                "Acronyms": null,
+                "Introduction to Frontex": null,
+                "General Information": null,
+                "Scope of the FWC and Lots": null,
+                "Minimum technical requirements": null,
+                "Delivery, training, warranty and maintenance": null,
+                "Quality monitoring and acceptance procedures": null,
+                "Implementation of FWC": null
+            },
+            "selected_sections": [
+                "s"
+            ]
+        },
+        "4134 - EN-Annex II_Terms of Reference_OP_1231_2018_RS.pdf": {
+            "sections": {
+                "GENERAL INFORMATION ABOUT FRONTEX": null,
+                "BACKGROUND": null,
+                "SUBJECT OF THE CONTRACT": null,
+                "TYPE OF CONTRACT": null,
+                "DESCRIPTION OF TASKS": null,
+                "HUMAN RESOURCES": null,
+                "TECHNICAL RESOURCES": null,
+                "DELIVERABLES": null,
+                "ESTIMATED AMOUNT OF WORK": null,
+                "PROJECT MANAGEMENT": null
+            },
+            "selected_sections": [
+                "s"
+            ]
+        },
+        "4186 - EN-Annex II_Terms of Reference_OP_1262_2018_RS.pdf": {
+            "sections": {
+                "Risk analysis and supporting IT systems": null,
+                "Scope and deliverables": null,
+                "Delivery timeframe": null,
+                "Acceptance Criteria": null
+            },
+            "selected_sections": [
+                "s"
+            ]
+        },
+        "4255 - EN-Annex II Terms of Reference.pdf": {
+            "sections": {
+                "General information": null,
+                "Scope of the services": null,
+                "Requirements in regards to the Travel Agency": null,
+                "Reporting and Quality Monitoring": null,
+                "Underperformance": null,
+                "Communication language": null
+            },
+            "selected_sections": [
+                "s"
+            ]
+        },
+        "4333 - EN-Annex II Terms of reference.pdf": {
+            "sections": {
+                "Table of Contents": null,
+                "Background information": null,
+                "Services required": null,
+                "Contract implementation": null
+            },
+            "selected_sections": [
+                "s"
+            ]
+        },
+        "4425 - EN-Annex II_Terms of Reference_OP_1164_2018_RS.pdf": {
+            "sections": {
+                "Acronyms": null,
+                "Introduction to Frontex": null,
+                "Subject": null,
+                "General Requirements": null,
+                "Implementation of FWC (applicable to all Lots)": null
+            },
+            "selected_sections": [
+                "s"
+            ]
+        },
+        "4428 - EN-Annex II_Terms of Reference_OP_33_2019_RS.pdf": {
+            "sections": {
+                "Background": null,
+                "Purpose": null,
+                "Scope": null,
+                "Description of services": null,
+                "Conditions for service delivery": null,
+                "Acceptance criteria and ship visits": null,
+                "Contract Implementation": null,
+                "Appendixes": null
+            },
+            "selected_sections": [
+                "s"
+            ]
+        },
+        "4492 - EN-ANNEX I Tender specifications_EN.pdf": {
+            "sections": {
+                "General Information": null,
+                "Specific Information": null,
+                "Evaluation of offers": null
+            },
+            "selected_sections": [
+                "s"
+            ]
+        },
+        "4538 - EN-Annex II Terms of Reference_OP_1417_2018_DT.pdf": {
+            "sections": {
+                "Acronyms and Definitions": null,
+                "Background": null,
+                "Subject": null,
+                "Description of the services": null,
+                "Minimum quality requirements": null,
+                "Contract management personnel": null,
+                "Safety & Security Requirements": null,
+                "Quality and Acceptance criteria": null,
+                "Implementation of Framework Contract": null,
+                "Indicative Budget": null,
+                "Prices and payments": null,
+                "Underperformance, Language and Cancellation Policy": null,
+                "List of Appendixes": null
+            },
+            "selected_sections": [
+                "s"
+            ]
+        },
+        "4558 - EN-Annex II_Terms of Reference_OP_1499_2018_RS.pdf": {
+            "sections": {
+                "Background and context": null,
+                "Description and Scope of the tender": null
+            },
+            "selected_sections": [
+                "s"
+            ]
+        },
+        "4612 - EN-Annex II Terms of reference.pdf": {
+            "sections": {
+                "Background information": null,
+                "Contract objective": null,
+                "Staff": null,
+                "Technical arrangements": null,
+                "Transportation arrangements": null,
+                "Hotel accommodation arrangements": null,
+                "Car rental arrangements": null,
+                "Assistance in obtaining visas": null,
+                "Hotline services": null,
+                "Information management": null,
+                "Contract implementation": null
+            },
+            "selected_sections": [
+                "s"
+            ]
+        },
+        "4688 - EN-Annex II Terms of Reference final.pdf": {
+            "sections": {
+                "Acronyms, Terms and Definitions": null,
+                "Background": null,
+                "Purpose and scope": null,
+                "Description of services and deliverables": null,
+                "Prices and payment": null
+            },
+            "selected_sections": [
+                "s"
+            ]
+        },
+        "4735 - EN-Annex II - Terms of Reference.pdf": {
+            "sections": {
+                "General Information": null,
+                "Background information": null,
+                "Scope": null,
+                "Required mandatory services": null,
+                "Contract Implementation": null,
+                "Appendixes": null
+            },
+            "selected_sections": [
+                "s"
+            ]
+        },
+        "4738 - EN-Annex II Terms of Reference.pdf": {
+            "sections": {
+                "Acronyms, Terms and Definitions": null,
+                "Introduction to Frontex": null,
+                "Subject": null,
+                "Description of services to be provided - mandatory requirements": "4. \n\nDescription  of  services  to  be  provided  -  mandatory \nrequirements",
+                "Implementation of FWC Requirements": null
+            },
+            "selected_sections": [
+                "s"
+            ]
+        },
+        "5049 - EN-Annex II Terms of Reference.pdf": {
+            "sections": {
+                "Background information": null,
+                "Scope of contract": null,
+                "Place of performance": null,
+                "Language requirements": null,
+                "Security": null,
+                "Number and duration of events": null,
+                "Number of participants": null,
+                "Equipment": null,
+                "Profile of interpreters": null,
+                "Replacement of interpreters": null,
+                "Coordination": null,
+                "Costs": null,
+                "Implementation of the framework contract": null,
+                "Cancellations and changes in the orders": null
+            },
+            "selected_sections": [
+                "s"
+            ]
+        },
+        "5051 - EN-Annex II Terms of reference.pdf": {
+            "sections": {
+                "Background information": null,
+                "Contractual information": null,
+                "Scope of the contract": null,
+                "Contract implementation": null,
+                "Protection of personal data": null,
+                "Working arrangement of interim personnel including public holidays": "6.  Working  arrangement  of  interim  personnel  including  public \n\nholidays",
+                "Temporary absence of the interim personnel and replacement procedures": "7.  Temporary  absence  of  the  interim  personnel  and  replacement \n\nprocedures \n\nInterim personnel who is temporarily",
+                "Dress code and a code of conduct of interim personnel": null,
+                "Contact person": null,
+                "Rights and entitlements": null
+            },
+            "selected_sections": [
+                "s"
+            ]
+        },
+        "5176 - EN-Annex II ToR 679_2019.pdf": {
+            "sections": {
+                "General Information": null,
+                "Background information": null,
+                "Scope": null,
+                "Required mandatory services": null,
+                "Contract Implementation": null,
+                "Appendixes": null
+            },
+            "selected_sections": [
+                "s"
+            ]
+        },
+        "5186 - EN-Annex II_Terms of Reference_OP_221_2019_RS.pdf": {
+            "sections": {
+                "Acronyms": null,
+                "Introduction to Frontex": null,
+                "General Information": null,
+                "Scope of the FWC": null,
+                "Minimal Technical requirements - Heart Beat Detectors (HBD)": "5.  Minimal  Technical  requirements  -  Heart  Beat  Detectors \n\n(HBD)",
+                "Delivery, training, warranty and maintenance": null,
+                "Quality monitoring and acceptance procedures": null,
+                "Implementation of FWC": null
+            },
+            "selected_sections": [
+                "s"
+            ]
+        },
+        "5257 - EN-Annex II_Terms of Reference_OP_48_2019_RS.pdf": {
+            "sections": {
+                "Acronyms": null,
+                "Introduction to Frontex": null,
+                "General Information": null,
+                "Scope of the FWC and Lots": null,
+                "Minimum technical requirements": null,
+                "Delivery, training, warranty and maintenance": null,
+                "Quality monitoring and acceptance procedures": null,
+                "Implementation of FWC": null
+            },
+            "selected_sections": [
+                "s"
+            ]
+        },
+        "5317 - EN-Annex II Terms of reference.pdf": {
+            "sections": {
+                "Terms and Definitions": null,
+                "Subject and General Information": null,
+                "Scope of Services": null,
+                "General requirements": null
+            },
+            "selected_sections": [
+                "s"
+            ]
+        },
+        "5334 - EN-Annex II Terms of reference.pdf": {
+            "sections": {
+                "Background information": null,
+                "Contractual information": null,
+                "Scope of the contract": null,
+                "Contract implementation": null,
+                "Protection of personal data": null,
+                "Working arrangement of interim personnel including public holidays": "6.  Working  arrangement  of  interim  personnel  including  public \n\nWorking hours of interim personnel",
+                "Temporary absence of the interim personnel and replacement procedures": "7.  Temporary  absence  of  the  interim  personnel  and  replacement \n\nprocedures \n\n",
+                "Dress code and a code of conduct of interim personnel": null,
+                "Contact person": null,
+                "Rights and entitlements": null
+            },
+            "selected_sections": [
+                "s"
+            ]
+        },
+        "5352 - EN-Annex II - OP300 TOR v.2.pdf": {
+            "sections": {
+                "Terms and Definitions": null,
+                "Objectives": null,
+                "Background": null,
+                "Stakeholders": null,
+                "Description of the current and target states": null,
+                "Scope": null,
+                "General Requirements": null,
+                "Specific Requirements": null,
+                "Implementation of FWC": null,
+                "Appendices": null
+            },
+            "selected_sections": [
+                "s"
+            ]
+        },
+        "5357 - EN-Annex II Terms of Reference 561_2019.pdf": {
+            "sections": {
+                "Acronyms and Definitions": null,
+                "Background": null,
+                "Subject": null,
+                "Description of the services/ Lots": null,
+                "Subject of the Framework contract": null,
+                "Minimum Requirements": null,
+                "Implementation of the Framework Contract": null,
+                "Indicative Budget": null,
+                "Payments Terms": null,
+                "Administrative information": null,
+                "List of Appendixes": null
+            },
+            "selected_sections": [
+                "s"
+            ]
+        },
+        "5360 - EN-Annex II - Terms of Reference OP308.pdf": {
+            "sections": {
+                "Terms and definitions": null,
+                "General Information": null,
+                "Scope of Services": null,
+                "Specific Requirements": null,
+                "General requirements": null,
+                "Appendices": null
+            },
+            "selected_sections": [
+                "s"
+            ]
+        },
+        "5405 - EN-Annex II_Terms of Reference.pdf": {
+            "sections": {
+                "Acronyms and Definitions": null,
+                "Introduction to Frontex": null,
+                "Subject": null,
+                "Description of the assignment": null,
+                "Minimum technical requirements": null,
+                "Quality and acceptance criteria": null,
+                "Implementation of FWC": null
+            },
+            "selected_sections": [
+                "s"
+            ]
+        },
+        "5444 - EN-Annex I - Tender Specifications.pdf": {
+            "sections": {
+                "Terms and Definitions": null,
+                "Scope and Objectives": null,
+                "Introduction to Frontex": null,
+                "Description of the Tender": null,
+                "Implementation": null,
+                "Terms of Reference": null,
+                "Award of the contract": null
+            },
+            "selected_sections": [
+                "s"
+            ]
+        },
+        "5471 - EN-Annex II Terms of Reference_OP_534_2019_DT.pdf": {
+            "sections": {
+                "Background": null,
+                "Description of services": null,
+                "Contract management personnel": null,
+                "Minimum quality requirements": null,
+                "Safety & Security Requirements": null,
+                "Implementation of Framework Contract": null,
+                "Intellectual property rights": null,
+                "Confidentiality and public access to documents": null,
+                "Indicative Budget": null,
+                "Language": null,
+                "Other": null,
+                "List of Appendixes": null
+            },
+            "selected_sections": [
+                "s"
+            ]
+        },
+        "5489 - EN-Annex II ToR 1142_2019.pdf": {
+            "sections": {
+                "General Information": null,
+                "Background information": null,
+                "Scope": null,
+                "Required mandatory services": null,
+                "Contract Implementation": null,
+                "Appendixes": null
+            },
+            "selected_sections": [
+                "s"
+            ]
+        },
+        "5600 - EN-Annex II Terms of Reference.pdf": {
+            "sections": {
+                "General Information": null,
+                "Subject and Background": null,
+                "Acceptance and payments": null,
+                "General Requirements": null,
+                "Implementation of the FWC": null
+            },
+            "selected_sections": [
+                "s"
+            ]
+        },
+        "5628 - EN-Annex II - TOR.pdf": {
+            "sections": {
+                "BACKGROUND": "1.BACKGROUND \n\nSubject: Remote assessment of English",
+                "DESCRIPTION OF THE ASSIGNMENT": "2.DESCRIPTION OF THE ASSIGNMENT  \n\nThe aim of this Call",
+                "REQUESTED SERVICES": "3.REQUESTED SERVICES  \n\n \n\nThe service pro",
+                "DELIVERABLES/EXPECTED RESULTS:": "4.DELIVERABLES/EXPECTED RESULTS: \n\n \n\nApproximately",
+                "SERVICE REQUIREMENTS": "5.SERVICE REQUIREMENTS  \n\nSeparate administr",
+                "LOCATION AND DURATION": "6.LOCATION AND DURATION \n\nStarting period",
+                "DATA PROTECTION": "7.DATA PROTECTION  \n\nThe  Contract",
+                "IMPLEMENTATION OF THE FWC": "8.IMPLEMENTATION OF THE FWC  \n\nOrdering pro",
+                "ACCEPTANCE CRITERIA": "9.ACCEPTANCE CRITERIA \n\nTimeliness",
+                "SERVICE LEVEL AGREEMENT": null
+            },
+            "selected_sections": [
+                "s"
+            ]
+        },
+        "5720 - EN-Annex II Terms of Reference.pdf": {
+            "sections": {
+                "Acronyms and definitions": null,
+                "Introduction to Frontex": null,
+                "Subject": null,
+                "Required Deliverables": null,
+                "Implementation of FWC": null,
+                "Quality monitoring and acceptance procedures": null,
+                "List of Appendixes": null
+            },
+            "selected_sections": [
+                "s"
+            ]
+        },
+        "5835 - EN-Annex II Technical specifications.pdf": {
+            "sections": {
+                "Product specification and quality standards": null,
+                "Estimated quantities": null,
+                "Packaging": null,
+                "Delivery": null,
+                "Invoicing": null
+            },
+            "selected_sections": [
+                "s"
+            ]
+        },
+        "5841 - EN-Annex II Terms of reference.pdf": {
+            "sections": {
+                "Introduction and background information": null,
+                "Scope of the services": null,
+                "Contractor\u2019s staff": null,
+                "Replacement": null,
+                "Language": null,
+                "Contract implementation": null,
+                "Payments": null,
+                "List of appendixes:": null
+            },
+            "selected_sections": [
+                "s"
+            ]
+        },
+        "5928 - EN-Annex I - Additiona Information to Candidates_final.pdf": {
+            "sections": {
+                "General Information on Frontex": null,
+                "Selected procedure: restricted procedure": null,
+                "Eligibility": null,
+                "Penalties": null,
+                "Legal form to be taken by the group of economic operators to whom the contract is to be awarded:": "I.4  Legal  form  to  be  taken  by  the  group  of  economic  operators  to  whom  the \ncontract is to be awarded: ",
+                "Other particular conditions": "Other particular conditions \n\nI.4 \nIn  principle",
+                "Sub-contracting": null,
+                "Cost of preparing applications": null,
+                "Misrepresentation and corruptive practices": null,
+                "Confidentiality and public access to documents": null,
+                "Subject of the tender": null,
+                "Background": null,
+                "Description": null,
+                "Timeline": null,
+                "Budget": null,
+                "Variants": null,
+                "Type of contract": null,
+                "Location and duration": null,
+                "Form and content of the application": null,
+                "Evaluation of applications": null,
+                "Exclusion Criteria": null,
+                "Selection Criteria": null,
+                "Opening of the requests to participate": null,
+                "Assessment of the candidatures": null
+            },
+            "selected_sections": [
+                "s"
+            ]
+        },
+        "5963 - EN-Annex II-OP301 Terms of Reference.pdf": {
+            "sections": {
+                "Terms and definitions": null,
+                "Objectives": null,
+                "Description of the service coverage": null,
+                "Mode of supply of services": null,
+                "General requirements": null,
+                "Personnel": null,
+                "Implementation of FWC": null,
+                "Appendices": null
+            },
+            "selected_sections": [
+                "s"
+            ]
+        },
+        "6020 - EN-Annex I-Guide for Candidates RP1485 ver.4.pdf": {
+            "sections": {
+                "Summary": null,
+                "Terms, acronyms and abbreviations": null,
+                "General information": null,
+                "Specific information": null,
+                "Assessment of candidatures": null,
+                "List of Profiles": null,
+                "References": null
+            },
+            "selected_sections": [
+                "s"
+            ]
+        },
+        "6300 - EN-Annex II ToR_213.pdf": {
+            "sections": {
+                "General objective": null,
+                "Contractual scope and division into lots": null,
+                "Contract Signature and duration": null,
+                "Language requirements": null,
+                "Native speakers": null,
+                "Placement tests": null,
+                "Group level": null,
+                "Reporting": null,
+                "Course Plan": null,
+                "Certificate of completion": null,
+                "Testing": null,
+                "Frontex\u2019 right to influence the course": null,
+                "Replacement of teachers": null,
+                "Cancellations": null,
+                "Timing of the classes": null,
+                "Group size": null,
+                "Number of the groups": null,
+                "Terms": null,
+                "Learning materials": null,
+                "Place of provision of services": null,
+                "Course coordinator": null,
+                "Assistance in preparation to internationally recognized exams": null
+            },
+            "selected_sections": [
+                "s"
+            ]
+        },
+        "6323 - EN-Annex II_Terms_of_Reference 91_2020.pdf": {
+            "sections": {
+                "Acronyms, Terms and Definitions": null,
+                "Introduction to Frontex": null,
+                "Subject": null,
+                "Scope of the Contract": null,
+                "Scope of requested services": null,
+                "Indicative Budget": null,
+                "Implementation of FWC Requirements": null
+            },
+            "selected_sections": [
+                "s"
+            ]
+        },
+        "6428 - EN-Annex II Terms of Reference.pdf": {
+            "sections": {
+                "Background information": null,
+                "Objective and scope of the contract": null,
+                "Place of delivery": null,
+                "Services covered by the contractor": null,
+                "Specific requirements by the contractor": null
+            },
+            "selected_sections": [
+                "s"
+            ]
+        },
+        "6460 - EN-Annex II Technical specifications.pdf": {
+            "sections": {
+                "Acronyms and Definitions": null,
+                "Introduction to Frontex": null,
+                "General Information": null,
+                "Scope of the FWC and Lots": null,
+                "Minimal technical requirements": null,
+                "Delivery, training, warranty and maintenance": null,
+                "Quality monitoring and acceptance procedures": null,
+                "Implementation of FWC": null
+            },
+            "selected_sections": [
+                "s"
+            ]
+        },
+        "6900 - EN-2. Annex 02_Terms of Reference 451_2020.pdf": {
+            "sections": {
+                "General Information": null,
+                "Subject and Background": null,
+                "Specific Requirements": null,
+                "General Requirements": null,
+                "Implementation of the FWC": null
+            },
+            "selected_sections": [
+                "s"
+            ]
+        },
+        "6954 - EN-Annex II_1 Terms of Reference EES Land Bulgaria.pdf": {
+            "sections": {
+                "Background and context": null,
+                "Objectives": null,
+                "Requirements": null,
+                "Work plan and methodology": null
+            },
+            "selected_sections": [
+                "s"
+            ]
+        },
+        "6982 - EN-Annex 02_ToR TF Biometrics for Future of Travel.pdf": {
+            "sections": {
+                "General Information": null,
+                "Subject and Background": null,
+                "Specific Requirements": null,
+                "General Requirements": null,
+                "Implementation of the Contract": null
+            },
+            "selected_sections": [
+                "s"
+            ]
+        },
+        "7009 - EN-Annex II Terms of Reference.pdf": {
+            "sections": {
+                "Background Information": null,
+                "Scope and deliverables": null,
+                "Acceptance Criteria": null,
+                "Language": null,
+                "Ordering and Payments": null,
+                "Appendices": null
+            },
+            "selected_sections": [
+                "s"
+            ]
+        },
+        "7024 - EN-Annex II_Technical Specifications.pdf": {
+            "sections": {
+                "Terms and Definitions": null,
+                "General Information": null,
+                "Scope of the FWC": null,
+                "Other information": null,
+                "Implementation of FWC": null,
+                "Appendixes": null
+            },
+            "selected_sections": [
+                "s"
+            ]
+        },
+        "7106 - EN-Annex II Terms of Reference.pdf": {
+            "sections": {
+                "Terms and Definitions": null,
+                "Abbreviations": null,
+                "Background": null,
+                "Executive summary": null,
+                "Service Business Model requirements": null,
+                "Technical requirements": null,
+                "Language": null,
+                "Documentation and record retention": null,
+                "Acceptance criteria": null,
+                "Test Campaign": null
+            },
+            "selected_sections": [
+                "s"
+            ]
+        },
+        "7133 - EN-Annex I - Information to Candidates.pdf": {
+            "sections": {
+                "General Information on Frontex": null,
+                "Selected procedure: restricted procedure": null,
+                "Eligibility": null,
+                "Penalties": null,
+                "Legal form to be taken by the group of economic operators to whom the contract is to be awarded:": "I.4  Legal  form  to  be  taken  by  the  group  of  economic  operators  to  whom  the \ncontract is to be awarded: \n \n\nIf candidates intend to",
+                "Other particular conditions": "Other particular conditions \n\nI.4 \nIn  principle",
+                "Sub-contracting": null,
+                "Cost of preparing applications": null,
+                "Misrepresentation and corruptive practices": null,
+                "Confidentiality and public access to documents": null,
+                "Subject of the tender": null,
+                "Background": null,
+                "Description": null,
+                "Budget": null,
+                "Variants": null,
+                "Type of contract": null,
+                "Location and duration": null,
+                "Form and content of the application": null,
+                "Evaluation of applications": null,
+                "Exclusion Criteria": null,
+                "Selection Criteria": null,
+                "Opening of the requests to participate": null,
+                "Assessment of the candidatures": null
+            },
+            "selected_sections": [
+                "s"
+            ]
+        },
+        "7148 - EN-Annex II Terms of Reference Aerostat 2.pdf": {
+            "sections": {
+                "Introduction": null,
+                "The Problem": null,
+                "Participation in the tender procedure": null,
+                "General Description": null,
+                "Budget": null,
+                "Assignment": null,
+                "Deliverables": null,
+                "Venue": null,
+                "Working environment and conditions": null,
+                "Experts description": null,
+                "Reporting and Meetings": null
+            },
+            "selected_sections": [
+                "s"
+            ]
+        },
+        "7191 - EN-Annex II_Terms of Reference_OP_658_2020_RS_final.pdf": {
+            "sections": {
+                "Definitions": null,
+                "General Information": null,
+                "Scope": null,
+                "Subject": null,
+                "Description of the assignment": null,
+                "Requirements": null,
+                "Minimum technical requirements": null,
+                "Technical maintenance for LOT 1 and 2": null,
+                "Quality monitoring and acceptance": null,
+                "Implementation of FWC": null
+            },
+            "selected_sections": [
+                "s"
+            ]
+        },
+        "7202 - EN-2. Annex II_Terms of Reference_OP_551_2020.pdf": {
+            "sections": {
+                "Acronyms and definitions": null,
+                "Introduction to Frontex": null,
+                "Subject": null,
+                "Required Deliverables": null,
+                "Implementation of FWC": null,
+                "Quality monitoring and acceptance procedures": null
+            },
+            "selected_sections": [
+                "s"
+            ]
+        },
+        "7243 - EN-Annex II Terms of Reference.pdf": {
+            "sections": {
+                "Overview": null,
+                "General Terms": null,
+                "Duration": null,
+                "Language": null,
+                "Scope": null,
+                "Composition of the support team": null,
+                "Replacement of experts": null,
+                "Reporting": null
+            },
+            "selected_sections": [
+                "s"
+            ]
+        },
+        "7508 - EN-Annex II_Terms of Reference_OP_767_202_RS.pdf": {
+            "sections": {
+                "Acronyms": null,
+                "Subject": null,
+                "General Requirements": null,
+                "Implementation of the contract": null
+            },
+            "selected_sections": [
+                "s"
+            ]
+        },
+        "7521 - EN-Annex II Technical Specifications_001.pdf": {
+            "sections": {
+                "Acronyms and Definitions": null,
+                "Introduction to Frontex": null,
+                "General Information": null,
+                "Scope of the FWC and Lots": null,
+                "Minimal technical requirements": null,
+                "Delivery, training, warranty and maintenance": null,
+                "Quality monitoring and acceptance procedures": null,
+                "Implementation of FWC": null
+            },
+            "selected_sections": [
+                "s"
+            ]
+        },
+        "7547 - EN-Annex II - Technical Specifications.pdf": {
+            "sections": {
+                "Acronyms": null,
+                "Introduction to Frontex": null,
+                "General Information": null,
+                "Drone, payloads and other equipment": null,
+                "Contract Implementation": null
+            },
+            "selected_sections": [
+                "s"
+            ]
+        },
+        "7773 - EN-OP748 Annex II - Terms of Reference.pdf": {
+            "sections": {
+                "Terms and Definitions": null,
+                "Subject and General Information": null,
+                "Scope of Services": null,
+                "General requirements": null,
+                "Implementation of FWC": null
+            },
+            "selected_sections": [
+                "s"
+            ]
+        },
+        "7863 - EN-Annex II_ToR and Technical Specifications 2020_0058 Service Weapons.pdf": {
+            "sections": {
+                "Acronyms, Terms and Definitions": null,
+                "Purpose and scope": null,
+                "Description of deliverables": null,
+                "Performance of FWC": null,
+                "Deliverables acceptance procedure": null,
+                "LOT 1 - Compact 9x19 mm semi-automatic pistol, accessories and training": "LOT 1 - Compact 9x19 mm semi-automatic pistol, \naccessories and training \n\n2.1. Supplies and",
+                "LOT 2 \u2013 Ammunition": null
+            },
+            "selected_sections": [
+                "s"
+            ]
+        },
+        "7884 - EN-Annex II TOR.pdf": {
+            "sections": {
+                "Objective of the contract": null,
+                "Information on Frontex facilities": null,
+                "Starting date": null,
+                "Scope of the contract": null,
+                "Contractor\u2019s personnel": null
+            },
+            "selected_sections": [
+                "s"
+            ]
+        },
+        "8054 - EN-Annex II_Technical Specifications_OP_50_2021_RS_final.pdf": {
+            "sections": {
+                "General Information": null,
+                "Introduction to Frontex": null,
+                "Minimal technical requirements": null,
+                "Delivery and Training (applicable for both Lots)": null,
+                "Quality monitoring and acceptance procedures": null,
+                "Implementation of FWC": null
+            },
+            "selected_sections": [
+                "s"
+            ]
+        },
+        "8275 - EN-Annex II Terms of Reference 2021_0143.pdf": {
+            "sections": {
+                "INTRODUCTION": null,
+                "PURPOSE": null,
+                "OBJECTIVE": null,
+                "DESCRIPTION OF THE SERVICES AND DELIVERABLES": null,
+                "Location for test administration": null,
+                "Location for Contacts Tracing": null,
+                "Service Delivery Timeframe": null,
+                "Composition and responsibilities of healthcare professionals of the contractor": "8.   Composition and responsibilities of healthcare professionals of \n\nthe contractor",
+                "Data Protection applicable to both Lots": null,
+                "Maximum value of the FWC": null,
+                "Language": null,
+                "Duration of the contract for service delivery": null,
+                "FWC implementation": null,
+                "Payment and invoicing": null,
+                "Appendix 1 \u2013 Acceptance Form": null
+            },
+            "selected_sections": [
+                "s"
+            ]
+        },
+        "8294 - EN-Annex II - Terms of Reference.pdf": {
+            "sections": {
+                "Terms and definitions": null,
+                "Objectives": null,
+                "Background": null,
+                "Description of the service coverage": null,
+                "Mode of supply of services": null,
+                "General requirements": null,
+                "Personnel": null,
+                "Implementation of FWC": null,
+                "Appendices": null
+            },
+            "selected_sections": [
+                "s"
+            ]
+        },
+        "8314 - EN-Annex II_Terms of Reference_OP_234_2021_RS.pdf": {
+            "sections": {
+                "Acronyms and Definitions": null,
+                "Background": null,
+                "Subject": null,
+                "Description of the services": null,
+                "Minimum Quality and Functional Requirements": null,
+                "Frontex data management and dissemination": null,
+                "Compliancy with EU Data Protection Regulation": null,
+                "Intellectual property rights": null,
+                "Confidentiality and classification": null,
+                "Copernicus programme": null,
+                "Contract implementation": null,
+                "Quality and Acceptance criteria": null,
+                "Underperformance and cancellation": null,
+                "List of Appendixes": null
+            },
+            "selected_sections": [
+                "s"
+            ]
+        },
+        "8422 - EN-Annex II_ToR.pdf": {
+            "sections": {
+                "Terms and definitions": null,
+                "Objectives": null,
+                "Scope of the procurement": null,
+                "Scope of Work": null,
+                "General Requirements": null,
+                "Specific Requirements": null,
+                "Appendices": null
+            },
+            "selected_sections": [
+                "s"
+            ]
+        },
+        "8429 - EN-Annex II_Terms of Reference.pdf": {
+            "sections": {
+                "General Information": null,
+                "Minimum technical requirements": null,
+                "Description of deliverables": null,
+                "Delivery, warranty and after sales support": null,
+                "Deliverables acceptance procedures": null,
+                "Implementation of the FWC": null
+            },
+            "selected_sections": [
+                "s"
+            ]
+        },
+        "8556 - EN-Annex II Technical specifications.pdf": {
+            "sections": {
+                "Background information": null,
+                "Subject": null,
+                "Description of the services and supplies": null,
+                "Contract implementation": null
+            },
+            "selected_sections": [
+                "s"
+            ]
+        }
     }
 }
