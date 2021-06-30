@@ -15,6 +15,7 @@ TODO:
 	- update this todo :P
 		- update file structure listing
 		- list required python modules
+		- TENDOC -> CFT
 	- Clean up code
 		- remove dead code
 		- Add comments to code, markdown and functions
